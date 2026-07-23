@@ -1,4 +1,197 @@
 {
-  "schema_version": 1,
-  "agents": {}
+  "agents": {
+    "athena.4j--code": {
+      "artifact_timestamp": "20260710125743",
+      "digest": "8ec441281510e0cc09957bfb3886741e302a3ac583de307fef26c6fd1a406279",
+      "machine": "athena",
+      "name": "athena.4j--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.4l--code": {
+      "artifact_timestamp": "20260710133151",
+      "digest": "54eeb91375d992d349433a8279a45abd5b8681868a9f56705b1b8bc70b562bd5",
+      "machine": "athena",
+      "name": "athena.4l--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.52--code": {
+      "artifact_timestamp": "20260710181852",
+      "digest": "9a6447582b0fbd6a89a6ee4b41f3ab512f75c34bde5f786e329a96bb1ffeacb5",
+      "machine": "athena",
+      "name": "athena.52--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.59--code": {
+      "artifact_timestamp": "20260711075019",
+      "digest": "bddf111dda2b47234e6664c0647dabff3235a99a4792a77d84749847baf887fc",
+      "machine": "athena",
+      "name": "athena.59--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.5e--code": {
+      "artifact_timestamp": "20260711084752",
+      "digest": "408f1b331b9378de56bcca73fd5393ea1f0b39116c4e7ff7902878bc21a1aca6",
+      "machine": "athena",
+      "name": "athena.5e--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.61--code": {
+      "artifact_timestamp": "20260711160900",
+      "digest": "45facfb2981060fc1c50257b222196d0a6bd6d3fdef1b8d42a57d2414970c0e3",
+      "machine": "athena",
+      "name": "athena.61--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.61.f-0--code": {
+      "artifact_timestamp": "20260711163814",
+      "digest": "e789a50e7cd654182585c9ebd8a7714b1f90d8ae092d454a9cf46e315571fdd1",
+      "machine": "athena",
+      "name": "athena.61.f-0--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.61.f-1--code": {
+      "artifact_timestamp": "20260711172010",
+      "digest": "03f7f4ec5347b54517ed6702ac4e0e7bcaf4535316fb69f7ff4d1ecddd85bead",
+      "machine": "athena",
+      "name": "athena.61.f-1--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.6b--code": {
+      "artifact_timestamp": "20260711185308",
+      "digest": "468f30fc516262ed03c6fd976ea5e8ad1dd1df4b0bd69554393881df1254dbda",
+      "machine": "athena",
+      "name": "athena.6b--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.6i--code": {
+      "artifact_timestamp": "20260712083247",
+      "digest": "b1290d7f3ebc31dc54335670339f28f3ca8192b53172482ef3742233f5fc1b2a",
+      "machine": "athena",
+      "name": "athena.6i--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.6i.f-0--code": {
+      "artifact_timestamp": "20260712104353",
+      "digest": "6f532aa3c19898bd94b48520a4c26bd00897fc292f7c87b639379a43c482e25e",
+      "machine": "athena",
+      "name": "athena.6i.f-0--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.7p.f0--code": {
+      "artifact_timestamp": "20260713084134",
+      "digest": "b280fb553ccc052e9db8d64a08e0c6af39b5c320cae688a011e4a4561ea3605c",
+      "machine": "athena",
+      "name": "athena.7p.f0--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.8e--code": {
+      "artifact_timestamp": "20260714081600",
+      "digest": "5d6b57e8814281e2ead25ee3246a9632a5fe4a5545230b70de2a028236d33853",
+      "machine": "athena",
+      "name": "athena.8e--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.8l--code": {
+      "artifact_timestamp": "20260714092952",
+      "digest": "abb870f677ae6d840e06d2316b504c20c3c434e354ea93dba065e440f3a431e8",
+      "machine": "athena",
+      "name": "athena.8l--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.9r--code": {
+      "artifact_timestamp": "20260715170341",
+      "digest": "0352a519138f4777837d62f2c8f53745e2c1dd1704f0a70b5da143ce2c490728",
+      "machine": "athena",
+      "name": "athena.9r--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.9r.f0--code": {
+      "artifact_timestamp": "20260715182905",
+      "digest": "ad18254fc79679ec2654a12fd6365d637d8a3a12d85049a04ec6d78875f5da86",
+      "machine": "athena",
+      "name": "athena.9r.f0--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.9r.f0.f0--code": {
+      "artifact_timestamp": "20260715185734",
+      "digest": "47f70c8255e70e0a30adc1b90d444600d4c16fe288edb4f1380a2a6bd9454268",
+      "machine": "athena",
+      "name": "athena.9r.f0.f0--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.9u--code": {
+      "artifact_timestamp": "20260715180901",
+      "digest": "d2686228ae60d2e0cd966f423c40db2463ef67bb3999a73ea6f50abf0d1ecb01",
+      "machine": "athena",
+      "name": "athena.9u--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.ad.f2--code": {
+      "artifact_timestamp": "20260716112548",
+      "digest": "279d37406546878922edcb27e309d8dde57f780ba91d73b9ae651553a8cab29e",
+      "machine": "athena",
+      "name": "athena.ad.f2--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.am--code": {
+      "artifact_timestamp": "20260716131326",
+      "digest": "9e61a86cfb13282c162750fa3ae9c2f07ef1beddedbb19ecd62a471b585df205",
+      "machine": "athena",
+      "name": "athena.am--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.ao--code": {
+      "artifact_timestamp": "20260716150809",
+      "digest": "519afec9f2f8fbbcb88f11127040fde6536c1f1fcdcd6f51e0325fe5058a7fe8",
+      "machine": "athena",
+      "name": "athena.ao--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.at--code": {
+      "artifact_timestamp": "20260716160940",
+      "digest": "6fa984e81497a8a2bde1584f046c9cddcc61c30ca525ec81caaf93f2dfbbfb37",
+      "machine": "athena",
+      "name": "athena.at--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.ci--code": {
+      "artifact_timestamp": "20260717162056",
+      "digest": "5bf79c9b7f54699396700839c76bbf70c22935fa0527df66eb77446549a34d5f",
+      "machine": "athena",
+      "name": "athena.ci--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    },
+    "athena.hf--code": {
+      "artifact_timestamp": "20260721160025",
+      "digest": "b6c52f48606ef072d1bdac46119a81eaa66b7cdef54f73652ea980ecdfef7aaf",
+      "machine": "athena",
+      "name": "athena.hf--code",
+      "schema_version": 1,
+      "updated_at": "2026-07-23T09:57:52.036298+00:00"
+    }
+  },
+  "schema_version": 1
 }

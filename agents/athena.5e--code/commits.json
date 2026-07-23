@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783774839,
+      "sha": "b6a9b4cdbd3d65530081c20ae9315f4332d55110",
+      "subject": "docs: document project scheduling from lifecycle tasks"
+    }
+  ],
+  "schema_version": 1
+}

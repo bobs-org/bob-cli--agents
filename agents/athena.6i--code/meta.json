@@ -1,0 +1,19 @@
+{
+  "agent_family": "6i",
+  "agent_family_role": "code",
+  "artifact_layout_version": 2,
+  "artifact_timestamp": "20260712083247",
+  "changespec_name": "gh_bobs-org__bob-cli",
+  "cl_name": "gh_bobs-org__bob-cli",
+  "llm_provider": "codex",
+  "machine": "athena",
+  "model": "gpt-5.6-sol",
+  "name": "athena.6i--code",
+  "reasoning_effort": "xhigh",
+  "role_suffix": "--code",
+  "run_started_at": "2026-07-12T12:32:47.247800+00:00",
+  "schema_version": 1,
+  "stopped_at": "2026-07-12T12:48:02.714571+00:00",
+  "vcs_provider": "GitHub",
+  "workflow_name": "6i"
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783860454,
+      "sha": "6e1fd4fe82a022242d35eccfa1ef568b1bab769a",
+      "subject": "feat: normalize Pomodoro session markers"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1784229452,
+      "sha": "8bc5a02f5c46f2f2a4b1c8826dcba37fd621e472",
+      "subject": "fix(task-status-setter): remove canceled reference subtrees"
+    }
+  ],
+  "schema_version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "commits": [
+    {
+      "committed_at": 1783770897,
+      "sha": "e7b1e3a1a3274c5f797e24fc526f0ca927818cc7",
+      "subject": "fix(projects): preserve hidden project task when scheduled"
+    }
+  ],
+  "schema_version": 1
+}
