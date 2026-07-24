@@ -1,0 +1,1 @@
+%name:research.@.image %model:codex/gpt-5.5 %wait:research.5.final %g:research #gh:gh_bobs-org__bob-cli #fork:research.5.final #research/image

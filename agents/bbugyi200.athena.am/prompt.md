@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me make it so the `bob task-status-setter` command removes any pomodoro task block links in open pomodoros in today's daily file that are associated with canceled tasks? #tale

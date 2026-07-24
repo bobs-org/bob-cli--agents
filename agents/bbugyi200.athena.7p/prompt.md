@@ -1,0 +1,3 @@
+#gh:gh_bobs-org__bob-cli When I use the special `^^` functionality in Obsidian to add a block link to a task to a sub-bullet of a pomodoro in my daily file, I would like this functionality to automatically delete any links to the same task that exist in future pomodoros. This new functionality should only be triggered when the task is being added to an open (not closed) pomodoro (not a normal Obsidian task). Can you help me implement this?
+
+#tale

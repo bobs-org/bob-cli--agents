@@ -1,0 +1,16 @@
+# Agent: 6i.f-0
+
+**Global name:** `bbugyi200.athena.6i.f-0` · **State:** active · **Source run:** `run-2c0ef0b16b4fc4241de8c4dd22d100f1`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 6i
+
+## Summary
+
+- Model: gpt-5.6-sol
+- Provider: codex
+- Timing: 2026-07-12T14:37:47.044105+00:00
+- Commits: 1
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)

@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:14 Can you now help me also make it so non-transcluded block links that are the only contents of sub-bullets and point to Obsidian tasks cause those tasks to be marked as in-progress? This should be recursive as well (i.e. if that linked to task links to a non-transcluded Obsidian task, that task should be marked as in-progress too). #plan %a:tale

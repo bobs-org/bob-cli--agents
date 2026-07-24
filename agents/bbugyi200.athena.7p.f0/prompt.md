@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:7p Can you now help me have the `bob mark-next-tasks` command do somethiing similar? Namely, if multiple sub-bullet block links to the same task are found in multiple open pomodoro in today's current daily file, this command should delete the last one found in that file (delete the entire line). #tale

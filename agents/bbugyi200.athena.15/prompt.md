@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me add a new "WIP Tasks" section above the existing "Tasks" section (which should be renamed to "All Tasks" in the ~/bob/dash.md file? This section should contain a single Obsidian tasks query that is identical to the other tasks query except for that it only matches in-progress tasks. #plan %a:tale

@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:bob-cli-9.f-0 Can you install the latest version of bob-cli on this machine and then run that command and then save that markdown output as a sase artifact?

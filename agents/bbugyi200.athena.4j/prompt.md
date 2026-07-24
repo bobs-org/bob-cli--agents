@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me rename the `bob dataview` command to `bob query`? Don't worry about renaming the /bob_dataview skill yet (I'll handle that later). #tale

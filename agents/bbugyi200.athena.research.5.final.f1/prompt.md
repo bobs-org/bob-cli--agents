@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:research.5.final Can you now help me use the "Tasks Query File Defaults" solution you recommended to solve this problem? #tale

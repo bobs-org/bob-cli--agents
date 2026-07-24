@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:21 The "NEXT Tasks" section's tasks query isn't working (see #sshot). Can you help me diagnose the root cause of this issue and fix it? #tale #m_opus

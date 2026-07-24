@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me rename the `bob task-status-setter` command to `bob task-status-hooks`? #tale

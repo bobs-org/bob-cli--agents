@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:19 Can you now help me make the `@` keymap toggle the Obsidian task back to open if it is already in-progress? #plan %a:tale

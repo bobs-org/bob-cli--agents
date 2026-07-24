@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:4l Did you make sure to make the appropriate changes to the Hammerspoon keymap that I mentioned? This are to be found in my chezmoi repo. This repo lives in my ~/.local/share/chezmoi/ directory. You should NOT use the `sase workspace open` command to access this repo. #if_not_plan

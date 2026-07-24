@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:4l Did you make sure to make the appropriate changes to the Hammerspoon keymap that I mentioned? This are to be found in my chezmoi repo. #if_not_plan

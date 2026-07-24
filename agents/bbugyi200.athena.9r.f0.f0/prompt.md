@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:9r.f0 Can you now help me make the `%<N>` syntax, where `<N>` is some positive integer, do the same thing except for the `bob capture` command should use the last `N` clipboard entries and each of them should use no bullet header? #plan

@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:4k Did we make sure to give these projects a special icon / emoji to use in the "Sub-projects:" bullet in the parent project note file (which will include a link to the scheduled project if it is a child of that project)? #if_not_plan

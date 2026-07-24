@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli We recently improved a bob command so that it removes canceled task block links from daily file open Pomodoros. It looks like the command just removes the block link though. It should remove the entire sub-bullet. Can you help me fix this? #plan

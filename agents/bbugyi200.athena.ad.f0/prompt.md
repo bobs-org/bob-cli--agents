@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:ad Can you now help me rename the `bob mark-next-tasks` command to `bob task-status-setter`, which probably better reflects its functionality at this point? #tale

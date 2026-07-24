@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:14.f1 Actually, for non-transcluded links, can we make this NOT recursive (i.e. stop looking for non-transcluded links in sub-bullets on the linked to Obsidian task)? #plan %a:tale

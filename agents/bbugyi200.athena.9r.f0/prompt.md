@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:9r Instead of using clip as the default value for the bullet header text, can we just use no header text at all when `<bullet_header>` is ommitted? #tale

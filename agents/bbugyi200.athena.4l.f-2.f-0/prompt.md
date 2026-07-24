@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:4l.f-2 Can you now help me stop requiring the `!` in the new `@!<filename>:<id>` syntax? Just the colon should be enough, right? And then if the user wants to be prompted for the ID, he can use a syntax like `@foo:` or `@:` (to be prompted for a note file first). #tale

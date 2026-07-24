@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me start having the `!` Obsidian keymap only link the task as a dependency if the task does not have the `#hide` tag? #plan
