@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:jr The `BLOCKED` badge on the ~/bob/dash.md file is still showing 12 instead of 90 (see #sshot). Can you help me fix this? #plan

@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:jr Can you now help me make sure that the previous agent also implemented the reverse operation (i.e. when tasks have a `scheduled` property that matches today's date or an earlier date, we should mark the task as open--or next/in-progress if the task has a pomodoro block link in today's/yesterday's daily file)? #if_not_plan
