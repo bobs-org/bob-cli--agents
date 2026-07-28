@@ -1,14 +1,31 @@
 # Agent: jr.f1--code
 
-**Global name:** `bbugyi200.athena.jr.f1--code` · **State:** active · **Source run:** `run-760cba376b2949122fb015c44f830dc1`
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [jr](../../users/bbugyi200/machines/athena/hoods/jr/README.md) / [jr.f1](../../families/bbugyi200.athena.jr.f1.md) / jr.f1--code
+
+**Global name:** `bbugyi200.athena.jr.f1--code` · **State:** completed · **Source run:** `run-760cba376b2949122fb015c44f830dc1`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** jr
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.jr.f1.md#member-code).
 
 ## Summary
 
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-24T23:17:50.382911+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`456f9d2`](https://github.com/bobs-org/bob-cli/commit/456f9d2d479f7f6172310a78e5227b7319b881bb) | fix(task-status-hooks): recover due scheduled tasks | 2026-07-24 23:45:23 |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [jr](../bbugyi200.athena.jr/README.md) | ancestor | completed |
+| [jr.f0](../../families/bbugyi200.athena.jr.f0.md) (family · 2) | jr hood | active 1, completed 1 |

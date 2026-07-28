@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780406043,"sha":"038ff547405ffab34643a4cf868d4b9f87ff2b6d","subject":"chore: Add SDD prompt and plan for done_archive_parent_type"},{"committed_at":1780406796,"sha":"03ed2419ae5d8cfc2a2b0a837143c83095e18f65","subject":"fix: maintain collect-done archive metadata"}],"schema_version":2,"source_run_id":"run-bd44f14a01f001f311067bc0dbb1c291"}

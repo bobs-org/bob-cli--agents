@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780323448,"sha":"8e125dde0e75019335a7c943300bf675ac091975","subject":"feat: add bob CLI crate skeleton (bob-cli-1.1)"},{"committed_at":1780323553,"sha":"2fbc12ee7fa31b81991a6449e0cb8a54c267da0b","subject":"chore: close bob-cli-1.1 bead"}],"schema_version":2,"source_run_id":"run-eda6d23d1820cb7e9c48c6ac2fef82bf"}

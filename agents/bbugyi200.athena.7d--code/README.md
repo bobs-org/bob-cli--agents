@@ -1,10 +1,10 @@
 # Agent: 7d--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7d](../../users/bbugyi200/machines/athena/hoods/7d/README.md) / [7d](../../families/bbugyi200.athena.7d.md) / 7d--code
+
 **Global name:** `bbugyi200.athena.7d--code` · **State:** completed · **Source run:** `run-15f9fd98c9b9998cb4d62db9d70288f2`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 7d
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.7d.md#member-code).
 
 ## Summary
 

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780513495,"sha":"4b336ff7f8c0d046e59101aafa915f80688e9f84","subject":"chore: Add SDD prompt and plan for dataview_no_sync"},{"committed_at":1780513938,"sha":"f1e0a2d701b89d7eedf9b1e3bb197dd577d99bad","subject":"feat: remove dataview sync option"}],"schema_version":2,"source_run_id":"run-940f10dc9c57a187c3e0afdb6ae0ef2f"}

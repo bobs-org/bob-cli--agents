@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780491454,"sha":"aedab175d90f3323fbd2a237dcdf22a0f25ae84d","subject":"chore: Add SDD prompt and plan for highlights_ref_marker_pdfdoc_newlines"},{"committed_at":1780491747,"sha":"04d7b5af72e17560162f02c2e66cce73c8327a8e","subject":"fix: preserve literal PDF marker newlines"}],"schema_version":2,"source_run_id":"run-f113fb72e2d90d239bae2cfbb31527ad"}

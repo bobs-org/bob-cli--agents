@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780470276,"sha":"64056024b65ebf98cc75fee6689b177bf5873489","subject":"chore: Add SDD prompt and plan for rename_bob_subcommands_1"},{"committed_at":1780470979,"sha":"80ae61181276c18fba3d38ed9a8ebc0ba87f27d9","subject":"feat: rename Bob vault maintenance commands"}],"schema_version":2,"source_run_id":"run-5e09fadce1c0b011fd951c3f0b869037"}

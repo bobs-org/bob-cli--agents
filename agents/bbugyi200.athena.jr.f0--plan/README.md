@@ -1,10 +1,10 @@
 # Agent: jr.f0--plan
 
-**Global name:** `bbugyi200.athena.jr.f0--plan` · **State:** completed · **Source run:** `run-61d7ddbf4a2618f66301360da3182831`
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [jr](../../users/bbugyi200/machines/athena/hoods/jr/README.md) / [jr.f0](../../families/bbugyi200.athena.jr.f0.md) / jr.f0--plan
+
+**Global name:** `bbugyi200.athena.jr.f0--plan` · **State:** active · **Source run:** `run-84618f663e157c10b57a0d4eb3f5f4cc`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** jr
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.jr.f0.md#member-plan).
 
 ## Summary
 
@@ -16,3 +16,11 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [jr](../bbugyi200.athena.jr/README.md) | ancestor | completed |
+| [jr.f1](../../families/bbugyi200.athena.jr.f1.md) (family · 2) | jr hood | active 1, completed 1 |
+| [jr.f1](../bbugyi200.athena.jr.f1/README.md) | jr hood | completed |

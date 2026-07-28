@@ -1,10 +1,10 @@
 # Agent: 4j.f-0.w-0--epic
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4j](../../users/bbugyi200/machines/athena/hoods/4j/README.md) / [4j.f-0.w-0](../../families/bbugyi200.athena.4j.f-0.w-0.md) / 4j.f-0.w-0--epic
+
 **Global name:** `bbugyi200.athena.4j.f-0.w-0--epic` · **State:** completed · **Source run:** `run-f8d17ae5d83589eb6c1c8e374c2b1fce`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 4j
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.4j.f-0.w-0.md#member-epic).
 
 ## Summary
 
@@ -16,3 +16,9 @@ This run is represented in its [family lineage](../../families/bbugyi200.athena.
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [4j](../../families/bbugyi200.athena.4j.md) (family · 2) | ancestor | active 1, completed 1 |

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780489886,"sha":"2863c7ba13eedc0721b85f11aeb8cbe5888ea5fb","subject":"chore: Add SDD prompt and plan for highlights_ref_first_page_marker"},{"committed_at":1780490246,"sha":"eef5730d6ddebd2b8ab0c3d118c76d5916e4b972","subject":"fix: read highlights marker only from first page"}],"schema_version":2,"source_run_id":"run-198147d83fa1ca1a557c8a22f3bd6560"}

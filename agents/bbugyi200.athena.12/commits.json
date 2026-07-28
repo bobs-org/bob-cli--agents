@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780409352,"sha":"e615f1b2c3b800f8246600a322b496daab2cba49","subject":"chore: Add SDD prompt and plan for pomodoro_runtime_parentheses_1"},{"committed_at":1780409918,"sha":"a1d444600f03703b600ac14650ea53baa781275d","subject":"fix: store pomodoro runtimes inside time ranges"}],"schema_version":2,"source_run_id":"run-aa676b9eda5e6b019ca9be19f090e10c"}

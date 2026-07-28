@@ -1,0 +1,21 @@
+# Agent: 00w
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00w](../../users/bbugyi200/machines/athena/hoods/00w/README.md) / 00w
+
+**Global name:** `bbugyi200.athena.00w` · **State:** completed · **Source run:** `run-f96484f7a6a9e6b4e1f90cf2d0b22f6d`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 00w
+
+## Summary
+
+- Model: —
+- Provider: —
+- Timing: 2026-06-19T11:52:51+00:00 → 2026-06-20T01:26:57+00:00
+- Commits: [2](#commits)
+
+## Commits
+
+| Commit | Subject | Committed (UTC) |
+|---|---|---|
+| [`afab0c0`](https://github.com/bobs-org/bob-cli/commit/afab0c081a8bdfb1af37773a1a10602409623ad3) | chore: Add SDD prompt and plan for conditional\_pomodoro\_creation | 2026-06-19 11:52:51 |
+| [`3ef5f01`](https://github.com/bobs-org/bob-cli/commit/3ef5f0181eaed826534a79d4d02b9dabdaafa7b9) | chore: Mark SDD plan done | 2026-06-20 01:26:57 |

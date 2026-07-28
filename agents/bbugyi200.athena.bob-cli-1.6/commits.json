@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780326395,"sha":"24d26c54c8fbe80c647aa0335d4dba58ab3e6406","subject":"feat: migrate bob commands to native Rust (bob-cli-1.6)"}],"schema_version":2,"source_run_id":"run-e16fd6239f5c654c074834d1c04bc817"}

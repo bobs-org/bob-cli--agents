@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782476986,"sha":"8159f87f900dad6f5ed139b4dec95f6aa66260ea","subject":"chore: Add SDD prompt and plan for plugins_sync_safety"},{"committed_at":1782477647,"sha":"dbe06420090bc74af5beb99b8a4c827f65dc84d7","subject":"feat: add safer plugin sync overwrites"}],"schema_version":2,"source_run_id":"run-382c770bc24b42286229630fff14b26d"}

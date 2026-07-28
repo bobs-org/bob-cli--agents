@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1782756393,"sha":"d0c2e72736bd2c27a09ec8236156673d5bd1a406","subject":"chore: Add SDD prompt and plan for capture_scheduled_offset"},{"committed_at":1782756896,"sha":"5c59612bf26cea429c933ebdc6e5c786a33297f9","subject":"feat(capture): support scheduled offset tokens"}],"schema_version":2,"source_run_id":"run-683bfc64703c37fba2fd16c258515bf5"}

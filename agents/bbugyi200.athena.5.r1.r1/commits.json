@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781532060,"sha":"73fe02e41e92d1c0941169587ac1da666e56652f","subject":"chore: Add SDD prompt and plan for highlights_image_degradation"},{"committed_at":1781533222,"sha":"057aa455ba9beef1ae5c77261f848cad818099de","subject":"fix(highlights): degrade unresolved image selections"}],"schema_version":2,"source_run_id":"run-7425fd9ebb7b2a17ba65a0950c2a2922"}

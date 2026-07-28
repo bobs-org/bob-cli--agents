@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780540337,"sha":"96bd61a60bd713227b23ea5e82aaa165e9ddf352","subject":"chore: Add SDD prompt and plan for highlights_ref_pdf_task_line"},{"committed_at":1780540503,"sha":"5ed17e8e293e91d2e6c1070499c762c432b93adc","subject":"feat: render highlight PDF references as tasks"}],"schema_version":2,"source_run_id":"run-4481968934a73cebc1ffaf243a4c1566"}

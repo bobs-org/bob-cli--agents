@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780922717,"sha":"00d4a702f8d15f22927e7c3c62e69fe8591406d4","subject":"chore: Add SDD prompt and plan for highlight_task_h_property"},{"committed_at":1780923338,"sha":"c0bc902d3ce6dfd460109a5c903539cd2f39f22b","subject":"fix: use h property for highlight task markers"}],"schema_version":2,"source_run_id":"run-da93dc237f9b8a98dd570583701d1767"}

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781436283,"sha":"414ade76f8f093c27832ab57df06ef83d9164acc","subject":"chore: Add SDD prompt and plan for ob_sync_hang_timeout_guard"},{"committed_at":1781436710,"sha":"3cddcc18b3e0a950262e2a67935890991abd6440","subject":"docs: Record ob-sync timeout guard implementation"}],"schema_version":2,"source_run_id":"run-cb065c06c5d08871e993b15fdf8e1abb"}

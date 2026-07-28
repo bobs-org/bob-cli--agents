@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780579767,"sha":"9dd42646817e90c6a41e9e055b56bd6195dac859","subject":"chore: Add SDD prompt and plan for highlights_ref_marker_syntax"},{"committed_at":1780580296,"sha":"feaf8b3902f86acd49a9d7e11a28530e3505a114","subject":"fix: enforce bare highlights-ref marker parents"}],"schema_version":2,"source_run_id":"run-2cf75ff264c130f71ea30dc6c2b75a03"}

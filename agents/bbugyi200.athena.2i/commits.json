@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780665705,"sha":"8f04fd8144a87a47e673781a4106690874522e3f","subject":"chore: Add SDD prompt and plan for move_done_tasks_dirty_git"},{"committed_at":1780666119,"sha":"dbb5652fac249a5f8d63f1bdfd55c86ff5e92acf","subject":"feat: allow move-done-tasks to rewrite dirty candidates"}],"schema_version":2,"source_run_id":"run-f4c3c947e284486151616b0637577a74"}

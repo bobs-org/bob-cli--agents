@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780598666,"sha":"170ebb0d83affdaf0a99f696122dc253e1fcf1ea","subject":"chore: Add SDD prompt and plan for rename_cronjob_to_nightly"},{"committed_at":1780599052,"sha":"20e9ecd7e5702c2b389fb7904e175794f8a0ce1b","subject":"feat: rename cronjob command to nightly"}],"schema_version":2,"source_run_id":"run-5ddbb61a1fe9bd7bd6f0a60aa4bbb419"}

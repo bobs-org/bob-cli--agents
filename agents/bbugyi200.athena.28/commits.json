@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780583272,"sha":"9a1e59713f0833079c977c22af9d012e0e77fdd2","subject":"chore: Add SDD prompt and plan for highlights_ref_partial_scan"},{"committed_at":1780583896,"sha":"b3384eeb906768265142d15b19b257002e59cf12","subject":"feat: continue highlights scan after per-PDF failures"}],"schema_version":2,"source_run_id":"run-c775406798baf2280e72139508277e85"}

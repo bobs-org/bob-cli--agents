@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780584359,"sha":"6e88cb6e7446229b3c23f2ec86a83e3774329363","subject":"chore: Add SDD prompt and plan for highlights_ref_read_status"},{"committed_at":1780584985,"sha":"d3ad2acbcc235afc3afc277ba7b40e43c03b17dd","subject":"fix: normalize highlights-ref done status to read"}],"schema_version":2,"source_run_id":"run-7477cabee994e7ff694699777783a61c"}

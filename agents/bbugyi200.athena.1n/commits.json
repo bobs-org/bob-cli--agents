@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780492483,"sha":"8688514a4ed9aa6167faf8c8522f39f9f95fbce5","subject":"chore: Add SDD prompt and plan for highlights_ref_comment_bullets"},{"committed_at":1780492739,"sha":"87a351557da910e4d24cc4a953c82584e472120d","subject":"fix: normalize linked sidecar bullet comments"}],"schema_version":2,"source_run_id":"run-b30b99e75bf73ccbdc45be082180ef08"}

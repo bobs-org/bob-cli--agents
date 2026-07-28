@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780516234,"sha":"a451ec9b59109fbfd7871ac8f269c8192214b6e0","subject":"chore: Add SDD prompt and plan for dataview_table_query"},{"committed_at":1780516640,"sha":"5e516b3f79477efee9021d108a67ad575bde0776","subject":"feat: support native dataview table queries"}],"schema_version":2,"source_run_id":"run-7299c9f5b0c0ec6dfdf0c40107013432"}

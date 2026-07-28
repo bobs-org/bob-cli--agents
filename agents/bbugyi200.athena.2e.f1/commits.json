@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780603704,"sha":"a7c6eacedddb5f88647cd66985057dddf1446810","subject":"chore: Add SDD prompt and plan for highlights_ref_cancelled_task"},{"committed_at":1780604073,"sha":"a5aac963aade258077e152b80e4a6adc4e02ee36","subject":"fix: tolerate cancelled highlight task refs"}],"schema_version":2,"source_run_id":"run-04cd6d4ee174aa2de70785f435654a79"}

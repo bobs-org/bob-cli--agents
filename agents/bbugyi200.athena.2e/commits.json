@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780600395,"sha":"87d2ecd0543b87c4cf20bfcd29d4290891ab0fe7","subject":"chore: Add SDD prompt and plan for highlights_ref_task_priority"},{"committed_at":1780600816,"sha":"facf121b5ed9f58590758901fb28c74c01cdc2f5","subject":"feat: add priority to generated highlights tasks"}],"schema_version":2,"source_run_id":"run-d0cc8490b1e2cd723f8e6cc8ceed3434"}

@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:66 Can you now help me update all of the prompt files in this repo's sdd companion repo in the same way? #tale #m_fable

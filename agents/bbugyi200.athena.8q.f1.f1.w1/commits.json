@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781619699,"sha":"33203365368f54a19f3f6534f739d23e87cfdcc4","subject":"feat(capture): prefer Tasks sections for task insertion"},{"committed_at":1781619759,"sha":"7e723693072796092afa70d81239a32296053005","subject":"chore: Add SDD prompt and plan for capture_tasks_section"}],"schema_version":2,"source_run_id":"run-6966b5fd50449c43d7e740a8a12de0ff"}

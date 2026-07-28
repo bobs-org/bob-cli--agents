@@ -1,10 +1,10 @@
 # Agent: 4r--code
 
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4r](../../users/bbugyi200/machines/athena/hoods/4r/README.md) / [4r](../../families/bbugyi200.athena.4r.md) / 4r--code
+
 **Global name:** `bbugyi200.athena.4r--code` · **State:** completed · **Source run:** `run-929a3abd4213eed4363e9d6487344723`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 4r
-
-This run is represented in its [family lineage](../../families/bbugyi200.athena.4r.md#member-code).
 
 ## Summary
 

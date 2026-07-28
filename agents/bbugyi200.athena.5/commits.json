@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780403173,"sha":"98ae275f900bb91dfd57906ce04154008b31d2e6","subject":"chore: Add SDD prompt and plan for justfile_quality_targets"},{"committed_at":1780403281,"sha":"6f6a339db55bca8857c76dca27ee318bfcb79f80","subject":"chore: add aggregate quality target"}],"schema_version":2,"source_run_id":"run-c7f555de5d1ff802026d2473394e66e8"}

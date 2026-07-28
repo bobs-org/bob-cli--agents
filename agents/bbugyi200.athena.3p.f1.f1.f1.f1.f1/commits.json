@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780919705,"sha":"14898f7b25d3b60b26718eacb416cf7477435903","subject":"chore: Add SDD prompt and plan for no_highlight_task_property"},{"committed_at":1780920517,"sha":"e136541b7088b0ae33c522d7032a67ab5556d9e2","subject":"feat: use source-task anchors for highlight tasks"}],"schema_version":2,"source_run_id":"run-9e13e6368317e2f62e129802286432b2"}

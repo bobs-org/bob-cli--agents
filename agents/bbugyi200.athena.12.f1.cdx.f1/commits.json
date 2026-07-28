@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780414914,"sha":"5c0a22d3505d6a9070ff60721e79d623fc3e3131","subject":"chore: Add SDD prompt and plan for pomodoro_inline_t"},{"committed_at":1780415671,"sha":"a21346531a385242cfe16c952cf3b9b6dc9e9480","subject":"feat: track Pomodoro durations inline"}],"schema_version":2,"source_run_id":"run-32dec778d1e080d8488f42cc7b8dcd35"}
