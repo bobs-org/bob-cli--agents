@@ -29,5 +29,5 @@
 |---|---|---|
 | [gh\_bobs-org\_\_bob-cli-2.1](../bbugyi200.athena.gh_bobs-org__bob-cli-2.1/README.md) | gh\_bobs-org\_\_bob-cli-2 hood | completed |
 | [gh\_bobs-org\_\_bob-cli-2.3](../bbugyi200.athena.gh_bobs-org__bob-cli-2.3/README.md) | gh\_bobs-org\_\_bob-cli-2 hood | completed |
-| [gh\_bobs-org\_\_bob-cli-2.4](../bbugyi200.athena.gh_bobs-org__bob-cli-2.4/README.md) | gh\_bobs-org\_\_bob-cli-2 hood | active |
-| [gh\_bobs-org\_\_bob-cli-2.land](../bbugyi200.athena.gh_bobs-org__bob-cli-2.land/README.md) | gh\_bobs-org\_\_bob-cli-2 hood | waiting |
+| [gh\_bobs-org\_\_bob-cli-2.4](../bbugyi200.athena.gh_bobs-org__bob-cli-2.4/README.md) | gh\_bobs-org\_\_bob-cli-2 hood | completed |
+| [gh\_bobs-org\_\_bob-cli-2.land](../../families/bbugyi200.athena.gh_bobs-org__bob-cli-2.land.md) (family · 2) | gh\_bobs-org\_\_bob-cli-2 hood | active 2 |

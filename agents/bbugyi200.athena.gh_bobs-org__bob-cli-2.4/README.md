@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gh\_bobs-org\_\_bob-cli-2](../../users/bbugyi200/machines/athena/hoods/gh_bobs-org__bob-cli-2/README.md) / gh\_bobs-org\_\_bob-cli-2.4
 
-**Global name:** `bbugyi200.athena.gh_bobs-org__bob-cli-2.4` · **State:** active · **Source run:** `run-59bdff5829629330094ffe3d99b53bf7`
+**Global name:** `bbugyi200.athena.gh_bobs-org__bob-cli-2.4` · **State:** completed · **Source run:** `run-59bdff5829629330094ffe3d99b53bf7`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** gh\_bobs-org\_\_bob-cli-2
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,4 +30,4 @@
 | [gh\_bobs-org\_\_bob-cli-2.1](../bbugyi200.athena.gh_bobs-org__bob-cli-2.1/README.md) | gh\_bobs-org\_\_bob-cli-2 hood | completed |
 | [gh\_bobs-org\_\_bob-cli-2.2](../bbugyi200.athena.gh_bobs-org__bob-cli-2.2/README.md) | gh\_bobs-org\_\_bob-cli-2 hood | completed |
 | [gh\_bobs-org\_\_bob-cli-2.3](../bbugyi200.athena.gh_bobs-org__bob-cli-2.3/README.md) | gh\_bobs-org\_\_bob-cli-2 hood | completed |
-| [gh\_bobs-org\_\_bob-cli-2.land](../bbugyi200.athena.gh_bobs-org__bob-cli-2.land/README.md) | gh\_bobs-org\_\_bob-cli-2 hood | waiting |
+| [gh\_bobs-org\_\_bob-cli-2.land](../../families/bbugyi200.athena.gh_bobs-org__bob-cli-2.land.md) (family · 2) | gh\_bobs-org\_\_bob-cli-2 hood | active 2 |
