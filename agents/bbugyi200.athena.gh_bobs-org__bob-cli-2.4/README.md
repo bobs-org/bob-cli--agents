@@ -11,11 +11,17 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-31T12:24:35.563456+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`8831506`](https://github.com/bobs-org/bob-cli/commit/8831506cec0c420345947b45d40223bec5acf034) | docs(capture): document sub-bullet picker markers | 2026-07-31 12:32:02 |
 
 ## Neighbors
 
