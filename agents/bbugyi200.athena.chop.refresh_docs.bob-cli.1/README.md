@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`69fdc93`](https://github.com/bobs-org/bob-cli/commit/69fdc9330f0e5ade0b209c1dc12417002b5fe62b) | docs: refresh CLI command guide (sase-6v.9) | 2026-07-19 02:07:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`69fdc93`](https://github.com/bobs-org/bob-cli/commit/69fdc9330f0e5ade0b209c1dc12417002b5fe62b) | docs: refresh CLI command guide (sase-6v.9) | 2026-07-19 02:07:05 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6b438a8`](https://github.com/bobs-org/bob-cli/commit/6b438a8f11bb7f12e5fbb02d4ede77ac23a81160) | chore: Add SDD prompt and plan for obsidian\_alt\_file\_type\_fallback | 2026-06-12 12:27:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`6b438a8`](https://github.com/bobs-org/bob-cli/commit/6b438a8f11bb7f12e5fbb02d4ede77ac23a81160) | chore: Add SDD prompt and plan for obsidian\_alt\_file\_type\_fallback | 2026-06-12 12:27:20 |
 
 ## Neighbors
 

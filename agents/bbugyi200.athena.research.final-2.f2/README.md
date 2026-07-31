@@ -15,11 +15,11 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`deb45e3`](https://github.com/bobs-org/bob-cli/commit/deb45e34cc975fe999f86404ea42cf47e24609fa) | chore: Add SDD prompt and plan for dataview\_mvp | 2026-06-03 16:47:36 |
-| [`d9ad823`](https://github.com/bobs-org/bob-cli/commit/d9ad82322f9593f66138f9aa53e9ec05869817de) | chore: create dataview MVP epic beads | 2026-06-03 16:50:18 |
-| [`23f6e35`](https://github.com/bobs-org/bob-cli/commit/23f6e3574ce4e1dbaf874d52fc33dff344ea878b) | chore: sync bead database after epic kickoff | 2026-06-03 16:52:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`deb45e3`](https://github.com/bobs-org/bob-cli/commit/deb45e34cc975fe999f86404ea42cf47e24609fa) | chore: Add SDD prompt and plan for dataview\_mvp | 2026-06-03 16:47:36 |
+| bob-cli | [`d9ad823`](https://github.com/bobs-org/bob-cli/commit/d9ad82322f9593f66138f9aa53e9ec05869817de) | chore: create dataview MVP epic beads | 2026-06-03 16:50:18 |
+| bob-cli | [`23f6e35`](https://github.com/bobs-org/bob-cli/commit/23f6e3574ce4e1dbaf874d52fc33dff344ea878b) | chore: sync bead database after epic kickoff | 2026-06-03 16:52:48 |
 
 ## Neighbors
 

@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`64f577f`](https://github.com/bobs-org/bob-cli/commit/64f577f831266df935cbe9af8d20162a9dc3609b) | chore: Add SDD prompt and plan for task\_query\_half\_page\_scroll | 2026-07-07 23:25:01 |
-| [`9417223`](https://github.com/bobs-org/bob-cli/commit/9417223b74084be2b6bc943b79a4a28af94872b9) | chore: Mark SDD plan done | 2026-07-08 16:27:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`64f577f`](https://github.com/bobs-org/bob-cli/commit/64f577f831266df935cbe9af8d20162a9dc3609b) | chore: Add SDD prompt and plan for task\_query\_half\_page\_scroll | 2026-07-07 23:25:01 |
+| bob-cli | [`9417223`](https://github.com/bobs-org/bob-cli/commit/9417223b74084be2b6bc943b79a4a28af94872b9) | chore: Mark SDD plan done | 2026-07-08 16:27:57 |

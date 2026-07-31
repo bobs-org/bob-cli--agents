@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9f06a29`](https://github.com/bobs-org/bob-cli/commit/9f06a29edefbbf03b138e78f977af38c47cd1ba6) | docs(research): refine Obsidian Vim focus analysis | 2026-06-15 19:28:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`9f06a29`](https://github.com/bobs-org/bob-cli/commit/9f06a29edefbbf03b138e78f977af38c47cd1ba6) | docs(research): refine Obsidian Vim focus analysis | 2026-06-15 19:28:34 |
 
 ## Neighbors
 

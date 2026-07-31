@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d80c294`](https://github.com/bobs-org/bob-cli/commit/d80c294b54a77f2a039ea57de17a699681182bac) | chore: Add SDD prompt and plan for obsidian\_bold\_ledger\_followup | 2026-06-02 16:26:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`d80c294`](https://github.com/bobs-org/bob-cli/commit/d80c294b54a77f2a039ea57de17a699681182bac) | chore: Add SDD prompt and plan for obsidian\_bold\_ledger\_followup | 2026-06-02 16:26:55 |
 
 ## Neighbors
 

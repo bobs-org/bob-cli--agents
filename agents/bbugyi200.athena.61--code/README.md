@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2677dea`](https://github.com/bobs-org/bob-cli/commit/2677dea6c80297ab5ef4f48b1097f1d4542e4ef8) | feat(mark-next): follow transcluded task dependencies | 2026-07-11 20:25:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`2677dea`](https://github.com/bobs-org/bob-cli/commit/2677dea6c80297ab5ef4f48b1097f1d4542e4ef8) | feat(mark-next): follow transcluded task dependencies | 2026-07-11 20:25:56 |
 
 ## Neighbors
 

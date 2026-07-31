@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c625cbb`](https://github.com/bobs-org/bob-cli/commit/c625cbb8a7822612a40c2abb9a4addfaa78c5cae) | chore: Add research on native dataview engine DQL parity | 2026-06-03 20:15:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`c625cbb`](https://github.com/bobs-org/bob-cli/commit/c625cbb8a7822612a40c2abb9a4addfaa78c5cae) | chore: Add research on native dataview engine DQL parity | 2026-06-03 20:15:28 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5d6bac1`](https://github.com/bobs-org/bob-cli/commit/5d6bac10fce6d5301e3436c33a006e2f81c2f7c6) | feat: add native dataview engine | 2026-06-03 19:26:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`5d6bac1`](https://github.com/bobs-org/bob-cli/commit/5d6bac10fce6d5301e3436c33a006e2f81c2f7c6) | feat: add native dataview engine | 2026-06-03 19:26:34 |
 
 ## Neighbors
 

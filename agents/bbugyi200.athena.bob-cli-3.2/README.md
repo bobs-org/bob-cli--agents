@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e972510`](https://github.com/bobs-org/bob-cli/commit/e9725101b25d3bfe3357de23a2c9867ac65ef1c1) | feat: implement Obsidian Dataview eval engine (bob-cli-3.2) | 2026-06-03 17:17:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`e972510`](https://github.com/bobs-org/bob-cli/commit/e9725101b25d3bfe3357de23a2c9867ac65ef1c1) | feat: implement Obsidian Dataview eval engine (bob-cli-3.2) | 2026-06-03 17:17:46 |
 
 ## Neighbors
 

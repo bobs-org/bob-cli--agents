@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`81ce8a8`](https://github.com/bobs-org/bob-cli/commit/81ce8a8376789f854bde8aec0040690c066f90a4) | chore: Add SDD prompt and plan for highlights\_image\_selections | 2026-06-15 13:04:34 |
-| [`2400274`](https://github.com/bobs-org/bob-cli/commit/2400274350d8d90b033c9bfb1a32654c1589bc29) | feat(highlights): sync TextBundle image selections | 2026-06-15 13:23:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`81ce8a8`](https://github.com/bobs-org/bob-cli/commit/81ce8a8376789f854bde8aec0040690c066f90a4) | chore: Add SDD prompt and plan for highlights\_image\_selections | 2026-06-15 13:04:34 |
+| bob-cli | [`2400274`](https://github.com/bobs-org/bob-cli/commit/2400274350d8d90b033c9bfb1a32654c1589bc29) | feat(highlights): sync TextBundle image selections | 2026-06-15 13:23:07 |
 
 ## Neighbors
 

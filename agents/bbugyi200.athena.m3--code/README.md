@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0093cdd`](https://github.com/bobs-org/bob-cli/commit/0093cddb72c06d12d56ba77b22576db8ea389cd6) | feat(projects): propagate schedules to project tasks | 2026-07-27 12:43:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`0093cdd`](https://github.com/bobs-org/bob-cli/commit/0093cddb72c06d12d56ba77b22576db8ea389cd6) | feat(projects): propagate schedules to project tasks | 2026-07-27 12:43:36 |

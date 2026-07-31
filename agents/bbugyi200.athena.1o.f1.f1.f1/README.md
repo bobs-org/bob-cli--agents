@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`134f49e`](https://github.com/bobs-org/bob-cli/commit/134f49e01867fce0ce5118aef0f25e426b6a6f58) | chore: Add SDD prompt and plan for child\_note\_keymap\_dash | 2026-06-03 17:03:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`134f49e`](https://github.com/bobs-org/bob-cli/commit/134f49e01867fce0ce5118aef0f25e426b6a6f58) | chore: Add SDD prompt and plan for child\_note\_keymap\_dash | 2026-06-03 17:03:46 |
 
 ## Neighbors
 

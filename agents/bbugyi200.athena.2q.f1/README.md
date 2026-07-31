@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bfef0f7`](https://github.com/bobs-org/bob-cli/commit/bfef0f7d823942b77edd0df74ed9fa81d7e839c8) | chore: Add SDD prompt and plan for enter\_link\_all\_link\_types | 2026-06-05 19:03:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`bfef0f7`](https://github.com/bobs-org/bob-cli/commit/bfef0f7d823942b77edd0df74ed9fa81d7e839c8) | chore: Add SDD prompt and plan for enter\_link\_all\_link\_types | 2026-06-05 19:03:04 |
 
 ## Neighbors
 

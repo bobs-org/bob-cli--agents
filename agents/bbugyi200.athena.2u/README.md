@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2de8b08`](https://github.com/bobs-org/bob-cli/commit/2de8b0876d85055f8134baff84181c1cf8438c34) | chore: Add SDD prompt and plan for new\_note\_created\_field | 2026-06-06 10:58:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`2de8b08`](https://github.com/bobs-org/bob-cli/commit/2de8b0876d85055f8134baff84181c1cf8438c34) | chore: Add SDD prompt and plan for new\_note\_created\_field | 2026-06-06 10:58:33 |

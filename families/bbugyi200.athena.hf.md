@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`084bb62`](https://github.com/bobs-org/bob-cli/commit/084bb625e57147c6b4dab7462deae051378c05d4) | feat: reconcile in-progress tasks using recent dailies | 2026-07-21 20:17:25 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`084bb62`](https://github.com/bobs-org/bob-cli/commit/084bb625e57147c6b4dab7462deae051378c05d4) | feat: reconcile in-progress tasks using recent dailies | 2026-07-21 20:17:25 |

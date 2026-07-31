@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ea130d6`](https://github.com/bobs-org/bob-cli/commit/ea130d608a2f8f4b85aa2565fd3769de799e3346) | feat: synchronize reference reading lifecycle states | 2026-07-14 11:37:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`ea130d6`](https://github.com/bobs-org/bob-cli/commit/ea130d608a2f8f4b85aa2565fd3769de799e3346) | feat: synchronize reference reading lifecycle states | 2026-07-14 11:37:23 |

@@ -15,11 +15,11 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`205b2a1`](https://github.com/bobs-org/bob-cli/commit/205b2a1816cdebeb271107110acf93be0afadfb0) | chore: Add SDD prompt and plan for bob\_projects\_command | 2026-06-11 22:16:01 |
-| [`41f1b03`](https://github.com/bobs-org/bob-cli/commit/41f1b0321a2cbc589831c90003a006363704829a) | chore: create bob projects epic beads | 2026-06-11 22:18:22 |
-| [`1c902a9`](https://github.com/bobs-org/bob-cli/commit/1c902a98bf4764fce98bfffc3c7f9c5f42565c98) | chore: sync bead database cache | 2026-06-11 22:19:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`205b2a1`](https://github.com/bobs-org/bob-cli/commit/205b2a1816cdebeb271107110acf93be0afadfb0) | chore: Add SDD prompt and plan for bob\_projects\_command | 2026-06-11 22:16:01 |
+| bob-cli | [`41f1b03`](https://github.com/bobs-org/bob-cli/commit/41f1b0321a2cbc589831c90003a006363704829a) | chore: create bob projects epic beads | 2026-06-11 22:18:22 |
+| bob-cli | [`1c902a9`](https://github.com/bobs-org/bob-cli/commit/1c902a98bf4764fce98bfffc3c7f9c5f42565c98) | chore: sync bead database cache | 2026-06-11 22:19:48 |
 
 ## Neighbors
 

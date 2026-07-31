@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`aa8666c`](https://github.com/bobs-org/bob-cli/commit/aa8666ce03bd14b68e93df2faa20fe55ff5cbc21) | chore: Add SDD prompt and plan for convert\_sase\_project | 2026-06-14 12:32:56 |
-| [`dd1679d`](https://github.com/bobs-org/bob-cli/commit/dd1679d7eb22de3f44e1bc82aefcee21baa85662) | chore: Add SDD prompt and plan for convert\_sase\_project\_1 | 2026-06-14 12:42:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`aa8666c`](https://github.com/bobs-org/bob-cli/commit/aa8666ce03bd14b68e93df2faa20fe55ff5cbc21) | chore: Add SDD prompt and plan for convert\_sase\_project | 2026-06-14 12:32:56 |
+| bob-cli | [`dd1679d`](https://github.com/bobs-org/bob-cli/commit/dd1679d7eb22de3f44e1bc82aefcee21baa85662) | chore: Add SDD prompt and plan for convert\_sase\_project\_1 | 2026-06-14 12:42:28 |

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`14898f7`](https://github.com/bobs-org/bob-cli/commit/14898f7b25d3b60b26718eacb416cf7477435903) | chore: Add SDD prompt and plan for no\_highlight\_task\_property | 2026-06-08 11:55:05 |
-| [`e136541`](https://github.com/bobs-org/bob-cli/commit/e136541b7088b0ae33c522d7032a67ab5556d9e2) | feat: use source-task anchors for highlight tasks | 2026-06-08 12:08:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`14898f7`](https://github.com/bobs-org/bob-cli/commit/14898f7b25d3b60b26718eacb416cf7477435903) | chore: Add SDD prompt and plan for no\_highlight\_task\_property | 2026-06-08 11:55:05 |
+| bob-cli | [`e136541`](https://github.com/bobs-org/bob-cli/commit/e136541b7088b0ae33c522d7032a67ab5556d9e2) | feat: use source-task anchors for highlight tasks | 2026-06-08 12:08:37 |
 
 ## Neighbors
 

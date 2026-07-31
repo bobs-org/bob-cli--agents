@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a8a6cde`](https://github.com/bobs-org/bob-cli/commit/a8a6cde6b98f6183fb0036d942613088bdfff333) | feat: use bare date paths for daily notes | 2026-06-07 13:14:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`a8a6cde`](https://github.com/bobs-org/bob-cli/commit/a8a6cde6b98f6183fb0036d942613088bdfff333) | feat: use bare date paths for daily notes | 2026-06-07 13:14:41 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4032c14`](https://github.com/bobs-org/bob-cli/commit/4032c14c497495ebd1b87a40f72813ddc1635577) | chore: Add SDD prompt and plan for highlights\_ref\_scan\_speedup | 2026-06-03 12:03:35 |
-| [`9801c33`](https://github.com/bobs-org/bob-cli/commit/9801c333fd76d0edd44fcc1f3b5f3f29185c1f57) | feat: speed up highlights-ref scan with single-read PDFs and parallel planning | 2026-06-03 12:10:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`4032c14`](https://github.com/bobs-org/bob-cli/commit/4032c14c497495ebd1b87a40f72813ddc1635577) | chore: Add SDD prompt and plan for highlights\_ref\_scan\_speedup | 2026-06-03 12:03:35 |
+| bob-cli | [`9801c33`](https://github.com/bobs-org/bob-cli/commit/9801c333fd76d0edd44fcc1f3b5f3f29185c1f57) | feat: speed up highlights-ref scan with single-read PDFs and parallel planning | 2026-06-03 12:10:17 |
 
 ## Neighbors
 

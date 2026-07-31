@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6ff5ab3`](https://github.com/bobs-org/bob-cli/commit/6ff5ab36ab2ca78ede4a1485a2356b3bf3868392) | chore: Add SDD prompt and plan for obsidian\_header\_jump\_zt\_scroll | 2026-06-12 11:55:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`6ff5ab3`](https://github.com/bobs-org/bob-cli/commit/6ff5ab36ab2ca78ede4a1485a2356b3bf3868392) | chore: Add SDD prompt and plan for obsidian\_header\_jump\_zt\_scroll | 2026-06-12 11:55:11 |

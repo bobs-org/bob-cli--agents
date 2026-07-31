@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`504d4fb`](https://github.com/bobs-org/bob-cli/commit/504d4fb5ab3c95cf587c45464ed3bd848ee35163) | chore: Add SDD prompt and plan for blocked\_task\_marking | 2026-06-30 13:30:18 |
-| [`7e91d7e`](https://github.com/bobs-org/bob-cli/commit/7e91d7ea1ac266c73e4035ecdda4b65e098c8659) | chore: Mark SDD plan done | 2026-06-30 13:38:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`504d4fb`](https://github.com/bobs-org/bob-cli/commit/504d4fb5ab3c95cf587c45464ed3bd848ee35163) | chore: Add SDD prompt and plan for blocked\_task\_marking | 2026-06-30 13:30:18 |
+| bob-cli | [`7e91d7e`](https://github.com/bobs-org/bob-cli/commit/7e91d7ea1ac266c73e4035ecdda4b65e098c8659) | chore: Mark SDD plan done | 2026-06-30 13:38:03 |

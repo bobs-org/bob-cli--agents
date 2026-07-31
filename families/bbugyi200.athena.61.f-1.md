@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`5a22c43`](https://github.com/bobs-org/bob-cli/commit/5a22c435520b852e5be395c52d76e20dfccfa48f) | feat: retire completed task references as struck links | 2026-07-11 21:34:11 |
-| root | [`5a22c43`](https://github.com/bobs-org/bob-cli/commit/5a22c435520b852e5be395c52d76e20dfccfa48f) | feat: retire completed task references as struck links | 2026-07-11 21:34:11 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`5a22c43`](https://github.com/bobs-org/bob-cli/commit/5a22c435520b852e5be395c52d76e20dfccfa48f) | feat: retire completed task references as struck links | 2026-07-11 21:34:11 |
+| root | bob-cli | [`5a22c43`](https://github.com/bobs-org/bob-cli/commit/5a22c435520b852e5be395c52d76e20dfccfa48f) | feat: retire completed task references as struck links | 2026-07-11 21:34:11 |
 
 ## Neighbors
 

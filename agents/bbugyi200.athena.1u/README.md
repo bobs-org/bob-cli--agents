@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a451ec9`](https://github.com/bobs-org/bob-cli/commit/a451ec9b59109fbfd7871ac8f269c8192214b6e0) | chore: Add SDD prompt and plan for dataview\_table\_query | 2026-06-03 19:50:34 |
-| [`5e516b3`](https://github.com/bobs-org/bob-cli/commit/5e516b3f79477efee9021d108a67ad575bde0776) | feat: support native dataview table queries | 2026-06-03 19:57:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`a451ec9`](https://github.com/bobs-org/bob-cli/commit/a451ec9b59109fbfd7871ac8f269c8192214b6e0) | chore: Add SDD prompt and plan for dataview\_table\_query | 2026-06-03 19:50:34 |
+| bob-cli | [`5e516b3`](https://github.com/bobs-org/bob-cli/commit/5e516b3f79477efee9021d108a67ad575bde0776) | feat: support native dataview table queries | 2026-06-03 19:57:20 |

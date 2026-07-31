@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`328dfff`](https://github.com/bobs-org/bob-cli/commit/328dfff176d89cef2a1e2add04dc9828f8901578) | chore: Add SDD prompt and plan for preserve\_task\_demote\_properties | 2026-06-18 19:10:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`328dfff`](https://github.com/bobs-org/bob-cli/commit/328dfff176d89cef2a1e2add04dc9828f8901578) | chore: Add SDD prompt and plan for preserve\_task\_demote\_properties | 2026-06-18 19:10:00 |

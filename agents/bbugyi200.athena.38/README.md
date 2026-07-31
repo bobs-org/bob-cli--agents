@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a708cf5`](https://github.com/bobs-org/bob-cli/commit/a708cf509e8a39269756ff23d7e96ac32ed3e8f6) | chore: Add SDD prompt and plan for transcluded\_ctrl\_enter\_tasks | 2026-06-06 15:10:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`a708cf5`](https://github.com/bobs-org/bob-cli/commit/a708cf509e8a39269756ff23d7e96ac32ed3e8f6) | chore: Add SDD prompt and plan for transcluded\_ctrl\_enter\_tasks | 2026-06-06 15:10:41 |

@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`e6b70be`](https://github.com/bobs-org/bob-cli/commit/e6b70be4c0c7ddbd06abbe5e567257f40e6d5bfd) | feat(capture)!: add counted clipboard history | 2026-07-15 23:21:22 |
-| root | [`e6b70be`](https://github.com/bobs-org/bob-cli/commit/e6b70be4c0c7ddbd06abbe5e567257f40e6d5bfd) | feat(capture)!: add counted clipboard history | 2026-07-15 23:21:22 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`e6b70be`](https://github.com/bobs-org/bob-cli/commit/e6b70be4c0c7ddbd06abbe5e567257f40e6d5bfd) | feat(capture)!: add counted clipboard history | 2026-07-15 23:21:22 |
+| root | bob-cli | [`e6b70be`](https://github.com/bobs-org/bob-cli/commit/e6b70be4c0c7ddbd06abbe5e567257f40e6d5bfd) | feat(capture)!: add counted clipboard history | 2026-07-15 23:21:22 |
 
 ## Neighbors
 

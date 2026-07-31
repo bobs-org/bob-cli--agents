@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2086421`](https://github.com/bobs-org/bob-cli/commit/20864213695733c36b3e957799f76c8bd230ddcc) | chore: add Obsidian to Logseq migration research | 2026-06-03 16:42:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`2086421`](https://github.com/bobs-org/bob-cli/commit/20864213695733c36b3e957799f76c8bd230ddcc) | chore: add Obsidian to Logseq migration research | 2026-06-03 16:42:41 |
 
 ## Neighbors
 

@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`08d0d77`](https://github.com/bobs-org/bob-cli/commit/08d0d772e8cab9aea184faece5ee01a5f1c51d61) | chore: Add SDD prompt and plan for fix\_counted\_transclusion\_keymaps | 2026-07-08 00:33:42 |
-| root | [`7f6faed`](https://github.com/bobs-org/bob-cli/commit/7f6faed8519904755a7eaed0cb4dfda39b861c43) | chore: Mark SDD plan done | 2026-07-08 16:38:04 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | bob-cli | [`08d0d77`](https://github.com/bobs-org/bob-cli/commit/08d0d772e8cab9aea184faece5ee01a5f1c51d61) | chore: Add SDD prompt and plan for fix\_counted\_transclusion\_keymaps | 2026-07-08 00:33:42 |
+| root | bob-cli | [`7f6faed`](https://github.com/bobs-org/bob-cli/commit/7f6faed8519904755a7eaed0cb4dfda39b861c43) | chore: Mark SDD plan done | 2026-07-08 16:38:04 |
 
 ## Neighbors
 

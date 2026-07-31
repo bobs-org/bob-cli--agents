@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`0093cdd`](https://github.com/bobs-org/bob-cli/commit/0093cddb72c06d12d56ba77b22576db8ea389cd6) | feat(projects): propagate schedules to project tasks | 2026-07-27 12:43:36 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`0093cdd`](https://github.com/bobs-org/bob-cli/commit/0093cddb72c06d12d56ba77b22576db8ea389cd6) | feat(projects): propagate schedules to project tasks | 2026-07-27 12:43:36 |

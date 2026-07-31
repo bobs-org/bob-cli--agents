@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a19eaf0`](https://github.com/bobs-org/bob-cli/commit/a19eaf0762c47247bf898ebda39b81122fa6a736) | chore: Add SDD prompt and plan for obsidian\_daily\_activation\_jump | 2026-06-07 10:34:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`a19eaf0`](https://github.com/bobs-org/bob-cli/commit/a19eaf0762c47247bf898ebda39b81122fa6a736) | chore: Add SDD prompt and plan for obsidian\_daily\_activation\_jump | 2026-06-07 10:34:23 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0d3b3a6`](https://github.com/bobs-org/bob-cli/commit/0d3b3a654d0ea7ecda3f1a5368be66313a6fe688) | feat: prune duplicate open Pomodoro links | 2026-07-13 12:53:45 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`0d3b3a6`](https://github.com/bobs-org/bob-cli/commit/0d3b3a654d0ea7ecda3f1a5368be66313a6fe688) | feat: prune duplicate open Pomodoro links | 2026-07-13 12:53:45 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`64c0c73`](https://github.com/bobs-org/bob-cli/commit/64c0c73e11e0c0969af5495fe4d48f9f1f977a54) | chore: add Bob workflow infographic | 2026-06-04 23:49:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`64c0c73`](https://github.com/bobs-org/bob-cli/commit/64c0c73e11e0c0969af5495fe4d48f9f1f977a54) | chore: add Bob workflow infographic | 2026-06-04 23:49:47 |
 
 ## Neighbors
 

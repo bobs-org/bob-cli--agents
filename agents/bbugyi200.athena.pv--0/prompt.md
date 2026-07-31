@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli When a pomodoro task block link sub-bullet has `#` appended to it, the `<ctrl+enter>` Obsidian keymap just copies those sub-bullets to the new pomodoro note that it creates. Can you help me also start sorting these sub-bullets below that did not have `#` appended to them? #plan #m_opus

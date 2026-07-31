@@ -19,7 +19,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a2a9d2d`](https://github.com/bobs-org/bob-cli/commit/a2a9d2d97ea4baf7f70671ff935bca2e4557a897) | chore: Add SDD prompt and plan for obsidian\_ctrl\_jk\_header\_navigation | 2026-06-11 15:11:46 |
-| [`b6a9b4c`](https://github.com/bobs-org/bob-cli/commit/b6a9b4cdbd3d65530081c20ae9315f4332d55110) | docs: document project scheduling from lifecycle tasks | 2026-07-11 13:00:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`a2a9d2d`](https://github.com/bobs-org/bob-cli/commit/a2a9d2d97ea4baf7f70671ff935bca2e4557a897) | chore: Add SDD prompt and plan for obsidian\_ctrl\_jk\_header\_navigation | 2026-06-11 15:11:46 |
+| bob-cli | [`b6a9b4c`](https://github.com/bobs-org/bob-cli/commit/b6a9b4cdbd3d65530081c20ae9315f4332d55110) | docs: document project scheduling from lifecycle tasks | 2026-07-11 13:00:39 |

@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`45da09e`](https://github.com/bobs-org/bob-cli/commit/45da09edb7a0aacf8a3335b2cb33e9a6ab3c09c7) | chore: Add SDD prompt and plan for next\_status\_on\_pomodoro\_task\_link | 2026-07-08 17:04:38 |
-| [`e7670d9`](https://github.com/bobs-org/bob-cli/commit/e7670d952224c0f8e93bc3a3bb3e2ef50a9a4302) | chore: Mark SDD plan done | 2026-07-08 18:02:41 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`45da09e`](https://github.com/bobs-org/bob-cli/commit/45da09edb7a0aacf8a3335b2cb33e9a6ab3c09c7) | chore: Add SDD prompt and plan for next\_status\_on\_pomodoro\_task\_link | 2026-07-08 17:04:38 |
+| bob-cli | [`e7670d9`](https://github.com/bobs-org/bob-cli/commit/e7670d952224c0f8e93bc3a3bb3e2ef50a9a4302) | chore: Mark SDD plan done | 2026-07-08 18:02:41 |
 
 ## Neighbors
 

@@ -22,11 +22,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`248eee6`](https://github.com/bobs-org/bob-cli/commit/248eee6f08e24811607d3a4e16564741de3430b8) | chore: Add SDD prompt and plan for obsidian\_transclusion\_toggle\_keymap | 2026-06-04 02:02:19 |
-| root | [`59eca4d`](https://github.com/bobs-org/bob-cli/commit/59eca4d5c863481971480471657c39b7ad954e52) | chore: Add SDD prompt and plan for replace\_blocked\_with\_next\_task\_status | 2026-07-08 16:48:29 |
-| root | [`27ea107`](https://github.com/bobs-org/bob-cli/commit/27ea1079b9e7b2a8a29f7db8b2b768ab579acd31) | chore: update project task status examples | 2026-07-08 16:54:59 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | bob-cli | [`248eee6`](https://github.com/bobs-org/bob-cli/commit/248eee6f08e24811607d3a4e16564741de3430b8) | chore: Add SDD prompt and plan for obsidian\_transclusion\_toggle\_keymap | 2026-06-04 02:02:19 |
+| root | bob-cli | [`59eca4d`](https://github.com/bobs-org/bob-cli/commit/59eca4d5c863481971480471657c39b7ad954e52) | chore: Add SDD prompt and plan for replace\_blocked\_with\_next\_task\_status | 2026-07-08 16:48:29 |
+| root | bob-cli | [`27ea107`](https://github.com/bobs-org/bob-cli/commit/27ea1079b9e7b2a8a29f7db8b2b768ab579acd31) | chore: update project task status examples | 2026-07-08 16:54:59 |
 
 ## Neighbors
 

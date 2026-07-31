@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6a4be02`](https://github.com/bobs-org/bob-cli/commit/6a4be0276cc904afb320d8e2e27bf1a096be2e02) | chore: Add research on running Dataview queries from the CLI | 2026-06-03 16:02:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`6a4be02`](https://github.com/bobs-org/bob-cli/commit/6a4be0276cc904afb320d8e2e27bf1a096be2e02) | chore: Add research on running Dataview queries from the CLI | 2026-06-03 16:02:50 |
 
 ## Neighbors
 

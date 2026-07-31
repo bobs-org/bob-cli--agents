@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`222ad54`](https://github.com/bobs-org/bob-cli/commit/222ad54fdb4c95895b80412860d23f2f59c03aab) | chore: Add post-implementation review research for Obsidian projects | 2026-06-12 23:05:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`222ad54`](https://github.com/bobs-org/bob-cli/commit/222ad54fdb4c95895b80412860d23f2f59c03aab) | chore: Add post-implementation review research for Obsidian projects | 2026-06-12 23:05:59 |
 
 ## Neighbors
 

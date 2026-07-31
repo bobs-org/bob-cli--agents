@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d3e0211`](https://github.com/bobs-org/bob-cli/commit/d3e02110e98b0820c32f3f0d5158ee456b2e8113) | chore: Add SDD prompt and plan for obsidian\_enter\_repeat\_explicit\_fix | 2026-06-06 11:36:39 |
-| [`962e510`](https://github.com/bobs-org/bob-cli/commit/962e510f2034505a7fcb347a32e765003d2c7e86) | chore: Mark SDD plan done | 2026-06-06 11:38:26 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`d3e0211`](https://github.com/bobs-org/bob-cli/commit/d3e02110e98b0820c32f3f0d5158ee456b2e8113) | chore: Add SDD prompt and plan for obsidian\_enter\_repeat\_explicit\_fix | 2026-06-06 11:36:39 |
+| bob-cli | [`962e510`](https://github.com/bobs-org/bob-cli/commit/962e510f2034505a7fcb347a32e765003d2c7e86) | chore: Mark SDD plan done | 2026-06-06 11:38:26 |

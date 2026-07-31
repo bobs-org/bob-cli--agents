@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`439b616`](https://github.com/bobs-org/bob-cli/commit/439b616b8f66935f421c541c602006b594bea762) | chore: Add SDD prompt and plan for remove\_highlights\_ref\_scaffold | 2026-06-03 13:22:30 |
-| [`76ae1da`](https://github.com/bobs-org/bob-cli/commit/76ae1da9b142d054d4aa2c0aa5c717d951c3c9d9) | feat: remove extra highlights-ref note headings | 2026-06-03 13:25:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`439b616`](https://github.com/bobs-org/bob-cli/commit/439b616b8f66935f421c541c602006b594bea762) | chore: Add SDD prompt and plan for remove\_highlights\_ref\_scaffold | 2026-06-03 13:22:30 |
+| bob-cli | [`76ae1da`](https://github.com/bobs-org/bob-cli/commit/76ae1da9b142d054d4aa2c0aa5c717d951c3c9d9) | feat: remove extra highlights-ref note headings | 2026-06-03 13:25:38 |
 
 ## Neighbors
 

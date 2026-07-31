@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c6a5559`](https://github.com/bobs-org/bob-cli/commit/c6a55597f116e0ddac441412869b361cdff95e11) | chore: Add SDD prompt and plan for justfile\_pretty\_headers | 2026-06-02 12:34:00 |
-| [`2408183`](https://github.com/bobs-org/bob-cli/commit/24081836ce66158c2b060d255024f1456846ebce) | chore: Render pretty per-step banners in justfile quality targets | 2026-06-02 12:35:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`c6a5559`](https://github.com/bobs-org/bob-cli/commit/c6a55597f116e0ddac441412869b361cdff95e11) | chore: Add SDD prompt and plan for justfile\_pretty\_headers | 2026-06-02 12:34:00 |
+| bob-cli | [`2408183`](https://github.com/bobs-org/bob-cli/commit/24081836ce66158c2b060d255024f1456846ebce) | chore: Render pretty per-step banners in justfile quality targets | 2026-06-02 12:35:35 |

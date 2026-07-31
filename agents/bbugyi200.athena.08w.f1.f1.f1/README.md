@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`85fbc7d`](https://github.com/bobs-org/bob-cli/commit/85fbc7dab6f19d36f0b4e4fde330495c93a2895a) | chore: Add SDD prompt and plan for depends\_on\_navigation\_label | 2026-06-28 14:58:31 |
-| [`2da8067`](https://github.com/bobs-org/bob-cli/commit/2da806766bf52cead3d3780e28d2d02a7b2c0908) | chore: Mark SDD plan done | 2026-06-28 15:11:31 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`85fbc7d`](https://github.com/bobs-org/bob-cli/commit/85fbc7dab6f19d36f0b4e4fde330495c93a2895a) | chore: Add SDD prompt and plan for depends\_on\_navigation\_label | 2026-06-28 14:58:31 |
+| bob-cli | [`2da8067`](https://github.com/bobs-org/bob-cli/commit/2da806766bf52cead3d3780e28d2d02a7b2c0908) | chore: Mark SDD plan done | 2026-06-28 15:11:31 |
 
 ## Neighbors
 

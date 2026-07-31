@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`414ade7`](https://github.com/bobs-org/bob-cli/commit/414ade76f8f093c27832ab57df06ef83d9164acc) | chore: Add SDD prompt and plan for ob\_sync\_hang\_timeout\_guard | 2026-06-14 11:24:43 |
-| [`3cddcc1`](https://github.com/bobs-org/bob-cli/commit/3cddcc18b3e0a950262e2a67935890991abd6440) | docs: Record ob-sync timeout guard implementation | 2026-06-14 11:31:50 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`414ade7`](https://github.com/bobs-org/bob-cli/commit/414ade76f8f093c27832ab57df06ef83d9164acc) | chore: Add SDD prompt and plan for ob\_sync\_hang\_timeout\_guard | 2026-06-14 11:24:43 |
+| bob-cli | [`3cddcc1`](https://github.com/bobs-org/bob-cli/commit/3cddcc18b3e0a950262e2a67935890991abd6440) | docs: Record ob-sync timeout guard implementation | 2026-06-14 11:31:50 |

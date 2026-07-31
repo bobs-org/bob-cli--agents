@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b61c970`](https://github.com/bobs-org/bob-cli/commit/b61c970a724bc24584ac49e814c9ae16f5c9d981) | fix: harden native dataview parity smoke (bob-cli-4.8) | 2026-06-03 22:46:04 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`b61c970`](https://github.com/bobs-org/bob-cli/commit/b61c970a724bc24584ac49e814c9ae16f5c9d981) | fix: harden native dataview parity smoke (bob-cli-4.8) | 2026-06-03 22:46:04 |
 
 ## Neighbors
 

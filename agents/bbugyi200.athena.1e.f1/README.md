@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`175d392`](https://github.com/bobs-org/bob-cli/commit/175d392d9803bbb5c2995c77d2e824c6c38838fd) | chore: Add SDD prompt and plan for cli\_rules\_conformance | 2026-06-03 09:18:35 |
-| [`2f4b4f6`](https://github.com/bobs-org/bob-cli/commit/2f4b4f618df1fc17a49f057cbd11c6628074ae53) | fix: make CLI help safe and ordered | 2026-06-03 09:35:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`175d392`](https://github.com/bobs-org/bob-cli/commit/175d392d9803bbb5c2995c77d2e824c6c38838fd) | chore: Add SDD prompt and plan for cli\_rules\_conformance | 2026-06-03 09:18:35 |
+| bob-cli | [`2f4b4f6`](https://github.com/bobs-org/bob-cli/commit/2f4b4f618df1fc17a49f057cbd11c6628074ae53) | fix: make CLI help safe and ordered | 2026-06-03 09:35:01 |
 
 ## Neighbors
 

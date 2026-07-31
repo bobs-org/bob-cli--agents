@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e9ba058`](https://github.com/bobs-org/bob-cli/commit/e9ba05810f51ea97043b987922d1f1ac7c2e44a9) | feat: add collect-done markdown scan plan (bob-cli-2.2) | 2026-06-02 12:05:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`e9ba058`](https://github.com/bobs-org/bob-cli/commit/e9ba05810f51ea97043b987922d1f1ac7c2e44a9) | feat: add collect-done markdown scan plan (bob-cli-2.2) | 2026-06-02 12:05:13 |
 
 ## Neighbors
 

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`50e81cd`](https://github.com/bobs-org/bob-cli/commit/50e81cd63e77cc9ca92fc4079414499ecc199cd6) | chore: Add SDD prompt and plan for recursive\_transcluded\_line\_ctrl\_enter | 2026-06-20 19:30:18 |
-| [`52f770b`](https://github.com/bobs-org/bob-cli/commit/52f770be801d3004d1699dcdaed12b1825c799de) | chore: Mark SDD plan done | 2026-06-22 11:42:12 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`50e81cd`](https://github.com/bobs-org/bob-cli/commit/50e81cd63e77cc9ca92fc4079414499ecc199cd6) | chore: Add SDD prompt and plan for recursive\_transcluded\_line\_ctrl\_enter | 2026-06-20 19:30:18 |
+| bob-cli | [`52f770b`](https://github.com/bobs-org/bob-cli/commit/52f770be801d3004d1699dcdaed12b1825c799de) | chore: Mark SDD plan done | 2026-06-22 11:42:12 |

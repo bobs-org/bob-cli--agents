@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`ddb1e54`](https://github.com/bobs-org/bob-cli/commit/ddb1e54013852313537e85f0b8b856b0969d7dde) | feat(projects): mark future-scheduled sub-projects | 2026-07-10 17:43:07 |
-| root | [`ddb1e54`](https://github.com/bobs-org/bob-cli/commit/ddb1e54013852313537e85f0b8b856b0969d7dde) | feat(projects): mark future-scheduled sub-projects | 2026-07-10 17:43:07 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`ddb1e54`](https://github.com/bobs-org/bob-cli/commit/ddb1e54013852313537e85f0b8b856b0969d7dde) | feat(projects): mark future-scheduled sub-projects | 2026-07-10 17:43:07 |
+| root | bob-cli | [`ddb1e54`](https://github.com/bobs-org/bob-cli/commit/ddb1e54013852313537e85f0b8b856b0969d7dde) | feat(projects): mark future-scheduled sub-projects | 2026-07-10 17:43:07 |
 
 ## Neighbors
 

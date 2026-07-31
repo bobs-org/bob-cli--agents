@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`217aeef`](https://github.com/bobs-org/bob-cli/commit/217aeef862e0788ebc01ebb0f027803bd619d69b) | chore: Add SDD prompt and plan for preserve\_created\_on\_task\_demote | 2026-06-14 14:58:13 |
-| [`be20460`](https://github.com/bobs-org/bob-cli/commit/be20460795678631122815bbef1e7594eab927c4) | chore: Mark preserve\_created\_on\_task\_demote SDD plan done | 2026-06-14 15:01:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`217aeef`](https://github.com/bobs-org/bob-cli/commit/217aeef862e0788ebc01ebb0f027803bd619d69b) | chore: Add SDD prompt and plan for preserve\_created\_on\_task\_demote | 2026-06-14 14:58:13 |
+| bob-cli | [`be20460`](https://github.com/bobs-org/bob-cli/commit/be20460795678631122815bbef1e7594eab927c4) | chore: Mark preserve\_created\_on\_task\_demote SDD plan done | 2026-06-14 15:01:00 |
 
 ## Neighbors
 

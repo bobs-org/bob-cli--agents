@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cdba58d`](https://github.com/bobs-org/bob-cli/commit/cdba58d8e9db90adde147243450d4a173337d1b7) | chore: Add SDD prompt and plan for project\_task\_links\_to\_prj | 2026-06-12 22:46:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`cdba58d`](https://github.com/bobs-org/bob-cli/commit/cdba58d8e9db90adde147243450d4a173337d1b7) | chore: Add SDD prompt and plan for project\_task\_links\_to\_prj | 2026-06-12 22:46:33 |

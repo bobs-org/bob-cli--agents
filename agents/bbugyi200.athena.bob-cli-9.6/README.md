@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6a61b02`](https://github.com/bobs-org/bob-cli/commit/6a61b02593a780b5c2aba2fee6ae186b51b3ae92) | feat(tasks): render sorted and grouped query results (bob-cli-9.6) | 2026-07-10 20:27:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`6a61b02`](https://github.com/bobs-org/bob-cli/commit/6a61b02593a780b5c2aba2fee6ae186b51b3ae92) | feat(tasks): render sorted and grouped query results (bob-cli-9.6) | 2026-07-10 20:27:05 |
 
 ## Neighbors
 

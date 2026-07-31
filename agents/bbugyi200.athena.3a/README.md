@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e106458`](https://github.com/bobs-org/bob-cli/commit/e1064586fd154fda15e52160913aa03d308d351e) | chore: Add SDD prompt and plan for obsidian\_yank\_path\_keymaps | 2026-06-06 18:12:52 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`e106458`](https://github.com/bobs-org/bob-cli/commit/e1064586fd154fda15e52160913aa03d308d351e) | chore: Add SDD prompt and plan for obsidian\_yank\_path\_keymaps | 2026-06-06 18:12:52 |
 
 ## Neighbors
 

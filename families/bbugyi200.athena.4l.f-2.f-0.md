@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`f4a60e7`](https://github.com/bobs-org/bob-cli/commit/f4a60e7ec65e993bb2ece4d0e63f055b7d25d2fe) | feat(capture): support canonical Pomodoro colon markers | 2026-07-10 20:46:00 |
-| root | [`f4a60e7`](https://github.com/bobs-org/bob-cli/commit/f4a60e7ec65e993bb2ece4d0e63f055b7d25d2fe) | feat(capture): support canonical Pomodoro colon markers | 2026-07-10 20:46:00 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`f4a60e7`](https://github.com/bobs-org/bob-cli/commit/f4a60e7ec65e993bb2ece4d0e63f055b7d25d2fe) | feat(capture): support canonical Pomodoro colon markers | 2026-07-10 20:46:00 |
+| root | bob-cli | [`f4a60e7`](https://github.com/bobs-org/bob-cli/commit/f4a60e7ec65e993bb2ece4d0e63f055b7d25d2fe) | feat(capture): support canonical Pomodoro colon markers | 2026-07-10 20:46:00 |
 
 ## Neighbors
 

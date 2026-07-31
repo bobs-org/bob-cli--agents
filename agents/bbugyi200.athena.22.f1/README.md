@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1e6792b`](https://github.com/bobs-org/bob-cli/commit/1e6792b5e0d1514a6054ed3541d935b733147f62) | chore: Add SDD prompt and plan for daily\_dash\_keymap | 2026-06-04 03:04:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`1e6792b`](https://github.com/bobs-org/bob-cli/commit/1e6792b5e0d1514a6054ed3541d935b733147f62) | chore: Add SDD prompt and plan for daily\_dash\_keymap | 2026-06-04 03:04:53 |
 
 ## Neighbors
 

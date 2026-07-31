@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d152f2a`](https://github.com/bobs-org/bob-cli/commit/d152f2ac75ea06efef8b5cdc563417ef98873d22) | docs(research): analyze vim keymaps failing over embedded focus | 2026-06-15 19:24:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`d152f2a`](https://github.com/bobs-org/bob-cli/commit/d152f2ac75ea06efef8b5cdc563417ef98873d22) | docs(research): analyze vim keymaps failing over embedded focus | 2026-06-15 19:24:42 |
 
 ## Neighbors
 

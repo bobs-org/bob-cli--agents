@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1a12fe2`](https://github.com/bobs-org/bob-cli/commit/1a12fe2303e2fe088ff85e6983573e822e17dfa4) | feat: add highlights-ref scan safety checks (home-2.4) | 2026-06-03 07:42:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`1a12fe2`](https://github.com/bobs-org/bob-cli/commit/1a12fe2303e2fe088ff85e6983573e822e17dfa4) | feat: add highlights-ref scan safety checks (home-2.4) | 2026-06-03 07:42:11 |
 
 ## Neighbors
 

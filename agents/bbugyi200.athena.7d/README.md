@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bf3e2b5`](https://github.com/bobs-org/bob-cli/commit/bf3e2b53d92fc3e7f309d85b25a95d050d32da4a) | chore: Add SDD prompt and plan for obsidian\_alt\_bracket\_bullet\_formatting | 2026-06-14 15:51:42 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`bf3e2b5`](https://github.com/bobs-org/bob-cli/commit/bf3e2b53d92fc3e7f309d85b25a95d050d32da4a) | chore: Add SDD prompt and plan for obsidian\_alt\_bracket\_bullet\_formatting | 2026-06-14 15:51:42 |

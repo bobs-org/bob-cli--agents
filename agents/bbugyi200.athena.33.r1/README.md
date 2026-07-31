@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ffebb08`](https://github.com/bobs-org/bob-cli/commit/ffebb086304bff2e16b874c9c8768e3b98315421) | chore: Add SDD prompt and plan for block\_id\_rename\_cache\_only | 2026-06-06 14:04:10 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`ffebb08`](https://github.com/bobs-org/bob-cli/commit/ffebb086304bff2e16b874c9c8768e3b98315421) | chore: Add SDD prompt and plan for block\_id\_rename\_cache\_only | 2026-06-06 14:04:10 |

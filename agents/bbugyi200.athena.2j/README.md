@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3c5cc08`](https://github.com/bobs-org/bob-cli/commit/3c5cc08a6c89f1769cec39730d8da7a4523b508b) | chore: Add SDD prompt and plan for eat\_restaurant\_migration | 2026-06-05 14:19:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`3c5cc08`](https://github.com/bobs-org/bob-cli/commit/3c5cc08a6c89f1769cec39730d8da7a4523b508b) | chore: Add SDD prompt and plan for eat\_restaurant\_migration | 2026-06-05 14:19:34 |
 
 ## Neighbors
 

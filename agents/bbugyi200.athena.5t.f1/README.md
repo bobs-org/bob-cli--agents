@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`efb259a`](https://github.com/bobs-org/bob-cli/commit/efb259a676edbd8b69154cb9c57308dca1725193) | chore: Add SDD prompt and plan for dash\_tasks\_zt\_redraw\_fix | 2026-06-12 17:05:09 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`efb259a`](https://github.com/bobs-org/bob-cli/commit/efb259a676edbd8b69154cb9c57308dca1725193) | chore: Add SDD prompt and plan for dash\_tasks\_zt\_redraw\_fix | 2026-06-12 17:05:09 |
 
 ## Neighbors
 

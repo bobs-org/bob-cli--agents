@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d0c2e72`](https://github.com/bobs-org/bob-cli/commit/d0c2e72736bd2c27a09ec8236156673d5bd1a406) | chore: Add SDD prompt and plan for capture\_scheduled\_offset | 2026-06-29 18:06:33 |
-| [`5c59612`](https://github.com/bobs-org/bob-cli/commit/5c59612bf26cea429c933ebdc6e5c786a33297f9) | feat(capture): support scheduled offset tokens | 2026-06-29 18:14:56 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`d0c2e72`](https://github.com/bobs-org/bob-cli/commit/d0c2e72736bd2c27a09ec8236156673d5bd1a406) | chore: Add SDD prompt and plan for capture\_scheduled\_offset | 2026-06-29 18:06:33 |
+| bob-cli | [`5c59612`](https://github.com/bobs-org/bob-cli/commit/5c59612bf26cea429c933ebdc6e5c786a33297f9) | feat(capture): support scheduled offset tokens | 2026-06-29 18:14:56 |

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8b61af4`](https://github.com/bobs-org/bob-cli/commit/8b61af4ad4e336cb9e50eab3b27c3a22575bf271) | chore: Add SDD prompt and plan for bob\_help\_redesign | 2026-06-01 15:24:16 |
-| [`ce80191`](https://github.com/bobs-org/bob-cli/commit/ce801910a7d344e23d2684814ac35739fe90d682) | feat: redesign top-level \`bob\` help screen | 2026-06-01 15:27:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`8b61af4`](https://github.com/bobs-org/bob-cli/commit/8b61af4ad4e336cb9e50eab3b27c3a22575bf271) | chore: Add SDD prompt and plan for bob\_help\_redesign | 2026-06-01 15:24:16 |
+| bob-cli | [`ce80191`](https://github.com/bobs-org/bob-cli/commit/ce801910a7d344e23d2684814ac35739fe90d682) | feat: redesign top-level \`bob\` help screen | 2026-06-01 15:27:21 |

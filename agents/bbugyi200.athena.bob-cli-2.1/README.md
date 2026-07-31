@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ffbdbb1`](https://github.com/bobs-org/bob-cli/commit/ffbdbb19a00ad33e18aa3fe0ab8dcfda5119a09d) | feat: add native collect-done command surface (bob-cli-2.1) | 2026-06-02 11:55:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`ffbdbb1`](https://github.com/bobs-org/bob-cli/commit/ffbdbb19a00ad33e18aa3fe0ab8dcfda5119a09d) | feat: add native collect-done command surface (bob-cli-2.1) | 2026-06-02 11:55:32 |
 
 ## Neighbors
 

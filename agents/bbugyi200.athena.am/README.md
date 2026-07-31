@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d76885d`](https://github.com/bobs-org/bob-cli/commit/d76885d10527bca43cdc62bfeed1ff523cd66ce2) | fix(task-status-setter): remove canceled Pomodoro links | 2026-07-16 17:24:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`d76885d`](https://github.com/bobs-org/bob-cli/commit/d76885d10527bca43cdc62bfeed1ff523cd66ce2) | fix(task-status-setter): remove canceled Pomodoro links | 2026-07-16 17:24:55 |

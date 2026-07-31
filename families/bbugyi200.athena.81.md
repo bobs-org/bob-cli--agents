@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`5c46c48`](https://github.com/bobs-org/bob-cli/commit/5c46c484ca346c11b6e0dc9e13d45553df1eb598) | feat(projects): tag lifecycle tasks with #prj and #ref | 2026-06-15 20:08:34 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | bob-cli | [`5c46c48`](https://github.com/bobs-org/bob-cli/commit/5c46c484ca346c11b6e0dc9e13d45553df1eb598) | feat(projects): tag lifecycle tasks with #prj and #ref | 2026-06-15 20:08:34 |

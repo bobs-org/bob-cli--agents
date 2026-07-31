@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9bb625a`](https://github.com/bobs-org/bob-cli/commit/9bb625aef0c9c12825df0a5056405fc741dbca8c) | feat: block tasks with future inline schedules | 2026-07-24 22:37:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`9bb625a`](https://github.com/bobs-org/bob-cli/commit/9bb625aef0c9c12825df0a5056405fc741dbca8c) | feat: block tasks with future inline schedules | 2026-07-24 22:37:38 |
 
 ## Neighbors
 

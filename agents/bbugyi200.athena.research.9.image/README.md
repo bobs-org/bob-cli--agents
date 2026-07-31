@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`19c0a18`](https://github.com/bobs-org/bob-cli/commit/19c0a18e7102e4b2942d7f46f550f485ee41659b) | chore: add Obsidian vs Notion infographic | 2026-06-12 12:02:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`19c0a18`](https://github.com/bobs-org/bob-cli/commit/19c0a18e7102e4b2942d7f46f550f485ee41659b) | chore: add Obsidian vs Notion infographic | 2026-06-12 12:02:11 |
 
 ## Neighbors
 

@@ -15,8 +15,8 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`18cd26b`](https://github.com/bobs-org/bob-cli/commit/18cd26b5f74a57ca36c99349d955f51cad7c4d6b) | chore: Add SDD prompt and plan for collect\_done | 2026-06-02 11:44:25 |
-| [`20d1c31`](https://github.com/bobs-org/bob-cli/commit/20d1c31544918b768b2f3b813440eeeddb4d3a17) | chore: create collect-done epic beads | 2026-06-02 11:46:36 |
-| [`2e7d1d1`](https://github.com/bobs-org/bob-cli/commit/2e7d1d14a065b866f409130adcf17b55cf8eb92f) | chore: refresh bead database after collect-done launch | 2026-06-02 11:48:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`18cd26b`](https://github.com/bobs-org/bob-cli/commit/18cd26b5f74a57ca36c99349d955f51cad7c4d6b) | chore: Add SDD prompt and plan for collect\_done | 2026-06-02 11:44:25 |
+| bob-cli | [`20d1c31`](https://github.com/bobs-org/bob-cli/commit/20d1c31544918b768b2f3b813440eeeddb4d3a17) | chore: create collect-done epic beads | 2026-06-02 11:46:36 |
+| bob-cli | [`2e7d1d1`](https://github.com/bobs-org/bob-cli/commit/2e7d1d14a065b866f409130adcf17b55cf8eb92f) | chore: refresh bead database after collect-done launch | 2026-06-02 11:48:13 |

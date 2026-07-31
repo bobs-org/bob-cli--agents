@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d5d756a`](https://github.com/bobs-org/bob-cli/commit/d5d756ab4fd7706413394b1b6d005905d3a2430a) | chore: Add SDD prompt and plan for obsidian\_ctrl\_hotkey\_rotation | 2026-06-06 12:12:24 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`d5d756a`](https://github.com/bobs-org/bob-cli/commit/d5d756ab4fd7706413394b1b6d005905d3a2430a) | chore: Add SDD prompt and plan for obsidian\_ctrl\_hotkey\_rotation | 2026-06-06 12:12:24 |

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b3f7468`](https://github.com/bobs-org/bob-cli/commit/b3f74687a5caa66603c783f9d1624962bb7c1bea) | chore: Add SDD prompt and plan for highlights\_ref\_contract\_1 | 2026-06-03 09:17:59 |
-| [`2e12221`](https://github.com/bobs-org/bob-cli/commit/2e12221930fbeb0e5675238e36ea46f69532c2ec) | feat: tighten highlights ref marker contract | 2026-06-03 09:28:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`b3f7468`](https://github.com/bobs-org/bob-cli/commit/b3f74687a5caa66603c783f9d1624962bb7c1bea) | chore: Add SDD prompt and plan for highlights\_ref\_contract\_1 | 2026-06-03 09:17:59 |
+| bob-cli | [`2e12221`](https://github.com/bobs-org/bob-cli/commit/2e12221930fbeb0e5675238e36ea46f69532c2ec) | feat: tighten highlights ref marker contract | 2026-06-03 09:28:33 |
 
 ## Neighbors
 

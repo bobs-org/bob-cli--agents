@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`13e11c6`](https://github.com/bobs-org/bob-cli/commit/13e11c60201c029386f35a9c2ca3e636b2166d34) | feat(query): execute Tasks blocks from notes (bob-cli-9.7) | 2026-07-10 20:41:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`13e11c6`](https://github.com/bobs-org/bob-cli/commit/13e11c60201c029386f35a9c2ca3e636b2166d34) | feat(query): execute Tasks blocks from notes (bob-cli-9.7) | 2026-07-10 20:41:43 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`038ff54`](https://github.com/bobs-org/bob-cli/commit/038ff547405ffab34643a4cf868d4b9f87ff2b6d) | chore: Add SDD prompt and plan for done\_archive\_parent\_type | 2026-06-02 13:14:03 |
-| [`03ed241`](https://github.com/bobs-org/bob-cli/commit/03ed2419ae5d8cfc2a2b0a837143c83095e18f65) | fix: maintain collect-done archive metadata | 2026-06-02 13:26:36 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`038ff54`](https://github.com/bobs-org/bob-cli/commit/038ff547405ffab34643a4cf868d4b9f87ff2b6d) | chore: Add SDD prompt and plan for done\_archive\_parent\_type | 2026-06-02 13:14:03 |
+| bob-cli | [`03ed241`](https://github.com/bobs-org/bob-cli/commit/03ed2419ae5d8cfc2a2b0a837143c83095e18f65) | fix: maintain collect-done archive metadata | 2026-06-02 13:26:36 |
 
 ## Neighbors
 

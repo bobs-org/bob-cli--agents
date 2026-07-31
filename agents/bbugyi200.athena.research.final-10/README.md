@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`c83e204`](https://github.com/bobs-org/bob-cli/commit/c83e204ad3a0cada2e78842becf70afaceb8c483) | chore: consolidate Bob PDF workflow research | 2026-06-04 23:45:40 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`c83e204`](https://github.com/bobs-org/bob-cli/commit/c83e204ad3a0cada2e78842becf70afaceb8c483) | chore: consolidate Bob PDF workflow research | 2026-06-04 23:45:40 |
 
 ## Neighbors
 

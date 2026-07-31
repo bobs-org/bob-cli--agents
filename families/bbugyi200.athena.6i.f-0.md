@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`334f18b`](https://github.com/bobs-org/bob-cli/commit/334f18b8200bea940d056744e45ba46810445d90) | fix: preserve Pomodoro marker provenance | 2026-07-12 14:58:04 |
-| root | [`334f18b`](https://github.com/bobs-org/bob-cli/commit/334f18b8200bea940d056744e45ba46810445d90) | fix: preserve Pomodoro marker provenance | 2026-07-12 14:58:04 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`334f18b`](https://github.com/bobs-org/bob-cli/commit/334f18b8200bea940d056744e45ba46810445d90) | fix: preserve Pomodoro marker provenance | 2026-07-12 14:58:04 |
+| root | bob-cli | [`334f18b`](https://github.com/bobs-org/bob-cli/commit/334f18b8200bea940d056744e45ba46810445d90) | fix: preserve Pomodoro marker provenance | 2026-07-12 14:58:04 |
 
 ## Neighbors
 

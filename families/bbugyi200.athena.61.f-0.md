@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`0e67766`](https://github.com/bobs-org/bob-cli/commit/0e677668a2082c3f099b8ce2bd2286f67f7dfea5) | feat: repair task dependency identities on archive moves | 2026-07-11 21:14:04 |
-| root | [`0e67766`](https://github.com/bobs-org/bob-cli/commit/0e677668a2082c3f099b8ce2bd2286f67f7dfea5) | feat: repair task dependency identities on archive moves | 2026-07-11 21:14:04 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`0e67766`](https://github.com/bobs-org/bob-cli/commit/0e677668a2082c3f099b8ce2bd2286f67f7dfea5) | feat: repair task dependency identities on archive moves | 2026-07-11 21:14:04 |
+| root | bob-cli | [`0e67766`](https://github.com/bobs-org/bob-cli/commit/0e677668a2082c3f099b8ce2bd2286f67f7dfea5) | feat: repair task dependency identities on archive moves | 2026-07-11 21:14:04 |
 
 ## Neighbors
 

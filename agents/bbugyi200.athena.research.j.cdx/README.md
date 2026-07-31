@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b529908`](https://github.com/bobs-org/bob-cli/commit/b529908a0d62d1fb2a732d70e4d1a1a2dd356401) | docs: research QuickAdd task capture migration | 2026-06-15 19:51:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`b529908`](https://github.com/bobs-org/bob-cli/commit/b529908a0d62d1fb2a732d70e4d1a1a2dd356401) | docs: research QuickAdd task capture migration | 2026-06-15 19:51:03 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ea31684`](https://github.com/bobs-org/bob-cli/commit/ea316840ed5707f66950c7b6714b432a1177b080) | chore: Add SDD prompt and plan for migrate\_ref\_pdf\_lines\_to\_tasks | 2026-06-04 03:14:00 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`ea31684`](https://github.com/bobs-org/bob-cli/commit/ea316840ed5707f66950c7b6714b432a1177b080) | chore: Add SDD prompt and plan for migrate\_ref\_pdf\_lines\_to\_tasks | 2026-06-04 03:14:00 |
 
 ## Neighbors
 

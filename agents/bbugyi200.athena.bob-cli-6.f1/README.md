@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9e71074`](https://github.com/bobs-org/bob-cli/commit/9e71074a1849ce891ad029d2cefc3c56b7429e71) | chore: Add SDD prompt and plan for fix\_bad\_area\_type\_links | 2026-06-11 22:08:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`9e71074`](https://github.com/bobs-org/bob-cli/commit/9e71074a1849ce891ad029d2cefc3c56b7429e71) | chore: Add SDD prompt and plan for fix\_bad\_area\_type\_links | 2026-06-11 22:08:29 |
 
 ## Neighbors
 

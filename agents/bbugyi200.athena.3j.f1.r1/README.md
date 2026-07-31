@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`56af57a`](https://github.com/bobs-org/bob-cli/commit/56af57a724c5a7a17c6d097052db512187b4735f) | chore: Add SDD prompt and plan for fix\_june\_period\_notes | 2026-06-07 12:51:17 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`56af57a`](https://github.com/bobs-org/bob-cli/commit/56af57a724c5a7a17c6d097052db512187b4735f) | chore: Add SDD prompt and plan for fix\_june\_period\_notes | 2026-06-07 12:51:17 |
 
 ## Neighbors
 

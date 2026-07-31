@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ef1d4d5`](https://github.com/bobs-org/bob-cli/commit/ef1d4d552aa8e9b492542c348e762e9507e3fd0e) | docs: refresh generated memory layout guidance (sase-6d.7) | 2026-07-16 19:18:43 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`ef1d4d5`](https://github.com/bobs-org/bob-cli/commit/ef1d4d552aa8e9b492542c348e762e9507e3fd0e) | docs: refresh generated memory layout guidance (sase-6d.7) | 2026-07-16 19:18:43 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`85469fd`](https://github.com/bobs-org/bob-cli/commit/85469fd2d51a389c645eed65c38a6cffce8b73bb) | chore: Add SDD prompt and plan for capture\_target\_picker\_1 | 2026-06-16 13:20:08 |
-| [`8575053`](https://github.com/bobs-org/bob-cli/commit/85750534360ac11635cf53a7f71ef2e799e16ef4) | feat: add capture target picker command | 2026-06-16 13:30:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`85469fd`](https://github.com/bobs-org/bob-cli/commit/85469fd2d51a389c645eed65c38a6cffce8b73bb) | chore: Add SDD prompt and plan for capture\_target\_picker\_1 | 2026-06-16 13:20:08 |
+| bob-cli | [`8575053`](https://github.com/bobs-org/bob-cli/commit/85750534360ac11635cf53a7f71ef2e799e16ef4) | feat: add capture target picker command | 2026-06-16 13:30:37 |
 
 ## Neighbors
 

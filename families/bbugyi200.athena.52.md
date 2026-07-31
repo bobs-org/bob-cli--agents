@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`1ca1109`](https://github.com/bobs-org/bob-cli/commit/1ca11094811c5bcd04feeacec54e99b3503610d6) | feat: rehome completed Pomodoro task links | 2026-07-10 22:31:55 |
-| root | [`1ca1109`](https://github.com/bobs-org/bob-cli/commit/1ca11094811c5bcd04feeacec54e99b3503610d6) | feat: rehome completed Pomodoro task links | 2026-07-10 22:31:55 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`1ca1109`](https://github.com/bobs-org/bob-cli/commit/1ca11094811c5bcd04feeacec54e99b3503610d6) | feat: rehome completed Pomodoro task links | 2026-07-10 22:31:55 |
+| root | bob-cli | [`1ca1109`](https://github.com/bobs-org/bob-cli/commit/1ca11094811c5bcd04feeacec54e99b3503610d6) | feat: rehome completed Pomodoro task links | 2026-07-10 22:31:55 |

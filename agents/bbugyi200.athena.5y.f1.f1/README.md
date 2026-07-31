@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`926ca6d`](https://github.com/bobs-org/bob-cli/commit/926ca6dd2bba15dc9090c2d91e492241c69fabdd) | chore: Add SDD prompt and plan for projects\_subprojects\_line | 2026-06-12 18:21:57 |
-| [`68918a6`](https://github.com/bobs-org/bob-cli/commit/68918a64ae1150d5e9faa0cf4522aacb7ebc9ec1) | feat(projects)!: sync sub-projects on marker line | 2026-06-12 18:35:06 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`926ca6d`](https://github.com/bobs-org/bob-cli/commit/926ca6dd2bba15dc9090c2d91e492241c69fabdd) | chore: Add SDD prompt and plan for projects\_subprojects\_line | 2026-06-12 18:21:57 |
+| bob-cli | [`68918a6`](https://github.com/bobs-org/bob-cli/commit/68918a64ae1150d5e9faa0cf4522aacb7ebc9ec1) | feat(projects)!: sync sub-projects on marker line | 2026-06-12 18:35:06 |
 
 ## Neighbors
 

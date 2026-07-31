@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ab4bafb`](https://github.com/bobs-org/bob-cli/commit/ab4bafba81368ace74a5e02629e23c5575a76e56) | docs: clarify capture and project workflows (sase-6v.9) | 2026-07-19 02:28:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`ab4bafb`](https://github.com/bobs-org/bob-cli/commit/ab4bafba81368ace74a5e02629e23c5575a76e56) | docs: clarify capture and project workflows (sase-6v.9) | 2026-07-19 02:28:59 |
 
 ## Neighbors
 

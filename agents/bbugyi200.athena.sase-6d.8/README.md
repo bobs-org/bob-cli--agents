@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0194765`](https://github.com/bobs-org/bob-cli/commit/0194765f1809c9ef536e32b023a6544bc1715055) | chore: refresh memory directory map (sase-6d.8) | 2026-07-16 19:53:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`0194765`](https://github.com/bobs-org/bob-cli/commit/0194765f1809c9ef536e32b023a6544bc1715055) | chore: refresh memory directory map (sase-6d.8) | 2026-07-16 19:53:01 |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`175ae87`](https://github.com/bobs-org/bob-cli/commit/175ae8784c00485af1d2ea83041fedf2ec1f95fe) | chore: Add SDD prompt and plan for native\_dataview\_folder\_source\_parity | 2026-06-03 23:22:59 |
-| [`9fda4ee`](https://github.com/bobs-org/bob-cli/commit/9fda4eee843eddf2e832da05d15a9fa50d3e463c) | fix: prefer dataview folders over same-named notes | 2026-06-03 23:30:33 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`175ae87`](https://github.com/bobs-org/bob-cli/commit/175ae8784c00485af1d2ea83041fedf2ec1f95fe) | chore: Add SDD prompt and plan for native\_dataview\_folder\_source\_parity | 2026-06-03 23:22:59 |
+| bob-cli | [`9fda4ee`](https://github.com/bobs-org/bob-cli/commit/9fda4eee843eddf2e832da05d15a9fa50d3e463c) | fix: prefer dataview folders over same-named notes | 2026-06-03 23:30:33 |
 
 ## Neighbors
 

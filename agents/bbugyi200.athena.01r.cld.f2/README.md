@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`34763a6`](https://github.com/bobs-org/bob-cli/commit/34763a664c1645e681013231c4c6a72c774ad40d) | chore: Add SDD prompt and plan for fix\_vim\_surround\_ys\_keymap | 2026-06-20 02:38:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`34763a6`](https://github.com/bobs-org/bob-cli/commit/34763a664c1645e681013231c4c6a72c774ad40d) | chore: Add SDD prompt and plan for fix\_vim\_surround\_ys\_keymap | 2026-06-20 02:38:01 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`830d200`](https://github.com/bobs-org/bob-cli/commit/830d200fe57fa9133d1dec6860c625edb862fdb6) | feat: add native Dataview index values (bob-cli-4.2) | 2026-06-03 21:04:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`830d200`](https://github.com/bobs-org/bob-cli/commit/830d200fe57fa9133d1dec6860c625edb862fdb6) | feat: add native Dataview index values (bob-cli-4.2) | 2026-06-03 21:04:05 |
 
 ## Neighbors
 

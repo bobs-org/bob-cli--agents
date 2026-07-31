@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`12c4a60`](https://github.com/bobs-org/bob-cli/commit/12c4a602ea91791a73ac4a3043d2b766e790a7bc) | chore: Add SDD prompt and plan for maybe\_bob\_highlights\_sync\_quiet\_cron | 2026-06-03 21:11:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`12c4a60`](https://github.com/bobs-org/bob-cli/commit/12c4a602ea91791a73ac4a3043d2b766e790a7bc) | chore: Add SDD prompt and plan for maybe\_bob\_highlights\_sync\_quiet\_cron | 2026-06-03 21:11:28 |

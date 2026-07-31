@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`338e59a`](https://github.com/bobs-org/bob-cli/commit/338e59a72e064b7fde8c612363d6f31fbb651a1e) | chore: research GTD project notes in Obsidian | 2026-06-08 15:34:47 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`338e59a`](https://github.com/bobs-org/bob-cli/commit/338e59a72e064b7fde8c612363d6f31fbb651a1e) | chore: research GTD project notes in Obsidian | 2026-06-08 15:34:47 |
 
 ## Neighbors
 

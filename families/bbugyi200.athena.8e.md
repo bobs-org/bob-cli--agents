@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`902db01`](https://github.com/bobs-org/bob-cli/commit/902db0183631e2c1fb49748b693a7d8a584fdda8) | fix: support aliases in recursive task transclusions | 2026-07-14 12:21:46 |
-| root | [`902db01`](https://github.com/bobs-org/bob-cli/commit/902db0183631e2c1fb49748b693a7d8a584fdda8) | fix: support aliases in recursive task transclusions | 2026-07-14 12:21:46 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`902db01`](https://github.com/bobs-org/bob-cli/commit/902db0183631e2c1fb49748b693a7d8a584fdda8) | fix: support aliases in recursive task transclusions | 2026-07-14 12:21:46 |
+| root | bob-cli | [`902db01`](https://github.com/bobs-org/bob-cli/commit/902db0183631e2c1fb49748b693a7d8a584fdda8) | fix: support aliases in recursive task transclusions | 2026-07-14 12:21:46 |
 
 ## Neighbors
 

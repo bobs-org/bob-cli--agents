@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3ad3a94`](https://github.com/bobs-org/bob-cli/commit/3ad3a9419131fa4a392fd9c84b2b570966e519f2) | chore: Add research on relative line numbers in Obsidian | 2026-06-02 18:38:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`3ad3a94`](https://github.com/bobs-org/bob-cli/commit/3ad3a9419131fa4a392fd9c84b2b570966e519f2) | chore: Add research on relative line numbers in Obsidian | 2026-06-02 18:38:29 |

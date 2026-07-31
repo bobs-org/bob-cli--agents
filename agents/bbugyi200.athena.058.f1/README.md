@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`3f7679e`](https://github.com/bobs-org/bob-cli/commit/3f7679e6fe5d20db43001734a918e4b2a626e40e) | chore: Add SDD prompt and plan for block\_link\_completion\_hash\_caret | 2026-06-24 13:03:27 |
-| [`3694c70`](https://github.com/bobs-org/bob-cli/commit/3694c70973649db8628c7f1202ebf05daed4e49a) | chore: Mark SDD plan done | 2026-06-24 13:07:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`3f7679e`](https://github.com/bobs-org/bob-cli/commit/3f7679e6fe5d20db43001734a918e4b2a626e40e) | chore: Add SDD prompt and plan for block\_link\_completion\_hash\_caret | 2026-06-24 13:03:27 |
+| bob-cli | [`3694c70`](https://github.com/bobs-org/bob-cli/commit/3694c70973649db8628c7f1202ebf05daed4e49a) | chore: Mark SDD plan done | 2026-06-24 13:07:20 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1ecaa62`](https://github.com/bobs-org/bob-cli/commit/1ecaa62ba9167010288b88b1f2e6206695137a7f) | chore: Add SDD prompt and plan for obsidian\_child\_popup\_usability | 2026-06-03 15:43:32 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`1ecaa62`](https://github.com/bobs-org/bob-cli/commit/1ecaa62ba9167010288b88b1f2e6206695137a7f) | chore: Add SDD prompt and plan for obsidian\_child\_popup\_usability | 2026-06-03 15:43:32 |
 
 ## Neighbors
 

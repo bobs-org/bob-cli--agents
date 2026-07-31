@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`8bc5a02`](https://github.com/bobs-org/bob-cli/commit/8bc5a02f5c46f2f2a4b1c8826dcba37fd621e472) | fix(task-status-setter): remove canceled reference subtrees | 2026-07-16 19:17:32 |
-| root | [`8bc5a02`](https://github.com/bobs-org/bob-cli/commit/8bc5a02f5c46f2f2a4b1c8826dcba37fd621e472) | fix(task-status-setter): remove canceled reference subtrees | 2026-07-16 19:17:32 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`8bc5a02`](https://github.com/bobs-org/bob-cli/commit/8bc5a02f5c46f2f2a4b1c8826dcba37fd621e472) | fix(task-status-setter): remove canceled reference subtrees | 2026-07-16 19:17:32 |
+| root | bob-cli | [`8bc5a02`](https://github.com/bobs-org/bob-cli/commit/8bc5a02f5c46f2f2a4b1c8826dcba37fd621e472) | fix(task-status-setter): remove canceled reference subtrees | 2026-07-16 19:17:32 |

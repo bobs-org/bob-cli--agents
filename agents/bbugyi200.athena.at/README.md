@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`cf931a3`](https://github.com/bobs-org/bob-cli/commit/cf931a3829015e5cfa004b32c715334e4982ebc9) | feat(cli): rename task status command to task-status-hooks | 2026-07-16 20:16:53 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`cf931a3`](https://github.com/bobs-org/bob-cli/commit/cf931a3829015e5cfa004b32c715334e4982ebc9) | feat(cli): rename task status command to task-status-hooks | 2026-07-16 20:16:53 |

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`df17aca`](https://github.com/bobs-org/bob-cli/commit/df17aca97200de6c9d963bacf4706d0b5a90713f) | chore: Add SDD prompt and plan for bold\_ledger\_time\_ranges | 2026-06-02 16:12:48 |
-| [`31c471e`](https://github.com/bobs-org/bob-cli/commit/31c471ee63e6b1e5d4310ea547bb53f871ea13d8) | feat: support bold Pomodoro ledger ranges | 2026-06-02 16:21:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`df17aca`](https://github.com/bobs-org/bob-cli/commit/df17aca97200de6c9d963bacf4706d0b5a90713f) | chore: Add SDD prompt and plan for bold\_ledger\_time\_ranges | 2026-06-02 16:12:48 |
+| bob-cli | [`31c471e`](https://github.com/bobs-org/bob-cli/commit/31c471ee63e6b1e5d4310ea547bb53f871ea13d8) | feat: support bold Pomodoro ledger ranges | 2026-06-02 16:21:07 |
 
 ## Neighbors
 

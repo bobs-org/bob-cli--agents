@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ab27f78`](https://github.com/bobs-org/bob-cli/commit/ab27f78fefbe898f21723457ff4e4f3bec3835a0) | chore: consolidate Dataview CLI research | 2026-06-03 16:17:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`ab27f78`](https://github.com/bobs-org/bob-cli/commit/ab27f78fefbe898f21723457ff4e4f3bec3835a0) | chore: consolidate Dataview CLI research | 2026-06-03 16:17:01 |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`bf21097`](https://github.com/bobs-org/bob-cli/commit/bf210971c13aa5060ecf145f7fbc7ecbbec40ccd) | feat(cli): recover task status dependency state | 2026-07-16 15:51:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`bf21097`](https://github.com/bobs-org/bob-cli/commit/bf210971c13aa5060ecf145f7fbc7ecbbec40ccd) | feat(cli): recover task status dependency state | 2026-07-16 15:51:07 |
 
 ## Neighbors
 

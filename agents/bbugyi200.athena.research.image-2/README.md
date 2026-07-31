@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6d26576`](https://github.com/bobs-org/bob-cli/commit/6d26576a3aefcf50d4b9821296059b2d2c2f32a9) | chore: add Dataview CLI research infographic | 2026-06-03 16:20:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`6d26576`](https://github.com/bobs-org/bob-cli/commit/6d26576a3aefcf50d4b9821296059b2d2c2f32a9) | chore: add Dataview CLI research infographic | 2026-06-03 16:20:44 |
 
 ## Neighbors
 

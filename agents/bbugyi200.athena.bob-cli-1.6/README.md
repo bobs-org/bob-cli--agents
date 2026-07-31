@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`24d26c5`](https://github.com/bobs-org/bob-cli/commit/24d26c54c8fbe80c647aa0335d4dba58ab3e6406) | feat: migrate bob commands to native Rust (bob-cli-1.6) | 2026-06-01 15:06:35 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`24d26c5`](https://github.com/bobs-org/bob-cli/commit/24d26c54c8fbe80c647aa0335d4dba58ab3e6406) | feat: migrate bob commands to native Rust (bob-cli-1.6) | 2026-06-01 15:06:35 |
 
 ## Neighbors
 

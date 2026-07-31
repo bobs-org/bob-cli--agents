@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d9e3d4c`](https://github.com/bobs-org/bob-cli/commit/d9e3d4cda5f5977fd530688808cef42c8daad0dc) | chore: Add SDD prompt and plan for capture\_at\_hash\_picker | 2026-06-19 19:49:26 |
-| [`9cbab60`](https://github.com/bobs-org/bob-cli/commit/9cbab608aea664d374cbea5832eacd54798fc235) | chore: Mark SDD plan done | 2026-06-19 19:53:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`d9e3d4c`](https://github.com/bobs-org/bob-cli/commit/d9e3d4cda5f5977fd530688808cef42c8daad0dc) | chore: Add SDD prompt and plan for capture\_at\_hash\_picker | 2026-06-19 19:49:26 |
+| bob-cli | [`9cbab60`](https://github.com/bobs-org/bob-cli/commit/9cbab608aea664d374cbea5832eacd54798fc235) | chore: Mark SDD plan done | 2026-06-19 19:53:57 |

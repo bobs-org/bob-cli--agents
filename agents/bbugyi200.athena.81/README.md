@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5c46c48`](https://github.com/bobs-org/bob-cli/commit/5c46c484ca346c11b6e0dc9e13d45553df1eb598) | feat(projects): tag lifecycle tasks with #prj and #ref | 2026-06-15 20:08:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`5c46c48`](https://github.com/bobs-org/bob-cli/commit/5c46c484ca346c11b6e0dc9e13d45553df1eb598) | feat(projects): tag lifecycle tasks with #prj and #ref | 2026-06-15 20:08:34 |

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a9828d7`](https://github.com/bobs-org/bob-cli/commit/a9828d71e619eb8136a612d2fb6f86da72d9b835) | chore: Add SDD prompt and plan for skip\_missing\_ob\_sync | 2026-06-01 15:17:29 |
-| [`5fb598b`](https://github.com/bobs-org/bob-cli/commit/5fb598bbae0e0156137397c65ecdd1070da9ba12) | fix: skip missing ob during pomodoro runtimes | 2026-06-01 15:21:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`a9828d7`](https://github.com/bobs-org/bob-cli/commit/a9828d71e619eb8136a612d2fb6f86da72d9b835) | chore: Add SDD prompt and plan for skip\_missing\_ob\_sync | 2026-06-01 15:17:29 |
+| bob-cli | [`5fb598b`](https://github.com/bobs-org/bob-cli/commit/5fb598bbae0e0156137397c65ecdd1070da9ba12) | fix: skip missing ob during pomodoro runtimes | 2026-06-01 15:21:48 |

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4390fd5`](https://github.com/bobs-org/bob-cli/commit/4390fd56eb65c6afdbc4a5e37b10df9f5a52e682) | chore: consolidate dataview parity research | 2026-06-03 20:22:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`4390fd5`](https://github.com/bobs-org/bob-cli/commit/4390fd56eb65c6afdbc4a5e37b10df9f5a52e682) | chore: consolidate dataview parity research | 2026-06-03 20:22:25 |
 
 ## Neighbors
 

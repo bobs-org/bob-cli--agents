@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`7b08b68`](https://github.com/bobs-org/bob-cli/commit/7b08b686e4f60b17caf7c7a82bc2782490b48a6a) | chore: Add SDD prompt and plan for pomodoro\_create\_center | 2026-06-14 17:15:36 |
-| [`3331d7d`](https://github.com/bobs-org/bob-cli/commit/3331d7d9de0b2b4ed7522f84e63498c55c63ec50) | chore: Mark SDD plan done | 2026-06-14 17:23:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`7b08b68`](https://github.com/bobs-org/bob-cli/commit/7b08b686e4f60b17caf7c7a82bc2782490b48a6a) | chore: Add SDD prompt and plan for pomodoro\_create\_center | 2026-06-14 17:15:36 |
+| bob-cli | [`3331d7d`](https://github.com/bobs-org/bob-cli/commit/3331d7d9de0b2b4ed7522f84e63498c55c63ec50) | chore: Mark SDD plan done | 2026-06-14 17:23:18 |

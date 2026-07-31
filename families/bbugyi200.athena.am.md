@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`d76885d`](https://github.com/bobs-org/bob-cli/commit/d76885d10527bca43cdc62bfeed1ff523cd66ce2) | fix(task-status-setter): remove canceled Pomodoro links | 2026-07-16 17:24:55 |
-| root | [`d76885d`](https://github.com/bobs-org/bob-cli/commit/d76885d10527bca43cdc62bfeed1ff523cd66ce2) | fix(task-status-setter): remove canceled Pomodoro links | 2026-07-16 17:24:55 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`d76885d`](https://github.com/bobs-org/bob-cli/commit/d76885d10527bca43cdc62bfeed1ff523cd66ce2) | fix(task-status-setter): remove canceled Pomodoro links | 2026-07-16 17:24:55 |
+| root | bob-cli | [`d76885d`](https://github.com/bobs-org/bob-cli/commit/d76885d10527bca43cdc62bfeed1ff523cd66ce2) | fix(task-status-setter): remove canceled Pomodoro links | 2026-07-16 17:24:55 |

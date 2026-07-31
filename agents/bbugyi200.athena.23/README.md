@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`9dd4264`](https://github.com/bobs-org/bob-cli/commit/9dd42646817e90c6a41e9e055b56bd6195dac859) | chore: Add SDD prompt and plan for highlights\_ref\_marker\_syntax | 2026-06-04 13:29:27 |
-| [`feaf8b3`](https://github.com/bobs-org/bob-cli/commit/feaf8b3902f86acd49a9d7e11a28530e3505a114) | fix: enforce bare highlights-ref marker parents | 2026-06-04 13:38:16 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`9dd4264`](https://github.com/bobs-org/bob-cli/commit/9dd42646817e90c6a41e9e055b56bd6195dac859) | chore: Add SDD prompt and plan for highlights\_ref\_marker\_syntax | 2026-06-04 13:29:27 |
+| bob-cli | [`feaf8b3`](https://github.com/bobs-org/bob-cli/commit/feaf8b3902f86acd49a9d7e11a28530e3505a114) | fix: enforce bare highlights-ref marker parents | 2026-06-04 13:38:16 |

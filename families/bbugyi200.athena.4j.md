@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`f401add`](https://github.com/bobs-org/bob-cli/commit/f401add384dd0b0fa2f0e972b3c7aa1e4cfcf220) | feat(cli)!: rename dataview command to query | 2026-07-10 17:06:13 |
-| root | [`f401add`](https://github.com/bobs-org/bob-cli/commit/f401add384dd0b0fa2f0e972b3c7aa1e4cfcf220) | feat(cli)!: rename dataview command to query | 2026-07-10 17:06:13 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`f401add`](https://github.com/bobs-org/bob-cli/commit/f401add384dd0b0fa2f0e972b3c7aa1e4cfcf220) | feat(cli)!: rename dataview command to query | 2026-07-10 17:06:13 |
+| root | bob-cli | [`f401add`](https://github.com/bobs-org/bob-cli/commit/f401add384dd0b0fa2f0e972b3c7aa1e4cfcf220) | feat(cli)!: rename dataview command to query | 2026-07-10 17:06:13 |
 
 ## Neighbors
 

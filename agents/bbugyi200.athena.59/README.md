@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`e7b1e3a`](https://github.com/bobs-org/bob-cli/commit/e7b1e3a1a3274c5f797e24fc526f0ca927818cc7) | fix(projects): preserve hidden project task when scheduled | 2026-07-11 11:54:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`e7b1e3a`](https://github.com/bobs-org/bob-cli/commit/e7b1e3a1a3274c5f797e24fc526f0ca927818cc7) | fix(projects): preserve hidden project task when scheduled | 2026-07-11 11:54:57 |

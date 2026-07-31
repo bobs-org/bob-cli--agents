@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| root | [`bc829fa`](https://github.com/bobs-org/bob-cli/commit/bc829facebfccc3d7673a41eaf06a37b6c95d3e5) | feat(tasks): sync next tasks from open pomodoros | 2026-07-10 20:17:59 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| root | bob-cli | [`bc829fa`](https://github.com/bobs-org/bob-cli/commit/bc829facebfccc3d7673a41eaf06a37b6c95d3e5) | feat(tasks): sync next tasks from open pomodoros | 2026-07-10 20:17:59 |

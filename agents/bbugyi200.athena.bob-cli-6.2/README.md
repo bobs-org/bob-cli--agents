@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2ee9e59`](https://github.com/bobs-org/bob-cli/commit/2ee9e59b189f87fa1e6250f2b26c609b2c51013a) | chore: close bob-cli-6.2 bead | 2026-06-11 21:26:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`2ee9e59`](https://github.com/bobs-org/bob-cli/commit/2ee9e59b189f87fa1e6250f2b26c609b2c51013a) | chore: close bob-cli-6.2 bead | 2026-06-11 21:26:44 |
 
 ## Neighbors
 

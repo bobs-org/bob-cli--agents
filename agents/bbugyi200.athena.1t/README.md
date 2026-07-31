@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`4b336ff`](https://github.com/bobs-org/bob-cli/commit/4b336ff7f8c0d046e59101aafa915f80688e9f84) | chore: Add SDD prompt and plan for dataview\_no\_sync | 2026-06-03 19:04:55 |
-| [`f1e0a2d`](https://github.com/bobs-org/bob-cli/commit/f1e0a2d701b89d7eedf9b1e3bb197dd577d99bad) | feat: remove dataview sync option | 2026-06-03 19:12:18 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`4b336ff`](https://github.com/bobs-org/bob-cli/commit/4b336ff7f8c0d046e59101aafa915f80688e9f84) | chore: Add SDD prompt and plan for dataview\_no\_sync | 2026-06-03 19:04:55 |
+| bob-cli | [`f1e0a2d`](https://github.com/bobs-org/bob-cli/commit/f1e0a2d701b89d7eedf9b1e3bb197dd577d99bad) | feat: remove dataview sync option | 2026-06-03 19:12:18 |

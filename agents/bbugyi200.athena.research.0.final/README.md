@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`34e68f5`](https://github.com/bobs-org/bob-cli/commit/34e68f59247ef967d1d25457c8805258b5a7c286) | chore: consolidate Obsidian property enum research | 2026-06-09 13:06:13 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`34e68f5`](https://github.com/bobs-org/bob-cli/commit/34e68f59247ef967d1d25457c8805258b5a7c286) | chore: consolidate Obsidian property enum research | 2026-06-09 13:06:13 |
 
 ## Neighbors
 

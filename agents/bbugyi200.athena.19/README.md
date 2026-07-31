@@ -19,10 +19,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`2629238`](https://github.com/bobs-org/bob-cli/commit/26292384b7379f6763f57b892a8d3edf4eeb7a3d) | chore: Add SDD prompt and plan for transcluded\_task\_at\_keymap | 2026-07-07 23:16:02 |
-| [`ee8791a`](https://github.com/bobs-org/bob-cli/commit/ee8791a0ee0f682a8448fec64e5334e608fb18bc) | chore: Mark SDD plan done | 2026-07-07 23:27:02 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`2629238`](https://github.com/bobs-org/bob-cli/commit/26292384b7379f6763f57b892a8d3edf4eeb7a3d) | chore: Add SDD prompt and plan for transcluded\_task\_at\_keymap | 2026-07-07 23:16:02 |
+| bob-cli | [`ee8791a`](https://github.com/bobs-org/bob-cli/commit/ee8791a0ee0f682a8448fec64e5334e608fb18bc) | chore: Mark SDD plan done | 2026-07-07 23:27:02 |
 
 ## Neighbors
 

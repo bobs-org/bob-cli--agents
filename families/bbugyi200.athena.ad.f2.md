@@ -22,10 +22,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`bf21097`](https://github.com/bobs-org/bob-cli/commit/bf210971c13aa5060ecf145f7fbc7ecbbec40ccd) | feat(cli): recover task status dependency state | 2026-07-16 15:51:07 |
-| root | [`bf21097`](https://github.com/bobs-org/bob-cli/commit/bf210971c13aa5060ecf145f7fbc7ecbbec40ccd) | feat(cli): recover task status dependency state | 2026-07-16 15:51:07 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`bf21097`](https://github.com/bobs-org/bob-cli/commit/bf210971c13aa5060ecf145f7fbc7ecbbec40ccd) | feat(cli): recover task status dependency state | 2026-07-16 15:51:07 |
+| root | bob-cli | [`bf21097`](https://github.com/bobs-org/bob-cli/commit/bf210971c13aa5060ecf145f7fbc7ecbbec40ccd) | feat(cli): recover task status dependency state | 2026-07-16 15:51:07 |
 
 ## Neighbors
 

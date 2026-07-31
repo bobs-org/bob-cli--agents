@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d136cf2`](https://github.com/bobs-org/bob-cli/commit/d136cf254132e9f2242ea486fe0a77fd1d6c85a7) | chore: Add SDD prompt and plan for hammerspoon\_capture\_target\_picker | 2026-06-16 13:44:15 |
-| [`087f8b4`](https://github.com/bobs-org/bob-cli/commit/087f8b429de6940c0ffc261cd3452d2626441864) | chore: Mark SDD plan done | 2026-06-18 16:55:58 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`d136cf2`](https://github.com/bobs-org/bob-cli/commit/d136cf254132e9f2242ea486fe0a77fd1d6c85a7) | chore: Add SDD prompt and plan for hammerspoon\_capture\_target\_picker | 2026-06-16 13:44:15 |
+| bob-cli | [`087f8b4`](https://github.com/bobs-org/bob-cli/commit/087f8b429de6940c0ffc261cd3452d2626441864) | chore: Mark SDD plan done | 2026-06-18 16:55:58 |
 
 ## Neighbors
 

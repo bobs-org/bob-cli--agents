@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`b3c2f9b`](https://github.com/bobs-org/bob-cli/commit/b3c2f9b0cbd186fa082d208ed8ed2b46c6c1f035) | chore: Add SDD prompt and plan for fix\_move\_done\_tasks\_link\_repair | 2026-06-22 12:11:32 |
-| [`b7b74a1`](https://github.com/bobs-org/bob-cli/commit/b7b74a1f3ef3ef664f51aea72cd6c90ff611d3b8) | fix: repair moved task links from archived state | 2026-06-22 12:21:21 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`b3c2f9b`](https://github.com/bobs-org/bob-cli/commit/b3c2f9b0cbd186fa082d208ed8ed2b46c6c1f035) | chore: Add SDD prompt and plan for fix\_move\_done\_tasks\_link\_repair | 2026-06-22 12:11:32 |
+| bob-cli | [`b7b74a1`](https://github.com/bobs-org/bob-cli/commit/b7b74a1f3ef3ef664f51aea72cd6c90ff611d3b8) | fix: repair moved task links from archived state | 2026-06-22 12:21:21 |

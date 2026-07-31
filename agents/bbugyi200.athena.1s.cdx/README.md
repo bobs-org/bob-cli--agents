@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`686d309`](https://github.com/bobs-org/bob-cli/commit/686d309a0cda455412d675b4cf53520e65ed1269) | chore: Add SDD prompt and plan for ob\_sync\_continuous\_polling\_fix | 2026-06-03 16:56:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`686d309`](https://github.com/bobs-org/bob-cli/commit/686d309a0cda455412d675b4cf53520e65ed1269) | chore: Add SDD prompt and plan for ob\_sync\_continuous\_polling\_fix | 2026-06-03 16:56:08 |

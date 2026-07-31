@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a2371e5`](https://github.com/bobs-org/bob-cli/commit/a2371e5d0124b9bb028218bbbaad8fb59e6a9139) | docs: consolidate QuickAdd capture research | 2026-06-15 19:57:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`a2371e5`](https://github.com/bobs-org/bob-cli/commit/a2371e5d0124b9bb028218bbbaad8fb59e6a9139) | docs: consolidate QuickAdd capture research | 2026-06-15 19:57:57 |
 
 ## Neighbors
 

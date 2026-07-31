@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d9ffd0c`](https://github.com/bobs-org/bob-cli/commit/d9ffd0c0ef0056aa5874d4b514d88f05afa1d088) | feat: add dynomark dataview engine (bob-cli-3.5) | 2026-06-03 17:47:48 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`d9ffd0c`](https://github.com/bobs-org/bob-cli/commit/d9ffd0c0ef0056aa5874d4b514d88f05afa1d088) | feat: add dynomark dataview engine (bob-cli-3.5) | 2026-06-03 17:47:48 |
 
 ## Neighbors
 

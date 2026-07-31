@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`1a275e7`](https://github.com/bobs-org/bob-cli/commit/1a275e787e4b1a0f585be2b8b19b8c2bd2bbf2f0) | chore: close bob-cli-6 epic and mark plan done | 2026-06-11 22:00:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`1a275e7`](https://github.com/bobs-org/bob-cli/commit/1a275e787e4b1a0f585be2b8b19b8c2bd2bbf2f0) | chore: close bob-cli-6 epic and mark plan done | 2026-06-11 22:00:11 |
 
 ## Neighbors
 

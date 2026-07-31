@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`206b9a7`](https://github.com/bobs-org/bob-cli/commit/206b9a780fa940fc5e66a3c4e82a04e83c6af591) | chore: Add SDD prompt and plan for capture\_targets\_verbose\_warnings | 2026-06-16 14:30:42 |
-| [`ef2781a`](https://github.com/bobs-org/bob-cli/commit/ef2781ab78b4bf49efe5dbf193374a6a7e4e8231) | feat(capture-targets): gate skip warnings behind --verbose | 2026-06-16 14:34:07 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`206b9a7`](https://github.com/bobs-org/bob-cli/commit/206b9a780fa940fc5e66a3c4e82a04e83c6af591) | chore: Add SDD prompt and plan for capture\_targets\_verbose\_warnings | 2026-06-16 14:30:42 |
+| bob-cli | [`ef2781a`](https://github.com/bobs-org/bob-cli/commit/ef2781ab78b4bf49efe5dbf193374a6a7e4e8231) | feat(capture-targets): gate skip warnings behind --verbose | 2026-06-16 14:34:07 |

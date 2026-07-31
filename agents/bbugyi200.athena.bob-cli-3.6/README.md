@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`acc5a32`](https://github.com/bobs-org/bob-cli/commit/acc5a32e716d1d5fab9549122712401515170d77) | chore: document dataview release hardening (bob-cli-3.6) | 2026-06-03 17:55:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`acc5a32`](https://github.com/bobs-org/bob-cli/commit/acc5a32e716d1d5fab9549122712401515170d77) | chore: document dataview release hardening (bob-cli-3.6) | 2026-06-03 17:55:03 |
 
 ## Neighbors
 

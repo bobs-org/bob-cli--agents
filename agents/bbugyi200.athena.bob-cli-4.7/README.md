@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`a451b80`](https://github.com/bobs-org/bob-cli/commit/a451b80c43509ce9aa1359473399fbfa0eacd31b) | feat: add native Dataview markdown output (bob-cli-4.7) | 2026-06-03 22:25:44 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`a451b80`](https://github.com/bobs-org/bob-cli/commit/a451b80c43509ce9aa1359473399fbfa0eacd31b) | feat: add native Dataview markdown output (bob-cli-4.7) | 2026-06-03 22:25:44 |
 
 ## Neighbors
 

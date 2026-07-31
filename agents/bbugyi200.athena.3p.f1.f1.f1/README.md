@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ea43873`](https://github.com/bobs-org/bob-cli/commit/ea438739979d57938980b6d82938dfe021a12ec2) | chore: Add SDD prompt and plan for highlights\_processed\_index\_perf | 2026-06-08 11:30:25 |
-| [`4111bcd`](https://github.com/bobs-org/bob-cli/commit/4111bcdfe86c3b6c2901c63a230c0e1552fcf072) | perf: skip vault-wide task scan when no annotation candidates | 2026-06-08 11:34:23 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`ea43873`](https://github.com/bobs-org/bob-cli/commit/ea438739979d57938980b6d82938dfe021a12ec2) | chore: Add SDD prompt and plan for highlights\_processed\_index\_perf | 2026-06-08 11:30:25 |
+| bob-cli | [`4111bcd`](https://github.com/bobs-org/bob-cli/commit/4111bcdfe86c3b6c2901c63a230c0e1552fcf072) | perf: skip vault-wide task scan when no annotation candidates | 2026-06-08 11:34:23 |
 
 ## Neighbors
 

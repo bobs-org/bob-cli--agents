@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`ea47f04`](https://github.com/bobs-org/bob-cli/commit/ea47f046cdc37b368c2f5a52f14bd78a7d1825eb) | chore: Add SDD prompt and plan for image\_annotation\_notes | 2026-06-15 14:38:25 |
-| [`8fdeb90`](https://github.com/bobs-org/bob-cli/commit/8fdeb9060377434498c1ec204874a438e92de59f) | fix(highlights): render image annotation notes in reference notes | 2026-06-15 14:49:46 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`ea47f04`](https://github.com/bobs-org/bob-cli/commit/ea47f046cdc37b368c2f5a52f14bd78a7d1825eb) | chore: Add SDD prompt and plan for image\_annotation\_notes | 2026-06-15 14:38:25 |
+| bob-cli | [`8fdeb90`](https://github.com/bobs-org/bob-cli/commit/8fdeb9060377434498c1ec204874a438e92de59f) | fix(highlights): render image annotation notes in reference notes | 2026-06-15 14:49:46 |
 
 ## Neighbors
 

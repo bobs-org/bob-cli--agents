@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f8d2509`](https://github.com/bobs-org/bob-cli/commit/f8d2509d9847832a9e5df708b5b575b5b1515099) | feat: implement native DQL result shapes (bob-cli-4.6) | 2026-06-03 22:12:03 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`f8d2509`](https://github.com/bobs-org/bob-cli/commit/f8d2509d9847832a9e5df708b5b575b5b1515099) | feat: implement native DQL result shapes (bob-cli-4.6) | 2026-06-03 22:12:03 |
 
 ## Neighbors
 

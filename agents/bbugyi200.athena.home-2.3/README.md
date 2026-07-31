@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5567f58`](https://github.com/bobs-org/bob-cli/commit/5567f58597f545491f4a23fafded354771cc1861) | feat: implement highlights ref sync rendering (home-2.3) | 2026-06-03 07:28:29 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`5567f58`](https://github.com/bobs-org/bob-cli/commit/5567f58597f545491f4a23fafded354771cc1861) | feat: implement highlights ref sync rendering (home-2.3) | 2026-06-03 07:28:29 |
 
 ## Neighbors
 

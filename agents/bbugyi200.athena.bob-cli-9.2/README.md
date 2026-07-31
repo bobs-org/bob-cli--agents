@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`61107c0`](https://github.com/bobs-org/bob-cli/commit/61107c093cb52e0f12aaf53f5b1223faddef894f) | feat(tasks): add native task model and vault index (bob-cli-9.2) | 2026-07-10 18:45:57 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`61107c0`](https://github.com/bobs-org/bob-cli/commit/61107c093cb52e0f12aaf53f5b1223faddef894f) | feat(tasks): add native task model and vault index (bob-cli-9.2) | 2026-07-10 18:45:57 |
 
 ## Neighbors
 

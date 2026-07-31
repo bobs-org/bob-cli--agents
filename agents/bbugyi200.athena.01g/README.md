@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d2396d2`](https://github.com/bobs-org/bob-cli/commit/d2396d2d2e76ba7b58e10a6002756833cb1a767a) | chore: Add SDD prompt and plan for capture\_embedded\_bullet\_marker | 2026-06-19 18:17:51 |
-| [`0fca62e`](https://github.com/bobs-org/bob-cli/commit/0fca62ee3baf87a49f469d2c54cf227deb541836) | feat(capture): Require bullet markers on @route tokens | 2026-06-19 18:30:05 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`d2396d2`](https://github.com/bobs-org/bob-cli/commit/d2396d2d2e76ba7b58e10a6002756833cb1a767a) | chore: Add SDD prompt and plan for capture\_embedded\_bullet\_marker | 2026-06-19 18:17:51 |
+| bob-cli | [`0fca62e`](https://github.com/bobs-org/bob-cli/commit/0fca62ee3baf87a49f469d2c54cf227deb541836) | feat(capture): Require bullet markers on @route tokens | 2026-06-19 18:30:05 |

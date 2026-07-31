@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f418805`](https://github.com/bobs-org/bob-cli/commit/f41880595b8f4991165a3d76b8888ff0d258389e) | chore: consolidate Obsidian task property research | 2026-06-04 13:27:20 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`f418805`](https://github.com/bobs-org/bob-cli/commit/f41880595b8f4991165a3d76b8888ff0d258389e) | chore: consolidate Obsidian task property research | 2026-06-04 13:27:20 |
 
 ## Neighbors
 

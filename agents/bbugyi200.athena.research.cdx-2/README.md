@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`50da7a7`](https://github.com/bobs-org/bob-cli/commit/50da7a777a32a07e62c21ba531ad1fc3bff5ae91) | chore: Update Dataview CLI research | 2026-06-03 16:10:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`50da7a7`](https://github.com/bobs-org/bob-cli/commit/50da7a777a32a07e62c21ba531ad1fc3bff5ae91) | chore: Update Dataview CLI research | 2026-06-03 16:10:11 |
 
 ## Neighbors
 

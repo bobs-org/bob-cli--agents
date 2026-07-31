@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`abef836`](https://github.com/bobs-org/bob-cli/commit/abef8361b969f53daaf19830b71abb80d2fd30f5) | chore: Add SDD prompt and plan for obsidian\_backslash\_pipe\_dash\_tasks | 2026-06-12 16:46:14 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`abef836`](https://github.com/bobs-org/bob-cli/commit/abef8361b969f53daaf19830b71abb80d2fd30f5) | chore: Add SDD prompt and plan for obsidian\_backslash\_pipe\_dash\_tasks | 2026-06-12 16:46:14 |
 
 ## Neighbors
 

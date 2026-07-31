@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`ea130d6`](https://github.com/bobs-org/bob-cli/commit/ea130d608a2f8f4b85aa2565fd3769de799e3346) | feat: synchronize reference reading lifecycle states | 2026-07-14 11:37:23 |
-| root | [`ea130d6`](https://github.com/bobs-org/bob-cli/commit/ea130d608a2f8f4b85aa2565fd3769de799e3346) | feat: synchronize reference reading lifecycle states | 2026-07-14 11:37:23 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`ea130d6`](https://github.com/bobs-org/bob-cli/commit/ea130d608a2f8f4b85aa2565fd3769de799e3346) | feat: synchronize reference reading lifecycle states | 2026-07-14 11:37:23 |
+| root | bob-cli | [`ea130d6`](https://github.com/bobs-org/bob-cli/commit/ea130d608a2f8f4b85aa2565fd3769de799e3346) | feat: synchronize reference reading lifecycle states | 2026-07-14 11:37:23 |

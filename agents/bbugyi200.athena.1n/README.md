@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`8688514`](https://github.com/bobs-org/bob-cli/commit/8688514a4ed9aa6167faf8c8522f39f9f95fbce5) | chore: Add SDD prompt and plan for highlights\_ref\_comment\_bullets | 2026-06-03 13:14:43 |
-| [`87a3515`](https://github.com/bobs-org/bob-cli/commit/87a351557da910e4d24cc4a953c82584e472120d) | fix: normalize linked sidecar bullet comments | 2026-06-03 13:18:59 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`8688514`](https://github.com/bobs-org/bob-cli/commit/8688514a4ed9aa6167faf8c8522f39f9f95fbce5) | chore: Add SDD prompt and plan for highlights\_ref\_comment\_bullets | 2026-06-03 13:14:43 |
+| bob-cli | [`87a3515`](https://github.com/bobs-org/bob-cli/commit/87a351557da910e4d24cc4a953c82584e472120d) | fix: normalize linked sidecar bullet comments | 2026-06-03 13:18:59 |
 
 ## Neighbors
 

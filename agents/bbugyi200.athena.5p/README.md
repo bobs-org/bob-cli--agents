@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`98a7a1b`](https://github.com/bobs-org/bob-cli/commit/98a7a1b9a245cfcc9e58e2227eae62665442047e) | chore: Add SDD prompt and plan for projects\_prj\_priority\_sync | 2026-06-12 15:53:49 |
-| [`96e3e47`](https://github.com/bobs-org/bob-cli/commit/96e3e475f7c87357cd2c78a331def6e9d0490110) | feat: sync project priority fields | 2026-06-12 16:02:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`98a7a1b`](https://github.com/bobs-org/bob-cli/commit/98a7a1b9a245cfcc9e58e2227eae62665442047e) | chore: Add SDD prompt and plan for projects\_prj\_priority\_sync | 2026-06-12 15:53:49 |
+| bob-cli | [`96e3e47`](https://github.com/bobs-org/bob-cli/commit/96e3e475f7c87357cd2c78a331def6e9d0490110) | feat: sync project priority fields | 2026-06-12 16:02:11 |

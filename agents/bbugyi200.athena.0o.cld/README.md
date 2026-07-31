@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`d5c651a`](https://github.com/bobs-org/bob-cli/commit/d5c651a211f969c6e1586a6c24e50da0be2fa11c) | chore: Add SDD prompt and plan for pomodoro\_jump\_center\_fix | 2026-06-03 03:12:11 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`d5c651a`](https://github.com/bobs-org/bob-cli/commit/d5c651a211f969c6e1586a6c24e50da0be2fa11c) | chore: Add SDD prompt and plan for pomodoro\_jump\_center\_fix | 2026-06-03 03:12:11 |

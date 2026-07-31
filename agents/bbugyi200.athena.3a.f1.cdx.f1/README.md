@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`aa8dc15`](https://github.com/bobs-org/bob-cli/commit/aa8dc15c37c937c6dad8de5aa8ec737c867caae2) | chore: Add SDD prompt and plan for obsidian\_yank\_path\_picker | 2026-06-06 18:58:38 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`aa8dc15`](https://github.com/bobs-org/bob-cli/commit/aa8dc15c37c937c6dad8de5aa8ec737c867caae2) | chore: Add SDD prompt and plan for obsidian\_yank\_path\_picker | 2026-06-06 18:58:38 |
 
 ## Neighbors
 

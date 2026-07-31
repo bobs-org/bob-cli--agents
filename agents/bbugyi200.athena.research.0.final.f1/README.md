@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5f00fae`](https://github.com/bobs-org/bob-cli/commit/5f00fae9c0233df97a6e02adfb2c7eb07403fd90) | chore: Add SDD prompt and plan for metadata\_menu\_property\_suggestions | 2026-06-09 13:56:37 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`5f00fae`](https://github.com/bobs-org/bob-cli/commit/5f00fae9c0233df97a6e02adfb2c7eb07403fd90) | chore: Add SDD prompt and plan for metadata\_menu\_property\_suggestions | 2026-06-09 13:56:37 |
 
 ## Neighbors
 

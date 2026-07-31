@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`f3c36f2`](https://github.com/bobs-org/bob-cli/commit/f3c36f25464c90ee5d643ce8cddd78908e11e93a) | chore: Add SDD prompt and plan for obsidian\_task\_checkbox\_toggle | 2026-06-06 14:59:01 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`f3c36f2`](https://github.com/bobs-org/bob-cli/commit/f3c36f25464c90ee5d643ce8cddd78908e11e93a) | chore: Add SDD prompt and plan for obsidian\_task\_checkbox\_toggle | 2026-06-06 14:59:01 |

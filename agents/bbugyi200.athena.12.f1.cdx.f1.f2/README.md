@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`0bcc3b2`](https://github.com/bobs-org/bob-cli/commit/0bcc3b26b026a2202fc50fa5599098eda445c1bc) | chore: Add SDD prompt and plan for pomodoro\_keymaps\_update\_ledger | 2026-06-02 16:47:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`0bcc3b2`](https://github.com/bobs-org/bob-cli/commit/0bcc3b26b026a2202fc50fa5599098eda445c1bc) | chore: Add SDD prompt and plan for pomodoro\_keymaps\_update\_ledger | 2026-06-02 16:47:28 |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`51de312`](https://github.com/bobs-org/bob-cli/commit/51de3120f9ad3c800a5c0838a182670285b36fde) | chore: Add SDD prompt and plan for bob\_cli\_8\_closeout (bob-cli-8) | 2026-06-20 16:13:28 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`51de312`](https://github.com/bobs-org/bob-cli/commit/51de3120f9ad3c800a5c0838a182670285b36fde) | chore: Add SDD prompt and plan for bob\_cli\_8\_closeout (bob-cli-8) | 2026-06-20 16:13:28 |
 
 ## Neighbors
 

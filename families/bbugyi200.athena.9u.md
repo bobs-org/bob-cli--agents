@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| code | [`9f5602d`](https://github.com/bobs-org/bob-cli/commit/9f5602d47708a541595299f47e9c8c171ef4f9e3) | fix: avoid unreachable macOS clipboard code | 2026-07-15 22:15:12 |
-| root | [`9f5602d`](https://github.com/bobs-org/bob-cli/commit/9f5602d47708a541595299f47e9c8c171ef4f9e3) | fix: avoid unreachable macOS clipboard code | 2026-07-15 22:15:12 |
+| Role | Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|---|
+| code | bob-cli | [`9f5602d`](https://github.com/bobs-org/bob-cli/commit/9f5602d47708a541595299f47e9c8c171ef4f9e3) | fix: avoid unreachable macOS clipboard code | 2026-07-15 22:15:12 |
+| root | bob-cli | [`9f5602d`](https://github.com/bobs-org/bob-cli/commit/9f5602d47708a541595299f47e9c8c171ef4f9e3) | fix: avoid unreachable macOS clipboard code | 2026-07-15 22:15:12 |

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6e1fd4f`](https://github.com/bobs-org/bob-cli/commit/6e1fd4fe82a022242d35eccfa1ef568b1bab769a) | feat: normalize Pomodoro session markers | 2026-07-12 12:47:34 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`6e1fd4f`](https://github.com/bobs-org/bob-cli/commit/6e1fd4fe82a022242d35eccfa1ef568b1bab769a) | feat: normalize Pomodoro session markers | 2026-07-12 12:47:34 |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`5d43fb6`](https://github.com/bobs-org/bob-cli/commit/5d43fb6e98679425a4c8ccdacb84ae90bab33c75) | chore: Add SDD prompt and plan for tune\_obsidian\_tasks\_dashboard | 2026-06-05 19:07:08 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`5d43fb6`](https://github.com/bobs-org/bob-cli/commit/5d43fb6e98679425a4c8ccdacb84ae90bab33c75) | chore: Add SDD prompt and plan for tune\_obsidian\_tasks\_dashboard | 2026-06-05 19:07:08 |

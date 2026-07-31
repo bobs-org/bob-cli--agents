@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`01f0b5c`](https://github.com/bobs-org/bob-cli/commit/01f0b5c0acf8be1d9b247b687c631a97e3a2af90) | chore: add canceled move-done regression tests | 2026-06-07 10:50:55 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`01f0b5c`](https://github.com/bobs-org/bob-cli/commit/01f0b5c0acf8be1d9b247b687c631a97e3a2af90) | chore: add canceled move-done regression tests | 2026-06-07 10:50:55 |

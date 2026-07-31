@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`001ab17`](https://github.com/bobs-org/bob-cli/commit/001ab17c3d4a6e9587d5be6446f204be1f12e467) | chore: Add SDD prompt and plan for obsidian\_keymaps\_prefer\_open\_tab | 2026-06-12 17:05:39 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`001ab17`](https://github.com/bobs-org/bob-cli/commit/001ab17c3d4a6e9587d5be6446f204be1f12e467) | chore: Add SDD prompt and plan for obsidian\_keymaps\_prefer\_open\_tab | 2026-06-12 17:05:39 |

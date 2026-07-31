@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Commit | Subject | Committed (UTC) |
-|---|---|---|
-| [`6e88cb6`](https://github.com/bobs-org/bob-cli/commit/6e88cb6e7446229b3c23f2ec86a83e3774329363) | chore: Add SDD prompt and plan for highlights\_ref\_read\_status | 2026-06-04 14:45:59 |
-| [`d3ad2ac`](https://github.com/bobs-org/bob-cli/commit/d3ad2acbcc235afc3afc277ba7b40e43c03b17dd) | fix: normalize highlights-ref done status to read | 2026-06-04 14:56:25 |
+| Repo | Commit | Subject | Committed (UTC) |
+|---|---|---|---|
+| bob-cli | [`6e88cb6`](https://github.com/bobs-org/bob-cli/commit/6e88cb6e7446229b3c23f2ec86a83e3774329363) | chore: Add SDD prompt and plan for highlights\_ref\_read\_status | 2026-06-04 14:45:59 |
+| bob-cli | [`d3ad2ac`](https://github.com/bobs-org/bob-cli/commit/d3ad2acbcc235afc3afc277ba7b40e43c03b17dd) | fix: normalize highlights-ref done status to read | 2026-06-04 14:56:25 |
 
 ## Neighbors
 
