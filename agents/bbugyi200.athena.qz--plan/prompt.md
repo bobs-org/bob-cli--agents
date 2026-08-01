@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me make the `%` functionality of the `bob capture` command (or maybe the `<ctrl+shift+alt+i>` Hammerspoon keymap--defined in my chezmoi repo--is what needs fixing) work with all supported `@<file><suffix>` formats (ex: `@sase#` should trigger a pop-up that prompts the user to select a markdown section from the ~/bob/sase.md file)? #plan
