@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:qa Also, can you make sure that we properly prompt the user for a block ID (and add that block ID to the corresponding Obsidian task) if the user inputs `@<file>^` (with no `<id>` suffix) and then selects an Obsidian task that does not already have a block ID? #if_not_plan

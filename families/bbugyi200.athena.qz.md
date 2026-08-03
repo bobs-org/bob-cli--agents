@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | qz--code | completed | gpt-5.5 / codex | 2026-08-01T11:18:31.340005+00:00 | [1](../agents/bbugyi200.athena.qz--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.qz--code/chat.md) |
-| <a id="member-plan"></a>plan | qz--plan | active | gpt-5.6-sol / codex | 2026-08-01T11:13:43.921095+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.qz--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.qz--plan/chat.md) |
+| <a id="member-plan"></a>plan | qz--plan | active | gpt-5.6-sol / codex | 2026-08-01T07:13:43.921095 | 0 | [Prompt](../agents/bbugyi200.athena.qz--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.qz--plan/chat.md) |
 
 ## Commits
 
