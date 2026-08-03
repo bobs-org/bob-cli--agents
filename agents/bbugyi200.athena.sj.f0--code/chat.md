@@ -9,29 +9,6 @@
 - 1. --plan — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-sj_f0__plan-260803_070141.md`
 - **2. --code** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-sj_f0__code-260803_070141.md`
 
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-[#gh:gh_bobs-org__bob-cli](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml) [#fork:sj](https://github.com/sase-org/sase/blob/70410a05b1a6250bbe6adb86c41a65cbef827e9b/src/sase/xprompts/fork.yml) This looks great, but I want to keep showing the YYYY-mm-dd date somewhere in the toast. Can you help me fix this? [#plan](https://github.com/sase-org/sase/blob/70410a05b1a6250bbe6adb86c41a65cbef827e9b/src/sase/default_config.yml#L1033)
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 120 B</summary>
-
-```markdown
-@sase/repos/plans/202608/priority_toast_exact_date.md
-
-The above plan has been reviewed and approved. Implement it now.
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 %model:@codex_coder

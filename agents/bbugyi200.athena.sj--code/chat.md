@@ -9,29 +9,6 @@
 - 1. --plan — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-sj__plan-260803_062957.md`
 - **2. --code** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-sj__code-260803_062957.md`
 
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-[#gh:gh_bobs-org__bob-cli](https://github.com/sase-org/sase-github/blob/7dd02fcec77649b34cba23ae33f30793311869dd/src/sase_github/xprompts/gh.yml) We recently added support for P2, P3, and P4 Obsidian task priorities (see the gh_bobs-org__bob-cli-5 epic bead for context). Can you help me make sure that the Obsidian toast we show to the user (after selecting a valid priority that is presented after the `<ctrl+shift+p>` keymap is used and the user selects `priority`) includes the relative number of days (from today) that the task was scheduled for? Also, try to make this toast look better in general. [#beau](https://github.com/bbugyi200/dotfiles/blob/c4d233bb350f92377d02a1e754f992395a0947c3/home/dot_config/sase/sase.yml#L217) [#plan](https://github.com/sase-org/sase/blob/77ef3953e5c67c8be6247c4de1e2e62c474243a3/src/sase/default_config.yml#L1033) [#m_opus](https://github.com/bbugyi200/dotfiles/blob/c4d233bb350f92377d02a1e754f992395a0947c3/home/dot_config/sase/sase.yml#L234)
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 109 B</summary>
-
-```markdown
-@sase/repos/plans/202608/priority_toast.md
-
-The above plan has been reviewed and approved. Implement it now.
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 %model:@claude_coder

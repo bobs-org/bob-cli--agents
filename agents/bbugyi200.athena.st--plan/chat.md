@@ -6,31 +6,6 @@
 
 **Plan:** /home/bryan/.sase/plans/202608/preserve_pinned_tabs_on_sibling_close.md
 
-
-<!-- sase:section:xprompt -->
-
-## Agent XPrompt
-
-#gh:gh_bobs-org__bob-cli The `\<` and `\>` keymaps should NOT close pinned Obsidian tabs. Can you help me fix this? #plan #m_opus
-
-<!-- /sase:section:xprompt -->
-
-<!-- sase:section:rendered -->
-
-<details>
-<summary><b>Agent Prompt</b> — rendered, 385 B</summary>
-
-```markdown
-#gh:gh_bobs-org__bob-cli The `\<` and `\>` keymaps should NOT close pinned Obsidian tabs. Can you help me fix this? Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
- %model:opus
-```
-
-</details>
-
-<!-- /sase:section:rendered -->
-
 ## Prompt
 
 #gh:gh_bobs-org__bob-cli The `\<` and `\>` keymaps should NOT close pinned Obsidian tabs. Can you help me fix this? Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
