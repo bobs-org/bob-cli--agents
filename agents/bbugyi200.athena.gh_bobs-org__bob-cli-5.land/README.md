@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gh\_bobs-org\_\_bob-cli-5](../../users/bbugyi200/machines/athena/hoods/gh_bobs-org__bob-cli-5/README.md) / gh\_bobs-org\_\_bob-cli-5.land
 
-**Global name:** `bbugyi200.athena.gh_bobs-org__bob-cli-5.land` · **State:** waiting · **Source run:** `run-d859f665787218a7f79f655b44459be5`
+**Global name:** `bbugyi200.athena.gh_bobs-org__bob-cli-5.land` · **State:** active · **Source run:** `run-d859f665787218a7f79f655b44459be5`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** gh\_bobs-org\_\_bob-cli-5
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20260803040840
+- Timing: 2026-08-03T08:47:48.653088+00:00
 - Commits: 0
 
 ## Files
@@ -25,4 +25,4 @@
 | [gh\_bobs-org\_\_bob-cli-5.2](../bbugyi200.athena.gh_bobs-org__bob-cli-5.2/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | completed |
 | [gh\_bobs-org\_\_bob-cli-5.3](../bbugyi200.athena.gh_bobs-org__bob-cli-5.3/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | completed |
 | [gh\_bobs-org\_\_bob-cli-5.4](../bbugyi200.athena.gh_bobs-org__bob-cli-5.4/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | completed |
-| [gh\_bobs-org\_\_bob-cli-5.5](../bbugyi200.athena.gh_bobs-org__bob-cli-5.5/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | active |
+| [gh\_bobs-org\_\_bob-cli-5.5](../bbugyi200.athena.gh_bobs-org__bob-cli-5.5/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | completed |
