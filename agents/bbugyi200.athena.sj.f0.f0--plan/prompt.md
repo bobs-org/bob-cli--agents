@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:sj.f0 The dark look of the toast does not look great against Obsidian's white background (I like ligt-mode). Can you help me fix this? #beau #plan #m_opus
