@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bae42af`](https://github.com/bobs-org/bob-cli/commit/bae42af756cbca2319180e2a1b36413609388684) | docs: add Obsidian Vim focus infographic | 2026-06-15 19:38:19 |
+| bob-cli | [`bae42af`](https://github.com/bobs-org/bob-cli/commit/bae42af756cbca2319180e2a1b36413609388684) | docs: add Obsidian Vim focus infographic | 2026-06-15 15:38:19 EDT |
 
 ## Neighbors
 

@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`902db01`](https://github.com/bobs-org/bob-cli/commit/902db0183631e2c1fb49748b693a7d8a584fdda8) | fix: support aliases in recursive task transclusions | 2026-07-14 12:21:46 |
+| bob-cli | [`902db01`](https://github.com/bobs-org/bob-cli/commit/902db0183631e2c1fb49748b693a7d8a584fdda8) | fix: support aliases in recursive task transclusions | 2026-07-14 08:21:46 EDT |
 
 ## Neighbors
 

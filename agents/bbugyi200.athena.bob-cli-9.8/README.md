@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6647342`](https://github.com/bobs-org/bob-cli/commit/66473423194a6849bfa0fc2eabb0a5a65dda0b17) | test(tasks): add real-vault parity acceptance coverage (bob-cli-9.8) | 2026-07-10 21:04:42 |
+| bob-cli | [`6647342`](https://github.com/bobs-org/bob-cli/commit/66473423194a6849bfa0fc2eabb0a5a65dda0b17) | test(tasks): add real-vault parity acceptance coverage (bob-cli-9.8) | 2026-07-10 17:04:42 EDT |
 
 ## Neighbors
 

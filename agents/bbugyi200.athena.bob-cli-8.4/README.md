@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e8cdd77`](https://github.com/bobs-org/bob-cli/commit/e8cdd775ff94aa86b3e07ffc9c0dd620081bbf5b) | chore(plugins): adopt bob-plugins as a SASE sibling (bob-cli-8.4) | 2026-06-20 16:08:11 |
+| bob-cli | [`e8cdd77`](https://github.com/bobs-org/bob-cli/commit/e8cdd775ff94aa86b3e07ffc9c0dd620081bbf5b) | chore(plugins): adopt bob-plugins as a SASE sibling (bob-cli-8.4) | 2026-06-20 12:08:11 EDT |
 
 ## Neighbors
 

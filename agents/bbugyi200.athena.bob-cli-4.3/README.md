@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bcd841c`](https://github.com/bobs-org/bob-cli/commit/bcd841c472cc9d6eb7146a5c06653c546478c73d) | feat: add native Dataview source parsing (bob-cli-4.3) | 2026-06-03 21:23:31 |
+| bob-cli | [`bcd841c`](https://github.com/bobs-org/bob-cli/commit/bcd841c472cc9d6eb7146a5c06653c546478c73d) | feat: add native Dataview source parsing (bob-cli-4.3) | 2026-06-03 17:23:31 EDT |
 
 ## Neighbors
 

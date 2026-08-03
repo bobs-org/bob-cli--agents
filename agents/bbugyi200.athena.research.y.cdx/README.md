@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`cab7aca`](https://github.com/bobs-org/bob-cli/commit/cab7aca1298efe2d1439c95a06249698391c66d8) | docs: research Bob Obsidian plugin repo | 2026-06-20 14:16:42 |
+| bob-cli | [`cab7aca`](https://github.com/bobs-org/bob-cli/commit/cab7aca1298efe2d1439c95a06249698391c66d8) | docs: research Bob Obsidian plugin repo | 2026-06-20 10:16:42 EDT |
 
 ## Neighbors
 

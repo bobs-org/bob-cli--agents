@@ -25,4 +25,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [sj](bbugyi200.athena.sj.md) (family · 2) | ancestor | completed 2 |
-| [sj.f0.f0](bbugyi200.athena.sj.f0.f0.md) (family · 2) | descendant | active 2 |
+| [sj.f0.f0](bbugyi200.athena.sj.f0.f0.md) (family · 2) | descendant | completed 2 |

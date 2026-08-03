@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8159f87`](https://github.com/bobs-org/bob-cli/commit/8159f87f900dad6f5ed139b4dec95f6aa66260ea) | chore: Add SDD prompt and plan for plugins\_sync\_safety | 2026-06-26 12:29:46 |
-| bob-cli | [`dbe0642`](https://github.com/bobs-org/bob-cli/commit/dbe06420090bc74af5beb99b8a4c827f65dc84d7) | feat: add safer plugin sync overwrites | 2026-06-26 12:40:47 |
+| bob-cli | [`8159f87`](https://github.com/bobs-org/bob-cli/commit/8159f87f900dad6f5ed139b4dec95f6aa66260ea) | chore: Add SDD prompt and plan for plugins\_sync\_safety | 2026-06-26 08:29:46 EDT |
+| bob-cli | [`dbe0642`](https://github.com/bobs-org/bob-cli/commit/dbe06420090bc74af5beb99b8a4c827f65dc84d7) | feat: add safer plugin sync overwrites | 2026-06-26 08:40:47 EDT |

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`79ead08`](https://github.com/bobs-org/bob-cli/commit/79ead085fe7b6055327ba4edc7b668b3e13f0483) | chore: add dataview parity fixture rails (bob-cli-4.1) | 2026-06-03 20:46:21 |
+| bob-cli | [`79ead08`](https://github.com/bobs-org/bob-cli/commit/79ead085fe7b6055327ba4edc7b668b3e13f0483) | chore: add dataview parity fixture rails (bob-cli-4.1) | 2026-06-03 16:46:21 EDT |
 
 ## Neighbors
 

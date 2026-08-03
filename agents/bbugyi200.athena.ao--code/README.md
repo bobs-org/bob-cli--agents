@@ -19,6 +19,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8bc5a02`](https://github.com/bobs-org/bob-cli/commit/8bc5a02f5c46f2f2a4b1c8826dcba37fd621e472) | fix(task-status-setter): remove canceled reference subtrees | 2026-07-16 19:17:32 |
+| bob-cli | [`8bc5a02`](https://github.com/bobs-org/bob-cli/commit/8bc5a02f5c46f2f2a4b1c8826dcba37fd621e472) | fix(task-status-setter): remove canceled reference subtrees | 2026-07-16 15:17:32 EDT |

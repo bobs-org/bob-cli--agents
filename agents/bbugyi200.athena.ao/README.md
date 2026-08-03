@@ -11,14 +11,8 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-16T19:02:04.873241+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`8bc5a02`](https://github.com/bobs-org/bob-cli/commit/8bc5a02f5c46f2f2a4b1c8826dcba37fd621e472) | fix(task-status-setter): remove canceled reference subtrees | 2026-07-16 19:17:32 |

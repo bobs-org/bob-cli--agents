@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f441a99`](https://github.com/bobs-org/bob-cli/commit/f441a9993afd236e1f86469fc364037d84c7908e) | chore: Add SDD prompt and plan for obsidian\_delete\_tab\_keymaps | 2026-06-19 00:58:28 |
+| bob-cli | [`f441a99`](https://github.com/bobs-org/bob-cli/commit/f441a9993afd236e1f86469fc364037d84c7908e) | chore: Add SDD prompt and plan for obsidian\_delete\_tab\_keymaps | 2026-06-18 20:58:28 EDT |
 
 ## Neighbors
 

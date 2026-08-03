@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-15T22:26:21.916602+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`7a0bf99`](https://github.com/bobs-org/bob-cli/commit/7a0bf9935e6ccb4f49d05fbe019cbba44172c20a) | feat(capture)!: make clipboard headers opt-in | 2026-07-15 22:37:57 |
 
 ## Neighbors
 

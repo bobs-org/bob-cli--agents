@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7f7cf14`](https://github.com/bobs-org/bob-cli/commit/7f7cf142503a0418d9afe82f1f7f1ace7f61878a) | chore: Add SDD prompt and plan for highlight\_task\_source\_links | 2026-06-07 15:13:31 |
-| bob-cli | [`5188527`](https://github.com/bobs-org/bob-cli/commit/51885273661ff6931403e6da744979bd825c8ba9) | feat: link annotation-created tasks back to their source highlight block | 2026-06-07 15:27:18 |
+| bob-cli | [`7f7cf14`](https://github.com/bobs-org/bob-cli/commit/7f7cf142503a0418d9afe82f1f7f1ace7f61878a) | chore: Add SDD prompt and plan for highlight\_task\_source\_links | 2026-06-07 11:13:31 EDT |
+| bob-cli | [`5188527`](https://github.com/bobs-org/bob-cli/commit/51885273661ff6931403e6da744979bd825c8ba9) | feat: link annotation-created tasks back to their source highlight block | 2026-06-07 11:27:18 EDT |
 
 ## Neighbors
 

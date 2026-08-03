@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`003ab9b`](https://github.com/bobs-org/bob-cli/commit/003ab9bf96463a9b1876febae780cf969be2d4f3) | chore: Add SDD prompt and plan for ctrl\_backslash\_cursor\_position\_1 | 2026-06-03 08:57:27 |
+| bob-cli | [`003ab9b`](https://github.com/bobs-org/bob-cli/commit/003ab9bf96463a9b1876febae780cf969be2d4f3) | chore: Add SDD prompt and plan for ctrl\_backslash\_cursor\_position\_1 | 2026-06-03 04:57:27 EDT |

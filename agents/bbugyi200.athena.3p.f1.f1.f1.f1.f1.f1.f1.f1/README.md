@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`da94a5a`](https://github.com/bobs-org/bob-cli/commit/da94a5acf6ea2a05763cb932802a201d97aefa47) | chore: Add SDD prompt and plan for hide\_h\_property | 2026-06-08 13:13:19 |
+| bob-cli | [`da94a5a`](https://github.com/bobs-org/bob-cli/commit/da94a5acf6ea2a05763cb932802a201d97aefa47) | chore: Add SDD prompt and plan for hide\_h\_property | 2026-06-08 09:13:19 EDT |
 
 ## Neighbors
 

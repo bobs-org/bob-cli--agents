@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a552cc2`](https://github.com/bobs-org/bob-cli/commit/a552cc277e5099ef840722f3f9c6b1aae7a6fd13) | feat(plugins): refresh repo before list and sync | 2026-07-08 16:43:44 |
+| bob-cli | [`a552cc2`](https://github.com/bobs-org/bob-cli/commit/a552cc277e5099ef840722f3f9c6b1aae7a6fd13) | feat(plugins): refresh repo before list and sync | 2026-07-08 12:43:44 EDT |
 
 ## Neighbors
 

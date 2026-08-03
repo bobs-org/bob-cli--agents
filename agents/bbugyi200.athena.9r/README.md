@@ -11,17 +11,11 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-15T20:47:00.829850+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`7468820`](https://github.com/bobs-org/bob-cli/commit/7468820cd134daf36e179e393d3eea083bb2b2a9) | feat(capture): add clipboard sub-bullet capture | 2026-07-15 21:24:33 |
 
 ## Neighbors
 

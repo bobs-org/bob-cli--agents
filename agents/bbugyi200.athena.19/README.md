@@ -11,7 +11,7 @@
 - Model: gpt-5.5
 - Provider: codex
 - Timing: 2026-07-07T23:10:29.626300+00:00
-- Commits: [2](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -19,10 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2629238`](https://github.com/bobs-org/bob-cli/commit/26292384b7379f6763f57b892a8d3edf4eeb7a3d) | chore: Add SDD prompt and plan for transcluded\_task\_at\_keymap | 2026-07-07 23:16:02 |
-| bob-cli | [`ee8791a`](https://github.com/bobs-org/bob-cli/commit/ee8791a0ee0f682a8448fec64e5334e608fb18bc) | chore: Mark SDD plan done | 2026-07-07 23:27:02 |
+| bob-cli | [`2629238`](https://github.com/bobs-org/bob-cli/commit/26292384b7379f6763f57b892a8d3edf4eeb7a3d) | chore: Add SDD prompt and plan for transcluded\_task\_at\_keymap | 2026-07-07 19:16:02 EDT |
 
 ## Neighbors
 

@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`21cdc33`](https://github.com/bobs-org/bob-cli/commit/21cdc33b6743602bc3d330356fc44f28201f60fb) | chore: Add SDD prompt and plan for snooze\_task\_property | 2026-06-03 00:20:16 |
+| bob-cli | [`21cdc33`](https://github.com/bobs-org/bob-cli/commit/21cdc33b6743602bc3d330356fc44f28201f60fb) | chore: Add SDD prompt and plan for snooze\_task\_property | 2026-06-02 20:20:16 EDT |

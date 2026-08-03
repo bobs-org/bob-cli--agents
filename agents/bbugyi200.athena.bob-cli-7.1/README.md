@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6240085`](https://github.com/bobs-org/bob-cli/commit/6240085228d5583f1d604982a78f73dac1ff672d) | feat: add projects list scanner (bob-cli-7.1) | 2026-06-11 22:34:18 |
+| bob-cli | [`6240085`](https://github.com/bobs-org/bob-cli/commit/6240085228d5583f1d604982a78f73dac1ff672d) | feat: add projects list scanner (bob-cli-7.1) | 2026-06-11 18:34:18 EDT |
 
 ## Neighbors
 

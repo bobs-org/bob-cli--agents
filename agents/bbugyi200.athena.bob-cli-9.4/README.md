@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`083385d`](https://github.com/bobs-org/bob-cli/commit/083385d4d45130dc5e0f3c8055bfa1127f0db9e4) | feat(tasks): evaluate native query filters (bob-cli-9.4) | 2026-07-10 19:50:27 |
+| bob-cli | [`083385d`](https://github.com/bobs-org/bob-cli/commit/083385d4d45130dc5e0f3c8055bfa1127f0db9e4) | feat(tasks): evaluate native query filters (bob-cli-9.4) | 2026-07-10 15:50:27 EDT |
 
 ## Neighbors
 

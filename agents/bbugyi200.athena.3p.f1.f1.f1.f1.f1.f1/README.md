@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6e6737a`](https://github.com/bobs-org/bob-cli/commit/6e6737abcf753235d16624134df2d8fe6dc2cd9b) | chore: Add SDD prompt and plan for highlight\_task\_completion\_order | 2026-06-08 12:22:27 |
-| bob-cli | [`05c2dfd`](https://github.com/bobs-org/bob-cli/commit/05c2dfdfdb44cbfee6a6364afa2ed4af7bb16cf1) | fix: preserve annotation task intake when closing PDFs | 2026-06-08 12:28:50 |
+| bob-cli | [`6e6737a`](https://github.com/bobs-org/bob-cli/commit/6e6737abcf753235d16624134df2d8fe6dc2cd9b) | chore: Add SDD prompt and plan for highlight\_task\_completion\_order | 2026-06-08 08:22:27 EDT |
+| bob-cli | [`05c2dfd`](https://github.com/bobs-org/bob-cli/commit/05c2dfdfdb44cbfee6a6364afa2ed4af7bb16cf1) | fix: preserve annotation task intake when closing PDFs | 2026-06-08 08:28:50 EDT |
 
 ## Neighbors
 

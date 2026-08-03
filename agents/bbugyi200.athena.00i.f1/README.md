@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7a93135`](https://github.com/bobs-org/bob-cli/commit/7a93135964ccfd97561c06eb90cbc00407da3e81) | chore: Add SDD prompt and plan for inline\_code\_color | 2026-06-18 19:00:29 |
+| bob-cli | [`7a93135`](https://github.com/bobs-org/bob-cli/commit/7a93135964ccfd97561c06eb90cbc00407da3e81) | chore: Add SDD prompt and plan for inline\_code\_color | 2026-06-18 15:00:29 EDT |
 
 ## Neighbors
 

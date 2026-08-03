@@ -19,13 +19,13 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`102c59f`](https://github.com/bobs-org/bob-cli/commit/102c59f41a531bd0e0e2cd3c29e6046847caf0ab) | docs(projects): document priority write notices | 2026-08-03 10:53:48 |
+| bob-cli | [`102c59f`](https://github.com/bobs-org/bob-cli/commit/102c59f41a531bd0e0e2cd3c29e6046847caf0ab) | docs(projects): document priority write notices | 2026-08-03 06:53:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [sj.f0](../../families/bbugyi200.athena.sj.f0.md) (family · 2) | descendant | completed 2 |
-| [sj.f0.f0](../../families/bbugyi200.athena.sj.f0.f0.md) (family · 2) | descendant | active 2 |
+| [sj.f0.f0](../../families/bbugyi200.athena.sj.f0.f0.md) (family · 2) | descendant | completed 2 |

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`20ada89`](https://github.com/bobs-org/bob-cli/commit/20ada8989cd70b2ac2856d26202d31b59d2b2092) | docs: revise Obsidian bullet task search research | 2026-06-26 12:09:22 |
+| bob-cli | [`20ada89`](https://github.com/bobs-org/bob-cli/commit/20ada8989cd70b2ac2856d26202d31b59d2b2092) | docs: revise Obsidian bullet task search research | 2026-06-26 08:09:22 EDT |
 
 ## Neighbors
 

@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`cab4f5f`](https://github.com/bobs-org/bob-cli/commit/cab4f5fafb65044cae15415395bd0a45ace359dc) | chore: Add SDD prompt and plan for obsidian\_enter\_current\_line | 2026-06-06 11:06:36 |
-| bob-cli | [`cc777bc`](https://github.com/bobs-org/bob-cli/commit/cc777bc140e0af75eae4b15258c7cb302dbe77a4) | chore: record Obsidian Enter verification | 2026-06-06 11:09:58 |
+| bob-cli | [`cab4f5f`](https://github.com/bobs-org/bob-cli/commit/cab4f5fafb65044cae15415395bd0a45ace359dc) | chore: Add SDD prompt and plan for obsidian\_enter\_current\_line | 2026-06-06 07:06:36 EDT |
+| bob-cli | [`cc777bc`](https://github.com/bobs-org/bob-cli/commit/cc777bc140e0af75eae4b15258c7cb302dbe77a4) | chore: record Obsidian Enter verification | 2026-06-06 07:09:58 EDT |

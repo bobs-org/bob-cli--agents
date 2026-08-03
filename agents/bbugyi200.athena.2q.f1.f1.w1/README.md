@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5fe094c`](https://github.com/bobs-org/bob-cli/commit/5fe094cbd72191f760d6b51ec4193b63468447eb) | chore: Add SDD prompt and plan for ctrl\_enter\_task\_completion | 2026-06-05 19:28:39 |
+| bob-cli | [`5fe094c`](https://github.com/bobs-org/bob-cli/commit/5fe094cbd72191f760d6b51ec4193b63468447eb) | chore: Add SDD prompt and plan for ctrl\_enter\_task\_completion | 2026-06-05 15:28:39 EDT |
 
 ## Neighbors
 

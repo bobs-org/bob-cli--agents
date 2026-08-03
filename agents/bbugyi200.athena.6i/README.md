@@ -11,17 +11,11 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-12T12:21:54.674086+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`6e1fd4f`](https://github.com/bobs-org/bob-cli/commit/6e1fd4fe82a022242d35eccfa1ef568b1bab769a) | feat: normalize Pomodoro session markers | 2026-07-12 12:47:34 |
 
 ## Neighbors
 

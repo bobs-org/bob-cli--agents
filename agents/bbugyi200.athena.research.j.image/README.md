@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`cbda790`](https://github.com/bobs-org/bob-cli/commit/cbda79051422eac7d51c49eac2d7c782fb37f4fc) | docs: add QuickAdd capture infographic | 2026-06-15 20:02:14 |
+| bob-cli | [`cbda790`](https://github.com/bobs-org/bob-cli/commit/cbda79051422eac7d51c49eac2d7c782fb37f4fc) | docs: add QuickAdd capture infographic | 2026-06-15 16:02:14 EDT |
 
 ## Neighbors
 

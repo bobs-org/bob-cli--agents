@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0113431`](https://github.com/bobs-org/bob-cli/commit/01134317e61560f67abee326305aad2c8ae0dd5a) | docs(research): consolidate Obsidian project review research | 2026-06-12 23:10:43 |
+| bob-cli | [`0113431`](https://github.com/bobs-org/bob-cli/commit/01134317e61560f67abee326305aad2c8ae0dd5a) | docs(research): consolidate Obsidian project review research | 2026-06-12 19:10:43 EDT |
 
 ## Neighbors
 

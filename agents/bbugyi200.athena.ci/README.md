@@ -11,14 +11,8 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-17T20:11:31.845741+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`c4e1d5e`](https://github.com/bobs-org/bob-cli/commit/c4e1d5e48e4683c8792fd14ae1a4eed69c8d6146) | feat(capture): normalize flat clipboard lists | 2026-07-17 20:29:15 |

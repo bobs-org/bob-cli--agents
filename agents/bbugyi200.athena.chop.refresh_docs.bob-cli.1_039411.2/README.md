@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9b4ae6e`](https://github.com/bobs-org/bob-cli/commit/9b4ae6eb9451ab32277b13efae8d6767fdcaea92) | docs: clarify current CLI workflows and dependencies | 2026-07-19 12:15:27 |
+| bob-cli | [`9b4ae6e`](https://github.com/bobs-org/bob-cli/commit/9b4ae6eb9451ab32277b13efae8d6767fdcaea92) | docs: clarify current CLI workflows and dependencies | 2026-07-19 08:15:27 EDT |
 
 ## Neighbors
 

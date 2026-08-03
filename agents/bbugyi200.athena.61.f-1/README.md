@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-11T21:14:49.587453+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`5a22c43`](https://github.com/bobs-org/bob-cli/commit/5a22c435520b852e5be395c52d76e20dfccfa48f) | feat: retire completed task references as struck links | 2026-07-11 21:34:11 |
 
 ## Neighbors
 

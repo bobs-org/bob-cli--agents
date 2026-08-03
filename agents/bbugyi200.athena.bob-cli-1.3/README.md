@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bbe9b5c`](https://github.com/bobs-org/bob-cli/commit/bbe9b5cb107c15202508f192f8b423a48d65ba06) | chore: harden bob cli package coverage (bob-cli-1.3) | 2026-06-01 14:39:35 |
+| bob-cli | [`bbe9b5c`](https://github.com/bobs-org/bob-cli/commit/bbe9b5cb107c15202508f192f8b423a48d65ba06) | chore: harden bob cli package coverage (bob-cli-1.3) | 2026-06-01 10:39:35 EDT |
 
 ## Neighbors
 

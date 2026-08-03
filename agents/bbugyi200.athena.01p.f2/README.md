@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`51f11b1`](https://github.com/bobs-org/bob-cli/commit/51f11b199fd7d105fd8e39f61520099298591eda) | chore: Add SDD prompt and plan for fix\_trailing\_at\_rename\_source\_marker | 2026-06-20 01:46:57 |
+| bob-cli | [`51f11b1`](https://github.com/bobs-org/bob-cli/commit/51f11b199fd7d105fd8e39f61520099298591eda) | chore: Add SDD prompt and plan for fix\_trailing\_at\_rename\_source\_marker | 2026-06-19 21:46:57 EDT |
 
 ## Neighbors
 

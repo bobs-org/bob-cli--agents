@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`74fb857`](https://github.com/bobs-org/bob-cli/commit/74fb8574bb3c739bb0e9447d1bb2796cef37be67) | chore: Add SDD prompt and plan for cancel\_prompt\_toast | 2026-06-24 14:43:00 |
+| bob-cli | [`74fb857`](https://github.com/bobs-org/bob-cli/commit/74fb8574bb3c739bb0e9447d1bb2796cef37be67) | chore: Add SDD prompt and plan for cancel\_prompt\_toast | 2026-06-24 10:43:00 EDT |

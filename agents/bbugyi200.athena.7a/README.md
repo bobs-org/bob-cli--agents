@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f36ea7c`](https://github.com/bobs-org/bob-cli/commit/f36ea7c3c94c141fdbeb41198589c1d0288cd12d) | chore: Add SDD prompt and plan for task\_dependency\_block\_ids | 2026-06-14 15:28:51 |
+| bob-cli | [`f36ea7c`](https://github.com/bobs-org/bob-cli/commit/f36ea7c3c94c141fdbeb41198589c1d0288cd12d) | chore: Add SDD prompt and plan for task\_dependency\_block\_ids | 2026-06-14 11:28:51 EDT |

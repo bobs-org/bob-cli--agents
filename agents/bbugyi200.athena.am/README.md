@@ -11,14 +11,8 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-16T17:09:36.427199+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`d76885d`](https://github.com/bobs-org/bob-cli/commit/d76885d10527bca43cdc62bfeed1ff523cd66ce2) | fix(task-status-setter): remove canceled Pomodoro links | 2026-07-16 17:24:55 |

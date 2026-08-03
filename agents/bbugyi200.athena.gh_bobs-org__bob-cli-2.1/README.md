@@ -2,26 +2,22 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gh\_bobs-org\_\_bob-cli-2](../../users/bbugyi200/machines/athena/hoods/gh_bobs-org__bob-cli-2/README.md) / gh\_bobs-org\_\_bob-cli-2.1
 
-**Global name:** `bbugyi200.athena.gh_bobs-org__bob-cli-2.1` · **State:** completed · **Source run:** `run-7d32491b74ce00594eb76549bf364082`
+**Global name:** `bbugyi200.athena.gh_bobs-org__bob-cli-2.1` · **State:** completed · **Source run:** `run-f2c5527e0f3578e29020b4e91dffe678`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** gh\_bobs-org\_\_bob-cli-2
 
 ## Summary
 
-- Model: gpt-5.6-sol
-- Provider: codex
-- Timing: 2026-07-31T11:56:17.305852+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-07-31T12:04:56+00:00 → 2026-07-31T12:04:56+00:00
 - Commits: [1](#commits)
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`31a10c5`](https://github.com/bobs-org/bob-cli/commit/31a10c59c5c34dd0c8bd17377d7816ab1563db07) | feat(native): add shared note task scanner | 2026-07-31 12:04:56 |
+| bob-cli | [`31a10c5`](https://github.com/bobs-org/bob-cli/commit/31a10c59c5c34dd0c8bd17377d7816ab1563db07) | feat(native): add shared note task scanner | 2026-07-31 08:04:56 EDT |
 
 ## Neighbors
 

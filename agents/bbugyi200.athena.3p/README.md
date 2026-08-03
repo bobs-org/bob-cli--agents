@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`eccf443`](https://github.com/bobs-org/bob-cli/commit/eccf44311345cec4f5224c033e9d3e6702f8e47d) | chore: Add SDD prompt and plan for highlights\_pdf\_note\_tasks | 2026-06-07 14:48:51 |
-| bob-cli | [`848318a`](https://github.com/bobs-org/bob-cli/commit/848318a62261ff18693bd7cc775cd9e927a1962a) | feat: create tasks from highlight note bullets | 2026-06-07 14:59:40 |
+| bob-cli | [`eccf443`](https://github.com/bobs-org/bob-cli/commit/eccf44311345cec4f5224c033e9d3e6702f8e47d) | chore: Add SDD prompt and plan for highlights\_pdf\_note\_tasks | 2026-06-07 10:48:51 EDT |
+| bob-cli | [`848318a`](https://github.com/bobs-org/bob-cli/commit/848318a62261ff18693bd7cc775cd9e927a1962a) | feat: create tasks from highlight note bullets | 2026-06-07 10:59:40 EDT |
 
 ## Neighbors
 

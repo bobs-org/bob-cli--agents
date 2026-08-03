@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6405602`](https://github.com/bobs-org/bob-cli/commit/64056024b65ebf98cc75fee6689b177bf5873489) | chore: Add SDD prompt and plan for rename\_bob\_subcommands\_1 | 2026-06-03 07:04:36 |
-| bob-cli | [`80ae611`](https://github.com/bobs-org/bob-cli/commit/80ae61181276c18fba3d38ed9a8ebc0ba87f27d9) | feat: rename Bob vault maintenance commands | 2026-06-03 07:16:19 |
+| bob-cli | [`6405602`](https://github.com/bobs-org/bob-cli/commit/64056024b65ebf98cc75fee6689b177bf5873489) | chore: Add SDD prompt and plan for rename\_bob\_subcommands\_1 | 2026-06-03 03:04:36 EDT |
+| bob-cli | [`80ae611`](https://github.com/bobs-org/bob-cli/commit/80ae61181276c18fba3d38ed9a8ebc0ba87f27d9) | feat: rename Bob vault maintenance commands | 2026-06-03 03:16:19 EDT |

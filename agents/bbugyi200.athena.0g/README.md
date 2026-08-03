@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9a457ba`](https://github.com/bobs-org/bob-cli/commit/9a457bafc11b28d98a7f6746664ea1fda223918d) | chore: Add SDD prompt and plan for collect\_done\_obsidian\_link\_repair | 2026-06-03 00:53:30 |
-| bob-cli | [`9ac238e`](https://github.com/bobs-org/bob-cli/commit/9ac238e4c5291785cd5c336bd2473c676a858c6d) | feat: repair Obsidian block links during collect-done | 2026-06-03 01:07:01 |
+| bob-cli | [`9a457ba`](https://github.com/bobs-org/bob-cli/commit/9a457bafc11b28d98a7f6746664ea1fda223918d) | chore: Add SDD prompt and plan for collect\_done\_obsidian\_link\_repair | 2026-06-02 20:53:30 EDT |
+| bob-cli | [`9ac238e`](https://github.com/bobs-org/bob-cli/commit/9ac238e4c5291785cd5c336bd2473c676a858c6d) | feat: repair Obsidian block links during collect-done | 2026-06-02 21:07:01 EDT |

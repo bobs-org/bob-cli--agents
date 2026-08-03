@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5a22c43`](https://github.com/bobs-org/bob-cli/commit/5a22c435520b852e5be395c52d76e20dfccfa48f) | feat: retire completed task references as struck links | 2026-07-11 21:34:11 |
+| bob-cli | [`5a22c43`](https://github.com/bobs-org/bob-cli/commit/5a22c435520b852e5be395c52d76e20dfccfa48f) | feat: retire completed task references as struck links | 2026-07-11 17:34:11 EDT |
 
 ## Neighbors
 

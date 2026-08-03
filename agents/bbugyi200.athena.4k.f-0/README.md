@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-10T17:30:48.617292+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`ddb1e54`](https://github.com/bobs-org/bob-cli/commit/ddb1e54013852313537e85f0b8b856b0969d7dde) | feat(projects): mark future-scheduled sub-projects | 2026-07-10 17:43:07 |
 
 ## Neighbors
 

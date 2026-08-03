@@ -11,14 +11,8 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-10T19:53:17.465064+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`bc829fa`](https://github.com/bobs-org/bob-cli/commit/bc829facebfccc3d7673a41eaf06a37b6c95d3e5) | feat(tasks): sync next tasks from open pomodoros | 2026-07-10 20:17:59 |

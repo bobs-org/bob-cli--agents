@@ -11,14 +11,8 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-10T22:15:52.623969+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`1ca1109`](https://github.com/bobs-org/bob-cli/commit/1ca11094811c5bcd04feeacec54e99b3503610d6) | feat: rehome completed Pomodoro task links | 2026-07-10 22:31:55 |

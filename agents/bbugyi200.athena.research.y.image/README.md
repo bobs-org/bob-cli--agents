@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`099ad2a`](https://github.com/bobs-org/bob-cli/commit/099ad2aa061ae74c1a91a2aac22444635a8b228a) | docs: add Bob Obsidian plugins infographic | 2026-06-20 14:33:14 |
+| bob-cli | [`099ad2a`](https://github.com/bobs-org/bob-cli/commit/099ad2aa061ae74c1a91a2aac22444635a8b228a) | docs: add Bob Obsidian plugins infographic | 2026-06-20 10:33:14 EDT |
 
 ## Neighbors
 

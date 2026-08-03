@@ -11,14 +11,8 @@
 - Model: claude-fable-5
 - Provider: claude
 - Timing: 2026-07-11T22:22:08.934377+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`5db0e6a`](https://github.com/bobs-org/bob-cli/commit/5db0e6a0bfe4880d957d3c4b6a581a32e358b499) | fix: address review findings across native workflows | 2026-07-11 23:09:56 |

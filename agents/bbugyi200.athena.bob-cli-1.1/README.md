@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8e125dd`](https://github.com/bobs-org/bob-cli/commit/8e125dde0e75019335a7c943300bf675ac091975) | feat: add bob CLI crate skeleton (bob-cli-1.1) | 2026-06-01 14:17:28 |
-| bob-cli | [`2fbc12e`](https://github.com/bobs-org/bob-cli/commit/2fbc12ee7fa31b81991a6449e0cb8a54c267da0b) | chore: close bob-cli-1.1 bead | 2026-06-01 14:19:13 |
+| bob-cli | [`8e125dd`](https://github.com/bobs-org/bob-cli/commit/8e125dde0e75019335a7c943300bf675ac091975) | feat: add bob CLI crate skeleton (bob-cli-1.1) | 2026-06-01 10:17:28 EDT |
+| bob-cli | [`2fbc12e`](https://github.com/bobs-org/bob-cli/commit/2fbc12ee7fa31b81991a6449e0cb8a54c267da0b) | chore: close bob-cli-1.1 bead | 2026-06-01 10:19:13 EDT |
 
 ## Neighbors
 

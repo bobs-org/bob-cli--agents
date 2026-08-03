@@ -17,15 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 61.f-0 | active | gpt-5.6-sol / codex | 2026-07-11T20:26:39.118250+00:00 | [1](../agents/bbugyi200.athena.61.f-0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.61.f-0/prompt.md) | [Chat](../agents/bbugyi200.athena.61.f-0/chat.md) |
+| <a id="member-root"></a>root | 61.f-0 | active | gpt-5.6-sol / codex | 2026-07-11T20:26:39.118250+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.61.f-0/prompt.md) | [Chat](../agents/bbugyi200.athena.61.f-0/chat.md) |
 | <a id="member-code"></a>code | 61.f-0--code | completed | gpt-5.6-sol / codex | 2026-07-11T20:38:14.063313+00:00 | [1](../agents/bbugyi200.athena.61.f-0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.61.f-0--code/chat.md) |
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`0e67766`](https://github.com/bobs-org/bob-cli/commit/0e677668a2082c3f099b8ce2bd2286f67f7dfea5) | feat: repair task dependency identities on archive moves | 2026-07-11 21:14:04 |
-| root | bob-cli | [`0e67766`](https://github.com/bobs-org/bob-cli/commit/0e677668a2082c3f099b8ce2bd2286f67f7dfea5) | feat: repair task dependency identities on archive moves | 2026-07-11 21:14:04 |
+| code | bob-cli | [`0e67766`](https://github.com/bobs-org/bob-cli/commit/0e677668a2082c3f099b8ce2bd2286f67f7dfea5) | feat: repair task dependency identities on archive moves | 2026-07-11 17:14:04 EDT |
 
 ## Neighbors
 

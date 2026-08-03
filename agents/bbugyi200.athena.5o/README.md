@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`70edf9a`](https://github.com/bobs-org/bob-cli/commit/70edf9a919bb9194b82b606d4172e1082b7eec5c) | chore: Add SDD prompt and plan for obsidian\_project\_from\_task\_keymap | 2026-06-12 13:54:16 |
+| bob-cli | [`70edf9a`](https://github.com/bobs-org/bob-cli/commit/70edf9a919bb9194b82b606d4172e1082b7eec5c) | chore: Add SDD prompt and plan for obsidian\_project\_from\_task\_keymap | 2026-06-12 09:54:16 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`526a752`](https://github.com/bobs-org/bob-cli/commit/526a752edfc059b336372aba324622c7f16adac2) | chore: Add SDD prompt and plan for obsidian\_open\_task\_jump\_cycling | 2026-06-19 11:59:02 |
+| bob-cli | [`526a752`](https://github.com/bobs-org/bob-cli/commit/526a752edfc059b336372aba324622c7f16adac2) | chore: Add SDD prompt and plan for obsidian\_open\_task\_jump\_cycling | 2026-06-19 07:59:02 EDT |
 
 ## Neighbors
 

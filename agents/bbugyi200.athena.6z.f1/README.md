@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`709ab13`](https://github.com/bobs-org/bob-cli/commit/709ab13b978537cfef2bba0d9f2870117217f660) | chore: Add SDD prompt and plan for fix\_project\_block\_link\_syntax | 2026-06-14 11:34:01 |
+| bob-cli | [`709ab13`](https://github.com/bobs-org/bob-cli/commit/709ab13b978537cfef2bba0d9f2870117217f660) | chore: Add SDD prompt and plan for fix\_project\_block\_link\_syntax | 2026-06-14 07:34:01 EDT |
 
 ## Neighbors
 

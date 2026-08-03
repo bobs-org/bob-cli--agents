@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`46dcb52`](https://github.com/bobs-org/bob-cli/commit/46dcb5246f774598de6debf4d73f6d691433f2b6) | chore: Add SDD prompt and plan for hide\_tag\_migration | 2026-06-15 14:48:21 |
-| bob-cli | [`7ce29ea`](https://github.com/bobs-org/bob-cli/commit/7ce29ea986b75f7ac5bf695c7d393fc6460ca9e9) | feat!: migrate project/reference task hiding from \`\[p::2\]\` to \`#hide\` | 2026-06-15 15:17:14 |
+| bob-cli | [`46dcb52`](https://github.com/bobs-org/bob-cli/commit/46dcb5246f774598de6debf4d73f6d691433f2b6) | chore: Add SDD prompt and plan for hide\_tag\_migration | 2026-06-15 10:48:21 EDT |
+| bob-cli | [`7ce29ea`](https://github.com/bobs-org/bob-cli/commit/7ce29ea986b75f7ac5bf695c7d393fc6460ca9e9) | feat!: migrate project/reference task hiding from \`\[p::2\]\` to \`#hide\` | 2026-06-15 11:17:14 EDT |

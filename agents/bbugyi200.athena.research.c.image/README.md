@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b8a50b5`](https://github.com/bobs-org/bob-cli/commit/b8a50b5a9932b32f89ff7ad325c22b9fd2cb9c1c) | docs(research): add Obsidian projects infographic | 2026-06-12 23:15:15 |
+| bob-cli | [`b8a50b5`](https://github.com/bobs-org/bob-cli/commit/b8a50b5a9932b32f89ff7ad325c22b9fd2cb9c1c) | docs(research): add Obsidian projects infographic | 2026-06-12 19:15:15 EDT |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e615f1b`](https://github.com/bobs-org/bob-cli/commit/e615f1b2c3b800f8246600a322b496daab2cba49) | chore: Add SDD prompt and plan for pomodoro\_runtime\_parentheses\_1 | 2026-06-02 14:09:12 |
-| bob-cli | [`a1d4446`](https://github.com/bobs-org/bob-cli/commit/a1d444600f03703b600ac14650ea53baa781275d) | fix: store pomodoro runtimes inside time ranges | 2026-06-02 14:18:38 |
+| bob-cli | [`e615f1b`](https://github.com/bobs-org/bob-cli/commit/e615f1b2c3b800f8246600a322b496daab2cba49) | chore: Add SDD prompt and plan for pomodoro\_runtime\_parentheses\_1 | 2026-06-02 10:09:12 EDT |
+| bob-cli | [`a1d4446`](https://github.com/bobs-org/bob-cli/commit/a1d444600f03703b600ac14650ea53baa781275d) | fix: store pomodoro runtimes inside time ranges | 2026-06-02 10:18:38 EDT |
 
 ## Neighbors
 

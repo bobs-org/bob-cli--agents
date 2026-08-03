@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`18560e5`](https://github.com/bobs-org/bob-cli/commit/18560e5c2e2f886fff4f4a97405a423684dfd530) | chore: add research on bulk Obsidian task properties | 2026-06-04 13:19:29 |
+| bob-cli | [`18560e5`](https://github.com/bobs-org/bob-cli/commit/18560e5c2e2f886fff4f4a97405a423684dfd530) | chore: add research on bulk Obsidian task properties | 2026-06-04 09:19:29 EDT |
 
 ## Neighbors
 

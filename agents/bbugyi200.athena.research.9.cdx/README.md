@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`74a921f`](https://github.com/bobs-org/bob-cli/commit/74a921fbb0bc1d99882f0a9d545450054a292059) | chore: add Obsidian Notion research note | 2026-06-12 11:43:47 |
+| bob-cli | [`74a921f`](https://github.com/bobs-org/bob-cli/commit/74a921fbb0bc1d99882f0a9d545450054a292059) | chore: add Obsidian Notion research note | 2026-06-12 07:43:47 EDT |
 
 ## Neighbors
 

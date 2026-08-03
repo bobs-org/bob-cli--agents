@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9668e16`](https://github.com/bobs-org/bob-cli/commit/9668e16b2a7c25fef30dad65babbb79c9b4b7adc) | chore: add Obsidian research infographic | 2026-06-04 18:47:39 |
+| bob-cli | [`9668e16`](https://github.com/bobs-org/bob-cli/commit/9668e16b2a7c25fef30dad65babbb79c9b4b7adc) | chore: add Obsidian research infographic | 2026-06-04 14:47:39 EDT |
 
 ## Neighbors
 

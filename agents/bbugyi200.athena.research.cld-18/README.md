@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b934227`](https://github.com/bobs-org/bob-cli/commit/b93422782e611dbcfa0f1d0798959dd93f5c29ed) | chore: Add research on representing GTD projects in Obsidian vault | 2026-06-08 15:36:29 |
+| bob-cli | [`b934227`](https://github.com/bobs-org/bob-cli/commit/b93422782e611dbcfa0f1d0798959dd93f5c29ed) | chore: Add research on representing GTD projects in Obsidian vault | 2026-06-08 11:36:29 EDT |
 
 ## Neighbors
 

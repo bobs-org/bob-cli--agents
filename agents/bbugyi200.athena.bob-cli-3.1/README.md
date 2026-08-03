@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`04d7606`](https://github.com/bobs-org/bob-cli/commit/04d7606a183d5e92ba56a51cd594a9326aa670e0) | feat: add dataview command skeleton (bob-cli-3.1) | 2026-06-03 17:04:17 |
+| bob-cli | [`04d7606`](https://github.com/bobs-org/bob-cli/commit/04d7606a183d5e92ba56a51cd594a9326aa670e0) | feat: add dataview command skeleton (bob-cli-3.1) | 2026-06-03 13:04:17 EDT |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9885b13`](https://github.com/bobs-org/bob-cli/commit/9885b1321f2ed7d430a03f5afc0321a5e25f77d5) | chore: Add SDD prompt and plan for ref\_task\_block\_id\_migration | 2026-06-11 22:30:45 |
-| bob-cli | [`4bbab42`](https://github.com/bobs-org/bob-cli/commit/4bbab4242fe48c9f0c033e0f5a423ac34d47c31c) | ref: migrate highlights ref block id | 2026-06-11 22:41:26 |
+| bob-cli | [`9885b13`](https://github.com/bobs-org/bob-cli/commit/9885b1321f2ed7d430a03f5afc0321a5e25f77d5) | chore: Add SDD prompt and plan for ref\_task\_block\_id\_migration | 2026-06-11 18:30:45 EDT |
+| bob-cli | [`4bbab42`](https://github.com/bobs-org/bob-cli/commit/4bbab4242fe48c9f0c033e0f5a423ac34d47c31c) | ref: migrate highlights ref block id | 2026-06-11 18:41:26 EDT |
 
 ## Neighbors
 

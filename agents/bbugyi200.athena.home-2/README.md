@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`01ca2cb`](https://github.com/bobs-org/bob-cli/commit/01ca2cbb762431a101809e87f885572a98c10545) | fix: refresh highlights ref metadata after PDF writes (home-2) | 2026-06-03 08:23:12 |
+| bob-cli | [`01ca2cb`](https://github.com/bobs-org/bob-cli/commit/01ca2cbb762431a101809e87f885572a98c10545) | fix: refresh highlights ref metadata after PDF writes (home-2) | 2026-06-03 04:23:12 EDT |
 
 ## Neighbors
 

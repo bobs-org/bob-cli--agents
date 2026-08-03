@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`44c01cd`](https://github.com/bobs-org/bob-cli/commit/44c01cd209049561c56340163e0532b39e34a37f) | chore: Add SDD prompt and plan for area\_badges\_child\_picker | 2026-06-27 11:39:47 |
+| bob-cli | [`44c01cd`](https://github.com/bobs-org/bob-cli/commit/44c01cd209049561c56340163e0532b39e34a37f) | chore: Add SDD prompt and plan for area\_badges\_child\_picker | 2026-06-27 07:39:47 EDT |
 
 ## Neighbors
 

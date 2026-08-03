@@ -19,9 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ddb1e54`](https://github.com/bobs-org/bob-cli/commit/ddb1e54013852313537e85f0b8b856b0969d7dde) | feat(projects): mark future-scheduled sub-projects | 2026-07-10 17:43:07 |
+| bob-cli | [`ddb1e54`](https://github.com/bobs-org/bob-cli/commit/ddb1e54013852313537e85f0b8b856b0969d7dde) | feat(projects): mark future-scheduled sub-projects | 2026-07-10 13:43:07 EDT |
 
 ## Neighbors
 

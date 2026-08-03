@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`21edba9`](https://github.com/bobs-org/bob-cli/commit/21edba95fb5730d82c08f2172bade2c0ddfb0339) | chore: Add SDD prompt and plan for revert\_embed\_fallback\_add\_ctrl\_keymaps | 2026-06-15 20:12:56 |
-| bob-cli | [`b063fdf`](https://github.com/bobs-org/bob-cli/commit/b063fdf78a4089a3703664fe12052cd40d48118a) | chore: Mark SDD plan done | 2026-06-15 20:46:08 |
+| bob-cli | [`21edba9`](https://github.com/bobs-org/bob-cli/commit/21edba95fb5730d82c08f2172bade2c0ddfb0339) | chore: Add SDD prompt and plan for revert\_embed\_fallback\_add\_ctrl\_keymaps | 2026-06-15 16:12:56 EDT |
+| bob-cli | [`b063fdf`](https://github.com/bobs-org/bob-cli/commit/b063fdf78a4089a3703664fe12052cd40d48118a) | chore: Mark SDD plan done | 2026-06-15 16:46:08 EDT |
 
 ## Neighbors
 

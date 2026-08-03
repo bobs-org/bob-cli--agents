@@ -18,14 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 9r--code | completed | gpt-5.6-sol / codex | 2026-07-15T21:03:41.457353+00:00 | [1](../agents/bbugyi200.athena.9r--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.9r--code/chat.md) |
-| <a id="member-root"></a>root | 9r | active | claude-fable-5 / claude | 2026-07-15T20:47:00.829850+00:00 | [1](../agents/bbugyi200.athena.9r/README.md#commits) | [Prompt](../agents/bbugyi200.athena.9r/prompt.md) | [Chat](../agents/bbugyi200.athena.9r/chat.md) |
+| <a id="member-root"></a>root | 9r | active | claude-fable-5 / claude | 2026-07-15T20:47:00.829850+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.9r/prompt.md) | [Chat](../agents/bbugyi200.athena.9r/chat.md) |
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`7468820`](https://github.com/bobs-org/bob-cli/commit/7468820cd134daf36e179e393d3eea083bb2b2a9) | feat(capture): add clipboard sub-bullet capture | 2026-07-15 21:24:33 |
-| root | bob-cli | [`7468820`](https://github.com/bobs-org/bob-cli/commit/7468820cd134daf36e179e393d3eea083bb2b2a9) | feat(capture): add clipboard sub-bullet capture | 2026-07-15 21:24:33 |
+| code | bob-cli | [`7468820`](https://github.com/bobs-org/bob-cli/commit/7468820cd134daf36e179e393d3eea083bb2b2a9) | feat(capture): add clipboard sub-bullet capture | 2026-07-15 17:24:33 EDT |
 
 ## Neighbors
 

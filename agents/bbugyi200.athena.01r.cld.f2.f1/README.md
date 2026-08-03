@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1d5c5e4`](https://github.com/bobs-org/bob-cli/commit/1d5c5e44f24248bed31d0239d86a1e0f73f04e9f) | chore: Add SDD prompt and plan for vim\_surround\_cs\_keymap | 2026-06-20 02:58:17 |
-| bob-cli | [`388dee6`](https://github.com/bobs-org/bob-cli/commit/388dee6ce3033535f43b8d9ac599525f1bf07f7e) | chore: Mark SDD plan done | 2026-06-20 14:10:36 |
+| bob-cli | [`1d5c5e4`](https://github.com/bobs-org/bob-cli/commit/1d5c5e44f24248bed31d0239d86a1e0f73f04e9f) | chore: Add SDD prompt and plan for vim\_surround\_cs\_keymap | 2026-06-19 22:58:17 EDT |
+| bob-cli | [`388dee6`](https://github.com/bobs-org/bob-cli/commit/388dee6ce3033535f43b8d9ac599525f1bf07f7e) | chore: Mark SDD plan done | 2026-06-20 10:10:36 EDT |
 
 ## Neighbors
 

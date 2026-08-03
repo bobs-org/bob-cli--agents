@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-12T14:37:47.044105+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`334f18b`](https://github.com/bobs-org/bob-cli/commit/334f18b8200bea940d056744e45ba46810445d90) | fix: preserve Pomodoro marker provenance | 2026-07-12 14:58:04 |
 
 ## Neighbors
 

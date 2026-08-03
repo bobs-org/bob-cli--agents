@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ca600ba`](https://github.com/bobs-org/bob-cli/commit/ca600ba92853103eaaf6e059c2c19d11b35afd89) | chore: Add SDD prompt and plan for depends\_on\_single\_bullet | 2026-06-28 18:45:30 |
-| bob-cli | [`ebcabd9`](https://github.com/bobs-org/bob-cli/commit/ebcabd945ffe1189454be1363f075aae92f593bd) | chore: Mark SDD plan done | 2026-06-28 19:01:10 |
+| bob-cli | [`ca600ba`](https://github.com/bobs-org/bob-cli/commit/ca600ba92853103eaaf6e059c2c19d11b35afd89) | chore: Add SDD prompt and plan for depends\_on\_single\_bullet | 2026-06-28 14:45:30 EDT |
+| bob-cli | [`ebcabd9`](https://github.com/bobs-org/bob-cli/commit/ebcabd945ffe1189454be1363f075aae92f593bd) | chore: Mark SDD plan done | 2026-06-28 15:01:10 EDT |
 
 ## Neighbors
 

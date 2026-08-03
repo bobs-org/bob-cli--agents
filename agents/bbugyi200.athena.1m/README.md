@@ -15,7 +15,7 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`aedab17`](https://github.com/bobs-org/bob-cli/commit/aedab175d90f3323fbd2a237dcdf22a0f25ae84d) | chore: Add SDD prompt and plan for highlights\_ref\_marker\_pdfdoc\_newlines | 2026-06-03 12:57:34 |
-| bob-cli | [`04d7b5a`](https://github.com/bobs-org/bob-cli/commit/04d7b5af72e17560162f02c2e66cce73c8327a8e) | fix: preserve literal PDF marker newlines | 2026-06-03 13:02:27 |
+| bob-cli | [`aedab17`](https://github.com/bobs-org/bob-cli/commit/aedab175d90f3323fbd2a237dcdf22a0f25ae84d) | chore: Add SDD prompt and plan for highlights\_ref\_marker\_pdfdoc\_newlines | 2026-06-03 08:57:34 EDT |
+| bob-cli | [`04d7b5a`](https://github.com/bobs-org/bob-cli/commit/04d7b5af72e17560162f02c2e66cce73c8327a8e) | fix: preserve literal PDF marker newlines | 2026-06-03 09:02:27 EDT |

@@ -1,0 +1,3 @@
+#gh:gh_bobs-org__bob-cli The Obsidian `<ctrl+shift+p>` keymap and the `bob task-status-hooks` commands already add/remove the `#hide` tag to open tasks in an Obsidian project note file when we add/find a `scheduled` property in the project note file's frontmatter. Can you help me stop using the `#hide` tag and instead add a `scheduled` data view property to each open task in the project note file, assuming that the task does not already have a scheduled property that specifies a date equal to or further in the future than the date the project note file specifies? We should also mark/unmark each task as blocked (i.e. change the task checkbox to `[?]`).
+
+#plan #m_opus

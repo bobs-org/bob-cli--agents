@@ -18,14 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 9r.f0--code | completed | gpt-5.6-sol / codex | 2026-07-15T22:29:05.250273+00:00 | [1](../agents/bbugyi200.athena.9r.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.9r.f0--code/chat.md) |
-| <a id="member-root"></a>root | 9r.f0 | active | gpt-5.6-sol / codex | 2026-07-15T22:26:21.916602+00:00 | [1](../agents/bbugyi200.athena.9r.f0/README.md#commits) | [Prompt](../agents/bbugyi200.athena.9r.f0/prompt.md) | [Chat](../agents/bbugyi200.athena.9r.f0/chat.md) |
+| <a id="member-root"></a>root | 9r.f0 | active | gpt-5.6-sol / codex | 2026-07-15T22:26:21.916602+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.9r.f0/prompt.md) | [Chat](../agents/bbugyi200.athena.9r.f0/chat.md) |
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`7a0bf99`](https://github.com/bobs-org/bob-cli/commit/7a0bf9935e6ccb4f49d05fbe019cbba44172c20a) | feat(capture)!: make clipboard headers opt-in | 2026-07-15 22:37:57 |
-| root | bob-cli | [`7a0bf99`](https://github.com/bobs-org/bob-cli/commit/7a0bf9935e6ccb4f49d05fbe019cbba44172c20a) | feat(capture)!: make clipboard headers opt-in | 2026-07-15 22:37:57 |
+| code | bob-cli | [`7a0bf99`](https://github.com/bobs-org/bob-cli/commit/7a0bf9935e6ccb4f49d05fbe019cbba44172c20a) | feat(capture)!: make clipboard headers opt-in | 2026-07-15 18:37:57 EDT |
 
 ## Neighbors
 

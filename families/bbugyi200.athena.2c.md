@@ -22,6 +22,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | bob-cli | [`577bbd6`](https://github.com/bobs-org/bob-cli/commit/577bbd6d6843b84163943d63e5eef60d10b3a1bd) | chore: Add SDD prompt and plan for pomodoro\_next\_status\_in\_progress | 2026-07-08 18:08:30 |
+| root | bob-cli | [`577bbd6`](https://github.com/bobs-org/bob-cli/commit/577bbd6d6843b84163943d63e5eef60d10b3a1bd) | chore: Add SDD prompt and plan for pomodoro\_next\_status\_in\_progress | 2026-07-08 14:08:30 EDT |

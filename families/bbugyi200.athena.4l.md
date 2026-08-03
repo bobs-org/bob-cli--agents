@@ -18,14 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 4l--code | completed | gpt-5.6-sol / codex | 2026-07-10T17:31:51.926465+00:00 | [1](../agents/bbugyi200.athena.4l--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.4l--code/chat.md) |
-| <a id="member-root"></a>root | 4l | active | gpt-5.6-sol / codex | 2026-07-10T13:21:26.466342 | [1](../agents/bbugyi200.athena.4l/README.md#commits) | [Prompt](../agents/bbugyi200.athena.4l/prompt.md) | [Chat](../agents/bbugyi200.athena.4l/chat.md) |
+| <a id="member-root"></a>root | 4l | active | gpt-5.6-sol / codex | 2026-07-10T13:21:26.466342 | 0 | [Prompt](../agents/bbugyi200.athena.4l/prompt.md) | [Chat](../agents/bbugyi200.athena.4l/chat.md) |
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`15ec5ac`](https://github.com/bobs-org/bob-cli/commit/15ec5ac94d202575075309e5265fd663206af930) | feat(capture): link routed tasks to pomodoros | 2026-07-10 17:50:45 |
-| root | bob-cli | [`15ec5ac`](https://github.com/bobs-org/bob-cli/commit/15ec5ac94d202575075309e5265fd663206af930) | feat(capture): link routed tasks to pomodoros | 2026-07-10 17:50:45 |
+| code | bob-cli | [`15ec5ac`](https://github.com/bobs-org/bob-cli/commit/15ec5ac94d202575075309e5265fd663206af930) | feat(capture): link routed tasks to pomodoros | 2026-07-10 13:50:45 EDT |
 
 ## Neighbors
 

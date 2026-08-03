@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5c0a22d`](https://github.com/bobs-org/bob-cli/commit/5c0a22d3505d6a9070ff60721e79d623fc3e3131) | chore: Add SDD prompt and plan for pomodoro\_inline\_t | 2026-06-02 15:41:54 |
-| bob-cli | [`a213465`](https://github.com/bobs-org/bob-cli/commit/a21346531a385242cfe16c952cf3b9b6dc9e9480) | feat: track Pomodoro durations inline | 2026-06-02 15:54:31 |
+| bob-cli | [`5c0a22d`](https://github.com/bobs-org/bob-cli/commit/5c0a22d3505d6a9070ff60721e79d623fc3e3131) | chore: Add SDD prompt and plan for pomodoro\_inline\_t | 2026-06-02 11:41:54 EDT |
+| bob-cli | [`a213465`](https://github.com/bobs-org/bob-cli/commit/a21346531a385242cfe16c952cf3b9b6dc9e9480) | feat: track Pomodoro durations inline | 2026-06-02 11:54:31 EDT |
 
 ## Neighbors
 

@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3ce61ff`](https://github.com/bobs-org/bob-cli/commit/3ce61ff0fec9a70f15ee10c84c5bdf0c1fd42867) | chore: consolidate GTD project research | 2026-06-08 15:44:12 |
+| bob-cli | [`3ce61ff`](https://github.com/bobs-org/bob-cli/commit/3ce61ff0fec9a70f15ee10c84c5bdf0c1fd42867) | chore: consolidate GTD project research | 2026-06-08 11:44:12 EDT |
 
 ## Neighbors
 

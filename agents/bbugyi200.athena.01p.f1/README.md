@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0790df7`](https://github.com/bobs-org/bob-cli/commit/0790df755a9eff39fba340a26de1d4b7fd2ce61e) | chore: Add SDD prompt and plan for strip\_existing\_block\_suffix\_for\_caret\_completion | 2026-06-20 01:37:38 |
+| bob-cli | [`0790df7`](https://github.com/bobs-org/bob-cli/commit/0790df755a9eff39fba340a26de1d4b7fd2ce61e) | chore: Add SDD prompt and plan for strip\_existing\_block\_suffix\_for\_caret\_completion | 2026-06-19 21:37:38 EDT |
 
 ## Neighbors
 

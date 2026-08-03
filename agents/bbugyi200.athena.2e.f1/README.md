@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a7c6eac`](https://github.com/bobs-org/bob-cli/commit/a7c6eacedddb5f88647cd66985057dddf1446810) | chore: Add SDD prompt and plan for highlights\_ref\_cancelled\_task | 2026-06-04 20:08:24 |
-| bob-cli | [`a5aac96`](https://github.com/bobs-org/bob-cli/commit/a5aac963aade258077e152b80e4a6adc4e02ee36) | fix: tolerate cancelled highlight task refs | 2026-06-04 20:14:33 |
+| bob-cli | [`a7c6eac`](https://github.com/bobs-org/bob-cli/commit/a7c6eacedddb5f88647cd66985057dddf1446810) | chore: Add SDD prompt and plan for highlights\_ref\_cancelled\_task | 2026-06-04 16:08:24 EDT |
+| bob-cli | [`a5aac96`](https://github.com/bobs-org/bob-cli/commit/a5aac963aade258077e152b80e4a6adc4e02ee36) | fix: tolerate cancelled highlight task refs | 2026-06-04 16:14:33 EDT |
 
 ## Neighbors
 

@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-14T12:12:29.303018+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`902db01`](https://github.com/bobs-org/bob-cli/commit/902db0183631e2c1fb49748b693a7d8a584fdda8) | fix: support aliases in recursive task transclusions | 2026-07-14 12:21:46 |
 
 ## Neighbors
 

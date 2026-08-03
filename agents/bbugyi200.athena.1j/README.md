@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c76192a`](https://github.com/bobs-org/bob-cli/commit/c76192aebc99f16573e9ee9bcdb90ccf5fb07f5b) | chore: Add SDD prompt and plan for artifact\_file\_fallback | 2026-06-03 12:12:29 |
+| bob-cli | [`c76192a`](https://github.com/bobs-org/bob-cli/commit/c76192aebc99f16573e9ee9bcdb90ccf5fb07f5b) | chore: Add SDD prompt and plan for artifact\_file\_fallback | 2026-06-03 08:12:29 EDT |

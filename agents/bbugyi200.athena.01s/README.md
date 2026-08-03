@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`57d6b2c`](https://github.com/bobs-org/bob-cli/commit/57d6b2cea9d44f2e7bb701c9b906f88509c95da3) | chore: Add SDD prompt and plan for capture\_notification | 2026-06-20 01:35:18 |
+| bob-cli | [`57d6b2c`](https://github.com/bobs-org/bob-cli/commit/57d6b2cea9d44f2e7bb701c9b906f88509c95da3) | chore: Add SDD prompt and plan for capture\_notification | 2026-06-19 21:35:18 EDT |

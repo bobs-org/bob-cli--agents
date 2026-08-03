@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3320336`](https://github.com/bobs-org/bob-cli/commit/33203365368f54a19f3f6534f739d23e87cfdcc4) | feat(capture): prefer Tasks sections for task insertion | 2026-06-16 14:21:39 |
-| bob-cli | [`7e72369`](https://github.com/bobs-org/bob-cli/commit/7e723693072796092afa70d81239a32296053005) | chore: Add SDD prompt and plan for capture\_tasks\_section | 2026-06-16 14:22:39 |
+| bob-cli | [`3320336`](https://github.com/bobs-org/bob-cli/commit/33203365368f54a19f3f6534f739d23e87cfdcc4) | feat(capture): prefer Tasks sections for task insertion | 2026-06-16 10:21:39 EDT |
+| bob-cli | [`7e72369`](https://github.com/bobs-org/bob-cli/commit/7e723693072796092afa70d81239a32296053005) | chore: Add SDD prompt and plan for capture\_tasks\_section | 2026-06-16 10:22:39 EDT |
 
 ## Neighbors
 

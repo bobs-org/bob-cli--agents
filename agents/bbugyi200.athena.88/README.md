@@ -11,14 +11,8 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-14T11:05:46.986195+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`ea130d6`](https://github.com/bobs-org/bob-cli/commit/ea130d608a2f8f4b85aa2565fd3769de799e3346) | feat: synchronize reference reading lifecycle states | 2026-07-14 11:37:23 |

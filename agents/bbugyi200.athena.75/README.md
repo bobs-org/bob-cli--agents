@@ -15,6 +15,6 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`cab5ab9`](https://github.com/bobs-org/bob-cli/commit/cab5ab9044740b1a14bba83656397997de7b3926) | chore: Add SDD prompt and plan for obsidian\_vim\_clipboard | 2026-06-14 13:59:08 |
+| bob-cli | [`cab5ab9`](https://github.com/bobs-org/bob-cli/commit/cab5ab9044740b1a14bba83656397997de7b3926) | chore: Add SDD prompt and plan for obsidian\_vim\_clipboard | 2026-06-14 09:59:08 EDT |

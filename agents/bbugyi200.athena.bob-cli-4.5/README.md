@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d1a8a98`](https://github.com/bobs-org/bob-cli/commit/d1a8a98a5536bcea1a51289a128ae77ac5e679a9) | feat: add native Dataview function library (bob-cli-4.5) | 2026-06-03 21:57:47 |
+| bob-cli | [`d1a8a98`](https://github.com/bobs-org/bob-cli/commit/d1a8a98a5536bcea1a51289a128ae77ac5e679a9) | feat: add native Dataview function library (bob-cli-4.5) | 2026-06-03 17:57:47 EDT |
 
 ## Neighbors
 

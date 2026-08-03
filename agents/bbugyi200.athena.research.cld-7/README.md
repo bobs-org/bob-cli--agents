@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f59d041`](https://github.com/bobs-org/bob-cli/commit/f59d0418e2ff8352aa0ae30427635ade70637dbb) | chore: Add research on Obsidian usage improvements | 2026-06-04 18:34:50 |
+| bob-cli | [`f59d041`](https://github.com/bobs-org/bob-cli/commit/f59d0418e2ff8352aa0ae30427635ade70637dbb) | chore: Add research on Obsidian usage improvements | 2026-06-04 14:34:50 EDT |
 
 ## Neighbors
 

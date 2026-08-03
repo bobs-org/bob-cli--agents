@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-10T13:21:26.466342
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`15ec5ac`](https://github.com/bobs-org/bob-cli/commit/15ec5ac94d202575075309e5265fd663206af930) | feat(capture): link routed tasks to pomodoros | 2026-07-10 17:50:45 |
 
 ## Neighbors
 

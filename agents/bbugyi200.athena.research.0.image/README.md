@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a88d7f5`](https://github.com/bobs-org/bob-cli/commit/a88d7f5d21d221dc5b33c8bf0c68aa42a51f6ded) | chore: add Obsidian property enum infographic | 2026-06-09 13:11:31 |
+| bob-cli | [`a88d7f5`](https://github.com/bobs-org/bob-cli/commit/a88d7f5d21d221dc5b33c8bf0c68aa42a51f6ded) | chore: add Obsidian property enum infographic | 2026-06-09 09:11:31 EDT |
 
 ## Neighbors
 

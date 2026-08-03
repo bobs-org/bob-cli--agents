@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6ec944a`](https://github.com/bobs-org/bob-cli/commit/6ec944a6a388aaa3de05ee699431ac34953149d3) | chore: Add SDD prompt and plan for open\_task\_notice\_dedup | 2026-06-19 12:08:56 |
+| bob-cli | [`6ec944a`](https://github.com/bobs-org/bob-cli/commit/6ec944a6a388aaa3de05ee699431ac34953149d3) | chore: Add SDD prompt and plan for open\_task\_notice\_dedup | 2026-06-19 08:08:56 EDT |
 
 ## Neighbors
 

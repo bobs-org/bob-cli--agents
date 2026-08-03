@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-10T20:32:02.340850+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`f4a60e7`](https://github.com/bobs-org/bob-cli/commit/f4a60e7ec65e993bb2ece4d0e63f055b7d25d2fe) | feat(capture): support canonical Pomodoro colon markers | 2026-07-10 20:46:00 |
 
 ## Neighbors
 

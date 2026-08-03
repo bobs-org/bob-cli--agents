@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fb99beb`](https://github.com/bobs-org/bob-cli/commit/fb99beb9eaaa90f6fb3a8212bb2be1f6cb90fff0) | feat: add native Dataview expression engine core (bob-cli-4.4) | 2026-06-03 21:40:53 |
+| bob-cli | [`fb99beb`](https://github.com/bobs-org/bob-cli/commit/fb99beb9eaaa90f6fb3a8212bb2be1f6cb90fff0) | feat: add native Dataview expression engine core (bob-cli-4.4) | 2026-06-03 17:40:53 EDT |
 
 ## Neighbors
 

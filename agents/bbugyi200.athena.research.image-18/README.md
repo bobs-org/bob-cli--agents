@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7f1b308`](https://github.com/bobs-org/bob-cli/commit/7f1b3086c1d1be82b1eba147d30576e78a105191) | chore: add GTD project research infographic | 2026-06-08 15:54:50 |
+| bob-cli | [`7f1b308`](https://github.com/bobs-org/bob-cli/commit/7f1b3086c1d1be82b1eba147d30576e78a105191) | chore: add GTD project research infographic | 2026-06-08 11:54:50 EDT |
 
 ## Neighbors
 

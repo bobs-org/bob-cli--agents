@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`58e995f`](https://github.com/bobs-org/bob-cli/commit/58e995f97b029e136a07c94e844113261010de08) | chore: Add PDF highlights task workflow research | 2026-06-04 23:36:47 |
+| bob-cli | [`58e995f`](https://github.com/bobs-org/bob-cli/commit/58e995f97b029e136a07c94e844113261010de08) | chore: Add PDF highlights task workflow research | 2026-06-04 19:36:47 EDT |
 
 ## Neighbors
 

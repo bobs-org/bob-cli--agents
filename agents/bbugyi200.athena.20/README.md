@@ -11,7 +11,7 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-07-08T16:27:55.497455+00:00
-- Commits: [4](#commits)
+- Commits: [1](#commits)
 
 ## Files
 
@@ -19,12 +19,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`393b41d`](https://github.com/bobs-org/bob-cli/commit/393b41d17adae316baec3e8135856fc149951187) | chore: Add SDD prompt and plan for highlights\_ref\_pdf\_block\_id | 2026-06-04 00:40:52 |
-| bob-cli | [`6efa171`](https://github.com/bobs-org/bob-cli/commit/6efa171dd125bd4ba8df42bf6b38c21af8f074b4) | feat: add PDF block ID to generated highlight refs | 2026-06-04 00:43:29 |
-| bob-cli | [`0450b17`](https://github.com/bobs-org/bob-cli/commit/0450b17e3a607c7c19fc975737e5e6e6ff41ed1c) | chore: Add SDD prompt and plan for plugins\_git\_pull | 2026-07-08 16:33:52 |
-| bob-cli | [`a552cc2`](https://github.com/bobs-org/bob-cli/commit/a552cc277e5099ef840722f3f9c6b1aae7a6fd13) | feat(plugins): refresh repo before list and sync | 2026-07-08 16:43:44 |
+| bob-cli | [`0450b17`](https://github.com/bobs-org/bob-cli/commit/0450b17e3a607c7c19fc975737e5e6e6ff41ed1c) | chore: Add SDD prompt and plan for plugins\_git\_pull | 2026-07-08 12:33:52 EDT |
 
 ## Neighbors
 

@@ -17,15 +17,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 61 | active | claude-fable-5 / claude | 2026-07-11T19:51:50.670985+00:00 | [1](../agents/bbugyi200.athena.61/README.md#commits) | [Prompt](../agents/bbugyi200.athena.61/prompt.md) | [Chat](../agents/bbugyi200.athena.61/chat.md) |
+| <a id="member-root"></a>root | 61 | active | claude-fable-5 / claude | 2026-07-11T19:51:50.670985+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.61/prompt.md) | [Chat](../agents/bbugyi200.athena.61/chat.md) |
 | <a id="member-code"></a>code | 61--code | completed | gpt-5.6-sol / codex | 2026-07-11T20:09:00.845559+00:00 | [1](../agents/bbugyi200.athena.61--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.61--code/chat.md) |
 
 ## Commits
 
-| Role | Repo | Commit | Subject | Committed (UTC) |
+| Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`2677dea`](https://github.com/bobs-org/bob-cli/commit/2677dea6c80297ab5ef4f48b1097f1d4542e4ef8) | feat(mark-next): follow transcluded task dependencies | 2026-07-11 20:25:56 |
-| root | bob-cli | [`2677dea`](https://github.com/bobs-org/bob-cli/commit/2677dea6c80297ab5ef4f48b1097f1d4542e4ef8) | feat(mark-next): follow transcluded task dependencies | 2026-07-11 20:25:56 |
+| code | bob-cli | [`2677dea`](https://github.com/bobs-org/bob-cli/commit/2677dea6c80297ab5ef4f48b1097f1d4542e4ef8) | feat(mark-next): follow transcluded task dependencies | 2026-07-11 16:25:56 EDT |
 
 ## Neighbors
 

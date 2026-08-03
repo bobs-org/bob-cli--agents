@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bc65d62`](https://github.com/bobs-org/bob-cli/commit/bc65d627776819563c098c203dda0f443b15034b) | feat: commit collect-done vault changes (bob-cli-2.4) | 2026-06-02 12:32:19 |
+| bob-cli | [`bc65d62`](https://github.com/bobs-org/bob-cli/commit/bc65d627776819563c098c203dda0f443b15034b) | feat: commit collect-done vault changes (bob-cli-2.4) | 2026-06-02 08:32:19 EDT |
 
 ## Neighbors
 

@@ -15,10 +15,10 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`34b0084`](https://github.com/bobs-org/bob-cli/commit/34b00841f56381777bbd87074cc8ddf619cf6d20) | chore: Add SDD prompt and plan for capture\_bullet\_section\_matching | 2026-06-19 13:38:11 |
-| bob-cli | [`e37474d`](https://github.com/bobs-org/bob-cli/commit/e37474d1b39579c26039241d658187201e693308) | feat(capture): refine bullet section matching | 2026-06-19 13:49:26 |
+| bob-cli | [`34b0084`](https://github.com/bobs-org/bob-cli/commit/34b00841f56381777bbd87074cc8ddf619cf6d20) | chore: Add SDD prompt and plan for capture\_bullet\_section\_matching | 2026-06-19 09:38:11 EDT |
+| bob-cli | [`e37474d`](https://github.com/bobs-org/bob-cli/commit/e37474d1b39579c26039241d658187201e693308) | feat(capture): refine bullet section matching | 2026-06-19 09:49:26 EDT |
 
 ## Neighbors
 

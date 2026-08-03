@@ -15,9 +15,9 @@
 
 ## Commits
 
-| Repo | Commit | Subject | Committed (UTC) |
+| Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`89a02a4`](https://github.com/bobs-org/bob-cli/commit/89a02a4fa0fea7ed7bd4e5c8061fec4ad592de32) | chore: consolidate Obsidian vs Notion research | 2026-06-12 11:58:06 |
+| bob-cli | [`89a02a4`](https://github.com/bobs-org/bob-cli/commit/89a02a4fa0fea7ed7bd4e5c8061fec4ad592de32) | chore: consolidate Obsidian vs Notion research | 2026-06-12 07:58:06 EDT |
 
 ## Neighbors
 

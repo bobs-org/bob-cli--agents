@@ -11,17 +11,11 @@
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-10T17:05:34.178269+00:00
-- Commits: [1](#commits)
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed (UTC) |
-|---|---|---|---|
-| bob-cli | [`4c51d3b`](https://github.com/bobs-org/bob-cli/commit/4c51d3b20eced08b30e09ff392e29ee39b058bd6) | feat(projects): schedule project task visibility | 2026-07-10 17:28:50 |
 
 ## Neighbors
 
