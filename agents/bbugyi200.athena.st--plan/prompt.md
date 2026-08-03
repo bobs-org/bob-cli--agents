@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli The `\<` and `\>` keymaps should NOT close pinned Obsidian tabs. Can you help me fix this? #plan #m_opus
