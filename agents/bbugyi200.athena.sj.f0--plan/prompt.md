@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:sj This looks great, but I want to keep showing the YYYY-mm-dd date somewhere in the toast. Can you help me fix this? #plan
