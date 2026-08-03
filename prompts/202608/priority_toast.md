@@ -2,7 +2,7 @@
 - **AGENTS:**
   - [bbugyi200.athena.sj--plan](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.sj.md#member-plan)
 
-We recently added support for P2, P3, and P4 Obsidian task priorities (see the gh_bobs-org__bob-cli-5 epic bead for
+We recently added support for P2, P3, and P4 Obsidian task priorities (see the bob-cli-e epic bead for
 context). Can you help me make sure that the Obsidian toast we show to the user (after selecting a valid priority that
 is presented after the `<ctrl+shift+p>` keymap is used and the user selects `priority`) includes the relative number of
 days (from today) that the task was scheduled for? Also, try to make this toast look better in general. I want you to

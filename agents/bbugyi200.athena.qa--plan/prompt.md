@@ -1,1 +1,1 @@
-#gh:gh_bobs-org__bob-cli We shouldn't add the `created` dataview property to task sub-bullets (see @bead:gh_bobs-org__bob-cli-2 for context). Can you help me fix this? #plan
+#gh:gh_bobs-org__bob-cli We shouldn't add the `created` dataview property to task sub-bullets (see @bead:bob-cli-b for context). Can you help me fix this? #plan
