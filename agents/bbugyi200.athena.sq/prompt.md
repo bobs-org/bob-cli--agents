@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me have the `%` functionality supported by the `bob capture` command use the same whitespace prefix used by other Obsidian sub-bullets instead of two spaces? #plan #m_opus
