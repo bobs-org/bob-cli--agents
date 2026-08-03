@@ -24,5 +24,5 @@
 | [gh\_bobs-org\_\_bob-cli-5.1](../bbugyi200.athena.gh_bobs-org__bob-cli-5.1/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | completed |
 | [gh\_bobs-org\_\_bob-cli-5.2](../bbugyi200.athena.gh_bobs-org__bob-cli-5.2/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | completed |
 | [gh\_bobs-org\_\_bob-cli-5.3](../bbugyi200.athena.gh_bobs-org__bob-cli-5.3/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | completed |
-| [gh\_bobs-org\_\_bob-cli-5.4](../bbugyi200.athena.gh_bobs-org__bob-cli-5.4/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | active |
-| [gh\_bobs-org\_\_bob-cli-5.5](../bbugyi200.athena.gh_bobs-org__bob-cli-5.5/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | waiting |
+| [gh\_bobs-org\_\_bob-cli-5.4](../bbugyi200.athena.gh_bobs-org__bob-cli-5.4/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | completed |
+| [gh\_bobs-org\_\_bob-cli-5.5](../bbugyi200.athena.gh_bobs-org__bob-cli-5.5/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | active |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [gh\_bobs-org\_\_bob-cli-5](../../users/bbugyi200/machines/athena/hoods/gh_bobs-org__bob-cli-5/README.md) / gh\_bobs-org\_\_bob-cli-5.4
 
-**Global name:** `bbugyi200.athena.gh_bobs-org__bob-cli-5.4` · **State:** active · **Source run:** `run-502d2ab5facae2391ec81ab9c1edce9d`
+**Global name:** `bbugyi200.athena.gh_bobs-org__bob-cli-5.4` · **State:** completed · **Source run:** `run-502d2ab5facae2391ec81ab9c1edce9d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** gh\_bobs-org\_\_bob-cli-5
 
@@ -15,7 +15,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -24,5 +24,5 @@
 | [gh\_bobs-org\_\_bob-cli-5.1](../bbugyi200.athena.gh_bobs-org__bob-cli-5.1/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | completed |
 | [gh\_bobs-org\_\_bob-cli-5.2](../bbugyi200.athena.gh_bobs-org__bob-cli-5.2/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | completed |
 | [gh\_bobs-org\_\_bob-cli-5.3](../bbugyi200.athena.gh_bobs-org__bob-cli-5.3/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | completed |
-| [gh\_bobs-org\_\_bob-cli-5.5](../bbugyi200.athena.gh_bobs-org__bob-cli-5.5/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | waiting |
+| [gh\_bobs-org\_\_bob-cli-5.5](../bbugyi200.athena.gh_bobs-org__bob-cli-5.5/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | active |
 | [gh\_bobs-org\_\_bob-cli-5.land](../bbugyi200.athena.gh_bobs-org__bob-cli-5.land/README.md) | gh\_bobs-org\_\_bob-cli-5 hood | waiting |

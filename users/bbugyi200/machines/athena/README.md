@@ -186,7 +186,7 @@
 | [ci](hoods/ci/README.md) | 2 | 1 | active 1, completed 1 |
 | [gh\_bobs-org\_\_bob-cli-1](hoods/gh_bobs-org__bob-cli-1/README.md) | 1 | 0 | active 1 |
 | [gh\_bobs-org\_\_bob-cli-2](hoods/gh_bobs-org__bob-cli-2/README.md) | 6 | 1 | active 2, completed 4 |
-| [gh\_bobs-org\_\_bob-cli-5](hoods/gh_bobs-org__bob-cli-5/README.md) | 6 | 0 | active 1, completed 3, waiting 2 |
+| [gh\_bobs-org\_\_bob-cli-5](hoods/gh_bobs-org__bob-cli-5/README.md) | 6 | 0 | active 1, completed 4, waiting 1 |
 | [hf](hoods/hf/README.md) | 3 | 1 | active 1, completed 2 |
 | [home-2](hoods/home-2/README.md) | 6 | 0 | completed 6 |
 | [jr](hoods/jr/README.md) | 8 | 3 | active 3, completed 5 |
