@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d68ba57f2955553b1b73af98779531e5"}
+{"commits":[{"committed_at":1786022840,"sha":"18dae26f64557ad96f65bd7d1bd92458de804e9c","subject":"docs(projects): document deterministic schedule-log reasons for priority rolls"}],"schema_version":2,"source_run_id":"run-d68ba57f2955553b1b73af98779531e5"}

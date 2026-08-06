@@ -13,4 +13,4 @@
 | [tu.f0.f0.f0](../../../../../../agents/bbugyi200.athena.tu.f0.f0.f0/README.md) | waiting | opus / claude | 20260806085831 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.tu.f0.f0.f0/prompt.md) |
 | [tu.f0.f0--plan](../../../../../../families/bbugyi200.athena.tu.f0.f0.md#member-plan) | active | opus / claude | 2026-08-06T12:51:11.329370+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.tu.f0.f0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.tu.f0.f0--plan/chat.md) |
 | [tu--plan](../../../../../../families/bbugyi200.athena.tu.md#member-plan) | completed | opus / claude | 2026-08-06T11:27:53.564003+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.tu--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.tu--plan/chat.md) |
-| [tu.f0.f0--code](../../../../../../families/bbugyi200.athena.tu.f0.f0.md#member-code) | active | sonnet / claude | 2026-08-06T13:04:55.051802+00:00 | 0 | — |
+| [tu.f0.f0--code](../../../../../../families/bbugyi200.athena.tu.f0.f0.md#member-code) | active | sonnet / claude | 2026-08-06T13:04:55.051802+00:00 | 1 | — |

@@ -11,7 +11,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-06T13:04:55.051802+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`18dae26`](https://github.com/bobs-org/bob-cli/commit/18dae26f64557ad96f65bd7d1bd92458de804e9c) | docs(projects): document deterministic schedule-log reasons for priority rolls | 2026-08-06 09:27:20 EDT |
 
 ## Neighbors
 

@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | tu.f0.f0--plan | active | opus / claude | 2026-08-06T12:51:11.329370+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.tu.f0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.tu.f0.f0--plan/chat.md) |
-| <a id="member-code"></a>code | tu.f0.f0--code | active | sonnet / claude | 2026-08-06T13:04:55.051802+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | tu.f0.f0--code | active | sonnet / claude | 2026-08-06T13:04:55.051802+00:00 | [1](../agents/bbugyi200.athena.tu.f0.f0--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`18dae26`](https://github.com/bobs-org/bob-cli/commit/18dae26f64557ad96f65bd7d1bd92458de804e9c) | docs(projects): document deterministic schedule-log reasons for priority rolls | 2026-08-06 09:27:20 EDT |
 
 ## Neighbors
 
