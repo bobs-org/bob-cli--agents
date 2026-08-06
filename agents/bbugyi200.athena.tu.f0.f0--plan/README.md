@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [tu](../../users/bbugyi200/machines/athena/hoods/tu/README.md) / [tu.f0.f0](../../families/bbugyi200.athena.tu.f0.f0.md) / tu.f0.f0--plan
 
-**Global name:** `bbugyi200.athena.tu.f0.f0--plan` · **State:** active · **Source run:** `run-8508738285aa666fbc0d46f279f1080c`
+**Global name:** `bbugyi200.athena.tu.f0.f0--plan` · **State:** completed · **Source run:** `run-8508738285aa666fbc0d46f279f1080c`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** tu
 
@@ -23,4 +23,4 @@
 |---|---|---|
 | [tu.f0](../../families/bbugyi200.athena.tu.f0.md) (family · 3) | ancestor | active 1, completed 2 |
 | [tu](../../families/bbugyi200.athena.tu.md) (family · 2) | ancestor | completed 2 |
-| [tu.f0.f0.f0](../bbugyi200.athena.tu.f0.f0.f0/README.md) | descendant | waiting |
+| [tu.f0.f0.f1](../../families/bbugyi200.athena.tu.f0.f0.f1.md) (family · 2) | descendant | active 2 |
