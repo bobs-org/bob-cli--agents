@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-b](../users/bbugyi200/machines/athena/hoods/bob-cli-b/README.md) / bob-cli-b.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-b` · Members: 2
+Owner: `bbugyi200.athena` · Hood: `bob-cli-b` · Members: 2 · Bead: [bob-cli-b](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-b/README.md)
 
 ## Lineage
 

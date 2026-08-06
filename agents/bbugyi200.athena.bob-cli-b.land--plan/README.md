@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [bob-cli-b](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-b/README.md)
 - Model: gpt-5.6-sol
 - Provider: codex
 - Timing: 2026-07-31T12:33:24.817053+00:00

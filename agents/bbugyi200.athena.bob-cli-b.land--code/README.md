@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [bob-cli-b](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-b/README.md)
 - Model: gpt-5.3-codex-spark
 - Provider: codex
 - Timing: 2026-07-31T12:39:41.331470+00:00
