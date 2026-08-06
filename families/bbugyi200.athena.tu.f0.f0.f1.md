@@ -18,7 +18,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | tu.f0.f0.f1--plan | active | opus / claude | 2026-08-06T13:29:37.587161+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.tu.f0.f0.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.tu.f0.f0.f1--plan/chat.md) |
-| <a id="member-code"></a>code | tu.f0.f0.f1--code | active | sonnet / claude | 2026-08-06T13:38:37.135085+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | tu.f0.f0.f1--code | active | sonnet / claude | 2026-08-06T13:38:37.135085+00:00 | [1](../agents/bbugyi200.athena.tu.f0.f0.f1--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`8f8ab02`](https://github.com/bobs-org/bob-cli/commit/8f8ab02eb353b2b52102038fe51b0f49d0e6c26e) | docs(projects): document the schedule-log skipped-reason fallback | 2026-08-06 09:52:57 EDT |
 
 ## Neighbors
 
