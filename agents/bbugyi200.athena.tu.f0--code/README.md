@@ -11,7 +11,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-06T12:29:58.751629+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`2830142`](https://github.com/bobs-org/bob-cli/commit/2830142dcbd701f6fcf8421bad13c3e755b67a58) | docs(projects): update schedule-log reason prompt for nesting fix | 2026-08-06 08:37:18 EDT |
 
 ## Neighbors
 
