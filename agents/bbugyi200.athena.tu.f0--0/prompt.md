@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:tu Each new schedule date is supposed to represent a new sub-sub-bullet, not a sub-bullet. Can you help me fix this, so the end result looks like #sshot instead of #sshot:2? #plan #m_opus
