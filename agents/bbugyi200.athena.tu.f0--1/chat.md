@@ -4,6 +4,12 @@
 - **MODEL:** claude/opus
 - **AGENT:** tu.f0--1
 
+## Linked Chats
+
+- 1. --0 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-tu_f0__0-260806_081554.md`
+- **2. --1** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-tu_f0__1-260806_081554.md`
+- 3. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-tu_f0__code-260806_081554.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/schedule_log_nesting.md
 
 

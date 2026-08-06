@@ -3,6 +3,12 @@
 - **TIMESTAMP:** 2026-08-06 08:19:24 EDT
 - **AGENT:** tu.f0--0
 
+## Linked Chats
+
+- **1. --0** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-tu_f0__0-260806_081554.md`
+- 2. --1 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-tu_f0__1-260806_081554.md`
+- 3. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-tu_f0__code-260806_081554.md`
+
 ## Prompt
 
 #gh:gh_bobs-org__bob-cli 

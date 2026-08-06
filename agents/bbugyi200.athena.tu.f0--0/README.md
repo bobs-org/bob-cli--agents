@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [tu](../../users/bbugyi200/machines/athena/hoods/tu/README.md) / [tu.f0](../../families/bbugyi200.athena.tu.f0.md) / tu.f0--0
 
-**Global name:** `bbugyi200.athena.tu.f0--0` · **State:** active · **Source run:** `run-442777d49c5f7e5e1eaed8b201add084`
+**Global name:** `bbugyi200.athena.tu.f0--0` · **State:** completed · **Source run:** `run-442777d49c5f7e5e1eaed8b201add084`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** tu
 
@@ -22,3 +22,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [tu](../../families/bbugyi200.athena.tu.md) (family · 2) | ancestor | completed 2 |
+| [tu.f0.f0](../../families/bbugyi200.athena.tu.f0.f0.md) (family · 2) | descendant | active 2 |
+| [tu.f0.f0.f0](../bbugyi200.athena.tu.f0.f0.f0/README.md) | descendant | waiting |

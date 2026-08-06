@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:tu.f0.f0 Can you now help me make it so that, when the `SCHEDULE LOG` sub-bullet already exists but the user provides no scheduled reason when prompted, an appropriate deterministic reason sub-sub-bullet is added instead of adding no sub-sub-bullet (which is what we do now)? #plan #m_opus
