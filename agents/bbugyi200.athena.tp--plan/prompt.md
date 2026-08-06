@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me focus the target obsidian note file when the `<ctrl+shift+m>` keymap is used? We currently just stay in the note file we are in (i.e. the source note file). Also, we should jump to the line that we moved the task to once we focus that note file. #plan #m_opus
