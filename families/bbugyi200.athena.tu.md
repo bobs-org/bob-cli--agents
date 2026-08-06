@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | tu--code | active | sonnet / claude | 2026-08-06T11:41:29.407701+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | tu--code | active | sonnet / claude | 2026-08-06T11:41:29.407701+00:00 | [1](../agents/bbugyi200.athena.tu--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | tu--plan | active | opus / claude | 2026-08-06T11:27:53.564003+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.tu--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.tu--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`780cf45`](https://github.com/bobs-org/bob-cli/commit/780cf456346cff63dc97cb104c7d9070dbb528cb) | docs(projects): document schedule-log reason prompt | 2026-08-06 08:09:33 EDT |
