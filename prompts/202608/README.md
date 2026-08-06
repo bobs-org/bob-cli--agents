@@ -2,6 +2,7 @@
 
 | Prompt | Title | Plan | Agent | Artifacts |
 | --- | --- | --- | --- | ---: |
+| [auto_schedule_reasons.md](auto_schedule_reasons.md) | %xprompts_enabled:false | [202608/auto_schedule_reasons.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202608/auto_schedule_reasons.md) | [bbugyi200.athena.tu.f0.f0--plan](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.tu.f0.f0.md) | 2 |
 | [bbugyi200.athena.ss.md](bbugyi200.athena.ss.md) | gh:gh_bobs-org__bob-cli #coder:~/.sase/plans/202608/capture_clip_indent.md | - | [bbugyi200.athena.ss](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.ss/README.md) | 0 |
 | [focus_task_move_destination.md](focus_task_move_destination.md) | Can you help me focus the target obsidian note file when the `<ctrl+shift+m>` keymap is used? We currently just stay in | [202608/focus_task_move_destination.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202608/focus_task_move_destination.md) | [bbugyi200.athena.tp--plan](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.tp.md) | 0 |
 | [modernize_quote_and_podcasts.md](modernize_quote_and_podcasts.md) | Can you help me modernize (see my other, recent Obsidian note files for inspiration) the ~/bob/quote.md and | [202608/modernize_quote_and_podcasts.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202608/modernize_quote_and_podcasts.md) | [bbugyi200.athena.tt--plan](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.tt.md) | 0 |
