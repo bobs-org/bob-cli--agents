@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me make it so using the special `p:<N>` notation in the `bob capture` command's input argument results in the appropriate `SCHEDULE LOG` sub-sub-bullet being added (see how this is done when the user selects a priority but no reason when using the `<ctrl+shift+p>` Obsidian keymap for inspiration)? #plan #m_opus
