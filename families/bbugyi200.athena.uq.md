@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `uq` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["uq--code [completed]"]
-  n1["uq--plan [active]"]
+  n0["uq--plan [active]"]
+  n1["uq--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | uq--code | completed | sonnet / claude | 2026-08-07T13:57:38.480570+00:00 | [1](../agents/bbugyi200.athena.uq--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.uq--code/chat.md) |
 | <a id="member-plan"></a>plan | uq--plan | active | opus / claude | 2026-08-07T13:48:45.088965+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.uq--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.uq--plan/chat.md) |
+| <a id="member-code"></a>code | uq--code | completed | sonnet / claude | 2026-08-07T13:57:38.480570+00:00 | [1](../agents/bbugyi200.athena.uq--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.uq--code/chat.md) |
 
 ## Commits
 

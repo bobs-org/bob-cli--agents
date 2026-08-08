@@ -213,5 +213,5 @@
 | [tt](hoods/tt/README.md) | 1 | 0 | failed 1 |
 | [tu](hoods/tu/README.md) | 9 | 4 | active 5, completed 4 |
 | [uq](hoods/uq/README.md) | 2 | 1 | active 1, completed 1 |
-| [uw](hoods/uw/README.md) | 2 | 1 | active 2 |
+| [uw](hoods/uw/README.md) | 2 | 1 | active 1, completed 1 |
 | [v0](hoods/v0/README.md) | 2 | 1 | active 2 |
