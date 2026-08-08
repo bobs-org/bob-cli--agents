@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** vv--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-vv__plan-260808_130335.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-vv__code-260808_130335.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/schedule_log_exact_random_days.md
 
 

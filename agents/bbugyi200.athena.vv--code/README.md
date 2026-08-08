@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [vv](../../users/bbugyi200/machines/athena/hoods/vv/README.md) / [vv](../../families/bbugyi200.athena.vv.md) / vv--code
 
-**Global name:** `bbugyi200.athena.vv--code` · **State:** active · **Source run:** `run-4b02405adb8879ef9a86cab5f5bc0fbf`
+**Global name:** `bbugyi200.athena.vv--code` · **State:** completed · **Source run:** `run-4b02405adb8879ef9a86cab5f5bc0fbf`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** vv
 
@@ -12,6 +12,10 @@
 - Provider: codex
 - Timing: 2026-08-08T17:11:27.839466+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 
