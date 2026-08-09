@@ -215,5 +215,5 @@
 | [uq](hoods/uq/README.md) | 2 | 1 | active 1, completed 1 |
 | [uw](hoods/uw/README.md) | 2 | 1 | active 1, completed 1 |
 | [v0](hoods/v0/README.md) | 2 | 1 | active 2 |
-| [vv](hoods/vv/README.md) | 2 | 1 | completed 2 |
-| [vz](hoods/vz/README.md) | 4 | 1 | active 2, completed 1, dismissed 1 |
+| [vv](hoods/vv/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [vz](hoods/vz/README.md) | 4 | 1 | completed 1, dismissed 3 |

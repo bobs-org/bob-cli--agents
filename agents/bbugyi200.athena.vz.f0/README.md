@@ -17,5 +17,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [vz](../bbugyi200.athena.vz/README.md) | ancestor | completed |
-| [vz.f1](../../families/bbugyi200.athena.vz.f1.md) (family · 2) | vz hood | active 2 |
+| [vz](../bbugyi200.athena.vz/README.md) | ancestor | dismissed |
+| [vz.f1](../../families/bbugyi200.athena.vz.f1.md) (family · 2) | vz hood | completed 1, dismissed 1 |
