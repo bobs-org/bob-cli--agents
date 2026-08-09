@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me make schedule log sub-bullets that correspond with randomly selected priority-roll dates more concise? For example, instead of `- *2026-08-09 → 2026-08-28* — 🎲 priority P0 → P2 · random in **19** (8–30) days`, let's start using `- *2026-08-09 → 2026-08-28* — 🎲 P0 → P2 · in **19** (8–30) days`. #plan #m_opus

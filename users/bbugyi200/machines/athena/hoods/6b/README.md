@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [6b](../../../../../../agents/bbugyi200.athena.6b/README.md) | active | claude-fable-5 / claude | 2026-07-11T22:22:08.934377+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.6b/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.6b/chat.md) |
+| [6b](../../../../../../agents/bbugyi200.athena.6b/README.md) | active | claude-fable-5 / claude | 2026-07-11T22:22:08.934377+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.6b/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.6b/prompt.md) |
 | [6b--code](../../../../../../families/bbugyi200.athena.6b.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-11T22:53:08.393295+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.6b--code/chat.md) |
