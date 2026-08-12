@@ -18,4 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | yu--plan | active | opus / claude | 2026-08-12T18:26:08.872972+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.yu--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.yu--plan/chat.md) |
-| <a id="member-code"></a>code | yu--code | active | sonnet / claude | 2026-08-12T18:33:17.169424+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | yu--code | active | sonnet / claude | 2026-08-12T18:33:17.169424+00:00 | [1](../agents/bbugyi200.athena.yu--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`01325ca`](https://github.com/bobs-org/bob-cli/commit/01325ca73adda95b277cea530efb62b67934a365) | docs(projects): document ALL-CAPS section-bullet conversion | 2026-08-12 14:50:50 EDT |

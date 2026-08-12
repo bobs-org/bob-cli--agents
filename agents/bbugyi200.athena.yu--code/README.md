@@ -11,4 +11,10 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-08-12T18:33:17.169424+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`01325ca`](https://github.com/bobs-org/bob-cli/commit/01325ca73adda95b277cea530efb62b67934a365) | docs(projects): document ALL-CAPS section-bullet conversion | 2026-08-12 14:50:50 EDT |
