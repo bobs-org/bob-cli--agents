@@ -220,5 +220,5 @@
 | [vz](hoods/vz/README.md) | 4 | 1 | completed 1, dismissed 3 |
 | [wm](hoods/wm/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [yu](hoods/yu/README.md) | 2 | 1 | completed 1, dismissed 1 |
-| [z4](hoods/z4/README.md) | 2 | 1 | completed 2 |
-| [zb](hoods/zb/README.md) | 2 | 1 | completed 2 |
+| [z4](hoods/z4/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [zb](hoods/zb/README.md) | 2 | 1 | completed 1, dismissed 1 |
