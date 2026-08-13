@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli When I use the `<ctrl+shift+opt+n>` keymap on an Obsidian task that has a schedule log, that bullet becomes a task, which is not correct. Can you help me fix this by nesting that schedule log bullet (and its sub-bullets) under the main `^prj` task in the new project note file that this keymap creates? #plan #m_opus
