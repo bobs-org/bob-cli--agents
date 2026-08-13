@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 78 · **Families:** 1 · **States:** active 10, completed 65, waiting 3
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 78 · **Families:** 1 · **States:** active 9, completed 66, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -64,7 +64,7 @@
 | [research.j.final.f1.f1](../../../../../../agents/bbugyi200.athena.research.j.final.f1.f1/README.md) | completed | — | 2026-06-15T20:50:55+00:00 → 2026-06-15T20:56:36+00:00 | 2 | — |
 | [research.cdx-6](../../../../../../agents/bbugyi200.athena.research.cdx-6/README.md) | completed | — | 2026-06-04T13:19:29+00:00 → 2026-06-04T13:19:29+00:00 | 1 | — |
 | [research.cld-2](../../../../../../agents/bbugyi200.athena.research.cld-2/README.md) | completed | — | 2026-06-03T16:02:50+00:00 → 2026-06-03T16:02:50+00:00 | 1 | — |
-| [research.0h.cld](../../../../../../agents/bbugyi200.athena.research.0h.cld/README.md) | active | opus / claude | 2026-08-13T23:23:13.507191+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.0h.cld/prompt.md) |
+| [research.0h.cld](../../../../../../agents/bbugyi200.athena.research.0h.cld/README.md) | completed | opus / claude | 2026-08-13T23:23:13.507191+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.0h.cld/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.0h.cld/chat.md) |
 | [research.j.image](../../../../../../agents/bbugyi200.athena.research.j.image/README.md) | completed | — | 2026-06-15T20:02:14+00:00 → 2026-06-15T20:02:14+00:00 | 1 | — |
 | [research.cld-7](../../../../../../agents/bbugyi200.athena.research.cld-7/README.md) | completed | — | 2026-06-04T18:34:50+00:00 → 2026-06-04T18:34:50+00:00 | 1 | — |
 | [research.y.cld](../../../../../../agents/bbugyi200.athena.research.y.cld/README.md) | completed | — | 2026-06-20T14:16:15+00:00 → 2026-06-20T14:16:15+00:00 | 1 | — |
