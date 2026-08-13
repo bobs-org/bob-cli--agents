@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** z4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-z4__plan-260813_080204.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-z4__code-260813_080204.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/project_note_schedule_log.md
 
 
