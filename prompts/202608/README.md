@@ -3,6 +3,7 @@
 | Prompt | Title | Plan | Agent | Artifacts |
 | --- | --- | --- | --- | ---: |
 | [auto_schedule_reasons.md](auto_schedule_reasons.md) | %xprompts_enabled:false | [202608/auto_schedule_reasons.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202608/auto_schedule_reasons.md) | [bbugyi200.athena.tu.f0.f0--plan](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.tu.f0.f0.md) | 2 |
+| [bbugyi200.athena.research.0h.cdx.md](bbugyi200.athena.research.0h.cdx.md) | %clan(research.0h, tribe=research, summary=[[[bold]RESEARCH PROMPT:[/bold] The pop-up | - | [bbugyi200.athena.research.0h.cdx](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.research.0h.cdx/README.md) | 0 |
 | [bbugyi200.athena.research.0h.cld.md](bbugyi200.athena.research.0h.cld.md) | %id(cld, clan=research.0h) %wait(priority=20) %m:@research_b #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.research.0h.cld](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.research.0h.cld/README.md) | 0 |
 | [bbugyi200.athena.ss.md](bbugyi200.athena.ss.md) | gh:gh_bobs-org__bob-cli #coder:~/.sase/plans/202608/capture_clip_indent.md | - | [bbugyi200.athena.ss](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.ss/README.md) | 0 |
 | [bbugyi200.athena.vz.md](bbugyi200.athena.vz.md) | gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.vz](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.vz/README.md) | 0 |
