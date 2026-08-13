@@ -6,5 +6,5 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [wm--code](../../../../../../families/bbugyi200.athena.wm.md#member-code) | completed | gpt-5.5 / codex | 2026-08-09T14:08:16.615875+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.wm--code/chat.md) |
 | [wm--plan](../../../../../../families/bbugyi200.athena.wm.md#member-plan) | dismissed | opus / claude | 2026-08-09T10:00:27.418446 → 2026-08-09T10:17:17.454214 | 0 | [chat](../../../../../../agents/bbugyi200.athena.wm--plan/chat.md) |
+| [wm--code](../../../../../../families/bbugyi200.athena.wm.md#member-code) | completed | gpt-5.5 / codex | 2026-08-09T14:08:16.615875+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.wm--code/chat.md) |
