@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me implement the new bob-mac-capture Mac app in the appropriate GitHub repo? See the bob_mac_capture_replacement.md file from the research sidecar repo for context and inspiration. #plan
