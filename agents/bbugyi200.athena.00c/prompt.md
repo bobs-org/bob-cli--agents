@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli What should I replace `Name` and `TEAMID` with in the installation command for the bob-mac-capture repo? If I need some special Apple name and team ID, how do I acquire those?
