@@ -2,6 +2,7 @@
 
 | Prompt | Title | Plan | Agent | Artifacts |
 | --- | --- | --- | --- | ---: |
+| [accept_command_line_tools.md](accept_command_line_tools.md) | %xprompts_enabled:false | [202608/accept_command_line_tools.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202608/accept_command_line_tools.md) | [bbugyi200.athena.00r.f0--plan](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.00r.f0.md) | 0 |
 | [auto_schedule_reasons.md](auto_schedule_reasons.md) | %xprompts_enabled:false | [202608/auto_schedule_reasons.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202608/auto_schedule_reasons.md) | [bbugyi200.athena.tu.f0.f0--plan](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.tu.f0.f0.md) | 2 |
 | [bbugyi200.athena.00c.f0.f1.md](bbugyi200.athena.00c.f0.f1.md) | gh:gh_bobs-org__bob-cli #fork:00c.f0 That worked, but when I launch the app and | - | [bbugyi200.athena.00c.f0.f1](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.00c.f0.f1/README.md) | 0 |
 | [bbugyi200.athena.00n.md](bbugyi200.athena.00n.md) | gh:gh_bobs-org__bob-cli #coder:~/.sase/plans/202608/completion_panel_visibility.md | - | [bbugyi200.athena.00n](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.00n/README.md) | 0 |
