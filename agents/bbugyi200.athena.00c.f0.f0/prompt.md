@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:00c.f0 Ok. The install worked. Now how do I use it?
