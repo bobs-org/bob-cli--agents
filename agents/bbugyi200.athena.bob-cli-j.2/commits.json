@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e3de30bf21ae4417286f55d078cc2d37"}
+{"commits":[{"committed_at":1786671744,"sha":"f548183568474812b5e7c28b2f7bc5c0cb092364","subject":"feat(capture): add capture-complete cursor-aware completion command"}],"schema_version":2,"source_run_id":"run-e3de30bf21ae4417286f55d078cc2d37"}
