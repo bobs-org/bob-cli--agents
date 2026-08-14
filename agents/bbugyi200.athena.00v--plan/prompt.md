@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli The bob-mac-capture pop-up should close once the user submits their input by pressing `<enter>`, but it stays open (presumably so the user can submit another capture if they want, but I'd rather just trigger the pop-up again for that). Can you help me fix this? #plan
