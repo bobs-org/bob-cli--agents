@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 00w.f0.f0.w0.w0.w0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-00w_f0_f0_w0_w0_w0__plan-260814_104636.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-00w_f0_f0_w0_w0_w0__code-260814_104636.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/capture_panel_discard_and_close_keys.md
 
 

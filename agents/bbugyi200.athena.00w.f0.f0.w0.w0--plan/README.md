@@ -25,4 +25,5 @@
 | [00w.f0.f0](../../families/bbugyi200.athena.00w.f0.f0.md) (family · 2) | ancestor | completed 2 |
 | [00w.f0](../../families/bbugyi200.athena.00w.f0.md) (family · 2) | ancestor | completed 2 |
 | [00w](../bbugyi200.athena.00w/README.md) | ancestor | completed |
-| [00w.f0.f0.w0.w0.w0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (family · 2) | descendant | active 2 |
+| [00w.f0.f0.w0.w0.w0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (family · 2) | descendant | completed 2 |
+| [00w.f0.f0.w0.w0.w0.f0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) (family · 2) | descendant | active 2 |

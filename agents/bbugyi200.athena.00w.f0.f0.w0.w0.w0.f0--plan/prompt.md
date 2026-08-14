@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:00w.f0.f0.w0.w0.w0 Great! Can you now help me make `<ctrl+[>` recognized as `<esc>` in this pop-up, so the user can press `<ctrl+[>` instead of `<esc>`? #plan
