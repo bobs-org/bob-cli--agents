@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli The Settings panel for the new bob-mac-capture github repo associated with this project is not popping up when I click Bob and then click Settings. Can you help me diagnose the root cause of this issue and fix it? #plan
