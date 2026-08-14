@@ -2,16 +2,20 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [010](../../users/bbugyi200/machines/athena/hoods/010/README.md) / 010
 
-**Global name:** `bbugyi200.athena.010` · **State:** completed · **Source run:** `run-b33bdad05578e42e8e6fa8a541526849`
+**Global name:** `bbugyi200.athena.010` · **State:** completed · **Source run:** `run-b82643143071a6acb24702e0927730b9`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 010
 
 ## Summary
 
-- Model: —
-- Provider: —
-- Timing: 2026-06-19T13:11:33+00:00 → 2026-06-19T13:28:19+00:00
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-08-14T13:25:09.191475+00:00
 - Commits: [2](#commits)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

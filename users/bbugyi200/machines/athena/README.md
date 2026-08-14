@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** bob-cli · **Hoods:** 226 · **Runs:** 639
+**Project:** bob-cli · **Hoods:** 226 · **Runs:** 641
 
 | Hood | Runs | Families | States |
 |---|---:|---:|---|
@@ -15,14 +15,14 @@
 | [00j](hoods/00j/README.md) | 1 | 0 | completed 1 |
 | [00l](hoods/00l/README.md) | 2 | 1 | active 1, dismissed 1 |
 | [00m](hoods/00m/README.md) | 2 | 1 | active 2 |
-| [00n](hoods/00n/README.md) | 3 | 0 | active 1, completed 2 |
+| [00n](hoods/00n/README.md) | 3 | 0 | completed 2, dismissed 1 |
 | [00o](hoods/00o/README.md) | 5 | 2 | active 2, completed 3 |
 | [00r](hoods/00r/README.md) | 4 | 2 | active 2, completed 2 |
-| [00u](hoods/00u/README.md) | 4 | 0 | completed 4 |
-| [00v](hoods/00v/README.md) | 4 | 1 | active 2, completed 2 |
-| [00w](hoods/00w/README.md) | 9 | 3 | active 2, completed 5, waiting 2 |
+| [00u](hoods/00u/README.md) | 4 | 0 | completed 3, dismissed 1 |
+| [00v](hoods/00v/README.md) | 4 | 1 | completed 4 |
+| [00w](hoods/00w/README.md) | 11 | 4 | active 1, completed 7, failed 2, waiting 1 |
 | [00x](hoods/00x/README.md) | 2 | 1 | active 2 |
-| [00y](hoods/00y/README.md) | 1 | 0 | completed 1 |
+| [00y](hoods/00y/README.md) | 1 | 0 | dismissed 1 |
 | [010](hoods/010/README.md) | 2 | 0 | completed 2 |
 | [015](hoods/015/README.md) | 2 | 0 | completed 2 |
 | [01f](hoods/01f/README.md) | 1 | 0 | completed 1 |
@@ -189,7 +189,7 @@
 | [bob-cli-9](hoods/bob-cli-9/README.md) | 11 | 0 | active 11 |
 | [bob-cli-b](hoods/bob-cli-b/README.md) | 6 | 1 | active 5, completed 1 |
 | [bob-cli-e](hoods/bob-cli-e/README.md) | 6 | 0 | active 6 |
-| [bob-cli-j](hoods/bob-cli-j/README.md) | 8 | 0 | active 1, completed 6, waiting 1 |
+| [bob-cli-j](hoods/bob-cli-j/README.md) | 8 | 0 | completed 7, waiting 1 |
 | [bob\_ref\_status](hoods/bob_ref_status/README.md) | 1 | 0 | completed 1 |
 | [bq5](hoods/bq5/README.md) | 1 | 0 | completed 1 |
 | [bq6](hoods/bq6/README.md) | 1 | 0 | completed 1 |
@@ -205,7 +205,7 @@
 | [pv](hoods/pv/README.md) | 3 | 1 | active 3 |
 | [qa](hoods/qa/README.md) | 3 | 1 | active 2, completed 1 |
 | [qz](hoods/qz/README.md) | 2 | 1 | active 1, completed 1 |
-| [research](hoods/research/README.md) | 78 | 1 | active 9, completed 68, waiting 1 |
+| [research](hoods/research/README.md) | 78 | 1 | active 8, completed 65, dismissed 4, waiting 1 |
 | [research\_swarm](hoods/research_swarm/README.md) | 1 | 0 | completed 1 |
 | [s8](hoods/s8/README.md) | 1 | 0 | failed 1 |
 | [sase-51](hoods/sase-51/README.md) | 1 | 0 | completed 1 |

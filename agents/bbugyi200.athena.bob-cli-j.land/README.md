@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-j](../../users/bbugyi200/machines/athena/hoods/bob-cli-j/README.md) / bob-cli-j.land
 
-**Global name:** `bbugyi200.athena.bob-cli-j.land` · **State:** active · **Source run:** `run-be0414ae2ad8b8494f05819480767c5c`
+**Global name:** `bbugyi200.athena.bob-cli-j.land` · **State:** completed · **Source run:** `run-be0414ae2ad8b8494f05819480767c5c`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-j
 
@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

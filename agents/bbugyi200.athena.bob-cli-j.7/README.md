@@ -29,4 +29,4 @@
 | [bob-cli-j.4](../bbugyi200.athena.bob-cli-j.4/README.md) | bob-cli-j hood | completed |
 | [bob-cli-j.5](../bbugyi200.athena.bob-cli-j.5/README.md) | bob-cli-j hood | completed |
 | [bob-cli-j.6](../bbugyi200.athena.bob-cli-j.6/README.md) | bob-cli-j hood | completed |
-| [bob-cli-j.land](../bbugyi200.athena.bob-cli-j.land/README.md) | bob-cli-j hood | active |
+| [bob-cli-j.land](../bbugyi200.athena.bob-cli-j.land/README.md) | bob-cli-j hood | completed |

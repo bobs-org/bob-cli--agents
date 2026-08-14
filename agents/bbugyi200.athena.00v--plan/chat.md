@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 00v--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-00v__plan-260814_085745.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-00v__code-260814_085745.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/capture_panel_auto_dismiss.md
 
 

@@ -24,5 +24,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [00u.f1](../bbugyi200.athena.00u.f1/README.md) | ancestor | completed |
-| [00u](../bbugyi200.athena.00u/README.md) | ancestor | completed |
+| [00u](../bbugyi200.athena.00u/README.md) | ancestor | dismissed |
 | [00u.f1.f2](../bbugyi200.athena.00u.f1.f2/README.md) | 00u.f1 hood | completed |
