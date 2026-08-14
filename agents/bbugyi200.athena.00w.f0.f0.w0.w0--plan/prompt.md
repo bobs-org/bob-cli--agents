@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli %w:00w.f0.f0.w0 Can you help me add excellent support for Obsidian link (e.g. `[[sase]]`) completion in the pop-up rendered by the bob-mac-capture app? Make sure links have great syntax highlighting too. #beau #plan

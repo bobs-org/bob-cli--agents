@@ -27,5 +27,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [00w.f0](bbugyi200.athena.00w.f0.md) (family · 2) | ancestor | completed 2 |
 | [00w](../agents/bbugyi200.athena.00w/README.md) | ancestor | completed |
 | [00w.f0.f0.w0](bbugyi200.athena.00w.f0.f0.w0.md) (family · 2) | descendant | failed 2 |
-| [00w.f0.f0.w0.w0](../agents/bbugyi200.athena.00w.f0.f0.w0.w0/README.md) | descendant | active |
-| [00w.f0.f0.w0.w0.w0](../agents/bbugyi200.athena.00w.f0.f0.w0.w0.w0/README.md) | descendant | waiting |
+| [00w.f0.f0.w0.w0](bbugyi200.athena.00w.f0.f0.w0.w0.md) (family · 2) | descendant | failed 2 |
+| [00w.f0.f0.w0.w0.w0](bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (family · 2) | descendant | active 2 |
