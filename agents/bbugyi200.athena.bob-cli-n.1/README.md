@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-n](../../users/bbugyi200/machines/athena/hoods/bob-cli-n/README.md) / bob-cli-n.1
 
-**Global name:** `bbugyi200.athena.bob-cli-n.1` · **State:** active · **Source run:** `run-9fa43c014f13e5a8af5ec9bb1b773045`
+**Global name:** `bbugyi200.athena.bob-cli-n.1` · **State:** completed · **Source run:** `run-9fa43c014f13e5a8af5ec9bb1b773045`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-n
 
@@ -17,12 +17,12 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-n.2](../bbugyi200.athena.bob-cli-n.2/README.md) | bob-cli-n hood | waiting |
+| [bob-cli-n.2](../bbugyi200.athena.bob-cli-n.2/README.md) | bob-cli-n hood | active |
 | [bob-cli-n.3](../bbugyi200.athena.bob-cli-n.3/README.md) | bob-cli-n hood | waiting |
 | [bob-cli-n.land](../bbugyi200.athena.bob-cli-n.land/README.md) | bob-cli-n hood | waiting |
