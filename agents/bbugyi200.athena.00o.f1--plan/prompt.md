@@ -1,0 +1,2 @@
+#gh:gh_bobs-org__bob-cli
+#fork:00o Now the bob-mac-capture app is failing to launch (no `Bob` appears in the menu). I'm not sure if this is related to your recent change or a different recent change we made.  Can you help me diagnose the root cause of this issue and fix it? #plan
