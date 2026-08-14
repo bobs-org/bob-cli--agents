@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me start having the `<ctrl+shift+j>` and `<ctrl+shift+k>` Obsidian keymaps only jump to tasks that have either an open, in-progress, or next status? I'm pretty sure we currently include blocked tasks, but we should stop doing that. #plan
