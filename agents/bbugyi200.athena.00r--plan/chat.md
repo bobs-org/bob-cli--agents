@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 00r--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-00r__plan-260814_083138.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-00r__code-260814_083138.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/fix_bob_mac_capture_xctest_toolchain.md
 
 
