@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 00w--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-00w__plan-260814_090719.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-00w__code-260814_090719.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/autosizing_capture_input.md
 
 

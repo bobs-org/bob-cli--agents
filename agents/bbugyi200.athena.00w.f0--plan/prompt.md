@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:00w The point of this change was the make the default size of the pop-up window smaller, but this just made the input box smaller. Can you help me fix this by dynamically adjusting the window height somehow? #plan

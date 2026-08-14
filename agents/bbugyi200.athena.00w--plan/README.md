@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00w](../../users/bbugyi200/machines/athena/hoods/00w/README.md) / [00w](../../families/bbugyi200.athena.00w.md) / 00w--plan
 
-**Global name:** `bbugyi200.athena.00w--plan` · **State:** active · **Source run:** `run-e057b1e7ff678f46c0dd9b5b96271988`
+**Global name:** `bbugyi200.athena.00w--plan` · **State:** completed · **Source run:** `run-e057b1e7ff678f46c0dd9b5b96271988`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 00w
 
@@ -16,3 +16,9 @@
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [00w.f0](../../families/bbugyi200.athena.00w.f0.md) (family · 2) | descendant | active 2 |

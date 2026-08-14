@@ -19,3 +19,9 @@
 |---|---|---|---|
 | bob-cli | [`afab0c0`](https://github.com/bobs-org/bob-cli/commit/afab0c081a8bdfb1af37773a1a10602409623ad3) | chore: Add SDD prompt and plan for conditional\_pomodoro\_creation | 2026-06-19 07:52:51 EDT |
 | bob-cli | [`3ef5f01`](https://github.com/bobs-org/bob-cli/commit/3ef5f0181eaed826534a79d4d02b9dabdaafa7b9) | chore: Mark SDD plan done | 2026-06-19 21:26:57 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [00w.f0](../../families/bbugyi200.athena.00w.f0.md) (family · 2) | descendant | active 2 |
