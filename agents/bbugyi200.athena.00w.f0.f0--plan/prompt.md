@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:00w.f0 This worked, but the buttons (and any text that is meant to be displayed to the user) should ALWAYS be visible (see #sshot for context). Can you help me fix this? #plan
