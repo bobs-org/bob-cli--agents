@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0cf6a05bcc49a0334b90041e304d4c7f"}
+{"commits":[{"committed_at":1786723689,"sha":"7fa06585b32cd15f136f7b5a0908fa05d0dc50b5","subject":"fix(capture): always emit clip entries in JSON"}],"schema_version":2,"source_run_id":"run-0cf6a05bcc49a0334b90041e304d4c7f"}

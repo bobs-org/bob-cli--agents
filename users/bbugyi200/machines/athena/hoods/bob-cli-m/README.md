@@ -6,6 +6,6 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bob-cli-m.1](../../../../../../agents/bbugyi200.athena.bob-cli-m.1/README.md) | completed | sonnet / claude | 2026-08-14T14:55:09.024949+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-m.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-m.1/chat.md) |
+| [bob-cli-m.1](../../../../../../agents/bbugyi200.athena.bob-cli-m.1/README.md) | completed | sonnet / claude | 2026-08-14T14:55:09.024949+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-m.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-m.1/prompt.md) |
 | [bob-cli-m.land](../../../../../../agents/bbugyi200.athena.bob-cli-m.land/README.md) | waiting | gpt-5.6-sol / codex | 20260814105458 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-m.land/prompt.md) |
 | [bob-cli-m.2](../../../../../../agents/bbugyi200.athena.bob-cli-m.2/README.md) | active | sonnet / claude | 2026-08-14T15:30:51.507666+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-m.2/prompt.md) |

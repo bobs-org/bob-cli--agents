@@ -17,5 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 01c--code | active | gpt-5.5 / codex | 2026-08-14T15:55:13.474656+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 01c--code | active | gpt-5.5 / codex | 2026-08-14T15:55:13.474656+00:00 | [1](../agents/bbugyi200.athena.01c--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | 01c--plan | active | opus / claude | 2026-08-14T15:45:42.474501+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01c--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01c--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`7fa0658`](https://github.com/bobs-org/bob-cli/commit/7fa06585b32cd15f136f7b5a0908fa05d0dc50b5) | fix(capture): always emit clip entries in JSON | 2026-08-14 12:08:09 EDT |
