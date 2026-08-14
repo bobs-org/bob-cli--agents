@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me add an option to the `Bob` menu added to the mac menu bar by the bob-mac-capture app to `Restart` which restarts the application (will be useful when updating the app to a newer version)? #plan
