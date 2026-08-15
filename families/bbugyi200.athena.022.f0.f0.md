@@ -26,4 +26,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [022.f0](bbugyi200.athena.022.f0.md) (family · 2) | ancestor | completed 2 |
 | [022](bbugyi200.athena.022.md) (family · 2) | ancestor | completed 2 |
-| [022.f1](bbugyi200.athena.022.f1.md) (family · 2) | 022 hood | active 2 |
+| [022.f1](bbugyi200.athena.022.f1.md) (family · 2) | 022 hood | completed 2 |
