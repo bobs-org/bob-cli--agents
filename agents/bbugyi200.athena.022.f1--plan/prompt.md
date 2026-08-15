@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:022 Actually, can you help me change the current `@file^id` functionality to use the `@file+id` syntax so we can use the `@file^id` syntax for this new functionality instead of `@file::id`? #plan

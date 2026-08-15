@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:022.f0 Can you now help me the new `<tab>`/`<shift+tab>` keymaps that allow the user to increase/decrease a bullet's level of indentation from the panel owned by the bob-mac-capture app? #plan

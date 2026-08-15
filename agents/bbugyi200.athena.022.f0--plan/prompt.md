@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:022 Can you now help me add support for sub-bullets (using two spaces for indentation)? These bullets should be added as sub-sub-bullets of the corresponding sub-bullets that get added to the Obsidian task/note that we create. #plan
