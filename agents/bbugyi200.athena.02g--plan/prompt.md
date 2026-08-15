@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli The recent stash that we added to the bob-mac-capture works great. Can you now help me add support for an option that is available (via a single keypress--let's use `D` for this) on the panel that pops up when the `<ctrl+s>` keymap is used that deletes all of the stashed inputs? #plan
