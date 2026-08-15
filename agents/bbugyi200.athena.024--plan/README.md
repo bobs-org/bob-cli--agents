@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [024](../../users/bbugyi200/machines/athena/hoods/024/README.md) / [024](../../families/bbugyi200.athena.024.md) / 024--plan
 
-**Global name:** `bbugyi200.athena.024--plan` · **State:** active · **Source run:** `run-d06c780a183e39861f0bd72043a1471b`
+**Global name:** `bbugyi200.athena.024--plan` · **State:** completed · **Source run:** `run-d06c780a183e39861f0bd72043a1471b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 024
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [024.w0](../bbugyi200.athena.024.w0/README.md) | descendant | waiting |
+| [024.w1](../../families/bbugyi200.athena.024.w1.md) (family · 2) | descendant | failed 2 |
