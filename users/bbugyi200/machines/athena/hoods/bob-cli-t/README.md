@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-t
 
-**Global hood:** `bbugyi200.athena.bob-cli-t` · **Runs:** 10 · **Families:** 1 · **States:** active 1, completed 4, failed 2, waiting 3
+**Global hood:** `bbugyi200.athena.bob-cli-t` · **Runs:** 10 · **Families:** 1 · **States:** active 1, completed 5, failed 2, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -14,5 +14,5 @@
 | [bob-cli-t.4.land](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.land/README.md) | waiting | gpt-5.6-sol / codex | 20260815113143 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.land/prompt.md) |
 | [bob-cli-t.4.4](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.4/README.md) | waiting | gpt-5.5 / codex | 20260815113142 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.4/prompt.md) |
 | [bob-cli-t.land--plan](../../../../../../families/bbugyi200.athena.bob-cli-t.land.md#member-plan) | failed | gpt-5.6-sol / codex | 2026-08-15T15:20:08.312369+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-t.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-t.land--plan/chat.md) |
-| [bob-cli-t.4.3](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.3/README.md) | waiting | gpt-5.5 / codex | 20260815113141 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.3/prompt.md) |
-| [bob-cli-t.4.2](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.2/README.md) | active | gpt-5.5 / codex | 2026-08-15T15:32:10.950950+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.2/prompt.md) |
+| [bob-cli-t.4.3](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.3/README.md) | active | gpt-5.5 / codex | 2026-08-15T15:48:47.719435+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.3/prompt.md) |
+| [bob-cli-t.4.2](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.2/README.md) | completed | gpt-5.5 / codex | 2026-08-15T15:32:10.950950+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-t.4.2/chat.md) |
