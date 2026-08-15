@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [022](../../users/bbugyi200/machines/athena/hoods/022/README.md) / [022.f0](../../families/bbugyi200.athena.022.f0.md) / 022.f0--plan
 
-**Global name:** `bbugyi200.athena.022.f0--plan` · **State:** active · **Source run:** `run-e6cb7e6f478ce62a16760081cfae6d86`
+**Global name:** `bbugyi200.athena.022.f0--plan` · **State:** completed · **Source run:** `run-e6cb7e6f478ce62a16760081cfae6d86`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 022
 
@@ -22,5 +22,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [022](../../families/bbugyi200.athena.022.md) (family · 2) | ancestor | completed 2 |
-| [022.f0.f0](../bbugyi200.athena.022.f0.f0/README.md) | descendant | waiting |
+| [022.f0.f0](../../families/bbugyi200.athena.022.f0.f0.md) (family · 2) | descendant | active 2 |
 | [022.f1](../../families/bbugyi200.athena.022.f1.md) (family · 2) | 022 hood | active 2 |
