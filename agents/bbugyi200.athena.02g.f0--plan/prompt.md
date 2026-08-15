@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:02g Can you now help me make the user press capital `D` (lowercase `d` should not work)? Also, let's start showing this option at the bottom of the panel instead of the top. #plan
