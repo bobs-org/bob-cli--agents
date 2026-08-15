@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-feab9eb6329ac08593c7ad89fc9a9f15"}
+{"commits":[{"committed_at":1786808821,"sha":"3beae5bf7ee67486d0c721e8beaf92f57847e5d8","subject":"test: cover all-task completion ranges in later batch items"}],"schema_version":2,"source_run_id":"run-feab9eb6329ac08593c7ad89fc9a9f15"}

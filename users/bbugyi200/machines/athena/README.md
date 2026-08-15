@@ -201,7 +201,7 @@
 | [bob-cli-j](hoods/bob-cli-j/README.md) | 8 | 0 | completed 7, waiting 1 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 3 | 0 | active 1, completed 2 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 5 | 1 | active 2, completed 3 |
-| [bob-cli-t](hoods/bob-cli-t/README.md) | 10 | 1 | active 2, completed 3, failed 2, waiting 3 |
+| [bob-cli-t](hoods/bob-cli-t/README.md) | 10 | 1 | active 1, completed 4, failed 2, waiting 3 |
 | [bob-cli-u](hoods/bob-cli-u/README.md) | 3 | 0 | active 1, completed 1, waiting 1 |
 | [bob\_ref\_status](hoods/bob_ref_status/README.md) | 1 | 0 | completed 1 |
 | [bq5](hoods/bq5/README.md) | 1 | 0 | completed 1 |
