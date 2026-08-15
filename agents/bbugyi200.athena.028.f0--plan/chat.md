@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 028.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-028_f0__plan-260815_101647.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-028_f0__code-260815_101647.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/toggle_pomodoro_task_link.md
 
 
