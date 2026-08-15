@@ -2,8 +2,8 @@
 
 [Agent Hoods](../../README.md) / bbugyi200
 
-**Machines:** 1 · **Hoods:** 239 · **Runs:** 701
+**Machines:** 1 · **Hoods:** 239 · **Runs:** 706
 
 | Machine | Project | Hoods | Runs |
 |---|---|---:|---:|
-| [athena](machines/athena/README.md) | bob-cli | 239 | 701 |
+| [athena](machines/athena/README.md) | bob-cli | 239 | 706 |
