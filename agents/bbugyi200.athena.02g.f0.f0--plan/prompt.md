@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:02g.f0 That worked, but the `D` option's row is not visible (see #sshot). Can you help me fix this and make sure that the panel's height is always increased enough to view all options? #plan

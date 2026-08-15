@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-t](../../users/bbugyi200/machines/athena/hoods/bob-cli-t/README.md) / bob-cli-t.4.4
 
-**Global name:** `bbugyi200.athena.bob-cli-t.4.4` · **State:** waiting · **Source run:** `run-d4b62775ef71e1240fde6e06e5d0a0e8`
+**Global name:** `bbugyi200.athena.bob-cli-t.4.4` · **State:** completed · **Source run:** `run-d4b62775ef71e1240fde6e06e5d0a0e8`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-t
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-t.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-t/bob-cli-t.4.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 20260815113142
+- Timing: 2026-08-15T16:10:10.764505+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,8 +25,12 @@
 |---|---|---|
 | [bob-cli-t.4.1](../bbugyi200.athena.bob-cli-t.4.1/README.md) | bob-cli-t.4 hood | completed |
 | [bob-cli-t.4.2](../bbugyi200.athena.bob-cli-t.4.2/README.md) | bob-cli-t.4 hood | completed |
-| [bob-cli-t.4.3](../bbugyi200.athena.bob-cli-t.4.3/README.md) | bob-cli-t.4 hood | active |
-| [bob-cli-t.4.land](../bbugyi200.athena.bob-cli-t.4.land/README.md) | bob-cli-t.4 hood | waiting |
+| [bob-cli-t.4.3](../bbugyi200.athena.bob-cli-t.4.3/README.md) | bob-cli-t.4 hood | completed |
+| [bob-cli-t.4.5.1](../bbugyi200.athena.bob-cli-t.4.5.1/README.md) | bob-cli-t.4 hood | completed |
+| [bob-cli-t.4.5.2](../../families/bbugyi200.athena.bob-cli-t.4.5.2.md) (family · 2) | bob-cli-t.4 hood | completed 2 |
+| [bob-cli-t.4.5.3](../bbugyi200.athena.bob-cli-t.4.5.3/README.md) | bob-cli-t.4 hood | completed |
+| [bob-cli-t.4.5.land](../bbugyi200.athena.bob-cli-t.4.5.land/README.md) | bob-cli-t.4 hood | completed |
+| [bob-cli-t.4.land](../../families/bbugyi200.athena.bob-cli-t.4.land.md) (family · 2) | bob-cli-t.4 hood | failed 2 |
 | [bob-cli-t.1](../bbugyi200.athena.bob-cli-t.1/README.md) | bob-cli-t hood | completed |
 | [bob-cli-t.2](../bbugyi200.athena.bob-cli-t.2/README.md) | bob-cli-t hood | completed |
 | [bob-cli-t.3](../bbugyi200.athena.bob-cli-t.3/README.md) | bob-cli-t hood | completed |

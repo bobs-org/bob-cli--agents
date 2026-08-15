@@ -29,6 +29,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-t.3](../agents/bbugyi200.athena.bob-cli-t.3/README.md) | bob-cli-t hood | completed |
 | [bob-cli-t.4.1](../agents/bbugyi200.athena.bob-cli-t.4.1/README.md) | bob-cli-t hood | completed |
 | [bob-cli-t.4.2](../agents/bbugyi200.athena.bob-cli-t.4.2/README.md) | bob-cli-t hood | completed |
-| [bob-cli-t.4.3](../agents/bbugyi200.athena.bob-cli-t.4.3/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.4.4](../agents/bbugyi200.athena.bob-cli-t.4.4/README.md) | bob-cli-t hood | waiting |
-| [bob-cli-t.4.land](../agents/bbugyi200.athena.bob-cli-t.4.land/README.md) | bob-cli-t hood | waiting |
+| [bob-cli-t.4.3](../agents/bbugyi200.athena.bob-cli-t.4.3/README.md) | bob-cli-t hood | completed |
+| [bob-cli-t.4.4](../agents/bbugyi200.athena.bob-cli-t.4.4/README.md) | bob-cli-t hood | completed |
+| [bob-cli-t.4.5.1](../agents/bbugyi200.athena.bob-cli-t.4.5.1/README.md) | bob-cli-t hood | completed |
+| [bob-cli-t.4.5.2](bbugyi200.athena.bob-cli-t.4.5.2.md) (family · 2) | bob-cli-t hood | completed 2 |
+| [bob-cli-t.4.5.3](../agents/bbugyi200.athena.bob-cli-t.4.5.3/README.md) | bob-cli-t hood | completed |
+| [bob-cli-t.4.5.land](../agents/bbugyi200.athena.bob-cli-t.4.5.land/README.md) | bob-cli-t hood | completed |
+| [bob-cli-t.4.land](bbugyi200.athena.bob-cli-t.4.land.md) (family · 2) | bob-cli-t hood | failed 2 |

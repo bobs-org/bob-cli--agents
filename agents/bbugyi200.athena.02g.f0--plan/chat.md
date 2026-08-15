@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 02g.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-02g_f0__plan-260815_121010.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-02g_f0__code-260815_121010.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/stash_picker_uppercase_delete_bottom.md
 
 
