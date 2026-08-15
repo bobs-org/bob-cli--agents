@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me add a new `<ctrl+u>` keymap to the panel owned by the bob-mac-capture app? This keymap should delete the contents between the cursor and the beginning of the line. #plan
