@@ -1,0 +1,3 @@
+#gh:gh_bobs-org__bob-cli #fork:028.f0 Can you now help me make this same keymap work in the same way (perform the reverse operation) when the Obsidian task has an in-progress status (i.e. `[/]`)? One special thing about this case is that we should prompt the user for a summary of the work performed on the task and then (if the user entered anything--otherwise don't do this) add a new `WORK LOG` sub-bullet with a sub-sub-bullet containing the work summary. See how we create/maintain schedule logs for inspiration.
+
+#beau #plan

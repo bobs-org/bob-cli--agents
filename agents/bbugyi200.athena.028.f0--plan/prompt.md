@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:028 Can you now help me add support to this keymap for doing the opposite when the task already has a next status (i.e. change the status from next to open and remove any task block links in current/future pomodoros)? #plan
