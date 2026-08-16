@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me make it so the `bob capture` command always adds sub-bullets (when the special `@file+id` syntax is used) above any schedule log or work log sub-bullets? #plan
