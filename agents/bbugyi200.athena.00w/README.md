@@ -24,9 +24,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [00w.f0](../../families/bbugyi200.athena.00w.f0.md) (family · 2) | descendant | completed 2 |
-| [00w.f0.f0](../../families/bbugyi200.athena.00w.f0.f0.md) (family · 2) | descendant | completed 2 |
-| [00w.f0.f0.w0](../../families/bbugyi200.athena.00w.f0.f0.w0.md) (family · 2) | descendant | failed 2 |
-| [00w.f0.f0.w0.w0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.md) (family · 2) | descendant | failed 2 |
-| [00w.f0.f0.w0.w0.w0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (family · 2) | descendant | completed 2 |
-| [00w.f0.f0.w0.w0.w0.f0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) (family · 2) | descendant | active 2 |
+| [00w.f0](../../families/bbugyi200.athena.00w.f0.md) (family · 2) | descendant | completed 1, dismissed 1 |
+| [00w.f0.f0](../../families/bbugyi200.athena.00w.f0.f0.md) (family · 2) | descendant | completed 1, dismissed 1 |
+| [00w.f0.f0.w0](../../families/bbugyi200.athena.00w.f0.f0.w0.md) (family · 2) | descendant | dismissed 1, failed 1 |
+| [00w.f0.f0.w0.w0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.md) (family · 2) | descendant | dismissed 1, failed 1 |
+| [00w.f0.f0.w0.w0.w0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (family · 2) | descendant | completed 1, dismissed 1 |
+| [00w.f0.f0.w0.w0.w0.f0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) (family · 2) | descendant | active 1, dismissed 1 |

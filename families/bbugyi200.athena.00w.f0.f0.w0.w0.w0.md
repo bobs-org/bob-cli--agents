@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `00w` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["00w.f0.f0.w0.w0.w0--plan [completed]"]
+  n0["00w.f0.f0.w0.w0.w0--plan [dismissed]"]
   n1["00w.f0.f0.w0.w0.w0--code [completed]"]
   n0 --> n1
 ```
@@ -17,16 +17,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 00w.f0.f0.w0.w0.w0--plan | completed | opus / claude | 2026-08-14T15:06:49.326553+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.00w.f0.f0.w0.w0.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.00w.f0.f0.w0.w0.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 00w.f0.f0.w0.w0.w0--plan | dismissed | opus / claude | 2026-08-14T11:06:49.326553 → 2026-08-14T11:26:57.199863 | 0 | — | [Chat](../agents/bbugyi200.athena.00w.f0.f0.w0.w0.w0--plan/chat.md) |
 | <a id="member-code"></a>code | 00w.f0.f0.w0.w0.w0--code | completed | gpt-5.5 / codex | 2026-08-14T15:18:38.230985+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.00w.f0.f0.w0.w0.w0--code/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [00w.f0.f0.w0.w0](bbugyi200.athena.00w.f0.f0.w0.w0.md) (family · 2) | ancestor | failed 2 |
-| [00w.f0.f0.w0](bbugyi200.athena.00w.f0.f0.w0.md) (family · 2) | ancestor | failed 2 |
-| [00w.f0.f0](bbugyi200.athena.00w.f0.f0.md) (family · 2) | ancestor | completed 2 |
-| [00w.f0](bbugyi200.athena.00w.f0.md) (family · 2) | ancestor | completed 2 |
+| [00w.f0.f0.w0.w0](bbugyi200.athena.00w.f0.f0.w0.w0.md) (family · 2) | ancestor | dismissed 1, failed 1 |
+| [00w.f0.f0.w0](bbugyi200.athena.00w.f0.f0.w0.md) (family · 2) | ancestor | dismissed 1, failed 1 |
+| [00w.f0.f0](bbugyi200.athena.00w.f0.f0.md) (family · 2) | ancestor | completed 1, dismissed 1 |
+| [00w.f0](bbugyi200.athena.00w.f0.md) (family · 2) | ancestor | completed 1, dismissed 1 |
 | [00w](../agents/bbugyi200.athena.00w/README.md) | ancestor | completed |
-| [00w.f0.f0.w0.w0.w0.f0](bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) (family · 2) | descendant | active 2 |
+| [00w.f0.f0.w0.w0.w0.f0](bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) (family · 2) | descendant | active 1, dismissed 1 |

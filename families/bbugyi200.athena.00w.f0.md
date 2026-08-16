@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `00w` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["00w.f0--plan [completed]"]
+  n0["00w.f0--plan [dismissed]"]
   n1["00w.f0--code [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 00w.f0--plan | completed | opus / claude | 2026-08-14T13:46:55.062092+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.00w.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.00w.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 00w.f0--plan | dismissed | opus / claude | 2026-08-14T09:46:55.062092 → 2026-08-14T10:05:40.158485 | 0 | — | [Chat](../agents/bbugyi200.athena.00w.f0--plan/chat.md) |
 | <a id="member-code"></a>code | 00w.f0--code | completed | sonnet / claude | 2026-08-14T13:56:15.555610+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.00w.f0--code/chat.md) |
 
 ## Neighbors
@@ -25,8 +25,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [00w](../agents/bbugyi200.athena.00w/README.md) | ancestor | completed |
-| [00w.f0.f0](bbugyi200.athena.00w.f0.f0.md) (family · 2) | descendant | completed 2 |
-| [00w.f0.f0.w0](bbugyi200.athena.00w.f0.f0.w0.md) (family · 2) | descendant | failed 2 |
-| [00w.f0.f0.w0.w0](bbugyi200.athena.00w.f0.f0.w0.w0.md) (family · 2) | descendant | failed 2 |
-| [00w.f0.f0.w0.w0.w0](bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (family · 2) | descendant | completed 2 |
-| [00w.f0.f0.w0.w0.w0.f0](bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) (family · 2) | descendant | active 2 |
+| [00w.f0.f0](bbugyi200.athena.00w.f0.f0.md) (family · 2) | descendant | completed 1, dismissed 1 |
+| [00w.f0.f0.w0](bbugyi200.athena.00w.f0.f0.w0.md) (family · 2) | descendant | dismissed 1, failed 1 |
+| [00w.f0.f0.w0.w0](bbugyi200.athena.00w.f0.f0.w0.w0.md) (family · 2) | descendant | dismissed 1, failed 1 |
+| [00w.f0.f0.w0.w0.w0](bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (family · 2) | descendant | completed 1, dismissed 1 |
+| [00w.f0.f0.w0.w0.w0.f0](bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) (family · 2) | descendant | active 1, dismissed 1 |
