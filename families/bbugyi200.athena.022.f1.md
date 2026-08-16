@@ -20,6 +20,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | 022.f1--code | completed | grok-4.6 / grok | 2026-08-15T12:43:34.173006+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.022.f1--code/chat.md) |
 | <a id="member-plan"></a>plan | 022.f1--plan | dismissed | gpt-5.6-sol / codex | 2026-08-15T08:39:04.996617 → 2026-08-15T09:07:59.126046 | 0 | — | [Chat](../agents/bbugyi200.athena.022.f1--plan/chat.md) |
 
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| — | bob-cli | [`2bdf4f7`](https://github.com/bobs-org/bob-cli/commit/2bdf4f7078ec4caa1efb2d966e9b805a97ef492c) | feat(capture)!: use + for sub-bullets and ^ for authored IDs | 2026-08-15 09:03:08 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |

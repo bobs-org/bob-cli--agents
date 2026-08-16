@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** bob-cli-u.land--1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_u_land__1__plan-260815_113225.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_u_land__1__code-260815_113225.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/bob_cli_u_landing_regressions.md
 
 

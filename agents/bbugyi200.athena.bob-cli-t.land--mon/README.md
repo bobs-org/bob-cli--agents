@@ -22,15 +22,15 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-t.1](../bbugyi200.athena.bob-cli-t.1/README.md) | bob-cli-t hood | completed |
-| [bob-cli-t.2](../bbugyi200.athena.bob-cli-t.2/README.md) | bob-cli-t hood | completed |
-| [bob-cli-t.3](../bbugyi200.athena.bob-cli-t.3/README.md) | bob-cli-t hood | completed |
-| [bob-cli-t.4.1](../bbugyi200.athena.bob-cli-t.4.1/README.md) | bob-cli-t hood | completed |
-| [bob-cli-t.4.2](../bbugyi200.athena.bob-cli-t.4.2/README.md) | bob-cli-t hood | completed |
-| [bob-cli-t.4.3](../bbugyi200.athena.bob-cli-t.4.3/README.md) | bob-cli-t hood | completed |
-| [bob-cli-t.4.4](../bbugyi200.athena.bob-cli-t.4.4/README.md) | bob-cli-t hood | completed |
-| [bob-cli-t.4.5.1](../bbugyi200.athena.bob-cli-t.4.5.1/README.md) | bob-cli-t hood | completed |
-| [bob-cli-t.4.5.2](../../families/bbugyi200.athena.bob-cli-t.4.5.2.md) (family · 2) | bob-cli-t hood | completed 2 |
-| [bob-cli-t.4.5.3](../bbugyi200.athena.bob-cli-t.4.5.3/README.md) | bob-cli-t hood | completed |
-| [bob-cli-t.4.5.land](../bbugyi200.athena.bob-cli-t.4.5.land/README.md) | bob-cli-t hood | completed |
-| [bob-cli-t.4.land](../../families/bbugyi200.athena.bob-cli-t.4.land.md) (family · 2) | bob-cli-t hood | failed 2 |
+| [bob-cli-t.1](../bbugyi200.athena.bob-cli-t.1/README.md) | bob-cli-t hood | dismissed |
+| [bob-cli-t.2](../bbugyi200.athena.bob-cli-t.2/README.md) | bob-cli-t hood | dismissed |
+| [bob-cli-t.3](../bbugyi200.athena.bob-cli-t.3/README.md) | bob-cli-t hood | dismissed |
+| [bob-cli-t.4.1](../bbugyi200.athena.bob-cli-t.4.1/README.md) | bob-cli-t hood | dismissed |
+| [bob-cli-t.4.2](../bbugyi200.athena.bob-cli-t.4.2/README.md) | bob-cli-t hood | dismissed |
+| [bob-cli-t.4.3](../bbugyi200.athena.bob-cli-t.4.3/README.md) | bob-cli-t hood | dismissed |
+| [bob-cli-t.4.4](../bbugyi200.athena.bob-cli-t.4.4/README.md) | bob-cli-t hood | dismissed |
+| [bob-cli-t.4.5.1](../bbugyi200.athena.bob-cli-t.4.5.1/README.md) | bob-cli-t hood | dismissed |
+| [bob-cli-t.4.5.2](../../families/bbugyi200.athena.bob-cli-t.4.5.2.md) (family · 2) | bob-cli-t hood | completed 1, dismissed 1 |
+| [bob-cli-t.4.5.3](../bbugyi200.athena.bob-cli-t.4.5.3/README.md) | bob-cli-t hood | dismissed |
+| [bob-cli-t.4.5.land](../bbugyi200.athena.bob-cli-t.4.5.land/README.md) | bob-cli-t hood | dismissed |
+| [bob-cli-t.4.land](../../families/bbugyi200.athena.bob-cli-t.4.land.md) (family · 2) | bob-cli-t hood | dismissed 1, failed 1 |

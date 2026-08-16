@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `03h` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["03h--plan [active]"]
-  n1["03h--code [active]"]
+  n0["03h--plan [dismissed]"]
+  n1["03h--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 03h--plan | active | gpt-5.6-sol / codex | 2026-08-16T13:51:13.739519+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.03h--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.03h--plan/chat.md) |
-| <a id="member-code"></a>code | 03h--code | active | gemini-3.7-flash-high / agy | 2026-08-16T13:56:08.490798+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | 03h--plan | dismissed | — | 2026-08-16T09:50:58 | 0 | — | — |
+| <a id="member-code"></a>code | 03h--code | completed | gemini-3.7-flash-high / agy | 2026-08-16T13:56:08.490798+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.03h--code/chat.md) |
 
 ## Neighbors
 

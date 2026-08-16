@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `041` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["041--plan [active]"]
-  n1["041--code [active]"]
+  n0["041--plan [completed]"]
+  n1["041--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 041--plan | active | gpt-5.6-sol / codex | 2026-08-16T17:25:16.339163+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.041--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.041--plan/chat.md) |
-| <a id="member-code"></a>code | 041--code | active | grok-4.6 / grok | 2026-08-16T17:29:52.978983+00:00 | [1](../agents/bbugyi200.athena.041--code/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | 041--plan | completed | gpt-5.6-sol / codex | 2026-08-16T17:25:16.339163+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.041--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.041--plan/chat.md) |
+| <a id="member-code"></a>code | 041--code | completed | grok-4.6 / grok | 2026-08-16T17:29:52.978983+00:00 | [1](../agents/bbugyi200.athena.041--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.041--code/chat.md) |
 
 ## Commits
 
