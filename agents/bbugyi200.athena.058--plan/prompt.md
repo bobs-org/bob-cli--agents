@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli When I use the `@file+` capture syntax in the bob-mac-capture panel and select an Obsidian task that does not have a block ID, the panel that pops up is not focused, so I am unable to just start typing (I need to click the input box in that new panel first). Can you help me diagnose the root cause of this issue and fix it? #plan
