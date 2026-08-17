@@ -47,9 +47,9 @@
 | [02l](hoods/02l/README.md) | 1 | 0 | completed 1 |
 | [03h](hoods/03h/README.md) | 3 | 1 | completed 2, dismissed 1 |
 | [03s](hoods/03s/README.md) | 3 | 0 | completed 3 |
-| [041](hoods/041/README.md) | 2 | 1 | completed 2 |
-| [04s](hoods/04s/README.md) | 2 | 1 | active 2 |
-| [04w](hoods/04w/README.md) | 3 | 1 | active 3 |
+| [041](hoods/041/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [04s](hoods/04s/README.md) | 2 | 1 | completed 2 |
+| [04w](hoods/04w/README.md) | 3 | 1 | active 1, completed 2 |
 | [058](hoods/058/README.md) | 2 | 0 | completed 2 |
 | [059](hoods/059/README.md) | 1 | 0 | completed 1 |
 | [05e](hoods/05e/README.md) | 1 | 0 | completed 1 |

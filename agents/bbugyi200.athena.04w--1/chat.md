@@ -4,6 +4,12 @@
 - **MODEL:** claude/opus
 - **AGENT:** 04w--1
 
+## Linked Chats
+
+- 1. --0 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-04w__0-260817_104938.md`
+- **2. --1** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-04w__1-260817_104938.md`
+- 3. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-04w__code-260817_104938.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/blocked_status_cycle_keymaps.md
 
 

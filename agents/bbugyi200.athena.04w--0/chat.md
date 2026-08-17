@@ -3,6 +3,12 @@
 - **TIMESTAMP:** 2026-08-17 11:01:24 EDT
 - **AGENT:** 04w--0
 
+## Linked Chats
+
+- **1. --0** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-04w__0-260817_104938.md`
+- 2. --1 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-04w__1-260817_104938.md`
+- 3. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-04w__code-260817_104938.md`
+
 ## Prompt
 
 #gh:gh_bobs-org__bob-cli Can you help me add proper support to the `<option+[>` / `<option+]>` keymaps for the blocked Obsidian task status (i.e. `[?]`)?
