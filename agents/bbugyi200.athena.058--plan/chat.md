@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 058--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-058__plan-260817_173917.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-058__code-260817_173917.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/task_id_prompt_focus.md
 
 
