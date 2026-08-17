@@ -8,4 +8,4 @@
 |---|---|---|---|---:|---|
 | [m3--code](../../../../../../families/bbugyi200.athena.m3.md#member-code) | completed | gpt-5.6-sol / codex | 2026-07-27T12:16:11.212831+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.m3--code/chat.md) |
 | [m3](../../../../../../agents/bbugyi200.athena.m3/README.md) | completed | — | 2026-07-27T12:43:36+00:00 → 2026-07-27T12:43:36+00:00 | 1 | — |
-| [m3--plan](../../../../../../families/bbugyi200.athena.m3.md#member-plan) | active | opus / claude | 2026-07-27T11:45:58.682432+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.m3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.m3--plan/chat.md) |
+| [m3--plan](../../../../../../families/bbugyi200.athena.m3.md#member-plan) | active | opus / claude | 2026-07-27T11:45:58.682432+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.m3--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.m3--plan/prompt.md) |

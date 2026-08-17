@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1786992533,"sha":"d7b97f62d083cd126c0dbb5d819ea0eebe435e0a","subject":"test: write executable stubs without leaking a writable descriptor"}],"schema_version":2,"source_run_id":"run-75245976283de22499333fd12e9286cf"}
