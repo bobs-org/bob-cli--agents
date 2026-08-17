@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-o](../../users/bbugyi200/machines/athena/hoods/bob-cli-o/README.md) / [bob-cli-o](../../families/bbugyi200.athena.bob-cli-o.md) / bob-cli-o--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-o--plan` · **State:** active · **Source run:** `run-4c0895a44386595b37bafc0d017cb9de`
+**Global name:** `bbugyi200.athena.bob-cli-o--plan` · **State:** completed · **Source run:** `run-4c0895a44386595b37bafc0d017cb9de`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-o
 

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-o](../../users/bbugyi200/machines/athena/hoods/bob-cli-o/README.md) / [bob-cli-o](../../families/bbugyi200.athena.bob-cli-o.md) / bob-cli-o--code
 
-**Global name:** `bbugyi200.athena.bob-cli-o--code` · **State:** active · **Source run:** `run-75245976283de22499333fd12e9286cf`
+**Global name:** `bbugyi200.athena.bob-cli-o--code` · **State:** completed · **Source run:** `run-75245976283de22499333fd12e9286cf`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-o
 
@@ -13,6 +13,10 @@
 - Provider: grok
 - Timing: 2026-08-17T18:42:20.245984+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 
