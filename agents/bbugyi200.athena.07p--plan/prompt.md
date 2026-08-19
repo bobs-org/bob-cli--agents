@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli I'm pretty sure that the bob-mac-capture app's capture stash is lost after a restart. Can you help me fix this? #plan
