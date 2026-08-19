@@ -196,7 +196,7 @@
 | [ao](hoods/ao/README.md) | 2 | 1 | active 1, completed 1 |
 | [at](hoods/at/README.md) | 2 | 1 | active 1, completed 1 |
 | [bob-cli-1](hoods/bob-cli-1/README.md) | 7 | 0 | completed 7 |
-| [bob-cli-10](hoods/bob-cli-10/README.md) | 6 | 0 | active 1, waiting 5 |
+| [bob-cli-10](hoods/bob-cli-10/README.md) | 6 | 0 | active 1, completed 1, waiting 4 |
 | [bob-cli-2](hoods/bob-cli-2/README.md) | 8 | 0 | completed 8 |
 | [bob-cli-3](hoods/bob-cli-3/README.md) | 8 | 0 | completed 8 |
 | [bob-cli-4](hoods/bob-cli-4/README.md) | 11 | 0 | completed 11 |
