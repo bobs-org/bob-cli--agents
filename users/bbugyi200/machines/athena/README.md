@@ -50,12 +50,12 @@
 | [041](hoods/041/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [04s](hoods/04s/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [04w](hoods/04w/README.md) | 3 | 1 | active 1, completed 1, dismissed 1 |
-| [058](hoods/058/README.md) | 4 | 1 | completed 4 |
+| [058](hoods/058/README.md) | 4 | 1 | completed 3, dismissed 1 |
 | [059](hoods/059/README.md) | 1 | 0 | completed 1 |
 | [05e](hoods/05e/README.md) | 1 | 0 | completed 1 |
 | [05g](hoods/05g/README.md) | 1 | 0 | completed 1 |
-| [05m](hoods/05m/README.md) | 2 | 1 | active 2 |
-| [06v](hoods/06v/README.md) | 2 | 1 | active 2 |
+| [05m](hoods/05m/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [06v](hoods/06v/README.md) | 2 | 1 | completed 2 |
 | [06y](hoods/06y/README.md) | 1 | 0 | completed 1 |
 | [071](hoods/071/README.md) | 2 | 0 | completed 2 |
 | [08w](hoods/08w/README.md) | 5 | 0 | completed 5 |

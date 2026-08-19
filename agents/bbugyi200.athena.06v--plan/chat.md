@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 06v--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-06v__plan-260818_175009.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-06v__code-260818_175009.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/capture_pomodoro_note_last_completed.md
 
 
