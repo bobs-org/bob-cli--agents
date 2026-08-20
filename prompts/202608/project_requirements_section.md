@@ -1,0 +1,19 @@
+- **PLAN:**
+  [202608/project_requirements_section.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202608/project_requirements_section.md)
+- **AGENTS:**
+  - [bbugyi200.athena.08j--plan](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.08j.md)
+
+The `<ctrl+shift+]>` Obsidian keymap can be used to convert an Obsidian task to/from a
+normal bullet. There is a special case (I think when a "Tasks" section exists and some
+other markdown section exists?) where we also move that new task/note to the "Tasks"
+section / next markdown section, respectively. In project note files, which have a
+`type: [[project]]` field in their frontmatter, we always have a "Tasks" section, but do
+not always have other sections. Can you help me start creating a new "Requirements" H2
+section at the bottom of the file (after a blank line) when the `<ctrl+shift+]>` keymap
+is used to convert a task to a normal bullet from a project note file that only contains
+a "Tasks" section? This bullet should then be moved to this new "Requirements" section
+(after a blank line).
+
+Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose
+and author the appropriate tier, validate and revalidate until it passes, then submit it
+with `sase plan propose` (as the skill instructs) before making any file changes.
