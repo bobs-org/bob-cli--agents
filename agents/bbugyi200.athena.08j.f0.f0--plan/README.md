@@ -23,5 +23,6 @@
 |---|---|---|
 | [08j.f0](../../families/bbugyi200.athena.08j.f0.md) (family · 2) | ancestor | completed 2 |
 | [08j](../../families/bbugyi200.athena.08j.md) (family · 2) | ancestor | completed 2 |
-| [08j.f0.f0.w0](../../families/bbugyi200.athena.08j.f0.f0.w0.md) (family · 2) | descendant | active 2 |
+| [08j.f0.f0.w0](../../families/bbugyi200.athena.08j.f0.f0.w0.md) (family · 2) | descendant | completed 2 |
 | [08j.f0.f0.w0.f0](../bbugyi200.athena.08j.f0.f0.w0.f0/README.md) | descendant | dismissed |
+| [08j.f0.f0.w0.f2](../../families/bbugyi200.athena.08j.f0.f0.w0.f2.md) (family · 2) | descendant | active 2 |

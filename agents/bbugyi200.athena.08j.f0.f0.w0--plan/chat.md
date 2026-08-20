@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 08j.f0.f0.w0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-08j_f0_f0_w0__plan-260820_101149.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-08j_f0_f0_w0__code-260820_101149.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/section_aware_task_promotion.md
 
 
