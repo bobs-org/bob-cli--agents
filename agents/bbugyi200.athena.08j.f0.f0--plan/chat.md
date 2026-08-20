@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 08j.f0.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-08j_f0_f0__plan-260820_095857.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-08j_f0_f0__code-260820_095857.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/demotion_picker_requirements_default.md
 
 
