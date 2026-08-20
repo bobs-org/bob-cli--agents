@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:08j.f0 The "Requirements" section is listed multiple times when there is already a "Requirements" section in the file. We should only show "Requirements" by default when there are no other sections in the file except for "Tasks". Can you help me fix this? #plan
