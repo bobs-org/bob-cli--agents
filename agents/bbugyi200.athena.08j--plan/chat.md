@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-5.6-sol
 - **AGENT:** 08j--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-08j__plan-260820_085222.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-08j__code-260820_085222.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/project_requirements_section.md
 
 

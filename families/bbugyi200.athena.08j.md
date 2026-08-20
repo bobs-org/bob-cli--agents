@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `08j` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["08j--plan [active]"]
-  n1["08j--code [active]"]
+  n0["08j--plan [completed]"]
+  n1["08j--code [completed]"]
   n0 --> n1
 ```
 
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 08j--plan | active | gpt-5.6-sol / codex | 2026-08-20T12:52:36.522086+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.08j--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.08j--plan/chat.md) |
-| <a id="member-code"></a>code | 08j--code | active | grok-4.6 / grok | 2026-08-20T12:57:19.823914+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | 08j--plan | completed | gpt-5.6-sol / codex | 2026-08-20T12:52:36.522086+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.08j--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.08j--plan/chat.md) |
+| <a id="member-code"></a>code | 08j--code | completed | grok-4.6 / grok | 2026-08-20T12:57:19.823914+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.08j--code/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [08j.f0](../agents/bbugyi200.athena.08j.f0/README.md) | descendant | waiting |
+| [08j.f0](bbugyi200.athena.08j.f0.md) (family · 2) | descendant | active 2 |
