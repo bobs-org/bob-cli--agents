@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ef58bb8`](https://github.com/bobs-org/bob-cli/commit/ef58bb862c82719626706260b71f202ba28798cb) | feat(query): add initial native Tasks query support (bob-cli-9.1) | 2026-07-10 14:11:34 EDT |
+| bob-cli | [`ef58bb8`](https://github.com/bobs-org/bob-cli/commit/ef58bb862c82719626706260b71f202ba28798cb) | feat(query): add initial native Tasks query support (bob-cli-9.1) | 2026-07-10 18:11:34 UTC |
 
 ## Neighbors
 

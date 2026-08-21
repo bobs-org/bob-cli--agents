@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8f04fd8`](https://github.com/bobs-org/bob-cli/commit/8f04fd8144a87a47e673781a4106690874522e3f) | chore: Add SDD prompt and plan for move\_done\_tasks\_dirty\_git | 2026-06-05 09:21:45 EDT |
-| bob-cli | [`dbb5652`](https://github.com/bobs-org/bob-cli/commit/dbb5652fac249a5f8d63f1bdfd55c86ff5e92acf) | feat: allow move-done-tasks to rewrite dirty candidates | 2026-06-05 09:28:39 EDT |
+| bob-cli | [`8f04fd8`](https://github.com/bobs-org/bob-cli/commit/8f04fd8144a87a47e673781a4106690874522e3f) | chore: Add SDD prompt and plan for move\_done\_tasks\_dirty\_git | 2026-06-05 13:21:45 UTC |
+| bob-cli | [`dbb5652`](https://github.com/bobs-org/bob-cli/commit/dbb5652fac249a5f8d63f1bdfd55c86ff5e92acf) | feat: allow move-done-tasks to rewrite dirty candidates | 2026-06-05 13:28:39 UTC |

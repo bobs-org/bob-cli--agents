@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3b818dc`](https://github.com/bobs-org/bob-cli/commit/3b818dca2138c87781b900260376e2501f30b97d) | chore: Add SDD prompt and plan for in\_progress\_transcluded\_pomodoro\_tasks | 2026-07-07 17:09:13 EDT |
+| bob-cli | [`3b818dc`](https://github.com/bobs-org/bob-cli/commit/3b818dca2138c87781b900260376e2501f30b97d) | chore: Add SDD prompt and plan for in\_progress\_transcluded\_pomodoro\_tasks | 2026-07-07 21:09:13 UTC |
 
 ## Neighbors
 

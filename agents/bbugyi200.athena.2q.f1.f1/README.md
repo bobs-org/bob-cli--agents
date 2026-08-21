@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f42aa87`](https://github.com/bobs-org/bob-cli/commit/f42aa87f07b8d8606faaf5679f7083e368b11882) | chore: Add SDD prompt and plan for vim\_backspace\_link\_action | 2026-06-05 15:15:36 EDT |
+| bob-cli | [`f42aa87`](https://github.com/bobs-org/bob-cli/commit/f42aa87f07b8d8606faaf5679f7083e368b11882) | chore: Add SDD prompt and plan for vim\_backspace\_link\_action | 2026-06-05 19:15:36 UTC |
 
 ## Neighbors
 

@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`27ea107`](https://github.com/bobs-org/bob-cli/commit/27ea1079b9e7b2a8a29f7db8b2b768ab579acd31) | chore: update project task status examples | 2026-07-08 12:54:59 EDT |
+| bob-cli | [`27ea107`](https://github.com/bobs-org/bob-cli/commit/27ea1079b9e7b2a8a29f7db8b2b768ab579acd31) | chore: update project task status examples | 2026-07-08 16:54:59 UTC |
 
 ## Neighbors
 

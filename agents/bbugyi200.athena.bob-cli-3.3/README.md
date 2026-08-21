@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2213d7b`](https://github.com/bobs-org/bob-cli/commit/2213d7b42e6a308eebcf3d59b230835b4f58c957) | feat: extract dataview DQL paths (bob-cli-3.3) | 2026-06-03 13:29:06 EDT |
+| bob-cli | [`2213d7b`](https://github.com/bobs-org/bob-cli/commit/2213d7b42e6a308eebcf3d59b230835b4f58c957) | feat: extract dataview DQL paths (bob-cli-3.3) | 2026-06-03 17:29:06 UTC |
 
 ## Neighbors
 

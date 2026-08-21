@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2fcbbce`](https://github.com/bobs-org/bob-cli/commit/2fcbbcec5ab868b76c6664002b28227afe0888bc) | chore: Add SDD prompt and plan for fix\_vim\_surround\_ys\_eol\_motion | 2026-06-20 09:54:45 EDT |
+| bob-cli | [`2fcbbce`](https://github.com/bobs-org/bob-cli/commit/2fcbbcec5ab868b76c6664002b28227afe0888bc) | chore: Add SDD prompt and plan for fix\_vim\_surround\_ys\_eol\_motion | 2026-06-20 13:54:45 UTC |
 
 ## Neighbors
 

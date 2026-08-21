@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e920dea`](https://github.com/bobs-org/bob-cli/commit/e920deafd86f30653719583747f0f797fb8b7e19) | chore: Add SDD prompt and plan for ctrl6\_block\_id\_keymap | 2026-06-12 15:21:44 EDT |
+| bob-cli | [`e920dea`](https://github.com/bobs-org/bob-cli/commit/e920deafd86f30653719583747f0f797fb8b7e19) | chore: Add SDD prompt and plan for ctrl6\_block\_id\_keymap | 2026-06-12 19:21:44 UTC |
 
 ## Neighbors
 

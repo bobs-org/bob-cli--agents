@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2830142`](https://github.com/bobs-org/bob-cli/commit/2830142dcbd701f6fcf8421bad13c3e755b67a58) | docs(projects): update schedule-log reason prompt for nesting fix | 2026-08-06 08:37:18 EDT |
+| bob-cli | [`2830142`](https://github.com/bobs-org/bob-cli/commit/2830142dcbd701f6fcf8421bad13c3e755b67a58) | docs(projects): update schedule-log reason prompt for nesting fix | 2026-08-06 12:37:18 UTC |
 
 ## Neighbors
 

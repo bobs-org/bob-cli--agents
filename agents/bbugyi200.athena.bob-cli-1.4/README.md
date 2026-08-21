@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a23bc69`](https://github.com/bobs-org/bob-cli/commit/a23bc699504db210fd229821fccbb3573269cad2) | chore: close bob-cli phase 4 bead (bob-cli-1.4) | 2026-06-01 10:46:10 EDT |
+| bob-cli | [`a23bc69`](https://github.com/bobs-org/bob-cli/commit/a23bc699504db210fd229821fccbb3573269cad2) | chore: close bob-cli phase 4 bead (bob-cli-1.4) | 2026-06-01 14:46:10 UTC |
 
 ## Neighbors
 

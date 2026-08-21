@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0bacfe4`](https://github.com/bobs-org/bob-cli/commit/0bacfe414b6689bf1698c7c58cdd24a5c483d3c7) | docs: refresh CLI usage and compatibility guidance | 2026-07-19 08:05:37 EDT |
+| bob-cli | [`0bacfe4`](https://github.com/bobs-org/bob-cli/commit/0bacfe414b6689bf1698c7c58cdd24a5c483d3c7) | docs: refresh CLI usage and compatibility guidance | 2026-07-19 12:05:37 UTC |
 
 ## Neighbors
 

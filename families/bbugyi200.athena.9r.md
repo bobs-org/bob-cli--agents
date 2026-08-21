@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`7468820`](https://github.com/bobs-org/bob-cli/commit/7468820cd134daf36e179e393d3eea083bb2b2a9) | feat(capture): add clipboard sub-bullet capture | 2026-07-15 17:24:33 EDT |
+| code | bob-cli | [`7468820`](https://github.com/bobs-org/bob-cli/commit/7468820cd134daf36e179e393d3eea083bb2b2a9) | feat(capture): add clipboard sub-bullet capture | 2026-07-15 21:24:33 UTC |
 
 ## Neighbors
 

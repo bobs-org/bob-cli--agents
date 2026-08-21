@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`07500e7`](https://github.com/bobs-org/bob-cli/commit/07500e7f4792db57065d4a3dfb88474231adb9e3) | chore: Add SDD prompt and plan for done\_pomodoro\_navigation | 2026-06-19 10:14:49 EDT |
+| bob-cli | [`07500e7`](https://github.com/bobs-org/bob-cli/commit/07500e7f4792db57065d4a3dfb88474231adb9e3) | chore: Add SDD prompt and plan for done\_pomodoro\_navigation | 2026-06-19 14:14:49 UTC |
 
 ## Neighbors
 

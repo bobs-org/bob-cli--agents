@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fc39562`](https://github.com/bobs-org/bob-cli/commit/fc39562c3d7dc5fb07501a5a139237df8fe9996f) | feat: reconcile dependency-blocked task statuses | 2026-07-16 11:17:03 EDT |
+| bob-cli | [`fc39562`](https://github.com/bobs-org/bob-cli/commit/fc39562c3d7dc5fb07501a5a139237df8fe9996f) | feat: reconcile dependency-blocked task statuses | 2026-07-16 15:17:03 UTC |
 
 ## Neighbors
 

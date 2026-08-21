@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`61e8b3a`](https://github.com/bobs-org/bob-cli/commit/61e8b3a482b3e01e7615ea589aa707cf297a9163) | chore: Add CLI rules memory | 2026-06-03 05:04:13 EDT |
+| bob-cli | [`61e8b3a`](https://github.com/bobs-org/bob-cli/commit/61e8b3a482b3e01e7615ea589aa707cf297a9163) | chore: Add CLI rules memory | 2026-06-03 09:04:13 UTC |
 
 ## Neighbors
 

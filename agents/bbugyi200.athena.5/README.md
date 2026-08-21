@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`98ae275`](https://github.com/bobs-org/bob-cli/commit/98ae275f900bb91dfd57906ce04154008b31d2e6) | chore: Add SDD prompt and plan for justfile\_quality\_targets | 2026-06-02 08:26:13 EDT |
-| bob-cli | [`6f6a339`](https://github.com/bobs-org/bob-cli/commit/6f6a339db55bca8857c76dca27ee318bfcb79f80) | chore: add aggregate quality target | 2026-06-02 08:28:01 EDT |
+| bob-cli | [`98ae275`](https://github.com/bobs-org/bob-cli/commit/98ae275f900bb91dfd57906ce04154008b31d2e6) | chore: Add SDD prompt and plan for justfile\_quality\_targets | 2026-06-02 12:26:13 UTC |
+| bob-cli | [`6f6a339`](https://github.com/bobs-org/bob-cli/commit/6f6a339db55bca8857c76dca27ee318bfcb79f80) | chore: add aggregate quality target | 2026-06-02 12:28:01 UTC |
 
 ## Neighbors
 

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f548183`](https://github.com/bobs-org/bob-cli/commit/f548183568474812b5e7c28b2f7bc5c0cb092364) | feat(capture): add capture-complete cursor-aware completion command | 2026-08-13 21:42:24 EDT |
+| bob-cli | [`f548183`](https://github.com/bobs-org/bob-cli/commit/f548183568474812b5e7c28b2f7bc5c0cb092364) | feat(capture): add capture-complete cursor-aware completion command | 2026-08-14 01:42:24 UTC |
 
 ## Neighbors
 

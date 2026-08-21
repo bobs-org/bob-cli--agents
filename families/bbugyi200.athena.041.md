@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`adabd23`](https://github.com/bobs-org/bob-cli/commit/adabd23792d3d296c82fd66ff298c16a6003f063) | feat(capture): insert sub-bullet captures before managed logs | 2026-08-16 13:40:52 EDT |
+| code | bob-cli | [`adabd23`](https://github.com/bobs-org/bob-cli/commit/adabd23792d3d296c82fd66ff298c16a6003f063) | feat(capture): insert sub-bullet captures before managed logs | 2026-08-16 17:40:52 UTC |

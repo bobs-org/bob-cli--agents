@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`64d96c4`](https://github.com/bobs-org/bob-cli/commit/64d96c410c25f1a3537dfd3087345bad6fe65119) | chore: Add research on bulk-setting a property on Obsidian tasks | 2026-06-04 09:17:12 EDT |
+| bob-cli | [`64d96c4`](https://github.com/bobs-org/bob-cli/commit/64d96c410c25f1a3537dfd3087345bad6fe65119) | chore: Add research on bulk-setting a property on Obsidian tasks | 2026-06-04 13:17:12 UTC |
 
 ## Neighbors
 

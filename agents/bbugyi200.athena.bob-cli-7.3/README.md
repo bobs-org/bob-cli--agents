@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2ab7f3b`](https://github.com/bobs-org/bob-cli/commit/2ab7f3b4d8fd0f510d4d2b4048ca9bd077ad827e) | chore: close bob-cli-7.3 bead | 2026-06-11 18:57:23 EDT |
+| bob-cli | [`2ab7f3b`](https://github.com/bobs-org/bob-cli/commit/2ab7f3b4d8fd0f510d4d2b4048ca9bd077ad827e) | chore: close bob-cli-7.3 bead | 2026-06-11 22:57:23 UTC |
 
 ## Neighbors
 

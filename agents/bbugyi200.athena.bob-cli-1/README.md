@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`faf1705`](https://github.com/bobs-org/bob-cli/commit/faf170576bcbdd2f41e8fdafe2248d1987ebad66) | chore: close bob-cli-1 epic | 2026-06-01 11:14:58 EDT |
+| bob-cli | [`faf1705`](https://github.com/bobs-org/bob-cli/commit/faf170576bcbdd2f41e8fdafe2248d1987ebad66) | chore: close bob-cli-1 epic | 2026-06-01 15:14:58 UTC |
 
 ## Neighbors
 

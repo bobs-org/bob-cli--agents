@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`291501b`](https://github.com/bobs-org/bob-cli/commit/291501b8b4c1c1a1b879b15df957acfdc4e4b96d) | feat: support nested authored capture bullets | 2026-08-15 08:52:13 EDT |
+| code | bob-cli | [`291501b`](https://github.com/bobs-org/bob-cli/commit/291501b8b4c1c1a1b879b15df957acfdc4e4b96d) | feat: support nested authored capture bullets | 2026-08-15 12:52:13 UTC |
 
 ## Neighbors
 

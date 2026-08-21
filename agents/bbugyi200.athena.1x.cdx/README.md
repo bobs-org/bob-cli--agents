@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4e27f1b`](https://github.com/bobs-org/bob-cli/commit/4e27f1b4a24bf26e707268344db05e60af021858) | feat: auto-merge highlights-ref property changes | 2026-06-03 19:27:10 EDT |
+| bob-cli | [`4e27f1b`](https://github.com/bobs-org/bob-cli/commit/4e27f1b4a24bf26e707268344db05e60af021858) | feat: auto-merge highlights-ref property changes | 2026-06-03 23:27:10 UTC |

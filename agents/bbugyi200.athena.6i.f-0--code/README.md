@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`334f18b`](https://github.com/bobs-org/bob-cli/commit/334f18b8200bea940d056744e45ba46810445d90) | fix: preserve Pomodoro marker provenance | 2026-07-12 10:58:04 EDT |
+| bob-cli | [`334f18b`](https://github.com/bobs-org/bob-cli/commit/334f18b8200bea940d056744e45ba46810445d90) | fix: preserve Pomodoro marker provenance | 2026-07-12 14:58:04 UTC |
 
 ## Neighbors
 

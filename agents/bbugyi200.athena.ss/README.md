@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ef6ca11`](https://github.com/bobs-org/bob-cli/commit/ef6ca11db593dfff0a72925e0adfc011cadac4f9) | fix(capture): match clipboard child indentation to target note | 2026-08-03 08:49:48 EDT |
+| bob-cli | [`ef6ca11`](https://github.com/bobs-org/bob-cli/commit/ef6ca11db593dfff0a72925e0adfc011cadac4f9) | fix(capture): match clipboard child indentation to target note | 2026-08-03 12:49:48 UTC |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5e29ff8`](https://github.com/bobs-org/bob-cli/commit/5e29ff8ef1d3670a620497f42ace7eb3ec07d04c) | docs: document project-note-to-task reverse conversion | 2026-08-17 10:58:37 EDT |
+| bob-cli | [`5e29ff8`](https://github.com/bobs-org/bob-cli/commit/5e29ff8ef1d3670a620497f42ace7eb3ec07d04c) | docs: document project-note-to-task reverse conversion | 2026-08-17 14:58:37 UTC |

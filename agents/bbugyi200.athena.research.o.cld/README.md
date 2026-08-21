@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4289f08`](https://github.com/bobs-org/bob-cli/commit/4289f08be50f16f3a242b83f0732b0dbce41124d) | docs(research): Add Obsidian vim-surround keymaps research | 2026-06-18 12:59:58 EDT |
+| bob-cli | [`4289f08`](https://github.com/bobs-org/bob-cli/commit/4289f08be50f16f3a242b83f0732b0dbce41124d) | docs(research): Add Obsidian vim-surround keymaps research | 2026-06-18 16:59:58 UTC |
 
 ## Neighbors
 

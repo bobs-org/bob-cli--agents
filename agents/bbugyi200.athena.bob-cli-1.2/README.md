@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1c3135e`](https://github.com/bobs-org/bob-cli/commit/1c3135efddd02d95f20a915addd1d99ad1df384f) | feat: add bob script delegation bridge (bob-cli-1.2) | 2026-06-01 10:29:56 EDT |
+| bob-cli | [`1c3135e`](https://github.com/bobs-org/bob-cli/commit/1c3135efddd02d95f20a915addd1d99ad1df384f) | feat: add bob script delegation bridge (bob-cli-1.2) | 2026-06-01 14:29:56 UTC |
 
 ## Neighbors
 

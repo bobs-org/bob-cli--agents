@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4dc1c28`](https://github.com/bobs-org/bob-cli/commit/4dc1c286f1f22f4865705f6c68601bbdec7943a1) | chore: add Obsidian workflow research | 2026-06-04 14:36:37 EDT |
+| bob-cli | [`4dc1c28`](https://github.com/bobs-org/bob-cli/commit/4dc1c286f1f22f4865705f6c68601bbdec7943a1) | chore: add Obsidian workflow research | 2026-06-04 18:36:37 UTC |
 
 ## Neighbors
 

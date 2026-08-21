@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d07a4bc`](https://github.com/bobs-org/bob-cli/commit/d07a4bc6f6820d04a4d0f7a4288cbe47f177d81e) | chore: Add SDD prompt and plan for bob\_cronjob | 2026-06-02 18:46:08 EDT |
-| bob-cli | [`3080741`](https://github.com/bobs-org/bob-cli/commit/3080741dfd1212dabcd7ddbe1cf72b93c3c3cbce) | feat: Add \`bob cronjob\` as the single nightly entry point | 2026-06-02 18:58:10 EDT |
+| bob-cli | [`d07a4bc`](https://github.com/bobs-org/bob-cli/commit/d07a4bc6f6820d04a4d0f7a4288cbe47f177d81e) | chore: Add SDD prompt and plan for bob\_cronjob | 2026-06-02 22:46:08 UTC |
+| bob-cli | [`3080741`](https://github.com/bobs-org/bob-cli/commit/3080741dfd1212dabcd7ddbe1cf72b93c3c3cbce) | feat: Add \`bob cronjob\` as the single nightly entry point | 2026-06-02 22:58:10 UTC |

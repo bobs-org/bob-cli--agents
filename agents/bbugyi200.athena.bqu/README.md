@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`44677b0`](https://github.com/bobs-org/bob-cli/commit/44677b0354de37ba22fdd42a2c5385843929ed92) | chore: Add SDD prompt and plan for bob\_cli\_migration\_3 | 2026-06-01 10:06:39 EDT |
-| bob-cli | [`293c66e`](https://github.com/bobs-org/bob-cli/commit/293c66ed083d81c5323d1b7792f283d80ea94b08) | chore: register bob CLI migration epic bead | 2026-06-01 10:09:04 EDT |
+| bob-cli | [`44677b0`](https://github.com/bobs-org/bob-cli/commit/44677b0354de37ba22fdd42a2c5385843929ed92) | chore: Add SDD prompt and plan for bob\_cli\_migration\_3 | 2026-06-01 14:06:39 UTC |
+| bob-cli | [`293c66e`](https://github.com/bobs-org/bob-cli/commit/293c66ed083d81c5323d1b7792f283d80ea94b08) | chore: register bob CLI migration epic bead | 2026-06-01 14:09:04 UTC |

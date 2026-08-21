@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3d0022d`](https://github.com/bobs-org/bob-cli/commit/3d0022d874e7865766f05b057db298968216bb8e) | chore: Add SDD prompt and plan for transcluded\_at\_toggle | 2026-07-07 19:27:02 EDT |
+| bob-cli | [`3d0022d`](https://github.com/bobs-org/bob-cli/commit/3d0022d874e7865766f05b057db298968216bb8e) | chore: Add SDD prompt and plan for transcluded\_at\_toggle | 2026-07-07 23:27:02 UTC |
 
 ## Neighbors
 

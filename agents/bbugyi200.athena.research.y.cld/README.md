@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b269559`](https://github.com/bobs-org/bob-cli/commit/b2695594701f21b86fc3279d500c7d899f18f0dc) | chore: Add research on dedicated Bob Obsidian plugins repo | 2026-06-20 10:16:15 EDT |
+| bob-cli | [`b269559`](https://github.com/bobs-org/bob-cli/commit/b2695594701f21b86fc3279d500c7d899f18f0dc) | chore: Add research on dedicated Bob Obsidian plugins repo | 2026-06-20 14:16:15 UTC |
 
 ## Neighbors
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`161c4d0`](https://github.com/bobs-org/bob-cli/commit/161c4d0b339931dfccf131a50bc23dfec5fb2c03) | feat: propagate ranked dependency task statuses | 2026-07-14 09:44:48 EDT |
+| bob-cli | [`161c4d0`](https://github.com/bobs-org/bob-cli/commit/161c4d0b339931dfccf131a50bc23dfec5fb2c03) | feat: propagate ranked dependency task statuses | 2026-07-14 13:44:48 UTC |

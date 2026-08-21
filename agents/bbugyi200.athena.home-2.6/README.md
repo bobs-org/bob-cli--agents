@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`51ba486`](https://github.com/bobs-org/bob-cli/commit/51ba4865a56f230ad884556707d222ec70ab0b5d) | chore: harden highlights ref release checks (home-2.6) | 2026-06-03 04:05:18 EDT |
+| bob-cli | [`51ba486`](https://github.com/bobs-org/bob-cli/commit/51ba4865a56f230ad884556707d222ec70ab0b5d) | chore: harden highlights ref release checks (home-2.6) | 2026-06-03 08:05:18 UTC |
 
 ## Neighbors
 

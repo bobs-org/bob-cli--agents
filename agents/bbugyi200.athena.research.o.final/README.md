@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`25eda38`](https://github.com/bobs-org/bob-cli/commit/25eda387825a2aad6d8873c2bf0545bc3449d7fd) | docs: consolidate Obsidian Vim surround research | 2026-06-18 13:15:12 EDT |
+| bob-cli | [`25eda38`](https://github.com/bobs-org/bob-cli/commit/25eda387825a2aad6d8873c2bf0545bc3449d7fd) | docs: consolidate Obsidian Vim surround research | 2026-06-18 17:15:12 UTC |
 
 ## Neighbors
 

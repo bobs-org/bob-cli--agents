@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d006c5a`](https://github.com/bobs-org/bob-cli/commit/d006c5a0ac34641ad3066b6da6fe50ee14df5f2a) | chore: Add SDD prompt and plan for highlights\_scan\_write\_pdfs | 2026-06-04 13:41:26 EDT |
-| bob-cli | [`86849f6`](https://github.com/bobs-org/bob-cli/commit/86849f65193bfebad5103e4bf286a3e293954d71) | feat: add highlights scan PDF write opt-in | 2026-06-04 13:47:28 EDT |
+| bob-cli | [`d006c5a`](https://github.com/bobs-org/bob-cli/commit/d006c5a0ac34641ad3066b6da6fe50ee14df5f2a) | chore: Add SDD prompt and plan for highlights\_scan\_write\_pdfs | 2026-06-04 17:41:26 UTC |
+| bob-cli | [`86849f6`](https://github.com/bobs-org/bob-cli/commit/86849f65193bfebad5103e4bf286a3e293954d71) | feat: add highlights scan PDF write opt-in | 2026-06-04 17:47:28 UTC |
 
 ## Neighbors
 

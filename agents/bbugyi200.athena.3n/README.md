@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`01c5ce5`](https://github.com/bobs-org/bob-cli/commit/01c5ce537defae467e0ff8f96b04199dcbba62ea) | chore: Add SDD prompt and plan for obsidian\_nav\_create\_missing\_notes | 2026-06-07 09:36:41 EDT |
+| bob-cli | [`01c5ce5`](https://github.com/bobs-org/bob-cli/commit/01c5ce537defae467e0ff8f96b04199dcbba62ea) | chore: Add SDD prompt and plan for obsidian\_nav\_create\_missing\_notes | 2026-06-07 13:36:41 UTC |

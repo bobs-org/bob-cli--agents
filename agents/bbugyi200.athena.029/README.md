@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d4984fd`](https://github.com/bobs-org/bob-cli/commit/d4984fdc3ee24aa52f800759a44f80b5bd9f9c4d) | chore: Add SDD prompt and plan for recursive\_transcluded\_pomodoro\_tasks\_1 | 2026-06-20 13:31:21 EDT |
+| bob-cli | [`d4984fd`](https://github.com/bobs-org/bob-cli/commit/d4984fdc3ee24aa52f800759a44f80b5bd9f9c4d) | chore: Add SDD prompt and plan for recursive\_transcluded\_pomodoro\_tasks\_1 | 2026-06-20 17:31:21 UTC |

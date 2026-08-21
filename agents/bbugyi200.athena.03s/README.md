@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c9f0e8f`](https://github.com/bobs-org/bob-cli/commit/c9f0e8f7fd916bb4c04a9a3c5a4dd8c3f69060d5) | chore: Add SDD prompt and plan for obsidian\_escape\_nohlsearch\_1 | 2026-06-22 10:02:18 EDT |
+| bob-cli | [`c9f0e8f`](https://github.com/bobs-org/bob-cli/commit/c9f0e8f7fd916bb4c04a9a3c5a4dd8c3f69060d5) | chore: Add SDD prompt and plan for obsidian\_escape\_nohlsearch\_1 | 2026-06-22 14:02:18 UTC |
 
 ## Neighbors
 

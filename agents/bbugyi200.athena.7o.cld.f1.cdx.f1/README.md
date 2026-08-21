@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7bf2cb5`](https://github.com/bobs-org/bob-cli/commit/7bf2cb50a503cbda55ce6bb561b75fd963cb98dd) | chore: Add SDD prompt and plan for obsidian\_alt\_o\_below\_keymap\_fix\_1 | 2026-06-15 07:47:22 EDT |
-| bob-cli | [`48b3361`](https://github.com/bobs-org/bob-cli/commit/48b3361cb03894d8f5ad84a0d76f1ccd8a8b934f) | chore: Mark SDD plan done | 2026-06-15 07:53:59 EDT |
+| bob-cli | [`7bf2cb5`](https://github.com/bobs-org/bob-cli/commit/7bf2cb50a503cbda55ce6bb561b75fd963cb98dd) | chore: Add SDD prompt and plan for obsidian\_alt\_o\_below\_keymap\_fix\_1 | 2026-06-15 11:47:22 UTC |
+| bob-cli | [`48b3361`](https://github.com/bobs-org/bob-cli/commit/48b3361cb03894d8f5ad84a0d76f1ccd8a8b934f) | chore: Mark SDD plan done | 2026-06-15 11:53:59 UTC |
 
 ## Neighbors
 

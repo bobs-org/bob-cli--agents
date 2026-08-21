@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`37620f0`](https://github.com/bobs-org/bob-cli/commit/37620f0f5e1253ce7d822212c5e9f00bd847106a) | chore: Add SDD prompt and plan for formalize\_type\_property | 2026-06-11 13:04:17 EDT |
+| bob-cli | [`37620f0`](https://github.com/bobs-org/bob-cli/commit/37620f0f5e1253ce7d822212c5e9f00bd847106a) | chore: Add SDD prompt and plan for formalize\_type\_property | 2026-06-11 17:04:17 UTC |

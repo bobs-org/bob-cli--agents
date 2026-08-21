@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`47001ec`](https://github.com/bobs-org/bob-cli/commit/47001ec18cc0617f63ec7285d453136ba053cc52) | docs(projects): document Pomodoro pruning on task deferral | 2026-08-07 14:28:57 EDT |
+| bob-cli | [`47001ec`](https://github.com/bobs-org/bob-cli/commit/47001ec18cc0617f63ec7285d453136ba053cc52) | docs(projects): document Pomodoro pruning on task deferral | 2026-08-07 18:28:57 UTC |

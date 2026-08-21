@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`87d2ecd`](https://github.com/bobs-org/bob-cli/commit/87d2ecd0543b87c4cf20bfcd29d4290891ab0fe7) | chore: Add SDD prompt and plan for highlights\_ref\_task\_priority | 2026-06-04 15:13:15 EDT |
-| bob-cli | [`facf121`](https://github.com/bobs-org/bob-cli/commit/facf121b5ed9f58590758901fb28c74c01cdc2f5) | feat: add priority to generated highlights tasks | 2026-06-04 15:20:16 EDT |
+| bob-cli | [`87d2ecd`](https://github.com/bobs-org/bob-cli/commit/87d2ecd0543b87c4cf20bfcd29d4290891ab0fe7) | chore: Add SDD prompt and plan for highlights\_ref\_task\_priority | 2026-06-04 19:13:15 UTC |
+| bob-cli | [`facf121`](https://github.com/bobs-org/bob-cli/commit/facf121b5ed9f58590758901fb28c74c01cdc2f5) | feat: add priority to generated highlights tasks | 2026-06-04 19:20:16 UTC |
 
 ## Neighbors
 

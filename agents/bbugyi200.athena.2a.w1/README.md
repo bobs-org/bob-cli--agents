@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f9b9f8c`](https://github.com/bobs-org/bob-cli/commit/f9b9f8ca4e18c214ad20deaab5fbe26d8212b659) | chore: Add SDD prompt and plan for cli\_short\_options | 2026-06-04 13:51:09 EDT |
-| bob-cli | [`cfa157b`](https://github.com/bobs-org/bob-cli/commit/cfa157b509510c26ce71f282cb836bd591559d62) | feat: add short aliases for CLI options | 2026-06-04 14:02:15 EDT |
+| bob-cli | [`f9b9f8c`](https://github.com/bobs-org/bob-cli/commit/f9b9f8ca4e18c214ad20deaab5fbe26d8212b659) | chore: Add SDD prompt and plan for cli\_short\_options | 2026-06-04 17:51:09 UTC |
+| bob-cli | [`cfa157b`](https://github.com/bobs-org/bob-cli/commit/cfa157b509510c26ce71f282cb836bd591559d62) | feat: add short aliases for CLI options | 2026-06-04 18:02:15 UTC |
 
 ## Neighbors
 

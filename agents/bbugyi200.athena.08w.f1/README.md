@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b7d84ae`](https://github.com/bobs-org/bob-cli/commit/b7d84ae3cdc0a732bac90ad55c1074e59fc6e901) | chore: Add SDD prompt and plan for obsidian\_dependency\_navigation\_subbullet | 2026-06-28 10:19:01 EDT |
-| bob-cli | [`78d08ce`](https://github.com/bobs-org/bob-cli/commit/78d08ce24bcc1a023ced0c0e905a5197b6b67040) | chore: Mark SDD plan done | 2026-06-28 10:40:38 EDT |
+| bob-cli | [`b7d84ae`](https://github.com/bobs-org/bob-cli/commit/b7d84ae3cdc0a732bac90ad55c1074e59fc6e901) | chore: Add SDD prompt and plan for obsidian\_dependency\_navigation\_subbullet | 2026-06-28 14:19:01 UTC |
+| bob-cli | [`78d08ce`](https://github.com/bobs-org/bob-cli/commit/78d08ce24bcc1a023ced0c0e905a5197b6b67040) | chore: Mark SDD plan done | 2026-06-28 14:40:38 UTC |
 
 ## Neighbors
 

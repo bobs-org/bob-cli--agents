@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`678685b`](https://github.com/bobs-org/bob-cli/commit/678685bdec6f9989c9e7632b07d8c69501ce4c81) | chore: Add SDD prompt and plan for done\_tasks\_frontmatter | 2026-06-02 08:52:26 EDT |
-| bob-cli | [`6fadf2f`](https://github.com/bobs-org/bob-cli/commit/6fadf2fcc5a4cf057a3b898948c8cef77b09c3d7) | feat: backfill done task archive links | 2026-06-02 08:59:52 EDT |
+| bob-cli | [`678685b`](https://github.com/bobs-org/bob-cli/commit/678685bdec6f9989c9e7632b07d8c69501ce4c81) | chore: Add SDD prompt and plan for done\_tasks\_frontmatter | 2026-06-02 12:52:26 UTC |
+| bob-cli | [`6fadf2f`](https://github.com/bobs-org/bob-cli/commit/6fadf2fcc5a4cf057a3b898948c8cef77b09c3d7) | feat: backfill done task archive links | 2026-06-02 12:59:52 UTC |
 
 ## Neighbors
 

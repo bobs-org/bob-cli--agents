@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8af3ee9`](https://github.com/bobs-org/bob-cli/commit/8af3ee93d56419aab05a3dae01d4108d3d41bb5b) | chore: Add SDD prompt and plan for highlights\_scan\_output | 2026-06-15 08:39:29 EDT |
-| bob-cli | [`f87e264`](https://github.com/bobs-org/bob-cli/commit/f87e2640e41e299164e62f08bdba0ad05a17f882) | feat(highlights)!: make scan output concise by default | 2026-06-15 08:55:10 EDT |
+| bob-cli | [`8af3ee9`](https://github.com/bobs-org/bob-cli/commit/8af3ee93d56419aab05a3dae01d4108d3d41bb5b) | chore: Add SDD prompt and plan for highlights\_scan\_output | 2026-06-15 12:39:29 UTC |
+| bob-cli | [`f87e264`](https://github.com/bobs-org/bob-cli/commit/f87e2640e41e299164e62f08bdba0ad05a17f882) | feat(highlights)!: make scan output concise by default | 2026-06-15 12:55:10 UTC |
 
 ## Neighbors
 

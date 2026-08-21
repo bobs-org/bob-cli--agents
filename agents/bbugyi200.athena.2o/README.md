@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9a97e69`](https://github.com/bobs-org/bob-cli/commit/9a97e69ca0fe8713869143a78581b899090a75ab) | chore: Add SDD prompt and plan for obsidian\_legacy\_links | 2026-06-05 13:50:41 EDT |
-| bob-cli | [`5f9a925`](https://github.com/bobs-org/bob-cli/commit/5f9a9259dd076e8860b196c8fab2ef66925d2508) | chore: add Obsidian legacy link migration tool | 2026-06-05 13:59:23 EDT |
+| bob-cli | [`9a97e69`](https://github.com/bobs-org/bob-cli/commit/9a97e69ca0fe8713869143a78581b899090a75ab) | chore: Add SDD prompt and plan for obsidian\_legacy\_links | 2026-06-05 17:50:41 UTC |
+| bob-cli | [`5f9a925`](https://github.com/bobs-org/bob-cli/commit/5f9a9259dd076e8860b196c8fab2ef66925d2508) | chore: add Obsidian legacy link migration tool | 2026-06-05 17:59:23 UTC |

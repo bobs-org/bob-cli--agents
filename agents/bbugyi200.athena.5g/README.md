@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`521a338`](https://github.com/bobs-org/bob-cli/commit/521a33822c349e1e8d8fe14141ca70cb7ea132f2) | chore: Add SDD prompt and plan for pomodoro\_ctrl\_enter\_close\_and\_create | 2026-06-11 12:38:23 EDT |
+| bob-cli | [`521a338`](https://github.com/bobs-org/bob-cli/commit/521a33822c349e1e8d8fe14141ca70cb7ea132f2) | chore: Add SDD prompt and plan for pomodoro\_ctrl\_enter\_close\_and\_create | 2026-06-11 16:38:23 UTC |
 
 ## Neighbors
 

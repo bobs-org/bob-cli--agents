@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`34edc25`](https://github.com/bobs-org/bob-cli/commit/34edc25ca5eb8b6b9ed2ba825e76a3d7e364fdb8) | docs: document capture picker terminal markers | 2026-08-01 07:28:36 EDT |
+| code | bob-cli | [`34edc25`](https://github.com/bobs-org/bob-cli/commit/34edc25ca5eb8b6b9ed2ba825e76a3d7e364fdb8) | docs: document capture picker terminal markers | 2026-08-01 11:28:36 UTC |

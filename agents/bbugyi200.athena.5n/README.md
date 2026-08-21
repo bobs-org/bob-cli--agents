@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`45d9f90`](https://github.com/bobs-org/bob-cli/commit/45d9f908285ec6d872d2894db7a5392bfd829f4d) | chore: Add SDD prompt and plan for obsidian\_alt\_file\_property\_keymap | 2026-06-12 08:15:24 EDT |
+| bob-cli | [`45d9f90`](https://github.com/bobs-org/bob-cli/commit/45d9f908285ec6d872d2894db7a5392bfd829f4d) | chore: Add SDD prompt and plan for obsidian\_alt\_file\_property\_keymap | 2026-06-12 12:15:24 UTC |
 
 ## Neighbors
 

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f171a7e`](https://github.com/bobs-org/bob-cli/commit/f171a7e02b12b6ac6aefcf078d1669798bb0e6a1) | feat(capture): add bare \`#\` Pomodoro-note marker | 2026-08-18 07:05:48 EDT |
+| bob-cli | [`f171a7e`](https://github.com/bobs-org/bob-cli/commit/f171a7e02b12b6ac6aefcf078d1669798bb0e6a1) | feat(capture): add bare \`#\` Pomodoro-note marker | 2026-08-18 11:05:48 UTC |

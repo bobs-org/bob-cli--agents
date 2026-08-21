@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1ca1109`](https://github.com/bobs-org/bob-cli/commit/1ca11094811c5bcd04feeacec54e99b3503610d6) | feat: rehome completed Pomodoro task links | 2026-07-10 18:31:55 EDT |
+| bob-cli | [`1ca1109`](https://github.com/bobs-org/bob-cli/commit/1ca11094811c5bcd04feeacec54e99b3503610d6) | feat: rehome completed Pomodoro task links | 2026-07-10 22:31:55 UTC |

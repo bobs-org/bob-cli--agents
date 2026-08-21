@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0dab046`](https://github.com/bobs-org/bob-cli/commit/0dab0460bf15c241d15cb08dfded31dd4adcd153) | chore: consolidate Obsidian research notes | 2026-06-04 14:43:28 EDT |
+| bob-cli | [`0dab046`](https://github.com/bobs-org/bob-cli/commit/0dab0460bf15c241d15cb08dfded31dd4adcd153) | chore: consolidate Obsidian research notes | 2026-06-04 18:43:28 UTC |
 
 ## Neighbors
 

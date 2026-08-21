@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`01325ca`](https://github.com/bobs-org/bob-cli/commit/01325ca73adda95b277cea530efb62b67934a365) | docs(projects): document ALL-CAPS section-bullet conversion | 2026-08-12 14:50:50 EDT |
+| bob-cli | [`01325ca`](https://github.com/bobs-org/bob-cli/commit/01325ca73adda95b277cea530efb62b67934a365) | docs(projects): document ALL-CAPS section-bullet conversion | 2026-08-12 18:50:50 UTC |

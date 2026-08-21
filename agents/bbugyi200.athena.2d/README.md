@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`170ebb0`](https://github.com/bobs-org/bob-cli/commit/170ebb0d83affdaf0a99f696122dc253e1fcf1ea) | chore: Add SDD prompt and plan for rename\_cronjob\_to\_nightly | 2026-06-04 14:44:26 EDT |
-| bob-cli | [`20e9ecd`](https://github.com/bobs-org/bob-cli/commit/20e9ecd7e5702c2b389fb7904e175794f8a0ce1b) | feat: rename cronjob command to nightly | 2026-06-04 14:50:52 EDT |
+| bob-cli | [`170ebb0`](https://github.com/bobs-org/bob-cli/commit/170ebb0d83affdaf0a99f696122dc253e1fcf1ea) | chore: Add SDD prompt and plan for rename\_cronjob\_to\_nightly | 2026-06-04 18:44:26 UTC |
+| bob-cli | [`20e9ecd`](https://github.com/bobs-org/bob-cli/commit/20e9ecd7e5702c2b389fb7904e175794f8a0ce1b) | feat: rename cronjob command to nightly | 2026-06-04 18:50:52 UTC |

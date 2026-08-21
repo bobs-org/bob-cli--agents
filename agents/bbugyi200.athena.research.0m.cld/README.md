@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ebb6d88`](https://github.com/bobs-org/bob-cli/commit/ebb6d889c556f9f06605fb0845972406e2a62d7e) | docs: Add research on Obsidian bullet/task search | 2026-06-26 08:03:14 EDT |
+| bob-cli | [`ebb6d88`](https://github.com/bobs-org/bob-cli/commit/ebb6d889c556f9f06605fb0845972406e2a62d7e) | docs: Add research on Obsidian bullet/task search | 2026-06-26 12:03:14 UTC |
 
 ## Neighbors
 

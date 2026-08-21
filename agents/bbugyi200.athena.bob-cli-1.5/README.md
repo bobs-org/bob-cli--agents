@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`47f2bd1`](https://github.com/bobs-org/bob-cli/commit/47f2bd1ea0e4df68c8de510e2e2e08ae15b134b8) | chore: document bob-cli release workflow (bob-cli-1.5) | 2026-06-01 10:52:32 EDT |
+| bob-cli | [`47f2bd1`](https://github.com/bobs-org/bob-cli/commit/47f2bd1ea0e4df68c8de510e2e2e08ae15b134b8) | chore: document bob-cli release workflow (bob-cli-1.5) | 2026-06-01 14:52:32 UTC |
 
 ## Neighbors
 

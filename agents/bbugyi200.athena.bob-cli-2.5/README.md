@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bc5d312`](https://github.com/bobs-org/bob-cli/commit/bc5d312a1ef318a0336c5ef40873ee809849b014) | chore: document collect-done verification (bob-cli-2.5) | 2026-06-02 08:42:23 EDT |
+| bob-cli | [`bc5d312`](https://github.com/bobs-org/bob-cli/commit/bc5d312a1ef318a0336c5ef40873ee809849b014) | chore: document collect-done verification (bob-cli-2.5) | 2026-06-02 12:42:23 UTC |
 
 ## Neighbors
 

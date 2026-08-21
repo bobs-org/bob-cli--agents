@@ -22,4 +22,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d7b97f6`](https://github.com/bobs-org/bob-cli/commit/d7b97f62d083cd126c0dbb5d819ea0eebe435e0a) | test: write executable stubs without leaking a writable descriptor | 2026-08-17 14:48:53 EDT |
+| bob-cli | [`d7b97f6`](https://github.com/bobs-org/bob-cli/commit/d7b97f62d083cd126c0dbb5d819ea0eebe435e0a) | test: write executable stubs without leaking a writable descriptor | 2026-08-17 18:48:53 UTC |

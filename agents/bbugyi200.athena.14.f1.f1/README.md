@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7caa0fb`](https://github.com/bobs-org/bob-cli/commit/7caa0fb0a0e8dfd11d318951fe64f7ab18fb00db) | chore: Add SDD prompt and plan for non\_recursive\_non\_transcluded\_pomodoro\_links | 2026-07-07 18:19:23 EDT |
+| bob-cli | [`7caa0fb`](https://github.com/bobs-org/bob-cli/commit/7caa0fb0a0e8dfd11d318951fe64f7ab18fb00db) | chore: Add SDD prompt and plan for non\_recursive\_non\_transcluded\_pomodoro\_links | 2026-07-07 22:19:23 UTC |
 
 ## Neighbors
 

@@ -17,6 +17,6 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`27f981a`](https://github.com/bobs-org/bob-cli/commit/27f981ab1779f13b03f20e9b0a5c7b354fa5df13) | chore: Add SDD prompt and plan for obsidian\_projects | 2026-06-11 16:58:10 EDT |
-| bob-cli | [`d98a32e`](https://github.com/bobs-org/bob-cli/commit/d98a32e709ba690a489953f7b7d58be6bbccc819) | chore: create obsidian projects epic beads | 2026-06-11 17:00:39 EDT |
-| bob-cli | [`413093b`](https://github.com/bobs-org/bob-cli/commit/413093b700a1345b7f5b5cf20c04d606bd031f7d) | chore: sync bead database after epic kickoff | 2026-06-11 17:02:20 EDT |
+| bob-cli | [`27f981a`](https://github.com/bobs-org/bob-cli/commit/27f981ab1779f13b03f20e9b0a5c7b354fa5df13) | chore: Add SDD prompt and plan for obsidian\_projects | 2026-06-11 20:58:10 UTC |
+| bob-cli | [`d98a32e`](https://github.com/bobs-org/bob-cli/commit/d98a32e709ba690a489953f7b7d58be6bbccc819) | chore: create obsidian projects epic beads | 2026-06-11 21:00:39 UTC |
+| bob-cli | [`413093b`](https://github.com/bobs-org/bob-cli/commit/413093b700a1345b7f5b5cf20c04d606bd031f7d) | chore: sync bead database after epic kickoff | 2026-06-11 21:02:20 UTC |

@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`25224d4`](https://github.com/bobs-org/bob-cli/commit/25224d454e74398dcc8f2c27f6e030cdcca69923) | chore: Add SDD prompt and plan for bob\_capture\_command | 2026-06-15 16:20:57 EDT |
-| bob-cli | [`c4c0dfd`](https://github.com/bobs-org/bob-cli/commit/c4c0dfd8ad5f27785293894869623cdc13c37c75) | feat: add native capture command | 2026-06-15 16:35:07 EDT |
+| bob-cli | [`25224d4`](https://github.com/bobs-org/bob-cli/commit/25224d454e74398dcc8f2c27f6e030cdcca69923) | chore: Add SDD prompt and plan for bob\_capture\_command | 2026-06-15 20:20:57 UTC |
+| bob-cli | [`c4c0dfd`](https://github.com/bobs-org/bob-cli/commit/c4c0dfd8ad5f27785293894869623cdc13c37c75) | feat: add native capture command | 2026-06-15 20:35:07 UTC |
 
 ## Neighbors
 

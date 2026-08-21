@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8b04200`](https://github.com/bobs-org/bob-cli/commit/8b0420004ca5ac0a57617c1d131ac04777c5c511) | feat(capture): add capture-parse command and shared capture grammar module | 2026-08-13 21:17:22 EDT |
+| bob-cli | [`8b04200`](https://github.com/bobs-org/bob-cli/commit/8b0420004ca5ac0a57617c1d131ac04777c5c511) | feat(capture): add capture-parse command and shared capture grammar module | 2026-08-14 01:17:22 UTC |
 
 ## Neighbors
 

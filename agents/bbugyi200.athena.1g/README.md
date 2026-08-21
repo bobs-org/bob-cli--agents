@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7cb0078`](https://github.com/bobs-org/bob-cli/commit/7cb0078d169c2a16375edac5488814261b6fe500) | chore: Add SDD prompt and plan for highlights\_sidecar\_style\_1 | 2026-06-03 07:29:37 EDT |
-| bob-cli | [`89a9aba`](https://github.com/bobs-org/bob-cli/commit/89a9aba74664a8b000a906877bb58f047735e2b2) | feat: support linked highlights sidecars | 2026-06-03 07:38:09 EDT |
+| bob-cli | [`7cb0078`](https://github.com/bobs-org/bob-cli/commit/7cb0078d169c2a16375edac5488814261b6fe500) | chore: Add SDD prompt and plan for highlights\_sidecar\_style\_1 | 2026-06-03 11:29:37 UTC |
+| bob-cli | [`89a9aba`](https://github.com/bobs-org/bob-cli/commit/89a9aba74664a8b000a906877bb58f047735e2b2) | feat: support linked highlights sidecars | 2026-06-03 11:38:09 UTC |

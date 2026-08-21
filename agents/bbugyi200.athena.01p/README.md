@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3cae856`](https://github.com/bobs-org/bob-cli/commit/3cae8567174ab07e80da707c1a6250c06fac6b60) | chore: Add SDD prompt and plan for split\_wiki\_link\_markers | 2026-06-19 21:15:18 EDT |
-| bob-cli | [`cb898e4`](https://github.com/bobs-org/bob-cli/commit/cb898e4f6ae793bd0dc62331d24d7f5d526b89fb) | chore: Mark SDD plan done | 2026-06-19 21:55:22 EDT |
+| bob-cli | [`3cae856`](https://github.com/bobs-org/bob-cli/commit/3cae8567174ab07e80da707c1a6250c06fac6b60) | chore: Add SDD prompt and plan for split\_wiki\_link\_markers | 2026-06-20 01:15:18 UTC |
+| bob-cli | [`cb898e4`](https://github.com/bobs-org/bob-cli/commit/cb898e4f6ae793bd0dc62331d24d7f5d526b89fb) | chore: Mark SDD plan done | 2026-06-20 01:55:22 UTC |
 
 ## Neighbors
 

@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8e20194`](https://github.com/bobs-org/bob-cli/commit/8e201949a5df5b948105abfbbd9cb4288202e802) | chore: Add SDD prompt and plan for highlights\_cancelled\_task\_abandoned | 2026-06-06 09:21:14 EDT |
-| bob-cli | [`9050697`](https://github.com/bobs-org/bob-cli/commit/9050697eb34d08f461c539050d368fb7f321bb40) | feat: map cancelled PDF tasks to abandoned status | 2026-06-06 09:30:24 EDT |
+| bob-cli | [`8e20194`](https://github.com/bobs-org/bob-cli/commit/8e201949a5df5b948105abfbbd9cb4288202e802) | chore: Add SDD prompt and plan for highlights\_cancelled\_task\_abandoned | 2026-06-06 13:21:14 UTC |
+| bob-cli | [`9050697`](https://github.com/bobs-org/bob-cli/commit/9050697eb34d08f461c539050d368fb7f321bb40) | feat: map cancelled PDF tasks to abandoned status | 2026-06-06 13:30:24 UTC |

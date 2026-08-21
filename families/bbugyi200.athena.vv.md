@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`9ddf93c`](https://github.com/bobs-org/bob-cli/commit/9ddf93c26f071b03007e36eff792a0506ef11a1a) | feat(capture): log exact priority roll offsets | 2026-08-08 13:26:50 EDT |
+| code | bob-cli | [`9ddf93c`](https://github.com/bobs-org/bob-cli/commit/9ddf93c26f071b03007e36eff792a0506ef11a1a) | feat(capture): log exact priority roll offsets | 2026-08-08 17:26:50 UTC |

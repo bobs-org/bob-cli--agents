@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4129a4d`](https://github.com/bobs-org/bob-cli/commit/4129a4d12f4a5a447fa4a2d7e4a3700bbab113c5) | chore: Add SDD prompt and plan for obsidian\_backslash\_daily\_fallback | 2026-06-03 22:52:58 EDT |
+| bob-cli | [`4129a4d`](https://github.com/bobs-org/bob-cli/commit/4129a4d12f4a5a447fa4a2d7e4a3700bbab113c5) | chore: Add SDD prompt and plan for obsidian\_backslash\_daily\_fallback | 2026-06-04 02:52:58 UTC |
 
 ## Neighbors
 

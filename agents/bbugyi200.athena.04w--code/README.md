@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`85351cc`](https://github.com/bobs-org/bob-cli/commit/85351cce291e040ad8e918cab09f39b997e929ad) | docs: note option-bracket Blocked-cycle retirement in task-status-hooks | 2026-08-17 11:41:19 EDT |
+| bob-cli | [`85351cc`](https://github.com/bobs-org/bob-cli/commit/85351cce291e040ad8e918cab09f39b997e929ad) | docs: note option-bracket Blocked-cycle retirement in task-status-hooks | 2026-08-17 15:41:19 UTC |

@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`f4a60e7`](https://github.com/bobs-org/bob-cli/commit/f4a60e7ec65e993bb2ece4d0e63f055b7d25d2fe) | feat(capture): support canonical Pomodoro colon markers | 2026-07-10 16:46:00 EDT |
+| code | bob-cli | [`f4a60e7`](https://github.com/bobs-org/bob-cli/commit/f4a60e7ec65e993bb2ece4d0e63f055b7d25d2fe) | feat(capture): support canonical Pomodoro colon markers | 2026-07-10 20:46:00 UTC |
 
 ## Neighbors
 

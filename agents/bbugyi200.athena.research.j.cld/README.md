@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`24c52c5`](https://github.com/bobs-org/bob-cli/commit/24c52c595a3cade0f84fce8fa43b2e15172fb38d) | docs(research): analyze Hammerspoon to QuickAdd task capture migration | 2026-06-15 15:49:15 EDT |
+| bob-cli | [`24c52c5`](https://github.com/bobs-org/bob-cli/commit/24c52c595a3cade0f84fce8fa43b2e15172fb38d) | docs(research): analyze Hammerspoon to QuickAdd task capture migration | 2026-06-15 19:49:15 UTC |
 
 ## Neighbors
 

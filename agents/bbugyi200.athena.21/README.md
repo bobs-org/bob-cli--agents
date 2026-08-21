@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`59eca4d`](https://github.com/bobs-org/bob-cli/commit/59eca4d5c863481971480471657c39b7ad954e52) | chore: Add SDD prompt and plan for replace\_blocked\_with\_next\_task\_status | 2026-07-08 12:48:29 EDT |
+| bob-cli | [`59eca4d`](https://github.com/bobs-org/bob-cli/commit/59eca4d5c863481971480471657c39b7ad954e52) | chore: Add SDD prompt and plan for replace\_blocked\_with\_next\_task\_status | 2026-07-08 16:48:29 UTC |
 
 ## Neighbors
 

@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`94e800b`](https://github.com/bobs-org/bob-cli/commit/94e800bca402c902aef65fae839518320b407c2e) | chore(sase): migrate repository configuration | 2026-07-14 12:42:43 EDT |
+| bob-cli | [`94e800b`](https://github.com/bobs-org/bob-cli/commit/94e800bca402c902aef65fae839518320b407c2e) | chore(sase): migrate repository configuration | 2026-07-14 16:42:43 UTC |

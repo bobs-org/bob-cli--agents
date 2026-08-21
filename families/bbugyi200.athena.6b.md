@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`5db0e6a`](https://github.com/bobs-org/bob-cli/commit/5db0e6a0bfe4880d957d3c4b6a581a32e358b499) | fix: address review findings across native workflows | 2026-07-11 19:09:56 EDT |
+| code | bob-cli | [`5db0e6a`](https://github.com/bobs-org/bob-cli/commit/5db0e6a0bfe4880d957d3c4b6a581a32e358b499) | fix: address review findings across native workflows | 2026-07-11 23:09:56 UTC |

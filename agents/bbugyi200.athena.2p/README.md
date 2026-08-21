@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`40d714b`](https://github.com/bobs-org/bob-cli/commit/40d714bfa49fe8545c0be79a46b58da42ea7b52e) | chore: Add SDD prompt and plan for obsidian\_vimrc\_keymaps | 2026-06-05 13:59:26 EDT |
-| bob-cli | [`ea841fa`](https://github.com/bobs-org/bob-cli/commit/ea841faafe8f121541182faa5886d901db4a15ba) | chore: mark Obsidian vimrc keymap plan done | 2026-06-05 14:07:23 EDT |
+| bob-cli | [`40d714b`](https://github.com/bobs-org/bob-cli/commit/40d714bfa49fe8545c0be79a46b58da42ea7b52e) | chore: Add SDD prompt and plan for obsidian\_vimrc\_keymaps | 2026-06-05 17:59:26 UTC |
+| bob-cli | [`ea841fa`](https://github.com/bobs-org/bob-cli/commit/ea841faafe8f121541182faa5886d901db4a15ba) | chore: mark Obsidian vimrc keymap plan done | 2026-06-05 18:07:23 UTC |

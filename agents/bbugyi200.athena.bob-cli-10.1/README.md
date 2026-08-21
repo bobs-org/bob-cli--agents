@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d138e5a`](https://github.com/bobs-org/bob-cli/commit/d138e5a83965a3a676b5ee392a1162bcfae3a775) | feat(capture): add shared task-section scanner module | 2026-08-19 16:25:37 EDT |
+| bob-cli | [`d138e5a`](https://github.com/bobs-org/bob-cli/commit/d138e5a83965a3a676b5ee392a1162bcfae3a775) | feat(capture): add shared task-section scanner module | 2026-08-19 20:25:37 UTC |
 
 ## Neighbors
 

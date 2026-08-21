@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4a85cfa`](https://github.com/bobs-org/bob-cli/commit/4a85cfab821f45ad741b7a979cf51e16e2086f12) | chore: Add SDD prompt and plan for auto\_block\_link\_completion | 2026-06-19 08:44:22 EDT |
-| bob-cli | [`c74082e`](https://github.com/bobs-org/bob-cli/commit/c74082e48876b4e2d83814781f562579a11181d1) | chore: Mark SDD plan done | 2026-06-19 08:48:40 EDT |
+| bob-cli | [`4a85cfa`](https://github.com/bobs-org/bob-cli/commit/4a85cfab821f45ad741b7a979cf51e16e2086f12) | chore: Add SDD prompt and plan for auto\_block\_link\_completion | 2026-06-19 12:44:22 UTC |
+| bob-cli | [`c74082e`](https://github.com/bobs-org/bob-cli/commit/c74082e48876b4e2d83814781f562579a11181d1) | chore: Mark SDD plan done | 2026-06-19 12:48:40 UTC |

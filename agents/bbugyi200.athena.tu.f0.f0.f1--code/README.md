@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8f8ab02`](https://github.com/bobs-org/bob-cli/commit/8f8ab02eb353b2b52102038fe51b0f49d0e6c26e) | docs(projects): document the schedule-log skipped-reason fallback | 2026-08-06 09:52:57 EDT |
+| bob-cli | [`8f8ab02`](https://github.com/bobs-org/bob-cli/commit/8f8ab02eb353b2b52102038fe51b0f49d0e6c26e) | docs(projects): document the schedule-log skipped-reason fallback | 2026-08-06 13:52:57 UTC |
 
 ## Neighbors
 

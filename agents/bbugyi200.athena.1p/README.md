@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e64206a`](https://github.com/bobs-org/bob-cli/commit/e64206ae98c67206611703974d5bff89908644c8) | chore: Add SDD prompt and plan for hammerspoon\_task\_capture | 2026-06-03 11:33:27 EDT |
+| bob-cli | [`e64206a`](https://github.com/bobs-org/bob-cli/commit/e64206ae98c67206611703974d5bff89908644c8) | chore: Add SDD prompt and plan for hammerspoon\_task\_capture | 2026-06-03 15:33:27 UTC |
