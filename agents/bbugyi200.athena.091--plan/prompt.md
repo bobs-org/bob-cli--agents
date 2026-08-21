@@ -1,0 +1,3 @@
+#gh:gh_bobs-org__bob-cli When the user copies a bullet list that they want to paste into the bob-mac-capture panel, they type the title of the task/note, then use the `<ctrl+j>` keymap to insert a newline and a `- `. They then paste the bullet list. The problem is that the first `- ` from the pasted in bullet list creates a duplicate (i.e. `- - `). Can you help me fix this by removing this extra dash automatically when the user pastes in content to a line containing only a bullet? Make sure that you correct indentation appropriately as well.
+
+#plan
