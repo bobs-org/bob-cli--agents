@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c17a11ae600d3df2e47caac792106729"}
+{"commits":[{"committed_at":1787576129,"sha":"3c4055de762e4fc14b2c4679d4e5b325c8347cf1","subject":"refactor(capture): drop the draft envelope's dead item wrappers"}],"schema_version":2,"source_run_id":"run-c17a11ae600d3df2e47caac792106729"}
