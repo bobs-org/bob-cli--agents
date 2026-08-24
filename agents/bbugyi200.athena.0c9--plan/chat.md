@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0c9--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-0c9__plan-260824_071947.md`
+- 2. --code — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-0c9__code-260824_071947.md`
+
 **Plan:** /home/bryan/.sase/plans/202608/block_id_prompt_first_responder.md
 
 
