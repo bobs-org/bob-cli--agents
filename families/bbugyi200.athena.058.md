@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | bob-cli | [`7d7b097`](https://github.com/bobs-org/bob-cli/commit/7d7b0978ae9187df767cfd9b60edaa411cae0821) | chore: Add SDD prompt and plan for block\_link\_task\_picker | 2026-06-24 11:53:16 UTC |
-| — | bob-cli | [`70fb447`](https://github.com/bobs-org/bob-cli/commit/70fb447b94353f9e1dc623e4b4d380b66eb808b2) | chore: Mark SDD plan done | 2026-06-24 12:58:41 UTC |
+| — | bob-cli | [`7d7b097`](https://github.com/bobs-org/bob-cli/commit/7d7b0978ae9187df767cfd9b60edaa411cae0821) | chore: Add SDD prompt and plan for block\_link\_task\_picker | 2026-06-24 07:53:16 EDT |
+| — | bob-cli | [`70fb447`](https://github.com/bobs-org/bob-cli/commit/70fb447b94353f9e1dc623e4b4d380b66eb808b2) | chore: Mark SDD plan done | 2026-06-24 08:58:41 EDT |
 
 ## Neighbors
 

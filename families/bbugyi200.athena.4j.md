@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`f401add`](https://github.com/bobs-org/bob-cli/commit/f401add384dd0b0fa2f0e972b3c7aa1e4cfcf220) | feat(cli)!: rename dataview command to query | 2026-07-10 17:06:13 UTC |
+| code | bob-cli | [`f401add`](https://github.com/bobs-org/bob-cli/commit/f401add384dd0b0fa2f0e972b3c7aa1e4cfcf220) | feat(cli)!: rename dataview command to query | 2026-07-10 13:06:13 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4d13ed8`](https://github.com/bobs-org/bob-cli/commit/4d13ed89bf6857e6284fe0b8f18faf7038c31af5) | chore: research enforcing accepted values for Obsidian properties | 2026-06-09 12:36:47 UTC |
+| bob-cli | [`4d13ed8`](https://github.com/bobs-org/bob-cli/commit/4d13ed89bf6857e6284fe0b8f18faf7038c31af5) | chore: research enforcing accepted values for Obsidian properties | 2026-06-09 08:36:47 EDT |
 
 ## Neighbors
 

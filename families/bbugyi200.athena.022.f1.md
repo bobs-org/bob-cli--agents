@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | bob-cli | [`2bdf4f7`](https://github.com/bobs-org/bob-cli/commit/2bdf4f7078ec4caa1efb2d966e9b805a97ef492c) | feat(capture)!: use + for sub-bullets and ^ for authored IDs | 2026-08-15 13:03:08 UTC |
+| — | bob-cli | [`2bdf4f7`](https://github.com/bobs-org/bob-cli/commit/2bdf4f7078ec4caa1efb2d966e9b805a97ef492c) | feat(capture)!: use + for sub-bullets and ^ for authored IDs | 2026-08-15 09:03:08 EDT |
 
 ## Neighbors
 

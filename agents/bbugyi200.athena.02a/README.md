@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a20bf38`](https://github.com/bobs-org/bob-cli/commit/a20bf38a1e0dab746dec748c0bdba82d146ee1be) | chore: Add SDD prompt and plan for vim\_surround\_fixes | 2026-06-20 17:02:55 UTC |
+| bob-cli | [`a20bf38`](https://github.com/bobs-org/bob-cli/commit/a20bf38a1e0dab746dec748c0bdba82d146ee1be) | chore: Add SDD prompt and plan for vim\_surround\_fixes | 2026-06-20 13:02:55 EDT |

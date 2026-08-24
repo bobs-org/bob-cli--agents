@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9a1e597`](https://github.com/bobs-org/bob-cli/commit/9a1e59713f0833079c977c22af9d012e0e77fdd2) | chore: Add SDD prompt and plan for highlights\_ref\_partial\_scan | 2026-06-04 14:27:52 UTC |
-| bob-cli | [`b3384ee`](https://github.com/bobs-org/bob-cli/commit/b3384eeb906768265142d15b19b257002e59cf12) | feat: continue highlights scan after per-PDF failures | 2026-06-04 14:38:16 UTC |
+| bob-cli | [`9a1e597`](https://github.com/bobs-org/bob-cli/commit/9a1e59713f0833079c977c22af9d012e0e77fdd2) | chore: Add SDD prompt and plan for highlights\_ref\_partial\_scan | 2026-06-04 10:27:52 EDT |
+| bob-cli | [`b3384ee`](https://github.com/bobs-org/bob-cli/commit/b3384eeb906768265142d15b19b257002e59cf12) | feat: continue highlights scan after per-PDF failures | 2026-06-04 10:38:16 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d1a8677`](https://github.com/bobs-org/bob-cli/commit/d1a86778b74e643c25fe3943a03aea79c44d6e7b) | chore: Add SDD prompt and plan for highlights\_pdf\_task\_creation | 2026-06-07 14:32:54 UTC |
+| bob-cli | [`d1a8677`](https://github.com/bobs-org/bob-cli/commit/d1a86778b74e643c25fe3943a03aea79c44d6e7b) | chore: Add SDD prompt and plan for highlights\_pdf\_task\_creation | 2026-06-07 10:32:54 EDT |
 
 ## Neighbors
 

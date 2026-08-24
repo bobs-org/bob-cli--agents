@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a55dc2b`](https://github.com/bobs-org/bob-cli/commit/a55dc2bfa3cc0a289bac44a638906629aafbddf3) | chore: Add SDD prompt and plan for highlights\_ref\_task\_done\_status | 2026-06-04 02:54:00 UTC |
-| bob-cli | [`ca686fa`](https://github.com/bobs-org/bob-cli/commit/ca686fad8a885a3d1eeab617f1122eaad51252bd) | feat: sync generated PDF task completion | 2026-06-04 03:07:44 UTC |
+| bob-cli | [`a55dc2b`](https://github.com/bobs-org/bob-cli/commit/a55dc2bfa3cc0a289bac44a638906629aafbddf3) | chore: Add SDD prompt and plan for highlights\_ref\_task\_done\_status | 2026-06-03 22:54:00 EDT |
+| bob-cli | [`ca686fa`](https://github.com/bobs-org/bob-cli/commit/ca686fad8a885a3d1eeab617f1122eaad51252bd) | feat: sync generated PDF task completion | 2026-06-03 23:07:44 EDT |
 
 ## Neighbors
 

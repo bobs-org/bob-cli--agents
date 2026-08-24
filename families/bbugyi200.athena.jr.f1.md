@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`456f9d2`](https://github.com/bobs-org/bob-cli/commit/456f9d2d479f7f6172310a78e5227b7319b881bb) | fix(task-status-hooks): recover due scheduled tasks | 2026-07-24 23:45:23 UTC |
+| code | bob-cli | [`456f9d2`](https://github.com/bobs-org/bob-cli/commit/456f9d2d479f7f6172310a78e5227b7319b881bb) | fix(task-status-hooks): recover due scheduled tasks | 2026-07-24 19:45:23 EDT |
 
 ## Neighbors
 

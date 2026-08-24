@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0e67766`](https://github.com/bobs-org/bob-cli/commit/0e677668a2082c3f099b8ce2bd2286f67f7dfea5) | feat: repair task dependency identities on archive moves | 2026-07-11 21:14:04 UTC |
+| bob-cli | [`0e67766`](https://github.com/bobs-org/bob-cli/commit/0e677668a2082c3f099b8ce2bd2286f67f7dfea5) | feat: repair task dependency identities on archive moves | 2026-07-11 17:14:04 EDT |
 
 ## Neighbors
 

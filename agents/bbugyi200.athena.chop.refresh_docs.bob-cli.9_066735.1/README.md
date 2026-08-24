@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b64f393`](https://github.com/bobs-org/bob-cli/commit/b64f393d0262977a8513b25a6c6bf7d4ab5c7118) | docs: refresh user-facing docs to match current bob CLI | 2026-08-20 02:29:43 UTC |
+| bob-cli | [`b64f393`](https://github.com/bobs-org/bob-cli/commit/b64f393d0262977a8513b25a6c6bf7d4ab5c7118) | docs: refresh user-facing docs to match current bob CLI | 2026-08-19 22:29:43 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`62016de`](https://github.com/bobs-org/bob-cli/commit/62016dedccf8ec82a74dcd1923b38dae578855bd) | docs: consolidate Obsidian bullet search research | 2026-06-26 12:17:26 UTC |
+| bob-cli | [`62016de`](https://github.com/bobs-org/bob-cli/commit/62016dedccf8ec82a74dcd1923b38dae578855bd) | docs: consolidate Obsidian bullet search research | 2026-06-26 08:17:26 EDT |
 
 ## Neighbors
 

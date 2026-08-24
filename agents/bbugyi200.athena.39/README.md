@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`50419f5`](https://github.com/bobs-org/bob-cli/commit/50419f59ea86cca3b4591e73d20d7bf1cea218dc) | chore: Add SDD prompt and plan for single\_child\_note\_jump | 2026-06-06 17:19:05 UTC |
+| bob-cli | [`50419f5`](https://github.com/bobs-org/bob-cli/commit/50419f59ea86cca3b4591e73d20d7bf1cea218dc) | chore: Add SDD prompt and plan for single\_child\_note\_jump | 2026-06-06 13:19:05 EDT |

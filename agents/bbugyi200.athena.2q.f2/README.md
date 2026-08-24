@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b10216d`](https://github.com/bobs-org/bob-cli/commit/b10216d764364bd1cebca0d0b2f5301dfa5a7472) | chore: Add SDD prompt and plan for enter\_current\_line | 2026-06-05 20:25:37 UTC |
+| bob-cli | [`b10216d`](https://github.com/bobs-org/bob-cli/commit/b10216d764364bd1cebca0d0b2f5301dfa5a7472) | chore: Add SDD prompt and plan for enter\_current\_line | 2026-06-05 16:25:37 EDT |
 
 ## Neighbors
 

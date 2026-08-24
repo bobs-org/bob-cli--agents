@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ca11be1`](https://github.com/bobs-org/bob-cli/commit/ca11be13498d7e34ec8110bb4ffd82a409f529ab) | chore: Add SDD prompt and plan for update\_github\_org\_refs | 2026-06-20 16:48:56 UTC |
-| bob-cli | [`291bf31`](https://github.com/bobs-org/bob-cli/commit/291bf3181077f54d037cdbff282418cdcbed8bf3) | chore: update GitHub owner refs from bbugyi200 to bobs-org | 2026-06-20 16:55:55 UTC |
+| bob-cli | [`ca11be1`](https://github.com/bobs-org/bob-cli/commit/ca11be13498d7e34ec8110bb4ffd82a409f529ab) | chore: Add SDD prompt and plan for update\_github\_org\_refs | 2026-06-20 12:48:56 EDT |
+| bob-cli | [`291bf31`](https://github.com/bobs-org/bob-cli/commit/291bf3181077f54d037cdbff282418cdcbed8bf3) | chore: update GitHub owner refs from bbugyi200 to bobs-org | 2026-06-20 12:55:55 EDT |
 
 ## Neighbors
 

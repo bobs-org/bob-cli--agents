@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | bob-cli | [`dab8f20`](https://github.com/bobs-org/bob-cli/commit/dab8f20f95b931b0f05171e594f329a2af354586) | chore: Add SDD prompt and plan for fix\_next\_tasks\_query\_operator | 2026-07-08 17:06:51 UTC |
+| root | bob-cli | [`dab8f20`](https://github.com/bobs-org/bob-cli/commit/dab8f20f95b931b0f05171e594f329a2af354586) | chore: Add SDD prompt and plan for fix\_next\_tasks\_query\_operator | 2026-07-08 13:06:51 EDT |
 
 ## Neighbors
 

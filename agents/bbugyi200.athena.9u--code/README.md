@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9f5602d`](https://github.com/bobs-org/bob-cli/commit/9f5602d47708a541595299f47e9c8c171ef4f9e3) | fix: avoid unreachable macOS clipboard code | 2026-07-15 22:15:12 UTC |
+| bob-cli | [`9f5602d`](https://github.com/bobs-org/bob-cli/commit/9f5602d47708a541595299f47e9c8c171ef4f9e3) | fix: avoid unreachable macOS clipboard code | 2026-07-15 18:15:12 EDT |

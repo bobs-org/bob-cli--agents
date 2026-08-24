@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d6a141f`](https://github.com/bobs-org/bob-cli/commit/d6a141fd5a076e273df6ff388ffdf242717b8f8f) | chore: Add SDD prompt and plan for counted\_transclusion\_keymaps | 2026-07-07 23:39:54 UTC |
+| bob-cli | [`d6a141f`](https://github.com/bobs-org/bob-cli/commit/d6a141fd5a076e273df6ff388ffdf242717b8f8f) | chore: Add SDD prompt and plan for counted\_transclusion\_keymaps | 2026-07-07 19:39:54 EDT |
 
 ## Neighbors
 

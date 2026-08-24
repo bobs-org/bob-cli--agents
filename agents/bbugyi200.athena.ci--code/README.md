@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c4e1d5e`](https://github.com/bobs-org/bob-cli/commit/c4e1d5e48e4683c8792fd14ae1a4eed69c8d6146) | feat(capture): normalize flat clipboard lists | 2026-07-17 20:29:15 UTC |
+| bob-cli | [`c4e1d5e`](https://github.com/bobs-org/bob-cli/commit/c4e1d5e48e4683c8792fd14ae1a4eed69c8d6146) | feat(capture): normalize flat clipboard lists | 2026-07-17 16:29:15 EDT |

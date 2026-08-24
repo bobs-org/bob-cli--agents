@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`68221c1`](https://github.com/bobs-org/bob-cli/commit/68221c123639843332e56e31c8813b52e0d0bc98) | chore: document highlights ref MacBook setup (home-2.5) | 2026-06-03 07:51:09 UTC |
+| bob-cli | [`68221c1`](https://github.com/bobs-org/bob-cli/commit/68221c123639843332e56e31c8813b52e0d0bc98) | chore: document highlights ref MacBook setup (home-2.5) | 2026-06-03 03:51:09 EDT |
 
 ## Neighbors
 

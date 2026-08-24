@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6a61b6f`](https://github.com/bobs-org/bob-cli/commit/6a61b6f0d558a52cfe20786eafc1e949d836cc0e) | chore: Add SDD prompt and plan for obsidian\_child\_notes\_popup | 2026-06-03 14:09:30 UTC |
+| bob-cli | [`6a61b6f`](https://github.com/bobs-org/bob-cli/commit/6a61b6f0d558a52cfe20786eafc1e949d836cc0e) | chore: Add SDD prompt and plan for obsidian\_child\_notes\_popup | 2026-06-03 10:09:30 EDT |
 
 ## Neighbors
 

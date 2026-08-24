@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`780cf45`](https://github.com/bobs-org/bob-cli/commit/780cf456346cff63dc97cb104c7d9070dbb528cb) | docs(projects): document schedule-log reason prompt | 2026-08-06 12:09:33 UTC |
+| code | bob-cli | [`780cf45`](https://github.com/bobs-org/bob-cli/commit/780cf456346cff63dc97cb104c7d9070dbb528cb) | docs(projects): document schedule-log reason prompt | 2026-08-06 08:09:33 EDT |
 
 ## Neighbors
 

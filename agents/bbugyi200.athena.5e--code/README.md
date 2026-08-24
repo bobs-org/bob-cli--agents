@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b6a9b4c`](https://github.com/bobs-org/bob-cli/commit/b6a9b4cdbd3d65530081c20ae9315f4332d55110) | docs: document project scheduling from lifecycle tasks | 2026-07-11 13:00:39 UTC |
+| bob-cli | [`b6a9b4c`](https://github.com/bobs-org/bob-cli/commit/b6a9b4cdbd3d65530081c20ae9315f4332d55110) | docs: document project scheduling from lifecycle tasks | 2026-07-11 09:00:39 EDT |

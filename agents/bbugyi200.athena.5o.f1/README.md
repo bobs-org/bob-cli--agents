@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`38b374e`](https://github.com/bobs-org/bob-cli/commit/38b374e685de550717b287e0bcc846e95d89358f) | chore: Add SDD prompt and plan for obsidian\_project\_from\_task\_block\_id | 2026-06-12 14:25:28 UTC |
+| bob-cli | [`38b374e`](https://github.com/bobs-org/bob-cli/commit/38b374e685de550717b287e0bcc846e95d89358f) | chore: Add SDD prompt and plan for obsidian\_project\_from\_task\_block\_id | 2026-06-12 10:25:28 EDT |
 
 ## Neighbors
 

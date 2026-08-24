@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`aa1227b`](https://github.com/bobs-org/bob-cli/commit/aa1227b44311861596c74a1382b434fc66fb1559) | chore: Add SDD prompt and plan for move\_bob\_tasks\_to\_bob\_v1 | 2026-06-14 12:33:09 UTC |
+| bob-cli | [`aa1227b`](https://github.com/bobs-org/bob-cli/commit/aa1227b44311861596c74a1382b434fc66fb1559) | chore: Add SDD prompt and plan for move\_bob\_tasks\_to\_bob\_v1 | 2026-06-14 08:33:09 EDT |
 
 ## Neighbors
 

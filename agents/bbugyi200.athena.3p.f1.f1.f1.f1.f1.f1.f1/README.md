@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`00d4a70`](https://github.com/bobs-org/bob-cli/commit/00d4a702f8d15f22927e7c3c62e69fe8591406d4) | chore: Add SDD prompt and plan for highlight\_task\_h\_property | 2026-06-08 12:45:17 UTC |
-| bob-cli | [`c0bc902`](https://github.com/bobs-org/bob-cli/commit/c0bc902d3ce6dfd460109a5c903539cd2f39f22b) | fix: use h property for highlight task markers | 2026-06-08 12:55:38 UTC |
+| bob-cli | [`00d4a70`](https://github.com/bobs-org/bob-cli/commit/00d4a702f8d15f22927e7c3c62e69fe8591406d4) | chore: Add SDD prompt and plan for highlight\_task\_h\_property | 2026-06-08 08:45:17 EDT |
+| bob-cli | [`c0bc902`](https://github.com/bobs-org/bob-cli/commit/c0bc902d3ce6dfd460109a5c903539cd2f39f22b) | fix: use h property for highlight task markers | 2026-06-08 08:55:38 EDT |
 
 ## Neighbors
 

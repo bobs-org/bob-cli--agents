@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8f95e87`](https://github.com/bobs-org/bob-cli/commit/8f95e87b5eb2403676ab12a898840dad00de5ad4) | feat(capture): parse @route+block-id#section sub-bullet markers | 2026-08-19 20:50:11 UTC |
+| bob-cli | [`8f95e87`](https://github.com/bobs-org/bob-cli/commit/8f95e87b5eb2403676ab12a898840dad00de5ad4) | feat(capture): parse @route+block-id#section sub-bullet markers | 2026-08-19 16:50:11 EDT |
 
 ## Neighbors
 

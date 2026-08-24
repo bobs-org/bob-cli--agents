@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d5340fd`](https://github.com/bobs-org/bob-cli/commit/d5340fdca8962a5f347aa8af7efa1d8605b34efc) | chore: Add SDD prompt and plan for rename\_highlights\_command | 2026-06-04 15:01:12 UTC |
-| bob-cli | [`292f530`](https://github.com/bobs-org/bob-cli/commit/292f53024b144d565f7abc9446de51358bd63fa6) | feat: rename highlights-ref command to highlights | 2026-06-04 15:08:08 UTC |
+| bob-cli | [`d5340fd`](https://github.com/bobs-org/bob-cli/commit/d5340fdca8962a5f347aa8af7efa1d8605b34efc) | chore: Add SDD prompt and plan for rename\_highlights\_command | 2026-06-04 11:01:12 EDT |
+| bob-cli | [`292f530`](https://github.com/bobs-org/bob-cli/commit/292f53024b144d565f7abc9446de51358bd63fa6) | feat: rename highlights-ref command to highlights | 2026-06-04 11:08:08 EDT |
 
 ## Neighbors
 

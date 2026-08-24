@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5692b27`](https://github.com/bobs-org/bob-cli/commit/5692b279451435ebf00d12c20a797c02470bb8f8) | feat(config): nest glossary under memory.glossary in sase.yml | 2026-08-09 15:27:34 UTC |
+| bob-cli | [`5692b27`](https://github.com/bobs-org/bob-cli/commit/5692b279451435ebf00d12c20a797c02470bb8f8) | feat(config): nest glossary under memory.glossary in sase.yml | 2026-08-09 11:27:34 EDT |

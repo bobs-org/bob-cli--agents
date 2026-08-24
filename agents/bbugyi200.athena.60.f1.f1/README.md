@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bffdaed`](https://github.com/bobs-org/bob-cli/commit/bffdaed7afacc530b8bae3dc248ecda4991c24da) | chore: Add SDD prompt and plan for non\_transcluded\_block\_link\_priority | 2026-06-12 19:43:30 UTC |
+| bob-cli | [`bffdaed`](https://github.com/bobs-org/bob-cli/commit/bffdaed7afacc530b8bae3dc248ecda4991c24da) | chore: Add SDD prompt and plan for non\_transcluded\_block\_link\_priority | 2026-06-12 15:43:30 EDT |
 
 ## Neighbors
 

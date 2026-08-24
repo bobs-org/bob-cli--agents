@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8c3ca94`](https://github.com/bobs-org/bob-cli/commit/8c3ca94a91c7112dd2f9e698dd335820cc014741) | docs: add Obsidian bullet search infographic | 2026-06-26 12:21:03 UTC |
+| bob-cli | [`8c3ca94`](https://github.com/bobs-org/bob-cli/commit/8c3ca94a91c7112dd2f9e698dd335820cc014741) | docs: add Obsidian bullet search infographic | 2026-06-26 08:21:03 EDT |
 
 ## Neighbors
 

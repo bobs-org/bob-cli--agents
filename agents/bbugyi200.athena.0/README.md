@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c8a766b`](https://github.com/bobs-org/bob-cli/commit/c8a766b3e963bbf307647c097a839e3aad5af3bd) | chore: Add SDD prompt and plan for bob\_sync\_crontab | 2026-06-02 12:55:20 UTC |
+| bob-cli | [`c8a766b`](https://github.com/bobs-org/bob-cli/commit/c8a766b3e963bbf307647c097a839e3aad5af3bd) | chore: Add SDD prompt and plan for bob\_sync\_crontab | 2026-06-02 08:55:20 EDT |

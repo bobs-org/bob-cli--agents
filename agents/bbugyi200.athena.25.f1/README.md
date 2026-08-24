@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b9a00c2`](https://github.com/bobs-org/bob-cli/commit/b9a00c2bb4b462f2bf6863101abbb824d8d48061) | chore: Add SDD prompt and plan for obsidian\_file\_link\_caret\_jump | 2026-06-04 17:02:19 UTC |
+| bob-cli | [`b9a00c2`](https://github.com/bobs-org/bob-cli/commit/b9a00c2bb4b462f2bf6863101abbb824d8d48061) | chore: Add SDD prompt and plan for obsidian\_file\_link\_caret\_jump | 2026-06-04 13:02:19 EDT |
 
 ## Neighbors
 

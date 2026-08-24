@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`251469b`](https://github.com/bobs-org/bob-cli/commit/251469b153b6e47ac13bbb256414471deca51fd5) | docs: Add research on de-duplicating dash.md Tasks queries | 2026-07-09 16:37:57 UTC |
+| bob-cli | [`251469b`](https://github.com/bobs-org/bob-cli/commit/251469b153b6e47ac13bbb256414471deca51fd5) | docs: Add research on de-duplicating dash.md Tasks queries | 2026-07-09 12:37:57 EDT |
 
 ## Neighbors
 

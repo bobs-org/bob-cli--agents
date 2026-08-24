@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`946d587`](https://github.com/bobs-org/bob-cli/commit/946d587bced0117c127b9e16486bc0b2f9f00f1d) | chore: configure project research sidecar (sase-62.3) | 2026-07-15 13:25:21 UTC |
+| bob-cli | [`946d587`](https://github.com/bobs-org/bob-cli/commit/946d587bced0117c127b9e16486bc0b2f9f00f1d) | chore: configure project research sidecar (sase-62.3) | 2026-07-15 09:25:21 EDT |

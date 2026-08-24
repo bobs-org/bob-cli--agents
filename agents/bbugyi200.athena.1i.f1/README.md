@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2863c7b`](https://github.com/bobs-org/bob-cli/commit/2863c7ba13eedc0721b85f11aeb8cbe5888ea5fb) | chore: Add SDD prompt and plan for highlights\_ref\_first\_page\_marker | 2026-06-03 12:31:26 UTC |
-| bob-cli | [`eef5730`](https://github.com/bobs-org/bob-cli/commit/eef5730d6ddebd2b8ab0c3d118c76d5916e4b972) | fix: read highlights marker only from first page | 2026-06-03 12:37:26 UTC |
+| bob-cli | [`2863c7b`](https://github.com/bobs-org/bob-cli/commit/2863c7ba13eedc0721b85f11aeb8cbe5888ea5fb) | chore: Add SDD prompt and plan for highlights\_ref\_first\_page\_marker | 2026-06-03 08:31:26 EDT |
+| bob-cli | [`eef5730`](https://github.com/bobs-org/bob-cli/commit/eef5730d6ddebd2b8ab0c3d118c76d5916e4b972) | fix: read highlights marker only from first page | 2026-06-03 08:37:26 EDT |
 
 ## Neighbors
 

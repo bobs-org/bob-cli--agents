@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2083477`](https://github.com/bobs-org/bob-cli/commit/2083477c30f5c1f99b23e2a78f4fd2bffdd24e46) | chore: add Obsidian property value research | 2026-06-09 12:39:02 UTC |
+| bob-cli | [`2083477`](https://github.com/bobs-org/bob-cli/commit/2083477c30f5c1f99b23e2a78f4fd2bffdd24e46) | chore: add Obsidian property value research | 2026-06-09 08:39:02 EDT |
 
 ## Neighbors
 

@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bc97850`](https://github.com/bobs-org/bob-cli/commit/bc97850e5363a67a82efe29362be97d661fb3d16) | config: rename sibling\_repos to linked\_repos in sase.yml (sase-51.6) | 2026-06-20 20:53:27 UTC |
+| bob-cli | [`bc97850`](https://github.com/bobs-org/bob-cli/commit/bc97850e5363a67a82efe29362be97d661fb3d16) | config: rename sibling\_repos to linked\_repos in sase.yml (sase-51.6) | 2026-06-20 16:53:27 EDT |

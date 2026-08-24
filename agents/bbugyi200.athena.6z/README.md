@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4438a17`](https://github.com/bobs-org/bob-cli/commit/4438a1760f6f4a4063b8ca82c65e2b9352a0a899) | chore: Add SDD prompt and plan for project\_note\_child\_bullets\_to\_tasks | 2026-06-14 11:14:13 UTC |
+| bob-cli | [`4438a17`](https://github.com/bobs-org/bob-cli/commit/4438a1760f6f4a4063b8ca82c65e2b9352a0a899) | chore: Add SDD prompt and plan for project\_note\_child\_bullets\_to\_tasks | 2026-06-14 07:14:13 EDT |
 
 ## Neighbors
 

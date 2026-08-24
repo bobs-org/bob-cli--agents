@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`17d00e0`](https://github.com/bobs-org/bob-cli/commit/17d00e00654b21b5349723c3bfb5d7343d953608) | chore: Add research memo on PDF/Athena/Dataview/Highlights tasks roadmap | 2026-06-04 23:31:32 UTC |
+| bob-cli | [`17d00e0`](https://github.com/bobs-org/bob-cli/commit/17d00e00654b21b5349723c3bfb5d7343d953608) | chore: Add research memo on PDF/Athena/Dataview/Highlights tasks roadmap | 2026-06-04 19:31:32 EDT |
 
 ## Neighbors
 

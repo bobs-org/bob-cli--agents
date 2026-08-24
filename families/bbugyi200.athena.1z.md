@@ -24,6 +24,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | bob-cli | [`fcd788f`](https://github.com/bobs-org/bob-cli/commit/fcd788f9c5b1649ddae42e8d8c0314bb61ce8f9f) | chore: Add SDD prompt and plan for refs\_base\_view | 2026-06-04 00:57:51 UTC |
-| root | bob-cli | [`e0eb0d4`](https://github.com/bobs-org/bob-cli/commit/e0eb0d447d6336c2efb07964c952e8fc98c9c54d) | chore: Add SDD prompt and plan for option\_bracket\_transcluded\_task\_cycle | 2026-07-08 16:38:04 UTC |
-| — | bob-cli | [`32bfdc2`](https://github.com/bobs-org/bob-cli/commit/32bfdc22d348fcc0daa7814f01e8a734aa4c8c0a) | chore: Mark SDD plan done | 2026-07-08 16:55:42 UTC |
+| — | bob-cli | [`fcd788f`](https://github.com/bobs-org/bob-cli/commit/fcd788f9c5b1649ddae42e8d8c0314bb61ce8f9f) | chore: Add SDD prompt and plan for refs\_base\_view | 2026-06-03 20:57:51 EDT |
+| root | bob-cli | [`e0eb0d4`](https://github.com/bobs-org/bob-cli/commit/e0eb0d447d6336c2efb07964c952e8fc98c9c54d) | chore: Add SDD prompt and plan for option\_bracket\_transcluded\_task\_cycle | 2026-07-08 12:38:04 EDT |
+| — | bob-cli | [`32bfdc2`](https://github.com/bobs-org/bob-cli/commit/32bfdc22d348fcc0daa7814f01e8a734aa4c8c0a) | chore: Mark SDD plan done | 2026-07-08 12:55:42 EDT |

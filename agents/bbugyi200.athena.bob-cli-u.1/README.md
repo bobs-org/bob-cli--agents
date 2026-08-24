@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2037307`](https://github.com/bobs-org/bob-cli/commit/2037307c852e7257e77d96f6e9c118ea23bacdff) | feat(capture): add any-task completion and capture-task-id | 2026-08-15 14:29:08 UTC |
+| bob-cli | [`2037307`](https://github.com/bobs-org/bob-cli/commit/2037307c852e7257e77d96f6e9c118ea23bacdff) | feat(capture): add any-task completion and capture-task-id | 2026-08-15 10:29:08 EDT |
 
 ## Neighbors
 

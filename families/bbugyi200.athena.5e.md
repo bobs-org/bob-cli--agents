@@ -24,5 +24,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | bob-cli | [`a2a9d2d`](https://github.com/bobs-org/bob-cli/commit/a2a9d2d97ea4baf7f70671ff935bca2e4557a897) | chore: Add SDD prompt and plan for obsidian\_ctrl\_jk\_header\_navigation | 2026-06-11 15:11:46 UTC |
-| code | bob-cli | [`b6a9b4c`](https://github.com/bobs-org/bob-cli/commit/b6a9b4cdbd3d65530081c20ae9315f4332d55110) | docs: document project scheduling from lifecycle tasks | 2026-07-11 13:00:39 UTC |
+| — | bob-cli | [`a2a9d2d`](https://github.com/bobs-org/bob-cli/commit/a2a9d2d97ea4baf7f70671ff935bca2e4557a897) | chore: Add SDD prompt and plan for obsidian\_ctrl\_jk\_header\_navigation | 2026-06-11 11:11:46 EDT |
+| code | bob-cli | [`b6a9b4c`](https://github.com/bobs-org/bob-cli/commit/b6a9b4cdbd3d65530081c20ae9315f4332d55110) | docs: document project scheduling from lifecycle tasks | 2026-07-11 09:00:39 EDT |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`157e11a`](https://github.com/bobs-org/bob-cli/commit/157e11a01b4cd262d7e0a70121d046c2e9ef29d5) | chore: close bob-cli-4 dataview parity epic | 2026-06-03 23:07:24 UTC |
+| bob-cli | [`157e11a`](https://github.com/bobs-org/bob-cli/commit/157e11a01b4cd262d7e0a70121d046c2e9ef29d5) | chore: close bob-cli-4 dataview parity epic | 2026-06-03 19:07:24 EDT |
 
 ## Neighbors
 

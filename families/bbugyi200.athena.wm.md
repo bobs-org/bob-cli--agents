@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`a225028`](https://github.com/bobs-org/bob-cli/commit/a225028e31c1530ef5ddee97340ca77cd2f64317) | feat(capture): shorten priority roll schedule reasons | 2026-08-09 14:16:23 UTC |
+| code | bob-cli | [`a225028`](https://github.com/bobs-org/bob-cli/commit/a225028e31c1530ef5ddee97340ca77cd2f64317) | feat(capture): shorten priority roll schedule reasons | 2026-08-09 10:16:23 EDT |

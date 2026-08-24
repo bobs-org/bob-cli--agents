@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e0eb0d4`](https://github.com/bobs-org/bob-cli/commit/e0eb0d447d6336c2efb07964c952e8fc98c9c54d) | chore: Add SDD prompt and plan for option\_bracket\_transcluded\_task\_cycle | 2026-07-08 16:38:04 UTC |
+| bob-cli | [`e0eb0d4`](https://github.com/bobs-org/bob-cli/commit/e0eb0d447d6336c2efb07964c952e8fc98c9c54d) | chore: Add SDD prompt and plan for option\_bracket\_transcluded\_task\_cycle | 2026-07-08 12:38:04 EDT |

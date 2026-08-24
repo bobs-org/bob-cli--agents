@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5b04217`](https://github.com/bobs-org/bob-cli/commit/5b0421718638037d2efba5ccac26e42908582c78) | chore: Add SDD prompt and plan for fix\_new\_note\_parent\_nan | 2026-06-06 12:27:19 UTC |
+| bob-cli | [`5b04217`](https://github.com/bobs-org/bob-cli/commit/5b0421718638037d2efba5ccac26e42908582c78) | chore: Add SDD prompt and plan for fix\_new\_note\_parent\_nan | 2026-06-06 08:27:19 EDT |

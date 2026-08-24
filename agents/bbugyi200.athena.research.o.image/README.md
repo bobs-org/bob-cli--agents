@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1e999bf`](https://github.com/bobs-org/bob-cli/commit/1e999bf9fdf03af627d176fcb5cb999ae6b5afd5) | docs: add Obsidian Vim surround infographic | 2026-06-18 17:22:08 UTC |
+| bob-cli | [`1e999bf`](https://github.com/bobs-org/bob-cli/commit/1e999bf9fdf03af627d176fcb5cb999ae6b5afd5) | docs: add Obsidian Vim surround infographic | 2026-06-18 13:22:08 EDT |
 
 ## Neighbors
 

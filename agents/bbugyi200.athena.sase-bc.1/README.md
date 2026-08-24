@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4f72d29`](https://github.com/bobs-org/bob-cli/commit/4f72d2933f03577131da514a3120bf2838d3f73e) | feat(highlights): create PDFs from Markdown | 2026-07-30 17:48:38 UTC |
+| bob-cli | [`4f72d29`](https://github.com/bobs-org/bob-cli/commit/4f72d2933f03577131da514a3120bf2838d3f73e) | feat(highlights): create PDFs from Markdown | 2026-07-30 13:48:38 EDT |
 
 ## Neighbors
 

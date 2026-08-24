@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f446e16`](https://github.com/bobs-org/bob-cli/commit/f446e162b816d5d3898c7abc5c7a4fa376e5f0ee) | feat(capture): write SCHEDULE LOG entry for p:\<N\> priority rolls | 2026-08-07 14:12:09 UTC |
+| bob-cli | [`f446e16`](https://github.com/bobs-org/bob-cli/commit/f446e162b816d5d3898c7abc5c7a4fa376e5f0ee) | feat(capture): write SCHEDULE LOG entry for p:\<N\> priority rolls | 2026-08-07 10:12:09 EDT |

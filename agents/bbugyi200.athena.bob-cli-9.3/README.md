@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`39882b4`](https://github.com/bobs-org/bob-cli/commit/39882b435b9f8e4f9268167f965680f19553e023) | feat(tasks): parse Tasks v8 query language (bob-cli-9.3) | 2026-07-10 19:39:11 UTC |
+| bob-cli | [`39882b4`](https://github.com/bobs-org/bob-cli/commit/39882b435b9f8e4f9268167f965680f19553e023) | feat(tasks): parse Tasks v8 query language (bob-cli-9.3) | 2026-07-10 15:39:11 EDT |
 
 ## Neighbors
 

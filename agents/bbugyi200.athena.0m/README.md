@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`45beebb`](https://github.com/bobs-org/bob-cli/commit/45beebb45ff1572ecbff55fadfa96f15fdda320a) | chore: Add SDD prompt and plan for collect\_done\_block\_id\_dedup | 2026-06-03 02:07:11 UTC |
-| bob-cli | [`9a7fc53`](https://github.com/bobs-org/bob-cli/commit/9a7fc5332a8e5d1b9d07b8dc636ebb72eeb968de) | fix: deduplicate collect-done block ids | 2026-06-03 02:15:24 UTC |
+| bob-cli | [`45beebb`](https://github.com/bobs-org/bob-cli/commit/45beebb45ff1572ecbff55fadfa96f15fdda320a) | chore: Add SDD prompt and plan for collect\_done\_block\_id\_dedup | 2026-06-02 22:07:11 EDT |
+| bob-cli | [`9a7fc53`](https://github.com/bobs-org/bob-cli/commit/9a7fc5332a8e5d1b9d07b8dc636ebb72eeb968de) | fix: deduplicate collect-done block ids | 2026-06-02 22:15:24 EDT |

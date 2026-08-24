@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4a04091`](https://github.com/bobs-org/bob-cli/commit/4a040918a7b89d56dfe45c56fe07a6db3c5b489f) | chore: Add SDD prompt and plan for hide\_tag\_task\_picker | 2026-07-02 10:49:01 UTC |
-| bob-cli | [`956995c`](https://github.com/bobs-org/bob-cli/commit/956995cb9ae27753d193e6578a05b1669bbd46b1) | chore: Mark SDD plan done for hide\_tag\_task\_picker | 2026-07-02 10:53:15 UTC |
+| bob-cli | [`4a04091`](https://github.com/bobs-org/bob-cli/commit/4a040918a7b89d56dfe45c56fe07a6db3c5b489f) | chore: Add SDD prompt and plan for hide\_tag\_task\_picker | 2026-07-02 06:49:01 EDT |
+| bob-cli | [`956995c`](https://github.com/bobs-org/bob-cli/commit/956995cb9ae27753d193e6578a05b1669bbd46b1) | chore: Mark SDD plan done for hide\_tag\_task\_picker | 2026-07-02 06:53:15 EDT |

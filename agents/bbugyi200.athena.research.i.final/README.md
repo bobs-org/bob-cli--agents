@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4a335d5`](https://github.com/bobs-org/bob-cli/commit/4a335d590fc0ca998ae89121d90736a89dbd0b3c) | docs: consolidate Obsidian Vim focus research | 2026-06-15 19:34:29 UTC |
+| bob-cli | [`4a335d5`](https://github.com/bobs-org/bob-cli/commit/4a335d590fc0ca998ae89121d90736a89dbd0b3c) | docs: consolidate Obsidian Vim focus research | 2026-06-15 15:34:29 EDT |
 
 ## Neighbors
 

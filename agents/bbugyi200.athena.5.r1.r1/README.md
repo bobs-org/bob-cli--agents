@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`73fe02e`](https://github.com/bobs-org/bob-cli/commit/73fe02e41e92d1c0941169587ac1da666e56652f) | chore: Add SDD prompt and plan for highlights\_image\_degradation | 2026-06-15 14:01:00 UTC |
-| bob-cli | [`057aa45`](https://github.com/bobs-org/bob-cli/commit/057aa455ba9beef1ae5c77261f848cad818099de) | fix(highlights): degrade unresolved image selections | 2026-06-15 14:20:22 UTC |
+| bob-cli | [`73fe02e`](https://github.com/bobs-org/bob-cli/commit/73fe02e41e92d1c0941169587ac1da666e56652f) | chore: Add SDD prompt and plan for highlights\_image\_degradation | 2026-06-15 10:01:00 EDT |
+| bob-cli | [`057aa45`](https://github.com/bobs-org/bob-cli/commit/057aa455ba9beef1ae5c77261f848cad818099de) | fix(highlights): degrade unresolved image selections | 2026-06-15 10:20:22 EDT |
 
 ## Neighbors
 

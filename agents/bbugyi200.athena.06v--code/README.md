@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8ab074f`](https://github.com/bobs-org/bob-cli/commit/8ab074ff9b063d422be119670be1c96e4e445fbd) | feat(capture): attach bare # notes to last completed Pomodoro | 2026-08-18 22:06:27 UTC |
+| bob-cli | [`8ab074f`](https://github.com/bobs-org/bob-cli/commit/8ab074ff9b063d422be119670be1c96e4e445fbd) | feat(capture): attach bare # notes to last completed Pomodoro | 2026-08-18 18:06:27 EDT |

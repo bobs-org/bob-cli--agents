@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`38ba115`](https://github.com/bobs-org/bob-cli/commit/38ba11544a14b74f37e84b15ef98350e630a5fa9) | docs: document project schedule log migration | 2026-08-13 12:23:24 UTC |
+| bob-cli | [`38ba115`](https://github.com/bobs-org/bob-cli/commit/38ba11544a14b74f37e84b15ef98350e630a5fa9) | docs: document project schedule log migration | 2026-08-13 08:23:24 EDT |

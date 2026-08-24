@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2d6b0af`](https://github.com/bobs-org/bob-cli/commit/2d6b0afe9053ce9ce6ccc6ccb08f73d7948286d0) | feat(capture): make capture text physical-line-aware | 2026-08-14 15:29:18 UTC |
+| bob-cli | [`2d6b0af`](https://github.com/bobs-org/bob-cli/commit/2d6b0afe9053ce9ce6ccc6ccb08f73d7948286d0) | feat(capture): make capture text physical-line-aware | 2026-08-14 11:29:18 EDT |
 
 ## Neighbors
 

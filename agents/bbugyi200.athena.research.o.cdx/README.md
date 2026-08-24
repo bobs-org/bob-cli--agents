@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6fea7fb`](https://github.com/bobs-org/bob-cli/commit/6fea7fb506d05e5992609a7896293f3c8156bc64) | docs: expand Obsidian vim-surround research | 2026-06-18 17:06:27 UTC |
+| bob-cli | [`6fea7fb`](https://github.com/bobs-org/bob-cli/commit/6fea7fb506d05e5992609a7896293f3c8156bc64) | docs: expand Obsidian vim-surround research | 2026-06-18 13:06:27 EDT |
 
 ## Neighbors
 

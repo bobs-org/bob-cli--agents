@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8bbef6e`](https://github.com/bobs-org/bob-cli/commit/8bbef6ee9a93e1f187ece7ec6125dee9e6dd7dd8) | refactor(config): move repos.sidecar to the builtin/custom mapping | 2026-08-07 14:30:30 UTC |
+| bob-cli | [`8bbef6e`](https://github.com/bobs-org/bob-cli/commit/8bbef6ee9a93e1f187ece7ec6125dee9e6dd7dd8) | refactor(config): move repos.sidecar to the builtin/custom mapping | 2026-08-07 10:30:30 EDT |

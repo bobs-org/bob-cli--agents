@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c0525bb`](https://github.com/bobs-org/bob-cli/commit/c0525bb319fcd4f0eace747ea4b6f67ca5a35cb1) | fix(highlights): keep long code inside the page margins | 2026-07-30 19:12:44 UTC |
+| bob-cli | [`c0525bb`](https://github.com/bobs-org/bob-cli/commit/c0525bb319fcd4f0eace747ea4b6f67ca5a35cb1) | fix(highlights): keep long code inside the page margins | 2026-07-30 15:12:44 EDT |
 
 ## Neighbors
 

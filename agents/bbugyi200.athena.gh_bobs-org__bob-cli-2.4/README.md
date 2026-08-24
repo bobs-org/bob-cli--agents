@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8831506`](https://github.com/bobs-org/bob-cli/commit/8831506cec0c420345947b45d40223bec5acf034) | docs(capture): document sub-bullet picker markers | 2026-07-31 12:32:02 UTC |
+| bob-cli | [`8831506`](https://github.com/bobs-org/bob-cli/commit/8831506cec0c420345947b45d40223bec5acf034) | docs(capture): document sub-bullet picker markers | 2026-07-31 08:32:02 EDT |
 
 ## Neighbors
 

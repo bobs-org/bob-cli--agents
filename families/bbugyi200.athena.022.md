@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`31b3461`](https://github.com/bobs-org/bob-cli/commit/31b346170befa08f998d4408665f99ae97c538b7) | feat(capture): add ID-only routed task marker | 2026-08-15 12:18:53 UTC |
+| code | bob-cli | [`31b3461`](https://github.com/bobs-org/bob-cli/commit/31b346170befa08f998d4408665f99ae97c538b7) | feat(capture): add ID-only routed task marker | 2026-08-15 08:18:53 EDT |
 
 ## Neighbors
 

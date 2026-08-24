@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`922a263`](https://github.com/bobs-org/bob-cli/commit/922a263c168675a082184933566222400b24a43b) | chore: Add SDD prompt and plan for obsidian\_child\_popup\_redesign | 2026-06-03 15:54:20 UTC |
+| bob-cli | [`922a263`](https://github.com/bobs-org/bob-cli/commit/922a263c168675a082184933566222400b24a43b) | chore: Add SDD prompt and plan for obsidian\_child\_popup\_redesign | 2026-06-03 11:54:20 EDT |
 
 ## Neighbors
 

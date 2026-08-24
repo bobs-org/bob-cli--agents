@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1c42b0b`](https://github.com/bobs-org/bob-cli/commit/1c42b0b10094ff8c96197cdb19ea7b1459f94de1) | chore: Add SDD prompt and plan for obsidian\_alias\_block\_completion\_cursor | 2026-06-04 13:43:41 UTC |
+| bob-cli | [`1c42b0b`](https://github.com/bobs-org/bob-cli/commit/1c42b0b10094ff8c96197cdb19ea7b1459f94de1) | chore: Add SDD prompt and plan for obsidian\_alias\_block\_completion\_cursor | 2026-06-04 09:43:41 EDT |
 
 ## Neighbors
 

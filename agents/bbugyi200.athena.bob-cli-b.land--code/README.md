@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fafb07e`](https://github.com/bobs-org/bob-cli/commit/fafb07e2c23ab00e1b649840496b5aa96645d8ba) | test(cli): add malformed sub-bullet capture validation cases | 2026-07-31 12:41:20 UTC |
+| bob-cli | [`fafb07e`](https://github.com/bobs-org/bob-cli/commit/fafb07e2c23ab00e1b649840496b5aa96645d8ba) | test(cli): add malformed sub-bullet capture validation cases | 2026-07-31 08:41:20 EDT |
 
 ## Neighbors
 

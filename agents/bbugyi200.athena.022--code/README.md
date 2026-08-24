@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`31b3461`](https://github.com/bobs-org/bob-cli/commit/31b346170befa08f998d4408665f99ae97c538b7) | feat(capture): add ID-only routed task marker | 2026-08-15 12:18:53 UTC |
+| bob-cli | [`31b3461`](https://github.com/bobs-org/bob-cli/commit/31b346170befa08f998d4408665f99ae97c538b7) | feat(capture): add ID-only routed task marker | 2026-08-15 08:18:53 EDT |
 
 ## Neighbors
 

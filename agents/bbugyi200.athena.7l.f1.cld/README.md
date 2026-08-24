@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3e70f05`](https://github.com/bobs-org/bob-cli/commit/3e70f05eeb9e8e2332ca2a3c8f5bcced5bea2dd2) | chore: Add SDD prompt and plan for obsidian\_alt\_o\_child\_bullets\_fix | 2026-06-14 22:46:18 UTC |
-| bob-cli | [`9685f1a`](https://github.com/bobs-org/bob-cli/commit/9685f1a7fb702819f9b5bcd97cdd4c46c7cc761f) | chore: Mark SDD plan done | 2026-06-14 22:51:49 UTC |
+| bob-cli | [`3e70f05`](https://github.com/bobs-org/bob-cli/commit/3e70f05eeb9e8e2332ca2a3c8f5bcced5bea2dd2) | chore: Add SDD prompt and plan for obsidian\_alt\_o\_child\_bullets\_fix | 2026-06-14 18:46:18 EDT |
+| bob-cli | [`9685f1a`](https://github.com/bobs-org/bob-cli/commit/9685f1a7fb702819f9b5bcd97cdd4c46c7cc761f) | chore: Mark SDD plan done | 2026-06-14 18:51:49 EDT |
 
 ## Neighbors
 

@@ -17,5 +17,5 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2851360`](https://github.com/bobs-org/bob-cli/commit/28513601ac397c8cfc8608eed59fdf9ce7cbcb6f) | chore: Add Obsidian picker phase beads | 2026-06-11 19:05:26 UTC |
-| bob-cli | [`9867a51`](https://github.com/bobs-org/bob-cli/commit/9867a51944bfc5e7971b366c847d0a2274f98849) | chore: Sync launched bead database | 2026-06-11 19:07:18 UTC |
+| bob-cli | [`2851360`](https://github.com/bobs-org/bob-cli/commit/28513601ac397c8cfc8608eed59fdf9ce7cbcb6f) | chore: Add Obsidian picker phase beads | 2026-06-11 15:05:26 EDT |
+| bob-cli | [`9867a51`](https://github.com/bobs-org/bob-cli/commit/9867a51944bfc5e7971b366c847d0a2274f98849) | chore: Sync launched bead database | 2026-06-11 15:07:18 EDT |

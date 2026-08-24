@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`54e4d21`](https://github.com/bobs-org/bob-cli/commit/54e4d213bb27882239e9e61669c81c08dca00d33) | feat(capture): add capture-task-sections and task\_section completion | 2026-08-19 21:37:41 UTC |
+| bob-cli | [`54e4d21`](https://github.com/bobs-org/bob-cli/commit/54e4d213bb27882239e9e61669c81c08dca00d33) | feat(capture): add capture-task-sections and task\_section completion | 2026-08-19 17:37:41 EDT |
 
 ## Neighbors
 

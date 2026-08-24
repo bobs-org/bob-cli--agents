@@ -1,0 +1,3 @@
+#gh:gh_bobs-org__bob-cli When the `@file+` syntax is used in the bob-mac-capture panel and an Obsidian task is selected which does not have a block ID, we are prompted to provide one. The problem is that the input box in this pop-up that appears for the block ID is not focused so when the user starts typing, it in the text isn't sent to that input box. I thought we fixed this but I guess not. Can you help me diagnose the root cause of this issue and fix it?
+
+#plan

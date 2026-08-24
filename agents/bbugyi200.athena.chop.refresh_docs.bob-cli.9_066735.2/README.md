@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c7fcab2`](https://github.com/bobs-org/bob-cli/commit/c7fcab2e9dd625e8117991ec1d0811f4dafe1641) | docs: align user docs with current capture and workflow behavior | 2026-08-20 03:44:17 UTC |
+| bob-cli | [`c7fcab2`](https://github.com/bobs-org/bob-cli/commit/c7fcab2e9dd625e8117991ec1d0811f4dafe1641) | docs: align user docs with current capture and workflow behavior | 2026-08-19 23:44:17 EDT |
 
 ## Neighbors
 

@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8255f92`](https://github.com/bobs-org/bob-cli/commit/8255f9244554f73c66ce86dd419cc6392bdb3914) | chore: Add SDD prompt and plan for obsidian\_blank\_line\_keymaps | 2026-06-11 14:10:17 UTC |
+| bob-cli | [`8255f92`](https://github.com/bobs-org/bob-cli/commit/8255f9244554f73c66ce86dd419cc6392bdb3914) | chore: Add SDD prompt and plan for obsidian\_blank\_line\_keymaps | 2026-06-11 10:10:17 EDT |

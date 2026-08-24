@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8f57243`](https://github.com/bobs-org/bob-cli/commit/8f57243367c146b291864e25845911d8d12747cc) | chore: Add SDD prompt and plan for hammerspoon\_capture\_created\_property | 2026-06-04 22:04:10 UTC |
+| bob-cli | [`8f57243`](https://github.com/bobs-org/bob-cli/commit/8f57243367c146b291864e25845911d8d12747cc) | chore: Add SDD prompt and plan for hammerspoon\_capture\_created\_property | 2026-06-04 18:04:10 EDT |
 
 ## Neighbors
 

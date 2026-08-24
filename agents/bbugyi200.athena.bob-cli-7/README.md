@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f6212bf`](https://github.com/bobs-org/bob-cli/commit/f6212bf106bc297def58b7a9fa5528ff52ba8f8d) | chore: Add SDD prompt and plan for close\_bob\_cli\_7\_epic (bob-cli-7) | 2026-06-11 23:02:33 UTC |
-| bob-cli | [`0d3fad6`](https://github.com/bobs-org/bob-cli/commit/0d3fad6510544063d3aab982de0335cc7d2a2742) | chore: close bob-cli-7 epic | 2026-06-11 23:40:09 UTC |
+| bob-cli | [`f6212bf`](https://github.com/bobs-org/bob-cli/commit/f6212bf106bc297def58b7a9fa5528ff52ba8f8d) | chore: Add SDD prompt and plan for close\_bob\_cli\_7\_epic (bob-cli-7) | 2026-06-11 19:02:33 EDT |
+| bob-cli | [`0d3fad6`](https://github.com/bobs-org/bob-cli/commit/0d3fad6510544063d3aab982de0335cc7d2a2742) | chore: close bob-cli-7 epic | 2026-06-11 19:40:09 EDT |
 
 ## Neighbors
 

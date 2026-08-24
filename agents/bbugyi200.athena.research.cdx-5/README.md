@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`58f7c4f`](https://github.com/bobs-org/bob-cli/commit/58f7c4fadf1981a03dea4d889b2cc8b91bfdd9ae) | chore: document dataview parity gaps | 2026-06-03 20:16:19 UTC |
+| bob-cli | [`58f7c4f`](https://github.com/bobs-org/bob-cli/commit/58f7c4fadf1981a03dea4d889b2cc8b91bfdd9ae) | chore: document dataview parity gaps | 2026-06-03 16:16:19 EDT |
 
 ## Neighbors
 

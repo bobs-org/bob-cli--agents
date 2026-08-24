@@ -17,9 +17,9 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8b4f8c3`](https://github.com/bobs-org/bob-cli/commit/8b4f8c3b639c1c5b913852b36d15197841370489) | chore: Add SDD prompt and plan for dataview\_native\_parity | 2026-06-03 20:28:03 UTC |
-| bob-cli | [`8290b95`](https://github.com/bobs-org/bob-cli/commit/8290b951a7e69d0ce433626f9823d9b11b3ffc51) | chore: create native dataview parity epic beads | 2026-06-03 20:31:50 UTC |
-| bob-cli | [`80ec9b9`](https://github.com/bobs-org/bob-cli/commit/80ec9b97b9539d9c590d54281a2ab5c18e2f18a1) | chore: sync bead database after dataview parity kickoff | 2026-06-03 20:34:28 UTC |
+| bob-cli | [`8b4f8c3`](https://github.com/bobs-org/bob-cli/commit/8b4f8c3b639c1c5b913852b36d15197841370489) | chore: Add SDD prompt and plan for dataview\_native\_parity | 2026-06-03 16:28:03 EDT |
+| bob-cli | [`8290b95`](https://github.com/bobs-org/bob-cli/commit/8290b951a7e69d0ce433626f9823d9b11b3ffc51) | chore: create native dataview parity epic beads | 2026-06-03 16:31:50 EDT |
+| bob-cli | [`80ec9b9`](https://github.com/bobs-org/bob-cli/commit/80ec9b97b9539d9c590d54281a2ab5c18e2f18a1) | chore: sync bead database after dataview parity kickoff | 2026-06-03 16:34:28 EDT |
 
 ## Neighbors
 

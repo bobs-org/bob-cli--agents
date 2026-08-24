@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b826d77`](https://github.com/bobs-org/bob-cli/commit/b826d777ea72b8444ea71c74dbc94ca9d60e211a) | chore: migrate SASE project content to canonical paths (sase-6d.6) | 2026-07-16 18:27:27 UTC |
+| bob-cli | [`b826d77`](https://github.com/bobs-org/bob-cli/commit/b826d777ea72b8444ea71c74dbc94ca9d60e211a) | chore: migrate SASE project content to canonical paths (sase-6d.6) | 2026-07-16 14:27:27 EDT |
 
 ## Neighbors
 

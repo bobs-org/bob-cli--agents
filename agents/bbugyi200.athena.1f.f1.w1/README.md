@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4b5a65e`](https://github.com/bobs-org/bob-cli/commit/4b5a65e637277e2b2e1c042fdbb4df9aafdf56d3) | chore: Add SDD prompt and plan for highlights\_ref\_nested\_lib\_1 | 2026-06-03 11:12:15 UTC |
-| bob-cli | [`2eac0aa`](https://github.com/bobs-org/bob-cli/commit/2eac0aa8008c81faa45b7d75d2fed9c954f7048d) | feat: support nested highlights ref paths | 2026-06-03 11:20:38 UTC |
+| bob-cli | [`4b5a65e`](https://github.com/bobs-org/bob-cli/commit/4b5a65e637277e2b2e1c042fdbb4df9aafdf56d3) | chore: Add SDD prompt and plan for highlights\_ref\_nested\_lib\_1 | 2026-06-03 07:12:15 EDT |
+| bob-cli | [`2eac0aa`](https://github.com/bobs-org/bob-cli/commit/2eac0aa8008c81faa45b7d75d2fed9c954f7048d) | feat: support nested highlights ref paths | 2026-06-03 07:20:38 EDT |
 
 ## Neighbors
 

@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| root | bob-cli | [`2629238`](https://github.com/bobs-org/bob-cli/commit/26292384b7379f6763f57b892a8d3edf4eeb7a3d) | chore: Add SDD prompt and plan for transcluded\_task\_at\_keymap | 2026-07-07 23:16:02 UTC |
-| — | bob-cli | [`ee8791a`](https://github.com/bobs-org/bob-cli/commit/ee8791a0ee0f682a8448fec64e5334e608fb18bc) | chore: Mark SDD plan done | 2026-07-07 23:27:02 UTC |
+| root | bob-cli | [`2629238`](https://github.com/bobs-org/bob-cli/commit/26292384b7379f6763f57b892a8d3edf4eeb7a3d) | chore: Add SDD prompt and plan for transcluded\_task\_at\_keymap | 2026-07-07 19:16:02 EDT |
+| — | bob-cli | [`ee8791a`](https://github.com/bobs-org/bob-cli/commit/ee8791a0ee0f682a8448fec64e5334e608fb18bc) | chore: Mark SDD plan done | 2026-07-07 19:27:02 EDT |
 
 ## Neighbors
 

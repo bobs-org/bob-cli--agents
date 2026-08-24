@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`084bb62`](https://github.com/bobs-org/bob-cli/commit/084bb625e57147c6b4dab7462deae051378c05d4) | feat: reconcile in-progress tasks using recent dailies | 2026-07-21 20:17:25 UTC |
+| bob-cli | [`084bb62`](https://github.com/bobs-org/bob-cli/commit/084bb625e57147c6b4dab7462deae051378c05d4) | feat: reconcile in-progress tasks using recent dailies | 2026-07-21 16:17:25 EDT |

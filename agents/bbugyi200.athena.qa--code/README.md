@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8073b7a`](https://github.com/bobs-org/bob-cli/commit/8073b7a881ed9745c0627dabf9714e95a3cad1d5) | fix(capture): separate sub-bullet output from parent timestamping | 2026-07-31 13:00:01 UTC |
+| bob-cli | [`8073b7a`](https://github.com/bobs-org/bob-cli/commit/8073b7a881ed9745c0627dabf9714e95a3cad1d5) | fix(capture): separate sub-bullet output from parent timestamping | 2026-07-31 09:00:01 EDT |
 
 ## Neighbors
 

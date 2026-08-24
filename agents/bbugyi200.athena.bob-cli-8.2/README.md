@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`88a7780`](https://github.com/bobs-org/bob-cli/commit/88a7780ad5b0ddd4e740b01b07f34aad568ac665) | feat(plugins): add \`bob plugins\` command with \`list\` subcommand (bob-cli-8.2) | 2026-06-20 15:41:47 UTC |
+| bob-cli | [`88a7780`](https://github.com/bobs-org/bob-cli/commit/88a7780ad5b0ddd4e740b01b07f34aad568ac665) | feat(plugins): add \`bob plugins\` command with \`list\` subcommand (bob-cli-8.2) | 2026-06-20 11:41:47 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`576c8dc`](https://github.com/bobs-org/bob-cli/commit/576c8dc642e714036d8a82d88f9cdd0560d4c0c9) | chore: close bob-cli-5.1 | 2026-06-11 19:17:05 UTC |
+| bob-cli | [`576c8dc`](https://github.com/bobs-org/bob-cli/commit/576c8dc642e714036d8a82d88f9cdd0560d4c0c9) | chore: close bob-cli-5.1 | 2026-06-11 15:17:05 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5ba5338`](https://github.com/bobs-org/bob-cli/commit/5ba5338ef041bc40cc109823c1ae085e17a96224) | chore: Add SDD prompt and plan for new\_note\_current\_parent\_fallback | 2026-06-07 13:01:57 UTC |
+| bob-cli | [`5ba5338`](https://github.com/bobs-org/bob-cli/commit/5ba5338ef041bc40cc109823c1ae085e17a96224) | chore: Add SDD prompt and plan for new\_note\_current\_parent\_fallback | 2026-06-07 09:01:57 EDT |
 
 ## Neighbors
 

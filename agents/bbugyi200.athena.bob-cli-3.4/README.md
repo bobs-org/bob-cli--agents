@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`65ecb20`](https://github.com/bobs-org/bob-cli/commit/65ecb2074674d559e2430224a38bb27b38c70191) | feat: support synced dataview queries (bob-cli-3.4) | 2026-06-03 17:37:11 UTC |
+| bob-cli | [`65ecb20`](https://github.com/bobs-org/bob-cli/commit/65ecb2074674d559e2430224a38bb27b38c70191) | feat: support synced dataview queries (bob-cli-3.4) | 2026-06-03 13:37:11 EDT |
 
 ## Neighbors
 

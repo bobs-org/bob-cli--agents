@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`69b5f68`](https://github.com/bobs-org/bob-cli/commit/69b5f68a63bececded4bb636d52d1e496b5faec7) | chore: close bob-cli-2 epic | 2026-06-02 12:47:43 UTC |
+| bob-cli | [`69b5f68`](https://github.com/bobs-org/bob-cli/commit/69b5f68a63bececded4bb636d52d1e496b5faec7) | chore: close bob-cli-2 epic | 2026-06-02 08:47:43 EDT |
 
 ## Neighbors
 

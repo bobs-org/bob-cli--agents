@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0450b17`](https://github.com/bobs-org/bob-cli/commit/0450b17e3a607c7c19fc975737e5e6e6ff41ed1c) | chore: Add SDD prompt and plan for plugins\_git\_pull | 2026-07-08 16:33:52 UTC |
+| bob-cli | [`0450b17`](https://github.com/bobs-org/bob-cli/commit/0450b17e3a607c7c19fc975737e5e6e6ff41ed1c) | chore: Add SDD prompt and plan for plugins\_git\_pull | 2026-07-08 12:33:52 EDT |
 
 ## Neighbors
 

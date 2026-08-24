@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1d2ea44`](https://github.com/bobs-org/bob-cli/commit/1d2ea447e682ebf71ef4a12e66ea56482b10c386) | feat: add highlights-ref command skeleton (home-2.1) | 2026-06-03 06:51:23 UTC |
+| bob-cli | [`1d2ea44`](https://github.com/bobs-org/bob-cli/commit/1d2ea447e682ebf71ef4a12e66ea56482b10c386) | feat: add highlights-ref command skeleton (home-2.1) | 2026-06-03 02:51:23 EDT |
 
 ## Neighbors
 

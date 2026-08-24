@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c2bafbd`](https://github.com/bobs-org/bob-cli/commit/c2bafbd17a5a84970624600909e6bcd41367897d) | feat(pomodoro): expose stale status output | 2026-08-08 23:37:08 UTC |
+| bob-cli | [`c2bafbd`](https://github.com/bobs-org/bob-cli/commit/c2bafbd17a5a84970624600909e6bcd41367897d) | feat(pomodoro): expose stale status output | 2026-08-08 19:37:08 EDT |
 
 ## Neighbors
 

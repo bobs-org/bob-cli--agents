@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7615c3b`](https://github.com/bobs-org/bob-cli/commit/7615c3bf6c09df41fb3c67e81017d2125ffadda3) | chore: Add SDD prompt and plan for enter\_link\_jump\_create | 2026-06-05 18:42:07 UTC |
+| bob-cli | [`7615c3b`](https://github.com/bobs-org/bob-cli/commit/7615c3bf6c09df41fb3c67e81017d2125ffadda3) | chore: Add SDD prompt and plan for enter\_link\_jump\_create | 2026-06-05 14:42:07 EDT |
 
 ## Neighbors
 

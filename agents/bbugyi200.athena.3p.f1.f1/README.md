@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`38141a0`](https://github.com/bobs-org/bob-cli/commit/38141a059c0f2f776f31aac9c9671052074b999e) | chore: Add SDD prompt and plan for highlight\_task\_routing\_processed\_index | 2026-06-08 11:08:33 UTC |
-| bob-cli | [`7a5bee3`](https://github.com/bobs-org/bob-cli/commit/7a5bee39160b512924a1997f8e12b6a50740eedf) | feat: route highlight annotation tasks | 2026-06-08 11:24:39 UTC |
+| bob-cli | [`38141a0`](https://github.com/bobs-org/bob-cli/commit/38141a059c0f2f776f31aac9c9671052074b999e) | chore: Add SDD prompt and plan for highlight\_task\_routing\_processed\_index | 2026-06-08 07:08:33 EDT |
+| bob-cli | [`7a5bee3`](https://github.com/bobs-org/bob-cli/commit/7a5bee39160b512924a1997f8e12b6a50740eedf) | feat: route highlight annotation tasks | 2026-06-08 07:24:39 EDT |
 
 ## Neighbors
 

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ca4497a`](https://github.com/bobs-org/bob-cli/commit/ca4497a547965b223428d39ffbc63235fc4f8ebe) | chore: Add SDD prompt and plan for obsidian\_task\_toggle\_center\_after\_move | 2026-06-14 15:11:51 UTC |
+| bob-cli | [`ca4497a`](https://github.com/bobs-org/bob-cli/commit/ca4497a547965b223428d39ffbc63235fc4f8ebe) | chore: Add SDD prompt and plan for obsidian\_task\_toggle\_center\_after\_move | 2026-06-14 11:11:51 EDT |
 
 ## Neighbors
 

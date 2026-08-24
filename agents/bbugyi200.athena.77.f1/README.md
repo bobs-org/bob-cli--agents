@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`60a3cb5`](https://github.com/bobs-org/bob-cli/commit/60a3cb5a8169882db9c162ac45fce6cf3d7f405a) | chore: Add SDD prompt and plan for top\_level\_task\_toggle\_routing | 2026-06-14 14:29:45 UTC |
+| bob-cli | [`60a3cb5`](https://github.com/bobs-org/bob-cli/commit/60a3cb5a8169882db9c162ac45fce6cf3d7f405a) | chore: Add SDD prompt and plan for top\_level\_task\_toggle\_routing | 2026-06-14 10:29:45 EDT |
 
 ## Neighbors
 

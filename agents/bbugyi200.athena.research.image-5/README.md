@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f2ea88a`](https://github.com/bobs-org/bob-cli/commit/f2ea88af37c3179bcc9edd5d4560be198c388569) | chore: add dataview parity infographic | 2026-06-03 20:26:28 UTC |
+| bob-cli | [`f2ea88a`](https://github.com/bobs-org/bob-cli/commit/f2ea88af37c3179bcc9edd5d4560be198c388569) | chore: add dataview parity infographic | 2026-06-03 16:26:28 EDT |
 
 ## Neighbors
 

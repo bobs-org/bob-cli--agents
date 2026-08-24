@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2629238`](https://github.com/bobs-org/bob-cli/commit/26292384b7379f6763f57b892a8d3edf4eeb7a3d) | chore: Add SDD prompt and plan for transcluded\_task\_at\_keymap | 2026-07-07 23:16:02 UTC |
+| bob-cli | [`2629238`](https://github.com/bobs-org/bob-cli/commit/26292384b7379f6763f57b892a8d3edf4eeb7a3d) | chore: Add SDD prompt and plan for transcluded\_task\_at\_keymap | 2026-07-07 19:16:02 EDT |
 
 ## Neighbors
 

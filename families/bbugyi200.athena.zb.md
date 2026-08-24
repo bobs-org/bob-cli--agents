@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`453dfdf`](https://github.com/bobs-org/bob-cli/commit/453dfdfb8ac508cc62962cba41b8ad0f27432dd4) | feat(highlights)!: add xlib PDF intake workflow | 2026-08-13 13:27:14 UTC |
+| code | bob-cli | [`453dfdf`](https://github.com/bobs-org/bob-cli/commit/453dfdfb8ac508cc62962cba41b8ad0f27432dd4) | feat(highlights)!: add xlib PDF intake workflow | 2026-08-13 09:27:14 EDT |

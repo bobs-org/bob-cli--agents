@@ -24,4 +24,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`cf931a3`](https://github.com/bobs-org/bob-cli/commit/cf931a3829015e5cfa004b32c715334e4982ebc9) | feat(cli): rename task status command to task-status-hooks | 2026-07-16 20:16:53 UTC |
+| code | bob-cli | [`cf931a3`](https://github.com/bobs-org/bob-cli/commit/cf931a3829015e5cfa004b32c715334e4982ebc9) | feat(cli): rename task status command to task-status-hooks | 2026-07-16 16:16:53 EDT |

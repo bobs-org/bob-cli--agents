@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2c93125`](https://github.com/bobs-org/bob-cli/commit/2c931256cb69492e1e936cca5656557665c84bea) | chore: Add SDD prompt and plan for obsidian\_move\_tab\_keymaps | 2026-06-12 18:21:25 UTC |
+| bob-cli | [`2c93125`](https://github.com/bobs-org/bob-cli/commit/2c931256cb69492e1e936cca5656557665c84bea) | chore: Add SDD prompt and plan for obsidian\_move\_tab\_keymaps | 2026-06-12 14:21:25 EDT |

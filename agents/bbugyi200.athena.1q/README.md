@@ -17,4 +17,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7dda4ef`](https://github.com/bobs-org/bob-cli/commit/7dda4eff2d942187b97805cf43b4ebd5b66b03d1) | chore: Add SDD prompt and plan for maybe\_bob\_highlights\_sync | 2026-06-03 15:52:32 UTC |
+| bob-cli | [`7dda4ef`](https://github.com/bobs-org/bob-cli/commit/7dda4eff2d942187b97805cf43b4ebd5b66b03d1) | chore: Add SDD prompt and plan for maybe\_bob\_highlights\_sync | 2026-06-03 11:52:32 EDT |
