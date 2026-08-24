@@ -22,5 +22,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-12.1](../bbugyi200.athena.bob-cli-12.1/README.md) | bob-cli-12 hood | active |
-| [bob-cli-12.2](../bbugyi200.athena.bob-cli-12.2/README.md) | bob-cli-12 hood | waiting |
+| [bob-cli-12.1](../bbugyi200.athena.bob-cli-12.1/README.md) | bob-cli-12 hood | completed |
+| [bob-cli-12.2](../bbugyi200.athena.bob-cli-12.2/README.md) | bob-cli-12 hood | active |
