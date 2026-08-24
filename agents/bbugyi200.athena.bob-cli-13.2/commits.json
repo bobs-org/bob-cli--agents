@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-cb981e1931e58ff5fa186c56f7b30a8a"}
+{"commits":[{"committed_at":1787600981,"sha":"025dc0610d2cb6cd7123165fe2db8a3a988bf3c7","subject":"feat(capture): add capture-rewrite and the bare @@ absorption rule"}],"schema_version":2,"source_run_id":"run-cb981e1931e58ff5fa186c56f7b30a8a"}

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-13](../../users/bbugyi200/machines/athena/hoods/bob-cli-13/README.md) / bob-cli-13.1
 
-**Global name:** `bbugyi200.athena.bob-cli-13.1` · **State:** active · **Source run:** `run-d5e3e48423a3a3098a65be4a893c048c`
+**Global name:** `bbugyi200.athena.bob-cli-13.1` · **State:** completed · **Source run:** `run-d5e3e48423a3a3098a65be4a893c048c`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-13
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-13](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-13/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-24T19:03:20.501723+00:00
+- Timing: 2026-08-24T19:03:20.501723+00:00 → 2026-08-24T19:25:48.621349+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,6 +29,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-13.2](../bbugyi200.athena.bob-cli-13.2/README.md) | bob-cli-13 hood | waiting |
+| [bob-cli-13.2](../bbugyi200.athena.bob-cli-13.2/README.md) | bob-cli-13 hood | active |
 | [bob-cli-13.3](../bbugyi200.athena.bob-cli-13.3/README.md) | bob-cli-13 hood | waiting |
 | [bob-cli-13.land](../bbugyi200.athena.bob-cli-13.land/README.md) | bob-cli-13 hood | waiting |

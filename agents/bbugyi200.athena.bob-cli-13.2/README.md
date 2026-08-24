@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-13](../../users/bbugyi200/machines/athena/hoods/bob-cli-13/README.md) / bob-cli-13.2
 
-**Global name:** `bbugyi200.athena.bob-cli-13.2` · **State:** waiting · **Source run:** `run-cb981e1931e58ff5fa186c56f7b30a8a`
+**Global name:** `bbugyi200.athena.bob-cli-13.2` · **State:** active · **Source run:** `run-cb981e1931e58ff5fa186c56f7b30a8a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-13
 
@@ -12,17 +12,23 @@
 - Epic: [bob-cli-13](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-13/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20260824150211
-- Commits: 0
+- Timing: 2026-08-24T19:27:08.697825+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`025dc06`](https://github.com/bobs-org/bob-cli/commit/025dc0610d2cb6cd7123165fe2db8a3a988bf3c7) | feat(capture): add capture-rewrite and the bare @@ absorption rule | 2026-08-24 15:49:41 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-13.1](../bbugyi200.athena.bob-cli-13.1/README.md) | bob-cli-13 hood | active |
+| [bob-cli-13.1](../bbugyi200.athena.bob-cli-13.1/README.md) | bob-cli-13 hood | completed |
 | [bob-cli-13.3](../bbugyi200.athena.bob-cli-13.3/README.md) | bob-cli-13 hood | waiting |
 | [bob-cli-13.land](../bbugyi200.athena.bob-cli-13.land/README.md) | bob-cli-13 hood | waiting |
