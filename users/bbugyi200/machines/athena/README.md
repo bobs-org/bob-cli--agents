@@ -204,7 +204,7 @@
 | [bob-cli-10](hoods/bob-cli-10/README.md) | 6 | 0 | active 1, completed 4, waiting 1 |
 | [bob-cli-11](hoods/bob-cli-11/README.md) | 2 | 1 | active 1, dismissed 1 |
 | [bob-cli-12](hoods/bob-cli-12/README.md) | 3 | 0 | active 1, completed 2 |
-| [bob-cli-13](hoods/bob-cli-13/README.md) | 4 | 0 | active 1, completed 2, waiting 1 |
+| [bob-cli-13](hoods/bob-cli-13/README.md) | 4 | 0 | active 1, completed 3 |
 | [bob-cli-2](hoods/bob-cli-2/README.md) | 8 | 0 | completed 8 |
 | [bob-cli-3](hoods/bob-cli-3/README.md) | 8 | 0 | completed 8 |
 | [bob-cli-4](hoods/bob-cli-4/README.md) | 11 | 0 | completed 11 |
