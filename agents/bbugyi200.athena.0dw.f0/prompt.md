@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:0dw Can you now help me add the same functionality to Obsidian? #plan
