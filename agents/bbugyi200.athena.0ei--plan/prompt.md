@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli We recently added support to the `<ctrl+shift+m>` keymap for pomodoro sub-bullets. Can you help me make it so, when the last sub-bullet contained in a pomodoro is moved out of that pomodoro, that we delete that pomodoro (I think we leave an empty bullet in this case now)? #plan
