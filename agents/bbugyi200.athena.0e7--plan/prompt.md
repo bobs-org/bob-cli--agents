@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli I plan on performing a bug bash for sase soon. I have created some obsidian tasks already that are related to this. Can you help me find all of these obsidian tasks and move them into a new ~/bob/sase_bug_bash.md project note file? #plan

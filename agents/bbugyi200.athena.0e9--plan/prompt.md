@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli We recently added support for a `--` Obsidian snippet that expands to an em-dash. Can you now help me start auto-adding a space after the em-dash when the snippet is expanded? #plan
