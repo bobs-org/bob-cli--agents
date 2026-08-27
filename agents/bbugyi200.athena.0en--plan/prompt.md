@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me stop syncing the ~/bob/old_lib/ directory with Obsidian Sync? #plan
