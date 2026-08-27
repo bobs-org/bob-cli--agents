@@ -42,7 +42,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.0m.final](../agents/bbugyi200.athena.research.0m.final/README.md) | research hood | completed |
 | [research.0m.image](../agents/bbugyi200.athena.research.0m.image/README.md) | research hood | completed |
 | [research.1a.cdx](../agents/bbugyi200.athena.research.1a.cdx/README.md) | research hood | active |
-| [research.1a.cld](../agents/bbugyi200.athena.research.1a.cld/README.md) | research hood | active |
+| [research.1a.cld](../agents/bbugyi200.athena.research.1a.cld/README.md) | research hood | completed |
 | [research.1a.final](../agents/bbugyi200.athena.research.1a.final/README.md) | research hood | waiting |
 | [research.1a.image](../agents/bbugyi200.athena.research.1a.image/README.md) | research hood | waiting |
 | [research.4.cdx](../agents/bbugyi200.athena.research.4.cdx/README.md) | research hood | dismissed |
