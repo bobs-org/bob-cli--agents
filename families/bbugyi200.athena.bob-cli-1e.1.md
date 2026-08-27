@@ -27,5 +27,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-1e.2](../agents/bbugyi200.athena.bob-cli-1e.2/README.md) | bob-cli-1e hood | completed |
 | [bob-cli-1e.3](../agents/bbugyi200.athena.bob-cli-1e.3/README.md) | bob-cli-1e hood | completed |
 | [bob-cli-1e.4](bbugyi200.athena.bob-cli-1e.4.md) (family · 2) | bob-cli-1e hood | completed 2 |
-| [bob-cli-1e.5](../agents/bbugyi200.athena.bob-cli-1e.5/README.md) | bob-cli-1e hood | active |
-| [bob-cli-1e.land](../agents/bbugyi200.athena.bob-cli-1e.land/README.md) | bob-cli-1e hood | waiting |
+| [bob-cli-1e.5](../agents/bbugyi200.athena.bob-cli-1e.5/README.md) | bob-cli-1e hood | completed |
+| [bob-cli-1e.land](bbugyi200.athena.bob-cli-1e.land.md) (family · 3) | bob-cli-1e hood | active 3 |
