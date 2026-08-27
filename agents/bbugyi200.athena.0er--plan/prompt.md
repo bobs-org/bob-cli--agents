@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli My obsidian vault is still not syncing (see the bob-cli-1e epic bead for context). Can you help me audit the files that are being synced and recommend which files I should consider no longer syncing in order to make it back under my Obsidian plan's 1GB sync limit? #plan
