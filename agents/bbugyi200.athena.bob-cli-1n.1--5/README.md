@@ -27,5 +27,5 @@
 | [bob-cli-1n.3](../bbugyi200.athena.bob-cli-1n.3/README.md) | bob-cli-1n hood | completed |
 | [bob-cli-1n.4](../bbugyi200.athena.bob-cli-1n.4/README.md) | bob-cli-1n hood | completed |
 | [bob-cli-1n.5](../bbugyi200.athena.bob-cli-1n.5/README.md) | bob-cli-1n hood | completed |
-| [bob-cli-1n.6](../../families/bbugyi200.athena.bob-cli-1n.6.md) (family · 7) | bob-cli-1n hood | active 1, completed 3, failed 3 |
-| [bob-cli-1n.land](../bbugyi200.athena.bob-cli-1n.land/README.md) | bob-cli-1n hood | waiting |
+| [bob-cli-1n.6](../../families/bbugyi200.athena.bob-cli-1n.6.md) (family · 7) | bob-cli-1n hood | completed 4, failed 3 |
+| [bob-cli-1n.land](../bbugyi200.athena.bob-cli-1n.land/README.md) | bob-cli-1n hood | active |
