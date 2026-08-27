@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli When closing a named Pomodoro in Obsidian using the `<ctrl+enter>` keymap, I would like to start copying that name and using it for the new Pomodoro we create, if we create one. Can you help me implement this? #plan

@@ -1,0 +1,3 @@
+#gh:gh_bobs-org__bob-cli #fork:0ey Also when using this keymap to close a Pomodoro, if any of the task link sub-bullets have sub sub-bullets, those should be considered work log notes and should be copied to that task's work log, which should be created if it does not exist yet. Finally, I think the indentation we use for sub-bullets under the work log, might not be consistent with what Obsidian uses by default. Can you now help me implement this improvement and bug fix (confirm there really is a bug first)?
+
+#plan #m_opus
