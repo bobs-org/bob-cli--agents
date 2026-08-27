@@ -3,6 +3,16 @@
 - **TIMESTAMP:** 2026-08-27 13:30:48 EDT
 - **AGENT:** bob-cli-1n.1--4
 
+## Linked Chats
+
+- 1. --0 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_1n_1__0-260827_124955.md`
+- 2. --1 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_1n_1__1-260827_124955.md`
+- 3. --2 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_1n_1__2-260827_124955.md`
+- 4. --3 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_1n_1__3-260827_124955.md`
+- **5. --4** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_1n_1__4-260827_124955.md`
+- 6. --5 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_1n_1__5-260827_124955.md`
+- 7. --6 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_1n_1__6-260827_124955.md`
+
 ## Prompt
 
 #gh:gh_bobs-org__bob-cli

@@ -29,9 +29,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-1n.1](../../families/bbugyi200.athena.bob-cli-1n.1.md) (family · 11) | bob-cli-1n hood | active 6, failed 5 |
+| [bob-cli-1n.1](../../families/bbugyi200.athena.bob-cli-1n.1.md) (family · 13) | bob-cli-1n hood | active 5, completed 2, failed 6 |
 | [bob-cli-1n.2](../bbugyi200.athena.bob-cli-1n.2/README.md) | bob-cli-1n hood | completed |
-| [bob-cli-1n.3](../bbugyi200.athena.bob-cli-1n.3/README.md) | bob-cli-1n hood | active |
-| [bob-cli-1n.5](../bbugyi200.athena.bob-cli-1n.5/README.md) | bob-cli-1n hood | waiting |
+| [bob-cli-1n.3](../bbugyi200.athena.bob-cli-1n.3/README.md) | bob-cli-1n hood | completed |
+| [bob-cli-1n.5](../bbugyi200.athena.bob-cli-1n.5/README.md) | bob-cli-1n hood | active |
 | [bob-cli-1n.6](../bbugyi200.athena.bob-cli-1n.6/README.md) | bob-cli-1n hood | waiting |
 | [bob-cli-1n.land](../bbugyi200.athena.bob-cli-1n.land/README.md) | bob-cli-1n hood | waiting |

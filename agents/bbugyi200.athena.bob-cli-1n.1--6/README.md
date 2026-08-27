@@ -1,8 +1,8 @@
-# Agent: bob-cli-1n.1--2
+# Agent: bob-cli-1n.1--6
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-1n](../../users/bbugyi200/machines/athena/hoods/bob-cli-1n/README.md) / [bob-cli-1n.1](../../families/bbugyi200.athena.bob-cli-1n.1.md) / bob-cli-1n.1--2
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-1n](../../users/bbugyi200/machines/athena/hoods/bob-cli-1n/README.md) / [bob-cli-1n.1](../../families/bbugyi200.athena.bob-cli-1n.1.md) / bob-cli-1n.1--6
 
-**Global name:** `bbugyi200.athena.bob-cli-1n.1--2` · **State:** active · **Source run:** `run-c909b6730ff0e91e7741e83e16a886ae`
+**Global name:** `bbugyi200.athena.bob-cli-1n.1--6` · **State:** completed · **Source run:** `run-35431381705dfbe8caa570de552fa965`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-1n
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-1n](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-1n/README.md)
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-08-27T17:13:51.193526+00:00
+- Timing: 2026-08-27T17:44:03.032635+00:00 → 2026-08-27T18:05:16.108577+00:00
 - Commits: 0
 
 ## Files

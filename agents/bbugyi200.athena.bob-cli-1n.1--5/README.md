@@ -15,13 +15,17 @@
 - Timing: 2026-08-27T17:30:53.343717+00:00
 - Commits: 0
 
+## Files
+
+[Chat](chat.md)
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-1n.2](../bbugyi200.athena.bob-cli-1n.2/README.md) | bob-cli-1n hood | completed |
-| [bob-cli-1n.3](../bbugyi200.athena.bob-cli-1n.3/README.md) | bob-cli-1n hood | active |
+| [bob-cli-1n.3](../bbugyi200.athena.bob-cli-1n.3/README.md) | bob-cli-1n hood | completed |
 | [bob-cli-1n.4](../bbugyi200.athena.bob-cli-1n.4/README.md) | bob-cli-1n hood | completed |
-| [bob-cli-1n.5](../bbugyi200.athena.bob-cli-1n.5/README.md) | bob-cli-1n hood | waiting |
+| [bob-cli-1n.5](../bbugyi200.athena.bob-cli-1n.5/README.md) | bob-cli-1n hood | active |
 | [bob-cli-1n.6](../bbugyi200.athena.bob-cli-1n.6/README.md) | bob-cli-1n hood | waiting |
 | [bob-cli-1n.land](../bbugyi200.athena.bob-cli-1n.land/README.md) | bob-cli-1n hood | waiting |
