@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:0ff Can you now help me make these keymaps work with a count (e.g. `3<ctrl+shift+j>`) to move the pomodoro down 3 instead of just 1? Make counts work for the other functionalities supported by these keymaps too. #plan
