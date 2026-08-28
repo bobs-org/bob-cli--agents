@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:0ff.f0 This didn't work. Can you help me fix this and make counts work with these keymaps? #plan #m_opus
