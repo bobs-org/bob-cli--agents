@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:0fw Does the bob-mac-capture app need explicit support for this as well or no? #if_so_plan
