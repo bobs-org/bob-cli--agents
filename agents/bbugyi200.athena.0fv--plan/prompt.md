@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me add a new CLI option to the `bob highlights create` command that lets me control the exact path of the PDF file that gets created? #plan
