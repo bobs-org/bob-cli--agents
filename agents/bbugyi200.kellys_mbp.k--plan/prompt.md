@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me start syncing my Obsidian vault on the apollo machine (accessible via SSH) via the `bob vault-sync` command? I believe we enabled a new service of some sort on launch for my Athena machine, which is offline at the moment. Do something similar for this machine. #plan %m:@xlarge %w(runners=100)
