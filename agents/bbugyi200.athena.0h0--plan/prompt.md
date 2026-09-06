@@ -1,0 +1,3 @@
+#gh:gh_bobs-org__bob-cli The `<ctrl+shift+j/k>` Obsidian keymaps already support moving future pomodoros down/up, but we don't support moving past or current pomodoros. We should continue to not support moving past Pomodoros but I would like to start allowing the user to use these keymaps to swap the current Pomodoro down or swap a future Pomodoro up into the current Pomodoro's place. We need to make sure to preserve the current Pomodoros time range but it should be associated with the new current Pomodoro, not the Pomodoro that was current before we made the swap. Can you help me implement this?
+
+#plan %m:@xlarge
