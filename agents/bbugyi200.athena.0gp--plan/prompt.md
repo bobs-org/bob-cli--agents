@@ -1,0 +1,3 @@
+#gh:gh_bobs-org__bob-cli The `<ctrl+shift+m>` Obsidian keymap can currently be used to move pomodoros from one section to another section. A new section is created if the user types in a section name that does not exist yet. I would like to also add support for creating a new section using the same name as the current section. Can you help me implement this by allowing the user to use `+` as the section name input to indicate that they want to create a new section with the same name as the current section?
+
+#plan %m:@xlarge
