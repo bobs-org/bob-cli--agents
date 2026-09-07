@@ -16,3 +16,9 @@
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [02t.f0](../../families/bbugyi200.athena.02t.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |

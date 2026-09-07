@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:02t Actually, can we migrate the `<ctrl+i>` keymap back to `<ctrl+j>` and use `<ctrl+shift+j/k>` for the new keymaps that move the cursor down/up? #plan
