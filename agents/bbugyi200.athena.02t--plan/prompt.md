@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me move the bob-mac-capture app's `<ctrl+j>` keymap to `<ctrl+i>` and then add the new `<ctrl+j>`/`<ctrl+k>` keymaps that can be used to move the cursor down/up, respectively, while maintaining the current column position if possible? #plan
