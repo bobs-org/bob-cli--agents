@@ -5,6 +5,7 @@
 | [01e.f1.md](01e.f1.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.01e.f1--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.01e.f1.md) | 1 |
 | [01e.md](01e.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202609/capture_line_edge_cycling.md][1] | - | [bbugyi200.athena.01e--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.01e.md) | 1 |
 | [01k.md](01k.md) | %model:@medium #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.01k--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.01k.md) | 1 |
+| [02t.md](02t.md) | %model:@medium #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.02t--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.02t.md) | 1 |
 | [0gp.md](0gp.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.0gp--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0gp.md) | 1 |
 | [0h0.md](0h0.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202609/current_pomodoro_swaps.md][1] | - | [bbugyi200.athena.0h0--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0h0.md) | 1 |
 | [bbugyi200.apollo.d.md](bbugyi200.apollo.d.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.apollo.d--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.apollo.d.md) | 1 |
