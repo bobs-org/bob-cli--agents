@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:01k When the `just install` command restarts the bob-mac-capture app, I would like to start sending a mac notification to the user to let them know. Can you help me implement this? #beau #plan
