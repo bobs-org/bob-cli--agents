@@ -16,3 +16,10 @@
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [01e.f0](../bbugyi200.athena.01e.f0/README.md) | descendant | active |
+| [01e.f1](../../families/bbugyi200.athena.01e.f1.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
