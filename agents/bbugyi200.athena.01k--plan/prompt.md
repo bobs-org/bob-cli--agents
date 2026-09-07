@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me make it so the `just install` command in the bob-mac-capture repo restarts the application (we already support restarting the bob-mac-capture app via a menu bar option) if it is running on the current machine? #plan
