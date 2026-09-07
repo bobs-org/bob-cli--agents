@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me add support to the `<ctrl+a/e>` keymaps in the bob-mac-capture app, which already work (i.e. move the cursor to the start/end of the line), for cycling to the beginning/end of the previous/next line when the cursor is already positioned at the beginning/end of the current line? #plan
