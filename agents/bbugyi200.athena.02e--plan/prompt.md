@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli The bob-mac-capture app already has the `<ctrl+o>` keymap, which inserts a newline below the current line. Can you help me add a new `<ctrl+shift+o>` keymap to the bob-mac-capture app that works in a similar way, but inserts the newline above the current line? #plan
