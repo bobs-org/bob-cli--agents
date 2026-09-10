@@ -13,16 +13,22 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-09-10T15:34:11.954279+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f7cf10f`](https://github.com/bobs-org/bob-cli/commit/f7cf10f0a5326f14c22cbda660c8ea33cf281717) | feat(task-status-hooks): add lossless Markdown status-group transform | 2026-09-10 12:12:36 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-1y.1](../bbugyi200.athena.bob-cli-1y.1/README.md) | bob-cli-1y hood | active |
+| [bob-cli-1y.1](../bbugyi200.athena.bob-cli-1y.1/README.md) | bob-cli-1y hood | completed |
 | [bob-cli-1y.3](../bbugyi200.athena.bob-cli-1y.3/README.md) | bob-cli-1y hood | waiting |
 | [bob-cli-1y.land](../bbugyi200.athena.bob-cli-1y.land/README.md) | bob-cli-1y hood | waiting |
