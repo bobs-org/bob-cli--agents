@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #coder:~/.sase/plans/202609/tmux_load_avg.md %m:@medium
