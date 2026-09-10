@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-1z
 
-**Global hood:** `bbugyi200.athena.bob-cli-1z` · **Runs:** 7 · **Families:** 0 · **States:** active 2, completed 3, waiting 2
+**Global hood:** `bbugyi200.athena.bob-cli-1z` · **Runs:** 7 · **Families:** 0 · **States:** active 1, completed 4, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -12,4 +12,4 @@
 | [bob-cli-1z.5](../../../../../../agents/bbugyi200.athena.bob-cli-1z.5/README.md) | active | sonnet / claude | 2026-09-10T19:08:01.869677+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-1z.5/prompt.md) |
 | [bob-cli-1z.6](../../../../../../agents/bbugyi200.athena.bob-cli-1z.6/README.md) | waiting | gpt-5.5 / codex | 20260910141438 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-1z.6/prompt.md) |
 | [bob-cli-1z.3](../../../../../../agents/bbugyi200.athena.bob-cli-1z.3/README.md) | completed | gpt-5.5 / codex | 2026-09-10T18:48:56.972091+00:00 → 2026-09-10T19:06:05.333210+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-1z.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-1z.3/chat.md) |
-| [bob-cli-1z.4](../../../../../../agents/bbugyi200.athena.bob-cli-1z.4/README.md) | active | gpt-5.5 / codex | 2026-09-10T19:07:47.896788+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-1z.4/prompt.md) |
+| [bob-cli-1z.4](../../../../../../agents/bbugyi200.athena.bob-cli-1z.4/README.md) | completed | gpt-5.5 / codex | 2026-09-10T19:07:47.896788+00:00 → 2026-09-10T19:14:30.444880+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-1z.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-1z.4/chat.md) |
