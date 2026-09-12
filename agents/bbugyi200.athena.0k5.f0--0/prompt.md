@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:0k5 Can you now help me make it so inputing `+` in this case splits the current pomodoro appropriately (assuming it was merged with one or more other pomodoros using this functionality in the past)? #plan
