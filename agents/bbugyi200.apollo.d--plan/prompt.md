@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me make the `bob_xlib_pull` script (defined in my chezmoi repo) iterate over `xhome apollo` instead of `home xhome`? #plan %w(runners=100)
