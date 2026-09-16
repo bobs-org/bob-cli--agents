@@ -22,6 +22,7 @@
 | [0kj.md](0kj.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202609/task_status_hooks_retries.md][1] | - | [bbugyi200.athena.0kj--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0kj.md) | 1 |
 | [0lc.md](0lc.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.0lc--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0lc.md) | 1 |
 | [0lu.md](0lu.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.0lu--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0lu.md) | 1 |
+| [0ly.md](0ly.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202609/fix_dotfiles_ci_tests.md][1] | - | [bbugyi200.athena.0ly--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0ly.md) | 1 |
 | [bbugyi200.apollo.d.md](bbugyi200.apollo.d.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.apollo.d--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.apollo.d.md) | 1 |
 | [bbugyi200.kellys_mbp.8.md](bbugyi200.kellys_mbp.8.md) | %model:@medium #gh:bobs-org/bob-cli [@plan:202609/pomodoro_name_plus.md][1] | - | [bbugyi200.kellys_mbp.8--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.kellys_mbp.8.md) | 1 |
 | [bbugyi200.kellys_mbp.k.md](bbugyi200.kellys_mbp.k.md) | fork:k %model:grok-4.6 %effort:xhigh | - | [bbugyi200.kellys_mbp.k--1](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.kellys_mbp.k.md) | 0 |
