@@ -12,6 +12,7 @@
 | [065.md](065.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202609/fix_bob_mac_capture_ci.md][1] | - | [bbugyi200.athena.065--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.065.md) | 1 |
 | [065_1.md](065_1.md) | fork:065 %model:grok-4.6 %effort:xhigh | - | [bbugyi200.athena.065--1](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.065.md) | 0 |
 | [065_2.md](065_2.md) | fork:065 %model:grok-4.6 %effort:xhigh | - | [bbugyi200.athena.065--2](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.065.md) | 0 |
+| [08.f0.md](08.f0.md) | gh:gh_bobs-org__bob-cli #fork:08 This caused a failure on my macbook (see the command | - | [bbugyi200.apollo.08.f0](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.apollo.08.f0/README.md) | 0 |
 | [08.md](08.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202609/bob_xlib_pull_parallel.md][1] | - | [bbugyi200.apollo.08--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.apollo.08.md) | 1 |
 | [0gp.md](0gp.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.0gp--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0gp.md) | 1 |
 | [0h0.md](0h0.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202609/current_pomodoro_swaps.md][1] | - | [bbugyi200.athena.0h0--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0h0.md) | 1 |
