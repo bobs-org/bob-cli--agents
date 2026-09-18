@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0mz](../../users/bbugyi200/machines/athena/hoods/0mz/README.md) / [0mz.f0](../../families/bbugyi200.athena.0mz.f0.md) / 0mz.f0--code
 
-**Global name:** `bbugyi200.athena.0mz.f0--code` · **State:** active · **Source run:** `run-c6b7b4ddfecde1843027866e49936eab`
+**Global name:** `bbugyi200.athena.0mz.f0--code` · **State:** completed · **Source run:** `run-c6b7b4ddfecde1843027866e49936eab`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 0mz
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-18T16:20:08.027479+00:00
+- Timing: 2026-09-18T16:20:08.027479+00:00 → 2026-09-18T17:05:45.237013+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,3 +28,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [0mz](../../families/bbugyi200.athena.0mz.md) (family · 3) | ancestor | completed 2, failed 1 |
+| [0mz.f0.f0](../../families/bbugyi200.athena.0mz.f0.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
+| [0mz.f0.f0.f0](../bbugyi200.athena.0mz.f0.f0.f0/README.md) | descendant | waiting |
