@@ -26,6 +26,7 @@
 | [0lu.md](0lu.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.0lu--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0lu.md) | 1 |
 | [0ly.md](0ly.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202609/fix_dotfiles_ci_tests.md][1] | - | [bbugyi200.athena.0ly--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0ly.md) | 1 |
 | [0m9.md](0m9.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202609/delete_empty_pomodoros.md][1] | - | [bbugyi200.athena.0m9--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0m9.md) | 1 |
+| [0mz.f0.md](0mz.f0.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202609/capture_force_next_move.md][1] | - | [bbugyi200.athena.0mz.f0--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0mz.f0.md) | 1 |
 | [0mz.md](0mz.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.0mz--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0mz.md) | 1 |
 | [bbugyi200.apollo.d.md](bbugyi200.apollo.d.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.apollo.d--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.apollo.d.md) | 1 |
 | [bbugyi200.kellys_mbp.8.md](bbugyi200.kellys_mbp.8.md) | %model:@medium #gh:bobs-org/bob-cli [@plan:202609/pomodoro_name_plus.md][1] | - | [bbugyi200.kellys_mbp.8--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.kellys_mbp.8.md) | 1 |
