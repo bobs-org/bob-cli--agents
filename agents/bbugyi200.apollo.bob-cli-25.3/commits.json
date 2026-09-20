@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0e6bafae7367269749a1eea6709a4401"}
+{"commits":[{"committed_at":1789945191,"sha":"a702261918d69095f3b200f529ac8cfd30399f3e","subject":"feat(capture): wire project-note execution and JSON contract"}],"schema_version":2,"source_run_id":"run-0e6bafae7367269749a1eea6709a4401"}
