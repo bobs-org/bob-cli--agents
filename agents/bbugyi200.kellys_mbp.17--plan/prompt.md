@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Why does the ~/.config/sase/sase_kellys_mbp.yml file have different contents than the equivalent file in my chezmoi repo? Can you help me fix this? #plan
