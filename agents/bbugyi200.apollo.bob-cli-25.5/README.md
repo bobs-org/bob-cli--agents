@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-25](../../users/bbugyi200/machines/apollo/hoods/bob-cli-25/README.md) / bob-cli-25.5
 
-**Global name:** `bbugyi200.apollo.bob-cli-25.5` · **State:** active · **Source run:** `run-eb8d37c90fee054a0cdc352816bad026`
+**Global name:** `bbugyi200.apollo.bob-cli-25.5` · **State:** completed · **Source run:** `run-eb8d37c90fee054a0cdc352816bad026`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-25
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-25](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-25/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-20T23:01:02.130835+00:00
+- Timing: 2026-09-20T23:01:02.130835+00:00 → 2026-09-20T23:06:19.565360+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
