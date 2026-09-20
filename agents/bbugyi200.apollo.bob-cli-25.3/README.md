@@ -23,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-25.1](../bbugyi200.apollo.bob-cli-25.1/README.md) | bob-cli-25 hood | waiting |
-| [bob-cli-25.2](../bbugyi200.apollo.bob-cli-25.2/README.md) | bob-cli-25 hood | active |
+| [bob-cli-25.1](../bbugyi200.apollo.bob-cli-25.1/README.md) | bob-cli-25 hood | active |
+| [bob-cli-25.2](../bbugyi200.apollo.bob-cli-25.2/README.md) | bob-cli-25 hood | completed |
 | [bob-cli-25.4](../bbugyi200.apollo.bob-cli-25.4/README.md) | bob-cli-25 hood | waiting |
 | [bob-cli-25.5](../bbugyi200.apollo.bob-cli-25.5/README.md) | bob-cli-25 hood | waiting |
 | [bob-cli-25.land](../bbugyi200.apollo.bob-cli-25.land/README.md) | bob-cli-25 hood | waiting |
