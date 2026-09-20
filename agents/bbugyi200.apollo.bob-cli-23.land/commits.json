@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-134da6f96a631d14fcf8f5da61041e54"}
+{"commits":[{"committed_at":1789935556,"sha":"d7ce1c34701744511b52d176e9364e4d6e30f2e6","subject":"style(highlights): unwrap the legacy pre-scan-hook test's write_file call"}],"schema_version":2,"source_run_id":"run-134da6f96a631d14fcf8f5da61041e54"}
