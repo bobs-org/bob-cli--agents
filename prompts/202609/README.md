@@ -31,6 +31,7 @@
 | [0mz.f0.md](0mz.f0.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202609/capture_force_next_move.md][1] | - | [bbugyi200.athena.0mz.f0--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0mz.f0.md) | 1 |
 | [0mz.md](0mz.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.0mz--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0mz.md) | 1 |
 | [0p.md](0p.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202609/pomodoro_equals_split.md][1] | - | [bbugyi200.apollo.0p--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.apollo.0p.md) | 1 |
+| [0pu.md](0pu.md) | %model:@medium #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.0pu--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0pu.md) | 1 |
 | [0q.md](0q.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202609/macscrot_parallel_athena.md][1] | - | [bbugyi200.apollo.0q--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.apollo.0q.md) | 1 |
 | [0t.md](0t.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202609/fix_bob_mac_capture_ci.md][1] | - | [bbugyi200.apollo.0t--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.apollo.0t.md) | 1 |
 | [0x.md](0x.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202609/fix_chezmoi_luarocks_lua51.md][1] | - | [bbugyi200.kellys_mbp.0x--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.kellys_mbp.0x.md) | 1 |
