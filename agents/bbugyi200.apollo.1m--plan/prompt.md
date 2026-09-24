@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me make the `<ctrl+shift+enter>` keymap work on task links too? When a task link is selected and this keymap is used, we should delete the task link and change the status of the corresponding Obsidian to open. #plan %auto
