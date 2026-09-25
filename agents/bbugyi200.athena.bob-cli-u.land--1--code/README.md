@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-u.1](../bbugyi200.athena.bob-cli-u.1/README.md) | bob-cli-u hood | dismissed |
-| [bob-cli-u.2](../bbugyi200.athena.bob-cli-u.2/README.md) | bob-cli-u hood | dismissed |
-| [bob-cli-u.land](../../families/bbugyi200.athena.bob-cli-u.land.md) (family · 2) | bob-cli-u hood | dismissed 1, failed 1 |
+| [bob-cli-u.1](../bbugyi200.athena.bob-cli-u.1/README.md) | bob-cli-u hood | active |
+| [bob-cli-u.2](../bbugyi200.athena.bob-cli-u.2/README.md) | bob-cli-u hood | active |
+| [bob-cli-u.land](../../families/bbugyi200.athena.bob-cli-u.land.md) (family · 2) | bob-cli-u hood | active 1, failed 1 |
 | [bob-cli-u.land--1--plan](../bbugyi200.athena.bob-cli-u.land--1--plan/README.md) | bob-cli-u hood | completed |

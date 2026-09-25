@@ -21,7 +21,7 @@ flowchart TD
   n0 --> n5
   n6["bob-cli-1n.1--3 [active]"]
   n0 --> n6
-  n7["bob-cli-1n.1--plan [completed]"]
+  n7["bob-cli-1n.1--plan [active]"]
   n0 --> n7
   n8["bob-cli-1n.1--2 [active]"]
   n0 --> n8
@@ -31,7 +31,7 @@ flowchart TD
   n0 --> n10
   n11["bob-cli-1n.1--gate-1 [failed]"]
   n0 --> n11
-  n12["bob-cli-1n.1--gate [failed]"]
+  n12["bob-cli-1n.1--gate [active]"]
   n0 --> n12
 ```
 
@@ -46,20 +46,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-gate-4"></a>gate-4 | bob-cli-1n.1--gate-4 | failed | gpt-5.5 / codex | 2026-08-27T17:43:56.515569+00:00 → 2026-08-27T17:43:58.088319+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-1n.1--gate-4/chat.md) |
 | <a id="member-4"></a>4 | bob-cli-1n.1--4 | active | gpt-5.5 / codex | 2026-08-27T17:27:01.546270+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-1n.1--4/chat.md) |
 | <a id="member-3"></a>3 | bob-cli-1n.1--3 | active | gpt-5.5 / codex | 2026-08-27T17:20:09.028912+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-1n.1--3/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-1n.1--plan | completed | gpt-5.5 / codex | 2026-08-27T16:50:23.539738+00:00 → 2026-08-27T18:05:16.108577+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-1n.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-1n.1--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-1n.1--plan | active | gpt-5.5 / codex | 2026-08-27T16:50:23.539738+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-1n.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-1n.1--plan/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-1n.1--2 | active | gpt-5.5 / codex | 2026-08-27T17:13:51.193526+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-1n.1--2/chat.md) |
 | <a id="member-gate-3"></a>gate-3 | bob-cli-1n.1--gate-3 | failed | gpt-5.5 / codex | 2026-08-27T17:30:46.468319+00:00 → 2026-08-27T17:30:48.115892+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-1n.1--gate-3/chat.md) |
 | <a id="member-gate-0"></a>gate-0 | bob-cli-1n.1--gate-0 | failed | gpt-5.5 / codex | 2026-08-27T17:13:41.576263+00:00 → 2026-08-27T17:13:44.471304+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-1n.1--gate-0/chat.md) |
 | <a id="member-gate-1"></a>gate-1 | bob-cli-1n.1--gate-1 | failed | gpt-5.5 / codex | 2026-08-27T17:20:00.424260+00:00 → 2026-08-27T17:20:02.850605+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-1n.1--gate-1/chat.md) |
-| <a id="member-gate"></a>gate | bob-cli-1n.1--gate | failed | gpt-5.5 / codex | 2026-08-27T17:05:44.027460+00:00 → 2026-08-27T17:05:47.106058+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-1n.1--gate/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-1n.1--gate | active | gpt-5.5 / codex | 2026-08-27T17:05:44.027460+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-1n.1--gate/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-1n.2](../agents/bbugyi200.athena.bob-cli-1n.2/README.md) | bob-cli-1n hood | completed |
-| [bob-cli-1n.3](../agents/bbugyi200.athena.bob-cli-1n.3/README.md) | bob-cli-1n hood | completed |
-| [bob-cli-1n.4](../agents/bbugyi200.athena.bob-cli-1n.4/README.md) | bob-cli-1n hood | completed |
-| [bob-cli-1n.5](../agents/bbugyi200.athena.bob-cli-1n.5/README.md) | bob-cli-1n hood | completed |
-| [bob-cli-1n.6](bbugyi200.athena.bob-cli-1n.6.md) (family · 7) | bob-cli-1n hood | completed 4, failed 3 |
+| [bob-cli-1n.2](../agents/bbugyi200.athena.bob-cli-1n.2/README.md) | bob-cli-1n hood | active |
+| [bob-cli-1n.3](../agents/bbugyi200.athena.bob-cli-1n.3/README.md) | bob-cli-1n hood | active |
+| [bob-cli-1n.4](../agents/bbugyi200.athena.bob-cli-1n.4/README.md) | bob-cli-1n hood | active |
+| [bob-cli-1n.5](../agents/bbugyi200.athena.bob-cli-1n.5/README.md) | bob-cli-1n hood | active |
+| [bob-cli-1n.6](bbugyi200.athena.bob-cli-1n.6.md) (family · 7) | bob-cli-1n hood | active 4, failed 3 |
 | [bob-cli-1n.land](../agents/bbugyi200.athena.bob-cli-1n.land/README.md) | bob-cli-1n hood | active |

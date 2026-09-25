@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `0g4` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0g4--plan [completed]"]
+  n0["0g4--plan [active]"]
   n1["0g4--gate [failed]"]
   n0 --> n1
-  n2["0g4--code [active]"]
+  n2["0g4--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0g4--plan | completed | opus / claude | 2026-08-29T13:52:59.363749+00:00 → 2026-08-29T14:01:26.847037+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g4--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0g4--plan | active | opus / claude | 2026-08-29T13:52:59.363749+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0g4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0g4--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0g4--gate | failed | opus / claude | 2026-08-29T14:01:19.700813+00:00 → 2026-08-29T14:02:47.857425+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0g4--gate/chat.md) |
-| <a id="member-code"></a>code | 0g4--code | active | grok-4.6 / grok | 2026-08-29T14:02:53.803718+00:00 | [1](../agents/bbugyi200.athena.0g4--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0g4--code/prompt.md) | — |
+| <a id="member-code"></a>code | 0g4--code | completed | grok-4.6 / grok | 2026-08-29T14:02:53.803718+00:00 → 2026-08-29T14:15:09.610707+00:00 | [1](../agents/bbugyi200.athena.0g4--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0g4--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0g4--code/chat.md) |
 
 ## Commits
 

@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0mz` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0mz--plan [completed]"]
+  n0["0mz--plan [active]"]
   n1["0mz--code [completed]"]
   n0 --> n1
   n2["0mz--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0mz--plan | completed | gpt-5.6-sol / codex | 2026-09-18T15:12:47.968220+00:00 → 2026-09-18T15:20:57.905694+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0mz--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0mz--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0mz--plan | active | gpt-5.6-sol / codex | 2026-09-18T15:12:47.968220+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0mz--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0mz--plan/chat.md) |
 | <a id="member-code"></a>code | 0mz--code | completed | gpt-5.5 / codex | 2026-09-18T15:22:25.606134+00:00 → 2026-09-18T15:29:51.320386+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0mz--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0mz--code/chat.md) |
 | <a id="member-gate"></a>gate | 0mz--gate | failed | gpt-5.6-sol / codex | 2026-09-18T15:21:18.082734+00:00 → 2026-09-18T15:21:58.240423+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0mz--gate/chat.md) |
 
@@ -27,6 +27,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [0mz.f0](bbugyi200.athena.0mz.f0.md) (family · 3) | descendant | completed 2, failed 1 |
-| [0mz.f0.f0](bbugyi200.athena.0mz.f0.f0.md) (family · 3) | descendant | completed 2, failed 1 |
+| [0mz.f0](bbugyi200.athena.0mz.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
+| [0mz.f0.f0](bbugyi200.athena.0mz.f0.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
 | [0mz.f0.f0.f0](bbugyi200.athena.0mz.f0.f0.f0.md) (family · 3) | descendant | active 1, completed 1, failed 1 |

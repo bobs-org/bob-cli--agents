@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-1e` · Members: 2 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-1e.1--plan [completed]"]
+  n0["bob-cli-1e.1--plan [active]"]
   n1["bob-cli-1e.1--1 [completed]"]
   n0 --> n1
 ```
@@ -17,15 +17,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-1e.1--plan | completed | gpt-5.5 / codex | 2026-08-27T12:14:39.824677+00:00 → 2026-08-27T12:22:50.448837+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-1e.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-1e.1--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-1e.1--plan | active | gpt-5.5 / codex | 2026-08-27T12:14:39.824677+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-1e.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-1e.1--plan/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-1e.1--1 | completed | sonnet / claude | 2026-08-27T12:21:14.402009+00:00 → 2026-08-27T12:22:50.448837+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-1e.1--1/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-1e.2](../agents/bbugyi200.athena.bob-cli-1e.2/README.md) | bob-cli-1e hood | completed |
-| [bob-cli-1e.3](../agents/bbugyi200.athena.bob-cli-1e.3/README.md) | bob-cli-1e hood | completed |
-| [bob-cli-1e.4](bbugyi200.athena.bob-cli-1e.4.md) (family · 2) | bob-cli-1e hood | completed 2 |
-| [bob-cli-1e.5](../agents/bbugyi200.athena.bob-cli-1e.5/README.md) | bob-cli-1e hood | completed |
-| [bob-cli-1e.land](bbugyi200.athena.bob-cli-1e.land.md) (family · 3) | bob-cli-1e hood | active 3 |
+| [bob-cli-1e.2](../agents/bbugyi200.athena.bob-cli-1e.2/README.md) | bob-cli-1e hood | active |
+| [bob-cli-1e.3](../agents/bbugyi200.athena.bob-cli-1e.3/README.md) | bob-cli-1e hood | active |
+| [bob-cli-1e.4](bbugyi200.athena.bob-cli-1e.4.md) (family · 2) | bob-cli-1e hood | active 1, completed 1 |
+| [bob-cli-1e.5](../agents/bbugyi200.athena.bob-cli-1e.5/README.md) | bob-cli-1e hood | active |
+| [bob-cli-1e.land](bbugyi200.athena.bob-cli-1e.land.md) (family · 3) | bob-cli-1e hood | active 2, completed 1 |

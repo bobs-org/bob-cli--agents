@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `022` · Members: 2
 ```mermaid
 flowchart TD
   n0["022.f1--code [completed]"]
-  n1["022.f1--plan [dismissed]"]
+  n1["022.f1--plan [active]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 022.f1--code | completed | grok-4.6 / grok | 2026-08-15T12:43:34.173006+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.022.f1--code/chat.md) |
-| <a id="member-plan"></a>plan | 022.f1--plan | dismissed | gpt-5.6-sol / codex | 2026-08-15T08:39:04.996617 → 2026-08-15T09:07:59.126046 | 0 | — | [Chat](../agents/bbugyi200.athena.022.f1--plan/chat.md) |
+| <a id="member-plan"></a>plan | 022.f1--plan | active | gpt-5.6-sol / codex | 2026-08-15T08:39:04.996617 | 0 | [Prompt](../agents/bbugyi200.athena.022.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.022.f1--plan/chat.md) |
 
 ## Commits
 
@@ -30,6 +30,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [022](bbugyi200.athena.022.md) (family · 2) | ancestor | completed 1, dismissed 1 |
-| [022.f0](bbugyi200.athena.022.f0.md) (family · 2) | 022 hood | completed 1, dismissed 1 |
-| [022.f0.f0](bbugyi200.athena.022.f0.f0.md) (family · 2) | 022 hood | completed 1, dismissed 1 |
+| [022](bbugyi200.athena.022.md) (family · 2) | ancestor | active 1, completed 1 |
+| [022.f0](bbugyi200.athena.022.f0.md) (family · 2) | 022 hood | active 1, completed 1 |
+| [022.f0.f0](bbugyi200.athena.022.f0.f0.md) (family · 2) | 022 hood | active 1, completed 1 |

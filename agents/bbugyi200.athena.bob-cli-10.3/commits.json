@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-18b9a7c6566b93d86528d69a0082b676"}
+{"commits":[{"committed_at":1787176084,"sha":"3d5c59b708e146ddaa71f08ff28ec83ccb203f7c","subject":"feat(capture): insert captured bullets under a selected task section"}],"schema_version":2,"source_run_id":"run-18b9a7c6566b93d86528d69a0082b676"}

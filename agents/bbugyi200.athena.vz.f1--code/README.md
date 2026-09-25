@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [vz](../bbugyi200.athena.vz/README.md) | ancestor | dismissed |
-| [vz.f0](../bbugyi200.athena.vz.f0/README.md) | vz hood | dismissed |
+| [vz](../bbugyi200.athena.vz/README.md) | ancestor | active |
+| [vz.f0](../bbugyi200.athena.vz.f0/README.md) | vz hood | active |

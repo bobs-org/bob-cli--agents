@@ -3,6 +3,12 @@
 - **TIMESTAMP:** 2026-08-27 09:19:42 EDT
 - **AGENT:** bob-cli-1e.land--1
 
+## Linked Chats
+
+- 1. --0 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_1e_land__0-260827_081422.md`
+- **2. --1** — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_1e_land__1-260827_081422.md`
+- 3. --2 — `~/.sase/chats/202608/gh_bobs_org__bob_cli-ace_run-bob_cli_1e_land__2-260827_081422.md`
+
 ## Prompt
 
 #gh:gh_bobs-org__bob-cli
