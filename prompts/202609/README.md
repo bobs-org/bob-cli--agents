@@ -34,6 +34,7 @@
 | [0pu.md](0pu.md) | %model:@medium #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.0pu--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.athena.0pu.md) | 1 |
 | [0q.md](0q.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202609/macscrot_parallel_athena.md][1] | - | [bbugyi200.apollo.0q--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.apollo.0q.md) | 1 |
 | [0t.md](0t.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202609/fix_bob_mac_capture_ci.md][1] | - | [bbugyi200.apollo.0t--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.apollo.0t.md) | 1 |
+| [0uk.md](0uk.md) | gh:gh_bobs-org__bob-cli Can you review the bob-cli-31 epic bead and summarize the | - | [bbugyi200.athena.0uk](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.0uk/README.md) | 0 |
 | [0x.md](0x.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202609/fix_chezmoi_luarocks_lua51.md][1] | - | [bbugyi200.kellys_mbp.0x--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.kellys_mbp.0x.md) | 1 |
 | [17.md](17.md) | %model:@medium #gh:gh_bobs-org__bob-cli | - | [bbugyi200.kellys_mbp.17--code](https://github.com/bobs-org/bob-cli--agents/blob/main/families/bbugyi200.kellys_mbp.17.md) | 1 |
 | [1u.md](1u.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202609/zsh_dci_alias_collision.md][1] | - | [bbugyi200.apollo.1u--code](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.1u.md) | 1 |
