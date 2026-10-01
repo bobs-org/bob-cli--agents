@@ -1,0 +1,7 @@
+- **PLAN:**
+  [202609/close_work_log_entries.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202609/close_work_log_entries.md)
+- **AGENTS:**
+  - [bbugyi200.athena.bob-cli-2z.3](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.bob-cli-2z.3/README.md)
+
+#gh:gh_bobs-org__bob-cli %id(3, clan=bob-cli-2z, bead=bob-cli-2z.3) %model:@medium
+%auto %w:bob-cli-2z.2 %w(bead=bob-cli-2z.2) #bd/work_phase_bead:bob-cli-2z.3
