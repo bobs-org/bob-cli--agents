@@ -2,6 +2,7 @@
 
 | Prompt | Title | Plan | Agent | Artifacts |
 | --- | --- | --- | --- | ---: |
+| [3t.cld.f0.md](3t.cld.f0.md) | gh:gh_bobs-org__bob-cli #fork:3t.cld I've never had a valid Gemini API key. What do I | - | [bbugyi200.apollo.3t.cld.f0](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.apollo.3t.cld.f0/README.md) | 0 |
 | [bob-cli-31.land.md](bob-cli-31.land.md) | %queue(weight=1) %auto #fork:bob-cli-31.land--code | - | [bbugyi200.apollo.bob-cli-31.land--1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.bob-cli-31.land.md) | 0 |
 | [park_worked_pomodoro_links.md](park_worked_pomodoro_links.md) | Can you help me add support to the `bob capture` command and the corresponding | [202610/park_worked_pomodoro_links.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202610/park_worked_pomodoro_links.md) | [bbugyi200.athena.0un.w0--plan](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.0un.w0.md) | 0 |
 | [priority_roll_decay_landing.md](priority_roll_decay_landing.md) | You are the land agent for epic bead bob-cli-34: verify the epic is truly complete, | [202610/priority_roll_decay_landing.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202610/priority_roll_decay_landing.md) | [bbugyi200.athena.bob-cli-34.land--plan](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.bob-cli-34.land.md) | 0 |
