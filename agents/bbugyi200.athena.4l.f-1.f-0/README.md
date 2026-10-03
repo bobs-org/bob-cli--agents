@@ -21,10 +21,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [4l.f-1](../../families/bbugyi200.athena.4l.f-1.md) (family · 2) | ancestor | active 2 |
-| [4l](../../families/bbugyi200.athena.4l.md) (family · 2) | ancestor | active 1, completed 1 |
-| [4l.f-0](../../families/bbugyi200.athena.4l.f-0.md) (family · 2) | 4l hood | active 1, completed 1 |
-| [4l.f-0.f-0](../../families/bbugyi200.athena.4l.f-0.f-0.md) (family · 2) | 4l hood | active 2 |
-| [4l.f-2](../../families/bbugyi200.athena.4l.f-2.md) (family · 2) | 4l hood | active 1, completed 1 |
-| [4l.f-2.f-0](../../families/bbugyi200.athena.4l.f-2.f-0.md) (family · 2) | 4l hood | active 1, completed 1 |
+| [4l.f-1](../../sessions/bbugyi200.athena.4l.f-1.md) (session · 2) | ancestor | active 2 |
+| [4l](../../sessions/bbugyi200.athena.4l.md) (session · 2) | ancestor | active 1, completed 1 |
+| [4l.f-0](../../sessions/bbugyi200.athena.4l.f-0.md) (session · 2) | 4l hood | active 1, completed 1 |
+| [4l.f-0.f-0](../../sessions/bbugyi200.athena.4l.f-0.f-0.md) (session · 2) | 4l hood | active 2 |
+| [4l.f-2](../../sessions/bbugyi200.athena.4l.f-2.md) (session · 2) | 4l hood | active 1, completed 1 |
+| [4l.f-2.f-0](../../sessions/bbugyi200.athena.4l.f-2.f-0.md) (session · 2) | 4l hood | active 1, completed 1 |
 | [4l.f-2.f-0.w-0](../bbugyi200.athena.4l.f-2.f-0.w-0/README.md) | 4l hood | active |

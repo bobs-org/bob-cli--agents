@@ -1,6 +1,6 @@
 # Agent: 6i--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [6i](../../users/bbugyi200/machines/athena/hoods/6i/README.md) / [6i](../../families/bbugyi200.athena.6i.md) / 6i--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [6i](../../users/bbugyi200/machines/athena/hoods/6i/README.md) / [6i](../../sessions/bbugyi200.athena.6i.md) / 6i--code
 
 **Global name:** `bbugyi200.athena.6i--code` · **State:** completed · **Source run:** `run-ea535b6f3f8004ba27211962e632c83c`
 
@@ -27,4 +27,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [6i.f-0](../../families/bbugyi200.athena.6i.f-0.md) (family · 2) | descendant | active 1, completed 1 |
+| [6i.f-0](../../sessions/bbugyi200.athena.6i.f-0.md) (session · 2) | descendant | active 1, completed 1 |

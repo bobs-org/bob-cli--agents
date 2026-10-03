@@ -1,0 +1,21 @@
+# Agent: 0g
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [0g](../../users/bbugyi200/machines/apollo/hoods/0g/README.md) / 0g
+
+**Global name:** `bbugyi200.apollo.0g` · **State:** completed · **Source run:** `run-cd8dbfa3bcc34350b0b9740900a59fba`
+
+**Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 0g
+
+## Summary
+
+- Model: —
+- Provider: —
+- Timing: 2026-06-03T00:53:30+00:00 → 2026-06-03T01:07:01+00:00
+- Commits: [2](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`9a457ba`](https://github.com/bobs-org/bob-cli/commit/9a457bafc11b28d98a7f6746664ea1fda223918d) | chore: Add SDD prompt and plan for collect\_done\_obsidian\_link\_repair | 2026-06-02 20:53:30 EDT |
+| bob-cli | [`9ac238e`](https://github.com/bobs-org/bob-cli/commit/9ac238e4c5291785cd5c336bd2473c676a858c6d) | feat: repair Obsidian block links during collect-done | 2026-06-02 21:07:01 EDT |

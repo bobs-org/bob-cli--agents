@@ -23,5 +23,5 @@
 |---|---|---|
 | [bob-cli-u.1](../bbugyi200.athena.bob-cli-u.1/README.md) | bob-cli-u hood | active |
 | [bob-cli-u.2](../bbugyi200.athena.bob-cli-u.2/README.md) | bob-cli-u hood | active |
-| [bob-cli-u.land](../../families/bbugyi200.athena.bob-cli-u.land.md) (family · 2) | bob-cli-u hood | active 1, failed 1 |
+| [bob-cli-u.land](../../sessions/bbugyi200.athena.bob-cli-u.land.md) (session · 2) | bob-cli-u hood | active 1, failed 1 |
 | [bob-cli-u.land--1--code](../bbugyi200.athena.bob-cli-u.land--1--code/README.md) | bob-cli-u hood | completed |

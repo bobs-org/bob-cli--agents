@@ -1,6 +1,6 @@
 # Agent: 7p--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7p](../../users/bbugyi200/machines/athena/hoods/7p/README.md) / [7p](../../families/bbugyi200.athena.7p.md) / 7p--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [7p](../../users/bbugyi200/machines/athena/hoods/7p/README.md) / [7p](../../sessions/bbugyi200.athena.7p.md) / 7p--code
 
 **Global name:** `bbugyi200.athena.7p--code` · **State:** completed · **Source run:** `run-de6b3311f851b9923f399b4b46746f79`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [7p.f0](../../families/bbugyi200.athena.7p.f0.md) (family · 2) | descendant | active 1, completed 1 |
+| [7p.f0](../../sessions/bbugyi200.athena.7p.f0.md) (session · 2) | descendant | active 1, completed 1 |

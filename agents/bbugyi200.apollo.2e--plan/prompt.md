@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli The new `^file:id=5` syntax just started a pomodoro without moving it above all future pomodoros (see the ~/tmp/screenshots/20260927_131503.png screenshot and the bob-cli-28 epic bead for context). Can you help me diagnose the root cause of this issue and fix it? #plan %m:@xlarge %auto

@@ -1,6 +1,6 @@
 # Agent: ad--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ad](../../users/bbugyi200/machines/athena/hoods/ad/README.md) / [ad](../../families/bbugyi200.athena.ad.md) / ad--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [ad](../../users/bbugyi200/machines/athena/hoods/ad/README.md) / [ad](../../sessions/bbugyi200.athena.ad.md) / ad--code
 
 **Global name:** `bbugyi200.athena.ad--code` · **State:** completed · **Source run:** `run-921780994b036c535894e368ac1b2b53`
 
@@ -29,4 +29,4 @@
 |---|---|---|
 | [ad.f0](../bbugyi200.athena.ad.f0/README.md) | descendant | active |
 | [ad.f1](../bbugyi200.athena.ad.f1/README.md) | descendant | waiting |
-| [ad.f2](../../families/bbugyi200.athena.ad.f2.md) (family · 2) | descendant | active 1, completed 1 |
+| [ad.f2](../../sessions/bbugyi200.athena.ad.f2.md) (session · 2) | descendant | active 1, completed 1 |

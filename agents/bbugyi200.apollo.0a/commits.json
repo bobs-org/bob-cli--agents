@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780440368,"sha":"d07a4bc6f6820d04a4d0f7a4288cbe47f177d81e","subject":"chore: Add SDD prompt and plan for bob_cronjob"},{"committed_at":1780441090,"sha":"3080741dfd1212dabcd7ddbe1cf72b93c3c3cbce","subject":"feat: Add `bob cronjob` as the single nightly entry point"}],"schema_version":2,"source_run_id":"run-ebefa68953b1f24fa8a558103733b927"}

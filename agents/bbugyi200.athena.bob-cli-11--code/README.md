@@ -1,6 +1,6 @@
 # Agent: bob-cli-11--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-11](../../users/bbugyi200/machines/athena/hoods/bob-cli-11/README.md) / [bob-cli-11](../../families/bbugyi200.athena.bob-cli-11.md) / bob-cli-11--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-11](../../users/bbugyi200/machines/athena/hoods/bob-cli-11/README.md) / [bob-cli-11](../../sessions/bbugyi200.athena.bob-cli-11.md) / bob-cli-11--code
 
 **Global name:** `bbugyi200.athena.bob-cli-11--code` · **State:** active · **Source run:** `run-b4c9088f6cde550d19bb4b721106c59e`
 

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1790630536,"sha":"7d1c8dd3054fd30f6e4f5a15e2dc61c42c3b2593","subject":"refactor(tests): split tests/cli.rs into tests/cli/ target with support and per-command modules"}],"schema_version":2,"source_run_id":"run-fe511f636e88b4f780963519dc6d1039"}

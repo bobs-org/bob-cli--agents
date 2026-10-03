@@ -1,6 +1,6 @@
 # Agent: k--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [k](../../users/bbugyi200/machines/kellys_mbp/hoods/k/README.md) / [k](../../families/bbugyi200.kellys_mbp.k.md) / k--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [k](../../users/bbugyi200/machines/kellys_mbp/hoods/k/README.md) / [k](../../sessions/bbugyi200.kellys_mbp.k.md) / k--code
 
 **Global name:** `bbugyi200.kellys_mbp.k--code` · **State:** completed · **Source run:** `run-d102e5af7f9c639c87a77f455b2a68d5`
 

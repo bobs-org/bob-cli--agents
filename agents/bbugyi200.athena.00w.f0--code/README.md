@@ -1,6 +1,6 @@
 # Agent: 00w.f0--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00w](../../users/bbugyi200/machines/athena/hoods/00w/README.md) / [00w.f0](../../families/bbugyi200.athena.00w.f0.md) / 00w.f0--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00w](../../users/bbugyi200/machines/athena/hoods/00w/README.md) / [00w.f0](../../sessions/bbugyi200.athena.00w.f0.md) / 00w.f0--code
 
 **Global name:** `bbugyi200.athena.00w.f0--code` · **State:** completed · **Source run:** `run-eda0c0dfedffeabe14e54fb9e2c1b098`
 
@@ -22,8 +22,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [00w](../bbugyi200.athena.00w/README.md) | ancestor | completed |
-| [00w.f0.f0](../../families/bbugyi200.athena.00w.f0.f0.md) (family · 2) | descendant | active 1, completed 1 |
-| [00w.f0.f0.w0](../../families/bbugyi200.athena.00w.f0.f0.w0.md) (family · 2) | descendant | active 1, failed 1 |
-| [00w.f0.f0.w0.w0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.md) (family · 2) | descendant | active 1, failed 1 |
-| [00w.f0.f0.w0.w0.w0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (family · 2) | descendant | active 1, completed 1 |
-| [00w.f0.f0.w0.w0.w0.f0](../../families/bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) (family · 2) | descendant | active 2 |
+| [00w.f0.f0](../../sessions/bbugyi200.athena.00w.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [00w.f0.f0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.md) (session · 2) | descendant | active 1, failed 1 |
+| [00w.f0.f0.w0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.md) (session · 2) | descendant | active 1, failed 1 |
+| [00w.f0.f0.w0.w0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (session · 2) | descendant | active 1, completed 1 |
+| [00w.f0.f0.w0.w0.w0.f0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) (session · 2) | descendant | active 2 |

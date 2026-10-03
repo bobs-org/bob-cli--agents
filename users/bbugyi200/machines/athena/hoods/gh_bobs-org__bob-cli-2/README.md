@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / gh\_bobs-org\_\_bob-cli-2
 
-**Global hood:** `bbugyi200.athena.gh_bobs-org__bob-cli-2` · **Runs:** 4 · **Families:** 0 · **States:** completed 4
+**Global hood:** `bbugyi200.athena.gh_bobs-org__bob-cli-2` · **Runs:** 4 · **Sessions:** 0 · **States:** completed 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|

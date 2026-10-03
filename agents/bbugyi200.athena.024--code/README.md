@@ -1,6 +1,6 @@
 # Agent: 024--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [024](../../users/bbugyi200/machines/athena/hoods/024/README.md) / [024](../../families/bbugyi200.athena.024.md) / 024--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [024](../../users/bbugyi200/machines/athena/hoods/024/README.md) / [024](../../sessions/bbugyi200.athena.024.md) / 024--code
 
 **Global name:** `bbugyi200.athena.024--code` · **State:** completed · **Source run:** `run-2196eb9507adb69cd380b7ac597a1918`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [024.w1](../../families/bbugyi200.athena.024.w1.md) (family · 2) | descendant | failed 2 |
+| [024.w1](../../sessions/bbugyi200.athena.024.w1.md) (session · 2) | descendant | failed 2 |

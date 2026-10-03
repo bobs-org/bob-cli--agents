@@ -1,6 +1,6 @@
 # Agent: bob-cli-b.land--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-b](../../users/bbugyi200/machines/athena/hoods/bob-cli-b/README.md) / [bob-cli-b.land](../../families/bbugyi200.athena.bob-cli-b.land.md) / bob-cli-b.land--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-b](../../users/bbugyi200/machines/athena/hoods/bob-cli-b/README.md) / [bob-cli-b.land](../../sessions/bbugyi200.athena.bob-cli-b.land.md) / bob-cli-b.land--code
 
 **Global name:** `bbugyi200.athena.bob-cli-b.land--code` · **State:** completed · **Source run:** `run-a21c0e43ee6486107f0e285dd9636e7f`
 

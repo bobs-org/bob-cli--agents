@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:4c Can you help me make sure this works when selecting `priority` with the `<ctrl+shift+p>` keymap too? #if_not_plan %auto

@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780595469,"sha":"f9b9f8ca4e18c214ad20deaab5fbe26d8212b659","subject":"chore: Add SDD prompt and plan for cli_short_options"},{"committed_at":1780596135,"sha":"cfa157b509510c26ce71f282cb836bd591559d62","subject":"feat: add short aliases for CLI options"}],"schema_version":2,"source_run_id":"run-7bfda912ef00b0bbf022078d45953c09"}

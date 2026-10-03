@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me make the `READY` badge in the ~/bob/dash.md file use the same style as the other badges on that page (see the ~/tmp/screenshots/20261001_104952.png screenshot for context)? #plan %auto

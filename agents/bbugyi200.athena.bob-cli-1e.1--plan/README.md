@@ -1,6 +1,6 @@
 # Agent: bob-cli-1e.1--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-1e](../../users/bbugyi200/machines/athena/hoods/bob-cli-1e/README.md) / [bob-cli-1e.1](../../families/bbugyi200.athena.bob-cli-1e.1.md) / bob-cli-1e.1--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-1e](../../users/bbugyi200/machines/athena/hoods/bob-cli-1e/README.md) / [bob-cli-1e.1](../../sessions/bbugyi200.athena.bob-cli-1e.1.md) / bob-cli-1e.1--plan
 
 **Global name:** `bbugyi200.athena.bob-cli-1e.1--plan` · **State:** active · **Source run:** `run-ecc011ebbea9d700ba6a0601455d5170`
 
@@ -25,6 +25,6 @@
 |---|---|---|
 | [bob-cli-1e.2](../bbugyi200.athena.bob-cli-1e.2/README.md) | bob-cli-1e hood | active |
 | [bob-cli-1e.3](../bbugyi200.athena.bob-cli-1e.3/README.md) | bob-cli-1e hood | active |
-| [bob-cli-1e.4](../../families/bbugyi200.athena.bob-cli-1e.4.md) (family · 2) | bob-cli-1e hood | active 1, completed 1 |
+| [bob-cli-1e.4](../../sessions/bbugyi200.athena.bob-cli-1e.4.md) (session · 2) | bob-cli-1e hood | active 1, completed 1 |
 | [bob-cli-1e.5](../bbugyi200.athena.bob-cli-1e.5/README.md) | bob-cli-1e hood | active |
-| [bob-cli-1e.land](../../families/bbugyi200.athena.bob-cli-1e.land.md) (family · 3) | bob-cli-1e hood | active 2, completed 1 |
+| [bob-cli-1e.land](../../sessions/bbugyi200.athena.bob-cli-1e.land.md) (session · 3) | bob-cli-1e hood | active 2, completed 1 |

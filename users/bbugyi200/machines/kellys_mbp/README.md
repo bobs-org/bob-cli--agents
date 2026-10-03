@@ -4,7 +4,7 @@
 
 **Project:** bob-cli · **Hoods:** 4 · **Runs:** 14
 
-| Hood | Runs | Families | States |
+| Hood | Runs | Sessions | States |
 |---|---:|---:|---|
 | [0x](hoods/0x/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [17](hoods/17/README.md) | 3 | 1 | active 1, completed 1, failed 1 |

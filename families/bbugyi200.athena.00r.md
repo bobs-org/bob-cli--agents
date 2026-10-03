@@ -1,27 +1,5 @@
-# Family: 00r
+# Moved to sessions/bbugyi200.athena.00r.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [00r](../users/bbugyi200/machines/athena/hoods/00r/README.md) / 00r
+This agent session page now lives at [`sessions/bbugyi200.athena.00r.md`](../sessions/bbugyi200.athena.00r.md).
 
-Owner: `bbugyi200.athena` · Hood: `00r` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["00r--code [completed]"]
-  n1["00r--plan [completed]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 00r--code | completed | sonnet / claude | 2026-08-14T12:37:41.932898+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.00r--code/chat.md) |
-| <a id="member-plan"></a>plan | 00r--plan | completed | gpt-5.6-sol / codex | 2026-08-14T12:31:49.415258+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.00r--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.00r--plan/chat.md) |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [00r.f0](bbugyi200.athena.00r.f0.md) (family · 2) | descendant | active 2 |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

@@ -1,6 +1,6 @@
 # Agent: bob-cli-t.land--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-t](../../users/bbugyi200/machines/athena/hoods/bob-cli-t/README.md) / [bob-cli-t.land](../../families/bbugyi200.athena.bob-cli-t.land.md) / bob-cli-t.land--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-t](../../users/bbugyi200/machines/athena/hoods/bob-cli-t/README.md) / [bob-cli-t.land](../../sessions/bbugyi200.athena.bob-cli-t.land.md) / bob-cli-t.land--mon
 
 **Global name:** `bbugyi200.athena.bob-cli-t.land--mon` · **State:** failed · **Source run:** `run-625c9b0d5b2b3df97f09b21601cf81e3`
 
@@ -30,7 +30,7 @@
 | [bob-cli-t.4.3](../bbugyi200.athena.bob-cli-t.4.3/README.md) | bob-cli-t hood | active |
 | [bob-cli-t.4.4](../bbugyi200.athena.bob-cli-t.4.4/README.md) | bob-cli-t hood | active |
 | [bob-cli-t.4.5.1](../bbugyi200.athena.bob-cli-t.4.5.1/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.4.5.2](../../families/bbugyi200.athena.bob-cli-t.4.5.2.md) (family · 2) | bob-cli-t hood | active 1, completed 1 |
+| [bob-cli-t.4.5.2](../../sessions/bbugyi200.athena.bob-cli-t.4.5.2.md) (session · 2) | bob-cli-t hood | active 1, completed 1 |
 | [bob-cli-t.4.5.3](../bbugyi200.athena.bob-cli-t.4.5.3/README.md) | bob-cli-t hood | active |
 | [bob-cli-t.4.5.land](../bbugyi200.athena.bob-cli-t.4.5.land/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.4.land](../../families/bbugyi200.athena.bob-cli-t.4.land.md) (family · 2) | bob-cli-t hood | active 1, failed 1 |
+| [bob-cli-t.4.land](../../sessions/bbugyi200.athena.bob-cli-t.4.land.md) (session · 2) | bob-cli-t hood | active 1, failed 1 |

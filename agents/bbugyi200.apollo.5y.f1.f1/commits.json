@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781288517,"sha":"926ca6dd2bba15dc9090c2d91e492241c69fabdd","subject":"chore: Add SDD prompt and plan for projects_subprojects_line"},{"committed_at":1781289306,"sha":"68918a64ae1150d5e9faa0cf4522aacb7ebc9ec1","subject":"feat(projects)!: sync sub-projects on marker line"}],"schema_version":2,"source_run_id":"run-2ac09b61ba485060cf4f587e36d497c9"}

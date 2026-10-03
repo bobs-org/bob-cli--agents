@@ -1,0 +1,26 @@
+# Agent: 6z.f1
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6z](../../users/bbugyi200/machines/apollo/hoods/6z/README.md) / 6z.f1
+
+**Global name:** `bbugyi200.apollo.6z.f1` · **State:** completed · **Source run:** `run-792cb0f0e89fd52854ce9f377dc5690f`
+
+**Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 6z
+
+## Summary
+
+- Model: —
+- Provider: —
+- Timing: 2026-06-14T11:34:01+00:00 → 2026-06-14T11:34:01+00:00
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`709ab13`](https://github.com/bobs-org/bob-cli/commit/709ab13b978537cfef2bba0d9f2870117217f660) | chore: Add SDD prompt and plan for fix\_project\_block\_link\_syntax | 2026-06-14 07:34:01 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [6z](../bbugyi200.apollo.6z/README.md) | ancestor | completed |

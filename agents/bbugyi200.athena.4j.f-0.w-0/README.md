@@ -1,6 +1,6 @@
 # Agent: 4j.f-0.w-0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4j](../../users/bbugyi200/machines/athena/hoods/4j/README.md) / [4j.f-0.w-0](../../families/bbugyi200.athena.4j.f-0.w-0.md) / 4j.f-0.w-0
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4j](../../users/bbugyi200/machines/athena/hoods/4j/README.md) / [4j.f-0.w-0](../../sessions/bbugyi200.athena.4j.f-0.w-0.md) / 4j.f-0.w-0
 
 **Global name:** `bbugyi200.athena.4j.f-0.w-0` · **State:** active · **Source run:** `run-2ac23880f9d3947cdfa92fcc30aae3d9`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [4j](../../families/bbugyi200.athena.4j.md) (family · 2) | ancestor | active 1, completed 1 |
+| [4j](../../sessions/bbugyi200.athena.4j.md) (session · 2) | ancestor | active 1, completed 1 |

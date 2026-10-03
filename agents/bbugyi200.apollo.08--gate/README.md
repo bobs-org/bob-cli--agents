@@ -1,6 +1,6 @@
 # Agent: 08--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [08](../../users/bbugyi200/machines/apollo/hoods/08/README.md) / [08](../../families/bbugyi200.apollo.08.md) / 08--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [08](../../users/bbugyi200/machines/apollo/hoods/08/README.md) / [08](../../sessions/bbugyi200.apollo.08.md) / 08--gate
 
 **Global name:** `bbugyi200.apollo.08--gate` · **State:** failed · **Source run:** `run-06f6ebaab4c3d3e989993446ebee277b`
 

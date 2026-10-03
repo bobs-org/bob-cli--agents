@@ -1,6 +1,6 @@
 # Agent: 17--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [17](../../users/bbugyi200/machines/kellys_mbp/hoods/17/README.md) / [17](../../families/bbugyi200.kellys_mbp.17.md) / 17--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [17](../../users/bbugyi200/machines/kellys_mbp/hoods/17/README.md) / [17](../../sessions/bbugyi200.kellys_mbp.17.md) / 17--gate
 
 **Global name:** `bbugyi200.kellys_mbp.17--gate` · **State:** failed · **Source run:** `run-7612f48930eeded12d88ea548f26133b`
 

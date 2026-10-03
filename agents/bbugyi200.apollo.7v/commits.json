@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781527169,"sha":"8af3ee93d56419aab05a3dae01d4108d3d41bb5b","subject":"chore: Add SDD prompt and plan for highlights_scan_output"},{"committed_at":1781528110,"sha":"f87e2640e41e299164e62f08bdba0ad05a17f882","subject":"feat(highlights)!: make scan output concise by default"}],"schema_version":2,"source_run_id":"run-0e9fd7f516491687c73742afcb539736"}

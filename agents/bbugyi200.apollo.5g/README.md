@@ -1,0 +1,26 @@
+# Agent: 5g
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [5g](../../users/bbugyi200/machines/apollo/hoods/5g/README.md) / 5g
+
+**Global name:** `bbugyi200.apollo.5g` · **State:** completed · **Source run:** `run-eebc2c172f00b860210ce52450187f84`
+
+**Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 5g
+
+## Summary
+
+- Model: —
+- Provider: —
+- Timing: 2026-06-11T16:38:23+00:00 → 2026-06-11T16:38:23+00:00
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`521a338`](https://github.com/bobs-org/bob-cli/commit/521a33822c349e1e8d8fe14141ca70cb7ea132f2) | chore: Add SDD prompt and plan for pomodoro\_ctrl\_enter\_close\_and\_create | 2026-06-11 12:38:23 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [5g.f1](../bbugyi200.apollo.5g.f1/README.md) | descendant | completed |

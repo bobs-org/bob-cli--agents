@@ -1,0 +1,19 @@
+#gh:gh_bobs-org__bob-cli
+%id(land, clan=bob-cli-2o, bead=bob-cli-2o)
+%model:@xlarge
+%auto
+%w:bob-cli-2o.1,bob-cli-2o.2,bob-cli-2o.8,bob-cli-2o.3,bob-cli-2o.4,bob-cli-2o.7,bob-cli-2o.5,bob-cli-2o.10,bob-cli-2o.11,bob-cli-2o.9,bob-cli-2o.6,bob-cli-2o.12,bob-cli-2o.13
+%w(bead=bob-cli-2o.1)
+%w(bead=bob-cli-2o.2)
+%w(bead=bob-cli-2o.3)
+%w(bead=bob-cli-2o.4)
+%w(bead=bob-cli-2o.5)
+%w(bead=bob-cli-2o.6)
+%w(bead=bob-cli-2o.7)
+%w(bead=bob-cli-2o.10)
+%w(bead=bob-cli-2o.11)
+%w(bead=bob-cli-2o.12)
+%w(bead=bob-cli-2o.13)
+%w(bead=bob-cli-2o.8)
+%w(bead=bob-cli-2o.9)
+#bd/land_epic:bob-cli-2o

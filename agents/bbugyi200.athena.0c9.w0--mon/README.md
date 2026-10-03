@@ -1,6 +1,6 @@
 # Agent: 0c9.w0--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0c9](../../users/bbugyi200/machines/athena/hoods/0c9/README.md) / [0c9.w0](../../families/bbugyi200.athena.0c9.w0.md) / 0c9.w0--mon
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0c9](../../users/bbugyi200/machines/athena/hoods/0c9/README.md) / [0c9.w0](../../sessions/bbugyi200.athena.0c9.w0.md) / 0c9.w0--mon
 
 **Global name:** `bbugyi200.athena.0c9.w0--mon` · **State:** failed · **Source run:** `run-7e535ea29e303ada4dc319d2af86f085`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0c9](../../families/bbugyi200.athena.0c9.md) (family · 2) | ancestor | completed 2 |
+| [0c9](../../sessions/bbugyi200.athena.0c9.md) (session · 2) | ancestor | completed 2 |

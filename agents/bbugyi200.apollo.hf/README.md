@@ -1,0 +1,20 @@
+# Agent: hf
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [hf](../../users/bbugyi200/machines/apollo/hoods/hf/README.md) / hf
+
+**Global name:** `bbugyi200.apollo.hf` · **State:** completed · **Source run:** `run-7ce445f29034a0bb62204f9b8fa6636b`
+
+**Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** hf
+
+## Summary
+
+- Model: —
+- Provider: —
+- Timing: 2026-07-21T20:17:25+00:00 → 2026-07-21T20:17:25+00:00
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`084bb62`](https://github.com/bobs-org/bob-cli/commit/084bb625e57147c6b4dab7462deae051378c05d4) | feat: reconcile in-progress tasks using recent dailies | 2026-07-21 16:17:25 EDT |

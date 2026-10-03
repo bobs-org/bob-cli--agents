@@ -1,6 +1,6 @@
 # Agent: 0ff.f0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0ff](../../users/bbugyi200/machines/athena/hoods/0ff/README.md) / [0ff.f0](../../families/bbugyi200.athena.0ff.f0.md) / 0ff.f0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0ff](../../users/bbugyi200/machines/athena/hoods/0ff/README.md) / [0ff.f0](../../sessions/bbugyi200.athena.0ff.f0.md) / 0ff.f0--plan
 
 **Global name:** `bbugyi200.athena.0ff.f0--plan` · **State:** completed · **Source run:** `run-d5ca9e312503d03bed09d29903786d47`
 
@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0ff](../../families/bbugyi200.athena.0ff.md) (family · 3) | ancestor | completed 2, failed 1 |
+| [0ff](../../sessions/bbugyi200.athena.0ff.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [0ff.f0.f0](../bbugyi200.athena.0ff.f0.f0/README.md) | descendant | waiting |
-| [0ff.f0.f1](../../families/bbugyi200.athena.0ff.f0.f1.md) (family · 3) | descendant | active 1, completed 1, failed 1 |
+| [0ff.f0.f1](../../sessions/bbugyi200.athena.0ff.f0.f1.md) (session · 3) | descendant | active 1, completed 1, failed 1 |

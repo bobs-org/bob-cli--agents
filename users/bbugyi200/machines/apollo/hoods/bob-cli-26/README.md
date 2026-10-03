@@ -1,0 +1,21 @@
+# Hood: bob-cli-26
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-26
+
+**Global hood:** `bbugyi200.apollo.bob-cli-26` · **Runs:** 13 · **Sessions:** 2 · **States:** active 13
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [bob-cli-26.2](../../../../../../agents/bbugyi200.apollo.bob-cli-26.2/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-26T21:09:36.063719+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-26.2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.2/chat.md) |
+| [bob-cli-26.4.land--mon](../../../../../../sessions/bbugyi200.apollo.bob-cli-26.4.land.md#member-mon) | active | grok-4.7 / grok | 2026-09-26T22:20:09.368454+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.land--mon/chat.md) |
+| [bob-cli-26.4.2](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.2/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-26T21:52:26.518606+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.2/chat.md) |
+| [bob-cli-26.3](../../../../../../agents/bbugyi200.apollo.bob-cli-26.3/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-26T21:27:02.728047+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-26.3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.3/chat.md) |
+| [bob-cli-26.1](../../../../../../agents/bbugyi200.apollo.bob-cli-26.1/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-26T20:51:10.650001+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-26.1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.1/chat.md) |
+| [bob-cli-26.land--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-26.land.md#member-plan) | active | gpt-6-sol / codex | 2026-09-26T21:40:21.688618+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-26.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.land--plan/chat.md) |
+| [bob-cli-26.4.3.1](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.3.1/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-26T22:20:30.839052+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.3.1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.3.1/chat.md) |
+| [bob-cli-26.4.land--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-26.4.land.md#member-plan) | active | grok-4.7 / grok | 2026-09-26T21:57:37.690470+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.land--plan/chat.md) |
+| [bob-cli-26.4.3.land](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.3.land/README.md) | active | gpt-6-sol / codex | 2026-09-26T22:54:10.659907+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.3.land/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.3.land/chat.md) |
+| [bob-cli-26.4.land--gate](../../../../../../sessions/bbugyi200.apollo.bob-cli-26.4.land.md#member-gate) | active | grok-4.7 / grok | 2026-09-26T22:20:04.318719+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.land--gate/chat.md) |
+| [bob-cli-26.land--gate](../../../../../../sessions/bbugyi200.apollo.bob-cli-26.land.md#member-gate) | active | gpt-6-sol / codex | 2026-09-26T21:46:54.116183+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.land--gate/chat.md) |
+| [bob-cli-26.4.1](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.1/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-26T21:47:21.073411+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.4.1/chat.md) |
+| [bob-cli-26.land--mon](../../../../../../sessions/bbugyi200.apollo.bob-cli-26.land.md#member-mon) | active | gpt-6-sol / codex | 2026-09-26T21:46:58.345827+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-26.land--mon/chat.md) |

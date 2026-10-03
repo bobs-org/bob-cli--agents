@@ -15,10 +15,10 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [08](../../families/bbugyi200.apollo.08.md) (family · 3) | ancestor | completed 2, failed 1 |
+| [08](../../sessions/bbugyi200.apollo.08.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |

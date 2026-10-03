@@ -1,6 +1,6 @@
 # Agent: 08j.f0.f0.w0.f2--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [08j](../../users/bbugyi200/machines/athena/hoods/08j/README.md) / [08j.f0.f0.w0.f2](../../families/bbugyi200.athena.08j.f0.f0.w0.f2.md) / 08j.f0.f0.w0.f2--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [08j](../../users/bbugyi200/machines/athena/hoods/08j/README.md) / [08j.f0.f0.w0.f2](../../sessions/bbugyi200.athena.08j.f0.f0.w0.f2.md) / 08j.f0.f0.w0.f2--plan
 
 **Global name:** `bbugyi200.athena.08j.f0.f0.w0.f2--plan` · **State:** active · **Source run:** `run-d34c5d03708282762e89a6c8a34105f8`
 
@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [08j.f0.f0.w0](../../families/bbugyi200.athena.08j.f0.f0.w0.md) (family · 2) | ancestor | completed 2 |
-| [08j.f0.f0](../../families/bbugyi200.athena.08j.f0.f0.md) (family · 2) | ancestor | completed 2 |
-| [08j.f0](../../families/bbugyi200.athena.08j.f0.md) (family · 2) | ancestor | completed 2 |
-| [08j](../../families/bbugyi200.athena.08j.md) (family · 2) | ancestor | completed 2 |
+| [08j.f0.f0.w0](../../sessions/bbugyi200.athena.08j.f0.f0.w0.md) (session · 2) | ancestor | completed 2 |
+| [08j.f0.f0](../../sessions/bbugyi200.athena.08j.f0.f0.md) (session · 2) | ancestor | completed 2 |
+| [08j.f0](../../sessions/bbugyi200.athena.08j.f0.md) (session · 2) | ancestor | completed 2 |
+| [08j](../../sessions/bbugyi200.athena.08j.md) (session · 2) | ancestor | completed 2 |
 | [08j.f0.f0.w0.f0](../bbugyi200.athena.08j.f0.f0.w0.f0/README.md) | 08j.f0.f0.w0 hood | dismissed |

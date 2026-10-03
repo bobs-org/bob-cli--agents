@@ -1,6 +1,6 @@
 # Agent: 022.f1--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [022](../../users/bbugyi200/machines/athena/hoods/022/README.md) / [022.f1](../../families/bbugyi200.athena.022.f1.md) / 022.f1--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [022](../../users/bbugyi200/machines/athena/hoods/022/README.md) / [022.f1](../../sessions/bbugyi200.athena.022.f1.md) / 022.f1--plan
 
 **Global name:** `bbugyi200.athena.022.f1--plan` · **State:** active · **Source run:** `run-f5fdf76914c230be57ea9152240fa55e`
 
@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [022](../../families/bbugyi200.athena.022.md) (family · 2) | ancestor | active 1, completed 1 |
-| [022.f0](../../families/bbugyi200.athena.022.f0.md) (family · 2) | 022 hood | active 1, completed 1 |
-| [022.f0.f0](../../families/bbugyi200.athena.022.f0.f0.md) (family · 2) | 022 hood | active 1, completed 1 |
+| [022](../../sessions/bbugyi200.athena.022.md) (session · 2) | ancestor | active 1, completed 1 |
+| [022.f0](../../sessions/bbugyi200.athena.022.f0.md) (session · 2) | 022 hood | active 1, completed 1 |
+| [022.f0.f0](../../sessions/bbugyi200.athena.022.f0.f0.md) (session · 2) | 022 hood | active 1, completed 1 |

@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Selecting `dependsOn` in the menu that pops up when the `<ctrl+shift+p>` keymap is used causes Obsidian to crash. Can you help me diagnose the root cause of this issue and fix it? #plan %m:gpt-6-astra %auto

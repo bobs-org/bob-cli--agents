@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -28,5 +28,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-23.1](../bbugyi200.apollo.bob-cli-23.1/README.md) | bob-cli-23 hood | completed |
-| [bob-cli-23.2](../bbugyi200.apollo.bob-cli-23.2/README.md) | bob-cli-23 hood | completed |
+| [bob-cli-23.1](../bbugyi200.apollo.bob-cli-23.1/README.md) | bob-cli-23 hood | active |
+| [bob-cli-23.2](../bbugyi200.apollo.bob-cli-23.2/README.md) | bob-cli-23 hood | active |

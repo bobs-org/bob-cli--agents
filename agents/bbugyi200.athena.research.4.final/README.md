@@ -44,7 +44,7 @@
 | [research.5.cdx](../bbugyi200.athena.research.5.cdx/README.md) | research hood | active |
 | [research.5.cld](../bbugyi200.athena.research.5.cld/README.md) | research hood | active |
 | [research.5.final](../bbugyi200.athena.research.5.final/README.md) | research hood | active |
-| [research.5.final.f1](../../families/bbugyi200.athena.research.5.final.f1.md) (family · 2) | research hood | active 1, completed 1 |
+| [research.5.final.f1](../../sessions/bbugyi200.athena.research.5.final.f1.md) (session · 2) | research hood | active 1, completed 1 |
 | [research.5.image](../bbugyi200.athena.research.5.image/README.md) | research hood | active |
 | [research.9.cdx](../bbugyi200.athena.research.9.cdx/README.md) | research hood | completed |
 | [research.9.cld](../bbugyi200.athena.research.9.cld/README.md) | research hood | completed |

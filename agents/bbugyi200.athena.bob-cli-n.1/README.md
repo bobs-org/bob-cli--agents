@@ -31,4 +31,4 @@
 |---|---|---|
 | [bob-cli-n.2](../bbugyi200.athena.bob-cli-n.2/README.md) | bob-cli-n hood | active |
 | [bob-cli-n.3](../bbugyi200.athena.bob-cli-n.3/README.md) | bob-cli-n hood | active |
-| [bob-cli-n.land](../../families/bbugyi200.athena.bob-cli-n.land.md) (family · 2) | bob-cli-n hood | active 1, completed 1 |
+| [bob-cli-n.land](../../sessions/bbugyi200.athena.bob-cli-n.land.md) (session · 2) | bob-cli-n hood | active 1, completed 1 |

@@ -1,6 +1,6 @@
 # Agent: jr.f1--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [jr](../../users/bbugyi200/machines/athena/hoods/jr/README.md) / [jr.f1](../../families/bbugyi200.athena.jr.f1.md) / jr.f1--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [jr](../../users/bbugyi200/machines/athena/hoods/jr/README.md) / [jr.f1](../../sessions/bbugyi200.athena.jr.f1.md) / jr.f1--code
 
 **Global name:** `bbugyi200.athena.jr.f1--code` · **State:** completed · **Source run:** `run-760cba376b2949122fb015c44f830dc1`
 
@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [jr](../bbugyi200.athena.jr/README.md) | ancestor | completed |
-| [jr.f0](../../families/bbugyi200.athena.jr.f0.md) (family · 2) | jr hood | active 1, completed 1 |
+| [jr.f0](../../sessions/bbugyi200.athena.jr.f0.md) (session · 2) | jr hood | active 1, completed 1 |

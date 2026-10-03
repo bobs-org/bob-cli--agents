@@ -1,6 +1,6 @@
 # Agent: bob-cli-11--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-11](../../users/bbugyi200/machines/athena/hoods/bob-cli-11/README.md) / [bob-cli-11](../../families/bbugyi200.athena.bob-cli-11.md) / bob-cli-11--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-11](../../users/bbugyi200/machines/athena/hoods/bob-cli-11/README.md) / [bob-cli-11](../../sessions/bbugyi200.athena.bob-cli-11.md) / bob-cli-11--plan
 
 **Global name:** `bbugyi200.athena.bob-cli-11--plan` · **State:** dismissed · **Source run:** `run-cacaaaa3e685220cf2a0732005d8d0a8`
 

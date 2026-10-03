@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780540744,"sha":"78b95fb3b6e74f5895efb24d02fd87f9643ce44b","subject":"chore: Add SDD prompt and plan for ref_status_standardization"},{"committed_at":1780541276,"sha":"d0bcef133920c503aee775cb2a0681c28eca97d2","subject":"fix: enforce reference note status vocabulary"}],"schema_version":2,"source_run_id":"run-0521cbdde143a703a10f3415f4909920"}

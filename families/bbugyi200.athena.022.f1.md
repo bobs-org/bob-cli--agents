@@ -1,35 +1,5 @@
-# Family: 022.f1
+# Moved to sessions/bbugyi200.athena.022.f1.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [022](../users/bbugyi200/machines/athena/hoods/022/README.md) / 022.f1
+This agent session page now lives at [`sessions/bbugyi200.athena.022.f1.md`](../sessions/bbugyi200.athena.022.f1.md).
 
-Owner: `bbugyi200.athena` · Hood: `022` · Members: 2
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["022.f1--code [completed]"]
-  n1["022.f1--plan [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 022.f1--code | completed | grok-4.6 / grok | 2026-08-15T12:43:34.173006+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.022.f1--code/chat.md) |
-| <a id="member-plan"></a>plan | 022.f1--plan | active | gpt-5.6-sol / codex | 2026-08-15T08:39:04.996617 | 0 | [Prompt](../agents/bbugyi200.athena.022.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.022.f1--plan/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| — | bob-cli | [`2bdf4f7`](https://github.com/bobs-org/bob-cli/commit/2bdf4f7078ec4caa1efb2d966e9b805a97ef492c) | feat(capture)!: use + for sub-bullets and ^ for authored IDs | 2026-08-15 09:03:08 EDT |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [022](bbugyi200.athena.022.md) (family · 2) | ancestor | active 1, completed 1 |
-| [022.f0](bbugyi200.athena.022.f0.md) (family · 2) | 022 hood | active 1, completed 1 |
-| [022.f0.f0](bbugyi200.athena.022.f0.f0.md) (family · 2) | 022 hood | active 1, completed 1 |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

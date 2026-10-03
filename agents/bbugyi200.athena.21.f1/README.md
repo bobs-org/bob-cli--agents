@@ -1,6 +1,6 @@
 # Agent: 21.f1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [21](../../users/bbugyi200/machines/athena/hoods/21/README.md) / [21.f1](../../families/bbugyi200.athena.21.f1.md) / 21.f1
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [21](../../users/bbugyi200/machines/athena/hoods/21/README.md) / [21.f1](../../sessions/bbugyi200.athena.21.f1.md) / 21.f1
 
 **Global name:** `bbugyi200.athena.21.f1` · **State:** active · **Source run:** `run-0e617eec912ef8d1ae6e68a73a7f02e8`
 
@@ -27,5 +27,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [21](../../families/bbugyi200.athena.21.md) (family · 2) | ancestor | active 1, completed 1 |
-| [21.f2](../../families/bbugyi200.athena.21.f2.md) (family · 2) | 21 hood | active 1, completed 1 |
+| [21](../../sessions/bbugyi200.athena.21.md) (session · 2) | ancestor | active 1, completed 1 |
+| [21.f2](../../sessions/bbugyi200.athena.21.f2.md) (session · 2) | 21 hood | active 1, completed 1 |

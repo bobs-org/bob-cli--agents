@@ -1,6 +1,6 @@
 # Agent: bob-cli-u.land--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-u](../../users/bbugyi200/machines/athena/hoods/bob-cli-u/README.md) / [bob-cli-u.land](../../families/bbugyi200.athena.bob-cli-u.land.md) / bob-cli-u.land--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-u](../../users/bbugyi200/machines/athena/hoods/bob-cli-u/README.md) / [bob-cli-u.land](../../sessions/bbugyi200.athena.bob-cli-u.land.md) / bob-cli-u.land--plan
 
 **Global name:** `bbugyi200.athena.bob-cli-u.land--plan` · **State:** active · **Source run:** `run-0b8e65b369b85b1427cae1d275cf9bda`
 

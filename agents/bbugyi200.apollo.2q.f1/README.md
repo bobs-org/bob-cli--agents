@@ -1,0 +1,29 @@
+# Agent: 2q.f1
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [2q](../../users/bbugyi200/machines/apollo/hoods/2q/README.md) / 2q.f1
+
+**Global name:** `bbugyi200.apollo.2q.f1` · **State:** completed · **Source run:** `run-d29fefb21dd19dfa474439d81904896c`
+
+**Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 2q
+
+## Summary
+
+- Model: —
+- Provider: —
+- Timing: 2026-06-05T19:03:04+00:00 → 2026-06-05T19:03:04+00:00
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`bfef0f7`](https://github.com/bobs-org/bob-cli/commit/bfef0f7d823942b77edd0df74ed9fa81d7e839c8) | chore: Add SDD prompt and plan for enter\_link\_all\_link\_types | 2026-06-05 15:03:04 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [2q](../../sessions/bbugyi200.apollo.2q.md) (session · 3) | ancestor | active 1, failed 2 |
+| [2q.f1.f1](../bbugyi200.apollo.2q.f1.f1/README.md) | descendant | completed |
+| [2q.f1.f1.w1](../bbugyi200.apollo.2q.f1.f1.w1/README.md) | descendant | completed |
+| [2q.f2](../bbugyi200.apollo.2q.f2/README.md) | 2q hood | completed |

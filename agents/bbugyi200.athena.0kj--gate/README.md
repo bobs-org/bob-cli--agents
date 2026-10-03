@@ -1,6 +1,6 @@
 # Agent: 0kj--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0kj](../../users/bbugyi200/machines/athena/hoods/0kj/README.md) / [0kj](../../families/bbugyi200.athena.0kj.md) / 0kj--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0kj](../../users/bbugyi200/machines/athena/hoods/0kj/README.md) / [0kj](../../sessions/bbugyi200.athena.0kj.md) / 0kj--gate
 
 **Global name:** `bbugyi200.athena.0kj--gate` · **State:** failed · **Source run:** `run-601ca60f4de6f84c4394a3f99ae61a8a`
 

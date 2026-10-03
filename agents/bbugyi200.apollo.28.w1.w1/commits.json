@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780585272,"sha":"d5340fdca8962a5f347aa8af7efa1d8605b34efc","subject":"chore: Add SDD prompt and plan for rename_highlights_command"},{"committed_at":1780585688,"sha":"292f53024b144d565f7abc9446de51358bd63fa6","subject":"feat: rename highlights-ref command to highlights"}],"schema_version":2,"source_run_id":"run-7997c6ea9e8c0902e2f762a9f1ceb027"}

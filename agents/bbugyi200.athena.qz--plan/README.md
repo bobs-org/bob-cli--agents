@@ -1,6 +1,6 @@
 # Agent: qz--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [qz](../../users/bbugyi200/machines/athena/hoods/qz/README.md) / [qz](../../families/bbugyi200.athena.qz.md) / qz--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [qz](../../users/bbugyi200/machines/athena/hoods/qz/README.md) / [qz](../../sessions/bbugyi200.athena.qz.md) / qz--plan
 
 **Global name:** `bbugyi200.athena.qz--plan` · **State:** active · **Source run:** `run-8209da1e5a95952f460d43791f4ca69c`
 

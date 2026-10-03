@@ -1,6 +1,6 @@
 # Agent: k--gate
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [k](../../users/bbugyi200/machines/kellys_mbp/hoods/k/README.md) / [k](../../families/bbugyi200.kellys_mbp.k.md) / k--gate
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [k](../../users/bbugyi200/machines/kellys_mbp/hoods/k/README.md) / [k](../../sessions/bbugyi200.kellys_mbp.k.md) / k--gate
 
 **Global name:** `bbugyi200.kellys_mbp.k--gate` · **State:** failed · **Source run:** `run-b4c1230a3f37ecb8272727b88ea5622b`
 

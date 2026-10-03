@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:4r.f1 Ok. Just go ahead and mark every `^ref` task as done (i.e. `[x]`). #plan %m:gpt-6-astra %auto

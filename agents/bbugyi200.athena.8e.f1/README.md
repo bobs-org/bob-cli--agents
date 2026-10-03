@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [8e](../../families/bbugyi200.athena.8e.md) (family · 2) | ancestor | active 1, completed 1 |
+| [8e](../../sessions/bbugyi200.athena.8e.md) (session · 2) | ancestor | active 1, completed 1 |
 | [8e.f0](../bbugyi200.athena.8e.f0/README.md) | 8e hood | active |

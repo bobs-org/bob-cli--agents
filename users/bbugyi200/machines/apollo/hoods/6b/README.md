@@ -1,0 +1,9 @@
+# Hood: 6b
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / 6b
+
+**Global hood:** `bbugyi200.apollo.6b` · **Runs:** 1 · **Sessions:** 0 · **States:** completed 1
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [6b](../../../../../../agents/bbugyi200.apollo.6b/README.md) | completed | — | 2026-07-11T23:09:56+00:00 → 2026-07-11T23:09:56+00:00 | 1 | — |

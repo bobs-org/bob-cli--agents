@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1780478315,"sha":"175d392d9803bbb5c2995c77d2e824c6c38838fd","subject":"chore: Add SDD prompt and plan for cli_rules_conformance"},{"committed_at":1780479301,"sha":"2f4b4f618df1fc17a49f057cbd11c6628074ae53","subject":"fix: make CLI help safe and ordered"}],"schema_version":2,"source_run_id":"run-bc3de8a2c265fb771f258ced711f60be"}

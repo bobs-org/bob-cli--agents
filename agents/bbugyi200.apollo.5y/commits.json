@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1781286369,"sha":"e319209a471e555f74dc46b4c8efad9a7b6fe7c1","subject":"chore: Add SDD prompt and plan for projects_sync_subprojects_1"},{"committed_at":1781286880,"sha":"1a47f5e716ac0e3909f51f1b5256e90ea91fada6","subject":"feat: sync parent project priority from sub-projects"}],"schema_version":2,"source_run_id":"run-e50902d3d79a496916bfbd0ca247c3df"}

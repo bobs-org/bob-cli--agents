@@ -1,6 +1,6 @@
 # Agent: uq--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [uq](../../users/bbugyi200/machines/athena/hoods/uq/README.md) / [uq](../../families/bbugyi200.athena.uq.md) / uq--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [uq](../../users/bbugyi200/machines/athena/hoods/uq/README.md) / [uq](../../sessions/bbugyi200.athena.uq.md) / uq--plan
 
 **Global name:** `bbugyi200.athena.uq--plan` · **State:** active · **Source run:** `run-16ab2682fcc7b91edbb528e8f6a9d318`
 

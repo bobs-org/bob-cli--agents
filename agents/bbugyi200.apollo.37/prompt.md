@@ -1,0 +1,4 @@
+#gh:gh_bobs-org__bob-cli If I were to follow the advice of the pomodoro_closed_day_now_tag_automation.md
+file in the research sidecar repo, how would a task tagged with `#now` be different from
+an in-progress (i.e. `[/]`) task? Make sure your report is concise but beautiful.
+#research %m:@xlarge

@@ -1,6 +1,6 @@
 # Agent: 4j.f-0.w-0--epic
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4j](../../users/bbugyi200/machines/athena/hoods/4j/README.md) / [4j.f-0.w-0](../../families/bbugyi200.athena.4j.f-0.w-0.md) / 4j.f-0.w-0--epic
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4j](../../users/bbugyi200/machines/athena/hoods/4j/README.md) / [4j.f-0.w-0](../../sessions/bbugyi200.athena.4j.f-0.w-0.md) / 4j.f-0.w-0--epic
 
 **Global name:** `bbugyi200.athena.4j.f-0.w-0--epic` · **State:** completed · **Source run:** `run-f8d17ae5d83589eb6c1c8e374c2b1fce`
 
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [4j](../../families/bbugyi200.athena.4j.md) (family · 2) | ancestor | active 1, completed 1 |
+| [4j](../../sessions/bbugyi200.athena.4j.md) (session · 2) | ancestor | active 1, completed 1 |

@@ -24,4 +24,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [jr](../bbugyi200.athena.jr/README.md) | ancestor | completed |
-| [jr.f0](../../families/bbugyi200.athena.jr.f0.md) (family · 2) | jr hood | active 1, completed 1 |
+| [jr.f0](../../sessions/bbugyi200.athena.jr.f0.md) (session · 2) | jr hood | active 1, completed 1 |

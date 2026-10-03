@@ -1,38 +1,5 @@
-# Family: bob-cli-t.land
+# Moved to sessions/bbugyi200.athena.bob-cli-t.land.md
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-t](../users/bbugyi200/machines/athena/hoods/bob-cli-t/README.md) / bob-cli-t.land
+This agent session page now lives at [`sessions/bbugyi200.athena.bob-cli-t.land.md`](../sessions/bbugyi200.athena.bob-cli-t.land.md).
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-t` · Members: 2 · Bead: [bob-cli-t](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-t/README.md)
-
-## Lineage
-
-```mermaid
-flowchart TD
-  n0["bob-cli-t.land--mon [failed]"]
-  n1["bob-cli-t.land--plan [active]"]
-  n0 --> n1
-```
-
-The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
-
-| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
-|---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-t.land--mon | failed | gpt-5.6-sol / codex | 2026-08-15T15:31:10.541554+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-t.land--mon/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-t.land--plan | active | gpt-5.6-sol / codex | 2026-08-15T15:20:08.312369+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-t.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-t.land--plan/chat.md) |
-
-## Neighbors
-
-| Agent | Relation | State |
-|---|---|---|
-| [bob-cli-t.1](../agents/bbugyi200.athena.bob-cli-t.1/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.2](../agents/bbugyi200.athena.bob-cli-t.2/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.3](../agents/bbugyi200.athena.bob-cli-t.3/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.4.1](../agents/bbugyi200.athena.bob-cli-t.4.1/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.4.2](../agents/bbugyi200.athena.bob-cli-t.4.2/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.4.3](../agents/bbugyi200.athena.bob-cli-t.4.3/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.4.4](../agents/bbugyi200.athena.bob-cli-t.4.4/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.4.5.1](../agents/bbugyi200.athena.bob-cli-t.4.5.1/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.4.5.2](bbugyi200.athena.bob-cli-t.4.5.2.md) (family · 2) | bob-cli-t hood | active 1, completed 1 |
-| [bob-cli-t.4.5.3](../agents/bbugyi200.athena.bob-cli-t.4.5.3/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.4.5.land](../agents/bbugyi200.athena.bob-cli-t.4.5.land/README.md) | bob-cli-t hood | active |
-| [bob-cli-t.4.land](bbugyi200.athena.bob-cli-t.4.land.md) (family · 2) | bob-cli-t hood | active 1, failed 1 |
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

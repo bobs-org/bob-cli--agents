@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me remove the `#now` tag that we recently added to 73 of my Obsidian tasks? #plan %auto

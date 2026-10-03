@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [vz](../bbugyi200.athena.vz/README.md) | ancestor | active |
-| [vz.f1](../../families/bbugyi200.athena.vz.f1.md) (family · 2) | vz hood | active 1, completed 1 |
+| [vz.f1](../../sessions/bbugyi200.athena.vz.f1.md) (session · 2) | vz hood | active 1, completed 1 |
