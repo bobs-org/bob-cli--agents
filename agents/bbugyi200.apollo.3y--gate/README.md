@@ -1,0 +1,18 @@
+# Agent: 3y--gate
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [3y](../../users/bbugyi200/machines/apollo/hoods/3y/README.md) / [3y](../../sessions/bbugyi200.apollo.3y.md) / 3y--gate
+
+**Global name:** `bbugyi200.apollo.3y--gate` · **State:** failed · **Source run:** `run-833efa00d2c2143232d7e31f2e4959b8`
+
+**Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 3y
+
+## Summary
+
+- Model: opus
+- Provider: claude
+- Timing: 2026-10-01T15:19:25.312409+00:00 → 2026-10-01T15:19:33.361517+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md)

@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:48.f1 Also, the tomato icon is not supposed to show when `NO POMODORO` is shown. Can you help me fix this? #plan %auto
