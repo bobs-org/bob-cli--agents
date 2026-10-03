@@ -4,6 +4,11 @@
 - **MODEL:** grok/grok-4.7
 - **AGENT:** 4x--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-4x__plan-261003_182036.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-4x__code-261003_182036.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/counted_review_jumps.md
 
 
