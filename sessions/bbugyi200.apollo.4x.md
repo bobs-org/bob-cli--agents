@@ -21,4 +21,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 4x--plan | active | grok-4.7 / grok | 2026-10-03T22:20:45.339901+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.4x--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.4x--plan/chat.md) |
 | <a id="member-gate"></a>gate | 4x--gate | failed | grok-4.7 / grok | 2026-10-03T22:31:11.024763+00:00 → 2026-10-03T22:31:19.310383+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.4x--gate/chat.md) |
-| <a id="member-code"></a>code | 4x--code | active | grok-4.6 / grok | 2026-10-03T22:32:00.973880+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 4x--code | active | grok-4.6 / grok | 2026-10-03T22:32:00.973880+00:00 | [1](../agents/bbugyi200.apollo.4x--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`787365f`](https://github.com/bobs-org/bob-cli/commit/787365f81c1b313a6fee19bf4c7d0c63ea7167ca) | docs(freshness): note counted N\]s and N\[s review jumps | 2026-10-03 18:42:57 EDT |
