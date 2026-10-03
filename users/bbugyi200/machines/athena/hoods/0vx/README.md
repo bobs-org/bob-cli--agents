@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [0vx](../../../../../../agents/bbugyi200.athena.0vx/README.md) | completed | gpt-6-luna / codex | 2026-10-03T21:33:51.903865+00:00 → 2026-10-03T22:47:12.891747+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.0vx/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.0vx/chat.md) |
+| [0vx](../../../../../../agents/bbugyi200.athena.0vx/README.md) | completed | gpt-6-luna / codex | 2026-10-03T21:33:51.903865+00:00 → 2026-10-03T22:47:12.891747+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0vx/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0vx/prompt.md) |

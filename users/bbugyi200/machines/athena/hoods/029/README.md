@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [029](../../../../../../agents/bbugyi200.athena.029/README.md) | active | gemini-3.7-flash-high / agy | 2026-08-15T13:50:42.297197+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.029/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.029/chat.md) |
+| [029](../../../../../../agents/bbugyi200.athena.029/README.md) | active | gemini-3.7-flash-high / agy | 2026-08-15T13:50:42.297197+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.029/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.029/prompt.md) |

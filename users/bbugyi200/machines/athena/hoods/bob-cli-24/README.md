@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bob-cli-24](../../../../../../agents/bbugyi200.athena.bob-cli-24/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-27T14:42:56.840029+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-24/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-24/chat.md) |
+| [bob-cli-24](../../../../../../agents/bbugyi200.athena.bob-cli-24/README.md) | active | muse-spark-1.3-contributor / muse | 2026-09-27T14:42:56.840029+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-24/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-24/prompt.md) |

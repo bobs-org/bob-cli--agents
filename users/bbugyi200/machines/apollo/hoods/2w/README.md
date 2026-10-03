@@ -8,4 +8,4 @@
 |---|---|---|---|---:|---|
 | [2w--gate](../../../../../../sessions/bbugyi200.apollo.2w.md#member-gate) | failed | opus / claude | 2026-09-28T20:19:53.689426+00:00 → 2026-09-28T20:20:01.589026+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.2w--gate/chat.md) |
 | [2w--code](../../../../../../sessions/bbugyi200.apollo.2w.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-09-28T20:20:07.181236+00:00 → 2026-09-28T20:41:45.499312+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.2w--code/chat.md) |
-| [2w--plan](../../../../../../sessions/bbugyi200.apollo.2w.md#member-plan) | active | opus / claude | 2026-09-28T20:00:04.622460+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.2w--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.2w--plan/prompt.md) |
+| [2w--plan](../../../../../../sessions/bbugyi200.apollo.2w.md#member-plan) | active | opus / claude | 2026-09-28T20:00:04.622460+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.2w--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.2w--plan/chat.md) |
