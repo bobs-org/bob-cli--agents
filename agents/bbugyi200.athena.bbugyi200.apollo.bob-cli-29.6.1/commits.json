@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1790602815,"sha":"ec3132963f89f15aef1344f3bbef954793325c06","subject":"fix(capture): close-contract fixes for =x Pomodoro close, clippy cleanup, docs, and required tests"}],"schema_version":2,"source_run_id":"run-d34447d4ed9b6d73b4588102981df9d3"}

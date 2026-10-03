@@ -25,4 +25,4 @@
 |---|---|---|
 | [bob-cli-41.1](../bbugyi200.athena.bob-cli-41.1/README.md) | bob-cli-41 hood | completed |
 | [bob-cli-41.3](../bbugyi200.athena.bob-cli-41.3/README.md) | bob-cli-41 hood | completed |
-| [bob-cli-41.land](../bbugyi200.athena.bob-cli-41.land/README.md) | bob-cli-41 hood | active |
+| [bob-cli-41.land](../bbugyi200.athena.bob-cli-41.land/README.md) | bob-cli-41 hood | completed |

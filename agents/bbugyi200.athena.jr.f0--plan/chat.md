@@ -1,20 +1,11 @@
-# Chat History - ace-run (jr.f0--plan)
+# Chat History - tmp_260724_190413 (main)
 
-- **TIMESTAMP:** 2026-07-24 19:08:23 EDT
+- **TIMESTAMP:** 2026-07-24 19:07:46 EDT
 - **MODEL:** codex/gpt-5.6-sol
-- **AGENT:** jr.f0--plan
-
-## Linked Chats
-
-- **1. --plan** — `~/.sase/chats/202607/gh_bobs_org__bob_cli-ace_run-jr_f0__plan-260724_190402.md`
-- 2. --code — `~/.sase/chats/202607/gh_bobs_org__bob_cli-ace_run-jr_f0__code-260724_190402.md`
-
-**Plan:** /home/bryan/.sase/plans/202607/fix_dash_blocked_badge.md
-
+- **AGENT:** main
 
 ## Prompt
 
-#gh:gh_bobs-org__bob-cli %xprompts_enabled:false
 # Previous Conversations
 
 You are forking from 1 prior source. Source sections are independent parents, and section order carries no priority. Members inside an agent family section are sequential: each member continued the previous member's work. Carry forward relevant goals, constraints, decisions, and unfinished work with attribution when it matters. The New Query is the active request and takes precedence over conflicting source instructions.
@@ -142,30 +133,31 @@ The plugin commit’s optional SASE agent-publication step could not queue becau
 
 ---
 
-%xprompts_enabled:true
-# New Query
+ # New Query
 
- The `BLOCKED` badge on the ~/bob/dash.md file is still showing 12 instead of 90 (see #sshot). Can you help me fix this? Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
+The `BLOCKED` badge on the ~/bob/dash.md file is still showing 12 instead of 90 (see
+@.sase/home/tmp/screenshots/20260724_190314.png). Can you help me fix this?
+Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose
+and author the appropriate tier, validate and revalidate until it passes, then
+submit it with `sase plan propose` (as the skill instructs) before making any file changes.
 
 
 ## Response
 
-*Plan submitted for review.*
+I’ll trace the dashboard badge from the screenshot through the Obsidian query/plugin and CLI behavior, then produce and submit a validated SASE plan. I’m using `sase_plan` because you explicitly requested the full plan workflow, plus `sase_memory_read` for the required vault guidance; if the badge implementation lives in the linked plugin repo, I’ll access it through `sase_repo` as required.
 
-**Plan file:** `/home/bryan/.sase/plans/202607/fix_dash_blocked_badge.md`
+The planning rules require a single-agent “tale” unless investigation shows genuinely separable phases; this looks like one cohesive dashboard-count fix, so I’ll target that tier. I’m now loading the vault conventions and resolving the screenshot and badge source before writing the plan.
 
-> # Make the dashboard BLOCKED badge match the blocked task list
-> ## Goal
-> Make the `BLOCKED` count chip in `~/bob/dash.md` report the same set of tasks as the `BLOCKED Tasks` query in
-> `~/bob/blocked.md`. With the current vault contents, both must report 90 tasks rather than the dashboard's stale
-> dependency-only count of 12. Preserve the existing WIP, NEXT, and READY counts and their rule that future-scheduled
-> tasks do not appear in those active queues.
-> ## Root Cause
-> The recently updated `blocked.md` Tasks query includes either of the two supported blocking reasons:
-> ```tasks
-> (is blocked) OR (status.name includes Blocked)
+The supplied image currently shows the SASE agent UI and macOS app switcher, not the Obsidian dashboard or its `BLOCKED 12` badge. That doesn’t block investigation: I’ll use the live `dash.md`/`blocked.md` definitions and deterministic query output as the source of truth, and I’ll call out the screenshot mismatch in the plan’s acceptance checks.
 
-*See full plan file for details.*
+The live data confirms the root cause: `blocked.md` now returns 90 tasks, but the badge’s inline DataviewJS still applies the old “scheduled today or earlier” visibility filter and defines blocked only as Tasks dependency-blocking. I’m checking the exact 12/90 decomposition and existing parity fixtures so the plan fixes the duplicated logic and prevents another drift.
 
+The counts line up exactly: 12 tasks satisfy Tasks’ dependency-based `is blocked`, while 90 have the custom Blocked status, and the union is 90. The plan will preserve the WIP/NEXT/READY date filtering while giving the external BLOCKED chip its own candidate set and the same union predicate as `blocked.md`; this is a focused tale, not a multi-phase epic.
+
+I’ve finished the investigation. The SASE plan will constrain the fix to the live dashboard note, explicitly retain the three existing dashboard task-list semantics, and validate both query parity and the rendered Obsidian badge/link behavior; no CLI, hook, plugin, or `blocked.md` changes are needed for this regression.
+
+The scratch plan is authored as a `tale`. Per the `sase_plan` skill, I’m running the required explanatory validation now; I’ll apply every schema diagnostic and then revalidate cleanly before submission.
+
+The explanatory validator requires `title` and `goal` metadata in addition to the selected tier. I’m adding those exact outcome fields now, then I’ll run the required non-explanatory validation.
+
+The plan now passes strict validation with 0 warnings. I’m submitting it with `sase plan propose`; as required by the skill, this consumes the scratch file into the durable plan archive and pauses implementation at the approval gate before any vault file is changed.

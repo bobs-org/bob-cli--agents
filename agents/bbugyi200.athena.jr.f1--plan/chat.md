@@ -1,20 +1,11 @@
-# Chat History - ace-run (jr.f1--plan)
+# Chat History - tmp_260724_191144 (main)
 
-- **TIMESTAMP:** 2026-07-24 19:17:43 EDT
+- **TIMESTAMP:** 2026-07-24 19:17:19 EDT
 - **MODEL:** codex/gpt-5.6-sol
-- **AGENT:** jr.f1--plan
-
-## Linked Chats
-
-- **1. --plan** — `~/.sase/chats/202607/gh_bobs_org__bob_cli-ace_run-jr_f1__plan-260724_191131.md`
-- 2. --code — `~/.sase/chats/202607/gh_bobs_org__bob_cli-ace_run-jr_f1__code-260724_191131.md`
-
-**Plan:** /home/bryan/.sase/plans/202607/due_scheduled_task_recovery.md
-
+- **AGENT:** main
 
 ## Prompt
 
-#gh:gh_bobs-org__bob-cli %xprompts_enabled:false
 # Previous Conversations
 
 You are forking from 1 prior source. Source sections are independent parents, and section order carries no priority. Members inside an agent family section are sequential: each member continued the previous member's work. Carry forward relevant goals, constraints, decisions, and unfinished work with attribution when it matters. The New Query is the active request and takes precedence over conflicting source instructions.
@@ -142,28 +133,35 @@ The plugin commit’s optional SASE agent-publication step could not queue becau
 
 ---
 
-%xprompts_enabled:true
-# New Query
+ # New Query
 
- Can you now help me make sure that the previous agent also implemented the reverse operation (i.e. when tasks have a `scheduled` property that matches today's date or an earlier date, we should mark the task as open--or next/in-progress if the task has a pomodoro block link in today's/yesterday's daily file)? If not, use your /sase_plan skill to plan the appropriate changes.
+Can you now help me make sure that the previous agent also implemented the
+reverse operation (i.e. when tasks have a `scheduled` property that matches today's
+date or an earlier date, we should mark the task as open--or next/in-progress if
+the task has a pomodoro block link in today's/yesterday's daily file)? If not,
+use your /sase_plan skill to plan the appropriate changes.
 
 
 ## Response
 
-*Plan submitted for review.*
+I’ll audit the committed CLI behavior and its tests first, then check the navigation plugin’s schedule-picker path. If the reverse transition is missing or incomplete, I’ll switch to the required `sase_plan` workflow and submit a validated plan—without changing implementation files.
 
-**Plan file:** `/home/bryan/.sase/plans/202607/due_scheduled_task_recovery.md`
+The CLI already has a reverse transition, but I’ve found an important scope question in the evidence: it restores `[?]` tasks to the current Pomodoro-derived rank or Ready, while the prior daily note only preserves an already-`[/]` task—it does not promote a currently Blocked task. I’m checking the schedule picker next, because an immediate picker-side reverse transition is not established by the CLI tests. This requires the linked-repository workflow, so I’m using the `sase_repo` skill before reading the plugin source.
 
-> # Recover due scheduled Obsidian tasks from Blocked
-> ## Goal
-> Make future-schedule blocking genuinely bidirectional. A recognized `[?]` Obsidian task whose valid task-level
-> `[scheduled:: YYYY-MM-DD]` date is today or earlier must stop being Blocked once it has no other derived blocking
-> reason. It should recover to Ready (`[ ]`) when it has no recent activity rank, Next (`[*]`) when it is directly
-> reachable from a recent Pomodoro reference, or In Progress (`[/]`) when the existing Pomodoro/transclusion graph
-> provides that stronger rank.
-> Apply the rule authoritatively in `bob task-status-hooks` and immediately when Ctrl+Shift+P changes or deletes an inline
-> `scheduled` property. Preserve the existing rolling-daily contract: the command's selected current daily note and newest
-> existing earlier canonical daily note are the two recent-activity sources. In the plugin, local today and the newest
+The reverse operation is only partially implemented, so a follow-up plan is needed:
 
-*See full plan file for details.*
+- `bob task-status-hooks` does unblock due/past scheduled `[?]` tasks, and current-day Pomodoro reachability restores Next/In-Progress correctly.
+- A Blocked task referenced only from the previous daily note currently falls back to Ready; historical activity does not promote it.
+- The Ctrl+Shift+P picker explicitly leaves `[?]` unchanged when writing today’s date, and schedule deletion also leaves it Blocked.
 
+I’m now using the `sase_plan` skill to design the missing reverse behavior across both repositories, including how immediate picker updates should derive current/previous-ledger rank without inventing a stored prior status.
+
+Because this plan changes Obsidian editor behavior and daily-note semantics, the project instructions require the audited Obsidian memory workflow. I’m loading that guidance now before finalizing scope or acceptance criteria.
+
+The implementation direction is now concrete: preserve the existing “all blocking reasons must clear” rule, but add a recovery-only rank map from non-retired Pomodoro references in the current and newest earlier daily note. That map will affect only `[?]` tasks being unblocked, so historical links still won’t promote ordinary Ready tasks. A directly referenced Blocked task recovers to Next; In Progress is recovered only when the existing stronger transclusion graph supports it, since no prior-rank field is stored.
+
+For Ctrl+Shift+P, the plan will compute the same recovery context once per action, keep tasks Blocked if an open dependency remains, and apply schedule plus status in the existing guarded single/count transaction. Project `^prj` scheduling remains excluded.
+
+The tale-tier plan is drafted. I’m at the required validation cycle now: first with schema explanations, then I’ll correct any diagnostics and revalidate cleanly before submitting it for review.
+
+Validation passed twice with zero warnings. I’m submitting the tale plan now; this hands it to the SASE review gate and intentionally ends the planning turn without making implementation changes.

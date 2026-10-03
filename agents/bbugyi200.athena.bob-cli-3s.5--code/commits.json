@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1791026802,"sha":"bfa3ac904d194fc26e92c9c70706f510a552eccd","subject":"refactor(plugins): split plugin management into focused modules"}],"schema_version":2,"source_run_id":"run-9c77c7b91d67a30b2f94d75993b3c38a"}

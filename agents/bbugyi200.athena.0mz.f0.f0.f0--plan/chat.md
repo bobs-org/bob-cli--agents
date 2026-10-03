@@ -1,13 +1,11 @@
-# Chat History - ace-run (0mz.f0.f0.f0--plan)
+# Chat History - tmp_260918_133713 (main)
 
-- **TIMESTAMP:** 2026-09-18 13:42:22 EDT
+- **TIMESTAMP:** 2026-09-18 13:42:16 EDT
 - **MODEL:** codex/gpt-5.6-sol
-- **AGENT:** 0mz.f0.f0.f0--plan
+- **AGENT:** main
 
 ## Prompt
 
-#gh:gh_bobs-org__bob-cli 
-%xprompts_enabled:false
 # Previous Conversations
 
 You are forking from 1 prior source. Source sections are independent parents, and section order carries no priority. Members inside an agent family section are sequential: each member continued the previous member's work. Carry forward relevant goals, constraints, decisions, and unfinished work with attribution when it matters. The New Query is the active request and takes precedence over conflicting source instructions.
@@ -422,22 +420,24 @@ $ commands/commit
 
 ---
 
-%xprompts_enabled:true
 # New Query
 
- Just so we are clear, the `@file+id!` is the only syntax
-that allows for removing task links now, right? If not, use your /sase_plan skill to plan the appropriate changes.
- The `@file+id#pomodoro`
-syntax should always move the task link to the pomodoro named `POMODORO` (or do nothing
-if it is already there).
+Just so we are clear, the `@file+id!` is the only syntax that allows for removing task links
+now, right? If not, use your /sase_plan skill to plan the appropriate changes. The `@file+id#pomodoro`
+syntax should always move the task link to the pomodoro named `POMODORO` (or do nothing if it
+is already there).
+
 
 ## Response
 
-# Gate handoff
+I’m going to verify the actual post-swap contract before answering, including the still-running coder’s state and the explicit `#pomodoro` path. If either non-`!` syntax can remove a task link—or `#pomodoro` doesn’t strictly move/no-op—I’ll use the planning skill and submit the corrective plan without editing code.
 
-This agent handed the remaining decision to a gate shell.
-Decision: Tale ready for review: named_task_link_relocation.md
-Gate ID: 0a9a2843-13b8-47c7-babf-c1fd5ce0f05e
-Inspect with: sase gate show --id 0a9a2843-13b8-47c7-babf-c1fd5ce0f05e --kind plan
-Gate shell: 0mz.f0.f0.f0--gate
+The answer is “not yet”: the completed swap explicitly left `@file+id#pomodoro` as a two-way toggle, so it can still clear a link when it is already in that Pomodoro. Your desired rule makes `!` the sole removal spelling and turns `#pomodoro` into idempotent move-or-no-op behavior. I’m using the planning skill now to scope that correction across the CLI contract and Mac presentation/tests.
 
+I confirmed the concrete defect in the landed code: named `#pomodoro` still maps to `TaskToggleIntent::Toggle`, and its Next→Ready branch calls the open-Pomodoro link-removal planner while marking the selector unused. The corrective plan will make both unsuffixed forms idempotent Ensure Next operations—implicit destination for plain syntax, explicit named destination for `#pomodoro`—while reserving add/clear behavior for `!`.
+
+I’m treating the named form as an explicit-destination variant of the safe default: it will ensure the task is Next and move the one existing open-Pomodoro Task Link subtree. To preserve the established selector contract, an unmatched valid name will still create the named future Pomodoro and move the existing subtree into it; it will not synthesize a missing task link.
+
+The first schema validation caught two required metadata fields (`title` and `goal`) that this SASE version now expects. I’m adding those, then I’ll run the required clean revalidation before proposal.
+
+The corrective plan is a medium tale: one coder can implement the shared grammar/executor and relocation changes plus the coordinated Mac fixtures/presentation. It now validates cleanly with zero warnings; I’m submitting it for review.

@@ -1,0 +1,206 @@
+# Chat History - ace-run (research.39.linker)
+
+- **TIMESTAMP:** 2026-10-01 17:25:25 EDT
+- **MODEL:** claude/opus
+- **AGENT:** research.39.linker
+- **PROMPT:** `~/.sase/multi_prompts/202610/gh_bobs_org__bob_cli-multiprompt-261001_161410.md`
+
+## Prompt
+
+%id(linker, clan=research.39) %m:@xlarge
+%wait:research.39.final %wait:research.39.image %q(1.5x, w=0.25)
+#gh:gh_bobs-org__bob-cli 
+You are the linker agent for a research swarm. The lead researcher,
+`research.39.final`, has written a consolidated report on the request below. Your job
+is to publish that report as the canonical `<name>.md`: the file readers open, and the
+one SASE renders into a Highlights PDF. You are an editor, not a researcher. The new
+file must carry exactly the lead's meaning and intent. Do not do research of your own:
+add no new claims or sources, settle no open questions, and neither soften nor
+strengthen the conclusions or the recommendation. If the lead seems wrong, leave it as
+written. The only prose you write yourself is the short research-query summary of the
+request that opens the file (step 3).
+
+SASE derives your plan's links from the artifacts you read this turn; use
+`sase artifact read` for context you actually used.
+
+Research request (context only; do not research it, but summarize it as the file's
+research query in step 3):
+
+One of my goals while reviewing my Obsidian tasks during my morning GTD is to make sure
+that no area/project note file contains more than N ready tasks (this number should be
+configurable, but should default to 5).
+
+- The idea is that if I have more than N ready tasks in a area/project, then I should
+  probably look into creating a new project from some of those tasks and/or
+  de-prioritizing (using the `<ctrl+shift+p>` keymap, for example) some tasks in that
+  area/project note file.
+- I would like to make it clearer which project files have more ready tasks than they
+  should.
+- We should show some kind of notification / toast in Obsidian anytime we use any one of
+  the Obsidian keymaps that would cause this constraint to be violated (for example,
+  when moving a task to a project note file that already has >=N ready tasks).
+- We should show a badge and/or diagnostics in the ~/bob/dash.md file and/or in project
+  note files that makes it clear how many area/projects violate this contraint currently
+  (and which ones).
+- I should also have the ability to view this information from the command-line. Namely,
+  I should have the ability to review the number of ready tasks in each area/project
+  note file from the command-line and should be able to see (in some visually appealing
+  way) when this constraint is being violated (and in which area/project note files).
+- I want you to lead the design on this one. Make sure you design this feature so it is intuitive, reliable, and (last but not least) beautiful!
+
+Can you do some research with the goal of helping me decide the best way to implement
+this? Also, critique this plan in general. Is this a good idea? Would you take a
+different approach? Make any adjustments to the requirements that you think are
+justified but clearly call these out. End your analysis with a recommended solution.
+
+The lead researcher's registered report:
+
+{% for a in wait.artifacts if a.kind == "markdown" and a.label and a.label.startswith("research:") %}
+- wait_name={{ a.wait_name }} label={{ a.label }} source_path={{ a.source_path }} path={{ a.path }} ref={{ a.ref }}
+{% endfor %}
+
+The image agent's registered images:
+
+{% for a in wait.artifacts if a.kind == "image" %}
+- wait_name={{ a.wait_name }} label={{ a.label }} vcs_relpath={{ a.vcs_relpath }} path={{ a.path }} ref={{ a.ref }}
+{% endfor %}
+
+Steps:
+
+1. **Identify the source.** From the registered reports above, find exactly one entry
+   with `wait_name` `research.39.final` whose label has the form
+   `research:<YYYYMM>/<name>/<name>__final.md`. If there is not exactly one such entry,
+   stop and report the missing or ambiguous input instead of guessing. Open the research
+   repo with `/sase_repo`, then read the report through its canonical research reference
+   (or the `ref` field's `file:<id>` reference if the original has moved) using
+   `sase artifact read`. Take `<YYYYMM>/<name>/` from the label, never from the current
+   date. Do not read predecessor chat transcripts. Never modify, move, or delete
+   `<name>__final.md` or the drafts.
+
+2. **Inventory what must survive.** Before writing, list every finding, recommendation,
+   caveat, open question, confidence statement, number, date, version, code block,
+   table, and link in the lead's report.
+3. **Restructure** the lead's report into a well-thought-out organization:
+   - Keep the frontmatter, updating `updated_time` if present.
+   - **Open the file in this exact order**, with nothing else between these parts: the frontmatter (if any), one `#` title, the research query, the infographic, and then the bottom-line section.
+   - **Research query.** Directly below the title, add one blockquote that summarizes
+     the research request above in one to three sentences, for example
+     `> **Research query:** <summary>`. Phrase it as the question or task being
+     answered, in the requester's own terms: keep the questions, named subjects, and
+     explicit scope or constraints; drop instructions aimed at agents, such as output
+     paths, xprompt or directive syntax, and formatting requests. Summarize what was
+     asked, not material the request quotes or attaches. Use a request that is already
+     one short sentence verbatim. Never fold findings, answers, or scope the request
+     does not state into it. It is not a heading, so it gets no section number and no
+     TOC entry.
+   - **Embed the infographic** exactly once, directly above the bottom-line section:
+     after the research query and before that section's `##` heading, never further
+     down. Use a relative link with descriptive alt text, for example
+     `![<alt text>](<name>_infographic.png)`. Locate it by the
+     `<name>_infographic.png` convention or the image entries above. Embed only a file
+     you have confirmed exists beside the report in your research checkout. If the
+     image agent completed without producing one, publish without it (the research
+     query then sits directly above the bottom-line section) and say so in the final
+     response.
+   - **Bottom-line section.** The first `##` section is `## Bottom line` (or
+     `## Overview` when the report surveys options rather than giving one answer) and
+     gives the answer first.
+   - Below it, `##` and `###` sections ordered by the questions a reader will ask, with
+     duplicated passages merged.
+   - **Never number headings.** The PDF renderer runs pandoc with `--number-sections`,
+     so hand-numbered headings render doubly numbered.
+   - **No table of contents and no block of jump links.** The PDF already gets a TOC.
+   - Keep the lead's wording where it works. Never drop a claim, caveat, or source to
+     save space. If the lead's report restates the question or lists its inputs, keep
+     those details in a later section; the research query summarizes the request but
+     does not replace them.
+4. **Validate every link carried over.**
+   - Relative links resolve from `<YYYYMM>/<name>/`, and in-document anchors resolve
+     against the final headings. Both are hard requirements.
+   - Check external URLs with `curl -fsSL -o /dev/null --max-time 20 <url>`, retrying
+     a transient failure once. Treat 401, 403, 429, and timeouts as _unverified_ and
+     keep those links.
+   - Verify repository-file links through a `/sase_repo` checkout, not by fetching
+     github.com.
+   - Repair a link only when the right target is certain: a followed redirect, a moved
+     file, an obvious typo, or a renamed heading. For an unrepairable link, keep its
+     text, drop the dead URL, and list it in the final response. **Never search for a
+     replacement source.**
+
+5. **Add in-document links** so readers can jump between parts of the file. Add them
+   inline and sparingly: from summary points to the sections that back them, from "see
+   above" or "see below" phrases, and from mentions of a named option, phase, or
+   finding to where it is discussed. Do not link every mention.
+   - Every heading used as a link target must start with a letter, contain only
+     letters, digits, spaces, and hyphens, and be unique. Its anchor is then the
+     lowercased heading with spaces replaced by hyphens, for example
+     `[the bottom line](#bottom-line)`. pandoc (the PDF) and GitHub then agree.
+   - Move emoji, version numbers, and code out of such headings, into the section's
+     first line.
+   - When `pandoc` is available, confirm anchors with `pandoc <file> -t html`.
+
+6. **Re-check against the step-2 inventory** and restore anything missing or changed.
+   Every URL in `<name>__final.md` must appear in the new file unless it was listed as
+   unrepairable. Then confirm the file opens in the step-3 order: title, research query, infographic, bottom-line section.
+
+7. **Write** `<YYYYMM>/<name>/<name>.md` without overwrite. On a collision, stop and
+   report it.
+
+8. **Register** it as a durable snapshot:
+
+   sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"
+
+   Use the report's actual absolute path and its path relative to the research repo
+   root, for example `research:202609/<name>/<name>.md`. Use no `--move`. If
+   registration fails, report it and do not claim full completion.
+
+Final layout:
+
+```text
+<month-dir>/<name>/
+├── <name>__cdx.md
+├── <name>__cld.md
+├── <name>__grk.md
+├── <name>__mus.md
+├── <name>__gem.md
+├── <name>__final.md
+├── <name>_infographic.png
+└── <name>.md
+```
+
+## Response
+
+Read the lead's report; next I'll check the raw file for frontmatter, then restructure it.
+
+All three URLs return 200. Writing the canonical file.
+
+Now validating anchors with pandoc and diffing content against the original.
+
+All anchors resolve in both pandoc markdown and GFM. Now the line-level survival check against the original.
+
+The opening order is title, research query, infographic, then `## Bottom line`. Registering the artifact.
+
+Registered. Now the final declaration.
+
+I published the lead's report as the canonical `202610/per_note_ready_cap/per_note_ready_cap.md` in the research repo and registered it as `research:202610/per_note_ready_cap/per_note_ready_cap.md` (`file:explicit:0ae23b26fd3ce2cb7249a2ab`). The research-repo commit is declared, and the host makes it after this turn ends.
+
+- **Source:** there was exactly one `research.39.final` entry. Its label shows `**final.md`, but that's just `__final.md` with the underscores garbled by Markdown; the file on disk is `per_note_ready_cap__final.md`. I read it with `sase artifact read`. It had no frontmatter. I didn't touch it or the five researcher drafts.
+- **Opening order:** title, then a three-sentence research query in your own terms, then the infographic, then `## Bottom line`. The infographic `per_note_ready_cap_infographic.png` is next to the report and is embedded once, with descriptive alt text.
+- **Structure:** I removed the hand numbering from all headings and moved code and punctuation out of headings that links point to. Headings now follow the order a reader's questions would come in:
+  1. Is this a good idea
+  2. Ground truth
+  3. What counts as ready
+  4. Requirement adjustments explicitly called out
+  5. Design
+  6. Alternatives considered and rejected
+  7. How the five reports were reconciled
+  8. Rollout
+  9. Open questions for Bryan
+  10. Recommended solution
+  11. About this report
+  12. Sources
+
+  "Recommended solution" stays at the end of the analysis because the request asked for that. The lead's notes on the request and its inputs moved to "About this report". I also added blank lines before lists that directly followed a paragraph, because pandoc doesn't treat those as lists without one.
+- **Links:** I replaced each `§N` cross-reference with a named anchor link, since the PDF renumbers sections. All 19 anchor targets resolve in both pandoc and GitHub-flavored Markdown, and there are no duplicate IDs. The three external URLs (Shape Up, the David Allen Company GTD article, the Kanban Guide) all returned 200 and are kept, so nothing was unrepairable.
+- **Two references fixed:** the lead cited "§5.5" twice for content that is actually in its §5.6 (review stamps never trigger a notice; the UI never offers "promote to Next"). Both links now point to the Gesture feedback section, which contains those statements.
+- **Content check:** a line-by-line comparison against the original found every difference was a heading, a converted cross-reference, or a bold label turned into a subheading. Every finding, table, code block, number, date, caveat and open question is still there, and I left the meaning and recommendation unchanged.

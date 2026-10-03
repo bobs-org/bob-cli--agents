@@ -7,4 +7,4 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [06v--code](../../../../../../sessions/bbugyi200.athena.06v.md#member-code) | completed | grok-4.6 / grok | 2026-08-18T22:00:35.448044+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.06v--code/chat.md) |
-| [06v--plan](../../../../../../sessions/bbugyi200.athena.06v.md#member-plan) | active | opus / claude | 2026-08-18T21:50:22.165542+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.06v--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.06v--plan/prompt.md) |
+| [06v--plan](../../../../../../sessions/bbugyi200.athena.06v.md#member-plan) | active | opus / claude | 2026-08-18T21:50:22.165542+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.06v--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.06v--plan/chat.md) |

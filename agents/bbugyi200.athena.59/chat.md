@@ -1,39 +1,51 @@
-# Chat History - ace-run (59--plan)
+# Chat History - ace-run
 
-- **TIMESTAMP:** 2026-07-11 07:50:16 EDT
+- **TIMESTAMP:** 2026-07-11 07:55:09 EDT
 - **MODEL:** codex/gpt-5.6-sol
-- **AGENT:** 59--plan
+- **AGENT:** 59--code
 
 ## Linked Chats
 
-- **1. --plan** — `~/.sase/chats/202607/gh_bobs_org__bob_cli-ace_run-59__plan-260711_074812.md`
-- 2. --code — `~/.sase/chats/202607/gh_bobs_org__bob_cli-ace_run-260711_074812.md`
-
-**Plan:** /home/bryan/.sase/plans/202607/preserve_prj_hide_on_schedule.md
-
+- 1. --plan — `~/.sase/chats/202607/gh_bobs_org__bob_cli-ace_run-59__plan-260711_074812.md`
+- **2. --code** — `~/.sase/chats/202607/gh_bobs_org__bob_cli-ace_run-260711_074812.md`
 
 ## Prompt
 
-#gh:gh_bobs-org__bob-cli Yesterday we added support to the `bob projects` command for a new property named `scheduled` that can be added to the frontmatter of a project note file. If the scheduled date is on today or before today, we remove the `#hide` tag from all Obsidian tasks in that project note file. This is correct but we made one mistake. Namely, we shouldn't remove the `#hide` tag from the `^prj` note file (that represents the definition of done for the project) unless it is the only Obsidian task in that project note file. Can you help me fix this? Think this through thoroughly and create a plan using your `/sase_plan` skill. Submit your plan with the
-`sase plan propose` command (as the skill instructs) before making any file changes.
- %a:tale
+%model:@codex_coder
+#gh:gh_bobs-org__bob-cli @.sase/sdd/tales/202607/preserve_prj_hide_on_schedule.md
+
+The above plan has been reviewed and approved. Implement it now.
+
 
 ## Response
 
-*Plan submitted for review.*
+I’ll implement the approved plan as written. I’ll first read the plan and repository guidance, then make the scoped changes and run the relevant verification.
 
-**Plan file:** `/home/bryan/.sase/plans/202607/preserve_prj_hide_on_schedule.md`
+The existing implementation plans and applies scheduled visibility through the same change type, but it currently lacks task identity. I’m adding an explicit visibility policy that records whether `^prj` is eligible, so change counts and actual edits stay locked together.
 
-> # Preserve `^prj` Visibility During Scheduled Project Sync
-> ## Goal
-> Correct `bob projects sync` so reaching a project's `scheduled` date reveals the project's ordinary Obsidian tasks
-> without prematurely revealing its definition-of-done task. The `^prj` task should have `#hide` removed by the
-> scheduled-visibility rule only when it is the sole real Obsidian task in the project note.
-> For this rule, a "real Obsidian task" should retain the command's existing meaning: any parsed Markdown checkbox task
-> outside frontmatter and fenced code, including open, in-progress, completed, canceled, nested, quoted, and ordered
-> tasks. Checkbox-like prose and fenced examples do not count.
-> ## Behavioral Design
-> - Preserve the future-schedule behavior: every real task, including `^prj`, receives exactly one whole-token `#hide`
+The focused planning tests pass. The due-date path now reports and edits only the three ordinary tasks in the regression fixture, while a separate end-to-end case confirms that a note containing only `^prj` still becomes visible.
 
-*See full plan file for details.*
+The full test suite passes: 544 tests across unit, CLI, Dataview parity, Tasks parity, and real-vault parity. I’m doing the final formatting and diff-scope checks now.
 
+Implemented the approved plan.
+
+- Scheduled due/past sync now preserves `#hide` on `^prj` when other real tasks exist.
+- Sole-`^prj` projects still become visible when due.
+- Planning counts and applied edits share the same visibility policy.
+- Updated unit tests, CLI regression coverage, long help, and [project documentation](/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/docs/projects.md:91).
+
+Verification passed:
+
+- `cargo fmt --check`
+- `cargo test` — 544 tests passed
+- `git diff --check`
+
+The implementation and verification are already complete; the finalizer confirms these three files are the changes from this session. I’m using the required `sase_git_commit` workflow now to commit exactly those files.
+
+The diff matches the approved behavior: production logic, regression tests, and documentation only. I’ve selected a `fix` commit because this corrects user-visible scheduling behavior without changing the CLI contract.
+
+Committed and pushed the completed changes.
+
+- Commit: `e7b1e3a fix(projects): preserve hidden project task when scheduled`
+- Working tree is clean and synchronized with `origin/master`.
+- All prior verification remains passing: 544 tests, formatting, and diff checks.

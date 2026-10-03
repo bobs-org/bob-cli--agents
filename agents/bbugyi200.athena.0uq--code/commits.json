@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1790837382,"sha":"8957f4a7720291ce4f7ef53e53e06611a5edf382","subject":"feat(plan): add max_ready soft cap for READY backlog (default 100)"}],"schema_version":2,"source_run_id":"run-7428d5c24f9bdcd76cdd531d737d6025"}
