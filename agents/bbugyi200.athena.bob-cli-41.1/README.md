@@ -30,5 +30,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-41.2](../bbugyi200.athena.bob-cli-41.2/README.md) | bob-cli-41 hood | completed |
-| [bob-cli-41.3](../bbugyi200.athena.bob-cli-41.3/README.md) | bob-cli-41 hood | active |
-| [bob-cli-41.land](../bbugyi200.athena.bob-cli-41.land/README.md) | bob-cli-41 hood | waiting |
+| [bob-cli-41.3](../bbugyi200.athena.bob-cli-41.3/README.md) | bob-cli-41 hood | completed |
+| [bob-cli-41.land](../bbugyi200.athena.bob-cli-41.land/README.md) | bob-cli-41 hood | active |
