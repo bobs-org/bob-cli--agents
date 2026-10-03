@@ -6,4 +6,4 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [2c](../../../../../../agents/bbugyi200.apollo.2c/README.md) | active | opus / claude | 2026-09-27T14:07:50.538778+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.2c/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.2c/chat.md) |
+| [2c](../../../../../../agents/bbugyi200.apollo.2c/README.md) | active | opus / claude | 2026-09-27T14:07:50.538778+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.2c/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.2c/prompt.md) |
