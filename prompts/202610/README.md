@@ -3,6 +3,7 @@
 | Prompt | Title | Plan | Agent | Artifacts |
 | --- | --- | --- | --- | ---: |
 | [0vg.md](0vg.md) | %queue(weight=1) %auto #fork:0vg--1 %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.0vg--2](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.0vg.md) | 0 |
+| [0vx.md](0vx.md) | gh:gh_bobs-org__bob-cli #coder:~/.sase/plans/202610/capture_close_default_all.md | - | [bbugyi200.athena.0vx](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.0vx/README.md) | 0 |
 | [3t.cld.f0.md](3t.cld.f0.md) | gh:gh_bobs-org__bob-cli #fork:3t.cld I've never had a valid Gemini API key. What do I | - | [bbugyi200.apollo.3t.cld.f0](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.apollo.3t.cld.f0/README.md) | 0 |
 | [alt_f_pending_work_log.md](alt_f_pending_work_log.md) | Can you help me start prompting the user for an optional work log entry when they | [202610/alt_f_pending_work_log.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202610/alt_f_pending_work_log.md) | [bbugyi200.apollo.4v--plan](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.4v.md) | 0 |
 | [bob-cli-31.land.md](bob-cli-31.land.md) | %queue(weight=1) %auto #fork:bob-cli-31.land--code | - | [bbugyi200.apollo.bob-cli-31.land--1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.bob-cli-31.land.md) | 0 |
