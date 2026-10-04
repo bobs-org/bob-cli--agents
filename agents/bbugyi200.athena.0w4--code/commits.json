@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1dfaabece6a9843efb8a41dfff789343"}
+{"commits":[{"committed_at":1791108818,"sha":"b1332af2d23335be72d2827eb868193e289d0819","subject":"feat(ready): always advertise the Task Card keys in the crowded-note hint"}],"schema_version":2,"source_run_id":"run-1dfaabece6a9843efb8a41dfff789343"}

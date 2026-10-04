@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 0w4--code | active | sonnet / claude | 2026-10-04T09:43:50.643165+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 0w4--code | active | sonnet / claude | 2026-10-04T09:43:50.643165+00:00 | [1](../agents/bbugyi200.athena.0w4--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | 0w4--gate | failed | grok-4.7 / grok | 2026-10-04T09:43:15.693766+00:00 → 2026-10-04T09:43:37.135825+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0w4--gate/chat.md) |
 | <a id="member-plan"></a>plan | 0w4--plan | active | grok-4.7 / grok | 2026-10-04T09:33:58.484979+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0w4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0w4--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`b1332af`](https://github.com/bobs-org/bob-cli/commit/b1332af2d23335be72d2827eb868193e289d0819) | feat(ready): always advertise the Task Card keys in the crowded-note hint | 2026-10-04 06:13:38 EDT |
 
 ## Neighbors
 

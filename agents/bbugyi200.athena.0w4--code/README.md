@@ -11,7 +11,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-10-04T09:43:50.643165+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`b1332af`](https://github.com/bobs-org/bob-cli/commit/b1332af2d23335be72d2827eb868193e289d0819) | feat(ready): always advertise the Task Card keys in the crowded-note hint | 2026-10-04 06:13:38 EDT |
 
 ## Neighbors
 
