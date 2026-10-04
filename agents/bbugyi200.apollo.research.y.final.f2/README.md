@@ -79,4 +79,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | failed 3 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | completed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | completed |
-| … and 124 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 125 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

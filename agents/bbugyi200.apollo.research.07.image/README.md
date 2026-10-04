@@ -27,8 +27,9 @@
 | [research.07.final](../bbugyi200.apollo.research.07.final/README.md) | research.07 hood | completed |
 | [research.07.gem](../bbugyi200.apollo.research.07.gem/README.md) | research.07 hood | completed |
 | [research.07.grk](../bbugyi200.apollo.research.07.grk/README.md) | research.07 hood | completed |
-| [research.07.linker](../bbugyi200.apollo.research.07.linker/README.md) | research.07 hood | active |
-| [research.07.linker.w0](../bbugyi200.apollo.research.07.linker.w0/README.md) | research.07 hood | waiting |
+| [research.07.linker](../bbugyi200.apollo.research.07.linker/README.md) | research.07 hood | completed |
+| [research.07.linker.w0](../bbugyi200.apollo.research.07.linker.w0/README.md) | research.07 hood | active |
+| [research.07.linker.w1](../../sessions/bbugyi200.apollo.research.07.linker.w1.md) (session · 3) | research.07 hood | failed 3 |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
