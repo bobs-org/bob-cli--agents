@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0w4
 
-**Global hood:** `bbugyi200.athena.0w4` · **Runs:** 11 · **Sessions:** 3 · **States:** active 3, completed 4, failed 4
+**Global hood:** `bbugyi200.athena.0w4` · **Runs:** 11 · **Sessions:** 3 · **States:** active 2, completed 5, failed 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -11,9 +11,9 @@
 | [0w4.f1--gate](../../../../../../sessions/bbugyi200.athena.0w4.f1.md#member-gate) | failed | opus / claude | 2026-10-04T10:34:35.904448+00:00 → 2026-10-04T10:35:12.907035+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0w4.f1--gate/chat.md) |
 | [0w4.f0--plan](../../../../../../sessions/bbugyi200.athena.0w4.f0.md#member-plan) | completed | gpt-6.1-sol / codex | 2026-10-04T10:14:59.021685+00:00 → 2026-10-04T10:45:06.972108+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0w4.f0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.0w4.f0--plan/chat.md) |
 | [0w4--code](../../../../../../sessions/bbugyi200.athena.0w4.md#member-code) | completed | sonnet / claude | 2026-10-04T09:43:50.643165+00:00 → 2026-10-04T10:15:02.536708+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.0w4--code/chat.md) |
-| [0w4.f0--1](../../../../../../sessions/bbugyi200.athena.0w4.f0.md#member-1) | active | grok-4.6 / grok | 2026-10-04T10:47:49.114711+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.0w4.f0--1/prompt.md) |
+| [0w4.f0--1](../../../../../../sessions/bbugyi200.athena.0w4.f0.md#member-1) | completed | grok-4.6 / grok | 2026-10-04T10:47:49.114711+00:00 → 2026-10-04T11:01:35.255753+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.0w4.f0--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.0w4.f0--1/chat.md) |
 | [0w4.f0--code](../../../../../../sessions/bbugyi200.athena.0w4.f0.md#member-code) | completed | grok-4.6 / grok | 2026-10-04T10:25:45.422805+00:00 → 2026-10-04T10:45:06.972108+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0w4.f0--code/chat.md) |
 | [0w4--gate](../../../../../../sessions/bbugyi200.athena.0w4.md#member-gate) | failed | grok-4.7 / grok | 2026-10-04T09:43:15.693766+00:00 → 2026-10-04T09:43:37.135825+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0w4--gate/chat.md) |
 | [0w4.f1--plan](../../../../../../sessions/bbugyi200.athena.0w4.f1.md#member-plan) | active | opus / claude | 2026-10-04T10:15:22.754959+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0w4.f1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.0w4.f1--plan/chat.md) |
-| [0w4.f1--code](../../../../../../sessions/bbugyi200.athena.0w4.f1.md#member-code) | active | gpt-6-luna / codex | 2026-10-04T10:35:19.401015+00:00 | 0 | — |
+| [0w4.f1--code](../../../../../../sessions/bbugyi200.athena.0w4.f1.md#member-code) | active | gpt-6-luna / codex | 2026-10-04T10:35:19.401015+00:00 | 1 | — |
 | [0w4--plan](../../../../../../sessions/bbugyi200.athena.0w4.md#member-plan) | completed | grok-4.7 / grok | 2026-10-04T09:33:58.484979+00:00 → 2026-10-04T10:15:02.536708+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0w4--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.0w4--plan/chat.md) |

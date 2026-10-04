@@ -11,11 +11,17 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-04T10:35:19.401015+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e09c11b`](https://github.com/bobs-org/bob-cli/commit/e09c11bb4c17f62b5cffb1c1b6444f69474dd439) | docs(task-card): clarify close and scheduling behavior | 2026-10-04 07:03:47 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [0w4](../../sessions/bbugyi200.athena.0w4.md) (session · 3) | ancestor | completed 2, failed 1 |
-| [0w4.f0](../../sessions/bbugyi200.athena.0w4.f0.md) (session · 5) | 0w4 hood | active 1, completed 2, failed 2 |
+| [0w4.f0](../../sessions/bbugyi200.athena.0w4.f0.md) (session · 5) | 0w4 hood | completed 3, failed 2 |
