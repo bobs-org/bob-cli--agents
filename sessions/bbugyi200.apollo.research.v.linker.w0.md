@@ -83,6 +83,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.05.image](../agents/bbugyi200.apollo.research.05.image/README.md) | research hood | completed |
 | [research.05.linker](../agents/bbugyi200.apollo.research.05.linker/README.md) | research hood | completed |
 | [research.05.linker.w0](bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | failed 3 |
-| [research.0m.cdx](../agents/bbugyi200.apollo.research.0m.cdx/README.md) | research hood | completed |
-| [research.0m.cld](../agents/bbugyi200.apollo.research.0m.cld/README.md) | research hood | completed |
-| … and 103 more in the [hood roster](../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| [research.06.audio](../agents/bbugyi200.apollo.research.06.audio/README.md) | research hood | waiting |
+| [research.06.cdx](../agents/bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
+| … and 111 more in the [hood roster](../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

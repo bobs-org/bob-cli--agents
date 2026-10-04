@@ -1,0 +1,2 @@
+%id(audio, clan=research.06) %m:@audio
+%wait:research.06.final %q(1.5x, w=0.25) #gh:gh_bobs-org__bob-cli #fork:research.06.final #research/audio(edition=brief)
