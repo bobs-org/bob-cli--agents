@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0wh--gate | failed | opus / claude | 2026-10-04T17:57:24.997610+00:00 → 2026-10-04T17:58:18.314828+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0wh--gate/chat.md) |
 | <a id="member-plan"></a>plan | 0wh--plan | active | opus / claude | 2026-10-04T17:50:12.705968+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0wh--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0wh--plan/chat.md) |
-| <a id="member-code"></a>code | 0wh--code | active | grok-4.6 / grok | 2026-10-04T17:58:33.028068+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 0wh--code | active | grok-4.6 / grok | 2026-10-04T17:58:33.028068+00:00 | [1](../agents/bbugyi200.athena.0wh--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`54ff70a`](https://github.com/bobs-org/bob-cli/commit/54ff70acf959abd46a30e728cd5e102862546157) | feat(install-all): restart Obsidian when plugin sync copies files | 2026-10-04 14:19:03 EDT |
 
 ## Neighbors
 

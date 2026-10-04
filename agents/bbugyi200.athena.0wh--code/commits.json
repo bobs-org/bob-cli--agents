@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fc9b9745646e372f6bb9e9062e86aaf4"}
+{"commits":[{"committed_at":1791137943,"sha":"54ff70acf959abd46a30e728cd5e102862546157","subject":"feat(install-all): restart Obsidian when plugin sync copies files"}],"schema_version":2,"source_run_id":"run-fc9b9745646e372f6bb9e9062e86aaf4"}
