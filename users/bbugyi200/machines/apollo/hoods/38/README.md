@@ -7,5 +7,5 @@
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [38--mon](../../../../../../sessions/bbugyi200.apollo.38.md#member-mon) | failed | opus / claude | 2026-09-29T22:09:49.443809+00:00 → 2026-09-29T22:10:28.481610+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.38--mon/chat.md) |
-| [38--plan](../../../../../../sessions/bbugyi200.apollo.38.md#member-plan) | active | opus / claude | 2026-09-29T21:43:34.675762+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.38--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.38--plan/chat.md) |
+| [38--plan](../../../../../../sessions/bbugyi200.apollo.38.md#member-plan) | active | opus / claude | 2026-09-29T21:43:34.675762+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.38--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.38--plan/prompt.md) |
 | [38--gate](../../../../../../sessions/bbugyi200.apollo.38.md#member-gate) | failed | opus / claude | 2026-09-29T22:09:43.309374+00:00 → 2026-09-29T22:09:50.574307+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.38--gate/chat.md) |
