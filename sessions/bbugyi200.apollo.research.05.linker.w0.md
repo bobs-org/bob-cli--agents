@@ -81,8 +81,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.06.gem](../agents/bbugyi200.apollo.research.06.gem/README.md) | research hood | completed |
 | [research.06.grk](../agents/bbugyi200.apollo.research.06.grk/README.md) | research hood | completed |
 | [research.06.image](../agents/bbugyi200.apollo.research.06.image/README.md) | research hood | completed |
-| [research.06.linker](../agents/bbugyi200.apollo.research.06.linker/README.md) | research hood | active |
-| [research.0m.cdx](../agents/bbugyi200.apollo.research.0m.cdx/README.md) | research hood | completed |
-| [research.0m.cld](../agents/bbugyi200.apollo.research.0m.cld/README.md) | research hood | completed |
-| [research.0m.final](../agents/bbugyi200.apollo.research.0m.final/README.md) | research hood | completed |
-| … and 111 more in the [hood roster](../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| [research.06.linker](../agents/bbugyi200.apollo.research.06.linker/README.md) | research hood | completed |
+| [research.07.audio](../agents/bbugyi200.apollo.research.07.audio/README.md) | research hood | waiting |
+| [research.07.cdx](../agents/bbugyi200.apollo.research.07.cdx/README.md) | research hood | active |
+| [research.07.cld](../agents/bbugyi200.apollo.research.07.cld/README.md) | research hood | active |
+| … and 119 more in the [hood roster](../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

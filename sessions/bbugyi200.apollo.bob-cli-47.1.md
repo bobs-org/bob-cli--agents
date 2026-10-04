@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-47` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-47.1--code [active]"]
+  n0["bob-cli-47.1--code [completed]"]
   n1["bob-cli-47.1--gate [failed]"]
   n0 --> n1
-  n2["bob-cli-47.1--plan [active]"]
+  n2["bob-cli-47.1--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,15 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-47.1--code | active | gpt-6-luna / codex | 2026-10-04T11:22:08.322253+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-47.1--code | completed | gpt-6-luna / codex | 2026-10-04T11:22:08.322253+00:00 → 2026-10-04T11:44:58.391721+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-47.1--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-47.1--gate | failed | gpt-6.1-sol / codex | 2026-10-04T11:21:52.763468+00:00 → 2026-10-04T11:22:01.472662+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-47.1--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-47.1--plan | active | gpt-6.1-sol / codex | 2026-10-04T11:14:23.932740+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-47.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-47.1--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-47.1--plan | completed | gpt-6.1-sol / codex | 2026-10-04T11:14:23.932740+00:00 → 2026-10-04T11:44:58.391721+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-47.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-47.1--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-47.2](../agents/bbugyi200.apollo.bob-cli-47.2/README.md) | bob-cli-47 hood | waiting |
+| [bob-cli-47.2](bbugyi200.apollo.bob-cli-47.2.md) (session · 3) | bob-cli-47 hood | active 2, failed 1 |
 | [bob-cli-47.3](../agents/bbugyi200.apollo.bob-cli-47.3/README.md) | bob-cli-47 hood | waiting |
 | [bob-cli-47.4](../agents/bbugyi200.apollo.bob-cli-47.4/README.md) | bob-cli-47 hood | waiting |
 | [bob-cli-47.5](../agents/bbugyi200.apollo.bob-cli-47.5/README.md) | bob-cli-47 hood | waiting |

@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6.1-sol
 - **AGENT:** bob-cli-47.1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_47_1__plan-261004_071413.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_47_1__code-261004_071413.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/task_status_cycler_source_build.md
 
 
