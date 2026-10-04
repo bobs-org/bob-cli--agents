@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:0w4 Can you now help me turn off the trial date for the freshness-decay too? #plan %auto
