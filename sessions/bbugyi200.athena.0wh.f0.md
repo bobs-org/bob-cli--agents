@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 0wh.f0--code | active | grok-4.6 / grok | 2026-10-04T18:29:03.407007+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 0wh.f0--code | active | grok-4.6 / grok | 2026-10-04T18:29:03.407007+00:00 | [1](../agents/bbugyi200.athena.0wh.f0--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | 0wh.f0--plan | active | grok-4.7 / grok | 2026-10-04T18:20:25.221651+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0wh.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0wh.f0--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0wh.f0--gate | failed | grok-4.7 / grok | 2026-10-04T18:28:26.370430+00:00 → 2026-10-04T18:28:46.421129+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0wh.f0--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`cd2dd77`](https://github.com/bobs-org/bob-cli/commit/cd2dd7789e8ebf5c02d5bb0b12f1db0f701955a8) | feat(install-all): notify on macOS before Obsidian restart | 2026-10-04 14:37:34 EDT |
 
 ## Neighbors
 

@@ -11,7 +11,13 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-04T18:29:03.407007+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`cd2dd77`](https://github.com/bobs-org/bob-cli/commit/cd2dd7789e8ebf5c02d5bb0b12f1db0f701955a8) | feat(install-all): notify on macOS before Obsidian restart | 2026-10-04 14:37:34 EDT |
 
 ## Neighbors
 

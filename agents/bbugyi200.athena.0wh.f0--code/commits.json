@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-020a5d391fcca55662a03e296808aa49"}
+{"commits":[{"committed_at":1791139054,"sha":"cd2dd7789e8ebf5c02d5bb0b12f1db0f701955a8","subject":"feat(install-all): notify on macOS before Obsidian restart"}],"schema_version":2,"source_run_id":"run-020a5d391fcca55662a03e296808aa49"}
