@@ -76,6 +76,6 @@
 | [research.05.image](../bbugyi200.apollo.research.05.image/README.md) | research hood | completed |
 | [research.05.linker](../bbugyi200.apollo.research.05.linker/README.md) | research hood | completed |
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | failed 3 |
-| [research.07.audio](../bbugyi200.apollo.research.07.audio/README.md) | research hood | waiting |
+| [research.07.audio](../bbugyi200.apollo.research.07.audio/README.md) | research hood | active |
 | [research.07.cdx](../bbugyi200.apollo.research.07.cdx/README.md) | research hood | completed |
 | … and 120 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

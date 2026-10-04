@@ -21,12 +21,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.07.audio](../bbugyi200.apollo.research.07.audio/README.md) | research.07 hood | waiting |
+| [research.07.audio](../bbugyi200.apollo.research.07.audio/README.md) | research.07 hood | active |
 | [research.07.cdx](../bbugyi200.apollo.research.07.cdx/README.md) | research.07 hood | completed |
 | [research.07.cld](../bbugyi200.apollo.research.07.cld/README.md) | research.07 hood | completed |
-| [research.07.final](../bbugyi200.apollo.research.07.final/README.md) | research.07 hood | active |
+| [research.07.final](../bbugyi200.apollo.research.07.final/README.md) | research.07 hood | completed |
 | [research.07.grk](../bbugyi200.apollo.research.07.grk/README.md) | research.07 hood | completed |
-| [research.07.image](../bbugyi200.apollo.research.07.image/README.md) | research.07 hood | waiting |
+| [research.07.image](../bbugyi200.apollo.research.07.image/README.md) | research.07 hood | active |
 | [research.07.linker](../bbugyi200.apollo.research.07.linker/README.md) | research.07 hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
