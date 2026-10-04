@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["bob-cli-46.2--2 [completed]"]
   n0 --> n5
-  n6["bob-cli-46.2--3 [active]"]
+  n6["bob-cli-46.2--3 [completed]"]
   n0 --> n6
 ```
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | bob-cli-46.2--mon | failed | grok-4.6 / grok | 2026-10-04T12:32:14.183256+00:00 → 2026-10-04T12:33:31.275756+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-46.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-46.2--plan | completed | grok-4.6 / grok | 2026-10-04T11:46:36.199420+00:00 → 2026-10-04T12:32:52.594043+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-46.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-46.2--plan/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-46.2--2 | completed | grok-4.6 / grok | 2026-10-04T12:39:11.642204+00:00 → 2026-10-04T12:43:59.260535+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-46.2--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-46.2--2/chat.md) |
-| <a id="member-3"></a>3 | bob-cli-46.2--3 | active | grok-4.6 / grok | 2026-10-04T12:44:47.316374+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-46.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-46.2--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-46.2--3 | completed | grok-4.6 / grok | 2026-10-04T12:44:47.316374+00:00 → 2026-10-04T12:57:18.826604+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-46.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-46.2--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-46.2--3/chat.md) |
 
 ## Commits
 
@@ -46,6 +46,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-46.1](../agents/bbugyi200.apollo.bob-cli-46.1/README.md) | bob-cli-46 hood | completed |
-| [bob-cli-46.3](../agents/bbugyi200.apollo.bob-cli-46.3/README.md) | bob-cli-46 hood | waiting |
-| [bob-cli-46.4](../agents/bbugyi200.apollo.bob-cli-46.4/README.md) | bob-cli-46 hood | waiting |
+| [bob-cli-46.3](../agents/bbugyi200.apollo.bob-cli-46.3/README.md) | bob-cli-46 hood | active |
+| [bob-cli-46.4](../agents/bbugyi200.apollo.bob-cli-46.4/README.md) | bob-cli-46 hood | active |
 | [bob-cli-46.land](../agents/bbugyi200.apollo.bob-cli-46.land/README.md) | bob-cli-46 hood | waiting |
