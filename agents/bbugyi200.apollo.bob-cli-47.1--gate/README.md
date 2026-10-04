@@ -26,5 +26,5 @@
 | [bob-cli-47.2](../../sessions/bbugyi200.apollo.bob-cli-47.2.md) (session · 3) | bob-cli-47 hood | completed 2, failed 1 |
 | [bob-cli-47.3](../../sessions/bbugyi200.apollo.bob-cli-47.3.md) (session · 3) | bob-cli-47 hood | completed 2, failed 1 |
 | [bob-cli-47.4](../../sessions/bbugyi200.apollo.bob-cli-47.4.md) (session · 3) | bob-cli-47 hood | completed 2, failed 1 |
-| [bob-cli-47.5](../../sessions/bbugyi200.apollo.bob-cli-47.5.md) (session · 3) | bob-cli-47 hood | active 2, failed 1 |
-| [bob-cli-47.land](../bbugyi200.apollo.bob-cli-47.land/README.md) | bob-cli-47 hood | waiting |
+| [bob-cli-47.5](../../sessions/bbugyi200.apollo.bob-cli-47.5.md) (session · 3) | bob-cli-47 hood | completed 2, failed 1 |
+| [bob-cli-47.land](../bbugyi200.apollo.bob-cli-47.land/README.md) | bob-cli-47 hood | active |

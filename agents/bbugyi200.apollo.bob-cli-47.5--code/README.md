@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-47](../../users/bbugyi200/machines/apollo/hoods/bob-cli-47/README.md) / [bob-cli-47.5](../../sessions/bbugyi200.apollo.bob-cli-47.5.md) / bob-cli-47.5--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-47.5--code` · **State:** active · **Source run:** `run-51f175a55da0a33f9e08e7d5a5c2de57`
+**Global name:** `bbugyi200.apollo.bob-cli-47.5--code` · **State:** completed · **Source run:** `run-51f175a55da0a33f9e08e7d5a5c2de57`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-47
 
@@ -12,8 +12,12 @@
 - Epic: [bob-cli-47](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-47/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-04T13:58:00.867969+00:00
+- Timing: 2026-10-04T13:58:00.867969+00:00 → 2026-10-04T14:10:15.633201+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -23,4 +27,4 @@
 | [bob-cli-47.2](../../sessions/bbugyi200.apollo.bob-cli-47.2.md) (session · 3) | bob-cli-47 hood | completed 2, failed 1 |
 | [bob-cli-47.3](../../sessions/bbugyi200.apollo.bob-cli-47.3.md) (session · 3) | bob-cli-47 hood | completed 2, failed 1 |
 | [bob-cli-47.4](../../sessions/bbugyi200.apollo.bob-cli-47.4.md) (session · 3) | bob-cli-47 hood | completed 2, failed 1 |
-| [bob-cli-47.land](../bbugyi200.apollo.bob-cli-47.land/README.md) | bob-cli-47 hood | waiting |
+| [bob-cli-47.land](../bbugyi200.apollo.bob-cli-47.land/README.md) | bob-cli-47 hood | active |

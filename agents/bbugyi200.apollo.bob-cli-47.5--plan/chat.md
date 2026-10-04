@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6.1-sol
 - **AGENT:** bob-cli-47.5--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_47_5__plan-261004_071417.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_47_5__code-261004_071417.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/split_cycler_tests.md
 
 
