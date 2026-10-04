@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Recently, my Obsidian has been very slow to start up and has even been slow to quit (it says "Saving" for ~2s before the window closes). Can you help me diagnose the root cause of this issue and fix it? #plan %m:@xlarge %auto %wait(bead=bob-cli-47.3)
