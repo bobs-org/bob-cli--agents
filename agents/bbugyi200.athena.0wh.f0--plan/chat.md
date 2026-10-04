@@ -4,6 +4,11 @@
 - **MODEL:** grok/grok-4.7
 - **AGENT:** 0wh.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0wh_f0__plan-261004_140527.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0wh_f0__code-261004_140527.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/obsidian_restart_notification.md
 
 

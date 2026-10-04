@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0wh](../../users/bbugyi200/machines/athena/hoods/0wh/README.md) / [0wh.f0](../../sessions/bbugyi200.athena.0wh.f0.md) / 0wh.f0--plan
 
-**Global name:** `bbugyi200.athena.0wh.f0--plan` · **State:** active · **Source run:** `run-3e331f285b0b317aa8b2e9275c60bef7`
+**Global name:** `bbugyi200.athena.0wh.f0--plan` · **State:** completed · **Source run:** `run-3e331f285b0b317aa8b2e9275c60bef7`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 0wh
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.7
 - Provider: grok
-- Timing: 2026-10-04T18:20:25.221651+00:00
+- Timing: 2026-10-04T18:20:25.221651+00:00 → 2026-10-04T18:38:30.407099+00:00
 - Commits: 0
 
 ## Files
@@ -22,3 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [0wh](../../sessions/bbugyi200.athena.0wh.md) (session · 3) | ancestor | completed 2, failed 1 |
+| [0wh.f0.f0](../../sessions/bbugyi200.athena.0wh.f0.f0.md) (session · 3) | descendant | active 2, failed 1 |
