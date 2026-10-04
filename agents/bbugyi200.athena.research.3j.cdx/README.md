@@ -23,8 +23,8 @@
 |---|---|---|
 | [research.3j.cld](../bbugyi200.athena.research.3j.cld/README.md) | research.3j hood | active |
 | [research.3j.final](../bbugyi200.athena.research.3j.final/README.md) | research.3j hood | waiting |
-| [research.3j.gem](../bbugyi200.athena.research.3j.gem/README.md) | research.3j hood | active |
-| [research.3j.grk](../bbugyi200.athena.research.3j.grk/README.md) | research.3j hood | active |
+| [research.3j.gem](../bbugyi200.athena.research.3j.gem/README.md) | research.3j hood | completed |
+| [research.3j.grk](../bbugyi200.athena.research.3j.grk/README.md) | research.3j hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
