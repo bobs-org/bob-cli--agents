@@ -4,6 +4,11 @@
 - **MODEL:** grok/grok-4.7
 - **AGENT:** 0w4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0w4__plan-261004_053322.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0w4__code-261004_053322.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/task_card_only.md
 
 
