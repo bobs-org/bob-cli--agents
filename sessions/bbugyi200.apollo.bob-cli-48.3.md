@@ -36,6 +36,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-48.1](../agents/bbugyi200.apollo.bob-cli-48.1/README.md) | bob-cli-48 hood | completed |
 | [bob-cli-48.2](../agents/bbugyi200.apollo.bob-cli-48.2/README.md) | bob-cli-48 hood | completed |
 | [bob-cli-48.4](../agents/bbugyi200.apollo.bob-cli-48.4/README.md) | bob-cli-48 hood | completed |
-| [bob-cli-48.5](../agents/bbugyi200.apollo.bob-cli-48.5/README.md) | bob-cli-48 hood | active |
-| [bob-cli-48.6](../agents/bbugyi200.apollo.bob-cli-48.6/README.md) | bob-cli-48 hood | waiting |
+| [bob-cli-48.5](../agents/bbugyi200.apollo.bob-cli-48.5/README.md) | bob-cli-48 hood | completed |
+| [bob-cli-48.6](../agents/bbugyi200.apollo.bob-cli-48.6/README.md) | bob-cli-48 hood | active |
 | [bob-cli-48.land](../agents/bbugyi200.apollo.bob-cli-48.land/README.md) | bob-cli-48 hood | waiting |
