@@ -40,4 +40,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [0w4](bbugyi200.athena.0w4.md) (session · 3) | ancestor | completed 2, failed 1 |
-| [0w4.f1](bbugyi200.athena.0w4.f1.md) (session · 3) | 0w4 hood | active 2, failed 1 |
+| [0w4.f1](bbugyi200.athena.0w4.f1.md) (session · 3) | 0w4 hood | completed 2, failed 1 |
+| [0w4.f2](../agents/bbugyi200.athena.0w4.f2/README.md) | 0w4 hood | active |
+| [0w4.f3](bbugyi200.athena.0w4.f3.md) (session · 3) | 0w4 hood | active 2, failed 1 |

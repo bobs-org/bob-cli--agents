@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:0w4 I meant `<ctrl+[>` (which normally maps to `<esc>` but isn't working to close this panel for some reason), not `<ctrl+]>`. Can you help me fix this? #plan %auto

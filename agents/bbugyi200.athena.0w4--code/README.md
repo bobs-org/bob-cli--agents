@@ -28,4 +28,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [0w4.f0](../../sessions/bbugyi200.athena.0w4.f0.md) (session · 5) | descendant | completed 3, failed 2 |
-| [0w4.f1](../../sessions/bbugyi200.athena.0w4.f1.md) (session · 3) | descendant | active 2, failed 1 |
+| [0w4.f1](../../sessions/bbugyi200.athena.0w4.f1.md) (session · 3) | descendant | completed 2, failed 1 |
+| [0w4.f2](../bbugyi200.athena.0w4.f2/README.md) | descendant | active |
+| [0w4.f3](../../sessions/bbugyi200.athena.0w4.f3.md) (session · 3) | descendant | active 2, failed 1 |

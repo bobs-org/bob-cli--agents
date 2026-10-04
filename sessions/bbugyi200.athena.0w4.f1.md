@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `0w4` · Members: 3
 ```mermaid
 flowchart TD
   n0["0w4.f1--gate [failed]"]
-  n1["0w4.f1--plan [active]"]
+  n1["0w4.f1--plan [completed]"]
   n0 --> n1
-  n2["0w4.f1--code [active]"]
+  n2["0w4.f1--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0w4.f1--gate | failed | opus / claude | 2026-10-04T10:34:35.904448+00:00 → 2026-10-04T10:35:12.907035+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0w4.f1--gate/chat.md) |
-| <a id="member-plan"></a>plan | 0w4.f1--plan | active | opus / claude | 2026-10-04T10:15:22.754959+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0w4.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0w4.f1--plan/chat.md) |
-| <a id="member-code"></a>code | 0w4.f1--code | active | gpt-6-luna / codex | 2026-10-04T10:35:19.401015+00:00 | [1](../agents/bbugyi200.athena.0w4.f1--code/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | 0w4.f1--plan | completed | opus / claude | 2026-10-04T10:15:22.754959+00:00 → 2026-10-04T11:11:35.020103+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0w4.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0w4.f1--plan/chat.md) |
+| <a id="member-code"></a>code | 0w4.f1--code | completed | gpt-6-luna / codex | 2026-10-04T10:35:19.401015+00:00 → 2026-10-04T11:11:35.020103+00:00 | [1](../agents/bbugyi200.athena.0w4.f1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.0w4.f1--code/chat.md) |
 
 ## Commits
 
@@ -35,3 +35,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [0w4](bbugyi200.athena.0w4.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [0w4.f0](bbugyi200.athena.0w4.f0.md) (session · 5) | 0w4 hood | completed 3, failed 2 |
+| [0w4.f2](../agents/bbugyi200.athena.0w4.f2/README.md) | 0w4 hood | active |
+| [0w4.f3](bbugyi200.athena.0w4.f3.md) (session · 3) | 0w4 hood | active 2, failed 1 |
