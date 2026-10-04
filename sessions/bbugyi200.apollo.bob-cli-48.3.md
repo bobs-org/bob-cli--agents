@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-48.3--mon [failed]"]
   n1["bob-cli-48.3--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-48.3--1 [active]"]
+  n2["bob-cli-48.3--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-48.3--mon | failed | grok-4.6 / grok | 2026-10-04T13:45:11.152774+00:00 → 2026-10-04T13:46:23.516229+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-48.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-48.3--plan | completed | grok-4.6 / grok | 2026-10-04T13:24:18.901380+00:00 → 2026-10-04T13:45:43.647455+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-48.3--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-48.3--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-48.3--1 | active | grok-4.6 / grok | 2026-10-04T13:46:23.476504+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-48.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-48.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-48.3--1 | completed | grok-4.6 / grok | 2026-10-04T13:46:23.476504+00:00 → 2026-10-04T13:54:13.039406+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-48.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-48.3--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-48.3--1/chat.md) |
 
 ## Commits
 
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-48.1](../agents/bbugyi200.apollo.bob-cli-48.1/README.md) | bob-cli-48 hood | completed |
 | [bob-cli-48.2](../agents/bbugyi200.apollo.bob-cli-48.2/README.md) | bob-cli-48 hood | completed |
-| [bob-cli-48.4](../agents/bbugyi200.apollo.bob-cli-48.4/README.md) | bob-cli-48 hood | waiting |
+| [bob-cli-48.4](../agents/bbugyi200.apollo.bob-cli-48.4/README.md) | bob-cli-48 hood | active |
 | [bob-cli-48.5](../agents/bbugyi200.apollo.bob-cli-48.5/README.md) | bob-cli-48 hood | waiting |
 | [bob-cli-48.6](../agents/bbugyi200.apollo.bob-cli-48.6/README.md) | bob-cli-48 hood | waiting |
 | [bob-cli-48.land](../agents/bbugyi200.apollo.bob-cli-48.land/README.md) | bob-cli-48 hood | waiting |
