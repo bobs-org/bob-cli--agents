@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #split_epic(file_count=5) %m:gpt-6-astra %auto %q:2
