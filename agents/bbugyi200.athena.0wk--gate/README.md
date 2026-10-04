@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0wk.f0](../bbugyi200.athena.0wk.f0/README.md) | descendant | waiting |
+| [0wk.f0](../../sessions/bbugyi200.athena.0wk.f0.md) (session · 3) | descendant | active 2, failed 1 |

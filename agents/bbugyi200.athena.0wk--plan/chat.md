@@ -5,6 +5,11 @@
 - **AGENT:** 0wk--plan
 - **PROMPT:** `~/.sase/multi_prompts/202610/gh_bobs_org__bob_cli-multiprompt-261004_180747.md`
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0wk__plan-261004_180747.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0wk__code-261004_180747.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/no_pomodoro_green_reminder_flash.md
 
 
