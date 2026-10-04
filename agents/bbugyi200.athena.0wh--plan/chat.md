@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0wh--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0wh__plan-261004_134933.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0wh__code-261004_134933.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/install_all_restart_on_plugin_change.md
 
 

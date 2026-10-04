@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:0wh Also, can you make sure that we send a good mac notification when we need to restart Obsidian? #plan %auto
