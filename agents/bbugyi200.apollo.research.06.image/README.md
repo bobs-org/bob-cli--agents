@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.06.image
 
-**Global name:** `bbugyi200.apollo.research.06.image` · **State:** active · **Source run:** `run-88b404e5da85d8f80bf3d45a599599f0`
+**Global name:** `bbugyi200.apollo.research.06.image` · **State:** completed · **Source run:** `run-88b404e5da85d8f80bf3d45a599599f0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,24 +10,24 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-04T10:26:49.225999+00:00
+- Timing: 2026-10-04T10:26:49.225999+00:00 → 2026-10-04T10:32:13.933911+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research.06 hood | active |
+| [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research.06 hood | completed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research.06 hood | completed |
 | [research.06.cld](../bbugyi200.apollo.research.06.cld/README.md) | research.06 hood | completed |
 | [research.06.final](../bbugyi200.apollo.research.06.final/README.md) | research.06 hood | completed |
 | [research.06.gem](../bbugyi200.apollo.research.06.gem/README.md) | research.06 hood | completed |
 | [research.06.grk](../bbugyi200.apollo.research.06.grk/README.md) | research.06 hood | completed |
-| [research.06.linker](../bbugyi200.apollo.research.06.linker/README.md) | research.06 hood | waiting |
+| [research.06.linker](../bbugyi200.apollo.research.06.linker/README.md) | research.06 hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
