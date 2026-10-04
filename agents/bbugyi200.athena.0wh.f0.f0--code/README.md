@@ -11,7 +11,13 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-04T18:53:24.610883+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`19230d3`](https://github.com/bobs-org/bob-cli/commit/19230d37b40f731b0f65b8caccd6c62ed2ad2968) | feat(install-all): offer to clone missing sibling checkouts over SSH | 2026-10-04 15:46:11 EDT |
 
 ## Neighbors
 
