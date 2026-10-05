@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:59 And what is the "Network settings" buttton supposed to do? It isn't working. Can you help me fix this? %m:gpt-6-astra #plan %auto

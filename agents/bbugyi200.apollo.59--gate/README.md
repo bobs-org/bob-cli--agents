@@ -16,3 +16,9 @@
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [59.f0](../../sessions/bbugyi200.apollo.59.f0.md) (session · 3) | descendant | active 2, failed 1 |

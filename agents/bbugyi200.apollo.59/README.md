@@ -18,3 +18,9 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | bob-cli | [`e7b1e3a`](https://github.com/bobs-org/bob-cli/commit/e7b1e3a1a3274c5f797e24fc526f0ca927818cc7) | fix(projects): preserve hidden project task when scheduled | 2026-07-11 07:54:57 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [59.f0](../../sessions/bbugyi200.apollo.59.f0.md) (session · 3) | descendant | active 2, failed 1 |
