@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli We recently made the `NO POMODORO` text shown in the mac menu bar (defined by Hammerspoon in my chezmoi repo) flash green every 10 minutes. Can you help me make this every 5 minutes instead? #plan %auto
