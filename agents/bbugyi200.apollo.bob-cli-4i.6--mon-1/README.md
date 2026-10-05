@@ -1,8 +1,8 @@
-# Agent: bob-cli-4i.6--2
+# Agent: bob-cli-4i.6--mon-1
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-4i](../../users/bbugyi200/machines/apollo/hoods/bob-cli-4i/README.md) / [bob-cli-4i.6](../../sessions/bbugyi200.apollo.bob-cli-4i.6.md) / bob-cli-4i.6--2
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-4i](../../users/bbugyi200/machines/apollo/hoods/bob-cli-4i/README.md) / [bob-cli-4i.6](../../sessions/bbugyi200.apollo.bob-cli-4i.6.md) / bob-cli-4i.6--mon-1
 
-**Global name:** `bbugyi200.apollo.bob-cli-4i.6--2` · **State:** completed · **Source run:** `run-81cd0e083dd5fdca6019300d14925de8`
+**Global name:** `bbugyi200.apollo.bob-cli-4i.6--mon-1` · **State:** failed · **Source run:** `run-77d4394edafb1710ff7e8e115a65356f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-4i
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-4i.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-4i/bob-cli-4i.6.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-05T21:33:35.002899+00:00 → 2026-10-05T21:38:06.299483+00:00
+- Timing: 2026-10-05T21:37:36.482605+00:00 → 2026-10-05T21:40:17.678784+00:00
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 
