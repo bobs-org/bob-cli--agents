@@ -8,4 +8,4 @@
 |---|---|---|---|---:|---|
 | [0wn--gate](../../../../../../sessions/bbugyi200.athena.0wn.md#member-gate) | failed | grok-4.7 / grok | 2026-10-05T11:42:19.588624+00:00 → 2026-10-05T11:42:40.278347+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0wn--gate/chat.md) |
 | [0wn--code](../../../../../../sessions/bbugyi200.athena.0wn.md#member-code) | active | muse-spark-1.3-contributor / muse | 2026-10-05T11:42:57.386010+00:00 | 0 | — |
-| [0wn--plan](../../../../../../sessions/bbugyi200.athena.0wn.md#member-plan) | active | grok-4.7 / grok | 2026-10-05T11:35:58.676265+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0wn--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.0wn--plan/chat.md) |
+| [0wn--plan](../../../../../../sessions/bbugyi200.athena.0wn.md#member-plan) | active | grok-4.7 / grok | 2026-10-05T11:35:58.676265+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0wn--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0wn--plan/prompt.md) |
