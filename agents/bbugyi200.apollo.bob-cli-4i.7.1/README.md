@@ -13,17 +13,23 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-05T22:11:29.182525+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e0df2ea`](https://github.com/bobs-org/bob-cli/commit/e0df2ea621555149e48e4c26cbe390952b376ceb) | feat(close): route the =x embedded-tree close through complete\_task\_tree | 2026-10-05 18:29:14 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-4i.7.2](../bbugyi200.apollo.bob-cli-4i.7.2/README.md) | bob-cli-4i.7 hood | active |
+| [bob-cli-4i.7.2](../bbugyi200.apollo.bob-cli-4i.7.2/README.md) | bob-cli-4i.7 hood | completed |
 | [bob-cli-4i.7.3](../bbugyi200.apollo.bob-cli-4i.7.3/README.md) | bob-cli-4i.7 hood | waiting |
 | [bob-cli-4i.7.4](../bbugyi200.apollo.bob-cli-4i.7.4/README.md) | bob-cli-4i.7 hood | waiting |
 | [bob-cli-4i.7.land](../bbugyi200.apollo.bob-cli-4i.7.land/README.md) | bob-cli-4i.7 hood | waiting |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-14f4b0027c0dd6e54ec0fac0685c5718"}
+{"commits":[{"committed_at":1791239354,"sha":"e0df2ea621555149e48e4c26cbe390952b376ceb","subject":"feat(close): route the =x embedded-tree close through complete_task_tree"}],"schema_version":2,"source_run_id":"run-14f4b0027c0dd6e54ec0fac0685c5718"}
