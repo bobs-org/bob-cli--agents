@@ -26,5 +26,5 @@
 | [bob-cli-4i.2](../bbugyi200.apollo.bob-cli-4i.2/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.3](../bbugyi200.apollo.bob-cli-4i.3/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.4](../bbugyi200.apollo.bob-cli-4i.4/README.md) | bob-cli-4i hood | completed |
-| [bob-cli-4i.5](../bbugyi200.apollo.bob-cli-4i.5/README.md) | bob-cli-4i hood | active |
+| [bob-cli-4i.5](../../sessions/bbugyi200.apollo.bob-cli-4i.5.md) (session · 3) | bob-cli-4i hood | active 1, completed 1, failed 1 |
 | [bob-cli-4i.6](../bbugyi200.apollo.bob-cli-4i.6/README.md) | bob-cli-4i hood | waiting |
