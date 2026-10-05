@@ -4,6 +4,11 @@
 - **MODEL:** grok/grok-4.7
 - **AGENT:** bob-cli-4f.1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_4f_1__plan-261004_214243.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_4f_1__code-261004_214243.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/block_id_prompt_source.md
 
 
