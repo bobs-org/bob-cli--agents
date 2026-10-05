@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-700775f7e560cd1ef31fa3e0b8b948ef"}
+{"commits":[{"committed_at":1791229120,"sha":"1b6f8bc4396c283e0bf66d95fc504e871bc52d3f","subject":"feat(capture): implement whole-item !note:block-id grammar"}],"schema_version":2,"source_run_id":"run-700775f7e560cd1ef31fa3e0b8b948ef"}
