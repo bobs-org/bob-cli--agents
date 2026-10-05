@@ -27,9 +27,9 @@
 | [bob-cli-4i.3](../bbugyi200.apollo.bob-cli-4i.3/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.4](../bbugyi200.apollo.bob-cli-4i.4/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.6](../../sessions/bbugyi200.apollo.bob-cli-4i.6.md) (session · 9) | bob-cli-4i hood | completed 5, failed 4 |
-| [bob-cli-4i.7.1](../bbugyi200.apollo.bob-cli-4i.7.1/README.md) | bob-cli-4i hood | active |
+| [bob-cli-4i.7.1](../bbugyi200.apollo.bob-cli-4i.7.1/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.7.2](../bbugyi200.apollo.bob-cli-4i.7.2/README.md) | bob-cli-4i hood | completed |
-| [bob-cli-4i.7.3](../bbugyi200.apollo.bob-cli-4i.7.3/README.md) | bob-cli-4i hood | waiting |
+| [bob-cli-4i.7.3](../bbugyi200.apollo.bob-cli-4i.7.3/README.md) | bob-cli-4i hood | active |
 | [bob-cli-4i.7.4](../bbugyi200.apollo.bob-cli-4i.7.4/README.md) | bob-cli-4i hood | waiting |
 | [bob-cli-4i.7.land](../bbugyi200.apollo.bob-cli-4i.7.land/README.md) | bob-cli-4i hood | waiting |
 | [bob-cli-4i.land](../../sessions/bbugyi200.apollo.bob-cli-4i.land.md) (session · 3) | bob-cli-4i hood | failed 3 |

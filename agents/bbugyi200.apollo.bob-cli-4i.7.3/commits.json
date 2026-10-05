@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d6dc6c13366d92bc6075d137443c7220"}
+{"commits":[{"committed_at":1791240454,"sha":"db1da70db505d18ff21cd042de583e358ee4e09c","subject":"feat(capture): task-complete strike/move ledger output with struck_in and dropped"}],"schema_version":2,"source_run_id":"run-d6dc6c13366d92bc6075d137443c7220"}
