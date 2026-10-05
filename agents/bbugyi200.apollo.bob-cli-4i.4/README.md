@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-05T19:40:29.908515+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`fbc4f43`](https://github.com/bobs-org/bob-cli/commit/fbc4f4399cf4aae1130218c9092d172dbf95b683) | feat(capture): execute whole-item !note:block-id completions | 2026-10-05 16:07:56 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [bob-cli-4i.1](../bbugyi200.apollo.bob-cli-4i.1/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.2](../bbugyi200.apollo.bob-cli-4i.2/README.md) | bob-cli-4i hood | completed |
-| [bob-cli-4i.3](../bbugyi200.apollo.bob-cli-4i.3/README.md) | bob-cli-4i hood | active |
+| [bob-cli-4i.3](../bbugyi200.apollo.bob-cli-4i.3/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.5](../bbugyi200.apollo.bob-cli-4i.5/README.md) | bob-cli-4i hood | waiting |
 | [bob-cli-4i.6](../bbugyi200.apollo.bob-cli-4i.6/README.md) | bob-cli-4i hood | waiting |
 | [bob-cli-4i.land](../bbugyi200.apollo.bob-cli-4i.land/README.md) | bob-cli-4i hood | waiting |
