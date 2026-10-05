@@ -23,5 +23,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-4h.1](../bbugyi200.apollo.bob-cli-4h.1/README.md) | bob-cli-4h hood | active |
-| [bob-cli-4h.2](../bbugyi200.apollo.bob-cli-4h.2/README.md) | bob-cli-4h hood | active |
+| [bob-cli-4h.2](../bbugyi200.apollo.bob-cli-4h.2/README.md) | bob-cli-4h hood | completed |
 | [bob-cli-4h.3](../bbugyi200.apollo.bob-cli-4h.3/README.md) | bob-cli-4h hood | waiting |
