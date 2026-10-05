@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6.1-sol
 - **AGENT:** bob-cli-4f.3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_4f_3__plan-261004_214245.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_4f_3__code-261004_214245.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/ledger_tools_freshness_tests.md
 
 
