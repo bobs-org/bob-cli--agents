@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-4i](../../users/bbugyi200/machines/apollo/hoods/bob-cli-4i/README.md) / [bob-cli-4i.7.4](../../sessions/bbugyi200.apollo.bob-cli-4i.7.4.md) / bob-cli-4i.7.4--1
 
-**Global name:** `bbugyi200.apollo.bob-cli-4i.7.4--1` · **State:** active · **Source run:** `run-d6785706c43d65c74b81fd68cb602923`
+**Global name:** `bbugyi200.apollo.bob-cli-4i.7.4--1` · **State:** completed · **Source run:** `run-d6785706c43d65c74b81fd68cb602923`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-4i
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-4i.7.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-4i/bob-cli-4i.7.4.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-05T23:05:10.241566+00:00
+- Timing: 2026-10-05T23:05:10.241566+00:00 → 2026-10-05T23:16:33.871581+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
