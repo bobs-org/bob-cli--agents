@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["bob-cli-4i.7.4--plan [completed]"]
   n0 --> n3
-  n4["bob-cli-4i.7.4--2 [active]"]
+  n4["bob-cli-4i.7.4--2 [completed]"]
   n0 --> n4
 ```
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | bob-cli-4i.7.4--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-05T23:16:03.723588+00:00 → 2026-10-05T23:18:33.011835+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-4i.7.4--mon-0/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-4i.7.4--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-05T23:05:10.241566+00:00 → 2026-10-05T23:16:33.871581+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-4i.7.4--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-4i.7.4--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-4i.7.4--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-05T22:49:48.287425+00:00 → 2026-10-05T23:03:14.024395+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-4i.7.4--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-4i.7.4--plan/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-4i.7.4--2 | active | muse-spark-1.3-contributor / muse | 2026-10-05T23:18:32.823885+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-4i.7.4--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-4i.7.4--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-05T23:18:32.823885+00:00 → 2026-10-05T23:30:07.714487+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-4i.7.4--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-4i.7.4--2/chat.md) |
 
 ## Neighbors
 
@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-4i.7.1](../agents/bbugyi200.apollo.bob-cli-4i.7.1/README.md) | bob-cli-4i.7 hood | completed |
 | [bob-cli-4i.7.2](../agents/bbugyi200.apollo.bob-cli-4i.7.2/README.md) | bob-cli-4i.7 hood | completed |
 | [bob-cli-4i.7.3](../agents/bbugyi200.apollo.bob-cli-4i.7.3/README.md) | bob-cli-4i.7 hood | completed |
-| [bob-cli-4i.7.land](../agents/bbugyi200.apollo.bob-cli-4i.7.land/README.md) | bob-cli-4i.7 hood | waiting |
+| [bob-cli-4i.7.land](bbugyi200.apollo.bob-cli-4i.7.land.md) (session · 3) | bob-cli-4i.7 hood | active 2, failed 1 |
 | [bob-cli-4i.1](../agents/bbugyi200.apollo.bob-cli-4i.1/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.2](../agents/bbugyi200.apollo.bob-cli-4i.2/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.3](../agents/bbugyi200.apollo.bob-cli-4i.3/README.md) | bob-cli-4i hood | completed |
