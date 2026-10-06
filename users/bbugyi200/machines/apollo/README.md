@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / apollo
 
-**Project:** bob-cli · **Hoods:** 283 · **Runs:** 1239
+**Project:** bob-cli · **Hoods:** 283 · **Runs:** 1242
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -145,7 +145,7 @@
 | [5d](hoods/5d/README.md) | 5 | 1 | active 3, completed 1, failed 1 |
 | [5e](hoods/5e/README.md) | 8 | 1 | active 1, completed 4, failed 3 |
 | [5f](hoods/5f/README.md) | 3 | 1 | active 2, failed 1 |
-| [5g](hoods/5g/README.md) | 2 | 0 | completed 2 |
+| [5g](hoods/5g/README.md) | 5 | 1 | active 2, completed 2, failed 1 |
 | [5h](hoods/5h/README.md) | 1 | 0 | completed 1 |
 | [5j](hoods/5j/README.md) | 1 | 0 | completed 1 |
 | [5k](hoods/5k/README.md) | 1 | 0 | completed 1 |
