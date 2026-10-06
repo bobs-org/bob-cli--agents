@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3r.grk
 
-**Global name:** `bbugyi200.athena.research.3r.grk` · **State:** active · **Source run:** `run-d6da5f00d4f11de36cbc10906c2af534`
+**Global name:** `bbugyi200.athena.research.3r.grk` · **State:** completed · **Source run:** `run-d6da5f00d4f11de36cbc10906c2af534`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,19 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-06T18:19:32.310891+00:00
+- Timing: 2026-10-06T18:19:32.310891+00:00 → 2026-10-06T18:31:38.633574+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.3r.audio](../bbugyi200.athena.research.3r.audio/README.md) | research.3r hood | waiting |
-| [research.3r.cdx](../bbugyi200.athena.research.3r.cdx/README.md) | research.3r hood | active |
+| [research.3r.cdx](../bbugyi200.athena.research.3r.cdx/README.md) | research.3r hood | completed |
 | [research.3r.cld](../bbugyi200.athena.research.3r.cld/README.md) | research.3r hood | active |
 | [research.3r.final](../bbugyi200.athena.research.3r.final/README.md) | research.3r hood | waiting |
 | [research.3r.gem](../bbugyi200.athena.research.3r.gem/README.md) | research.3r hood | active |
