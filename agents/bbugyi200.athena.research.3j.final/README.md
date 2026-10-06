@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3j.final
 
-**Global name:** `bbugyi200.athena.research.3j.final` · **State:** active · **Source run:** `run-8de1f1ce2d897c09c4ebc4f3b01fdf61`
+**Global name:** `bbugyi200.athena.research.3j.final` · **State:** active · **Source run:** `run-1f96ddd43ced1a9aa511061ea66cfc80`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -15,16 +15,16 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3j.cdx](../bbugyi200.athena.research.3j.cdx/README.md) | research.3j hood | completed |
-| [research.3j.cld](../bbugyi200.athena.research.3j.cld/README.md) | research.3j hood | completed |
-| [research.3j.gem](../bbugyi200.athena.research.3j.gem/README.md) | research.3j hood | completed |
-| [research.3j.grk](../bbugyi200.athena.research.3j.grk/README.md) | research.3j hood | completed |
+| [research.3j.cdx](../bbugyi200.athena.research.3j.cdx/README.md) | research.3j hood | active |
+| [research.3j.cld](../bbugyi200.athena.research.3j.cld/README.md) | research.3j hood | active |
+| [research.3j.gem](../bbugyi200.athena.research.3j.gem/README.md) | research.3j hood | active |
+| [research.3j.grk](../bbugyi200.athena.research.3j.grk/README.md) | research.3j hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
@@ -75,4 +75,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 85 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 94 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
