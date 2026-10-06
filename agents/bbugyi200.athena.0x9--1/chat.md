@@ -4,6 +4,12 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0x9--1
 
+## Linked Chats
+
+- 1. --0 — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0x9__0-261006_092009.md`
+- **2. --1** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0x9__1-261006_092009.md`
+- 3. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0x9__code-261006_092009.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/ctrl_shift_m_never_advances_walk.md
 
 

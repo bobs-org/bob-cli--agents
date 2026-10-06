@@ -3,6 +3,12 @@
 - **TIMESTAMP:** 2026-10-06 09:28:59 EDT
 - **AGENT:** 0x9--0
 
+## Linked Chats
+
+- **1. --0** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0x9__0-261006_092009.md`
+- 2. --1 — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0x9__1-261006_092009.md`
+- 3. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0x9__code-261006_092009.md`
+
 ## Prompt
 
 #gh:gh_bobs-org__bob-cli Moving a task from one note file to another using the `<ctrl+shift+m>` keymap
