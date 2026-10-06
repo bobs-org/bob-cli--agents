@@ -12,7 +12,13 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-06T20:02:35.165515+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`0ca5a13`](https://github.com/bobs-org/bob-cli/commit/0ca5a13a16282c3c93b858c5673db3bafc82c3d6) | docs(inbox-routing): say non-closing Task Card answers route last before writing | 2026-10-06 16:18:16 EDT |
 
 ## Neighbors
 

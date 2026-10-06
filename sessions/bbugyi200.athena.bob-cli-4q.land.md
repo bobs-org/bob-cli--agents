@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-4q.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-06T20:02:35.165515+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-4q.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-06T20:02:35.165515+00:00 | [1](../agents/bbugyi200.athena.bob-cli-4q.land--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-4q.land--gate | failed | gpt-6.1-sol / codex | 2026-10-06T20:01:32.229584+00:00 → 2026-10-06T20:01:58.484159+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-4q.land--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-4q.land--plan | active | gpt-6.1-sol / codex | 2026-10-06T19:44:04.608490+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-4q.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-4q.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`0ca5a13`](https://github.com/bobs-org/bob-cli/commit/0ca5a13a16282c3c93b858c5673db3bafc82c3d6) | docs(inbox-routing): say non-closing Task Card answers route last before writing | 2026-10-06 16:18:16 EDT |
 
 ## Neighbors
 
