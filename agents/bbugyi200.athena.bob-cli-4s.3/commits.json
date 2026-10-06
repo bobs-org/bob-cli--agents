@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2892110cfeea51d93fdb033efb33730b"}
+{"commits":[{"committed_at":1791319627,"sha":"fa7c7b002931cface784e19e85778d151754a37a","subject":"feat(highlights): accept markdown, local PDF, PDF URL, and arXiv targets in create"}],"schema_version":2,"source_run_id":"run-2892110cfeea51d93fdb033efb33730b"}
