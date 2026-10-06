@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 159 · **Sessions:** 1 · **States:** active 80, completed 73, waiting 6
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 159 · **Sessions:** 1 · **States:** active 80, completed 74, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -16,7 +16,7 @@
 | [research.0m.final](../../../../../../agents/bbugyi200.athena.research.0m.final/README.md) | completed | — | 2026-06-26T12:17:26+00:00 → 2026-06-26T12:17:26+00:00 | 1 | — |
 | [research.32.image](../../../../../../agents/bbugyi200.athena.research.32.image/README.md) | active | gpt-6-astra / codex | 2026-10-01T05:10:38.527342+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.32.image/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.32.image/chat.md) |
 | [research.cld-5](../../../../../../agents/bbugyi200.athena.research.cld-5/README.md) | completed | — | 2026-06-03T20:15:28+00:00 → 2026-06-03T20:15:28+00:00 | 1 | — |
-| [research.3r.image](../../../../../../agents/bbugyi200.athena.research.3r.image/README.md) | active | gpt-6-astra / codex | 2026-10-06T19:00:00.974105+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3r.image/prompt.md) |
+| [research.3r.image](../../../../../../agents/bbugyi200.athena.research.3r.image/README.md) | completed | gpt-6-astra / codex | 2026-10-06T19:00:00.974105+00:00 → 2026-10-06T19:07:27.015964+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3r.image/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.3r.image/chat.md) |
 | [research.final-7](../../../../../../agents/bbugyi200.athena.research.final-7/README.md) | completed | — | 2026-06-04T18:43:28+00:00 → 2026-06-04T18:43:28+00:00 | 1 | — |
 | [research.9.cdx](../../../../../../agents/bbugyi200.athena.research.9.cdx/README.md) | completed | — | 2026-06-12T11:43:47+00:00 → 2026-06-12T11:43:47+00:00 | 1 | — |
 | [research.0h.cdx](../../../../../../agents/bbugyi200.athena.research.0h.cdx/README.md) | active | gpt-5.6-sol / codex | 2026-08-13T23:22:33.404197+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.0h.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.0h.cdx/chat.md) |
@@ -101,7 +101,7 @@
 | [research.1a.cdx](../../../../../../agents/bbugyi200.athena.research.1a.cdx/README.md) | active | gpt-5.6-sol / codex | 2026-08-27T13:44:59.050726+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.1a.cdx/prompt.md) |
 | [research.0m.cld](../../../../../../agents/bbugyi200.athena.research.0m.cld/README.md) | completed | — | 2026-06-26T12:03:14+00:00 → 2026-06-26T12:03:14+00:00 | 1 | — |
 | [research.i.final.f1.f1](../../../../../../agents/bbugyi200.athena.research.i.final.f1.f1/README.md) | completed | — | 2026-06-15T20:12:56+00:00 → 2026-06-15T20:46:08+00:00 | 2 | — |
-| [research.3r.linker](../../../../../../agents/bbugyi200.athena.research.3r.linker/README.md) | waiting | opus / claude | 20261006141815 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3r.linker/prompt.md) |
+| [research.3r.linker](../../../../../../agents/bbugyi200.athena.research.3r.linker/README.md) | active | opus / claude | 2026-10-06T19:08:05.606675+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3r.linker/prompt.md) |
 | [research.y.final.f2](../../../../../../agents/bbugyi200.athena.research.y.final.f2/README.md) | completed | — | 2026-06-20T15:00:34+00:00 → 2026-06-20T15:04:46+00:00 | 3 | — |
 | [research.9.cld](../../../../../../agents/bbugyi200.athena.research.9.cld/README.md) | completed | — | 2026-06-12T11:53:24+00:00 → 2026-06-12T11:53:24+00:00 | 1 | — |
 | [research.1a.final](../../../../../../agents/bbugyi200.athena.research.1a.final/README.md) | active | opus / claude | 2026-08-27T14:07:04.995398+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.1a.final/prompt.md) |
