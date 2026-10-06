@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0d.final
 
-**Global name:** `bbugyi200.apollo.research.0d.final` · **State:** active · **Source run:** `run-4c21d7f2d1fa97dc0c841c9925893604`
+**Global name:** `bbugyi200.apollo.research.0d.final` · **State:** completed · **Source run:** `run-4c21d7f2d1fa97dc0c841c9925893604`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,24 +10,25 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-06T10:07:24.108636+00:00
+- Timing: 2026-10-06T10:07:24.108636+00:00 → 2026-10-06T10:22:30.997359+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0d.audio](../bbugyi200.apollo.research.0d.audio/README.md) | research.0d hood | waiting |
+| [research.0d.audio](../bbugyi200.apollo.research.0d.audio/README.md) | research.0d hood | active |
 | [research.0d.cdx](../bbugyi200.apollo.research.0d.cdx/README.md) | research.0d hood | completed |
 | [research.0d.cld](../bbugyi200.apollo.research.0d.cld/README.md) | research.0d hood | completed |
 | [research.0d.gem](../bbugyi200.apollo.research.0d.gem/README.md) | research.0d hood | completed |
 | [research.0d.grk](../bbugyi200.apollo.research.0d.grk/README.md) | research.0d hood | completed |
-| [research.0d.image](../bbugyi200.apollo.research.0d.image/README.md) | research.0d hood | waiting |
+| [research.0d.image](../bbugyi200.apollo.research.0d.image/README.md) | research.0d hood | active |
 | [research.0d.linker](../bbugyi200.apollo.research.0d.linker/README.md) | research.0d hood | waiting |
+| [research.0d.linker.w0](../bbugyi200.apollo.research.0d.linker.w0/README.md) | research.0d hood | waiting |
 | [research.0d.mus](../bbugyi200.apollo.research.0d.mus/README.md) | research.0d hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
