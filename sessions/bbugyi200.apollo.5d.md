@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 5d--plan | active | opus / claude | 2026-10-06T14:24:32.622008+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.5d--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.5d--plan/chat.md) |
-| <a id="member-code"></a>code | 5d--code | active | muse-spark-1.3-contributor / muse | 2026-10-06T14:29:14.904017+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 5d--code | active | muse-spark-1.3-contributor / muse | 2026-10-06T14:29:14.904017+00:00 | [1](../agents/bbugyi200.apollo.5d--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | 5d--gate | failed | opus / claude | 2026-10-06T14:28:56.744896+00:00 → 2026-10-06T14:29:06.767044+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.5d--gate/chat.md) |
 
 ## Commits
@@ -28,6 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | — | bob-cli | [`4467e07`](https://github.com/bobs-org/bob-cli/commit/4467e07ab88689361ab149e7cc0169c7a8854ee1) | chore: Add SDD prompt and plan for obsidian\_ctrl\_shift\_bracket\_task\_toggle | 2026-06-11 10:26:10 EDT |
+| code | bob-cli | [`279de51`](https://github.com/bobs-org/bob-cli/commit/279de51500fb3dbf5a3172796c6c2527942bb991) | feat(task-status): emit marker-free status badge rows and migrate legacy markers | 2026-10-06 10:49:32 EDT |
 
 ## Neighbors
 

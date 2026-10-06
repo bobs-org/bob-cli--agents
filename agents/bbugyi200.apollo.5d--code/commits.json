@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-cb8dff972ac3d0d40d323c84b78f6370"}
+{"commits":[{"committed_at":1791298172,"sha":"279de51500fb3dbf5a3172796c6c2527942bb991","subject":"feat(task-status): emit marker-free status badge rows and migrate legacy markers"}],"schema_version":2,"source_run_id":"run-cb8dff972ac3d0d40d323c84b78f6370"}
