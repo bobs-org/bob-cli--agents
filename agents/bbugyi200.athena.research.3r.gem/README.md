@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3r.gem
 
-**Global name:** `bbugyi200.athena.research.3r.gem` · **State:** active · **Source run:** `run-3d17898d2ff92dbf5d03c8a05e063196`
+**Global name:** `bbugyi200.athena.research.3r.gem` · **State:** completed · **Source run:** `run-3d17898d2ff92dbf5d03c8a05e063196`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-06T18:20:04.796475+00:00
+- Timing: 2026-10-06T18:20:04.796475+00:00 → 2026-10-06T18:39:00.566223+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -23,8 +23,8 @@
 |---|---|---|
 | [research.3r.audio](../bbugyi200.athena.research.3r.audio/README.md) | research.3r hood | waiting |
 | [research.3r.cdx](../bbugyi200.athena.research.3r.cdx/README.md) | research.3r hood | completed |
-| [research.3r.cld](../bbugyi200.athena.research.3r.cld/README.md) | research.3r hood | active |
-| [research.3r.final](../bbugyi200.athena.research.3r.final/README.md) | research.3r hood | waiting |
+| [research.3r.cld](../bbugyi200.athena.research.3r.cld/README.md) | research.3r hood | completed |
+| [research.3r.final](../bbugyi200.athena.research.3r.final/README.md) | research.3r hood | active |
 | [research.3r.grk](../bbugyi200.athena.research.3r.grk/README.md) | research.3r hood | completed |
 | [research.3r.image](../bbugyi200.athena.research.3r.image/README.md) | research.3r hood | waiting |
 | [research.3r.linker](../bbugyi200.athena.research.3r.linker/README.md) | research.3r hood | waiting |

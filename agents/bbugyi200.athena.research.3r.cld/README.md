@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3r.cld
 
-**Global name:** `bbugyi200.athena.research.3r.cld` · **State:** active · **Source run:** `run-0312f4034ee3cdc5be34d15560a01df9`
+**Global name:** `bbugyi200.athena.research.3r.cld` · **State:** completed · **Source run:** `run-0312f4034ee3cdc5be34d15560a01df9`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-06T18:19:15.851943+00:00
+- Timing: 2026-10-06T18:19:15.851943+00:00 → 2026-10-06T18:38:27.183948+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -23,8 +23,8 @@
 |---|---|---|
 | [research.3r.audio](../bbugyi200.athena.research.3r.audio/README.md) | research.3r hood | waiting |
 | [research.3r.cdx](../bbugyi200.athena.research.3r.cdx/README.md) | research.3r hood | completed |
-| [research.3r.final](../bbugyi200.athena.research.3r.final/README.md) | research.3r hood | waiting |
-| [research.3r.gem](../bbugyi200.athena.research.3r.gem/README.md) | research.3r hood | active |
+| [research.3r.final](../bbugyi200.athena.research.3r.final/README.md) | research.3r hood | active |
+| [research.3r.gem](../bbugyi200.athena.research.3r.gem/README.md) | research.3r hood | completed |
 | [research.3r.grk](../bbugyi200.athena.research.3r.grk/README.md) | research.3r hood | completed |
 | [research.3r.image](../bbugyi200.athena.research.3r.image/README.md) | research.3r hood | waiting |
 | [research.3r.linker](../bbugyi200.athena.research.3r.linker/README.md) | research.3r hood | waiting |
