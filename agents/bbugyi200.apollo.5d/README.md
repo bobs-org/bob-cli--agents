@@ -18,3 +18,9 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | bob-cli | [`4467e07`](https://github.com/bobs-org/bob-cli/commit/4467e07ab88689361ab149e7cc0169c7a8854ee1) | chore: Add SDD prompt and plan for obsidian\_ctrl\_shift\_bracket\_task\_toggle | 2026-06-11 10:26:10 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [5d.f0](../bbugyi200.apollo.5d.f0/README.md) | descendant | active |

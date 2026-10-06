@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:5d Make sure all of those comments have been removed from my Obsidian vault. #if_not_plan %m:gpt-6.1-sol %auto
