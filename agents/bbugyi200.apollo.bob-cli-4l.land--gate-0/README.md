@@ -1,8 +1,8 @@
-# Agent: bob-cli-4l.land
+# Agent: bob-cli-4l.land--gate-0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-4l](../../users/bbugyi200/machines/apollo/hoods/bob-cli-4l/README.md) / bob-cli-4l.land
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-4l](../../users/bbugyi200/machines/apollo/hoods/bob-cli-4l/README.md) / [bob-cli-4l.land](../../sessions/bbugyi200.apollo.bob-cli-4l.land.md) / bob-cli-4l.land--gate-0
 
-**Global name:** `bbugyi200.apollo.bob-cli-4l.land` · **State:** waiting · **Source run:** `run-0cbf2cdb4d84f660b30d6d2e89e275eb`
+**Global name:** `bbugyi200.apollo.bob-cli-4l.land--gate-0` · **State:** failed · **Source run:** `run-263fa60aba559d63b19909442d91a673`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-4l
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-4l](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-4l/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261006070221
+- Timing: 2026-10-06T12:22:02.402532+00:00 → 2026-10-06T12:22:10.682264+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 
