@@ -25,6 +25,6 @@
 |---|---|---|
 | [bob-cli-4l.2](../bbugyi200.apollo.bob-cli-4l.2/README.md) | bob-cli-4l hood | active |
 | [bob-cli-4l.3](../bbugyi200.apollo.bob-cli-4l.3/README.md) | bob-cli-4l hood | completed |
-| [bob-cli-4l.4](../bbugyi200.apollo.bob-cli-4l.4/README.md) | bob-cli-4l hood | active |
+| [bob-cli-4l.4](../bbugyi200.apollo.bob-cli-4l.4/README.md) | bob-cli-4l hood | completed |
 | [bob-cli-4l.5](../bbugyi200.apollo.bob-cli-4l.5/README.md) | bob-cli-4l hood | waiting |
 | [bob-cli-4l.land](../bbugyi200.apollo.bob-cli-4l.land/README.md) | bob-cli-4l hood | waiting |
