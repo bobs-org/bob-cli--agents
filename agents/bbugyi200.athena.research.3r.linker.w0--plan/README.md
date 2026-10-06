@@ -1,16 +1,16 @@
-# Agent: research.3s.gem
+# Agent: research.3r.linker.w0--plan
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3s.gem
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.3r.linker.w0](../../sessions/bbugyi200.athena.research.3r.linker.w0.md) / research.3r.linker.w0--plan
 
-**Global name:** `bbugyi200.athena.research.3s.gem` · **State:** completed · **Source run:** `run-cfd6412b280a4d8daf8caa7ee1c28598`
+**Global name:** `bbugyi200.athena.research.3r.linker.w0--plan` · **State:** failed · **Source run:** `run-ade87f16887207aa455c9f1e66f45739`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
 ## Summary
 
-- Model: gemini-3.8-flash-high
-- Provider: agy
-- Timing: 2026-10-06T18:59:02.160735+00:00 → 2026-10-06T19:11:50.952028+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-10-06T19:19:06.310106+00:00 → 2026-10-06T19:45:26.452643+00:00
 - Commits: 0
 
 ## Files
@@ -21,14 +21,15 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3s.audio](../bbugyi200.athena.research.3s.audio/README.md) | research.3s hood | completed |
-| [research.3s.cdx](../bbugyi200.athena.research.3s.cdx/README.md) | research.3s hood | completed |
-| [research.3s.cld](../bbugyi200.athena.research.3s.cld/README.md) | research.3s hood | completed |
-| [research.3s.final](../bbugyi200.athena.research.3s.final/README.md) | research.3s hood | completed |
-| [research.3s.grk](../bbugyi200.athena.research.3s.grk/README.md) | research.3s hood | completed |
-| [research.3s.image](../bbugyi200.athena.research.3s.image/README.md) | research.3s hood | completed |
-| [research.3s.linker](../bbugyi200.athena.research.3s.linker/README.md) | research.3s hood | active |
-| [research.3s.mus](../bbugyi200.athena.research.3s.mus/README.md) | research.3s hood | completed |
+| [research.3r.linker](../bbugyi200.athena.research.3r.linker/README.md) | ancestor | completed |
+| [research.3r.audio](../bbugyi200.athena.research.3r.audio/README.md) | research.3r hood | completed |
+| [research.3r.cdx](../bbugyi200.athena.research.3r.cdx/README.md) | research.3r hood | completed |
+| [research.3r.cld](../bbugyi200.athena.research.3r.cld/README.md) | research.3r hood | completed |
+| [research.3r.final](../bbugyi200.athena.research.3r.final/README.md) | research.3r hood | completed |
+| [research.3r.gem](../bbugyi200.athena.research.3r.gem/README.md) | research.3r hood | completed |
+| [research.3r.grk](../bbugyi200.athena.research.3r.grk/README.md) | research.3r hood | completed |
+| [research.3r.image](../bbugyi200.athena.research.3r.image/README.md) | research.3r hood | completed |
+| [research.3r.mus](../bbugyi200.athena.research.3r.mus/README.md) | research.3r hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
@@ -79,4 +80,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 100 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 99 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
