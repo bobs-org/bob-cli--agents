@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3r.audio
 
-**Global name:** `bbugyi200.athena.research.3r.audio` · **State:** waiting · **Source run:** `run-72ed6c5ac54e3ca721cba408bf0fe90c`
+**Global name:** `bbugyi200.athena.research.3r.audio` · **State:** active · **Source run:** `run-72ed6c5ac54e3ca721cba408bf0fe90c`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,35 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 20261006141816
+- Timing: 2026-10-06T18:59:42.513818+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `audio` | {audio\_path: /home/bryan/.local/share/sase-listen/library/highlights-and-listening-one-intake-gesture-6d5453/highlights-and-listening-one-intake-gesture.mp3, chapter\_count: 3, duration\_s: 285.12, edi… |
+
+#### audio
+
+```yaml
+audio_path: /home/bryan/.local/share/sase-listen/library/highlights-and-listening-one-intake-gesture-6d5453/highlights-and-listening-one-intake-gesture.mp3
+chapter_count: 3
+duration_s: 285.12
+edition: brief
+episode_id: highlights-and-listening-one-intake-gesture-6d5453
+ok: true
+published: false
+script: 202610/highlights_listen_intake/highlights_listen_intake_narration.md
+title: Highlights and Listening: One Intake Gesture
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +46,10 @@
 |---|---|---|
 | [research.3r.cdx](../bbugyi200.athena.research.3r.cdx/README.md) | research.3r hood | completed |
 | [research.3r.cld](../bbugyi200.athena.research.3r.cld/README.md) | research.3r hood | completed |
-| [research.3r.final](../bbugyi200.athena.research.3r.final/README.md) | research.3r hood | active |
+| [research.3r.final](../bbugyi200.athena.research.3r.final/README.md) | research.3r hood | completed |
 | [research.3r.gem](../bbugyi200.athena.research.3r.gem/README.md) | research.3r hood | completed |
 | [research.3r.grk](../bbugyi200.athena.research.3r.grk/README.md) | research.3r hood | completed |
-| [research.3r.image](../bbugyi200.athena.research.3r.image/README.md) | research.3r hood | waiting |
+| [research.3r.image](../bbugyi200.athena.research.3r.image/README.md) | research.3r hood | active |
 | [research.3r.linker](../bbugyi200.athena.research.3r.linker/README.md) | research.3r hood | waiting |
 | [research.3r.mus](../bbugyi200.athena.research.3r.mus/README.md) | research.3r hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
@@ -79,4 +102,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 90 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 99 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

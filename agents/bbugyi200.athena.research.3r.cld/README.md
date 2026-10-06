@@ -21,12 +21,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3r.audio](../bbugyi200.athena.research.3r.audio/README.md) | research.3r hood | waiting |
+| [research.3r.audio](../bbugyi200.athena.research.3r.audio/README.md) | research.3r hood | active |
 | [research.3r.cdx](../bbugyi200.athena.research.3r.cdx/README.md) | research.3r hood | completed |
-| [research.3r.final](../bbugyi200.athena.research.3r.final/README.md) | research.3r hood | active |
+| [research.3r.final](../bbugyi200.athena.research.3r.final/README.md) | research.3r hood | completed |
 | [research.3r.gem](../bbugyi200.athena.research.3r.gem/README.md) | research.3r hood | completed |
 | [research.3r.grk](../bbugyi200.athena.research.3r.grk/README.md) | research.3r hood | completed |
-| [research.3r.image](../bbugyi200.athena.research.3r.image/README.md) | research.3r hood | waiting |
+| [research.3r.image](../bbugyi200.athena.research.3r.image/README.md) | research.3r hood | active |
 | [research.3r.linker](../bbugyi200.athena.research.3r.linker/README.md) | research.3r hood | waiting |
 | [research.3r.mus](../bbugyi200.athena.research.3r.mus/README.md) | research.3r hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
@@ -79,4 +79,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 90 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 99 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
