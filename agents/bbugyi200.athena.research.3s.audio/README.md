@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3s.audio
 
-**Global name:** `bbugyi200.athena.research.3s.audio` · **State:** waiting · **Source run:** `run-da4af94c85d64d695e0b07d22f713fa7`
+**Global name:** `bbugyi200.athena.research.3s.audio` · **State:** active · **Source run:** `run-da4af94c85d64d695e0b07d22f713fa7`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,35 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 20261006145653
+- Timing: 2026-10-06T19:31:04.929091+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `audio` | {audio\_path: /home/bryan/.local/share/sase-listen/library/bob-ref-a-reference-library-for-reading-agents-0f5129/bob-ref-a-reference-library-for-reading-agents.mp3, chapter\_count: 3, duration\_s: 281.4… |
+
+#### audio
+
+```yaml
+audio_path: /home/bryan/.local/share/sase-listen/library/bob-ref-a-reference-library-for-reading-agents-0f5129/bob-ref-a-reference-library-for-reading-agents.mp3
+chapter_count: 3
+duration_s: 281.46
+edition: brief
+episode_id: bob-ref-a-reference-library-for-reading-agents-0f5129
+ok: true
+published: false
+script: 202610/bob_ref_reference_library_migration/bob_ref_reference_library_migration_narration.md
+title: Bob Ref, a Reference Library for Reading Agents
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +46,10 @@
 |---|---|---|
 | [research.3s.cdx](../bbugyi200.athena.research.3s.cdx/README.md) | research.3s hood | completed |
 | [research.3s.cld](../bbugyi200.athena.research.3s.cld/README.md) | research.3s hood | completed |
-| [research.3s.final](../bbugyi200.athena.research.3s.final/README.md) | research.3s hood | active |
+| [research.3s.final](../bbugyi200.athena.research.3s.final/README.md) | research.3s hood | completed |
 | [research.3s.gem](../bbugyi200.athena.research.3s.gem/README.md) | research.3s hood | completed |
 | [research.3s.grk](../bbugyi200.athena.research.3s.grk/README.md) | research.3s hood | completed |
-| [research.3s.image](../bbugyi200.athena.research.3s.image/README.md) | research.3s hood | waiting |
+| [research.3s.image](../bbugyi200.athena.research.3s.image/README.md) | research.3s hood | active |
 | [research.3s.linker](../bbugyi200.athena.research.3s.linker/README.md) | research.3s hood | waiting |
 | [research.3s.mus](../bbugyi200.athena.research.3s.mus/README.md) | research.3s hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |

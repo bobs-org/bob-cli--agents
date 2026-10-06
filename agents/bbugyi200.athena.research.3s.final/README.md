@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3s.final
 
-**Global name:** `bbugyi200.athena.research.3s.final` · **State:** active · **Source run:** `run-b30ec252e3e9b5ca4e742e0b0275f8b5`
+**Global name:** `bbugyi200.athena.research.3s.final` · **State:** completed · **Source run:** `run-b30ec252e3e9b5ca4e742e0b0275f8b5`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,23 +10,23 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-06T19:14:35.246106+00:00
+- Timing: 2026-10-06T19:14:35.246106+00:00 → 2026-10-06T19:29:38.398154+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3s.audio](../bbugyi200.athena.research.3s.audio/README.md) | research.3s hood | waiting |
+| [research.3s.audio](../bbugyi200.athena.research.3s.audio/README.md) | research.3s hood | active |
 | [research.3s.cdx](../bbugyi200.athena.research.3s.cdx/README.md) | research.3s hood | completed |
 | [research.3s.cld](../bbugyi200.athena.research.3s.cld/README.md) | research.3s hood | completed |
 | [research.3s.gem](../bbugyi200.athena.research.3s.gem/README.md) | research.3s hood | completed |
 | [research.3s.grk](../bbugyi200.athena.research.3s.grk/README.md) | research.3s hood | completed |
-| [research.3s.image](../bbugyi200.athena.research.3s.image/README.md) | research.3s hood | waiting |
+| [research.3s.image](../bbugyi200.athena.research.3s.image/README.md) | research.3s hood | active |
 | [research.3s.linker](../bbugyi200.athena.research.3s.linker/README.md) | research.3s hood | waiting |
 | [research.3s.mus](../bbugyi200.athena.research.3s.mus/README.md) | research.3s hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
