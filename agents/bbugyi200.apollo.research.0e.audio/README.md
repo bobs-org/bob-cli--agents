@@ -50,7 +50,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0e.gem](../bbugyi200.apollo.research.0e.gem/README.md) | research.0e hood | completed |
 | [research.0e.grk](../bbugyi200.apollo.research.0e.grk/README.md) | research.0e hood | completed |
 | [research.0e.image](../bbugyi200.apollo.research.0e.image/README.md) | research.0e hood | completed |
-| [research.0e.linker](../bbugyi200.apollo.research.0e.linker/README.md) | research.0e hood | active |
+| [research.0e.linker](../bbugyi200.apollo.research.0e.linker/README.md) | research.0e hood | completed |
 | [research.0e.mus](../bbugyi200.apollo.research.0e.mus/README.md) | research.0e hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
@@ -102,4 +102,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 140 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 149 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

@@ -1,0 +1,226 @@
+# Chat History - ace-run (research.0e.linker)
+
+- **TIMESTAMP:** 2026-10-07 13:18:44 EDT
+- **MODEL:** claude/opus
+- **AGENT:** research.0e.linker
+- **PROMPT:** `~/.sase/multi_prompts/202610/gh_bobs_org__bob_cli-multiprompt-261007_122311.md`
+
+## Prompt
+
+%id(linker, clan=research.0e) %m:@xlarge
+%wait:research.0e.final %wait:research.0e.image %wait:research.0e.audio %q(1.5x, w=0.25)
+#gh:gh_bobs-org__bob-cli 
+You are the linker agent for a research swarm. The lead researcher,
+`research.0e.final`, has written a consolidated report on the request below. Your job
+is to publish that report as the canonical `<name>.md`: the file readers open, and the
+one SASE renders into a Highlights PDF. You are an editor, not a researcher. The new
+file must carry exactly the lead's meaning and intent. Do not do research of your own:
+add no new claims or sources, settle no open questions, and neither soften nor
+strengthen the conclusions or the recommendation. If the lead seems wrong, leave it as
+written. The only prose you write yourself is the short research-query summary of the
+request that opens the file (step 3).
+
+SASE derives your plan's links from the artifacts you read this turn; use
+`sase artifact read` for context you actually used.
+
+Research request (context only; do not research it, but summarize it as the file's
+research query in step 3):
+
+Can you audit all task beads for this project project that have either been created in
+the last 48 hours or have been +1ed in the last 48 hours with the goal of figuring out
+which ones are associated with the most impactful work? End your analysis with a ranked
+list of the 10 most impactful task beads from this set (include summaries of why you
+think each bead's corresponding work is impactful).
+
+The lead researcher's registered report:
+
+{% for a in wait.artifacts if a.kind == "markdown" and a.label and a.label.startswith("research:") %}
+- wait_name={{ a.wait_name }} label={{ a.label }} source_path={{ a.source_path }} path={{ a.path }} ref={{ a.ref }}
+{% endfor %}
+
+The image agent's registered images:
+
+{% for a in wait.artifacts if a.kind == "image" %}
+- wait_name={{ a.wait_name }} label={{ a.label }} vcs_relpath={{ a.vcs_relpath }} path={{ a.path }} ref={{ a.ref }}
+{% endfor %}
+
+
+The audio agent's narrated edition:
+
+{% if agents is defined %}{% for key, outputs in agents.items() if outputs.audio is defined %}
+- agent={{ key }} audio={{ outputs.audio }}
+{% endfor %}{% endif %}
+{% for a in wait.artifacts if a.kind == "file" and a.label and a.label.startswith("audio:") %}
+- wait_name={{ a.wait_name }} label={{ a.label }} path={{ a.path }} ref={{ a.ref }}
+{% endfor %}
+
+Steps:
+
+1. **Identify the source.** From the registered reports above, find exactly one entry
+   with `wait_name` `research.0e.final` whose label has the form
+   `research:<YYYYMM>/<name>/<name>__final.md`. If there is not exactly one such entry,
+   stop and report the missing or ambiguous input instead of guessing. Open the research
+   repo with `/sase_repo`, then read the report through its canonical research reference
+   (or the `ref` field's `file:<id>` reference if the original has moved) using
+   `sase artifact read`. Take `<YYYYMM>/<name>/` from the label, never from the current
+   date. Do not read predecessor chat transcripts. Never modify, move, or delete
+   `<name>__final.md` or the drafts.
+
+2. **Inventory what must survive.** Before writing, list every finding, recommendation,
+   caveat, open question, confidence statement, number, date, version, code block,
+   table, and link in the lead's report.
+3. **Restructure** the lead's report into a well-thought-out organization:
+   - Keep the frontmatter, updating `updated_time` if present.
+   - **Open the file in this exact order**, with nothing else between these parts: the frontmatter (if any), one `#` title, the research query, the listen card, the infographic, and then the bottom-line section.
+   - **Research query.** Directly below the title, add one blockquote that summarizes
+     the research request above in one to three sentences, for example
+     `> **Research query:** <summary>`. Phrase it as the question or task being
+     answered, in the requester's own terms: keep the questions, named subjects, and
+     explicit scope or constraints; drop instructions aimed at agents, such as output
+     paths, macro or directive syntax, and formatting requests. Summarize what was
+     asked, not material the request quotes or attaches. Use a request that is already
+     one short sentence verbatim. Never fold findings, answers, or scope the request
+     does not state into it. It is not a heading, so it gets no section number and no
+     TOC entry.
+   - **Listen card.** Facts come from the `audio` variable of `research.0e.audio`
+     when `ok` is true. If the variable is missing but an `audio:<episode_id>`
+     artifact is listed, recover the facts with `sase-listen ls <episode_id> --json`
+     (or `uvx sase-listen …`): `audio.duration_s`, chapter count, `script.edition`.
+     If `ok` is false or nothing is listed, publish with no card and no `audio:`
+     frontmatter, and say so in the final response (never write "audio pending").
+     Add this frontmatter mapping (create a frontmatter block if the lead's report
+     has none), copying numbers verbatim, never inventing them:
+
+     ```yaml
+     audio:
+       edition: brief
+       duration_s: 250.34
+       chapter_count: 3
+       episode_id: a-listen-link-for-research-reports-d74298
+     ```
+
+     No library path, MP3 path, feed URL, artifact id, or `file:` ref — the research
+     repo is public. Insert the card exactly once, directly below the research-query
+     blockquote and above the infographic, with the blank lines shown (they make
+     GitHub and pandoc parse the inner Markdown):
+
+     ```markdown
+     <div class="listen">
+
+     ♫ **Brief audio edition** · 4 min · 3 chapters · [Narration
+     script](<name>_narration.md)
+
+     </div>
+     ```
+
+     Rules: edition word capitalized (`Brief` / `Full`); minutes =
+     `max(1, round(duration_s / 60))`; `1 chapter` singular; drop the chapters
+     segment if the count is unknown; include the script segment only when
+     `<name>_narration.md` exists beside the report in the research checkout;
+     nothing else inside the div; not a heading; not inside the blockquote; never
+     a link to an MP3, library path, feed URL, or `highlights://` URI.
+   - **Embed the infographic** exactly once, directly above the bottom-line section:
+     after the listen card and before that section's `##` heading, never further
+     down. Use a relative link with descriptive alt text, for example
+     `![<alt text>](<name>_infographic.png)`. Locate it by the
+     `<name>_infographic.png` convention or the image entries above. Embed only a file
+     you have confirmed exists beside the report in your research checkout. If the
+     image agent completed without producing one, publish without it (the listen
+     card then sits directly above the bottom-line section) and say so in the final
+     response.
+   - **Bottom-line section.** The first `##` section is `## Bottom line` (or
+     `## Overview` when the report surveys options rather than giving one answer) and
+     gives the answer first.
+   - Below it, `##` and `###` sections ordered by the questions a reader will ask, with
+     duplicated passages merged.
+   - **Never number headings.** The PDF renderer runs pandoc with `--number-sections`,
+     so hand-numbered headings render doubly numbered.
+   - **No table of contents and no block of jump links.** The PDF already gets a TOC.
+   - Keep the lead's wording where it works. Never drop a claim, caveat, or source to
+     save space. If the lead's report restates the question or lists its inputs, keep
+     those details in a later section; the research query summarizes the request but
+     does not replace them.
+4. **Validate every link carried over.**
+   - Relative links resolve from `<YYYYMM>/<name>/`, and in-document anchors resolve
+     against the final headings. Both are hard requirements.
+   - Check external URLs with `curl -fsSL -o /dev/null --max-time 20 <url>`, retrying
+     a transient failure once. Treat 401, 403, 429, and timeouts as _unverified_ and
+     keep those links.
+   - Verify repository-file links through a `/sase_repo` checkout, not by fetching
+     github.com.
+   - Repair a link only when the right target is certain: a followed redirect, a moved
+     file, an obvious typo, or a renamed heading. For an unrepairable link, keep its
+     text, drop the dead URL, and list it in the final response. **Never search for a
+     replacement source.**
+
+5. **Add in-document links** so readers can jump between parts of the file. Add them
+   inline and sparingly: from summary points to the sections that back them, from "see
+   above" or "see below" phrases, and from mentions of a named option, phase, or
+   finding to where it is discussed. Do not link every mention.
+   - Every heading used as a link target must start with a letter, contain only
+     letters, digits, spaces, and hyphens, and be unique. Its anchor is then the
+     lowercased heading with spaces replaced by hyphens, for example
+     `[the bottom line](#bottom-line)`. pandoc (the PDF) and GitHub then agree.
+   - Move emoji, version numbers, and code out of such headings, into the section's
+     first line.
+   - When `pandoc` is available, confirm anchors with `pandoc <file> -t html`.
+
+6. **Re-check against the step-2 inventory** and restore anything missing or changed.
+   Every URL in `<name>__final.md` must appear in the new file unless it was listed as
+   unrepairable. Then confirm the file opens in the step-3 order: title, research query, listen card, infographic, bottom-line section.
+
+7. **Write** `<YYYYMM>/<name>/<name>.md` without overwrite. On a collision, stop and
+   report it.
+
+8. **Register** it as a durable snapshot:
+
+   sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"
+
+   Use the report's actual absolute path and its path relative to the research repo
+   root, for example `research:202609/<name>/<name>.md`. Use no `--move`. If
+   registration fails, report it and do not claim full completion.
+
+Final layout:
+
+```text
+<month-dir>/<name>/
+├── <name>__cdx.md
+├── <name>__cld.md
+├── <name>__grk.md
+├── <name>__mus.md
+├── <name>__gem.md
+├── <name>__final.md
+├── <name>_infographic.png
+├── <name>.md
+└── <name>_narration.md
+```
+
+## Response
+
+Read the lead's report (no frontmatter, no URLs or links). Now checking a sibling canonical report for house conventions before writing.
+
+Report written. Now validating anchors with pandoc and diffing the content against the lead's draft to confirm nothing was dropped.
+
+All anchors resolve under both pandoc markdown and GFM, and both relative files exist. Now a word-level diff against the lead's draft.
+
+Only pandoc's generic standalone-title warning, which sibling reports also trigger. Registering the artifact.
+
+Registered. Now the final declaration.
+
+I published the canonical report as `202610/task_bead_48h_impact_ranking/task_bead_48h_impact_ranking.md` in the research repo. It's registered as `research:202610/task_bead_48h_impact_ranking/task_bead_48h_impact_ranking.md` (ref `file:explicit:e534df541ec431b2b06357a5`). The commit happens after this turn ends.
+
+**What I changed**
+- **Opening:** new `audio:` frontmatter (brief, `duration_s: 285.6`, 3 chapters, episode `which-recent-task-beads-matter-most-9450c6`), then the title, the research-query blockquote, the listen card (5 min · 3 chapters, linking the narration script), the infographic, and `## Bottom line`.
+- **Section order:** Bottom line, Ranked top 10 (one `###` per bead), Recommended sequencing (with an `### Open-only view` subsection), Scope and method, What the lead verified directly, Where the researchers disagreed, Ledger of all 31 beads, Caveats. The lead's window, code SHA and host details moved into Scope and method.
+- **Numbering:** I removed the hand-numbered headings. Each ranked entry now opens with "Rank N:" and the lead's full title.
+- **Cross-references:** the lead's "§2", "§6" and "§7" pointers are now in-document links. The bottom line also links each bead it names to that bead's entry in the ranking.
+
+**Checks**
+- **Content:** a word-by-word comparison with `__final.md` shows that only section numbers, rank prefixes and `§N` pointers were removed. Every table row, number, caveat and code span is still there.
+- **Links:** the lead's report had no URLs or links, so nothing was unrepairable. All 12 in-document anchors resolve under both pandoc and GitHub-style rendering, and both relative links (narration script, infographic) point to files that exist.
+
+**Left as written**
+- The rank brackets for `4m` and `4r` still say "closed §6". That refers to cld's own section numbering, not this file's, so a reader could misread it.
+- The infographic labels two of the skipped test binaries "14"; the second should be 15. I embedded the image as delivered.
+
+The listen card and the infographic were both available, so nothing was published without them.
