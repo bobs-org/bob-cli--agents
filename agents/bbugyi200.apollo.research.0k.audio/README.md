@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0k.audio
 
-**Global name:** `bbugyi200.apollo.research.0k.audio` · **State:** waiting · **Source run:** `run-7f2a0c442bf51f5ba77745a7148cfa38`
+**Global name:** `bbugyi200.apollo.research.0k.audio` · **State:** active · **Source run:** `run-7f2a0c442bf51f5ba77745a7148cfa38`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,35 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 20261007174048
+- Timing: 2026-10-07T22:05:40.363465+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `audio` | {audio\_path: /home/bryan/.local/share/sase-listen/library/databricks-job-fit-for-a-sase-author-after-omnigent-c3dbe7/databricks-job-fit-for-a-sase-author-after-omnigent.mp3, chapter\_count: 3, duratio… |
+
+#### audio
+
+```yaml
+audio_path: /home/bryan/.local/share/sase-listen/library/databricks-job-fit-for-a-sase-author-after-omnigent-c3dbe7/databricks-job-fit-for-a-sase-author-after-omnigent.mp3
+chapter_count: 3
+duration_s: 263.82
+edition: brief
+episode_id: databricks-job-fit-for-a-sase-author-after-omnigent-c3dbe7
+ok: true
+published: true
+script: 202610/databricks_omnigent_job_fit/databricks_omnigent_job_fit_narration.md
+title: Databricks Job Fit for a SASE Author, After Omnigent
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +46,10 @@
 |---|---|---|
 | [research.0k.cdx](../bbugyi200.apollo.research.0k.cdx/README.md) | research.0k hood | completed |
 | [research.0k.cld](../bbugyi200.apollo.research.0k.cld/README.md) | research.0k hood | completed |
-| [research.0k.final](../bbugyi200.apollo.research.0k.final/README.md) | research.0k hood | active |
+| [research.0k.final](../bbugyi200.apollo.research.0k.final/README.md) | research.0k hood | completed |
 | [research.0k.gem](../bbugyi200.apollo.research.0k.gem/README.md) | research.0k hood | completed |
 | [research.0k.grk](../bbugyi200.apollo.research.0k.grk/README.md) | research.0k hood | completed |
-| [research.0k.image](../bbugyi200.apollo.research.0k.image/README.md) | research.0k hood | waiting |
+| [research.0k.image](../bbugyi200.apollo.research.0k.image/README.md) | research.0k hood | active |
 | [research.0k.linker](../bbugyi200.apollo.research.0k.linker/README.md) | research.0k hood | waiting |
 | [research.0k.mus](../bbugyi200.apollo.research.0k.mus/README.md) | research.0k hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
