@@ -1,29 +1,24 @@
-# Agent: bob-cli-4w.8
+# Agent: bob-cli-4w.land--code
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-4w](../../users/bbugyi200/machines/athena/hoods/bob-cli-4w/README.md) / bob-cli-4w.8
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-4w](../../users/bbugyi200/machines/athena/hoods/bob-cli-4w/README.md) / [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) / bob-cli-4w.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-4w.8` · **State:** completed · **Source run:** `run-03bec5918ade3242d71e380210bd2779`
+**Global name:** `bbugyi200.athena.bob-cli-4w.land--code` · **State:** active · **Source run:** `run-efd60397e5007829f2be76c7a9f1c2cf`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-4w
 
 ## Summary
 
-- Bead: [bob-cli-4w.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-4w/bob-cli-4w.8.md)
-- Epic: [bob-cli-4w](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-4w/README.md)
+- Bead: [bob-cli-4w](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-4w/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-07T01:04:49.704021+00:00 → 2026-10-07T01:41:19.045434+00:00
+- Timing: 2026-10-07T04:41:52.623446+00:00
 - Commits: [1](#commits)
-
-## Files
-
-[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`eaca8b1`](https://github.com/bobs-org/bob-cli/commit/eaca8b14ef506bcc48a282218eb6944561a13efd) | feat(highlights-ref): sync fixes — discard leaked marker mirrors, stamp close dates | 2026-10-06 21:39:57 EDT |
+| bob-cli | [`6d2911c`](https://github.com/bobs-org/bob-cli/commit/6d2911ce416ad2898f5791ea2e602eb4c40aed54) | fix(ref): land bob-cli-4w with output, identity, hygiene, and docs fixes | 2026-10-07 01:12:05 EDT |
 
 ## Neighbors
 
@@ -38,5 +33,5 @@
 | [bob-cli-4w.5](../bbugyi200.athena.bob-cli-4w.5/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.6](../bbugyi200.athena.bob-cli-4w.6/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.7](../bbugyi200.athena.bob-cli-4w.7/README.md) | bob-cli-4w hood | completed |
+| [bob-cli-4w.8](../bbugyi200.athena.bob-cli-4w.8/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.9](../bbugyi200.athena.bob-cli-4w.9/README.md) | bob-cli-4w hood | completed |
-| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 2, failed 1 |
