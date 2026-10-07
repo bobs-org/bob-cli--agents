@@ -1,0 +1,8 @@
+- **PLAN:**
+  [202610/url_capture_ref_routing.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202610/url_capture_ref_routing.md)
+- **AGENTS:**
+  - [bbugyi200.athena.bob-cli-52.6](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.bob-cli-52.6/README.md)
+
+#gh:gh_bobs-org__bob-cli %id(6, clan=bob-cli-52, bead=bob-cli-52.6) %model:@medium %auto
+%w:bob-cli-52.1,bob-cli-52.2,bob-cli-52.3 %w(bead=bob-cli-52.1) %w(bead=bob-cli-52.2)
+%w(bead=bob-cli-52.3) #bd/work_phase_bead:bob-cli-52.6
