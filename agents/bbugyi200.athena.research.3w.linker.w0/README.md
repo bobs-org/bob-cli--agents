@@ -21,8 +21,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3w.linker](../bbugyi200.athena.research.3w.linker/README.md) | ancestor | active |
-| [research.3w.linker.w1](../bbugyi200.athena.research.3w.linker.w1/README.md) | research.3w.linker hood | waiting |
+| [research.3w.linker](../bbugyi200.athena.research.3w.linker/README.md) | ancestor | completed |
+| [research.3w.linker.w1](../../sessions/bbugyi200.athena.research.3w.linker.w1.md) (session · 3) | research.3w.linker hood | failed 3 |
 | [research.3w.audio](../bbugyi200.athena.research.3w.audio/README.md) | research.3w hood | completed |
 | [research.3w.cdx](../bbugyi200.athena.research.3w.cdx/README.md) | research.3w hood | completed |
 | [research.3w.cld](../bbugyi200.athena.research.3w.cld/README.md) | research.3w hood | completed |
