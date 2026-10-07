@@ -11,4 +11,10 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-07T14:10:42.251496+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`84a8a31`](https://github.com/bobs-org/bob-cli/commit/84a8a31e27de4b23a7aaeca77dd544d670810f26) | feat(ref): fold bob ref clip into bob ref create as hidden alias | 2026-10-07 10:43:17 EDT |
