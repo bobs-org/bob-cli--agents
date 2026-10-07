@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-07T13:04:23.882287+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f4fb812`](https://github.com/bobs-org/bob-cli/commit/f4fb812ad58cb8748f7bfe73036f9ddbf6461e79) | feat(ref-jobs): background clip queue for reading-queue links | 2026-10-07 10:08:25 EDT |
 
 ## Neighbors
 
@@ -27,7 +33,7 @@
 | [bob-cli-52.2](../bbugyi200.athena.bob-cli-52.2/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.3](../bbugyi200.athena.bob-cli-52.3/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.4](../bbugyi200.athena.bob-cli-52.4/README.md) | bob-cli-52 hood | completed |
-| [bob-cli-52.6](../bbugyi200.athena.bob-cli-52.6/README.md) | bob-cli-52 hood | active |
+| [bob-cli-52.6](../bbugyi200.athena.bob-cli-52.6/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.7](../bbugyi200.athena.bob-cli-52.7/README.md) | bob-cli-52 hood | waiting |
 | [bob-cli-52.8](../bbugyi200.athena.bob-cli-52.8/README.md) | bob-cli-52 hood | waiting |
 | [bob-cli-52.9](../bbugyi200.athena.bob-cli-52.9/README.md) | bob-cli-52 hood | waiting |
