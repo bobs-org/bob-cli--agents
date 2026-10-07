@@ -25,10 +25,10 @@
 |---|---|---|
 | [bob-cli-52.1](../bbugyi200.athena.bob-cli-52.1/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.2](../bbugyi200.athena.bob-cli-52.2/README.md) | bob-cli-52 hood | completed |
-| [bob-cli-52.3](../bbugyi200.athena.bob-cli-52.3/README.md) | bob-cli-52 hood | active |
-| [bob-cli-52.4](../bbugyi200.athena.bob-cli-52.4/README.md) | bob-cli-52 hood | waiting |
-| [bob-cli-52.5](../bbugyi200.athena.bob-cli-52.5/README.md) | bob-cli-52 hood | waiting |
-| [bob-cli-52.6](../bbugyi200.athena.bob-cli-52.6/README.md) | bob-cli-52 hood | waiting |
+| [bob-cli-52.3](../bbugyi200.athena.bob-cli-52.3/README.md) | bob-cli-52 hood | completed |
+| [bob-cli-52.4](../bbugyi200.athena.bob-cli-52.4/README.md) | bob-cli-52 hood | active |
+| [bob-cli-52.5](../bbugyi200.athena.bob-cli-52.5/README.md) | bob-cli-52 hood | active |
+| [bob-cli-52.6](../bbugyi200.athena.bob-cli-52.6/README.md) | bob-cli-52 hood | active |
 | [bob-cli-52.7](../bbugyi200.athena.bob-cli-52.7/README.md) | bob-cli-52 hood | waiting |
 | [bob-cli-52.8](../bbugyi200.athena.bob-cli-52.8/README.md) | bob-cli-52 hood | waiting |
 | [bob-cli-52.land](../bbugyi200.athena.bob-cli-52.land/README.md) | bob-cli-52 hood | waiting |
