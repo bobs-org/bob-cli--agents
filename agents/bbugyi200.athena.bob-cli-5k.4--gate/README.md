@@ -24,9 +24,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5k.1](../bbugyi200.athena.bob-cli-5k.1/README.md) | bob-cli-5k hood | completed |
-| [bob-cli-5k.2](../bbugyi200.athena.bob-cli-5k.2/README.md) | bob-cli-5k hood | active |
-| [bob-cli-5k.3](../bbugyi200.athena.bob-cli-5k.3/README.md) | bob-cli-5k hood | waiting |
-| [bob-cli-5k.5](../bbugyi200.athena.bob-cli-5k.5/README.md) | bob-cli-5k hood | waiting |
-| [bob-cli-5k.6](../bbugyi200.athena.bob-cli-5k.6/README.md) | bob-cli-5k hood | waiting |
-| [bob-cli-5k.7](../bbugyi200.athena.bob-cli-5k.7/README.md) | bob-cli-5k hood | waiting |
+| [bob-cli-5k.2](../bbugyi200.athena.bob-cli-5k.2/README.md) | bob-cli-5k hood | completed |
+| [bob-cli-5k.3](../bbugyi200.athena.bob-cli-5k.3/README.md) | bob-cli-5k hood | completed |
+| [bob-cli-5k.5](../bbugyi200.athena.bob-cli-5k.5/README.md) | bob-cli-5k hood | active |
+| [bob-cli-5k.6](../bbugyi200.athena.bob-cli-5k.6/README.md) | bob-cli-5k hood | active |
+| [bob-cli-5k.7](../../sessions/bbugyi200.athena.bob-cli-5k.7.md) (session · 3) | bob-cli-5k hood | active 2, failed 1 |
 | [bob-cli-5k.land](../bbugyi200.athena.bob-cli-5k.land/README.md) | bob-cli-5k hood | waiting |

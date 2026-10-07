@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-5k](../../users/bbugyi200/machines/athena/hoods/bob-cli-5k/README.md) / bob-cli-5k.5
 
-**Global name:** `bbugyi200.athena.bob-cli-5k.5` · **State:** waiting · **Source run:** `run-c64d50d09b0aa8f8d631fa486fcbc34d`
+**Global name:** `bbugyi200.athena.bob-cli-5k.5` · **State:** active · **Source run:** `run-c64d50d09b0aa8f8d631fa486fcbc34d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-5k
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-5k](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5k/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261007144119
+- Timing: 2026-10-07T19:53:57.969189+00:00
 - Commits: 0
 
 ## Files
@@ -24,9 +24,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5k.1](../bbugyi200.athena.bob-cli-5k.1/README.md) | bob-cli-5k hood | completed |
-| [bob-cli-5k.2](../bbugyi200.athena.bob-cli-5k.2/README.md) | bob-cli-5k hood | active |
-| [bob-cli-5k.3](../bbugyi200.athena.bob-cli-5k.3/README.md) | bob-cli-5k hood | waiting |
-| [bob-cli-5k.4](../../sessions/bbugyi200.athena.bob-cli-5k.4.md) (session · 3) | bob-cli-5k hood | active 2, failed 1 |
-| [bob-cli-5k.6](../bbugyi200.athena.bob-cli-5k.6/README.md) | bob-cli-5k hood | waiting |
-| [bob-cli-5k.7](../bbugyi200.athena.bob-cli-5k.7/README.md) | bob-cli-5k hood | waiting |
+| [bob-cli-5k.2](../bbugyi200.athena.bob-cli-5k.2/README.md) | bob-cli-5k hood | completed |
+| [bob-cli-5k.3](../bbugyi200.athena.bob-cli-5k.3/README.md) | bob-cli-5k hood | completed |
+| [bob-cli-5k.4](../../sessions/bbugyi200.athena.bob-cli-5k.4.md) (session · 3) | bob-cli-5k hood | completed 2, failed 1 |
+| [bob-cli-5k.6](../bbugyi200.athena.bob-cli-5k.6/README.md) | bob-cli-5k hood | active |
+| [bob-cli-5k.7](../../sessions/bbugyi200.athena.bob-cli-5k.7.md) (session · 3) | bob-cli-5k hood | active 2, failed 1 |
 | [bob-cli-5k.land](../bbugyi200.athena.bob-cli-5k.land/README.md) | bob-cli-5k hood | waiting |

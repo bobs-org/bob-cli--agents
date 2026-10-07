@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-5k](../../users/bbugyi200/machines/athena/hoods/bob-cli-5k/README.md) / bob-cli-5k.6
 
-**Global name:** `bbugyi200.athena.bob-cli-5k.6` · **State:** waiting · **Source run:** `run-cefa6ce9e04ea7e84b89096edbc1e169`
+**Global name:** `bbugyi200.athena.bob-cli-5k.6` · **State:** active · **Source run:** `run-cefa6ce9e04ea7e84b89096edbc1e169`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-5k
 
@@ -12,21 +12,27 @@
 - Epic: [bob-cli-5k](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5k/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261007144120
-- Commits: 0
+- Timing: 2026-10-07T19:54:35.188307+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`bb66952`](https://github.com/bobs-org/bob-cli/commit/bb669522e38f2bf5652125225d1b24e1d83987d8) | feat(plugins): refuse bare sync from a foreign bob-plugins checkout | 2026-10-07 16:09:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5k.1](../bbugyi200.athena.bob-cli-5k.1/README.md) | bob-cli-5k hood | completed |
-| [bob-cli-5k.2](../bbugyi200.athena.bob-cli-5k.2/README.md) | bob-cli-5k hood | active |
-| [bob-cli-5k.3](../bbugyi200.athena.bob-cli-5k.3/README.md) | bob-cli-5k hood | waiting |
-| [bob-cli-5k.4](../../sessions/bbugyi200.athena.bob-cli-5k.4.md) (session · 3) | bob-cli-5k hood | active 2, failed 1 |
-| [bob-cli-5k.5](../bbugyi200.athena.bob-cli-5k.5/README.md) | bob-cli-5k hood | waiting |
-| [bob-cli-5k.7](../bbugyi200.athena.bob-cli-5k.7/README.md) | bob-cli-5k hood | waiting |
+| [bob-cli-5k.2](../bbugyi200.athena.bob-cli-5k.2/README.md) | bob-cli-5k hood | completed |
+| [bob-cli-5k.3](../bbugyi200.athena.bob-cli-5k.3/README.md) | bob-cli-5k hood | completed |
+| [bob-cli-5k.4](../../sessions/bbugyi200.athena.bob-cli-5k.4.md) (session · 3) | bob-cli-5k hood | completed 2, failed 1 |
+| [bob-cli-5k.5](../bbugyi200.athena.bob-cli-5k.5/README.md) | bob-cli-5k hood | active |
+| [bob-cli-5k.7](../../sessions/bbugyi200.athena.bob-cli-5k.7.md) (session · 3) | bob-cli-5k hood | active 2, failed 1 |
 | [bob-cli-5k.land](../bbugyi200.athena.bob-cli-5k.land/README.md) | bob-cli-5k hood | waiting |

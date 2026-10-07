@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-cefa6ce9e04ea7e84b89096edbc1e169"}
+{"commits":[{"committed_at":1791403742,"sha":"bb669522e38f2bf5652125225d1b24e1d83987d8","subject":"feat(plugins): refuse bare sync from a foreign bob-plugins checkout"}],"schema_version":2,"source_run_id":"run-cefa6ce9e04ea7e84b89096edbc1e169"}

@@ -4,6 +4,11 @@
 - **MODEL:** grok/grok-4.7
 - **AGENT:** bob-cli-5k.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_5k_4__plan-261007_144117.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_5k_4__code-261007_144117.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/link_store_repair.md
 
 
