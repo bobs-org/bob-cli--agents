@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-05a68087fc98a161afc6131259321600"}
+{"commits":[{"committed_at":1791343576,"sha":"e3e69dfd24c714ad8840ebcc3b806a3b10257848","subject":"feat(ref): add bob ref show with exact resolution and rich row output"}],"schema_version":2,"source_run_id":"run-05a68087fc98a161afc6131259321600"}
