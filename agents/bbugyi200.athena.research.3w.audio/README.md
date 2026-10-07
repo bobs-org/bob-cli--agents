@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3w.audio
 
-**Global name:** `bbugyi200.athena.research.3w.audio` · **State:** active · **Source run:** `run-92172cc35ce8fdaeabd161de4f18ae80`
+**Global name:** `bbugyi200.athena.research.3w.audio` · **State:** completed · **Source run:** `run-92172cc35ce8fdaeabd161de4f18ae80`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 2026-10-07T11:22:45.087848+00:00
+- Timing: 2026-10-07T11:22:45.087848+00:00 → 2026-10-07T11:28:23.163632+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
