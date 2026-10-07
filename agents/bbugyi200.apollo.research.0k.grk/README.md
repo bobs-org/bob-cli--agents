@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0k.grk
 
-**Global name:** `bbugyi200.apollo.research.0k.grk` · **State:** active · **Source run:** `run-a5e1d87cb3c44623ba6da4d6841346be`
+**Global name:** `bbugyi200.apollo.research.0k.grk` · **State:** completed · **Source run:** `run-a5e1d87cb3c44623ba6da4d6841346be`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-07T21:41:18.579605+00:00
+- Timing: 2026-10-07T21:41:18.579605+00:00 → 2026-10-07T21:53:21.142931+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -24,7 +24,7 @@
 | [research.0k.audio](../bbugyi200.apollo.research.0k.audio/README.md) | research.0k hood | waiting |
 | [research.0k.cdx](../bbugyi200.apollo.research.0k.cdx/README.md) | research.0k hood | completed |
 | [research.0k.cld](../bbugyi200.apollo.research.0k.cld/README.md) | research.0k hood | completed |
-| [research.0k.final](../bbugyi200.apollo.research.0k.final/README.md) | research.0k hood | waiting |
+| [research.0k.final](../bbugyi200.apollo.research.0k.final/README.md) | research.0k hood | active |
 | [research.0k.gem](../bbugyi200.apollo.research.0k.gem/README.md) | research.0k hood | completed |
 | [research.0k.image](../bbugyi200.apollo.research.0k.image/README.md) | research.0k hood | waiting |
 | [research.0k.linker](../bbugyi200.apollo.research.0k.linker/README.md) | research.0k hood | waiting |
