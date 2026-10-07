@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-5j.land--gate | failed | gpt-6.1-sol / codex | 2026-10-07T20:31:26.497586+00:00 → 2026-10-07T20:32:36.308278+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-5j.land--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-5j.land--plan | active | gpt-6.1-sol / codex | 2026-10-07T20:10:28.446398+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5j.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-5j.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-5j.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-07T20:32:45.450268+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-5j.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-07T20:32:45.450268+00:00 | [1](../agents/bbugyi200.athena.bob-cli-5j.land--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`39915c5`](https://github.com/bobs-org/bob-cli/commit/39915c5c96cf1d640bd0feae2cffd6d4a18911c1) | feat(highlights): finish paired return links and land bob-cli-5j | 2026-10-07 16:59:02 EDT |
 
 ## Neighbors
 
