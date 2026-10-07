@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 186 · **Sessions:** 4 · **States:** active 100, completed 75, failed 7, waiting 4
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 186 · **Sessions:** 4 · **States:** active 99, completed 76, failed 7, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -15,7 +15,7 @@
 | [research.cdx-7](../../../../../../agents/bbugyi200.athena.research.cdx-7/README.md) | completed | — | 2026-06-04T18:36:37+00:00 → 2026-06-04T18:36:37+00:00 | 1 | — |
 | [research.0.image](../../../../../../agents/bbugyi200.athena.research.0.image/README.md) | completed | — | 2026-06-09T13:11:31+00:00 → 2026-06-09T13:11:31+00:00 | 1 | — |
 | [research.0m.final](../../../../../../agents/bbugyi200.athena.research.0m.final/README.md) | completed | — | 2026-06-26T12:17:26+00:00 → 2026-06-26T12:17:26+00:00 | 1 | — |
-| [research.3x.grk](../../../../../../agents/bbugyi200.athena.research.3x.grk/README.md) | active | grok-4.6 / grok | 2026-10-07T14:10:07.229950+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3x.grk/prompt.md) |
+| [research.3x.grk](../../../../../../agents/bbugyi200.athena.research.3x.grk/README.md) | completed | grok-4.6 / grok | 2026-10-07T14:10:07.229950+00:00 → 2026-10-07T14:25:34.269960+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3x.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.3x.grk/chat.md) |
 | [research.32.image](../../../../../../agents/bbugyi200.athena.research.32.image/README.md) | active | gpt-6-astra / codex | 2026-10-01T05:10:38.527342+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.32.image/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.32.image/chat.md) |
 | [research.cld-5](../../../../../../agents/bbugyi200.athena.research.cld-5/README.md) | completed | — | 2026-06-03T20:15:28+00:00 → 2026-06-03T20:15:28+00:00 | 1 | — |
 | [research.3r.image](../../../../../../agents/bbugyi200.athena.research.3r.image/README.md) | active | gpt-6-astra / codex | 2026-10-06T19:00:00.974105+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3r.image/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.3r.image/chat.md) |
