@@ -1,0 +1,14 @@
+# Agent: 0xs--code
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0xs](../../users/bbugyi200/machines/athena/hoods/0xs/README.md) / [0xs](../../sessions/bbugyi200.athena.0xs.md) / 0xs--code
+
+**Global name:** `bbugyi200.athena.0xs--code` · **State:** active · **Source run:** `run-e945fc304163279038d6be7c61461f91`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 0xs
+
+## Summary
+
+- Model: muse-spark-1.3-contributor
+- Provider: muse
+- Timing: 2026-10-07T14:10:42.251496+00:00
+- Commits: 0

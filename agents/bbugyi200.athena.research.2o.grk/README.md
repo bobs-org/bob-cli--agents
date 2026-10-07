@@ -89,4 +89,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.39.linker](../bbugyi200.athena.research.39.linker/README.md) | research hood | active |
 | [research.39.mus](../bbugyi200.athena.research.39.mus/README.md) | research hood | active |
 | [research.3a.cdx](../bbugyi200.athena.research.3a.cdx/README.md) | research hood | active |
-| … and 115 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 123 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
