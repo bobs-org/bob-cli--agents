@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [5l.f0](../bbugyi200.apollo.5l.f0/README.md) | descendant | waiting |
+| [5l.f0](../../sessions/bbugyi200.apollo.5l.f0.md) (session · 3) | descendant | active 2, failed 1 |
