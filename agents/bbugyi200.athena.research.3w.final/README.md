@@ -26,8 +26,10 @@
 | [research.3w.cld](../bbugyi200.athena.research.3w.cld/README.md) | research.3w hood | completed |
 | [research.3w.gem](../bbugyi200.athena.research.3w.gem/README.md) | research.3w hood | completed |
 | [research.3w.grk](../bbugyi200.athena.research.3w.grk/README.md) | research.3w hood | completed |
-| [research.3w.image](../bbugyi200.athena.research.3w.image/README.md) | research.3w hood | active |
-| [research.3w.linker](../bbugyi200.athena.research.3w.linker/README.md) | research.3w hood | waiting |
+| [research.3w.image](../bbugyi200.athena.research.3w.image/README.md) | research.3w hood | completed |
+| [research.3w.linker](../bbugyi200.athena.research.3w.linker/README.md) | research.3w hood | active |
+| [research.3w.linker.w0](../bbugyi200.athena.research.3w.linker.w0/README.md) | research.3w hood | active |
+| [research.3w.linker.w1](../bbugyi200.athena.research.3w.linker.w1/README.md) | research.3w hood | waiting |
 | [research.3w.mus](../bbugyi200.athena.research.3w.mus/README.md) | research.3w hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |

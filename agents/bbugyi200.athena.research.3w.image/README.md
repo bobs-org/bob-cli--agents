@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3w.image
 
-**Global name:** `bbugyi200.athena.research.3w.image` · **State:** active · **Source run:** `run-9531d05a63f289bd7a5f9383803d4a93`
+**Global name:** `bbugyi200.athena.research.3w.image` · **State:** completed · **Source run:** `run-9531d05a63f289bd7a5f9383803d4a93`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-07T11:22:28.742948+00:00
+- Timing: 2026-10-07T11:22:28.742948+00:00 → 2026-10-07T11:35:15.596659+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -27,7 +27,9 @@
 | [research.3w.final](../bbugyi200.athena.research.3w.final/README.md) | research.3w hood | completed |
 | [research.3w.gem](../bbugyi200.athena.research.3w.gem/README.md) | research.3w hood | completed |
 | [research.3w.grk](../bbugyi200.athena.research.3w.grk/README.md) | research.3w hood | completed |
-| [research.3w.linker](../bbugyi200.athena.research.3w.linker/README.md) | research.3w hood | waiting |
+| [research.3w.linker](../bbugyi200.athena.research.3w.linker/README.md) | research.3w hood | active |
+| [research.3w.linker.w0](../bbugyi200.athena.research.3w.linker.w0/README.md) | research.3w hood | active |
+| [research.3w.linker.w1](../bbugyi200.athena.research.3w.linker.w1/README.md) | research.3w hood | waiting |
 | [research.3w.mus](../bbugyi200.athena.research.3w.mus/README.md) | research.3w hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
