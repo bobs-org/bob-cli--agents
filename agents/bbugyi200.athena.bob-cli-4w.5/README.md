@@ -30,12 +30,12 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-4w.1](../bbugyi200.athena.bob-cli-4w.1/README.md) | bob-cli-4w hood | completed |
-| [bob-cli-4w.10](../bbugyi200.athena.bob-cli-4w.10/README.md) | bob-cli-4w hood | waiting |
+| [bob-cli-4w.10](../bbugyi200.athena.bob-cli-4w.10/README.md) | bob-cli-4w hood | active |
 | [bob-cli-4w.11](../bbugyi200.athena.bob-cli-4w.11/README.md) | bob-cli-4w hood | waiting |
 | [bob-cli-4w.2](../bbugyi200.athena.bob-cli-4w.2/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.3](../bbugyi200.athena.bob-cli-4w.3/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.4](../bbugyi200.athena.bob-cli-4w.4/README.md) | bob-cli-4w hood | completed |
-| [bob-cli-4w.6](../bbugyi200.athena.bob-cli-4w.6/README.md) | bob-cli-4w hood | active |
+| [bob-cli-4w.6](../bbugyi200.athena.bob-cli-4w.6/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.7](../bbugyi200.athena.bob-cli-4w.7/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.8](../bbugyi200.athena.bob-cli-4w.8/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.9](../bbugyi200.athena.bob-cli-4w.9/README.md) | bob-cli-4w hood | completed |
