@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-53.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-07T13:28:08.769288+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-53.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-07T13:28:08.769288+00:00 | [1](../agents/bbugyi200.athena.bob-cli-53.land--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-53.land--gate | failed | gpt-6.1-sol / codex | 2026-10-07T13:27:10.631547+00:00 → 2026-10-07T13:27:41.384811+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-53.land--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-53.land--plan | active | gpt-6.1-sol / codex | 2026-10-07T13:16:08.221281+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-53.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-53.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`bed1e5d`](https://github.com/bobs-org/bob-cli/commit/bed1e5d681897016405155098cfab7373468e1b3) | docs(date-marks): describe Tasks-result shutdown guarantee | 2026-10-07 09:37:31 EDT |
 
 ## Neighbors
 
