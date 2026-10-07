@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-07T01:34:04.099030+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`87498c7`](https://github.com/bobs-org/bob-cli/commit/87498c7bd7b4da89e0a95c1a693e7aa209d4463c) | feat(ref-library): add bob ref find library-membership verdicts | 2026-10-06 22:20:45 EDT |
 
 ## Neighbors
 
@@ -30,7 +36,7 @@
 | [bob-cli-4w.3](../bbugyi200.athena.bob-cli-4w.3/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.5](../bbugyi200.athena.bob-cli-4w.5/README.md) | bob-cli-4w hood | waiting |
 | [bob-cli-4w.6](../bbugyi200.athena.bob-cli-4w.6/README.md) | bob-cli-4w hood | waiting |
-| [bob-cli-4w.7](../bbugyi200.athena.bob-cli-4w.7/README.md) | bob-cli-4w hood | active |
+| [bob-cli-4w.7](../bbugyi200.athena.bob-cli-4w.7/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.8](../bbugyi200.athena.bob-cli-4w.8/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.9](../bbugyi200.athena.bob-cli-4w.9/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.land](../bbugyi200.athena.bob-cli-4w.land/README.md) | bob-cli-4w hood | waiting |
