@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-07T01:30:49.309571+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e64b2df`](https://github.com/bobs-org/bob-cli/commit/e64b2df2eacf125a30b130266e4287903ce37b44) | feat(ref-doctor): add library health rows to bob ref doctor | 2026-10-06 22:07:39 EDT |
 
 ## Neighbors
 
@@ -31,6 +37,6 @@
 | [bob-cli-4w.4](../bbugyi200.athena.bob-cli-4w.4/README.md) | bob-cli-4w hood | active |
 | [bob-cli-4w.5](../bbugyi200.athena.bob-cli-4w.5/README.md) | bob-cli-4w hood | waiting |
 | [bob-cli-4w.6](../bbugyi200.athena.bob-cli-4w.6/README.md) | bob-cli-4w hood | waiting |
-| [bob-cli-4w.8](../bbugyi200.athena.bob-cli-4w.8/README.md) | bob-cli-4w hood | active |
+| [bob-cli-4w.8](../bbugyi200.athena.bob-cli-4w.8/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.9](../bbugyi200.athena.bob-cli-4w.9/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.land](../bbugyi200.athena.bob-cli-4w.land/README.md) | bob-cli-4w hood | waiting |

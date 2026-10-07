@@ -336,7 +336,7 @@
 | [bob-cli-4p](hoods/bob-cli-4p/README.md) | 3 | 0 | active 1, completed 2 |
 | [bob-cli-4q](hoods/bob-cli-4q/README.md) | 7 | 1 | active 2, completed 4, failed 1 |
 | [bob-cli-4s](hoods/bob-cli-4s/README.md) | 11 | 2 | active 2, completed 7, failed 2 |
-| [bob-cli-4w](hoods/bob-cli-4w/README.md) | 12 | 0 | active 3, completed 4, waiting 5 |
+| [bob-cli-4w](hoods/bob-cli-4w/README.md) | 12 | 0 | active 2, completed 5, waiting 5 |
 | [bob-cli-5](hoods/bob-cli-5/README.md) | 4 | 0 | completed 4 |
 | [bob-cli-6](hoods/bob-cli-6/README.md) | 8 | 0 | completed 8 |
 | [bob-cli-7](hoods/bob-cli-7/README.md) | 4 | 0 | completed 4 |
