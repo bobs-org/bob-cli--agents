@@ -29,7 +29,7 @@
 | [research.3r.grk](../bbugyi200.athena.research.3r.grk/README.md) | research.3r hood | completed |
 | [research.3r.image](../bbugyi200.athena.research.3r.image/README.md) | research.3r hood | completed |
 | [research.3r.linker](../bbugyi200.athena.research.3r.linker/README.md) | research.3r hood | completed |
-| [research.3r.linker.w0](../../sessions/bbugyi200.athena.research.3r.linker.w0.md) (session · 3) | research.3r hood | active 1, failed 2 |
+| [research.3r.linker.w0](../../sessions/bbugyi200.athena.research.3r.linker.w0.md) (session · 3) | research.3r hood | failed 3 |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
@@ -80,4 +80,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 99 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 100 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

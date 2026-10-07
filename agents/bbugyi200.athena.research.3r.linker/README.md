@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3r.linker.w0](../../sessions/bbugyi200.athena.research.3r.linker.w0.md) (session · 3) | descendant | active 1, failed 2 |
+| [research.3r.linker.w0](../../sessions/bbugyi200.athena.research.3r.linker.w0.md) (session · 3) | descendant | failed 3 |
 | [research.3r.audio](../bbugyi200.athena.research.3r.audio/README.md) | research.3r hood | completed |
 | [research.3r.cdx](../bbugyi200.athena.research.3r.cdx/README.md) | research.3r hood | completed |
 | [research.3r.cld](../bbugyi200.athena.research.3r.cld/README.md) | research.3r hood | completed |
@@ -80,4 +80,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 99 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 100 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

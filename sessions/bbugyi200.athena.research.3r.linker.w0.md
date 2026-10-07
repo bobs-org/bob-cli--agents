@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["research.3r.linker.w0--mon [active]"]
+  n0["research.3r.linker.w0--mon [failed]"]
   n1["research.3r.linker.w0--gate [failed]"]
   n0 --> n1
   n2["research.3r.linker.w0--plan [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | research.3r.linker.w0--mon | active | opus / claude | 2026-10-06T19:45:22.049413+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | research.3r.linker.w0--mon | failed | opus / claude | 2026-10-06T19:45:22.049413+00:00 → 2026-10-06T19:48:13.886935+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.3r.linker.w0--mon/chat.md) |
 | <a id="member-gate"></a>gate | research.3r.linker.w0--gate | failed | opus / claude | 2026-10-06T19:45:01.224067+00:00 → 2026-10-06T19:45:22.671257+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.3r.linker.w0--gate/chat.md) |
 | <a id="member-plan"></a>plan | research.3r.linker.w0--plan | failed | opus / claude | 2026-10-06T19:19:06.310106+00:00 → 2026-10-06T19:45:26.452643+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.3r.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.3r.linker.w0--plan/chat.md) |
 
@@ -86,4 +86,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.39.cdx](../agents/bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../agents/bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../agents/bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 99 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 100 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

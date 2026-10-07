@@ -50,7 +50,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.3s.gem](../bbugyi200.athena.research.3s.gem/README.md) | research.3s hood | completed |
 | [research.3s.grk](../bbugyi200.athena.research.3s.grk/README.md) | research.3s hood | completed |
 | [research.3s.image](../bbugyi200.athena.research.3s.image/README.md) | research.3s hood | completed |
-| [research.3s.linker](../bbugyi200.athena.research.3s.linker/README.md) | research.3s hood | active |
+| [research.3s.linker](../bbugyi200.athena.research.3s.linker/README.md) | research.3s hood | completed |
+| [research.3s.linker.w0](../../sessions/bbugyi200.athena.research.3s.linker.w0.md) (session · 3) | research.3s hood | failed 3 |
 | [research.3s.mus](../bbugyi200.athena.research.3s.mus/README.md) | research.3s hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |

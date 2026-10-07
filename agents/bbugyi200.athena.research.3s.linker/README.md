@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3s.linker
 
-**Global name:** `bbugyi200.athena.research.3s.linker` · **State:** active · **Source run:** `run-caae12869c46f3ecdf1f42fbe2b71a3d`
+**Global name:** `bbugyi200.athena.research.3s.linker` · **State:** completed · **Source run:** `run-caae12869c46f3ecdf1f42fbe2b71a3d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,17 +10,18 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-06T19:38:16.520591+00:00
+- Timing: 2026-10-06T19:38:16.520591+00:00 → 2026-10-06T19:47:32.102392+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.3s.linker.w0](../../sessions/bbugyi200.athena.research.3s.linker.w0.md) (session · 3) | descendant | failed 3 |
 | [research.3s.audio](../bbugyi200.athena.research.3s.audio/README.md) | research.3s hood | completed |
 | [research.3s.cdx](../bbugyi200.athena.research.3s.cdx/README.md) | research.3s hood | completed |
 | [research.3s.cld](../bbugyi200.athena.research.3s.cld/README.md) | research.3s hood | completed |
