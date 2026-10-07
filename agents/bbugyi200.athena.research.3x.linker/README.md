@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.3x.linker
 
-**Global name:** `bbugyi200.athena.research.3x.linker` · **State:** active · **Source run:** `run-bedb3994fc5cb32b08086d06f654da0b`
+**Global name:** `bbugyi200.athena.research.3x.linker` · **State:** completed · **Source run:** `run-bedb3994fc5cb32b08086d06f654da0b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,24 +10,24 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-07T18:00:43.735527+00:00
+- Timing: 2026-10-07T18:00:43.735527+00:00 → 2026-10-07T18:07:51.606701+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3x.linker.w0](../bbugyi200.athena.research.3x.linker.w0/README.md) | descendant | waiting |
+| [research.3x.linker.w0](../../sessions/bbugyi200.athena.research.3x.linker.w0.md) (session · 3) | descendant | failed 3 |
 | [research.3x.cdx](../bbugyi200.athena.research.3x.cdx/README.md) | research.3x hood | completed |
 | [research.3x.cld](../bbugyi200.athena.research.3x.cld/README.md) | research.3x hood | completed |
 | [research.3x.final](../bbugyi200.athena.research.3x.final/README.md) | research.3x hood | completed |
 | [research.3x.gem](../bbugyi200.athena.research.3x.gem/README.md) | research.3x hood | completed |
 | [research.3x.grk](../bbugyi200.athena.research.3x.grk/README.md) | research.3x hood | completed |
-| [research.3x.image](../bbugyi200.athena.research.3x.image/README.md) | research.3x hood | failed |
+| [research.3x.image](../bbugyi200.athena.research.3x.image/README.md) | research.3x hood | active |
 | [research.3x.mus](../bbugyi200.athena.research.3x.mus/README.md) | research.3x hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
