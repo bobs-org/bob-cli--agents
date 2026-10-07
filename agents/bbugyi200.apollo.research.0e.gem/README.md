@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0e.gem
 
-**Global name:** `bbugyi200.apollo.research.0e.gem` · **State:** active · **Source run:** `run-a366bdf1b311a17b9bf6e5d42a4e8e76`
+**Global name:** `bbugyi200.apollo.research.0e.gem` · **State:** completed · **Source run:** `run-a366bdf1b311a17b9bf6e5d42a4e8e76`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,12 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-07T16:23:52.383189+00:00
+- Timing: 2026-10-07T16:23:52.383189+00:00 → 2026-10-07T16:35:36.008481+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,7 +25,7 @@
 | [research.0e.cdx](../bbugyi200.apollo.research.0e.cdx/README.md) | research.0e hood | active |
 | [research.0e.cld](../bbugyi200.apollo.research.0e.cld/README.md) | research.0e hood | completed |
 | [research.0e.final](../bbugyi200.apollo.research.0e.final/README.md) | research.0e hood | waiting |
-| [research.0e.grk](../bbugyi200.apollo.research.0e.grk/README.md) | research.0e hood | active |
+| [research.0e.grk](../bbugyi200.apollo.research.0e.grk/README.md) | research.0e hood | completed |
 | [research.0e.image](../bbugyi200.apollo.research.0e.image/README.md) | research.0e hood | waiting |
 | [research.0e.linker](../bbugyi200.apollo.research.0e.linker/README.md) | research.0e hood | waiting |
 | [research.0e.mus](../bbugyi200.apollo.research.0e.mus/README.md) | research.0e hood | completed |
