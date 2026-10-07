@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-571f6d198d677c9a04d6e2918272c9b0"}
+{"commits":[{"committed_at":1791336082,"sha":"7b60ded9f056f240f7e0d3db1ae4707a4ab9aab3","subject":"feat(ref-library): add read-only RefRow index module with fixture vault"}],"schema_version":2,"source_run_id":"run-571f6d198d677c9a04d6e2918272c9b0"}
