@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0e.audio
 
-**Global name:** `bbugyi200.apollo.research.0e.audio` · **State:** waiting · **Source run:** `run-555298ad81388b29bcbc6e8f96258ec5`
+**Global name:** `bbugyi200.apollo.research.0e.audio` · **State:** active · **Source run:** `run-555298ad81388b29bcbc6e8f96258ec5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,35 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 20261007122321
+- Timing: 2026-10-07T17:04:36.296291+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `audio` | {audio\_path: /home/bryan/.local/share/sase-listen/library/which-recent-task-beads-matter-most-9450c6/which-recent-task-beads-matter-most.mp3, chapter\_count: 3, duration\_s: 285.6, edition: brief, epis… |
+
+#### audio
+
+```yaml
+audio_path: /home/bryan/.local/share/sase-listen/library/which-recent-task-beads-matter-most-9450c6/which-recent-task-beads-matter-most.mp3
+chapter_count: 3
+duration_s: 285.6
+edition: brief
+episode_id: which-recent-task-beads-matter-most-9450c6
+ok: true
+published: true
+script: 202610/task_bead_48h_impact_ranking/task_bead_48h_impact_ranking_narration.md
+title: Which Recent Task Beads Matter Most
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +46,10 @@
 |---|---|---|
 | [research.0e.cdx](../bbugyi200.apollo.research.0e.cdx/README.md) | research.0e hood | completed |
 | [research.0e.cld](../bbugyi200.apollo.research.0e.cld/README.md) | research.0e hood | completed |
-| [research.0e.final](../bbugyi200.apollo.research.0e.final/README.md) | research.0e hood | active |
+| [research.0e.final](../bbugyi200.apollo.research.0e.final/README.md) | research.0e hood | completed |
 | [research.0e.gem](../bbugyi200.apollo.research.0e.gem/README.md) | research.0e hood | completed |
 | [research.0e.grk](../bbugyi200.apollo.research.0e.grk/README.md) | research.0e hood | completed |
-| [research.0e.image](../bbugyi200.apollo.research.0e.image/README.md) | research.0e hood | waiting |
+| [research.0e.image](../bbugyi200.apollo.research.0e.image/README.md) | research.0e hood | active |
 | [research.0e.linker](../bbugyi200.apollo.research.0e.linker/README.md) | research.0e hood | waiting |
 | [research.0e.mus](../bbugyi200.apollo.research.0e.mus/README.md) | research.0e hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
