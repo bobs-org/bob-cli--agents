@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-55f88c624e91a10b7651e3b13cbb57ac"}
+{"commits":[{"committed_at":1791384375,"sha":"c9b361b205cc8fc529187ab1418b20009f5ce671","subject":"feat(capture): queue bare links for the reading queue"}],"schema_version":2,"source_run_id":"run-55f88c624e91a10b7651e3b13cbb57ac"}
