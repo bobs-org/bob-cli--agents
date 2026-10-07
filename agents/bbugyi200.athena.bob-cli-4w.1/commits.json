@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4295c6e56102aeb4264ec6f9e18052f4"}
+{"commits":[{"committed_at":1791334973,"sha":"42a17926a9ce700634a2ed2ce51228ef4f46e0fd","subject":"feat(ref): promote bob ref to the canonical command"}],"schema_version":2,"source_run_id":"run-4295c6e56102aeb4264ec6f9e18052f4"}
