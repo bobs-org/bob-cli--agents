@@ -49,5 +49,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-5k.7.1.2](../agents/bbugyi200.athena.bob-cli-5k.7.1.2/README.md) | bob-cli-5k hood | completed |
 | [bob-cli-5k.7.1.3](../agents/bbugyi200.athena.bob-cli-5k.7.1.3/README.md) | bob-cli-5k hood | completed |
 | [bob-cli-5k.7.1.4](../agents/bbugyi200.athena.bob-cli-5k.7.1.4/README.md) | bob-cli-5k hood | completed |
-| [bob-cli-5k.7.1.land](../agents/bbugyi200.athena.bob-cli-5k.7.1.land/README.md) | bob-cli-5k hood | active |
-| [bob-cli-5k.land](../agents/bbugyi200.athena.bob-cli-5k.land/README.md) | bob-cli-5k hood | active |
+| [bob-cli-5k.7.1.land](../agents/bbugyi200.athena.bob-cli-5k.7.1.land/README.md) | bob-cli-5k hood | completed |
+| [bob-cli-5k.land](bbugyi200.athena.bob-cli-5k.land.md) (session · 5) | bob-cli-5k hood | active 1, completed 2, failed 2 |
