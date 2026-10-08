@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me implement the new refs panel integration described by the highlights_quick_open_refs_panel.md file in the research sidecar repo? #beau #plan %m:@xlarge %auto
