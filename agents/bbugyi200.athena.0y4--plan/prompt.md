@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli I keep getting an `invalid-option: extended-keys-format` message when I load new tmux sessions using my `tm` script (defined in my chezmoi repo). Can you help me diagnose the root cause of this issue and fix it? #plan %m:@xlarge %auto
