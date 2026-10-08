@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2965bd8786c955e72ccd1d69cbb3411b"}
+{"commits":[{"committed_at":1791447297,"sha":"3f80b3f34fd72fb76d2691e1fc2e5464151cd0aa","subject":"docs: clarify reference capture, scan, and dry-run behavior"}],"schema_version":2,"source_run_id":"run-2965bd8786c955e72ccd1d69cbb3411b"}

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.bob-cli.8\_302405.2
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.8_302405.2` · **State:** waiting · **Source run:** `run-2965bd8786c955e72ccd1d69cbb3411b`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.8_302405.2` · **State:** active · **Source run:** `run-2965bd8786c955e72ccd1d69cbb3411b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** chop
 
@@ -10,18 +10,24 @@
 
 - Model: grok-4.7
 - Provider: grok
-- Timing: 20261007192008
-- Commits: 0
+- Timing: 2026-10-08T07:55:59.445953+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`3f80b3f`](https://github.com/bobs-org/bob-cli/commit/3f80b3f34fd72fb76d2691e1fc2e5464151cd0aa) | docs: clarify reference capture, scan, and dry-run behavior | 2026-10-08 04:14:57 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.bob-cli.8\_302405.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.8_302405.1/README.md) | chop.refresh\_docs.bob-cli.8\_302405 hood | active |
+| [chop.refresh\_docs.bob-cli.8\_302405.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.8_302405.1/README.md) | chop.refresh\_docs.bob-cli.8\_302405 hood | completed |
 | [chop.refresh\_docs.bob-cli.0\_794067.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.0\_794067.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
