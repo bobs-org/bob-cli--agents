@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 0yc--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0yc__plan-261008_103847.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0yc__code-261008_103847.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/mac_pom_overdue_minute_pulse.md
 
 
