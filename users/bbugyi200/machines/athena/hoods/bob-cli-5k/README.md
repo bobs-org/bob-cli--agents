@@ -2,17 +2,17 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-5k
 
-**Global hood:** `bbugyi200.athena.bob-cli-5k` · **Runs:** 23 · **Sessions:** 3 · **States:** active 1, completed 10, failed 8, waiting 4
+**Global hood:** `bbugyi200.athena.bob-cli-5k` · **Runs:** 23 · **Sessions:** 3 · **States:** active 1, completed 11, failed 8, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-5k.7.1.land](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7.1.land/README.md) | waiting | grok-4.7 / grok | 20261007173920 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7.1.land/prompt.md) |
-| [bob-cli-5k.7.1.3](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7.1.3/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261007173918 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7.1.3/prompt.md) |
+| [bob-cli-5k.7.1.3](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7.1.3/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-07T22:51:55.918812+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7.1.3/prompt.md) |
 | [bob-cli-5k.5--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-5k.5.md#member-mon) | failed | muse-spark-1.3-contributor / muse | 2026-10-07T20:39:17.042443+00:00 → 2026-10-07T20:42:30.378298+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5k.5--mon/chat.md) |
 | [bob-cli-5k.7--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-5k.7.md#member-gate) | failed | opus / claude | 2026-10-07T20:04:50.585894+00:00 → 2026-10-07T20:05:11.154002+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7--gate/chat.md) |
 | [bob-cli-5k.4--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-5k.4.md#member-gate) | failed | grok-4.7 / grok | 2026-10-07T19:07:48.054191+00:00 → 2026-10-07T19:09:05.822478+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5k.4--gate/chat.md) |
 | [bob-cli-5k.2](../../../../../../agents/bbugyi200.athena.bob-cli-5k.2/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-07T18:47:13.824169+00:00 → 2026-10-07T19:30:35.038771+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5k.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5k.2/chat.md) |
-| [bob-cli-5k.7.1.2](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7.1.2/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-07T21:58:59.901303+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7.1.2/prompt.md) |
+| [bob-cli-5k.7.1.2](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7.1.2/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-07T21:58:59.901303+00:00 → 2026-10-07T22:50:54.249749+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7.1.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7.1.2/chat.md) |
 | [bob-cli-5k.5--2](../../../../../../sessions/bbugyi200.athena.bob-cli-5k.5.md#member-2) | completed | muse-spark-1.3-contributor / muse | 2026-10-07T21:16:23.099345+00:00 → 2026-10-07T21:52:13.550268+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5k.5--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5k.5--2/chat.md) |
 | [bob-cli-5k.4--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-5k.4.md#member-plan) | completed | grok-4.7 / grok | 2026-10-07T18:51:35.476965+00:00 → 2026-10-07T19:38:10.617180+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5k.4--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5k.4--plan/chat.md) |
 | [bob-cli-5k.7--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-5k.7.md#member-mon) | failed | opus / claude | 2026-10-07T20:17:55.353561+00:00 → 2026-10-07T20:21:47.918634+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5k.7--mon/chat.md) |
