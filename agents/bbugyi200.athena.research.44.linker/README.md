@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.44.linker
 
-**Global name:** `bbugyi200.athena.research.44.linker` · **State:** waiting · **Source run:** `run-62f9dab7ffcd3214a153745ff690aaf2`
+**Global name:** `bbugyi200.athena.research.44.linker` · **State:** active · **Source run:** `run-62f9dab7ffcd3214a153745ff690aaf2`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261008172839
+- Timing: 2026-10-08T22:51:34.455981+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/highlights\_quick\_open\_refs\_panel/highlights\_quick\_open\_refs\_panel.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261008172839/highlights\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/highlights_quick_open_refs_panel/highlights_quick_open_refs_panel.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261008172839/highlights_quick_open_refs_panel-8f138ec9d5d3.md
+  ref: file:explicit:9779e75f483f6cbc12a4d4b8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/highlights_quick_open_refs_panel/highlights_quick_open_refs_panel.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -26,7 +45,7 @@
 | [research.44.final](../bbugyi200.athena.research.44.final/README.md) | research.44 hood | completed |
 | [research.44.gem](../bbugyi200.athena.research.44.gem/README.md) | research.44 hood | completed |
 | [research.44.grk](../bbugyi200.athena.research.44.grk/README.md) | research.44 hood | completed |
-| [research.44.image](../bbugyi200.athena.research.44.image/README.md) | research.44 hood | active |
+| [research.44.image](../bbugyi200.athena.research.44.image/README.md) | research.44 hood | completed |
 | [research.44.mus](../bbugyi200.athena.research.44.mus/README.md) | research.44 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
