@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-5k](../../users/bbugyi200/machines/athena/hoods/bob-cli-5k/README.md) / bob-cli-5k.land
 
-**Global name:** `bbugyi200.athena.bob-cli-5k.land` · **State:** waiting · **Source run:** `run-ec25827ad41125cd5c13ff498e40e71b`
+**Global name:** `bbugyi200.athena.bob-cli-5k.land` · **State:** active · **Source run:** `run-ec25827ad41125cd5c13ff498e40e71b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-5k
 
@@ -31,6 +31,6 @@
 | [bob-cli-5k.7](../../sessions/bbugyi200.athena.bob-cli-5k.7.md) (session · 5) | bob-cli-5k hood | failed 5 |
 | [bob-cli-5k.7.1.1](../bbugyi200.athena.bob-cli-5k.7.1.1/README.md) | bob-cli-5k hood | completed |
 | [bob-cli-5k.7.1.2](../bbugyi200.athena.bob-cli-5k.7.1.2/README.md) | bob-cli-5k hood | completed |
-| [bob-cli-5k.7.1.3](../bbugyi200.athena.bob-cli-5k.7.1.3/README.md) | bob-cli-5k hood | active |
-| [bob-cli-5k.7.1.4](../bbugyi200.athena.bob-cli-5k.7.1.4/README.md) | bob-cli-5k hood | waiting |
-| [bob-cli-5k.7.1.land](../bbugyi200.athena.bob-cli-5k.7.1.land/README.md) | bob-cli-5k hood | waiting |
+| [bob-cli-5k.7.1.3](../bbugyi200.athena.bob-cli-5k.7.1.3/README.md) | bob-cli-5k hood | completed |
+| [bob-cli-5k.7.1.4](../bbugyi200.athena.bob-cli-5k.7.1.4/README.md) | bob-cli-5k hood | completed |
+| [bob-cli-5k.7.1.land](../bbugyi200.athena.bob-cli-5k.7.1.land/README.md) | bob-cli-5k hood | active |
