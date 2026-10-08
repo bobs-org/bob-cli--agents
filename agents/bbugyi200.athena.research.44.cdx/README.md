@@ -42,7 +42,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [research.44.cld](../bbugyi200.athena.research.44.cld/README.md) | research.44 hood | active |
 | [research.44.final](../bbugyi200.athena.research.44.final/README.md) | research.44 hood | waiting |
-| [research.44.gem](../bbugyi200.athena.research.44.gem/README.md) | research.44 hood | active |
+| [research.44.gem](../bbugyi200.athena.research.44.gem/README.md) | research.44 hood | completed |
 | [research.44.grk](../bbugyi200.athena.research.44.grk/README.md) | research.44 hood | active |
 | [research.44.image](../bbugyi200.athena.research.44.image/README.md) | research.44 hood | waiting |
 | [research.44.linker](../bbugyi200.athena.research.44.linker/README.md) | research.44 hood | waiting |
