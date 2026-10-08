@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 5t--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-5t__plan-261008_065524.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-5t__code-261008_065524.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/task_tag_marks.md
 
 
