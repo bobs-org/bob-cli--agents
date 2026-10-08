@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 197 · **Sessions:** 5 · **States:** active 120, completed 65, failed 8, waiting 4
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 197 · **Sessions:** 5 · **States:** active 119, completed 66, failed 8, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -117,7 +117,7 @@
 | [research.c.final](../../../../../../agents/bbugyi200.athena.research.c.final/README.md) | completed | — | 2026-06-12T23:10:43+00:00 → 2026-06-12T23:10:43+00:00 | 1 | — |
 | [research.3w.image](../../../../../../agents/bbugyi200.athena.research.3w.image/README.md) | active | gpt-6-astra / codex | 2026-10-07T11:22:28.742948+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3w.image/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.3w.image/chat.md) |
 | [research.35.image](../../../../../../agents/bbugyi200.athena.research.35.image/README.md) | active | gpt-6-astra / codex | 2026-10-01T16:09:31.818886+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.35.image/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.35.image/chat.md) |
-| [research.44.mus](../../../../../../agents/bbugyi200.athena.research.44.mus/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-08T21:31:25.870157+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.44.mus/prompt.md) |
+| [research.44.mus](../../../../../../agents/bbugyi200.athena.research.44.mus/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-08T21:31:25.870157+00:00 → 2026-10-08T21:37:59.631303+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.44.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.44.mus/chat.md) |
 | [research.1a.cdx](../../../../../../agents/bbugyi200.athena.research.1a.cdx/README.md) | active | gpt-5.6-sol / codex | 2026-08-27T13:44:59.050726+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.1a.cdx/prompt.md) |
 | [research.0m.cld](../../../../../../agents/bbugyi200.athena.research.0m.cld/README.md) | completed | — | 2026-06-26T12:03:14+00:00 → 2026-06-26T12:03:14+00:00 | 1 | — |
 | [research.i.final.f1.f1](../../../../../../agents/bbugyi200.athena.research.i.final.f1.f1/README.md) | completed | — | 2026-06-15T20:12:56+00:00 → 2026-06-15T20:46:08+00:00 | 2 | — |

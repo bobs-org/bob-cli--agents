@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-08T21:30:12.255853+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/highlights\_reference\_picker\_native\_panel\_design\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261008172831/highlights\_reference\_pic… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/highlights_reference_picker_native_panel_design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261008172831/highlights_reference_picker_native_panel_design__cdx-e73dab2995bf.md
+  ref: file:explicit:77628e15bc31f721a685d689
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/highlights_reference_picker_native_panel_design__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.44.grk](../bbugyi200.athena.research.44.grk/README.md) | research.44 hood | active |
 | [research.44.image](../bbugyi200.athena.research.44.image/README.md) | research.44 hood | waiting |
 | [research.44.linker](../bbugyi200.athena.research.44.linker/README.md) | research.44 hood | waiting |
-| [research.44.mus](../bbugyi200.athena.research.44.mus/README.md) | research.44 hood | active |
+| [research.44.mus](../bbugyi200.athena.research.44.mus/README.md) | research.44 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
