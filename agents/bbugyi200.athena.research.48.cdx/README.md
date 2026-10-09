@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-09T20:02:15.948616+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/instant\_pomodoro\_overview\_dependency\_cache\_adaptive\_detail\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261009160056/instant\_pomod… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/instant_pomodoro_overview_dependency_cache_adaptive_detail__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261009160056/instant_pomodoro_overview_dependency_cache_adaptive_detail__cdx-0298ae4b29af.md
+  ref: file:explicit:74e3f7ed1c9be7b3af00e435
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/instant_pomodoro_overview_dependency_cache_adaptive_detail__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.48.grk](../bbugyi200.athena.research.48.grk/README.md) | research.48 hood | active |
 | [research.48.image](../bbugyi200.athena.research.48.image/README.md) | research.48 hood | waiting |
 | [research.48.linker](../bbugyi200.athena.research.48.linker/README.md) | research.48 hood | waiting |
-| [research.48.mus](../bbugyi200.athena.research.48.mus/README.md) | research.48 hood | active |
+| [research.48.mus](../bbugyi200.athena.research.48.mus/README.md) | research.48 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
