@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 2026-10-09T20:03:15.797434+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/mac\_capture\_idle\_pomodoro\_preview/mac\_capture\_idle\_pomodoro\_preview\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261009160059/mac\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/mac_capture_idle_pomodoro_preview/mac_capture_idle_pomodoro_preview__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261009160059/mac_capture_idle_pomodoro_preview__grk-b5776e871c6e.md
+  ref: file:explicit:179b7ee58b95d2dfcbb5229a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202610/mac_capture_idle_pomodoro_preview/mac_capture_idle_pomodoro_preview__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

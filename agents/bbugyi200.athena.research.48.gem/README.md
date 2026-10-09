@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-09T20:04:32.628023+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/capture\_panel\_default\_pomodoro\_preview\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261009160101/capture\_panel\_default\_pomodoro\_pr… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/capture_panel_default_pomodoro_preview__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261009160101/capture_panel_default_pomodoro_preview__gem-bf53ced9aa2a.md
+  ref: file:explicit:03fdc2e354f9e6bc8dde037b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202610/capture_panel_default_pomodoro_preview__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
