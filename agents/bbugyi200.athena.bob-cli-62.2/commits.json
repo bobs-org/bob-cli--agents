@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8edf05dde8136098176053e51c8ed395"}
+{"commits":[{"committed_at":1791577986,"sha":"4bfacc320cab9995a09351a56ce2ab434da4d6a8","subject":"feat(highlights-ref): execute v2 reading-task writes with guarded cross-file edits"}],"schema_version":2,"source_run_id":"run-8edf05dde8136098176053e51c8ed395"}
