@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8d0296123c3988eb1acd6dda5299c3e4"}
+{"commits":[{"committed_at":1791571396,"sha":"999816cd77b1600fcefe961862cf3fccc878c9ce","subject":"feat(capture): implement pomodoro swap execution with named override"}],"schema_version":2,"source_run_id":"run-8d0296123c3988eb1acd6dda5299c3e4"}
