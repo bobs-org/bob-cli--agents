@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `61` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["61.w1--plan [active]"]
+  n0["61.w1--plan [completed]"]
   n1["61.w1--gate [failed]"]
   n0 --> n1
-  n2["61.w1--code [active]"]
+  n2["61.w1--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 61.w1--plan | active | opus / claude | 2026-10-09T16:49:21.650425+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.61.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.61.w1--plan/chat.md) |
+| <a id="member-plan"></a>plan | 61.w1--plan | completed | opus / claude | 2026-10-09T16:49:21.650425+00:00 → 2026-10-09T17:35:33.471915+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.61.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.61.w1--plan/chat.md) |
 | <a id="member-gate"></a>gate | 61.w1--gate | failed | opus / claude | 2026-10-09T17:04:17.693483+00:00 → 2026-10-09T17:04:33.234510+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.61.w1--gate/chat.md) |
-| <a id="member-code"></a>code | 61.w1--code | active | muse-spark-1.3-contributor / muse | 2026-10-09T17:04:47.631390+00:00 | [1](../agents/bbugyi200.apollo.61.w1--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | 61.w1--code | completed | muse-spark-1.3-contributor / muse | 2026-10-09T17:04:47.631390+00:00 → 2026-10-09T17:35:33.471915+00:00 | [1](../agents/bbugyi200.apollo.61.w1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.61.w1--code/chat.md) |
 
 ## Commits
 
@@ -34,6 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [61](../agents/bbugyi200.apollo.61/README.md) | ancestor | completed |
+| [61.w1.f0](bbugyi200.apollo.61.w1.f0.md) (session · 3) | descendant | failed 3 |
 | [61.w1.w0](bbugyi200.apollo.61.w1.w0.md) (session · 3) | descendant | failed 3 |
 | [61.f-0](../agents/bbugyi200.apollo.61.f-0/README.md) | 61 hood | completed |
 | [61.f-1](../agents/bbugyi200.apollo.61.f-1/README.md) | 61 hood | completed |

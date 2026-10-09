@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5w.1](../bbugyi200.apollo.bob-cli-5w.1/README.md) | bob-cli-5w hood | completed |
-| [bob-cli-5w.10](../bbugyi200.apollo.bob-cli-5w.10/README.md) | bob-cli-5w hood | active |
+| [bob-cli-5w.10](../bbugyi200.apollo.bob-cli-5w.10/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.2](../bbugyi200.apollo.bob-cli-5w.2/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.3](../bbugyi200.apollo.bob-cli-5w.3/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.4](../bbugyi200.apollo.bob-cli-5w.4/README.md) | bob-cli-5w hood | active |

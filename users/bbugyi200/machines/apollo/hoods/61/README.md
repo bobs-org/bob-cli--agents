@@ -2,11 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / 61
 
-**Global hood:** `bbugyi200.apollo.61` · **Runs:** 16 · **Sessions:** 3 · **States:** active 4, completed 6, failed 6
+**Global hood:** `bbugyi200.apollo.61` · **Runs:** 19 · **Sessions:** 4 · **States:** active 2, completed 8, failed 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [61.w1--plan](../../../../../../sessions/bbugyi200.apollo.61.w1.md#member-plan) | active | opus / claude | 2026-10-09T16:49:21.650425+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.61.w1--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.61.w1--plan/prompt.md) |
+| [61.w1.f0--plan](../../../../../../sessions/bbugyi200.apollo.61.w1.f0.md#member-plan) | failed | opus / claude | 2026-10-09T18:11:16.042551+00:00 → 2026-10-09T18:20:00.102258+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.61.w1.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.61.w1.f0--plan/prompt.md) |
+| [61.w1.f0--gate](../../../../../../sessions/bbugyi200.apollo.61.w1.f0.md#member-gate) | failed | opus / claude | 2026-10-09T18:19:39.474505+00:00 → 2026-10-09T18:19:51.831928+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.61.w1.f0--gate/chat.md) |
+| [61.w1--plan](../../../../../../sessions/bbugyi200.apollo.61.w1.md#member-plan) | completed | opus / claude | 2026-10-09T16:49:21.650425+00:00 → 2026-10-09T17:35:33.471915+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.61.w1--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.61.w1--plan/prompt.md) |
 | [61--gate](../../../../../../sessions/bbugyi200.apollo.61.md#member-gate) | failed | gpt-6-astra / codex | 2026-10-09T15:25:14.795838+00:00 → 2026-10-09T15:25:25.137482+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.61--gate/chat.md) |
 | [61--mon](../../../../../../sessions/bbugyi200.apollo.61.md#member-mon) | failed | muse-spark-1.3-contributor / muse | 2026-10-09T16:27:20.611200+00:00 → 2026-10-09T16:30:19.461685+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.61--mon/chat.md) |
 | [61.w1.w0--gate](../../../../../../sessions/bbugyi200.apollo.61.w1.w0.md#member-gate) | failed | opus / claude | 2026-10-09T17:24:29.346850+00:00 → 2026-10-09T17:24:41.029521+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.61.w1.w0--gate/chat.md) |
@@ -18,7 +20,8 @@
 | [61](../../../../../../agents/bbugyi200.apollo.61/README.md) | completed | — | 2026-07-11T20:25:56+00:00 → 2026-07-11T20:25:56+00:00 | 1 | — |
 | [61.w1--gate](../../../../../../sessions/bbugyi200.apollo.61.w1.md#member-gate) | failed | opus / claude | 2026-10-09T17:04:17.693483+00:00 → 2026-10-09T17:04:33.234510+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.61.w1--gate/chat.md) |
 | [61--1](../../../../../../sessions/bbugyi200.apollo.61.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T16:30:19.156925+00:00 → 2026-10-09T16:44:16.555716+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.61--1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.61--1/prompt.md) |
+| [61.w1.f0--mon](../../../../../../sessions/bbugyi200.apollo.61.w1.f0.md#member-mon) | failed | opus / claude | 2026-10-09T18:19:50.685238+00:00 → 2026-10-09T18:20:43.128247+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.61.w1.f0--mon/chat.md) |
 | [61.f-0](../../../../../../agents/bbugyi200.apollo.61.f-0/README.md) | completed | — | 2026-07-11T21:14:04+00:00 → 2026-07-11T21:14:04+00:00 | 1 | — |
-| [61.w1--code](../../../../../../sessions/bbugyi200.apollo.61.w1.md#member-code) | active | muse-spark-1.3-contributor / muse | 2026-10-09T17:04:47.631390+00:00 | 1 | — |
+| [61.w1--code](../../../../../../sessions/bbugyi200.apollo.61.w1.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T17:04:47.631390+00:00 → 2026-10-09T17:35:33.471915+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.61.w1--code/chat.md) |
 | [61.w0.w0](../../../../../../agents/bbugyi200.apollo.61.w0.w0/README.md) | active | opus / claude | 20261009120553 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.61.w0.w0/prompt.md) |
 | [61.w1.w0--mon](../../../../../../sessions/bbugyi200.apollo.61.w1.w0.md#member-mon) | failed | opus / claude | 2026-10-09T17:24:40.113230+00:00 → 2026-10-09T17:25:59.555087+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.61.w1.w0--mon/chat.md) |

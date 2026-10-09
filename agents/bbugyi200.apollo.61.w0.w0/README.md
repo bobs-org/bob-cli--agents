@@ -25,5 +25,6 @@
 | [61](../bbugyi200.apollo.61/README.md) | ancestor | completed |
 | [61.f-0](../bbugyi200.apollo.61.f-0/README.md) | 61 hood | completed |
 | [61.f-1](../bbugyi200.apollo.61.f-1/README.md) | 61 hood | completed |
-| [61.w1](../../sessions/bbugyi200.apollo.61.w1.md) (session · 3) | 61 hood | active 2, failed 1 |
+| [61.w1](../../sessions/bbugyi200.apollo.61.w1.md) (session · 3) | 61 hood | completed 2, failed 1 |
+| [61.w1.f0](../../sessions/bbugyi200.apollo.61.w1.f0.md) (session · 3) | 61 hood | failed 3 |
 | [61.w1.w0](../../sessions/bbugyi200.apollo.61.w1.w0.md) (session · 3) | 61 hood | failed 3 |

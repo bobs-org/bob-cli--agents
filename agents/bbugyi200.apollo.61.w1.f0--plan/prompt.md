@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:61.w1 This didn't work, but isn't suprising since the bob-mac-capture app wasn't modified, right? Can you help me fix this? #plan %m:@xlarge %auto

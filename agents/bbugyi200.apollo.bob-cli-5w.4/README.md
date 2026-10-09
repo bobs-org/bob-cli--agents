@@ -13,18 +13,24 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-09T17:35:08.947482+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`02029a7`](https://github.com/bobs-org/bob-cli/commit/02029a736a2cbc693bb9e7de3445a19562c06019) | feat(capture): run recovery and successor linking inside Pomodoro closes | 2026-10-09 14:25:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5w.1](../bbugyi200.apollo.bob-cli-5w.1/README.md) | bob-cli-5w hood | completed |
-| [bob-cli-5w.10](../bbugyi200.apollo.bob-cli-5w.10/README.md) | bob-cli-5w hood | active |
+| [bob-cli-5w.10](../bbugyi200.apollo.bob-cli-5w.10/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.11](../bbugyi200.apollo.bob-cli-5w.11/README.md) | bob-cli-5w hood | waiting |
 | [bob-cli-5w.2](../bbugyi200.apollo.bob-cli-5w.2/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.3](../bbugyi200.apollo.bob-cli-5w.3/README.md) | bob-cli-5w hood | completed |

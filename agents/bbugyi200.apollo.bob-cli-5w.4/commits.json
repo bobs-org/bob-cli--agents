@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8b7378ba9378bc0ae9620b195ce42b7a"}
+{"commits":[{"committed_at":1791570354,"sha":"02029a736a2cbc693bb9e7de3445a19562c06019","subject":"feat(capture): run recovery and successor linking inside Pomodoro closes"}],"schema_version":2,"source_run_id":"run-8b7378ba9378bc0ae9620b195ce42b7a"}

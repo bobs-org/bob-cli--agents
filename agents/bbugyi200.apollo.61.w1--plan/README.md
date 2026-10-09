@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [61](../../users/bbugyi200/machines/apollo/hoods/61/README.md) / [61.w1](../../sessions/bbugyi200.apollo.61.w1.md) / 61.w1--plan
 
-**Global name:** `bbugyi200.apollo.61.w1--plan` · **State:** active · **Source run:** `run-3c9824be0f3ab20547c39a49bded9bbb`
+**Global name:** `bbugyi200.apollo.61.w1--plan` · **State:** completed · **Source run:** `run-3c9824be0f3ab20547c39a49bded9bbb`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 61
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-09T16:49:21.650425+00:00
+- Timing: 2026-10-09T16:49:21.650425+00:00 → 2026-10-09T17:35:33.471915+00:00
 - Commits: 0
 
 ## Files
@@ -22,6 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [61](../bbugyi200.apollo.61/README.md) | ancestor | completed |
+| [61.w1.f0](../../sessions/bbugyi200.apollo.61.w1.f0.md) (session · 3) | descendant | failed 3 |
 | [61.w1.w0](../../sessions/bbugyi200.apollo.61.w1.w0.md) (session · 3) | descendant | failed 3 |
 | [61.f-0](../bbugyi200.apollo.61.f-0/README.md) | 61 hood | completed |
 | [61.f-1](../bbugyi200.apollo.61.f-1/README.md) | 61 hood | completed |

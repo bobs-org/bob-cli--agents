@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 61.w1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-61_w1__plan-261009_124857.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-61_w1__code-261009_124857.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/mac_capture_close_list_auto_comma.md
 
 
