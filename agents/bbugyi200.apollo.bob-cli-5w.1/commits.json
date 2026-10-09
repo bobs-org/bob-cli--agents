@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fd148438e6aef864827d703f37bd3c0c"}
+{"commits":[{"committed_at":1791563066,"sha":"e190a7dc84e74ff2e58abae96405edc0be4727c9","subject":"perf(capture): lazy vault snapshot for capture batches"}],"schema_version":2,"source_run_id":"run-fd148438e6aef864827d703f37bd3c0c"}
