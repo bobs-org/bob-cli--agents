@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.48.final
 
-**Global name:** `bbugyi200.athena.research.48.final` · **State:** waiting · **Source run:** `run-4b034edcb3d1965815c70d56479c4923`
+**Global name:** `bbugyi200.athena.research.48.final` · **State:** active · **Source run:** `run-4b034edcb3d1965815c70d56479c4923`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261009160103
+- Timing: 2026-10-09T20:30:14.206255+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/idle\_capture\_pomodoro\_agenda/idle\_capture\_pomodoro\_agenda\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261009160103/idle\_capture… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/idle_capture_pomodoro_agenda/idle_capture_pomodoro_agenda__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261009160103/idle_capture_pomodoro_agenda__final-45447e50d57a.md
+  ref: file:explicit:e41fa3c219c235fcc75acbbc
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/idle_capture_pomodoro_agenda/idle_capture_pomodoro_agenda__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.48.cdx](../bbugyi200.athena.research.48.cdx/README.md) | research.48 hood | completed |
-| [research.48.cld](../bbugyi200.athena.research.48.cld/README.md) | research.48 hood | active |
+| [research.48.cld](../bbugyi200.athena.research.48.cld/README.md) | research.48 hood | completed |
 | [research.48.gem](../bbugyi200.athena.research.48.gem/README.md) | research.48 hood | completed |
 | [research.48.grk](../bbugyi200.athena.research.48.grk/README.md) | research.48 hood | completed |
 | [research.48.image](../bbugyi200.athena.research.48.image/README.md) | research.48 hood | waiting |

@@ -2,15 +2,15 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.48.linker
 
-**Global name:** `bbugyi200.athena.research.48.linker` · **State:** waiting · **Source run:** `run-42754f511ed11e87ebb59c6b3ec8aeed`
+**Global name:** `bbugyi200.athena.research.48.linker` · **State:** waiting · **Source run:** `run-e0f4060578472fb32ae937c4af541465`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
 ## Summary
 
-- Model: opus
-- Provider: claude
-- Timing: 20261009160105
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 20261009162925
 - Commits: 0
 
 ## Files
@@ -22,8 +22,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.48.cdx](../bbugyi200.athena.research.48.cdx/README.md) | research.48 hood | completed |
-| [research.48.cld](../bbugyi200.athena.research.48.cld/README.md) | research.48 hood | active |
-| [research.48.final](../bbugyi200.athena.research.48.final/README.md) | research.48 hood | waiting |
+| [research.48.cld](../bbugyi200.athena.research.48.cld/README.md) | research.48 hood | completed |
+| [research.48.final](../bbugyi200.athena.research.48.final/README.md) | research.48 hood | active |
 | [research.48.gem](../bbugyi200.athena.research.48.gem/README.md) | research.48 hood | completed |
 | [research.48.grk](../bbugyi200.athena.research.48.grk/README.md) | research.48 hood | completed |
 | [research.48.image](../bbugyi200.athena.research.48.image/README.md) | research.48 hood | waiting |

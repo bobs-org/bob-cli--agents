@@ -1,4 +1,5 @@
-%id(linker, clan=research.48) %m:@xlarge
+%id(linker, clan=research.48)
+%m:gpt-6-astra 
 %wait:research.48.final %wait:research.48.image %q(1.5x, w=0.25)
 #gh:gh_bobs-org__bob-cli 
 You are the linker agent for a research swarm. The lead researcher,
@@ -138,7 +139,7 @@ Steps:
 
 8. **Register** it as a durable snapshot:
 
-   sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"
+   `sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"` 
 
    Use the report's actual absolute path and its path relative to the research repo
    root, for example `research:202609/<name>/<name>.md`. Use no `--move`. If
