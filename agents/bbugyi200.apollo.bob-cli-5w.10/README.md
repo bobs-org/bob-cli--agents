@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-09T17:21:06.083835+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`08da012`](https://github.com/bobs-org/bob-cli/commit/08da0125d9fca0d6f05f5598b35deed1a57de62e) | docs(hooks): option-bracket closes join the successor pass; same-day reopen takes links back | 2026-10-09 13:39:01 EDT |
 
 ## Neighbors
 
@@ -26,8 +32,8 @@
 | [bob-cli-5w.1](../bbugyi200.apollo.bob-cli-5w.1/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.11](../bbugyi200.apollo.bob-cli-5w.11/README.md) | bob-cli-5w hood | waiting |
 | [bob-cli-5w.2](../bbugyi200.apollo.bob-cli-5w.2/README.md) | bob-cli-5w hood | completed |
-| [bob-cli-5w.3](../bbugyi200.apollo.bob-cli-5w.3/README.md) | bob-cli-5w hood | active |
-| [bob-cli-5w.4](../bbugyi200.apollo.bob-cli-5w.4/README.md) | bob-cli-5w hood | waiting |
+| [bob-cli-5w.3](../bbugyi200.apollo.bob-cli-5w.3/README.md) | bob-cli-5w hood | completed |
+| [bob-cli-5w.4](../bbugyi200.apollo.bob-cli-5w.4/README.md) | bob-cli-5w hood | active |
 | [bob-cli-5w.5](../bbugyi200.apollo.bob-cli-5w.5/README.md) | bob-cli-5w hood | waiting |
 | [bob-cli-5w.6](../bbugyi200.apollo.bob-cli-5w.6/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.7](../bbugyi200.apollo.bob-cli-5w.7/README.md) | bob-cli-5w hood | completed |
