@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["bob-cli-62.3--plan [completed]"]
   n0 --> n3
-  n4["bob-cli-62.3--2 [active]"]
+  n4["bob-cli-62.3--2 [completed]"]
   n0 --> n4
 ```
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | bob-cli-62.3--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-09T21:15:59.836463+00:00 → 2026-10-09T21:38:42.433665+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-62.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-62.3--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-62.3--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-09T21:12:48.922943+00:00 → 2026-10-09T21:16:00.330668+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-62.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-62.3--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-09T20:35:33.773862+00:00 → 2026-10-09T21:14:45.707740+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-62.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-62.3--plan/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-62.3--2 | active | muse-spark-1.3-contributor / muse | 2026-10-09T21:40:05.550011+00:00 | [1](../agents/bbugyi200.athena.bob-cli-62.3--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-62.3--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-62.3--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-09T21:40:05.550011+00:00 → 2026-10-09T21:46:19.957755+00:00 | [1](../agents/bbugyi200.athena.bob-cli-62.3--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-62.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-62.3--2/chat.md) |
 
 ## Commits
 
@@ -41,5 +41,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-62.1](../agents/bbugyi200.athena.bob-cli-62.1/README.md) | bob-cli-62 hood | completed |
 | [bob-cli-62.2](../agents/bbugyi200.athena.bob-cli-62.2/README.md) | bob-cli-62 hood | completed |
-| [bob-cli-62.4](../agents/bbugyi200.athena.bob-cli-62.4/README.md) | bob-cli-62 hood | waiting |
+| [bob-cli-62.4](bbugyi200.athena.bob-cli-62.4.md) (session · 3) | bob-cli-62 hood | active 1, completed 1, failed 1 |
 | [bob-cli-62.land](../agents/bbugyi200.athena.bob-cli-62.land/README.md) | bob-cli-62 hood | waiting |
