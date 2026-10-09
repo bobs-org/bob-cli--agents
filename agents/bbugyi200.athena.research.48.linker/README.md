@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.48.linker
 
-**Global name:** `bbugyi200.athena.research.48.linker` · **State:** waiting · **Source run:** `run-e0f4060578472fb32ae937c4af541465`
+**Global name:** `bbugyi200.athena.research.48.linker` · **State:** active · **Source run:** `run-e0f4060578472fb32ae937c4af541465`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261009162925
+- Timing: 2026-10-09T21:09:46.603377+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/idle\_capture\_pomodoro\_agenda/idle\_capture\_pomodoro\_agenda.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261009162925/idle\_capture\_pomodo… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/idle_capture_pomodoro_agenda/idle_capture_pomodoro_agenda.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261009162925/idle_capture_pomodoro_agenda-264b24e89952.md
+  ref: file:explicit:f551bef35d03cf03c2d6f8e1
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/idle_capture_pomodoro_agenda/idle_capture_pomodoro_agenda.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.48.final](../bbugyi200.athena.research.48.final/README.md) | research.48 hood | completed |
 | [research.48.gem](../bbugyi200.athena.research.48.gem/README.md) | research.48 hood | completed |
 | [research.48.grk](../bbugyi200.athena.research.48.grk/README.md) | research.48 hood | completed |
-| [research.48.image](../bbugyi200.athena.research.48.image/README.md) | research.48 hood | active |
+| [research.48.image](../bbugyi200.athena.research.48.image/README.md) | research.48 hood | completed |
 | [research.48.mus](../bbugyi200.athena.research.48.mus/README.md) | research.48 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
