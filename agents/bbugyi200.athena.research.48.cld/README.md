@@ -12,19 +12,38 @@
 - Provider: claude
 - Timing: 2026-10-09T20:02:55.046225+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/mac\_capture\_idle\_pomodoro\_agenda\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261009160058/mac\_capture\_idle\_pomodoro\_agenda\_\_cld-f… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/mac_capture_idle_pomodoro_agenda__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261009160058/mac_capture_idle_pomodoro_agenda__cld-f18b632a96b9.md
+  ref: file:explicit:31832ac0433b5fd777657fd6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202610/mac_capture_idle_pomodoro_agenda__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.48.cdx](../bbugyi200.athena.research.48.cdx/README.md) | research.48 hood | active |
+| [research.48.cdx](../bbugyi200.athena.research.48.cdx/README.md) | research.48 hood | completed |
 | [research.48.final](../bbugyi200.athena.research.48.final/README.md) | research.48 hood | waiting |
-| [research.48.gem](../bbugyi200.athena.research.48.gem/README.md) | research.48 hood | active |
-| [research.48.grk](../bbugyi200.athena.research.48.grk/README.md) | research.48 hood | active |
+| [research.48.gem](../bbugyi200.athena.research.48.gem/README.md) | research.48 hood | completed |
+| [research.48.grk](../bbugyi200.athena.research.48.grk/README.md) | research.48 hood | completed |
 | [research.48.image](../bbugyi200.athena.research.48.image/README.md) | research.48 hood | waiting |
 | [research.48.linker](../bbugyi200.athena.research.48.linker/README.md) | research.48 hood | waiting |
 | [research.48.mus](../bbugyi200.athena.research.48.mus/README.md) | research.48 hood | completed |
