@@ -13,17 +13,23 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-09T16:29:55.196790+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`7fe88b7`](https://github.com/bobs-org/bob-cli/commit/7fe88b72f4d32df7e4bdf1af1a22a038cfd314a4) | feat(refs): add JSON scan report and writer lock to bob ref scan | 2026-10-09 12:50:42 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-5x.2](../../sessions/bbugyi200.athena.bob-cli-5x.2.md) (session · 2) | bob-cli-5x hood | active 2 |
+| [bob-cli-5x.2](../../sessions/bbugyi200.athena.bob-cli-5x.2.md) (session · 3) | bob-cli-5x hood | active 2, completed 1 |
 | [bob-cli-5x.3](../bbugyi200.athena.bob-cli-5x.3/README.md) | bob-cli-5x hood | waiting |
 | [bob-cli-5x.4](../bbugyi200.athena.bob-cli-5x.4/README.md) | bob-cli-5x hood | waiting |
 | [bob-cli-5x.land](../bbugyi200.athena.bob-cli-5x.land/README.md) | bob-cli-5x hood | waiting |

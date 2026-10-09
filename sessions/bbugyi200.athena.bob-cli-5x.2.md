@@ -2,22 +2,25 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-5x](../users/bbugyi200/machines/athena/hoods/bob-cli-5x/README.md) / bob-cli-5x.2
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-5x` · Members: 2 · Bead: [bob-cli-5x.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5x/bob-cli-5x.2.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-5x` · Members: 3 · Bead: [bob-cli-5x.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5x/bob-cli-5x.2.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-5x.2--plan [active]"]
-  n1["bob-cli-5x.2--mon [active]"]
+  n0["bob-cli-5x.2--plan [completed]"]
+  n1["bob-cli-5x.2--1 [active]"]
   n0 --> n1
+  n2["bob-cli-5x.2--mon [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-5x.2--plan | active | muse-spark-1.3-contributor / muse | 2026-10-09T16:29:36.495329+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5x.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-5x.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-5x.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-09T16:29:36.495329+00:00 → 2026-10-09T16:50:47.028320+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5x.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-5x.2--plan/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-5x.2--1 | active | muse-spark-1.3-contributor / muse | 20261009125052 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5x.2--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | bob-cli-5x.2--mon | active | muse-spark-1.3-contributor / muse | 2026-10-09T16:48:35.287329+00:00 | 0 | — | — |
 
 ## Neighbors

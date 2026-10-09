@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-da87a8d1f6b9f32ea4cc327dc0a712be"}
+{"commits":[{"committed_at":1791564642,"sha":"7fe88b72f4d32df7e4bdf1af1a22a038cfd314a4","subject":"feat(refs): add JSON scan report and writer lock to bob ref scan"}],"schema_version":2,"source_run_id":"run-da87a8d1f6b9f32ea4cc327dc0a712be"}
