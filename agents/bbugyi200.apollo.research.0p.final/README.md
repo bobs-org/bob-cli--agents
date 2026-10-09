@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-09T14:52:01.527326+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/unblocked\_successor\_links\_on\_close/unblocked\_successor\_links\_on\_close\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261009101746/… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/unblocked_successor_links_on_close/unblocked_successor_links_on_close__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261009101746/unblocked_successor_links_on_close__final-401175ecff52.md
+  ref: file:explicit:faca0a1829683326c1798d92
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/unblocked_successor_links_on_close/unblocked_successor_links_on_close__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
