@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["61--plan [completed]"]
   n0 --> n3
-  n4["61--1 [active]"]
+  n4["61--1 [completed]"]
   n0 --> n4
 ```
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | 61--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-09T16:27:20.611200+00:00 → 2026-10-09T16:30:19.461685+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.61--mon/chat.md) |
 | <a id="member-code"></a>code | 61--code | completed | muse-spark-1.3-contributor / muse | 2026-10-09T15:25:34.105884+00:00 → 2026-10-09T16:28:04.297928+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.61--code/chat.md) |
 | <a id="member-plan"></a>plan | 61--plan | completed | gpt-6-astra / codex | 2026-10-09T15:19:16.752936+00:00 → 2026-10-09T16:28:04.297928+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.61--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.61--plan/chat.md) |
-| <a id="member-1"></a>1 | 61--1 | active | muse-spark-1.3-contributor / muse | 2026-10-09T16:30:19.156925+00:00 | [1](../agents/bbugyi200.apollo.61--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.61--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 61--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-09T16:30:19.156925+00:00 → 2026-10-09T16:44:16.555716+00:00 | [1](../agents/bbugyi200.apollo.61--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.61--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.61--1/chat.md) |
 
 ## Commits
 
@@ -42,5 +42,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [61.f-0](../agents/bbugyi200.apollo.61.f-0/README.md) | descendant | completed |
 | [61.f-1](../agents/bbugyi200.apollo.61.f-1/README.md) | descendant | completed |
-| [61.w0](../agents/bbugyi200.apollo.61.w0/README.md) | descendant | waiting |
-| [61.w0.w0](../agents/bbugyi200.apollo.61.w0.w0/README.md) | descendant | waiting |
+| [61.w0](../agents/bbugyi200.apollo.61.w0/README.md) | descendant | active |
+| [61.w0.w0](../agents/bbugyi200.apollo.61.w0.w0/README.md) | descendant | active |
+| [61.w1](bbugyi200.apollo.61.w1.md) (session · 3) | descendant | active 2, failed 1 |
+| [61.w1.w0](../agents/bbugyi200.apollo.61.w1.w0/README.md) | descendant | active |
