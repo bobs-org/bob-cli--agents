@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-714d7c20e51490ccbce65fa4ed8b7da2"}
+{"commits":[{"committed_at":1791505086,"sha":"4c9cdbe583770f6fa487be18af6615f259e3bf01","subject":"feat(refs): expose Blocked as always-present boolean on ref rows"}],"schema_version":2,"source_run_id":"run-714d7c20e51490ccbce65fa4ed8b7da2"}
