@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-09T17:01:43.537472+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`5f845db`](https://github.com/bobs-org/bob-cli/commit/5f845dbb18e5c6b6fe91b669c9cbf96c37090f92) | docs(task-marks): specify the #task #ref open-book glyph and picker text | 2026-10-09 13:20:14 EDT |
 
 ## Neighbors
 
@@ -31,7 +37,7 @@
 | [bob-cli-5y.14](../bbugyi200.athena.bob-cli-5y.14/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.2](../bbugyi200.athena.bob-cli-5y.2/README.md) | bob-cli-5y hood | completed |
 | [bob-cli-5y.3](../bbugyi200.athena.bob-cli-5y.3/README.md) | bob-cli-5y hood | completed |
-| [bob-cli-5y.4](../bbugyi200.athena.bob-cli-5y.4/README.md) | bob-cli-5y hood | active |
+| [bob-cli-5y.4](../bbugyi200.athena.bob-cli-5y.4/README.md) | bob-cli-5y hood | completed |
 | [bob-cli-5y.5](../bbugyi200.athena.bob-cli-5y.5/README.md) | bob-cli-5y hood | failed |
 | [bob-cli-5y.7](../bbugyi200.athena.bob-cli-5y.7/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.8](../bbugyi200.athena.bob-cli-5y.8/README.md) | bob-cli-5y hood | waiting |
