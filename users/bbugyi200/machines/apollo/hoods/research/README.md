@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 224 · **Sessions:** 4 · **States:** active 156, completed 57, failed 8, waiting 3
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 224 · **Sessions:** 4 · **States:** active 155, completed 58, failed 8, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [research.cdx-3](../../../../../../agents/bbugyi200.apollo.research.cdx-3/README.md) | completed | — | 2026-06-03T16:42:41+00:00 → 2026-06-03T16:42:41+00:00 | 1 | — |
-| [research.0p.mus](../../../../../../agents/bbugyi200.apollo.research.0p.mus/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-09T14:18:21.772758+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.0p.mus/prompt.md) |
+| [research.0p.mus](../../../../../../agents/bbugyi200.apollo.research.0p.mus/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T14:18:21.772758+00:00 → 2026-10-09T14:22:19.091599+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.0p.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.0p.mus/chat.md) |
 | [research.u.grk](../../../../../../agents/bbugyi200.apollo.research.u.grk/README.md) | active | grok-4.6 / grok | 2026-09-30T19:09:04.410989+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.u.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.u.grk/chat.md) |
 | [research.u.linker](../../../../../../agents/bbugyi200.apollo.research.u.linker/README.md) | active | opus / claude | 2026-09-30T19:54:42.741800+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.u.linker/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.u.linker/chat.md) |
 | [research.07.image](../../../../../../agents/bbugyi200.apollo.research.07.image/README.md) | active | gpt-6-astra / codex | 2026-10-04T12:26:24.605154+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.07.image/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.07.image/chat.md) |
