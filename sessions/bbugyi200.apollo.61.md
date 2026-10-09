@@ -45,4 +45,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [61.w0](../agents/bbugyi200.apollo.61.w0/README.md) | descendant | active |
 | [61.w0.w0](../agents/bbugyi200.apollo.61.w0.w0/README.md) | descendant | active |
 | [61.w1](bbugyi200.apollo.61.w1.md) (session · 3) | descendant | active 2, failed 1 |
-| [61.w1.w0](../agents/bbugyi200.apollo.61.w1.w0/README.md) | descendant | active |
+| [61.w1.w0](bbugyi200.apollo.61.w1.w0.md) (session · 3) | descendant | failed 3 |

@@ -13,24 +13,30 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-09T16:35:50.734565+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`eb6fa0d`](https://github.com/bobs-org/bob-cli/commit/eb6fa0d712475f350d44aa757d8b3092b66611c6) | feat(task-complete): add successor planner and wire into !note:id unblocking | 2026-10-09 13:32:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5w.1](../bbugyi200.apollo.bob-cli-5w.1/README.md) | bob-cli-5w hood | completed |
-| [bob-cli-5w.10](../bbugyi200.apollo.bob-cli-5w.10/README.md) | bob-cli-5w hood | waiting |
+| [bob-cli-5w.10](../bbugyi200.apollo.bob-cli-5w.10/README.md) | bob-cli-5w hood | active |
 | [bob-cli-5w.11](../bbugyi200.apollo.bob-cli-5w.11/README.md) | bob-cli-5w hood | waiting |
 | [bob-cli-5w.2](../bbugyi200.apollo.bob-cli-5w.2/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.4](../bbugyi200.apollo.bob-cli-5w.4/README.md) | bob-cli-5w hood | waiting |
 | [bob-cli-5w.5](../bbugyi200.apollo.bob-cli-5w.5/README.md) | bob-cli-5w hood | waiting |
 | [bob-cli-5w.6](../bbugyi200.apollo.bob-cli-5w.6/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.7](../bbugyi200.apollo.bob-cli-5w.7/README.md) | bob-cli-5w hood | completed |
-| [bob-cli-5w.8](../bbugyi200.apollo.bob-cli-5w.8/README.md) | bob-cli-5w hood | active |
+| [bob-cli-5w.8](../bbugyi200.apollo.bob-cli-5w.8/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.9](../bbugyi200.apollo.bob-cli-5w.9/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.land](../bbugyi200.apollo.bob-cli-5w.land/README.md) | bob-cli-5w hood | waiting |

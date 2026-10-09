@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2d3b6554347488494404dfb80692225a"}
+{"commits":[{"committed_at":1791567155,"sha":"eb6fa0d712475f350d44aa757d8b3092b66611c6","subject":"feat(task-complete): add successor planner and wire into !note:id unblocking"}],"schema_version":2,"source_run_id":"run-2d3b6554347488494404dfb80692225a"}

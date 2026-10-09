@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-5w](../../users/bbugyi200/machines/apollo/hoods/bob-cli-5w/README.md) / bob-cli-5w.8
 
-**Global name:** `bbugyi200.apollo.bob-cli-5w.8` · **State:** active · **Source run:** `run-c0b5e3ac71f7fa0b75b27a5cec977631`
+**Global name:** `bbugyi200.apollo.bob-cli-5w.8` · **State:** completed · **Source run:** `run-c0b5e3ac71f7fa0b75b27a5cec977631`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-5w
 
@@ -12,19 +12,19 @@
 - Epic: [bob-cli-5w](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5w/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-09T16:51:35.040819+00:00
+- Timing: 2026-10-09T16:51:35.040819+00:00 → 2026-10-09T17:20:36.834424+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5w.1](../bbugyi200.apollo.bob-cli-5w.1/README.md) | bob-cli-5w hood | completed |
-| [bob-cli-5w.10](../bbugyi200.apollo.bob-cli-5w.10/README.md) | bob-cli-5w hood | waiting |
+| [bob-cli-5w.10](../bbugyi200.apollo.bob-cli-5w.10/README.md) | bob-cli-5w hood | active |
 | [bob-cli-5w.11](../bbugyi200.apollo.bob-cli-5w.11/README.md) | bob-cli-5w hood | waiting |
 | [bob-cli-5w.2](../bbugyi200.apollo.bob-cli-5w.2/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.3](../bbugyi200.apollo.bob-cli-5w.3/README.md) | bob-cli-5w hood | active |

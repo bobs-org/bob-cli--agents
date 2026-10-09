@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [61](../agents/bbugyi200.apollo.61/README.md) | ancestor | completed |
-| [61.w1.w0](../agents/bbugyi200.apollo.61.w1.w0/README.md) | descendant | active |
+| [61.w1.w0](bbugyi200.apollo.61.w1.w0.md) (session · 3) | descendant | failed 3 |
 | [61.f-0](../agents/bbugyi200.apollo.61.f-0/README.md) | 61 hood | completed |
 | [61.f-1](../agents/bbugyi200.apollo.61.f-1/README.md) | 61 hood | completed |
 | [61.w0](../agents/bbugyi200.apollo.61.w0/README.md) | 61 hood | active |
