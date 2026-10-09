@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-5s](../../users/bbugyi200/machines/apollo/hoods/bob-cli-5s/README.md) / bob-cli-5s.7
 
-**Global name:** `bbugyi200.apollo.bob-cli-5s.7` · **State:** waiting · **Source run:** `run-4dedaeae0e693ac2d24169704c4e0f10`
+**Global name:** `bbugyi200.apollo.bob-cli-5s.7` · **State:** active · **Source run:** `run-4dedaeae0e693ac2d24169704c4e0f10`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-5s
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-5s](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5s/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261008193307
+- Timing: 2026-10-09T09:47:56.570183+00:00
 - Commits: 0
 
 ## Files
@@ -27,8 +27,8 @@
 | [bob-cli-5s.2](../../sessions/bbugyi200.apollo.bob-cli-5s.2.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.3](../../sessions/bbugyi200.apollo.bob-cli-5s.3.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.4](../bbugyi200.apollo.bob-cli-5s.4/README.md) | bob-cli-5s hood | completed |
-| [bob-cli-5s.5](../../sessions/bbugyi200.apollo.bob-cli-5s.5.md) (session · 7) | bob-cli-5s hood | active 1, completed 3, failed 3 |
-| [bob-cli-5s.6](../bbugyi200.apollo.bob-cli-5s.6/README.md) | bob-cli-5s hood | waiting |
-| [bob-cli-5s.8](../bbugyi200.apollo.bob-cli-5s.8/README.md) | bob-cli-5s hood | waiting |
+| [bob-cli-5s.5](../../sessions/bbugyi200.apollo.bob-cli-5s.5.md) (session · 9) | bob-cli-5s hood | completed 5, failed 4 |
+| [bob-cli-5s.6](../bbugyi200.apollo.bob-cli-5s.6/README.md) | bob-cli-5s hood | completed |
+| [bob-cli-5s.8](../bbugyi200.apollo.bob-cli-5s.8/README.md) | bob-cli-5s hood | active |
 | [bob-cli-5s.9](../bbugyi200.apollo.bob-cli-5s.9/README.md) | bob-cli-5s hood | waiting |
 | [bob-cli-5s.land](../bbugyi200.apollo.bob-cli-5s.land/README.md) | bob-cli-5s hood | waiting |
