@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5e8f22e675ad0b6beb3a5e5482d08731"}
+{"commits":[{"committed_at":1791564569,"sha":"e0ba61b78306c8c98091555001a01c8502b75ef6","subject":"feat(parent-notes): shared parent resolver with project aliases for capture targets and highlights-ref create"}],"schema_version":2,"source_run_id":"run-5e8f22e675ad0b6beb3a5e5482d08731"}
