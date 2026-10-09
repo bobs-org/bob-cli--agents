@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0q.image
 
-**Global name:** `bbugyi200.apollo.research.0q.image` · **State:** waiting · **Source run:** `run-8596893d0a28bda03a281bc9cd9b8893`
+**Global name:** `bbugyi200.apollo.research.0q.image` · **State:** active · **Source run:** `run-8596893d0a28bda03a281bc9cd9b8893`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,36 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261009104555
+- Timing: 2026-10-09T15:34:54.856417+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: research:202610/ref\_tasks\_move\_into\_parent\_notes/ref\_tasks\_move\_into\_parent\_notes\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261009104555/r… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: research:202610/ref_tasks_move_into_parent_notes/ref_tasks_move_into_parent_notes_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261009104555/ref_tasks_move_into_parent_notes_infographic-48c4f8932cd2.png
+  ref: file:explicit:905a06a5b961ed0d95b36b87
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/ref_tasks_move_into_parent_notes/ref_tasks_move_into_parent_notes_infographic.png
+- kind: file
+  label: Reference-task infographic generation prompts
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261009104555/ref_tasks_move_into_parent_notes_infographic_prompts-0036cdbe2301.txt
+  ref: file:explicit:93aa1f50e782837e469f0aec
+  source_path: /home/bryan/.cache/sase/codex_home/202696-172e619a1d6947699cd013010aa69960/generated_images/01a1214e-1d58-7780-8152-c24fce53c477/ref_tasks_move_into_parent_notes_infographic_prompts.txt
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +47,7 @@
 |---|---|---|
 | [research.0q.cdx](../bbugyi200.apollo.research.0q.cdx/README.md) | research.0q hood | completed |
 | [research.0q.cld](../bbugyi200.apollo.research.0q.cld/README.md) | research.0q hood | completed |
-| [research.0q.final](../bbugyi200.apollo.research.0q.final/README.md) | research.0q hood | active |
+| [research.0q.final](../bbugyi200.apollo.research.0q.final/README.md) | research.0q hood | completed |
 | [research.0q.gem](../bbugyi200.apollo.research.0q.gem/README.md) | research.0q hood | completed |
 | [research.0q.grk](../bbugyi200.apollo.research.0q.grk/README.md) | research.0q hood | completed |
 | [research.0q.linker](../bbugyi200.apollo.research.0q.linker/README.md) | research.0q hood | waiting |
