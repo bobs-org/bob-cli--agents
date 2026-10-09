@@ -13,25 +13,31 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-09T16:33:28.270730+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e04c421`](https://github.com/bobs-org/bob-cli/commit/e04c42156c22ea8ed24091249176f3d124517b93) | feat(freshness): re-key ref review identity to the #ref tag with the lane split | 2026-10-09 12:57:31 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-5y.1](../bbugyi200.athena.bob-cli-5y.1/README.md) | bob-cli-5y hood | active |
+| [bob-cli-5y.1](../bbugyi200.athena.bob-cli-5y.1/README.md) | bob-cli-5y hood | completed |
 | [bob-cli-5y.10](../bbugyi200.athena.bob-cli-5y.10/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.11](../bbugyi200.athena.bob-cli-5y.11/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.12](../bbugyi200.athena.bob-cli-5y.12/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.13](../bbugyi200.athena.bob-cli-5y.13/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.14](../bbugyi200.athena.bob-cli-5y.14/README.md) | bob-cli-5y hood | waiting |
-| [bob-cli-5y.2](../bbugyi200.athena.bob-cli-5y.2/README.md) | bob-cli-5y hood | active |
-| [bob-cli-5y.4](../bbugyi200.athena.bob-cli-5y.4/README.md) | bob-cli-5y hood | waiting |
-| [bob-cli-5y.5](../bbugyi200.athena.bob-cli-5y.5/README.md) | bob-cli-5y hood | waiting |
+| [bob-cli-5y.2](../bbugyi200.athena.bob-cli-5y.2/README.md) | bob-cli-5y hood | completed |
+| [bob-cli-5y.4](../bbugyi200.athena.bob-cli-5y.4/README.md) | bob-cli-5y hood | active |
+| [bob-cli-5y.5](../bbugyi200.athena.bob-cli-5y.5/README.md) | bob-cli-5y hood | active |
 | [bob-cli-5y.6](../bbugyi200.athena.bob-cli-5y.6/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.7](../bbugyi200.athena.bob-cli-5y.7/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.8](../bbugyi200.athena.bob-cli-5y.8/README.md) | bob-cli-5y hood | waiting |
