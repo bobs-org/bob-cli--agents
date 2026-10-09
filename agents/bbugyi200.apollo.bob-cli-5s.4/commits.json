@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-faaa8333a81cc0755786f67778725a3e"}
+{"commits":[{"committed_at":1791523159,"sha":"a4c69ff8964d85d4340682af9e4a11d8253eb049","subject":"chore(build): record Swift build cache from RefsCore verification"}],"schema_version":2,"source_run_id":"run-faaa8333a81cc0755786f67778725a3e"}
