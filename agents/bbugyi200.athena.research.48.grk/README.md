@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.48.grk
 
-**Global name:** `bbugyi200.athena.research.48.grk` · **State:** completed · **Source run:** `run-e2bb17071dacfe974eb39f5e8ff72868`
+**Global name:** `bbugyi200.athena.research.48.grk` · **State:** active · **Source run:** `run-e2bb17071dacfe974eb39f5e8ff72868`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-09T20:03:15.797434+00:00 → 2026-10-09T20:19:48.519364+00:00
+- Timing: 2026-10-09T20:03:15.797434+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -40,14 +40,14 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.48.cdx](../bbugyi200.athena.research.48.cdx/README.md) | research.48 hood | completed |
-| [research.48.cld](../bbugyi200.athena.research.48.cld/README.md) | research.48 hood | completed |
-| [research.48.final](../bbugyi200.athena.research.48.final/README.md) | research.48 hood | completed |
-| [research.48.gem](../bbugyi200.athena.research.48.gem/README.md) | research.48 hood | completed |
-| [research.48.image](../bbugyi200.athena.research.48.image/README.md) | research.48 hood | completed |
+| [research.48.cdx](../bbugyi200.athena.research.48.cdx/README.md) | research.48 hood | active |
+| [research.48.cld](../bbugyi200.athena.research.48.cld/README.md) | research.48 hood | active |
+| [research.48.final](../bbugyi200.athena.research.48.final/README.md) | research.48 hood | active |
+| [research.48.gem](../bbugyi200.athena.research.48.gem/README.md) | research.48 hood | active |
+| [research.48.image](../bbugyi200.athena.research.48.image/README.md) | research.48 hood | active |
 | [research.48.linker](../bbugyi200.athena.research.48.linker/README.md) | research.48 hood | active |
-| [research.48.linker.w0](../bbugyi200.athena.research.48.linker.w0/README.md) | research.48 hood | waiting |
-| [research.48.mus](../bbugyi200.athena.research.48.mus/README.md) | research.48 hood | completed |
+| [research.48.linker.w0](../../sessions/bbugyi200.athena.research.48.linker.w0.md) (session · 3) | research.48 hood | failed 3 |
+| [research.48.mus](../bbugyi200.athena.research.48.mus/README.md) | research.48 hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
