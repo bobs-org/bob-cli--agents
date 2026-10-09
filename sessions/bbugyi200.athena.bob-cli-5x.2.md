@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-5x.2--plan [completed]"]
   n1["bob-cli-5x.2--1 [active]"]
   n0 --> n1
-  n2["bob-cli-5x.2--mon [active]"]
+  n2["bob-cli-5x.2--mon [failed]"]
   n0 --> n2
 ```
 
@@ -20,14 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-5x.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-09T16:29:36.495329+00:00 → 2026-10-09T16:50:47.028320+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5x.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-5x.2--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-5x.2--1 | active | muse-spark-1.3-contributor / muse | 20261009125052 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5x.2--1/prompt.md) | — |
-| <a id="member-mon"></a>mon | bob-cli-5x.2--mon | active | muse-spark-1.3-contributor / muse | 2026-10-09T16:48:35.287329+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | bob-cli-5x.2--1 | active | muse-spark-1.3-contributor / muse | 2026-10-09T16:55:49.780731+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5x.2--1/prompt.md) | — |
+| <a id="member-mon"></a>mon | bob-cli-5x.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-09T16:48:35.287329+00:00 → 2026-10-09T16:51:52.927787+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-5x.2--mon/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-5x.1](../agents/bbugyi200.athena.bob-cli-5x.1/README.md) | bob-cli-5x hood | active |
+| [bob-cli-5x.1](../agents/bbugyi200.athena.bob-cli-5x.1/README.md) | bob-cli-5x hood | completed |
 | [bob-cli-5x.3](../agents/bbugyi200.athena.bob-cli-5x.3/README.md) | bob-cli-5x hood | waiting |
 | [bob-cli-5x.4](../agents/bbugyi200.athena.bob-cli-5x.4/README.md) | bob-cli-5x hood | waiting |
 | [bob-cli-5x.land](../agents/bbugyi200.athena.bob-cli-5x.land/README.md) | bob-cli-5x hood | waiting |
