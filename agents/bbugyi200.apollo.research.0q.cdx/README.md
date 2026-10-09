@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-09T14:46:18.448374+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/parent\_owned\_reference\_tasks\_identity\_capture\_migration\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261009104545/parent\_owned\_ref… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/parent_owned_reference_tasks_identity_capture_migration__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261009104545/parent_owned_reference_tasks_identity_capture_migration__cdx-3cb7023fa6c6.md
+  ref: file:explicit:bc1b49b8f84e6c524bce058f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/parent_owned_reference_tasks_identity_capture_migration__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,8 +42,8 @@
 |---|---|---|
 | [research.0q.cld](../bbugyi200.apollo.research.0q.cld/README.md) | research.0q hood | active |
 | [research.0q.final](../bbugyi200.apollo.research.0q.final/README.md) | research.0q hood | waiting |
-| [research.0q.gem](../bbugyi200.apollo.research.0q.gem/README.md) | research.0q hood | active |
-| [research.0q.grk](../bbugyi200.apollo.research.0q.grk/README.md) | research.0q hood | active |
+| [research.0q.gem](../bbugyi200.apollo.research.0q.gem/README.md) | research.0q hood | completed |
+| [research.0q.grk](../bbugyi200.apollo.research.0q.grk/README.md) | research.0q hood | completed |
 | [research.0q.image](../bbugyi200.apollo.research.0q.image/README.md) | research.0q hood | waiting |
 | [research.0q.linker](../bbugyi200.apollo.research.0q.linker/README.md) | research.0q hood | waiting |
 | [research.0q.mus](../bbugyi200.apollo.research.0q.mus/README.md) | research.0q hood | completed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0q.grk
 
-**Global name:** `bbugyi200.apollo.research.0q.grk` · **State:** active · **Source run:** `run-eac78e60c76126fb12f9f2de8efba57e`
+**Global name:** `bbugyi200.apollo.research.0q.grk` · **State:** completed · **Source run:** `run-eac78e60c76126fb12f9f2de8efba57e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-09T14:46:28.942912+00:00
+- Timing: 2026-10-09T14:46:28.942912+00:00 → 2026-10-09T15:04:48.794410+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -43,7 +43,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0q.cdx](../bbugyi200.apollo.research.0q.cdx/README.md) | research.0q hood | active |
 | [research.0q.cld](../bbugyi200.apollo.research.0q.cld/README.md) | research.0q hood | active |
 | [research.0q.final](../bbugyi200.apollo.research.0q.final/README.md) | research.0q hood | waiting |
-| [research.0q.gem](../bbugyi200.apollo.research.0q.gem/README.md) | research.0q hood | active |
+| [research.0q.gem](../bbugyi200.apollo.research.0q.gem/README.md) | research.0q hood | completed |
 | [research.0q.image](../bbugyi200.apollo.research.0q.image/README.md) | research.0q hood | waiting |
 | [research.0q.linker](../bbugyi200.apollo.research.0q.linker/README.md) | research.0q hood | waiting |
 | [research.0q.mus](../bbugyi200.apollo.research.0q.mus/README.md) | research.0q hood | completed |
