@@ -30,13 +30,14 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5w.10](../bbugyi200.apollo.bob-cli-5w.10/README.md) | bob-cli-5w hood | completed |
-| [bob-cli-5w.11](../bbugyi200.apollo.bob-cli-5w.11/README.md) | bob-cli-5w hood | waiting |
+| [bob-cli-5w.11](../bbugyi200.apollo.bob-cli-5w.11/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.2](../bbugyi200.apollo.bob-cli-5w.2/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.3](../bbugyi200.apollo.bob-cli-5w.3/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.4](../bbugyi200.apollo.bob-cli-5w.4/README.md) | bob-cli-5w hood | completed |
-| [bob-cli-5w.5](../bbugyi200.apollo.bob-cli-5w.5/README.md) | bob-cli-5w hood | active |
+| [bob-cli-5w.5](../../sessions/bbugyi200.apollo.bob-cli-5w.5.md) (session · 3) | bob-cli-5w hood | completed 2, failed 1 |
 | [bob-cli-5w.6](../bbugyi200.apollo.bob-cli-5w.6/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.7](../bbugyi200.apollo.bob-cli-5w.7/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.8](../bbugyi200.apollo.bob-cli-5w.8/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.9](../bbugyi200.apollo.bob-cli-5w.9/README.md) | bob-cli-5w hood | completed |
+| [bob-cli-5w.land](../../sessions/bbugyi200.apollo.bob-cli-5w.land.md) (session · 3) | bob-cli-5w hood | active 2, failed 1 |
 | [bob-cli-5w.land](../bbugyi200.apollo.bob-cli-5w.land/README.md) | bob-cli-5w hood | waiting |
