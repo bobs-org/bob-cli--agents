@@ -1,0 +1,197 @@
+# Chat History - ace-run (research.0p.linker)
+
+- **TIMESTAMP:** 2026-10-09 11:24:44 EDT
+- **MODEL:** claude/opus
+- **AGENT:** research.0p.linker
+- **PROMPT:** `~/.sase/multi_prompts/202610/gh_bobs_org__bob_cli-multiprompt-261009_101739.md`
+
+## Prompt
+
+%id(linker, clan=research.0p) %m:@xlarge
+%wait:research.0p.final %wait:research.0p.image %q(1.5x, w=0.25)
+#gh:gh_bobs-org__bob-cli 
+You are the linker agent for a research swarm. The lead researcher,
+`research.0p.final`, has written a consolidated report on the request below. Your job
+is to publish that report as the canonical `<name>.md`: the file readers open, and the
+one SASE renders into a Highlights PDF. You are an editor, not a researcher. The new
+file must carry exactly the lead's meaning and intent. Do not do research of your own:
+add no new claims or sources, settle no open questions, and neither soften nor
+strengthen the conclusions or the recommendation. If the lead seems wrong, leave it as
+written. The only prose you write yourself is the short research-query summary of the
+request that opens the file (step 3).
+
+SASE derives your plan's links from the artifacts you read this turn; use
+`sase artifact read` for context you actually used.
+
+Research request (context only; do not research it, but summarize it as the file's
+research query in step 3):
+
+I
+would like to start automatically creating task links for tasks that depend on tasks
+that we close in the current daily file.
+
+- We should support this behavior when a task link's task is closed via the
+  `<ctrl+enter>` keymap in Obsidian or via the `bob capture` command's `=x!` / `=!`
+  syntax.
+- We should display a good toast to the user in Obsidian or via the bob-mac-capture app
+  (depending on how the task was closed) to let the user know which new task links were
+  added and why.
+- These task links should be added to the same pomodoro that the closed task was in or
+  the newly created pomodoro if the entire pomodoro that the old task was in was closed.
+- It is important that we are able to perform this operation quickly so this doesn't
+  effect performance too much. The bob-mac-capture app, in particular, needs to remain
+  blazing fast.
+- I want you to lead the design on this one. Make sure you design this feature so it is intuitive, reliable, and (last but not least) beautiful!
+
+Can you do some research with the goal of helping me decide the best way to implement
+this? Also, critique this plan in general. Is this a good idea? Would you take a
+different approach? Make any adjustments to the requirements that you think are
+justified but clearly call these out. End your analysis with a recommended solution.
+
+The lead researcher's registered report:
+
+{% for a in wait.artifacts if a.kind == "markdown" and a.label and a.label.startswith("research:") %}
+- wait_name={{ a.wait_name }} label={{ a.label }} source_path={{ a.source_path }} path={{ a.path }} ref={{ a.ref }}
+{% endfor %}
+
+The image agent's registered images:
+
+{% for a in wait.artifacts if a.kind == "image" %}
+- wait_name={{ a.wait_name }} label={{ a.label }} vcs_relpath={{ a.vcs_relpath }} path={{ a.path }} ref={{ a.ref }}
+{% endfor %}
+
+
+Steps:
+
+1. **Identify the source.** From the registered reports above, find exactly one entry
+   with `wait_name` `research.0p.final` whose label has the form
+   `research:<YYYYMM>/<name>/<name>__final.md`. If there is not exactly one such entry,
+   stop and report the missing or ambiguous input instead of guessing. Open the research
+   repo with `/sase_repo`, then read the report through its canonical research reference
+   (or the `ref` field's `file:<id>` reference if the original has moved) using
+   `sase artifact read`. Take `<YYYYMM>/<name>/` from the label, never from the current
+   date. Do not read predecessor chat transcripts. Never modify, move, or delete
+   `<name>__final.md` or the drafts.
+
+2. **Inventory what must survive.** Before writing, list every finding, recommendation,
+   caveat, open question, confidence statement, number, date, version, code block,
+   table, and link in the lead's report.
+3. **Restructure** the lead's report into a well-thought-out organization:
+   - Keep the frontmatter, updating `updated_time` if present.
+   - **Open the file in this exact order**, with nothing else between these parts: the frontmatter (if any), one `#` title, the research query, the infographic, and then the bottom-line section.
+   - **Research query.** Directly below the title, add one blockquote that summarizes
+     the research request above in one to three sentences, for example
+     `> **Research query:** <summary>`. Phrase it as the question or task being
+     answered, in the requester's own terms: keep the questions, named subjects, and
+     explicit scope or constraints; drop instructions aimed at agents, such as output
+     paths, macro or directive syntax, and formatting requests. Summarize what was
+     asked, not material the request quotes or attaches. Use a request that is already
+     one short sentence verbatim. Never fold findings, answers, or scope the request
+     does not state into it. It is not a heading, so it gets no section number and no
+     TOC entry.
+   - **Embed the infographic** exactly once, directly above the bottom-line section:
+     after the research query and before that section's `##` heading, never further
+     down. Use a relative link with descriptive alt text, for example
+     `![<alt text>](<name>_infographic.png)`. Locate it by the
+     `<name>_infographic.png` convention or the image entries above. Embed only a file
+     you have confirmed exists beside the report in your research checkout. If the
+     image agent completed without producing one, publish without it (the research query then sits directly above the bottom-line section) and say so in the final
+     response.
+   - **Bottom-line section.** The first `##` section is `## Bottom line` (or
+     `## Overview` when the report surveys options rather than giving one answer) and
+     gives the answer first.
+   - Below it, `##` and `###` sections ordered by the questions a reader will ask, with
+     duplicated passages merged.
+   - **Never number headings.** The PDF renderer runs pandoc with `--number-sections`,
+     so hand-numbered headings render doubly numbered.
+   - **No table of contents and no block of jump links.** The PDF already gets a TOC.
+   - Keep the lead's wording where it works. Never drop a claim, caveat, or source to
+     save space. If the lead's report restates the question or lists its inputs, keep
+     those details in a later section; the research query summarizes the request but
+     does not replace them.
+4. **Validate every link carried over.**
+   - Relative links resolve from `<YYYYMM>/<name>/`, and in-document anchors resolve
+     against the final headings. Both are hard requirements.
+   - Check external URLs with `curl -fsSL -o /dev/null --max-time 20 <url>`, retrying
+     a transient failure once. Treat 401, 403, 429, and timeouts as _unverified_ and
+     keep those links.
+   - Verify repository-file links through a `/sase_repo` checkout, not by fetching
+     github.com.
+   - Repair a link only when the right target is certain: a followed redirect, a moved
+     file, an obvious typo, or a renamed heading. For an unrepairable link, keep its
+     text, drop the dead URL, and list it in the final response. **Never search for a
+     replacement source.**
+
+5. **Add in-document links** so readers can jump between parts of the file. Add them
+   inline and sparingly: from summary points to the sections that back them, from "see
+   above" or "see below" phrases, and from mentions of a named option, phase, or
+   finding to where it is discussed. Do not link every mention.
+   - Every heading used as a link target must start with a letter, contain only
+     letters, digits, spaces, and hyphens, and be unique. Its anchor is then the
+     lowercased heading with spaces replaced by hyphens, for example
+     `[the bottom line](#bottom-line)`. pandoc (the PDF) and GitHub then agree.
+   - Move emoji, version numbers, and code out of such headings, into the section's
+     first line.
+   - When `pandoc` is available, confirm anchors with `pandoc <file> -t html`.
+
+6. **Re-check against the step-2 inventory** and restore anything missing or changed.
+   Every URL in `<name>__final.md` must appear in the new file unless it was listed as
+   unrepairable. Then confirm the file opens in the step-3 order: title, research query, infographic, bottom-line section.
+
+7. **Write** `<YYYYMM>/<name>/<name>.md` without overwrite. On a collision, stop and
+   report it.
+
+8. **Register** it as a durable snapshot:
+
+   sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"
+
+   Use the report's actual absolute path and its path relative to the research repo
+   root, for example `research:202609/<name>/<name>.md`. Use no `--move`. If
+   registration fails, report it and do not claim full completion.
+
+Final layout:
+
+```text
+<month-dir>/<name>/
+├── <name>__cdx.md
+├── <name>__cld.md
+├── <name>__grk.md
+├── <name>__mus.md
+├── <name>__gem.md
+├── <name>__final.md
+├── <name>_infographic.png
+└── <name>.md
+```
+
+## Response
+
+I've read the lead's report. Next I'll inventory its contents, then restructure it into the canonical file.
+
+I'll draft the restructured report in a scratch file, validate it, and then copy it into place without overwriting.
+
+The research query runs five sentences, over the three-sentence limit. I'll tighten it, then check every anchor with pandoc.
+
+The anchor exists; pandoc had only wrapped the line. Re-checking with wrapping disabled, then running the inventory comparison against the lead's file:
+
+Written. Next I'll register it as a durable artifact.
+
+Registration succeeded. Now the final declaration.
+
+I've published the canonical report at `202610/unblocked_successor_links_on_close/unblocked_successor_links_on_close.md` in the research repo and registered it. The final commit declaration was accepted, and the commit happens after this turn ends.
+
+**Source.** There was exactly one `research.0p.final` entry. I read it with `sase artifact read`, and I did not modify the lead's file or the drafts.
+
+**Layout.**
+- **Opening:** title, a three-sentence research query, the infographic, then `## Bottom line`. The infographic is `unblocked_successor_links_on_close_infographic.png`; I confirmed it sits beside the report and viewed it to write the alt text.
+- **Order of sections:** Bottom line → Is this a good idea (including where the literal request goes wrong) → Requirement adjustments A1–A10 → What exists today → Design (vocabulary, rule, placement examples, status, JSON contract, feedback, performance, reliability, undo, conformance vectors SL1–22) → Disagreements between the reports → Alternatives → Implementation plan → Risks → Open questions → Recommended solution → About this report.
+- **Recommended solution stays last** among the analysis sections, as the request asked. The lead's header material moved into "About this report": date, the five-report consolidation, the commit baselines, the apollo-only measurement caveat, the restated request and the evidence index.
+- **Headings:** none are numbered, and there's no table of contents. Text that headings used to carry in parentheses now opens the section instead, for example "Lead-measured on apollo with `bob capture -d -n -f json`, 7 runs after warm-up."
+
+**Links.**
+- **No external links to check:** the lead's report has no external URLs and no Markdown links, so nothing was dead or unrepairable.
+- **Section pointers:** the lead's 13 `§N` references to its own sections became anchor links, and I added three more ("see Performance design", "see Feedback design", "in full under Recommended solution"). All 16 anchors resolve in `pandoc -t html`, and every heading used as a target is unique and uses only letters, digits, spaces and hyphens.
+- **Left as plain text:** the references to `task-dependencies.md` §3 and §5 point to another document.
+
+**Fidelity check.** Against the lead's file, all code spans, all 7 code blocks and every table row are present. The only text differences are the replaced `§` pointers and the added "see" links. No findings, caveats, numbers, open questions or conclusions were changed.
+
+**Registered as:** `research:202610/unblocked_successor_links_on_close/unblocked_successor_links_on_close.md`, ref `file:explicit:a94fc5dbbf8453279de96b12`.

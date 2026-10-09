@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-09T15:17:21.574434+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/ref\_tasks\_move\_into\_parent\_notes/ref\_tasks\_move\_into\_parent\_notes\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261009104554/ref\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/ref_tasks_move_into_parent_notes/ref_tasks_move_into_parent_notes__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261009104554/ref_tasks_move_into_parent_notes__final-58dc692492fe.md
+  ref: file:explicit:5a6105a3e5f6766a90898595
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/ref_tasks_move_into_parent_notes/ref_tasks_move_into_parent_notes__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
