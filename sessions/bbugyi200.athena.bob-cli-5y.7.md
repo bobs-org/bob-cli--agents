@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-5y.7--code | active | muse-spark-1.3-contributor / muse | 2026-10-09T19:06:48.691947+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-5y.7--code | active | muse-spark-1.3-contributor / muse | 2026-10-09T19:06:48.691947+00:00 | [1](../agents/bbugyi200.athena.bob-cli-5y.7--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-5y.7--gate | failed | gpt-6.1-sol / codex | 2026-10-09T19:05:15.589787+00:00 → 2026-10-09T19:06:41.194554+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-5y.7--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-5y.7--plan | active | gpt-6.1-sol / codex | 2026-10-09T18:57:51.211329+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5y.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-5y.7--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`4016229`](https://github.com/bobs-org/bob-cli/commit/40162297a54caf743a177d85266a41e8bfe1a838) | feat(ref-tasks): add shared v2 reading-task rendering and guarded insertion | 2026-10-09 15:19:22 EDT |
 
 ## Neighbors
 
