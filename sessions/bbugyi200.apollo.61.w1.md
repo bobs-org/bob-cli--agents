@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 61.w1--plan | active | opus / claude | 2026-10-09T16:49:21.650425+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.61.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.61.w1--plan/chat.md) |
 | <a id="member-gate"></a>gate | 61.w1--gate | failed | opus / claude | 2026-10-09T17:04:17.693483+00:00 → 2026-10-09T17:04:33.234510+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.61.w1--gate/chat.md) |
-| <a id="member-code"></a>code | 61.w1--code | active | muse-spark-1.3-contributor / muse | 2026-10-09T17:04:47.631390+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 61.w1--code | active | muse-spark-1.3-contributor / muse | 2026-10-09T17:04:47.631390+00:00 | [1](../agents/bbugyi200.apollo.61.w1--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`5601235`](https://github.com/bobs-org/bob-cli/commit/56012352f4cdec6e00e4c163b6c953c69ae4f62b) | feat(capture): report task\_link\_count in capture-pomodoros JSON output | 2026-10-09 13:34:03 EDT |
 
 ## Neighbors
 

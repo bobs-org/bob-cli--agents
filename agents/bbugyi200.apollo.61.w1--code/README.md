@@ -11,7 +11,13 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-09T17:04:47.631390+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`5601235`](https://github.com/bobs-org/bob-cli/commit/56012352f4cdec6e00e4c163b6c953c69ae4f62b) | feat(capture): report task\_link\_count in capture-pomodoros JSON output | 2026-10-09 13:34:03 EDT |
 
 ## Neighbors
 

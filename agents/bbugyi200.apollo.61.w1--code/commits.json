@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f8429fda0edca41337f16e7c43c85863"}
+{"commits":[{"committed_at":1791567243,"sha":"56012352f4cdec6e00e4c163b6c953c69ae4f62b","subject":"feat(capture): report task_link_count in capture-pomodoros JSON output"}],"schema_version":2,"source_run_id":"run-f8429fda0edca41337f16e7c43c85863"}
