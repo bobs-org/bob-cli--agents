@@ -1,8 +1,8 @@
-# Agent: 61--code
+# Agent: 61--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [61](../../users/bbugyi200/machines/apollo/hoods/61/README.md) / [61](../../sessions/bbugyi200.apollo.61.md) / 61--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [61](../../users/bbugyi200/machines/apollo/hoods/61/README.md) / [61](../../sessions/bbugyi200.apollo.61.md) / 61--mon
 
-**Global name:** `bbugyi200.apollo.61--code` · **State:** completed · **Source run:** `run-9adccebc1f05431be3e8b9cda9ef2490`
+**Global name:** `bbugyi200.apollo.61--mon` · **State:** failed · **Source run:** `run-8da8b0ab93b0bfb064f75a6f8cd99fec`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 61
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-09T15:25:34.105884+00:00 → 2026-10-09T16:28:04.297928+00:00
+- Timing: 2026-10-09T16:27:20.611200+00:00 → 2026-10-09T16:30:19.461685+00:00
 - Commits: 0
 
 ## Files
