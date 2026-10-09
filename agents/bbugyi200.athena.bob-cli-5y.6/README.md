@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-5y](../../users/bbugyi200/machines/athena/hoods/bob-cli-5y/README.md) / bob-cli-5y.6
 
-**Global name:** `bbugyi200.athena.bob-cli-5y.6` · **State:** active · **Source run:** `run-7b01031000d91563629990195d81f04f`
+**Global name:** `bbugyi200.athena.bob-cli-5y.6` · **State:** completed · **Source run:** `run-7b01031000d91563629990195d81f04f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-5y
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-5y](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5y/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-09T17:01:43.537472+00:00
+- Timing: 2026-10-09T17:01:43.537472+00:00 → 2026-10-09T17:28:56.345493+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -38,8 +38,8 @@
 | [bob-cli-5y.2](../bbugyi200.athena.bob-cli-5y.2/README.md) | bob-cli-5y hood | completed |
 | [bob-cli-5y.3](../bbugyi200.athena.bob-cli-5y.3/README.md) | bob-cli-5y hood | completed |
 | [bob-cli-5y.4](../bbugyi200.athena.bob-cli-5y.4/README.md) | bob-cli-5y hood | completed |
-| [bob-cli-5y.5](../bbugyi200.athena.bob-cli-5y.5/README.md) | bob-cli-5y hood | failed |
-| [bob-cli-5y.7](../bbugyi200.athena.bob-cli-5y.7/README.md) | bob-cli-5y hood | waiting |
-| [bob-cli-5y.8](../bbugyi200.athena.bob-cli-5y.8/README.md) | bob-cli-5y hood | waiting |
+| [bob-cli-5y.5](../bbugyi200.athena.bob-cli-5y.5/README.md) | bob-cli-5y hood | active |
+| [bob-cli-5y.7](../../sessions/bbugyi200.athena.bob-cli-5y.7.md) (session · 3) | bob-cli-5y hood | active 2, failed 1 |
+| [bob-cli-5y.8](../bbugyi200.athena.bob-cli-5y.8/README.md) | bob-cli-5y hood | active |
 | [bob-cli-5y.9](../bbugyi200.athena.bob-cli-5y.9/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.land](../bbugyi200.athena.bob-cli-5y.land/README.md) | bob-cli-5y hood | waiting |
