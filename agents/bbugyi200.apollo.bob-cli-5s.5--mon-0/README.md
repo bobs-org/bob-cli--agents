@@ -1,23 +1,22 @@
-# Agent: bob-cli-5s.9
+# Agent: bob-cli-5s.5--mon-0
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-5s](../../users/bbugyi200/machines/apollo/hoods/bob-cli-5s/README.md) / bob-cli-5s.9
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-5s](../../users/bbugyi200/machines/apollo/hoods/bob-cli-5s/README.md) / [bob-cli-5s.5](../../sessions/bbugyi200.apollo.bob-cli-5s.5.md) / bob-cli-5s.5--mon-0
 
-**Global name:** `bbugyi200.apollo.bob-cli-5s.9` · **State:** waiting · **Source run:** `run-5aa7320d872359b575e54decb64b9ca0`
+**Global name:** `bbugyi200.apollo.bob-cli-5s.5--mon-0` · **State:** failed · **Source run:** `run-984c75ded8980c6c5d23a1b51870b47f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-5s
 
 ## Summary
 
-- Bead: [bob-cli-5s.9](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5s/bob-cli-5s.9.md)
-- Epic: [bob-cli-5s](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5s/README.md)
+- Bead: [bob-cli-5s.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5s/bob-cli-5s.5.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261008193309
+- Timing: 2026-10-09T06:07:00.852279+00:00 → 2026-10-09T06:44:09.766984+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -27,8 +26,8 @@
 | [bob-cli-5s.2](../../sessions/bbugyi200.apollo.bob-cli-5s.2.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.3](../../sessions/bbugyi200.apollo.bob-cli-5s.3.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.4](../bbugyi200.apollo.bob-cli-5s.4/README.md) | bob-cli-5s hood | completed |
-| [bob-cli-5s.5](../../sessions/bbugyi200.apollo.bob-cli-5s.5.md) (session · 5) | bob-cli-5s hood | active 1, completed 2, failed 2 |
 | [bob-cli-5s.6](../bbugyi200.apollo.bob-cli-5s.6/README.md) | bob-cli-5s hood | waiting |
 | [bob-cli-5s.7](../bbugyi200.apollo.bob-cli-5s.7/README.md) | bob-cli-5s hood | waiting |
 | [bob-cli-5s.8](../bbugyi200.apollo.bob-cli-5s.8/README.md) | bob-cli-5s hood | waiting |
+| [bob-cli-5s.9](../bbugyi200.apollo.bob-cli-5s.9/README.md) | bob-cli-5s hood | waiting |
 | [bob-cli-5s.land](../bbugyi200.apollo.bob-cli-5s.land/README.md) | bob-cli-5s hood | waiting |
