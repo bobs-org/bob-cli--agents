@@ -13,14 +13,20 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-09T23:18:20.290934+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8905153`](https://github.com/bobs-org/bob-cli/commit/89051533fbf1820e8aa89c6355cac883d6621ded) | feat(ref): add bob ref migrate-tasks dry-run-first migration | 2026-10-09 19:55:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5y.1](../bbugyi200.athena.bob-cli-5y.1/README.md) | bob-cli-5y hood | completed |
-| [bob-cli-5y.10](../bbugyi200.athena.bob-cli-5y.10/README.md) | bob-cli-5y hood | waiting |
+| [bob-cli-5y.10](../../sessions/bbugyi200.athena.bob-cli-5y.10.md) (session · 3) | bob-cli-5y hood | active 2, failed 1 |
 | [bob-cli-5y.12](../bbugyi200.athena.bob-cli-5y.12/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.13](../bbugyi200.athena.bob-cli-5y.13/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.14](../bbugyi200.athena.bob-cli-5y.14/README.md) | bob-cli-5y hood | waiting |
@@ -31,5 +37,5 @@
 | [bob-cli-5y.6](../bbugyi200.athena.bob-cli-5y.6/README.md) | bob-cli-5y hood | completed |
 | [bob-cli-5y.7](../../sessions/bbugyi200.athena.bob-cli-5y.7.md) (session · 3) | bob-cli-5y hood | completed 2, failed 1 |
 | [bob-cli-5y.8](../bbugyi200.athena.bob-cli-5y.8/README.md) | bob-cli-5y hood | completed |
-| [bob-cli-5y.9](../bbugyi200.athena.bob-cli-5y.9/README.md) | bob-cli-5y hood | active |
+| [bob-cli-5y.9](../bbugyi200.athena.bob-cli-5y.9/README.md) | bob-cli-5y hood | completed |
 | [bob-cli-5y.land](../bbugyi200.athena.bob-cli-5y.land/README.md) | bob-cli-5y hood | waiting |

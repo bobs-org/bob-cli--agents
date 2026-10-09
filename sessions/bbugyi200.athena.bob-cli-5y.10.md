@@ -1,17 +1,17 @@
-# Session: bob-cli-5y.11
+# Session: bob-cli-5y.10
 
-[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-5y](../users/bbugyi200/machines/athena/hoods/bob-cli-5y/README.md) / bob-cli-5y.11
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-5y](../users/bbugyi200/machines/athena/hoods/bob-cli-5y/README.md) / bob-cli-5y.10
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-5y` · Members: 3 · Bead: [bob-cli-5y.11](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5y/bob-cli-5y.11.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-5y` · Members: 3 · Bead: [bob-cli-5y.10](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5y/bob-cli-5y.10.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-5y.11--gate [failed]"]
-  n1["bob-cli-5y.11--code [active]"]
+  n0["bob-cli-5y.10--plan [active]"]
+  n1["bob-cli-5y.10--gate [failed]"]
   n0 --> n1
-  n2["bob-cli-5y.11--plan [active]"]
+  n2["bob-cli-5y.10--code [active]"]
   n0 --> n2
 ```
 
@@ -19,22 +19,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | bob-cli-5y.11--gate | failed | grok-4.7 / grok | 2026-10-09T23:17:06.349641+00:00 → 2026-10-09T23:18:03.981957+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-5y.11--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-5y.11--code | active | muse-spark-1.3-contributor / muse | 2026-10-09T23:18:20.290934+00:00 | [1](../agents/bbugyi200.athena.bob-cli-5y.11--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | bob-cli-5y.11--plan | active | grok-4.7 / grok | 2026-10-09T23:08:47.080764+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5y.11--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-5y.11--plan/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | bob-cli | [`8905153`](https://github.com/bobs-org/bob-cli/commit/89051533fbf1820e8aa89c6355cac883d6621ded) | feat(ref): add bob ref migrate-tasks dry-run-first migration | 2026-10-09 19:55:18 EDT |
+| <a id="member-plan"></a>plan | bob-cli-5y.10--plan | active | gpt-6.1-sol / codex | 2026-10-09T23:49:29.387982+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5y.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-5y.10--plan/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-5y.10--gate | failed | gpt-6.1-sol / codex | 2026-10-09T23:53:32.302018+00:00 → 2026-10-09T23:54:16.788407+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-5y.10--gate/chat.md) |
+| <a id="member-code"></a>code | bob-cli-5y.10--code | active | muse-spark-1.3-contributor / muse | 2026-10-09T23:54:24.161076+00:00 | 0 | — | — |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5y.1](../agents/bbugyi200.athena.bob-cli-5y.1/README.md) | bob-cli-5y hood | completed |
-| [bob-cli-5y.10](bbugyi200.athena.bob-cli-5y.10.md) (session · 3) | bob-cli-5y hood | active 2, failed 1 |
+| [bob-cli-5y.11](bbugyi200.athena.bob-cli-5y.11.md) (session · 3) | bob-cli-5y hood | active 2, failed 1 |
 | [bob-cli-5y.12](../agents/bbugyi200.athena.bob-cli-5y.12/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.13](../agents/bbugyi200.athena.bob-cli-5y.13/README.md) | bob-cli-5y hood | waiting |
 | [bob-cli-5y.14](../agents/bbugyi200.athena.bob-cli-5y.14/README.md) | bob-cli-5y hood | waiting |
