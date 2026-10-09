@@ -32,6 +32,6 @@
 | [bob-cli-5z.1](../bbugyi200.apollo.bob-cli-5z.1/README.md) | bob-cli-5z hood | completed |
 | [bob-cli-5z.3](../bbugyi200.apollo.bob-cli-5z.3/README.md) | bob-cli-5z hood | completed |
 | [bob-cli-5z.4](../bbugyi200.apollo.bob-cli-5z.4/README.md) | bob-cli-5z hood | completed |
-| [bob-cli-5z.5](../bbugyi200.apollo.bob-cli-5z.5/README.md) | bob-cli-5z hood | active |
-| [bob-cli-5z.6](../bbugyi200.apollo.bob-cli-5z.6/README.md) | bob-cli-5z hood | waiting |
+| [bob-cli-5z.5](../bbugyi200.apollo.bob-cli-5z.5/README.md) | bob-cli-5z hood | completed |
+| [bob-cli-5z.6](../bbugyi200.apollo.bob-cli-5z.6/README.md) | bob-cli-5z hood | active |
 | [bob-cli-5z.land](../bbugyi200.apollo.bob-cli-5z.land/README.md) | bob-cli-5z hood | waiting |
