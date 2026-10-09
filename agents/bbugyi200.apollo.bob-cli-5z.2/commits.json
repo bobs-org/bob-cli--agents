@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e1d1f23286ae99a24151403195238f61"}
+{"commits":[{"committed_at":1791569702,"sha":"36df8b8afed540db39962472d83a153e5c3dbfb9","subject":"feat(capture): execute == restarts with idle fallback and override JSON contract"}],"schema_version":2,"source_run_id":"run-e1d1f23286ae99a24151403195238f61"}
