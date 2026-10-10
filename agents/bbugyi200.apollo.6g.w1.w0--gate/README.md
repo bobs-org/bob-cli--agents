@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [6g.w1](../../sessions/bbugyi200.apollo.6g.w1.md) (session · 4) | ancestor | active 1, completed 2, failed 1 |
+| [6g.w1](../../sessions/bbugyi200.apollo.6g.w1.md) (session · 7) | ancestor | active 1, completed 3, failed 3 |
 | [6g](../../sessions/bbugyi200.apollo.6g.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [6g.w0](../bbugyi200.apollo.6g.w0/README.md) | 6g hood | active |

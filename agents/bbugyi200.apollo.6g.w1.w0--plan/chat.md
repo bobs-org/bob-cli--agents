@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** 6g.w1.w0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-6g_w1_w0__plan-261010_125719.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-6g_w1_w0__code-261010_125719.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/restore_idle_agenda_after_clear.md
 
 
