@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** 6a.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-6a_f0__plan-261010_094548.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-6a_f0__code-261010_094548.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/gkeep_marker_free_tasks.md
 
 
