@@ -1,0 +1,35 @@
+%queue(weight=1)
+#fork:6g.w1.w0.f0--code
+%model:muse-spark-1.3-contributor
+%effort:xhigh
+
+%macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+just check
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10
+```
+
+| | |
+| --- | --- |
+| **Outcome** | COMPLETED — exit 0 |
+| **Started** | 2026-10-10T18:49:32.897855+00:00 |
+| **Finished** | 2026-10-10T18:54:13.575849+00:00 |
+| **Elapsed** | 4m 39s of a 1h 0m 0s budget |
+| **Output** | 459 KiB · evidence refs: `file:monitor-diagnostic-manifest:hw1jtek01rmm`, `file:monitor-retained-log:hw1jtek01rmm` · raw output omitted: `facts_only` · full log: `sase monitor show hw1jtek01rmm --all-lines` |
+| **Tool run** | sase tool show b4b65a46538c7e9650257048c28c29a0 |
+
+**Why this was monitored:** Primary-workspace gate for the idle-agenda repair turn; Swift native tests stay macOS-blocked
+
+## Your next action
+
+Diagnose failures or stale verification, then finish the requested change.
+%macros_enabled:true

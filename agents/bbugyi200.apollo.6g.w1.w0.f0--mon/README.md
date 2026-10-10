@@ -1,21 +1,21 @@
-# Agent: 6g.w1.w0.f0--plan
+# Agent: 6g.w1.w0.f0--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6g](../../users/bbugyi200/machines/apollo/hoods/6g/README.md) / [6g.w1.w0.f0](../../sessions/bbugyi200.apollo.6g.w1.w0.f0.md) / 6g.w1.w0.f0--plan
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6g](../../users/bbugyi200/machines/apollo/hoods/6g/README.md) / [6g.w1.w0.f0](../../sessions/bbugyi200.apollo.6g.w1.w0.f0.md) / 6g.w1.w0.f0--mon
 
-**Global name:** `bbugyi200.apollo.6g.w1.w0.f0--plan` · **State:** completed · **Source run:** `run-a4dd41e2aa01be4b1f280690785ec580`
+**Global name:** `bbugyi200.apollo.6g.w1.w0.f0--mon` · **State:** failed · **Source run:** `run-f7f8edd1cdb1e70c2c5455a6218028c2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 6g
 
 ## Summary
 
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 2026-10-10T18:26:31.265577+00:00 → 2026-10-10T18:50:22.166794+00:00
+- Model: muse-spark-1.3-contributor
+- Provider: muse
+- Timing: 2026-10-10T18:49:32.897855+00:00 → 2026-10-10T18:55:19.616600+00:00
 - Commits: 0
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Chat](chat.md)
 
 ## Neighbors
 
