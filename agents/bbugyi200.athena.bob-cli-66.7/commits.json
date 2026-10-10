@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f8cdd22f81c16109d56128b041e8aa44"}
+{"commits":[{"committed_at":1791596315,"sha":"817fd2b47b1b8d7314ee8e9528193ef0f58b387d","subject":"docs(decisions): record idle agenda caching, folding, and eye-line policy"}],"schema_version":2,"source_run_id":"run-f8cdd22f81c16109d56128b041e8aa44"}
