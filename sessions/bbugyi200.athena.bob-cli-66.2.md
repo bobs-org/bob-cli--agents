@@ -34,9 +34,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-66.1](../agents/bbugyi200.athena.bob-cli-66.1/README.md) | bob-cli-66 hood | completed |
-| [bob-cli-66.3](bbugyi200.athena.bob-cli-66.3.md) (session · 3) | bob-cli-66 hood | active 1, completed 1, failed 1 |
-| [bob-cli-66.4](../agents/bbugyi200.athena.bob-cli-66.4/README.md) | bob-cli-66 hood | active |
-| [bob-cli-66.5](../agents/bbugyi200.athena.bob-cli-66.5/README.md) | bob-cli-66 hood | waiting |
+| [bob-cli-66.3](bbugyi200.athena.bob-cli-66.3.md) (session · 5) | bob-cli-66 hood | completed 3, failed 2 |
+| [bob-cli-66.4](../agents/bbugyi200.athena.bob-cli-66.4/README.md) | bob-cli-66 hood | completed |
+| [bob-cli-66.5](../agents/bbugyi200.athena.bob-cli-66.5/README.md) | bob-cli-66 hood | active |
 | [bob-cli-66.6](../agents/bbugyi200.athena.bob-cli-66.6/README.md) | bob-cli-66 hood | waiting |
 | [bob-cli-66.7](../agents/bbugyi200.athena.bob-cli-66.7/README.md) | bob-cli-66 hood | waiting |
 | [bob-cli-66.land](../agents/bbugyi200.athena.bob-cli-66.land/README.md) | bob-cli-66 hood | waiting |
