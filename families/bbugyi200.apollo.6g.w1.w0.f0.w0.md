@@ -1,0 +1,5 @@
+# Moved to sessions/bbugyi200.apollo.6g.w1.w0.f0.w0.md
+
+This agent session page now lives at [`sessions/bbugyi200.apollo.6g.w1.w0.f0.w0.md`](../sessions/bbugyi200.apollo.6g.w1.w0.f0.w0.md).
+
+Historical commit-footer links keep this path so old `SASE_AGENT` destinations continue to resolve.

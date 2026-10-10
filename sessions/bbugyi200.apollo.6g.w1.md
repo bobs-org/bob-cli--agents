@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["6g.w1--mon [failed]"]
   n0 --> n2
-  n3["6g.w1--2 [active]"]
+  n3["6g.w1--2 [completed]"]
   n0 --> n3
   n4["6g.w1--1 [completed]"]
   n0 --> n4
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | 6g.w1--plan | completed | gpt-6-astra / codex | 2026-10-10T17:31:16.864983+00:00 → 2026-10-10T17:52:52.772176+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.6g.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.6g.w1--plan/chat.md) |
 | <a id="member-code"></a>code | 6g.w1--code | completed | gpt-6-luna / codex | 2026-10-10T17:36:10.046827+00:00 → 2026-10-10T17:52:52.772176+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6g.w1--code/chat.md) |
 | <a id="member-mon"></a>mon | 6g.w1--mon | failed | gpt-6-luna / codex | 2026-10-10T17:51:46.097876+00:00 → 2026-10-10T17:57:26.247186+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6g.w1--mon/chat.md) |
-| <a id="member-2"></a>2 | 6g.w1--2 | active | gpt-6-luna / codex | 2026-10-10T18:06:11.641788+00:00 | [1](../agents/bbugyi200.apollo.6g.w1--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.6g.w1--2/prompt.md) | — |
+| <a id="member-2"></a>2 | 6g.w1--2 | completed | gpt-6-luna / codex | 2026-10-10T18:06:11.641788+00:00 → 2026-10-10T18:08:39.096498+00:00 | [1](../agents/bbugyi200.apollo.6g.w1--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.6g.w1--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.6g.w1--2/chat.md) |
 | <a id="member-1"></a>1 | 6g.w1--1 | completed | gpt-6-luna / codex | 2026-10-10T17:57:25.746859+00:00 → 2026-10-10T18:02:00.680689+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.6g.w1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.6g.w1--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 6g.w1--mon-0 | failed | gpt-6-luna / codex | 2026-10-10T18:01:05.966556+00:00 → 2026-10-10T18:06:12.012005+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6g.w1--mon-0/chat.md) |
 | <a id="member-gate"></a>gate | 6g.w1--gate | failed | gpt-6-astra / codex | 2026-10-10T17:35:41.960247+00:00 → 2026-10-10T17:35:56.860775+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6g.w1--gate/chat.md) |
@@ -47,4 +47,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [6g](bbugyi200.apollo.6g.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [6g.w1.w0](bbugyi200.apollo.6g.w1.w0.md) (session · 3) | descendant | completed 2, failed 1 |
+| [6g.w1.w0.f0](bbugyi200.apollo.6g.w1.w0.f0.md) (session · 3) | descendant | active 2, failed 1 |
+| [6g.w1.w0.f0.w0](bbugyi200.apollo.6g.w1.w0.f0.w0.md) (session · 3) | descendant | active 2, failed 1 |
 | [6g.w0](../agents/bbugyi200.apollo.6g.w0/README.md) | 6g hood | active |
