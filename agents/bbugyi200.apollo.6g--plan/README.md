@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6g](../../users/bbugyi200/machines/apollo/hoods/6g/README.md) / [6g](../../sessions/bbugyi200.apollo.6g.md) / 6g--plan
 
-**Global name:** `bbugyi200.apollo.6g--plan` · **State:** active · **Source run:** `run-d4b9e5047d60215315fcd227de8cca1b`
+**Global name:** `bbugyi200.apollo.6g--plan` · **State:** completed · **Source run:** `run-d4b9e5047d60215315fcd227de8cca1b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 6g
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-10T16:33:48.786034+00:00
+- Timing: 2026-10-10T16:33:48.786034+00:00 → 2026-10-10T17:31:57.627413+00:00
 - Commits: 0
 
 ## Files
@@ -22,5 +22,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [6g.w0](../bbugyi200.apollo.6g.w0/README.md) | descendant | active |
-| [6g.w1](../bbugyi200.apollo.6g.w1/README.md) | descendant | waiting |
-| [6g.w1.w0](../bbugyi200.apollo.6g.w1.w0/README.md) | descendant | waiting |
+| [6g.w1](../../sessions/bbugyi200.apollo.6g.w1.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
+| [6g.w1.w0](../../sessions/bbugyi200.apollo.6g.w1.w0.md) (session · 3) | descendant | active 2, failed 1 |

@@ -9,9 +9,9 @@ Owner: `bbugyi200.apollo` · Hood: `6g` · Members: 3
 ```mermaid
 flowchart TD
   n0["6g--gate [failed]"]
-  n1["6g--plan [active]"]
+  n1["6g--plan [completed]"]
   n0 --> n1
-  n2["6g--code [active]"]
+  n2["6g--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 6g--gate | failed | gpt-6-astra / codex | 2026-10-10T16:39:51.371495+00:00 → 2026-10-10T16:40:04.509650+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6g--gate/chat.md) |
-| <a id="member-plan"></a>plan | 6g--plan | active | gpt-6-astra / codex | 2026-10-10T16:33:48.786034+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.6g--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.6g--plan/chat.md) |
-| <a id="member-code"></a>code | 6g--code | active | grok-4.6 / grok | 2026-10-10T16:40:17.174360+00:00 | [1](../agents/bbugyi200.apollo.6g--code/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | 6g--plan | completed | gpt-6-astra / codex | 2026-10-10T16:33:48.786034+00:00 → 2026-10-10T17:31:57.627413+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.6g--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.6g--plan/chat.md) |
+| <a id="member-code"></a>code | 6g--code | completed | grok-4.6 / grok | 2026-10-10T16:40:17.174360+00:00 → 2026-10-10T17:31:57.627413+00:00 | [1](../agents/bbugyi200.apollo.6g--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.6g--code/chat.md) |
 
 ## Commits
 
@@ -34,5 +34,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [6g.w0](../agents/bbugyi200.apollo.6g.w0/README.md) | descendant | active |
-| [6g.w1](../agents/bbugyi200.apollo.6g.w1/README.md) | descendant | waiting |
-| [6g.w1.w0](../agents/bbugyi200.apollo.6g.w1.w0/README.md) | descendant | waiting |
+| [6g.w1](bbugyi200.apollo.6g.w1.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
+| [6g.w1.w0](bbugyi200.apollo.6g.w1.w0.md) (session · 3) | descendant | active 2, failed 1 |
