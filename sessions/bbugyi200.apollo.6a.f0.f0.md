@@ -29,4 +29,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [6a.f0](bbugyi200.apollo.6a.f0.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [6a](bbugyi200.apollo.6a.md) (session · 5) | ancestor | completed 3, failed 2 |
-| [6a.f0.f1](bbugyi200.apollo.6a.f0.f1.md) (session · 3) | 6a.f0 hood | active 2, failed 1 |
+| [6a.f0.f1](bbugyi200.apollo.6a.f0.f1.md) (session · 5) | 6a.f0 hood | active 1, completed 2, failed 2 |

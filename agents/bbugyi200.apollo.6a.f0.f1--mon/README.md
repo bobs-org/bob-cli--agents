@@ -1,8 +1,8 @@
-# Agent: 6a.f0.f1--code
+# Agent: 6a.f0.f1--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6a](../../users/bbugyi200/machines/apollo/hoods/6a/README.md) / [6a.f0.f1](../../sessions/bbugyi200.apollo.6a.f0.f1.md) / 6a.f0.f1--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6a](../../users/bbugyi200/machines/apollo/hoods/6a/README.md) / [6a.f0.f1](../../sessions/bbugyi200.apollo.6a.f0.f1.md) / 6a.f0.f1--mon
 
-**Global name:** `bbugyi200.apollo.6a.f0.f1--code` · **State:** completed · **Source run:** `run-d9ce1c0c541e293a3b288473f564d877`
+**Global name:** `bbugyi200.apollo.6a.f0.f1--mon` · **State:** failed · **Source run:** `run-31ffe0dc644ca761b12591be8717b2ee`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 6a
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-10T14:34:23.626496+00:00 → 2026-10-10T15:00:26.515023+00:00
+- Timing: 2026-10-10T14:59:34.094818+00:00 → 2026-10-10T15:03:57.715297+00:00
 - Commits: 0
 
 ## Files

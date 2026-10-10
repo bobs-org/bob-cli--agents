@@ -23,4 +23,4 @@
 |---|---|---|
 | [6a.f0](../../sessions/bbugyi200.apollo.6a.f0.md) (session · 3) | descendant | completed 2, failed 1 |
 | [6a.f0.f0](../../sessions/bbugyi200.apollo.6a.f0.f0.md) (session · 3) | descendant | active 2, failed 1 |
-| [6a.f0.f1](../../sessions/bbugyi200.apollo.6a.f0.f1.md) (session · 3) | descendant | active 2, failed 1 |
+| [6a.f0.f1](../../sessions/bbugyi200.apollo.6a.f0.f1.md) (session · 5) | descendant | active 1, completed 2, failed 2 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6a](../../users/bbugyi200/machines/apollo/hoods/6a/README.md) / [6a.f0.f1](../../sessions/bbugyi200.apollo.6a.f0.f1.md) / 6a.f0.f1--plan
 
-**Global name:** `bbugyi200.apollo.6a.f0.f1--plan` · **State:** active · **Source run:** `run-df33d31a785b85786a6d7bd4bc27102a`
+**Global name:** `bbugyi200.apollo.6a.f0.f1--plan` · **State:** completed · **Source run:** `run-df33d31a785b85786a6d7bd4bc27102a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 6a
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-10T14:27:35.378493+00:00
+- Timing: 2026-10-10T14:27:35.378493+00:00 → 2026-10-10T15:00:26.515023+00:00
 - Commits: 0
 
 ## Files
