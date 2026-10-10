@@ -28,4 +28,4 @@
 | [bob-cli-66.4](../bbugyi200.athena.bob-cli-66.4/README.md) | bob-cli-66 hood | completed |
 | [bob-cli-66.5](../../sessions/bbugyi200.athena.bob-cli-66.5.md) (session · 9) | bob-cli-66 hood | completed 5, failed 4 |
 | [bob-cli-66.7](../bbugyi200.athena.bob-cli-66.7/README.md) | bob-cli-66 hood | completed |
-| [bob-cli-66.land](../../sessions/bbugyi200.athena.bob-cli-66.land.md) (session · 9) | bob-cli-66 hood | active 1, completed 4, failed 4 |
+| [bob-cli-66.land](../../sessions/bbugyi200.athena.bob-cli-66.land.md) (session · 11) | bob-cli-66 hood | active 1, completed 5, failed 5 |
