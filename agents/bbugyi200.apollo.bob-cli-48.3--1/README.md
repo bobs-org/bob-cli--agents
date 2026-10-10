@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [bob-cli-48.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-48/bob-cli-48.3.md)
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-04T13:46:23.476504+00:00 → 2026-10-04T13:54:13.039406+00:00

@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli The `pass show sase_listen_feed_token` command is hanging on my apollo machine. Can you do some research to help me figure out what is causing this and what I can do to fix this (now and in the future)? #research %m:gpt-6-astra

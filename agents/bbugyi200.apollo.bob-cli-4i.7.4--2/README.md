@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [bob-cli-4i.7.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-4i/bob-cli-4i.7.4.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-05T23:18:32.823885+00:00 → 2026-10-05T23:30:07.714487+00:00
