@@ -4,6 +4,11 @@
 - **MODEL:** grok/grok-4.7
 - **AGENT:** bob-cli-5y.11--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_5y_11__plan-261009_123047.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_5y_11__code-261009_123047.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/ref_migrate_tasks.md
 
 
