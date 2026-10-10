@@ -25,6 +25,7 @@
 | [5v.md](5v.md) | %queue(weight=1) %auto #fork:5v--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.apollo.5v--1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.5v.md) | 0 |
 | [61.md](61.md) | %queue(weight=1) #fork:61--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.apollo.61--1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.61.md) | 0 |
 | [65.md](65.md) | %queue(weight=1) #fork:65--1 %model:gpt-6-luna@xhigh | - | [bbugyi200.apollo.65--2](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.65.md) | 0 |
+| [6a.f0.f0.md](6a.f0.f0.md) | %queue(weight=1) #fork:6a.f0.f0--1 %model:gpt-6-luna@xhigh | - | [bbugyi200.apollo.6a.f0.f0--2](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.6a.f0.f0.md) | 0 |
 | [6a.f0.f1.md](6a.f0.f1.md) | %queue(weight=1) #fork:6a.f0.f1--code %model:grok-4.6@high | - | [bbugyi200.apollo.6a.f0.f1--1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.6a.f0.f1.md) | 0 |
 | [6a.md](6a.md) | %queue(weight=1) #fork:6a--code %model:gpt-6-luna@high | - | [bbugyi200.apollo.6a--1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.6a.md) | 0 |
 | [6c.md](6c.md) | %queue(weight=1) #fork:6c--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.6c--1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.6c.md) | 0 |
