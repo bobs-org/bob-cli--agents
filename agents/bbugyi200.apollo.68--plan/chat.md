@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** 68--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-68__plan-261010_090011.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-68__code-261010_090011.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/dashboard_badge_warnings.md
 
 
