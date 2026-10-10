@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [6c.w0](../bbugyi200.apollo.6c.w0/README.md) | descendant | active |
-| [6c.w1](../bbugyi200.apollo.6c.w1/README.md) | descendant | waiting |
+| [6c.w1](../../sessions/bbugyi200.apollo.6c.w1.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
