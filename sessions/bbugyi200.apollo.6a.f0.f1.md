@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `6a` · Members: 5
 
 ```mermaid
 flowchart TD
-  n0["6a.f0.f1--1 [active]"]
+  n0["6a.f0.f1--1 [completed]"]
   n1["6a.f0.f1--mon [failed]"]
   n0 --> n1
   n2["6a.f0.f1--gate [failed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | 6a.f0.f1--1 | active | grok-4.6 / grok | 2026-10-10T15:03:57.589675+00:00 | [1](../agents/bbugyi200.apollo.6a.f0.f1--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.6a.f0.f1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 6a.f0.f1--1 | completed | grok-4.6 / grok | 2026-10-10T15:03:57.589675+00:00 → 2026-10-10T15:19:25.570968+00:00 | [1](../agents/bbugyi200.apollo.6a.f0.f1--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.6a.f0.f1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.6a.f0.f1--1/chat.md) |
 | <a id="member-mon"></a>mon | 6a.f0.f1--mon | failed | grok-4.6 / grok | 2026-10-10T14:59:34.094818+00:00 → 2026-10-10T15:03:57.715297+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6a.f0.f1--mon/chat.md) |
 | <a id="member-gate"></a>gate | 6a.f0.f1--gate | failed | gpt-6-astra / codex | 2026-10-10T14:33:54.855569+00:00 → 2026-10-10T14:34:09.224198+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6a.f0.f1--gate/chat.md) |
 | <a id="member-code"></a>code | 6a.f0.f1--code | completed | grok-4.6 / grok | 2026-10-10T14:34:23.626496+00:00 → 2026-10-10T15:00:26.515023+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6a.f0.f1--code/chat.md) |
@@ -41,4 +41,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [6a.f0](bbugyi200.apollo.6a.f0.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [6a](bbugyi200.apollo.6a.md) (session · 5) | ancestor | completed 3, failed 2 |
-| [6a.f0.f0](bbugyi200.apollo.6a.f0.f0.md) (session · 3) | 6a.f0 hood | active 2, failed 1 |
+| [6a.f0.f0](bbugyi200.apollo.6a.f0.f0.md) (session · 7) | 6a.f0 hood | active 1, completed 3, failed 3 |

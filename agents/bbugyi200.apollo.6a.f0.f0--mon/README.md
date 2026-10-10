@@ -1,8 +1,8 @@
-# Agent: 6a.f0.f0--code
+# Agent: 6a.f0.f0--mon
 
-[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6a](../../users/bbugyi200/machines/apollo/hoods/6a/README.md) / [6a.f0.f0](../../sessions/bbugyi200.apollo.6a.f0.f0.md) / 6a.f0.f0--code
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6a](../../users/bbugyi200/machines/apollo/hoods/6a/README.md) / [6a.f0.f0](../../sessions/bbugyi200.apollo.6a.f0.f0.md) / 6a.f0.f0--mon
 
-**Global name:** `bbugyi200.apollo.6a.f0.f0--code` · **State:** completed · **Source run:** `run-c5b564f7b99669762634e1e14948f154`
+**Global name:** `bbugyi200.apollo.6a.f0.f0--mon` · **State:** failed · **Source run:** `run-db505e0ccb1531b8763e07df9010d192`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 6a
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-10T14:24:39.279632+00:00 → 2026-10-10T15:28:09.734479+00:00
+- Timing: 2026-10-10T15:27:20.317408+00:00 → 2026-10-10T15:31:54.618680+00:00
 - Commits: 0
 
 ## Files

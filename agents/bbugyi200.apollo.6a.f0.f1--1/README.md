@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6a](../../users/bbugyi200/machines/apollo/hoods/6a/README.md) / [6a.f0.f1](../../sessions/bbugyi200.apollo.6a.f0.f1.md) / 6a.f0.f1--1
 
-**Global name:** `bbugyi200.apollo.6a.f0.f1--1` · **State:** active · **Source run:** `run-2610497839ea2a6603f35df602fa4e6e`
+**Global name:** `bbugyi200.apollo.6a.f0.f1--1` · **State:** completed · **Source run:** `run-2610497839ea2a6603f35df602fa4e6e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 6a
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-10T15:03:57.589675+00:00
+- Timing: 2026-10-10T15:03:57.589675+00:00 → 2026-10-10T15:19:25.570968+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,4 +29,4 @@
 |---|---|---|
 | [6a.f0](../../sessions/bbugyi200.apollo.6a.f0.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [6a](../../sessions/bbugyi200.apollo.6a.md) (session · 5) | ancestor | completed 3, failed 2 |
-| [6a.f0.f0](../../sessions/bbugyi200.apollo.6a.f0.f0.md) (session · 3) | 6a.f0 hood | active 2, failed 1 |
+| [6a.f0.f0](../../sessions/bbugyi200.apollo.6a.f0.f0.md) (session · 7) | 6a.f0 hood | active 1, completed 3, failed 3 |
