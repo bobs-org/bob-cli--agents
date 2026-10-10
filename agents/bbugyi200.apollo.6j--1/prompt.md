@@ -1,0 +1,35 @@
+%queue(weight=1)
+#fork:6j--code
+%model:muse-spark-1.3-contributor
+%effort:high
+
+%macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+just check
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10
+```
+
+| | |
+| --- | --- |
+| **Outcome** | COMPLETED — exit 0 |
+| **Started** | 2026-10-10T19:23:41.067927+00:00 |
+| **Finished** | 2026-10-10T19:28:12.950291Z |
+| **Elapsed** | 4m 30s of a 1h 0m 0s budget |
+| **Output** | 459 KiB · evidence refs: `file:monitor-diagnostic-manifest:w6c7ky6k4w07`, `file:monitor-retained-log:w6c7ky6k4w07` · raw output omitted: `facts_only` · full log: `sase monitor show w6c7ky6k4w07 --all-lines` |
+| **Tool run** | sase tool show efb61bc9ee9a5bb22e0dd0381c335483 |
+
+**Why this was monitored:** Verify before host completion
+
+## Your next action
+
+Diagnose failures or stale verification, then finish the requested change.
+%macros_enabled:true

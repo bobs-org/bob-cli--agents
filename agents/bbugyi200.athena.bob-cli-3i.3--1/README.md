@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [bob-cli-3i.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-3i/bob-cli-3i.3.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-02T15:20:04.349546+00:00
