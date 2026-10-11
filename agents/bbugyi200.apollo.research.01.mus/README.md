@@ -78,4 +78,4 @@
 | [research.06.linker](../bbugyi200.apollo.research.06.linker/README.md) | research hood | active |
 | [research.07.audio](../bbugyi200.apollo.research.07.audio/README.md) | research hood | active |
 | [research.07.cdx](../bbugyi200.apollo.research.07.cdx/README.md) | research hood | active |
-| … and 176 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 177 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

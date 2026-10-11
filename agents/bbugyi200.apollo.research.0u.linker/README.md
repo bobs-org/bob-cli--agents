@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0u.linker
 
-**Global name:** `bbugyi200.apollo.research.0u.linker` · **State:** waiting · **Source run:** `run-af8308996478d73fc1b46e1eb17fdbb2`
+**Global name:** `bbugyi200.apollo.research.0u.linker` · **State:** active · **Source run:** `run-af8308996478d73fc1b46e1eb17fdbb2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,23 +10,43 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261011052112
+- Timing: 2026-10-11T10:13:07.052919+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/bob\_daily\_stats/bob\_daily\_stats.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261011052112/bob\_daily\_stats-f813bef5bc1f.md, ref: file:ex… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/bob_daily_stats/bob_daily_stats.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261011052112/bob_daily_stats-f813bef5bc1f.md
+  ref: file:explicit:126ebffaacff8ee28b16fb11
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/bob_daily_stats/bob_daily_stats.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.0u.linker.w0](../bbugyi200.apollo.research.0u.linker.w0/README.md) | descendant | waiting |
 | [research.0u.cdx](../bbugyi200.apollo.research.0u.cdx/README.md) | research.0u hood | completed |
 | [research.0u.cld](../bbugyi200.apollo.research.0u.cld/README.md) | research.0u hood | completed |
 | [research.0u.final](../bbugyi200.apollo.research.0u.final/README.md) | research.0u hood | completed |
 | [research.0u.gem](../bbugyi200.apollo.research.0u.gem/README.md) | research.0u hood | completed |
 | [research.0u.grk](../bbugyi200.apollo.research.0u.grk/README.md) | research.0u hood | completed |
-| [research.0u.image](../bbugyi200.apollo.research.0u.image/README.md) | research.0u hood | active |
+| [research.0u.image](../bbugyi200.apollo.research.0u.image/README.md) | research.0u hood | completed |
 | [research.0u.mus](../bbugyi200.apollo.research.0u.mus/README.md) | research.0u hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
