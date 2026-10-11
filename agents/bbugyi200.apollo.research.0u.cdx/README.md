@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-11T09:21:42.014050+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/daily\_progress\_metrics\_reliable\_history\_and\_obsidian\_ux\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261011052055/daily\_progress\_m… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/daily_progress_metrics_reliable_history_and_obsidian_ux__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261011052055/daily_progress_metrics_reliable_history_and_obsidian_ux__cdx-2bf51e4cf876.md
+  ref: file:explicit:fdf7a30409f01f5a64ce07b2
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/daily_progress_metrics_reliable_history_and_obsidian_ux__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.0u.grk](../bbugyi200.apollo.research.0u.grk/README.md) | research.0u hood | active |
 | [research.0u.image](../bbugyi200.apollo.research.0u.image/README.md) | research.0u hood | waiting |
 | [research.0u.linker](../bbugyi200.apollo.research.0u.linker/README.md) | research.0u hood | waiting |
-| [research.0u.mus](../bbugyi200.apollo.research.0u.mus/README.md) | research.0u hood | active |
+| [research.0u.mus](../bbugyi200.apollo.research.0u.mus/README.md) | research.0u hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
