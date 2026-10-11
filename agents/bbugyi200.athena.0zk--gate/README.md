@@ -16,3 +16,9 @@
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [0zk.f0](../../sessions/bbugyi200.athena.0zk.f0.md) (session · 3) | descendant | active 2, failed 1 |

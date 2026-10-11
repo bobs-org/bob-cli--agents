@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** 0zk--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0zk__plan-261011_065802.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-0zk__code-261011_065802.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/bob_mac_capture_ci_test_compilation.md
 
 
