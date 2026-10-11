@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6135ece013e4d9a8adea79dabca79597"}
+{"commits":[{"committed_at":1791740899,"sha":"9be32d97e56a552d0ef1dc19f3b8eff94ce43638","subject":"feat(stats): add the bob stats CLI (overview, show, metrics)"}],"schema_version":2,"source_run_id":"run-6135ece013e4d9a8adea79dabca79597"}
