@@ -28,8 +28,8 @@
 | [bob-cli-6l.2.1.3](../bbugyi200.apollo.bob-cli-6l.2.1.3/README.md) | descendant | completed |
 | [bob-cli-6l.2.1.4](../../sessions/bbugyi200.apollo.bob-cli-6l.2.1.4.md) (session · 3) | descendant | completed 2, failed 1 |
 | [bob-cli-6l.2.1.4](../bbugyi200.apollo.bob-cli-6l.2.1.4/README.md) | descendant | active |
-| [bob-cli-6l.2.1.5](../bbugyi200.apollo.bob-cli-6l.2.1.5/README.md) | descendant | active |
-| [bob-cli-6l.2.1.6](../bbugyi200.apollo.bob-cli-6l.2.1.6/README.md) | descendant | waiting |
+| [bob-cli-6l.2.1.5](../bbugyi200.apollo.bob-cli-6l.2.1.5/README.md) | descendant | completed |
+| [bob-cli-6l.2.1.6](../bbugyi200.apollo.bob-cli-6l.2.1.6/README.md) | descendant | active |
 | [bob-cli-6l.2.1.land](../bbugyi200.apollo.bob-cli-6l.2.1.land/README.md) | descendant | waiting |
 | [bob-cli-6l.1](../bbugyi200.apollo.bob-cli-6l.1/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.3](../bbugyi200.apollo.bob-cli-6l.3/README.md) | bob-cli-6l hood | waiting |
