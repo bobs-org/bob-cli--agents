@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6l](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6l/README.md) / bob-cli-6l.5.1.2
 
-**Global name:** `bbugyi200.apollo.bob-cli-6l.5.1.2` · **State:** waiting · **Source run:** `run-19b3bdcbc3618c8cc06d3e70f08c3847`
+**Global name:** `bbugyi200.apollo.bob-cli-6l.5.1.2` · **State:** active · **Source run:** `run-19b3bdcbc3618c8cc06d3e70f08c3847`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6l
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-6l.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6l/bob-cli-6l.5.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261011141614
+- Timing: 2026-10-11T18:48:34.487466+00:00
 - Commits: 0
 
 ## Files
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-6l.5](../../sessions/bbugyi200.apollo.bob-cli-6l.5.md) (session · 3) | ancestor | failed 3 |
-| [bob-cli-6l.5.1.1](../bbugyi200.apollo.bob-cli-6l.5.1.1/README.md) | bob-cli-6l.5.1 hood | active |
+| [bob-cli-6l.5.1.1](../bbugyi200.apollo.bob-cli-6l.5.1.1/README.md) | bob-cli-6l.5.1 hood | completed |
 | [bob-cli-6l.5.1.3](../bbugyi200.apollo.bob-cli-6l.5.1.3/README.md) | bob-cli-6l.5.1 hood | waiting |
 | [bob-cli-6l.5.1.4](../bbugyi200.apollo.bob-cli-6l.5.1.4/README.md) | bob-cli-6l.5.1 hood | waiting |
 | [bob-cli-6l.5.1.land](../bbugyi200.apollo.bob-cli-6l.5.1.land/README.md) | bob-cli-6l.5.1 hood | waiting |
