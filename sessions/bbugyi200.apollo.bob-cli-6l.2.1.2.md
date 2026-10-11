@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-6l.2.1.2--plan [completed]"]
   n1["bob-cli-6l.2.1.2--mon [failed]"]
   n0 --> n1
-  n2["bob-cli-6l.2.1.2--1 [active]"]
+  n2["bob-cli-6l.2.1.2--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-6l.2.1.2--plan | completed | gpt-6-luna / codex | 2026-10-11T12:31:59.917748+00:00 → 2026-10-11T12:48:54.059581+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6l.2.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6l.2.1.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-6l.2.1.2--mon | failed | gpt-6-luna / codex | 2026-10-11T12:47:14.187954+00:00 → 2026-10-11T12:50:07.050767+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-6l.2.1.2--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-6l.2.1.2--1 | active | gpt-6-luna / codex | 2026-10-11T12:50:08.459293+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-6l.2.1.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-6l.2.1.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-6l.2.1.2--1 | completed | gpt-6-luna / codex | 2026-10-11T12:50:08.459293+00:00 → 2026-10-11T13:01:11.926541+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-6l.2.1.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-6l.2.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6l.2.1.2--1/chat.md) |
 
 ## Commits
 
@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-6l.2](../agents/bbugyi200.apollo.bob-cli-6l.2/README.md) | ancestor | waiting |
 | [bob-cli-6l.2.1.1](../agents/bbugyi200.apollo.bob-cli-6l.2.1.1/README.md) | bob-cli-6l.2.1 hood | completed |
 | [bob-cli-6l.2.1.3](../agents/bbugyi200.apollo.bob-cli-6l.2.1.3/README.md) | bob-cli-6l.2.1 hood | active |
-| [bob-cli-6l.2.1.4](../agents/bbugyi200.apollo.bob-cli-6l.2.1.4/README.md) | bob-cli-6l.2.1 hood | waiting |
+| [bob-cli-6l.2.1.4](../agents/bbugyi200.apollo.bob-cli-6l.2.1.4/README.md) | bob-cli-6l.2.1 hood | active |
 | [bob-cli-6l.2.1.5](../agents/bbugyi200.apollo.bob-cli-6l.2.1.5/README.md) | bob-cli-6l.2.1 hood | waiting |
 | [bob-cli-6l.2.1.6](../agents/bbugyi200.apollo.bob-cli-6l.2.1.6/README.md) | bob-cli-6l.2.1 hood | waiting |
 | [bob-cli-6l.2.1.land](../agents/bbugyi200.apollo.bob-cli-6l.2.1.land/README.md) | bob-cli-6l.2.1 hood | waiting |

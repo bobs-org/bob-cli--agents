@@ -13,11 +13,17 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-11T12:32:05.235764+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`7f14f5f`](https://github.com/bobs-org/bob-cli/commit/7f14f5fd47d80227adc7c376d1523e2933e881af) | feat(stats): implement range and series reporting | 2026-10-11 09:08:21 EDT |
 
 ## Neighbors
 
@@ -25,8 +31,8 @@
 |---|---|---|
 | [bob-cli-6l.2](../bbugyi200.apollo.bob-cli-6l.2/README.md) | ancestor | waiting |
 | [bob-cli-6l.2.1.1](../bbugyi200.apollo.bob-cli-6l.2.1.1/README.md) | bob-cli-6l.2.1 hood | completed |
-| [bob-cli-6l.2.1.2](../../sessions/bbugyi200.apollo.bob-cli-6l.2.1.2.md) (session · 3) | bob-cli-6l.2.1 hood | active 1, completed 1, failed 1 |
-| [bob-cli-6l.2.1.4](../bbugyi200.apollo.bob-cli-6l.2.1.4/README.md) | bob-cli-6l.2.1 hood | waiting |
+| [bob-cli-6l.2.1.2](../../sessions/bbugyi200.apollo.bob-cli-6l.2.1.2.md) (session · 3) | bob-cli-6l.2.1 hood | completed 2, failed 1 |
+| [bob-cli-6l.2.1.4](../bbugyi200.apollo.bob-cli-6l.2.1.4/README.md) | bob-cli-6l.2.1 hood | active |
 | [bob-cli-6l.2.1.5](../bbugyi200.apollo.bob-cli-6l.2.1.5/README.md) | bob-cli-6l.2.1 hood | waiting |
 | [bob-cli-6l.2.1.6](../bbugyi200.apollo.bob-cli-6l.2.1.6/README.md) | bob-cli-6l.2.1 hood | waiting |
 | [bob-cli-6l.2.1.land](../bbugyi200.apollo.bob-cli-6l.2.1.land/README.md) | bob-cli-6l.2.1 hood | waiting |
