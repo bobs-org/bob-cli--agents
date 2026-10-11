@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6l](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6l/README.md) / bob-cli-6l.4
 
-**Global name:** `bbugyi200.apollo.bob-cli-6l.4` · **State:** waiting · **Source run:** `run-32fb9daa91b44520b84cc929d0940bcd`
+**Global name:** `bbugyi200.apollo.bob-cli-6l.4` · **State:** active · **Source run:** `run-32fb9daa91b44520b84cc929d0940bcd`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6l
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-6l](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6l/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261011070140
-- Commits: 0
+- Timing: 2026-10-11T17:51:34.634408+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f74f3ad`](https://github.com/bobs-org/bob-cli/commit/f74f3ad305e5ecee85eef35312af918d60c6070b) | feat(stats): document the Stats child page and Browse chip | 2026-10-11 14:05:58 EDT |
 
 ## Neighbors
 
@@ -34,7 +40,7 @@
 | [bob-cli-6l.2.1.5](../bbugyi200.apollo.bob-cli-6l.2.1.5/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.2.1.6](../bbugyi200.apollo.bob-cli-6l.2.1.6/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-6l.2.1.land.md) (session · 3) | bob-cli-6l hood | completed 2, failed 1 |
-| [bob-cli-6l.3](../bbugyi200.apollo.bob-cli-6l.3/README.md) | bob-cli-6l hood | active |
+| [bob-cli-6l.3](../bbugyi200.apollo.bob-cli-6l.3/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.5](../bbugyi200.apollo.bob-cli-6l.5/README.md) | bob-cli-6l hood | waiting |
 | [bob-cli-6l.6](../bbugyi200.apollo.bob-cli-6l.6/README.md) | bob-cli-6l hood | waiting |
 | [bob-cli-6l.land](../bbugyi200.apollo.bob-cli-6l.land/README.md) | bob-cli-6l hood | waiting |
