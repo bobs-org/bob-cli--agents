@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6l](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6l/README.md) / bob-cli-6l.2.1.5
 
-**Global name:** `bbugyi200.apollo.bob-cli-6l.2.1.5` · **State:** waiting · **Source run:** `run-53cfa65737f298a96a36b034faf3285e`
+**Global name:** `bbugyi200.apollo.bob-cli-6l.2.1.5` · **State:** active · **Source run:** `run-53cfa65737f298a96a36b034faf3285e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6l
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-6l.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6l/bob-cli-6l.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261011073720
-- Commits: 0
+- Timing: 2026-10-11T13:30:13.380286+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`0d014c0`](https://github.com/bobs-org/bob-cli/commit/0d014c0299c25a5f13ca2947a155f0af8562e1c7) | feat(stats): evaluate review answers and checked formulas | 2026-10-11 09:48:07 EDT |
 
 ## Neighbors
 
@@ -27,7 +33,7 @@
 | [bob-cli-6l.2.1.1](../bbugyi200.apollo.bob-cli-6l.2.1.1/README.md) | bob-cli-6l.2.1 hood | completed |
 | [bob-cli-6l.2.1.2](../../sessions/bbugyi200.apollo.bob-cli-6l.2.1.2.md) (session · 3) | bob-cli-6l.2.1 hood | completed 2, failed 1 |
 | [bob-cli-6l.2.1.3](../bbugyi200.apollo.bob-cli-6l.2.1.3/README.md) | bob-cli-6l.2.1 hood | completed |
-| [bob-cli-6l.2.1.4](../../sessions/bbugyi200.apollo.bob-cli-6l.2.1.4.md) (session · 3) | bob-cli-6l.2.1 hood | active 1, completed 1, failed 1 |
+| [bob-cli-6l.2.1.4](../../sessions/bbugyi200.apollo.bob-cli-6l.2.1.4.md) (session · 3) | bob-cli-6l.2.1 hood | completed 2, failed 1 |
 | [bob-cli-6l.2.1.4](../bbugyi200.apollo.bob-cli-6l.2.1.4/README.md) | bob-cli-6l.2.1 hood | active |
 | [bob-cli-6l.2.1.6](../bbugyi200.apollo.bob-cli-6l.2.1.6/README.md) | bob-cli-6l.2.1 hood | waiting |
 | [bob-cli-6l.2.1.land](../bbugyi200.apollo.bob-cli-6l.2.1.land/README.md) | bob-cli-6l.2.1 hood | waiting |
