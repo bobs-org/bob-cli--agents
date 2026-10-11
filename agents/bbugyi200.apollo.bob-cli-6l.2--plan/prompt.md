@@ -1,0 +1,8 @@
+%id(2, clan=bob-cli-6l, bead=bob-cli-6l.2)
+#gh:gh_bobs-org__bob-cli
+%m:gpt-6-astra 
+%auto
+%w(bob-cli-6l.1, for_epic=false)
+%w(bead=bob-cli-6l.1)
+#bd/work_phase_bead:bob-cli-6l.2
+#plan

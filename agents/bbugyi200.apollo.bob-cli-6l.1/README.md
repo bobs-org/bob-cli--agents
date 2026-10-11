@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6l](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6l/README.md) / bob-cli-6l.1
 
-**Global name:** `bbugyi200.apollo.bob-cli-6l.1` · **State:** active · **Source run:** `run-8dbfb3d56637cc6783a5875037fb405f`
+**Global name:** `bbugyi200.apollo.bob-cli-6l.1` · **State:** completed · **Source run:** `run-8dbfb3d56637cc6783a5875037fb405f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6l
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-6l](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6l/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-11T11:02:30.073760+00:00
+- Timing: 2026-10-11T11:02:30.073760+00:00 → 2026-10-11T11:25:21.371997+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,7 +29,15 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-6l.2](../../sessions/bbugyi200.apollo.bob-cli-6l.2.md) (session · 3) | bob-cli-6l hood | failed 3 |
 | [bob-cli-6l.2](../bbugyi200.apollo.bob-cli-6l.2/README.md) | bob-cli-6l hood | waiting |
+| [bob-cli-6l.2.1.1](../bbugyi200.apollo.bob-cli-6l.2.1.1/README.md) | bob-cli-6l hood | active |
+| [bob-cli-6l.2.1.2](../bbugyi200.apollo.bob-cli-6l.2.1.2/README.md) | bob-cli-6l hood | waiting |
+| [bob-cli-6l.2.1.3](../bbugyi200.apollo.bob-cli-6l.2.1.3/README.md) | bob-cli-6l hood | waiting |
+| [bob-cli-6l.2.1.4](../bbugyi200.apollo.bob-cli-6l.2.1.4/README.md) | bob-cli-6l hood | waiting |
+| [bob-cli-6l.2.1.5](../bbugyi200.apollo.bob-cli-6l.2.1.5/README.md) | bob-cli-6l hood | waiting |
+| [bob-cli-6l.2.1.6](../bbugyi200.apollo.bob-cli-6l.2.1.6/README.md) | bob-cli-6l hood | waiting |
+| [bob-cli-6l.2.1.land](../bbugyi200.apollo.bob-cli-6l.2.1.land/README.md) | bob-cli-6l hood | waiting |
 | [bob-cli-6l.3](../bbugyi200.apollo.bob-cli-6l.3/README.md) | bob-cli-6l hood | waiting |
 | [bob-cli-6l.4](../bbugyi200.apollo.bob-cli-6l.4/README.md) | bob-cli-6l hood | waiting |
 | [bob-cli-6l.5](../bbugyi200.apollo.bob-cli-6l.5/README.md) | bob-cli-6l hood | waiting |
