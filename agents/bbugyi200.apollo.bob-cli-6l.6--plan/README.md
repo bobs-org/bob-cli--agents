@@ -42,4 +42,4 @@
 | [bob-cli-6l.5.1.3](../bbugyi200.apollo.bob-cli-6l.5.1.3/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.5.1.4](../../sessions/bbugyi200.apollo.bob-cli-6l.5.1.4.md) (session · 5) | bob-cli-6l hood | completed 3, failed 2 |
 | [bob-cli-6l.5.1.land](../bbugyi200.apollo.bob-cli-6l.5.1.land/README.md) | bob-cli-6l hood | completed |
-| [bob-cli-6l.land](../bbugyi200.apollo.bob-cli-6l.land/README.md) | bob-cli-6l hood | waiting |
+| [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 2, failed 1 |

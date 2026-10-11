@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-6l` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-6l.6--1 [active]"]
+  n0["bob-cli-6l.6--1 [completed]"]
   n1["bob-cli-6l.6--plan [completed]"]
   n0 --> n1
   n2["bob-cli-6l.6--mon [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-6l.6--1 | active | grok-4.6 / grok | 2026-10-11T21:06:57.280258+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-6l.6--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-6l.6--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-6l.6--1 | completed | grok-4.6 / grok | 2026-10-11T21:06:57.280258+00:00 → 2026-10-11T21:14:54.532030+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-6l.6--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-6l.6--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6l.6--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-6l.6--plan | completed | grok-4.6 / grok | 2026-10-11T20:43:27.997330+00:00 → 2026-10-11T21:02:15.436048+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6l.6--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6l.6--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-6l.6--mon | failed | grok-4.6 / grok | 2026-10-11T21:01:17.400720+00:00 → 2026-10-11T21:06:57.626937+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-6l.6--mon/chat.md) |
 
@@ -52,4 +52,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-6l.5.1.3](../agents/bbugyi200.apollo.bob-cli-6l.5.1.3/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.5.1.4](bbugyi200.apollo.bob-cli-6l.5.1.4.md) (session · 5) | bob-cli-6l hood | completed 3, failed 2 |
 | [bob-cli-6l.5.1.land](../agents/bbugyi200.apollo.bob-cli-6l.5.1.land/README.md) | bob-cli-6l hood | completed |
-| [bob-cli-6l.land](../agents/bbugyi200.apollo.bob-cli-6l.land/README.md) | bob-cli-6l hood | waiting |
+| [bob-cli-6l.land](bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 2, failed 1 |
