@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-12T10:42:29.047890+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/project\_dependency\_frontmatter\_inherited\_blocking\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261012064148/project\_dependency\_fro… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/project_dependency_frontmatter_inherited_blocking__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261012064148/project_dependency_frontmatter_inherited_blocking__cdx-767d4d0724a8.md
+  ref: file:explicit:830df4bd4e63aa52ce2c756b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/project_dependency_frontmatter_inherited_blocking__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.0z.grk](../bbugyi200.apollo.research.0z.grk/README.md) | research.0z hood | active |
 | [research.0z.image](../bbugyi200.apollo.research.0z.image/README.md) | research.0z hood | waiting |
 | [research.0z.linker](../bbugyi200.apollo.research.0z.linker/README.md) | research.0z hood | waiting |
-| [research.0z.mus](../bbugyi200.apollo.research.0z.mus/README.md) | research.0z hood | active |
+| [research.0z.mus](../bbugyi200.apollo.research.0z.mus/README.md) | research.0z hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
