@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6u](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6u/README.md) / bob-cli-6u.9
 
-**Global name:** `bbugyi200.apollo.bob-cli-6u.9` · **State:** active · **Source run:** `run-5fce9d57323d92dfc2a99f3a67562e7f`
+**Global name:** `bbugyi200.apollo.bob-cli-6u.9` · **State:** completed · **Source run:** `run-5fce9d57323d92dfc2a99f3a67562e7f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6u
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-6u.9](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6u/bob-cli-6u.9.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-12T19:49:28.660195+00:00
+- Timing: 2026-10-12T19:49:28.660195+00:00 → 2026-10-12T20:54:33.213743+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -35,8 +35,8 @@
 | [bob-cli-6u.13](../bbugyi200.apollo.bob-cli-6u.13/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.14](../bbugyi200.apollo.bob-cli-6u.14/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.15](../bbugyi200.apollo.bob-cli-6u.15/README.md) | bob-cli-6u hood | completed |
-| [bob-cli-6u.16](../bbugyi200.apollo.bob-cli-6u.16/README.md) | bob-cli-6u hood | waiting |
-| [bob-cli-6u.17](../bbugyi200.apollo.bob-cli-6u.17/README.md) | bob-cli-6u hood | waiting |
+| [bob-cli-6u.16](../../sessions/bbugyi200.apollo.bob-cli-6u.16.md) (session · 3) | bob-cli-6u hood | active 1, completed 1, failed 1 |
+| [bob-cli-6u.17](../../sessions/bbugyi200.apollo.bob-cli-6u.17.md) (session · 2) | bob-cli-6u hood | active 1, completed 1 |
 | [bob-cli-6u.2](../../sessions/bbugyi200.apollo.bob-cli-6u.2.md) (session · 5) | bob-cli-6u hood | completed 3, failed 2 |
 | [bob-cli-6u.3](../bbugyi200.apollo.bob-cli-6u.3/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.4](../bbugyi200.apollo.bob-cli-6u.4/README.md) | bob-cli-6u hood | completed |
