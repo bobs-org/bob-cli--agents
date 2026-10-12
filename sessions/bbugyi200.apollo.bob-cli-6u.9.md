@@ -43,8 +43,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-6u.13](../agents/bbugyi200.apollo.bob-cli-6u.13/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.14](../agents/bbugyi200.apollo.bob-cli-6u.14/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.15](../agents/bbugyi200.apollo.bob-cli-6u.15/README.md) | bob-cli-6u hood | completed |
-| [bob-cli-6u.16](bbugyi200.apollo.bob-cli-6u.16.md) (session · 3) | bob-cli-6u hood | active 1, completed 1, failed 1 |
-| [bob-cli-6u.17](bbugyi200.apollo.bob-cli-6u.17.md) (session · 2) | bob-cli-6u hood | active 1, completed 1 |
+| [bob-cli-6u.16](bbugyi200.apollo.bob-cli-6u.16.md) (session · 3) | bob-cli-6u hood | completed 2, failed 1 |
+| [bob-cli-6u.17](bbugyi200.apollo.bob-cli-6u.17.md) (session · 3) | bob-cli-6u hood | active 1, completed 1, failed 1 |
 | [bob-cli-6u.2](bbugyi200.apollo.bob-cli-6u.2.md) (session · 5) | bob-cli-6u hood | completed 3, failed 2 |
 | [bob-cli-6u.3](../agents/bbugyi200.apollo.bob-cli-6u.3/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.4](../agents/bbugyi200.apollo.bob-cli-6u.4/README.md) | bob-cli-6u hood | completed |

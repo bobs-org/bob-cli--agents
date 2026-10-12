@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-6u` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-6u.16--1 [active]"]
+  n0["bob-cli-6u.16--1 [completed]"]
   n1["bob-cli-6u.16--mon [failed]"]
   n0 --> n1
   n2["bob-cli-6u.16--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-6u.16--1 | active | gpt-6-luna / codex | 2026-10-12T21:03:20.156652+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.16--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-6u.16--1 | completed | gpt-6-luna / codex | 2026-10-12T21:03:20.156652+00:00 → 2026-10-12T21:12:43.797828+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.16--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.16--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-6u.16--mon | failed | gpt-6-luna / codex | 2026-10-12T21:01:28.425376+00:00 → 2026-10-12T21:03:20.665540+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.16--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-6u.16--plan | completed | gpt-6-luna / codex | 2026-10-12T20:55:08.631541+00:00 → 2026-10-12T21:02:17.386174+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.16--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.16--plan/chat.md) |
 
@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-6u.13](../agents/bbugyi200.apollo.bob-cli-6u.13/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.14](../agents/bbugyi200.apollo.bob-cli-6u.14/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.15](../agents/bbugyi200.apollo.bob-cli-6u.15/README.md) | bob-cli-6u hood | completed |
-| [bob-cli-6u.17](bbugyi200.apollo.bob-cli-6u.17.md) (session · 2) | bob-cli-6u hood | active 1, completed 1 |
+| [bob-cli-6u.17](bbugyi200.apollo.bob-cli-6u.17.md) (session · 3) | bob-cli-6u hood | active 1, completed 1, failed 1 |
 | [bob-cli-6u.2](bbugyi200.apollo.bob-cli-6u.2.md) (session · 5) | bob-cli-6u hood | completed 3, failed 2 |
 | [bob-cli-6u.3](../agents/bbugyi200.apollo.bob-cli-6u.3/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.4](../agents/bbugyi200.apollo.bob-cli-6u.4/README.md) | bob-cli-6u hood | completed |
