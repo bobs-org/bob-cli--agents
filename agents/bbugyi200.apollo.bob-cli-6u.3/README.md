@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6u](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6u/README.md) / bob-cli-6u.3
 
-**Global name:** `bbugyi200.apollo.bob-cli-6u.3` · **State:** waiting · **Source run:** `run-18fc55717f86da51c07c1dd570d249ef`
+**Global name:** `bbugyi200.apollo.bob-cli-6u.3` · **State:** active · **Source run:** `run-18fc55717f86da51c07c1dd570d249ef`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6u
 
@@ -12,18 +12,24 @@
 - Epic: [bob-cli-6u](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6u/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261012102658
-- Commits: 0
+- Timing: 2026-10-12T14:54:22.378014+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f51ba28`](https://github.com/bobs-org/bob-cli/commit/f51ba2890392ccf32e84dc0d9751c12bb4177912) | feat(freshness): read and write \[unblocked::\] with RESURFACED evaluation | 2026-10-12 11:22:28 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-6u.1](../bbugyi200.apollo.bob-cli-6u.1/README.md) | bob-cli-6u hood | active |
+| [bob-cli-6u.1](../bbugyi200.apollo.bob-cli-6u.1/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.10](../bbugyi200.apollo.bob-cli-6u.10/README.md) | bob-cli-6u hood | waiting |
 | [bob-cli-6u.11](../bbugyi200.apollo.bob-cli-6u.11/README.md) | bob-cli-6u hood | waiting |
 | [bob-cli-6u.12](../bbugyi200.apollo.bob-cli-6u.12/README.md) | bob-cli-6u hood | waiting |
@@ -32,7 +38,7 @@
 | [bob-cli-6u.15](../bbugyi200.apollo.bob-cli-6u.15/README.md) | bob-cli-6u hood | waiting |
 | [bob-cli-6u.16](../bbugyi200.apollo.bob-cli-6u.16/README.md) | bob-cli-6u hood | waiting |
 | [bob-cli-6u.17](../bbugyi200.apollo.bob-cli-6u.17/README.md) | bob-cli-6u hood | waiting |
-| [bob-cli-6u.2](../bbugyi200.apollo.bob-cli-6u.2/README.md) | bob-cli-6u hood | waiting |
+| [bob-cli-6u.2](../../sessions/bbugyi200.apollo.bob-cli-6u.2.md) (session · 5) | bob-cli-6u hood | active 1, completed 2, failed 2 |
 | [bob-cli-6u.4](../bbugyi200.apollo.bob-cli-6u.4/README.md) | bob-cli-6u hood | waiting |
 | [bob-cli-6u.5](../bbugyi200.apollo.bob-cli-6u.5/README.md) | bob-cli-6u hood | waiting |
 | [bob-cli-6u.6](../bbugyi200.apollo.bob-cli-6u.6/README.md) | bob-cli-6u hood | waiting |
