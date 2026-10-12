@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-10-12T10:42:41.247647+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/prj\_task\_dep\_links/prj\_task\_dep\_links\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261012064153/prj\_task\_dep\_links\_\_grk-332ba2acb1… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/prj_task_dep_links/prj_task_dep_links__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261012064153/prj_task_dep_links__grk-332ba2acb1c9.md
+  ref: file:explicit:0cbec591e7693b8e59a1db01
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202610/prj_task_dep_links/prj_task_dep_links__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.0z.cdx](../bbugyi200.apollo.research.0z.cdx/README.md) | research.0z hood | active |
+| [research.0z.cdx](../bbugyi200.apollo.research.0z.cdx/README.md) | research.0z hood | completed |
 | [research.0z.cld](../bbugyi200.apollo.research.0z.cld/README.md) | research.0z hood | active |
 | [research.0z.final](../bbugyi200.apollo.research.0z.final/README.md) | research.0z hood | waiting |
 | [research.0z.gem](../bbugyi200.apollo.research.0z.gem/README.md) | research.0z hood | active |
