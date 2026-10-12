@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6u](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6u/README.md) / bob-cli-6u.6
 
-**Global name:** `bbugyi200.apollo.bob-cli-6u.6` · **State:** active · **Source run:** `run-566153e436ab5ba4b9de6c6dce9aaf72`
+**Global name:** `bbugyi200.apollo.bob-cli-6u.6` · **State:** completed · **Source run:** `run-566153e436ab5ba4b9de6c6dce9aaf72`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6u
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-6u](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6u/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-12T16:05:42.371807+00:00
+- Timing: 2026-10-12T16:05:42.371807+00:00 → 2026-10-12T16:52:32.535161+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -44,5 +44,5 @@
 | [bob-cli-6u.5](../../sessions/bbugyi200.apollo.bob-cli-6u.5.md) (session · 3) | bob-cli-6u hood | completed 2, failed 1 |
 | [bob-cli-6u.7](../bbugyi200.apollo.bob-cli-6u.7/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.8](../bbugyi200.apollo.bob-cli-6u.8/README.md) | bob-cli-6u hood | completed |
-| [bob-cli-6u.9](../../sessions/bbugyi200.apollo.bob-cli-6u.9.md) (session · 3) | bob-cli-6u hood | active 2, completed 1 |
+| [bob-cli-6u.9](../../sessions/bbugyi200.apollo.bob-cli-6u.9.md) (session · 6) | bob-cli-6u hood | completed 3, failed 3 |
 | [bob-cli-6u.land](../bbugyi200.apollo.bob-cli-6u.land/README.md) | bob-cli-6u hood | waiting |
