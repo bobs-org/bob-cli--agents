@@ -38,7 +38,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-6u.17](bbugyi200.apollo.bob-cli-6u.17.md) (session · 3) | bob-cli-6u hood | completed 2, failed 1 |
 | [bob-cli-6u.18.1](../agents/bbugyi200.apollo.bob-cli-6u.18.1/README.md) | bob-cli-6u hood | active |
 | [bob-cli-6u.18.2](../agents/bbugyi200.apollo.bob-cli-6u.18.2/README.md) | bob-cli-6u hood | waiting |
-| [bob-cli-6u.18.3](../agents/bbugyi200.apollo.bob-cli-6u.18.3/README.md) | bob-cli-6u hood | active |
+| [bob-cli-6u.18.3](../agents/bbugyi200.apollo.bob-cli-6u.18.3/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.4](../agents/bbugyi200.apollo.bob-cli-6u.18.4/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.5](../agents/bbugyi200.apollo.bob-cli-6u.18.5/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.6](../agents/bbugyi200.apollo.bob-cli-6u.18.6/README.md) | bob-cli-6u hood | waiting |
