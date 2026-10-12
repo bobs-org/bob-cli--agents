@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-12T22:08:38.947722+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`524073e`](https://github.com/bobs-org/bob-cli/commit/524073e5775d9f4e851c40c0a0e572d1111dee63) | docs(task-deps): record nav-fixes ^prj blocking corrections | 2026-10-12 18:44:33 EDT |
 
 ## Neighbors
 
@@ -26,7 +32,7 @@
 | [bob-cli-6u.18.1](../bbugyi200.apollo.bob-cli-6u.18.1/README.md) | bob-cli-6u.18 hood | active |
 | [bob-cli-6u.18.2](../bbugyi200.apollo.bob-cli-6u.18.2/README.md) | bob-cli-6u.18 hood | waiting |
 | [bob-cli-6u.18.3](../bbugyi200.apollo.bob-cli-6u.18.3/README.md) | bob-cli-6u.18 hood | active |
-| [bob-cli-6u.18.5](../bbugyi200.apollo.bob-cli-6u.18.5/README.md) | bob-cli-6u.18 hood | active |
+| [bob-cli-6u.18.5](../bbugyi200.apollo.bob-cli-6u.18.5/README.md) | bob-cli-6u.18 hood | completed |
 | [bob-cli-6u.18.6](../bbugyi200.apollo.bob-cli-6u.18.6/README.md) | bob-cli-6u.18 hood | waiting |
 | [bob-cli-6u.18.land](../bbugyi200.apollo.bob-cli-6u.18.land/README.md) | bob-cli-6u.18 hood | waiting |
 | [bob-cli-6u.1](../bbugyi200.apollo.bob-cli-6u.1/README.md) | bob-cli-6u hood | completed |
