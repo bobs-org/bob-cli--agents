@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0z.image
 
-**Global name:** `bbugyi200.apollo.research.0z.image` · **State:** waiting · **Source run:** `run-4e1d12f54883d5d0923fee5cefc8d5b7`
+**Global name:** `bbugyi200.apollo.research.0z.image` · **State:** active · **Source run:** `run-4e1d12f54883d5d0923fee5cefc8d5b7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261012064201
+- Timing: 2026-10-12T11:24:13.022502+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: research:202610/project\_dependency\_blocking/project\_dependency\_blocking\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261012064201/project\_dep… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: research:202610/project_dependency_blocking/project_dependency_blocking_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261012064201/project_dependency_blocking_infographic-916181a6d0b8.png
+  ref: file:explicit:4b6b9f260ded2ef77fe1a208
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/project_dependency_blocking/project_dependency_blocking_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +42,11 @@
 |---|---|---|
 | [research.0z.cdx](../bbugyi200.apollo.research.0z.cdx/README.md) | research.0z hood | completed |
 | [research.0z.cld](../bbugyi200.apollo.research.0z.cld/README.md) | research.0z hood | completed |
-| [research.0z.final](../bbugyi200.apollo.research.0z.final/README.md) | research.0z hood | active |
+| [research.0z.final](../bbugyi200.apollo.research.0z.final/README.md) | research.0z hood | completed |
 | [research.0z.gem](../bbugyi200.apollo.research.0z.gem/README.md) | research.0z hood | completed |
 | [research.0z.grk](../bbugyi200.apollo.research.0z.grk/README.md) | research.0z hood | completed |
 | [research.0z.linker](../bbugyi200.apollo.research.0z.linker/README.md) | research.0z hood | waiting |
+| [research.0z.linker.w0](../bbugyi200.apollo.research.0z.linker.w0/README.md) | research.0z hood | waiting |
 | [research.0z.mus](../bbugyi200.apollo.research.0z.mus/README.md) | research.0z hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
