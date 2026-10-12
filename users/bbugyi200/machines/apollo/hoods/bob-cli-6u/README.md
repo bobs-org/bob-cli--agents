@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-6u
 
-**Global hood:** `bbugyi200.apollo.bob-cli-6u` · **Runs:** 43 · **Sessions:** 6 · **States:** active 1, completed 28, failed 11, waiting 3
+**Global hood:** `bbugyi200.apollo.bob-cli-6u` · **Runs:** 43 · **Sessions:** 6 · **States:** active 1, completed 29, failed 11, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -27,10 +27,10 @@
 | [bob-cli-6u.4](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.4/README.md) | completed | grok-4.6 / grok | 2026-10-12T15:25:17.934243+00:00 → 2026-10-12T16:17:41.070798+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.4/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.4/chat.md) |
 | [bob-cli-6u.2--2](../../../../../../sessions/bbugyi200.apollo.bob-cli-6u.2.md#member-2) | completed | gpt-6-luna / codex | 2026-10-12T15:20:33.061581+00:00 → 2026-10-12T15:24:51.135774+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.2--2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.2--2/chat.md) |
 | [bob-cli-6u.land--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-6u.land.md#member-plan) | failed | opus / claude | 2026-10-12T21:22:28.640587+00:00 → 2026-10-12T22:07:13.741825+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.land--plan/chat.md) |
-| [bob-cli-6u.18.1](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.1/README.md) | active | grok-4.6 / grok | 2026-10-12T22:08:34.088853+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.1/prompt.md) |
+| [bob-cli-6u.18.1](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.1/README.md) | completed | grok-4.6 / grok | 2026-10-12T22:08:34.088853+00:00 → 2026-10-12T23:25:02.164631+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.1/chat.md) |
 | [bob-cli-6u.16--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-6u.16.md#member-plan) | completed | gpt-6-luna / codex | 2026-10-12T20:55:08.631541+00:00 → 2026-10-12T21:02:17.386174+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.16--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.16--plan/chat.md) |
 | [bob-cli-6u.17--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-6u.17.md#member-plan) | completed | grok-4.6 / grok | 2026-10-12T20:55:03.983977+00:00 → 2026-10-12T21:10:00.534445+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.17--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.17--plan/chat.md) |
-| [bob-cli-6u.18.2](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.2/README.md) | waiting | grok-4.6 / grok | 20261012180743 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.2/prompt.md) |
+| [bob-cli-6u.18.2](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.2/README.md) | active | grok-4.6 / grok | 2026-10-12T23:25:17.003180+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.2/prompt.md) |
 | [bob-cli-6u.9--mon](../../../../../../sessions/bbugyi200.apollo.bob-cli-6u.9.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-12T16:45:50.064436+00:00 → 2026-10-12T16:51:18.622608+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.9--mon/chat.md) |
 | [bob-cli-6u.land--mon](../../../../../../sessions/bbugyi200.apollo.bob-cli-6u.land.md#member-mon) | failed | opus / claude | 2026-10-12T22:06:59.133824+00:00 → 2026-10-12T22:08:17.571271+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.land--mon/chat.md) |
 | [bob-cli-6u.18.5](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.5/README.md) | completed | gpt-6-luna / codex | 2026-10-12T22:08:43.779612+00:00 → 2026-10-12T22:21:51.758446+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.5/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.5/chat.md) |
