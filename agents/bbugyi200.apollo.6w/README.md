@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6w](../../users/bbugyi200/machines/apollo/hoods/6w/README.md) / 6w
 
-**Global name:** `bbugyi200.apollo.6w` · **State:** active · **Source run:** `run-a0a19060cfdb21240fed5941f265c50f`
+**Global name:** `bbugyi200.apollo.6w` · **State:** completed · **Source run:** `run-a0a19060cfdb21240fed5941f265c50f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 6w
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-12T09:31:38.953429+00:00
+- Timing: 2026-10-12T09:31:38.953429+00:00 → 2026-10-12T10:16:44.216059+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,4 +40,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [6w.w0](../bbugyi200.apollo.6w.w0/README.md) | descendant | waiting |
+| [6w.w0](../../sessions/bbugyi200.apollo.6w.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
