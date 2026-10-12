@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-83710aecf640d3f0fd06ffc94a99b065"}
+{"commits":[{"committed_at":1791821737,"sha":"23f2fd90e7bade2f6ff5973a6d3e4e6892208a0b","subject":"feat(projects): hoist YAML scheduled onto ^prj and keep inline dates"}],"schema_version":2,"source_run_id":"run-83710aecf640d3f0fd06ffc94a99b065"}
