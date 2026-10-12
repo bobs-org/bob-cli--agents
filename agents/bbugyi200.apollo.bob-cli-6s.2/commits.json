@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-030494e43859153e483c0e376118cb4c"}
+{"commits":[{"committed_at":1791811264,"sha":"54a54bf64e2ea6510da6fcbd6fb22025af59b43e","subject":"feat(native): add shared project-dependency model"}],"schema_version":2,"source_run_id":"run-030494e43859153e483c0e376118cb4c"}
