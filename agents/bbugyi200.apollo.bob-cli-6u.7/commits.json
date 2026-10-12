@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d61a8d46c085d5cdf14f2cf4b7e6f4c7"}
+{"commits":[{"committed_at":1791820231,"sha":"13d183ff74594ae691034c83ce43d2d5b21d3f80","subject":"feat(task-complete): respect project blocking in close paths"}],"schema_version":2,"source_run_id":"run-d61a8d46c085d5cdf14f2cf4b7e6f4c7"}
