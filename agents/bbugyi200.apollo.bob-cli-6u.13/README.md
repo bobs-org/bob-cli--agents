@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6u](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6u/README.md) / bob-cli-6u.13
 
-**Global name:** `bbugyi200.apollo.bob-cli-6u.13` · **State:** waiting · **Source run:** `run-cb378d6a9ab385d65959e89e3f0ecb1a`
+**Global name:** `bbugyi200.apollo.bob-cli-6u.13` · **State:** active · **Source run:** `run-cb378d6a9ab385d65959e89e3f0ecb1a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6u
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-6u](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6u/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261012102709
-- Commits: 0
+- Timing: 2026-10-12T18:29:40.825079+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`a36a39b`](https://github.com/bobs-org/bob-cli/commit/a36a39bd8061286e5080c5636c3cdb6a21f5b0b2) | docs(task-deps): Ctrl+Shift+P Depends on for ^prj blocks residents | 2026-10-12 15:00:26 EDT |
 
 ## Neighbors
 
@@ -26,7 +32,7 @@
 | [bob-cli-6u.1](../bbugyi200.apollo.bob-cli-6u.1/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.10](../bbugyi200.apollo.bob-cli-6u.10/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.11](../bbugyi200.apollo.bob-cli-6u.11/README.md) | bob-cli-6u hood | completed |
-| [bob-cli-6u.12](../bbugyi200.apollo.bob-cli-6u.12/README.md) | bob-cli-6u hood | active |
+| [bob-cli-6u.12](../bbugyi200.apollo.bob-cli-6u.12/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.14](../bbugyi200.apollo.bob-cli-6u.14/README.md) | bob-cli-6u hood | waiting |
 | [bob-cli-6u.15](../bbugyi200.apollo.bob-cli-6u.15/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.16](../bbugyi200.apollo.bob-cli-6u.16/README.md) | bob-cli-6u hood | waiting |
