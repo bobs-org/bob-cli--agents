@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.0z.final
 
-**Global name:** `bbugyi200.apollo.research.0z.final` · **State:** waiting · **Source run:** `run-25ad88093242598316c542fe32e1746b`
+**Global name:** `bbugyi200.apollo.research.0z.final` · **State:** active · **Source run:** `run-25ad88093242598316c542fe32e1746b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261012064159
+- Timing: 2026-10-12T11:10:30.518657+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/project\_dependency\_blocking/project\_dependency\_blocking\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261012064159/project\_depend… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/project_dependency_blocking/project_dependency_blocking__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261012064159/project_dependency_blocking__final-a5786a06ffbe.md
+  ref: file:explicit:cdb631c6e2cc0188aa5ab8da
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/project_dependency_blocking/project_dependency_blocking__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.0z.cdx](../bbugyi200.apollo.research.0z.cdx/README.md) | research.0z hood | completed |
-| [research.0z.cld](../bbugyi200.apollo.research.0z.cld/README.md) | research.0z hood | active |
+| [research.0z.cld](../bbugyi200.apollo.research.0z.cld/README.md) | research.0z hood | completed |
 | [research.0z.gem](../bbugyi200.apollo.research.0z.gem/README.md) | research.0z hood | completed |
 | [research.0z.grk](../bbugyi200.apollo.research.0z.grk/README.md) | research.0z hood | completed |
 | [research.0z.image](../bbugyi200.apollo.research.0z.image/README.md) | research.0z hood | waiting |
