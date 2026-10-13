@@ -27,7 +27,7 @@
 | [bob-cli-7c.2](../../sessions/bbugyi200.apollo.bob-cli-7c.2.md) (session · 3) | bob-cli-7c hood | active 2, failed 1 |
 | [bob-cli-7c.3](../bbugyi200.apollo.bob-cli-7c.3/README.md) | bob-cli-7c hood | waiting |
 | [bob-cli-7c.4](../../sessions/bbugyi200.apollo.bob-cli-7c.4.md) (session · 3) | bob-cli-7c hood | active 2, failed 1 |
-| [bob-cli-7c.5](../../sessions/bbugyi200.apollo.bob-cli-7c.5.md) (session · 3) | bob-cli-7c hood | active 2, failed 1 |
+| [bob-cli-7c.5](../../sessions/bbugyi200.apollo.bob-cli-7c.5.md) (session · 5) | bob-cli-7c hood | active 1, completed 2, failed 2 |
 | [bob-cli-7c.7](../bbugyi200.apollo.bob-cli-7c.7/README.md) | bob-cli-7c hood | waiting |
 | [bob-cli-7c.8](../bbugyi200.apollo.bob-cli-7c.8/README.md) | bob-cli-7c hood | waiting |
 | [bob-cli-7c.land](../bbugyi200.apollo.bob-cli-7c.land/README.md) | bob-cli-7c hood | waiting |
