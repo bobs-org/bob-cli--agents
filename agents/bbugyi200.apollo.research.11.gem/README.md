@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-13T12:20:03.591944+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/prompted\_unblocked\_successor\_selection\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261013081845/prompted\_unblocked\_successor\_sele… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/prompted_unblocked_successor_selection__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261013081845/prompted_unblocked_successor_selection__gem-007994901553.md
+  ref: file:explicit:246218e12944768492162a57
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202610/prompted_unblocked_successor_selection__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.11.grk](../bbugyi200.apollo.research.11.grk/README.md) | research.11 hood | active |
 | [research.11.image](../bbugyi200.apollo.research.11.image/README.md) | research.11 hood | waiting |
 | [research.11.linker](../bbugyi200.apollo.research.11.linker/README.md) | research.11 hood | waiting |
-| [research.11.mus](../bbugyi200.apollo.research.11.mus/README.md) | research.11 hood | active |
+| [research.11.mus](../bbugyi200.apollo.research.11.mus/README.md) | research.11 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
