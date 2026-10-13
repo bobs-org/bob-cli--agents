@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 216 · **Sessions:** 6 · **States:** active 137, completed 65, failed 10, waiting 4
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 216 · **Sessions:** 6 · **States:** active 136, completed 66, failed 10, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -104,7 +104,7 @@
 | [research.final-5](../../../../../../agents/bbugyi200.athena.research.final-5/README.md) | completed | — | 2026-06-03T20:22:25+00:00 → 2026-06-03T20:22:25+00:00 | 1 | — |
 | [research.cld-10](../../../../../../agents/bbugyi200.athena.research.cld-10/README.md) | completed | — | 2026-06-04T23:31:32+00:00 → 2026-06-04T23:31:32+00:00 | 1 | — |
 | [research.48.cdx](../../../../../../agents/bbugyi200.athena.research.48.cdx/README.md) | active | gpt-6.1-sol / codex | 2026-10-09T20:02:15.948616+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.48.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.48.cdx/chat.md) |
-| [research.4b.mus](../../../../../../agents/bbugyi200.athena.research.4b.mus/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-13T12:38:58.975161+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4b.mus/prompt.md) |
+| [research.4b.mus](../../../../../../agents/bbugyi200.athena.research.4b.mus/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-13T12:38:58.975161+00:00 → 2026-10-13T12:46:15.015584+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4b.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.4b.mus/chat.md) |
 | [research.cld-6](../../../../../../agents/bbugyi200.athena.research.cld-6/README.md) | completed | — | 2026-06-04T13:17:12+00:00 → 2026-06-04T13:17:12+00:00 | 1 | — |
 | [research.3a.mus](../../../../../../agents/bbugyi200.athena.research.3a.mus/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-01T21:19:10.812946+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3a.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.3a.mus/chat.md) |
 | [research.3w.linker.w1--plan](../../../../../../sessions/bbugyi200.athena.research.3w.linker.w1.md#member-plan) | active | opus / claude | 2026-10-07T11:46:25.821672+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3w.linker.w1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.3w.linker.w1--plan/chat.md) |
