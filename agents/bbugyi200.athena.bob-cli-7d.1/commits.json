@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fb2fe15c6847b26d8d4976ba5c818d07"}
+{"commits":[{"committed_at":1791900822,"sha":"f2f2fd037f3cec857374af1c34fe37e137ef3052","subject":"feat(capture): whole-draft /query Go To grammar, candidates, docs, and digest vectors"}],"schema_version":2,"source_run_id":"run-fb2fe15c6847b26d8d4976ba5c818d07"}
