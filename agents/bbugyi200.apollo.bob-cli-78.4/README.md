@@ -24,10 +24,10 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-78.1](../bbugyi200.apollo.bob-cli-78.1/README.md) | bob-cli-78 hood | completed |
-| [bob-cli-78.2](../bbugyi200.apollo.bob-cli-78.2/README.md) | bob-cli-78 hood | active |
+| [bob-cli-78.2](../../sessions/bbugyi200.apollo.bob-cli-78.2.md) (session · 3) | bob-cli-78 hood | active 1, completed 1, failed 1 |
 | [bob-cli-78.3](../bbugyi200.apollo.bob-cli-78.3/README.md) | bob-cli-78 hood | waiting |
-| [bob-cli-78.5](../bbugyi200.apollo.bob-cli-78.5/README.md) | bob-cli-78 hood | active |
-| [bob-cli-78.6](../bbugyi200.apollo.bob-cli-78.6/README.md) | bob-cli-78 hood | waiting |
+| [bob-cli-78.5](../bbugyi200.apollo.bob-cli-78.5/README.md) | bob-cli-78 hood | completed |
+| [bob-cli-78.6](../bbugyi200.apollo.bob-cli-78.6/README.md) | bob-cli-78 hood | completed |
 | [bob-cli-78.7](../bbugyi200.apollo.bob-cli-78.7/README.md) | bob-cli-78 hood | completed |
 | [bob-cli-78.8](../bbugyi200.apollo.bob-cli-78.8/README.md) | bob-cli-78 hood | waiting |
 | [bob-cli-78.land](../bbugyi200.apollo.bob-cli-78.land/README.md) | bob-cli-78 hood | waiting |
