@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-10-13T13:37:35.005270+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/task\_blocks\_line\_on\_prerequisites\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261013093559/task\_blocks\_line\_on\_prerequisites\_\_grk… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/task_blocks_line_on_prerequisites__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261013093559/task_blocks_line_on_prerequisites__grk-8e6a62a21712.md
+  ref: file:explicit:caeb5350eb0e612706b71ba3
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202610/task_blocks_line_on_prerequisites__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4d.cdx](../bbugyi200.athena.research.4d.cdx/README.md) | research.4d hood | active |
+| [research.4d.cdx](../bbugyi200.athena.research.4d.cdx/README.md) | research.4d hood | completed |
 | [research.4d.cld](../bbugyi200.athena.research.4d.cld/README.md) | research.4d hood | active |
 | [research.4d.final](../bbugyi200.athena.research.4d.final/README.md) | research.4d hood | waiting |
 | [research.4d.gem](../bbugyi200.athena.research.4d.gem/README.md) | research.4d hood | completed |
