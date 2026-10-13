@@ -8,7 +8,6 @@
 
 ## Summary
 
-- Bead: [bob-cli-7b.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-7b/bob-cli-7b.1.md)
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-13T13:21:21.614856+00:00
