@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4b.gem
 
-**Global name:** `bbugyi200.athena.research.4b.gem` · **State:** active · **Source run:** `run-d7ed57801d9817271e60a7ff8ef83030`
+**Global name:** `bbugyi200.athena.research.4b.gem` · **State:** completed · **Source run:** `run-d7ed57801d9817271e60a7ff8ef83030`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-13T12:39:17.986164+00:00
+- Timing: 2026-10-13T12:39:17.986164+00:00 → 2026-10-13T12:52:57.374660+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,9 +40,9 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4b.cdx](../bbugyi200.athena.research.4b.cdx/README.md) | research.4b hood | active |
+| [research.4b.cdx](../bbugyi200.athena.research.4b.cdx/README.md) | research.4b hood | completed |
 | [research.4b.cld](../bbugyi200.athena.research.4b.cld/README.md) | research.4b hood | completed |
-| [research.4b.final](../bbugyi200.athena.research.4b.final/README.md) | research.4b hood | waiting |
+| [research.4b.final](../bbugyi200.athena.research.4b.final/README.md) | research.4b hood | active |
 | [research.4b.grk](../bbugyi200.athena.research.4b.grk/README.md) | research.4b hood | completed |
 | [research.4b.image](../bbugyi200.athena.research.4b.image/README.md) | research.4b hood | waiting |
 | [research.4b.linker](../bbugyi200.athena.research.4b.linker/README.md) | research.4b hood | waiting |
