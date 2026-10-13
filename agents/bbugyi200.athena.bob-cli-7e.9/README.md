@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-7e](../../users/bbugyi200/machines/athena/hoods/bob-cli-7e/README.md) / bob-cli-7e.9
 
-**Global name:** `bbugyi200.athena.bob-cli-7e.9` · **State:** waiting · **Source run:** `run-296fa6a1d23e19f1c250507100b05e6d`
+**Global name:** `bbugyi200.athena.bob-cli-7e.9` · **State:** completed · **Source run:** `run-296fa6a1d23e19f1c250507100b05e6d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-7e
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-7e](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-7e/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261013111104
+- Timing: 2026-10-13T19:03:16.655761+00:00 → 2026-10-13T19:18:27.160169+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -30,5 +30,5 @@
 | [bob-cli-7e.5](../bbugyi200.athena.bob-cli-7e.5/README.md) | bob-cli-7e hood | completed |
 | [bob-cli-7e.6](../bbugyi200.athena.bob-cli-7e.6/README.md) | bob-cli-7e hood | completed |
 | [bob-cli-7e.7](../bbugyi200.athena.bob-cli-7e.7/README.md) | bob-cli-7e hood | completed |
-| [bob-cli-7e.8](../bbugyi200.athena.bob-cli-7e.8/README.md) | bob-cli-7e hood | active |
-| [bob-cli-7e.land](../bbugyi200.athena.bob-cli-7e.land/README.md) | bob-cli-7e hood | waiting |
+| [bob-cli-7e.8](../bbugyi200.athena.bob-cli-7e.8/README.md) | bob-cli-7e hood | completed |
+| [bob-cli-7e.land](../bbugyi200.athena.bob-cli-7e.land/README.md) | bob-cli-7e hood | active |
