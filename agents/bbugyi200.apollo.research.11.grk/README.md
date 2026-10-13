@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 2026-10-13T12:19:42.844915+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/prompt\_unblocked\_successor\_selection\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261013081841/prompt\_unblocked\_successor\_selectio… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/prompt_unblocked_successor_selection__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261013081841/prompt_unblocked_successor_selection__grk-0153fafe086e.md
+  ref: file:explicit:5290d7347d489ae51c80eb4d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202610/prompt_unblocked_successor_selection__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

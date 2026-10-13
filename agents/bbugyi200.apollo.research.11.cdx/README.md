@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-13T12:19:28.194314+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/successor\_task\_selection\_after\_completion\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261013081833/successor\_task\_selection\_after… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/successor_task_selection_after_completion__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261013081833/successor_task_selection_after_completion__cdx-3c1ad5daff0f.md
+  ref: file:explicit:bba92f9467e3cdd32c594abf
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/successor_task_selection_after_completion__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
