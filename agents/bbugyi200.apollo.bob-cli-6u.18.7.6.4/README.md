@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-6u.18.7.6.1](../bbugyi200.apollo.bob-cli-6u.18.7.6.1/README.md) | bob-cli-6u.18.7.6 hood | active |
 | [bob-cli-6u.18.7.6.2](../bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u.18.7.6 hood | active |
-| [bob-cli-6u.18.7.6.3](../bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u.18.7.6 hood | active |
+| [bob-cli-6u.18.7.6.3](../bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u.18.7.6 hood | completed |
 | [bob-cli-6u.18.7.6.land](../bbugyi200.apollo.bob-cli-6u.18.7.6.land/README.md) | bob-cli-6u.18.7.6 hood | waiting |
 | [bob-cli-6u.18.7.1](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.1.md) (session · 5) | bob-cli-6u.18.7 hood | completed 3, failed 2 |
 | [bob-cli-6u.18.7.2](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.2.md) (session · 3) | bob-cli-6u.18.7 hood | completed 2, failed 1 |
