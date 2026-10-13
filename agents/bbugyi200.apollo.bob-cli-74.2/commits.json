@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-649c30cbd3088626da737ceae0e39a99"}
+{"commits":[{"committed_at":1791866088,"sha":"5fc27f0818e7b677b3da3bff23253b0f0c5a8387","subject":"feat(pull-in): shared sync surface predicate and Rust pull-in planner"}],"schema_version":2,"source_run_id":"run-649c30cbd3088626da737ceae0e39a99"}
