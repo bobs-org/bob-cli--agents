@@ -1,0 +1,8 @@
+#gh:gh_bobs-org__bob-cli I keep receiving the "App Background Activity" message on my macbook when
+running the `just install-all` command. I need to manually hit the "X" button on this
+notification every time so it is pretty annoying. See the
+~/tmp/screenshots/20261013_050016.png screenshot for context.
+
+Can you do some research with the goal of helping me figure out how to stop this
+notification from popping up? Make sure your report is concise and easy to understand.
+#research %m:@xlarge
