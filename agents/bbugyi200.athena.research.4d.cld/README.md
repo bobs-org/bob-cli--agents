@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-13T13:37:15.759663+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/blocks\_line\_reverse\_dependency\_mirror\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261013093558/blocks\_line\_reverse\_dependency\_mir… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/blocks_line_reverse_dependency_mirror__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261013093558/blocks_line_reverse_dependency_mirror__cld-65a711e923d5.md
+  ref: file:explicit:46098c92b2089986292d458e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/blocks_line_reverse_dependency_mirror__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.4d.cdx](../bbugyi200.athena.research.4d.cdx/README.md) | research.4d hood | completed |
 | [research.4d.final](../bbugyi200.athena.research.4d.final/README.md) | research.4d hood | waiting |
 | [research.4d.gem](../bbugyi200.athena.research.4d.gem/README.md) | research.4d hood | completed |
-| [research.4d.grk](../bbugyi200.athena.research.4d.grk/README.md) | research.4d hood | active |
+| [research.4d.grk](../bbugyi200.athena.research.4d.grk/README.md) | research.4d hood | completed |
 | [research.4d.image](../bbugyi200.athena.research.4d.image/README.md) | research.4d hood | waiting |
 | [research.4d.linker](../bbugyi200.athena.research.4d.linker/README.md) | research.4d hood | waiting |
 | [research.4d.mus](../bbugyi200.athena.research.4d.mus/README.md) | research.4d hood | completed |

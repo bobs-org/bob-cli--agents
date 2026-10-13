@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 3
 ```mermaid
 flowchart TD
   n0["research.4b.linker.w0--plan [completed]"]
-  n1["research.4b.linker.w0--mon [active]"]
+  n1["research.4b.linker.w0--mon [failed]"]
   n0 --> n1
   n2["research.4b.linker.w0--gate [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | research.4b.linker.w0--plan | completed | opus / claude | 2026-10-13T13:24:38.249730+00:00 → 2026-10-13T13:44:43.655549+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.4b.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.4b.linker.w0--plan/chat.md) |
-| <a id="member-mon"></a>mon | research.4b.linker.w0--mon | active | opus / claude | 2026-10-13T13:49:07.883274+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | research.4b.linker.w0--mon | failed | opus / claude | 2026-10-13T13:49:07.883274+00:00 → 2026-10-13T13:52:42.301046+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.4b.linker.w0--mon/chat.md) |
 | <a id="member-gate"></a>gate | research.4b.linker.w0--gate | failed | opus / claude | 2026-10-13T13:48:36.730397+00:00 → 2026-10-13T13:49:09.799437+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.4b.linker.w0--gate/chat.md) |
 
 ## Neighbors
