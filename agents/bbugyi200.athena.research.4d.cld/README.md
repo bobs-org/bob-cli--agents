@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4d.cld
 
-**Global name:** `bbugyi200.athena.research.4d.cld` · **State:** active · **Source run:** `run-adda1a6670464e596d9b7cb593c925ce`
+**Global name:** `bbugyi200.athena.research.4d.cld` · **State:** completed · **Source run:** `run-adda1a6670464e596d9b7cb593c925ce`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-13T13:37:15.759663+00:00
+- Timing: 2026-10-13T13:37:15.759663+00:00 → 2026-10-13T13:58:38.686531+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -41,7 +41,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.4d.cdx](../bbugyi200.athena.research.4d.cdx/README.md) | research.4d hood | completed |
-| [research.4d.final](../bbugyi200.athena.research.4d.final/README.md) | research.4d hood | waiting |
+| [research.4d.final](../bbugyi200.athena.research.4d.final/README.md) | research.4d hood | active |
 | [research.4d.gem](../bbugyi200.athena.research.4d.gem/README.md) | research.4d hood | completed |
 | [research.4d.grk](../bbugyi200.athena.research.4d.grk/README.md) | research.4d hood | completed |
 | [research.4d.image](../bbugyi200.athena.research.4d.image/README.md) | research.4d hood | waiting |
