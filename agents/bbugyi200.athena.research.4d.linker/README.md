@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4d.linker
 
-**Global name:** `bbugyi200.athena.research.4d.linker` · **State:** waiting · **Source run:** `run-56509985f84e7157ad0cc87ddd00d629`
+**Global name:** `bbugyi200.athena.research.4d.linker` · **State:** active · **Source run:** `run-56509985f84e7157ad0cc87ddd00d629`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261013093604
+- Timing: 2026-10-13T14:23:32.077183+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/prerequisite\_blocks\_line/prerequisite\_blocks\_line.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261013093604/prerequisite\_blocks\_line-4c… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/prerequisite_blocks_line/prerequisite_blocks_line.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261013093604/prerequisite_blocks_line-4cf3da1a5544.md
+  ref: file:explicit:11bdfb8a21f19e867e8bdb6f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/prerequisite_blocks_line/prerequisite_blocks_line.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.4d.final](../bbugyi200.athena.research.4d.final/README.md) | research.4d hood | completed |
 | [research.4d.gem](../bbugyi200.athena.research.4d.gem/README.md) | research.4d hood | completed |
 | [research.4d.grk](../bbugyi200.athena.research.4d.grk/README.md) | research.4d hood | completed |
-| [research.4d.image](../bbugyi200.athena.research.4d.image/README.md) | research.4d hood | active |
+| [research.4d.image](../bbugyi200.athena.research.4d.image/README.md) | research.4d hood | completed |
 | [research.4d.mus](../bbugyi200.athena.research.4d.mus/README.md) | research.4d hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
