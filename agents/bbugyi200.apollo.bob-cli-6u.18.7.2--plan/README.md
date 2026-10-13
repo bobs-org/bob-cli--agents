@@ -24,10 +24,15 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-6u.18.7.1](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.1.md) (session · 5) | bob-cli-6u.18.7 hood | completed 3, failed 2 |
-| [bob-cli-6u.18.7.3](../bbugyi200.apollo.bob-cli-6u.18.7.3/README.md) | bob-cli-6u.18.7 hood | active |
+| [bob-cli-6u.18.7.3](../bbugyi200.apollo.bob-cli-6u.18.7.3/README.md) | bob-cli-6u.18.7 hood | completed |
 | [bob-cli-6u.18.7.4](../bbugyi200.apollo.bob-cli-6u.18.7.4/README.md) | bob-cli-6u.18.7 hood | completed |
-| [bob-cli-6u.18.7.5](../bbugyi200.apollo.bob-cli-6u.18.7.5/README.md) | bob-cli-6u.18.7 hood | waiting |
-| [bob-cli-6u.18.7.land](../bbugyi200.apollo.bob-cli-6u.18.7.land/README.md) | bob-cli-6u.18.7 hood | waiting |
+| [bob-cli-6u.18.7.5](../bbugyi200.apollo.bob-cli-6u.18.7.5/README.md) | bob-cli-6u.18.7 hood | completed |
+| [bob-cli-6u.18.7.6.1](../bbugyi200.apollo.bob-cli-6u.18.7.6.1/README.md) | bob-cli-6u.18.7 hood | active |
+| [bob-cli-6u.18.7.6.2](../bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u.18.7 hood | active |
+| [bob-cli-6u.18.7.6.3](../bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u.18.7 hood | active |
+| [bob-cli-6u.18.7.6.4](../bbugyi200.apollo.bob-cli-6u.18.7.6.4/README.md) | bob-cli-6u.18.7 hood | waiting |
+| [bob-cli-6u.18.7.6.land](../bbugyi200.apollo.bob-cli-6u.18.7.6.land/README.md) | bob-cli-6u.18.7 hood | waiting |
+| [bob-cli-6u.18.7.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.land.md) (session · 3) | bob-cli-6u.18.7 hood | failed 3 |
 | [bob-cli-6u.18.1](../bbugyi200.apollo.bob-cli-6u.18.1/README.md) | bob-cli-6u.18 hood | completed |
 | [bob-cli-6u.18.2](../bbugyi200.apollo.bob-cli-6u.18.2/README.md) | bob-cli-6u.18 hood | completed |
 | [bob-cli-6u.18.3](../bbugyi200.apollo.bob-cli-6u.18.3/README.md) | bob-cli-6u.18 hood | completed |
