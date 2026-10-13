@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.11.cdx](../bbugyi200.apollo.research.11.cdx/README.md) | research.11 hood | active |
 | [research.11.final](../bbugyi200.apollo.research.11.final/README.md) | research.11 hood | waiting |
-| [research.11.gem](../bbugyi200.apollo.research.11.gem/README.md) | research.11 hood | active |
+| [research.11.gem](../bbugyi200.apollo.research.11.gem/README.md) | research.11 hood | completed |
 | [research.11.grk](../bbugyi200.apollo.research.11.grk/README.md) | research.11 hood | active |
 | [research.11.image](../bbugyi200.apollo.research.11.image/README.md) | research.11 hood | waiting |
 | [research.11.linker](../bbugyi200.apollo.research.11.linker/README.md) | research.11 hood | waiting |
