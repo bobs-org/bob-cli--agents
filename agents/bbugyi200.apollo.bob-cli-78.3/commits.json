@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c7aa1a6fa4332b48398e3050ea406b42"}
+{"commits":[{"committed_at":1791885272,"sha":"6eceb00b76e1b4b93647451b3febdae07723d8dc","subject":"feat(task-complete): honor project close cascade with tag proxy and pull-in"}],"schema_version":2,"source_run_id":"run-c7aa1a6fa4332b48398e3050ea406b42"}
