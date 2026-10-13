@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.bob-cli.8\_406070.2
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.8_406070.2` · **State:** waiting · **Source run:** `run-fae9bc06e26c546813f36f527682e45c`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.8_406070.2` · **State:** active · **Source run:** `run-fae9bc06e26c546813f36f527682e45c`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** chop
 
@@ -10,18 +10,24 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 20261013073944
-- Commits: 0
+- Timing: 2026-10-13T12:11:09.582550+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`39edfa2`](https://github.com/bobs-org/bob-cli/commit/39edfa25d297871269b1b0bea5e525556a5936f3) | docs: clarify verified review and reference workflows | 2026-10-13 08:27:01 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.bob-cli.8\_406070.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.8_406070.1/README.md) | chop.refresh\_docs.bob-cli.8\_406070 hood | active |
+| [chop.refresh\_docs.bob-cli.8\_406070.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.8_406070.1/README.md) | chop.refresh\_docs.bob-cli.8\_406070 hood | completed |
 | [chop.refresh\_docs.bob-cli.0\_794067.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.0\_794067.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
