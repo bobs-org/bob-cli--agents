@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.11.image
 
-**Global name:** `bbugyi200.apollo.research.11.image` · **State:** waiting · **Source run:** `run-3182e26ba81784342833e64591a266da`
+**Global name:** `bbugyi200.apollo.research.11.image` · **State:** active · **Source run:** `run-3182e26ba81784342833e64591a266da`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261013081850
+- Timing: 2026-10-13T13:03:42.430651+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: research:202610/successor\_pull\_in\_offers/successor\_pull\_in\_offers\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261013081850/successor\_pull\_in… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: research:202610/successor_pull_in_offers/successor_pull_in_offers_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261013081850/successor_pull_in_offers_infographic-4d614f050d54.png
+  ref: file:explicit:d015bec6f6fc37a6cfc13120
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/successor_pull_in_offers/successor_pull_in_offers_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.11.cdx](../bbugyi200.apollo.research.11.cdx/README.md) | research.11 hood | completed |
 | [research.11.cld](../bbugyi200.apollo.research.11.cld/README.md) | research.11 hood | completed |
-| [research.11.final](../bbugyi200.apollo.research.11.final/README.md) | research.11 hood | active |
+| [research.11.final](../bbugyi200.apollo.research.11.final/README.md) | research.11 hood | completed |
 | [research.11.gem](../bbugyi200.apollo.research.11.gem/README.md) | research.11 hood | completed |
 | [research.11.grk](../bbugyi200.apollo.research.11.grk/README.md) | research.11 hood | completed |
 | [research.11.linker](../bbugyi200.apollo.research.11.linker/README.md) | research.11 hood | waiting |
