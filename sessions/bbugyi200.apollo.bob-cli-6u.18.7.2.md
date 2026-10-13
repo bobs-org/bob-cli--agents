@@ -33,9 +33,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-6u.18.7.1](bbugyi200.apollo.bob-cli-6u.18.7.1.md) (session · 3) | bob-cli-6u.18.7 hood | active 1, completed 1, failed 1 |
+| [bob-cli-6u.18.7.1](bbugyi200.apollo.bob-cli-6u.18.7.1.md) (session · 5) | bob-cli-6u.18.7 hood | active 1, completed 2, failed 2 |
 | [bob-cli-6u.18.7.3](../agents/bbugyi200.apollo.bob-cli-6u.18.7.3/README.md) | bob-cli-6u.18.7 hood | active |
-| [bob-cli-6u.18.7.4](../agents/bbugyi200.apollo.bob-cli-6u.18.7.4/README.md) | bob-cli-6u.18.7 hood | active |
+| [bob-cli-6u.18.7.4](../agents/bbugyi200.apollo.bob-cli-6u.18.7.4/README.md) | bob-cli-6u.18.7 hood | completed |
 | [bob-cli-6u.18.7.5](../agents/bbugyi200.apollo.bob-cli-6u.18.7.5/README.md) | bob-cli-6u.18.7 hood | waiting |
 | [bob-cli-6u.18.7.land](../agents/bbugyi200.apollo.bob-cli-6u.18.7.land/README.md) | bob-cli-6u.18.7 hood | waiting |
 | [bob-cli-6u.18.1](../agents/bbugyi200.apollo.bob-cli-6u.18.1/README.md) | bob-cli-6u.18 hood | completed |
