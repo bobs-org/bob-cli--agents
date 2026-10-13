@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 7c--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-7c__plan-261013_073457.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-7c__code-261013_073457.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/reland_cascade_task_card_close_78.md
 
 

@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [7c.w0](../bbugyi200.apollo.7c.w0/README.md) | descendant | waiting |
+| [7c.w0](../../sessions/bbugyi200.apollo.7c.w0.md) (session · 3) | descendant | failed 3 |
