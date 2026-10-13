@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d06a25ef530817332969c2a4931f7454"}
+{"commits":[{"committed_at":1791900899,"sha":"bdfc8c3ee3edb5eef6f3ba0dddc12c36ef8095ec","subject":"feat(capture): route toggle, ensure-next and link-then-close through shared link guard"}],"schema_version":2,"source_run_id":"run-d06a25ef530817332969c2a4931f7454"}

@@ -13,17 +13,23 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-13T13:46:00.715253+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`bdfc8c3`](https://github.com/bobs-org/bob-cli/commit/bdfc8c3ee3edb5eef6f3ba0dddc12c36ef8095ec) | feat(capture): route toggle, ensure-next and link-then-close through shared link guard | 2026-10-13 10:14:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-7b.1](../../sessions/bbugyi200.apollo.bob-cli-7b.1.md) (session · 7) | bob-cli-7b hood | completed 4, failed 3 |
-| [bob-cli-7b.3](../bbugyi200.apollo.bob-cli-7b.3/README.md) | bob-cli-7b hood | active |
+| [bob-cli-7b.3](../bbugyi200.apollo.bob-cli-7b.3/README.md) | bob-cli-7b hood | completed |
 | [bob-cli-7b.4](../bbugyi200.apollo.bob-cli-7b.4/README.md) | bob-cli-7b hood | waiting |
 | [bob-cli-7b.land](../bbugyi200.apollo.bob-cli-7b.land/README.md) | bob-cli-7b hood | waiting |
