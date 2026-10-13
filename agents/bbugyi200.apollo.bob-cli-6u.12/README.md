@@ -48,7 +48,7 @@
 | [bob-cli-6u.18.7.4](../bbugyi200.apollo.bob-cli-6u.18.7.4/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.5](../bbugyi200.apollo.bob-cli-6u.18.7.5/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.6.1](../bbugyi200.apollo.bob-cli-6u.18.7.6.1/README.md) | bob-cli-6u hood | active |
-| [bob-cli-6u.18.7.6.2](../bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u hood | active |
+| [bob-cli-6u.18.7.6.2](../bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.6.3](../bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.6.4](../bbugyi200.apollo.bob-cli-6u.18.7.6.4/README.md) | bob-cli-6u hood | waiting |
 | [bob-cli-6u.18.7.6.land](../bbugyi200.apollo.bob-cli-6u.18.7.6.land/README.md) | bob-cli-6u hood | waiting |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-840752a123432ad49abaae63defab623"}
+{"commits":[{"committed_at":1791859023,"sha":"2fcf41a2c0bc144ce2f752d154b01f32a4cfb7e9","subject":"fix(project-blocking): reconcile capture and close edge cases"}],"schema_version":2,"source_run_id":"run-840752a123432ad49abaae63defab623"}

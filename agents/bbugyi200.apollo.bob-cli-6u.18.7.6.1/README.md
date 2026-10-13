@@ -13,17 +13,23 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-13T02:10:38.522700+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`2fcf41a`](https://github.com/bobs-org/bob-cli/commit/2fcf41a2c0bc144ce2f752d154b01f32a4cfb7e9) | fix(project-blocking): reconcile capture and close edge cases | 2026-10-12 22:37:03 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-6u.18.7.6.2](../bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u.18.7.6 hood | active |
+| [bob-cli-6u.18.7.6.2](../bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u.18.7.6 hood | completed |
 | [bob-cli-6u.18.7.6.3](../bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u.18.7.6 hood | completed |
 | [bob-cli-6u.18.7.6.4](../bbugyi200.apollo.bob-cli-6u.18.7.6.4/README.md) | bob-cli-6u.18.7.6 hood | waiting |
 | [bob-cli-6u.18.7.6.land](../bbugyi200.apollo.bob-cli-6u.18.7.6.land/README.md) | bob-cli-6u.18.7.6 hood | waiting |
