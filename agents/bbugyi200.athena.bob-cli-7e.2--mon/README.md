@@ -12,7 +12,7 @@
 - Epic: [bob-cli-7e](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-7e/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-13T15:57:24.696235+00:00 → 2026-10-13T16:02:09.174613+00:00
+- Timing: 2026-10-13T15:57:24.696235+00:00 → 2026-10-13T16:14:29.708558+00:00
 - Commits: 0
 
 ## Files
@@ -24,8 +24,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-7e.1](../../sessions/bbugyi200.athena.bob-cli-7e.1.md) (session · 3) | bob-cli-7e hood | completed 2, failed 1 |
-| [bob-cli-7e.3](../bbugyi200.athena.bob-cli-7e.3/README.md) | bob-cli-7e hood | active |
-| [bob-cli-7e.4](../../sessions/bbugyi200.athena.bob-cli-7e.4.md) (session · 3) | bob-cli-7e hood | completed 1, failed 1, waiting 1 |
+| [bob-cli-7e.3](../bbugyi200.athena.bob-cli-7e.3/README.md) | bob-cli-7e hood | completed |
+| [bob-cli-7e.4](../../sessions/bbugyi200.athena.bob-cli-7e.4.md) (session · 3) | bob-cli-7e hood | active 1, completed 1, failed 1 |
 | [bob-cli-7e.5](../bbugyi200.athena.bob-cli-7e.5/README.md) | bob-cli-7e hood | waiting |
 | [bob-cli-7e.6](../bbugyi200.athena.bob-cli-7e.6/README.md) | bob-cli-7e hood | waiting |
 | [bob-cli-7e.7](../bbugyi200.athena.bob-cli-7e.7/README.md) | bob-cli-7e hood | waiting |
