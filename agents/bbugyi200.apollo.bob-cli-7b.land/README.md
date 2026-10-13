@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-7b.1](../../sessions/bbugyi200.apollo.bob-cli-7b.1.md) (session · 7) | bob-cli-7b hood | active 1, completed 3, failed 3 |
-| [bob-cli-7b.2](../bbugyi200.apollo.bob-cli-7b.2/README.md) | bob-cli-7b hood | waiting |
-| [bob-cli-7b.3](../bbugyi200.apollo.bob-cli-7b.3/README.md) | bob-cli-7b hood | waiting |
+| [bob-cli-7b.1](../../sessions/bbugyi200.apollo.bob-cli-7b.1.md) (session · 7) | bob-cli-7b hood | completed 4, failed 3 |
+| [bob-cli-7b.2](../bbugyi200.apollo.bob-cli-7b.2/README.md) | bob-cli-7b hood | active |
+| [bob-cli-7b.3](../bbugyi200.apollo.bob-cli-7b.3/README.md) | bob-cli-7b hood | active |
 | [bob-cli-7b.4](../bbugyi200.apollo.bob-cli-7b.4/README.md) | bob-cli-7b hood | waiting |
