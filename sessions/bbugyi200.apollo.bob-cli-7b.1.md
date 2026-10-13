@@ -47,5 +47,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-7b.2](../agents/bbugyi200.apollo.bob-cli-7b.2/README.md) | bob-cli-7b hood | completed |
 | [bob-cli-7b.3](../agents/bbugyi200.apollo.bob-cli-7b.3/README.md) | bob-cli-7b hood | completed |
-| [bob-cli-7b.4](../agents/bbugyi200.apollo.bob-cli-7b.4/README.md) | bob-cli-7b hood | active |
-| [bob-cli-7b.land](../agents/bbugyi200.apollo.bob-cli-7b.land/README.md) | bob-cli-7b hood | waiting |
+| [bob-cli-7b.4](../agents/bbugyi200.apollo.bob-cli-7b.4/README.md) | bob-cli-7b hood | completed |
+| [bob-cli-7b.land](bbugyi200.apollo.bob-cli-7b.land.md) (session · 3) | bob-cli-7b hood | active 2, failed 1 |

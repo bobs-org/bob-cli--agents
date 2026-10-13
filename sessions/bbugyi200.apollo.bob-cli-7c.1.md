@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-7c` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-7c.1--1 [active]"]
+  n0["bob-cli-7c.1--1 [completed]"]
   n1["bob-cli-7c.1--plan [completed]"]
   n0 --> n1
   n2["bob-cli-7c.1--mon [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-7c.1--1 | active | grok-4.6 / grok | 2026-10-13T14:25:06.258917+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-7c.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-7c.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-7c.1--1 | completed | grok-4.6 / grok | 2026-10-13T14:25:06.258917+00:00 → 2026-10-13T14:37:55.153514+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-7c.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-7c.1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-7c.1--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-7c.1--plan | completed | grok-4.6 / grok | 2026-10-13T13:55:24.262297+00:00 → 2026-10-13T14:18:18.296401+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-7c.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-7c.1--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-7c.1--mon | failed | grok-4.6 / grok | 2026-10-13T14:16:03.191247+00:00 → 2026-10-13T14:24:49.606661+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-7c.1--mon/chat.md) |
 
@@ -33,10 +33,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-7c.2](../agents/bbugyi200.apollo.bob-cli-7c.2/README.md) | bob-cli-7c hood | waiting |
+| [bob-cli-7c.2](bbugyi200.apollo.bob-cli-7c.2.md) (session · 3) | bob-cli-7c hood | active 2, failed 1 |
 | [bob-cli-7c.3](../agents/bbugyi200.apollo.bob-cli-7c.3/README.md) | bob-cli-7c hood | waiting |
-| [bob-cli-7c.4](../agents/bbugyi200.apollo.bob-cli-7c.4/README.md) | bob-cli-7c hood | waiting |
-| [bob-cli-7c.5](../agents/bbugyi200.apollo.bob-cli-7c.5/README.md) | bob-cli-7c hood | waiting |
+| [bob-cli-7c.4](bbugyi200.apollo.bob-cli-7c.4.md) (session · 3) | bob-cli-7c hood | active 2, failed 1 |
+| [bob-cli-7c.5](bbugyi200.apollo.bob-cli-7c.5.md) (session · 3) | bob-cli-7c hood | active 2, failed 1 |
 | [bob-cli-7c.6](../agents/bbugyi200.apollo.bob-cli-7c.6/README.md) | bob-cli-7c hood | waiting |
 | [bob-cli-7c.7](../agents/bbugyi200.apollo.bob-cli-7c.7/README.md) | bob-cli-7c hood | waiting |
 | [bob-cli-7c.8](../agents/bbugyi200.apollo.bob-cli-7c.8/README.md) | bob-cli-7c hood | waiting |
