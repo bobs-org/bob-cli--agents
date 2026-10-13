@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a315d010077acbc9506078e3f33dd71c"}
+{"commits":[{"committed_at":1791908565,"sha":"8e575c73570b68f991806f6b890a9a9440cc1f9b","subject":"feat(task-dependencies): add BLOCKS parsing and managed-line guards"}],"schema_version":2,"source_run_id":"run-a315d010077acbc9506078e3f33dd71c"}

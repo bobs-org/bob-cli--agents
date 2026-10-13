@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-7e.2--mon | failed | gpt-6-luna / codex | 2026-10-13T15:57:24.696235+00:00 → 2026-10-13T16:14:29.708558+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-7e.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-7e.2--plan | completed | gpt-6-luna / codex | 2026-10-13T15:41:27.828404+00:00 → 2026-10-13T15:58:17.704951+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7e.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7e.2--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-7e.2--1 | active | gpt-6-luna / codex | 2026-10-13T16:15:24.386765+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7e.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-7e.2--1 | active | gpt-6-luna / codex | 2026-10-13T16:15:24.386765+00:00 | [1](../agents/bbugyi200.athena.bob-cli-7e.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-7e.2--1/prompt.md) | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | bob-cli | [`8e575c7`](https://github.com/bobs-org/bob-cli/commit/8e575c73570b68f991806f6b890a9a9440cc1f9b) | feat(task-dependencies): add BLOCKS parsing and managed-line guards | 2026-10-13 12:22:45 EDT |
 
 ## Neighbors
 
