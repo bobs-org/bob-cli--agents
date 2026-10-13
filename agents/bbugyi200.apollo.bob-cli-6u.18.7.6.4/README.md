@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6u](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6u/README.md) / bob-cli-6u.18.7.6.4
 
-**Global name:** `bbugyi200.apollo.bob-cli-6u.18.7.6.4` · **State:** waiting · **Source run:** `run-0cc9c40ad458b58114a1ba5171fcf7bc`
+**Global name:** `bbugyi200.apollo.bob-cli-6u.18.7.6.4` · **State:** completed · **Source run:** `run-0cc9c40ad458b58114a1ba5171fcf7bc`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6u
 
@@ -12,21 +12,21 @@
 - Epic: [bob-cli-6u.18.7.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6u/bob-cli-6u.18.7.6.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261012220959
+- Timing: 2026-10-13T02:39:19.242459+00:00 → 2026-10-13T02:46:59.921997+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-6u.18.7.6.1](../bbugyi200.apollo.bob-cli-6u.18.7.6.1/README.md) | bob-cli-6u.18.7.6 hood | active |
+| [bob-cli-6u.18.7.6.1](../bbugyi200.apollo.bob-cli-6u.18.7.6.1/README.md) | bob-cli-6u.18.7.6 hood | completed |
 | [bob-cli-6u.18.7.6.2](../bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u.18.7.6 hood | completed |
 | [bob-cli-6u.18.7.6.3](../bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u.18.7.6 hood | completed |
-| [bob-cli-6u.18.7.6.land](../bbugyi200.apollo.bob-cli-6u.18.7.6.land/README.md) | bob-cli-6u.18.7.6 hood | waiting |
+| [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u.18.7.6 hood | active 2, failed 1 |
 | [bob-cli-6u.18.7.1](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.1.md) (session · 5) | bob-cli-6u.18.7 hood | completed 3, failed 2 |
 | [bob-cli-6u.18.7.2](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.2.md) (session · 3) | bob-cli-6u.18.7 hood | completed 2, failed 1 |
 | [bob-cli-6u.18.7.3](../bbugyi200.apollo.bob-cli-6u.18.7.3/README.md) | bob-cli-6u.18.7 hood | completed |
