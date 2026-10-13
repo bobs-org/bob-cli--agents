@@ -12,19 +12,38 @@
 - Provider: claude
 - Timing: 2026-10-13T12:19:37.527748+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/successor\_pull\_in\_picker\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261013081838/successor\_pull\_in\_picker\_\_cld-21e08db97fb8.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/successor_pull_in_picker__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261013081838/successor_pull_in_picker__cld-21e08db97fb8.md
+  ref: file:explicit:1a87e1e523a4717bc30be289
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202610/successor_pull_in_picker__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.11.cdx](../bbugyi200.apollo.research.11.cdx/README.md) | research.11 hood | active |
+| [research.11.cdx](../bbugyi200.apollo.research.11.cdx/README.md) | research.11 hood | completed |
 | [research.11.final](../bbugyi200.apollo.research.11.final/README.md) | research.11 hood | waiting |
 | [research.11.gem](../bbugyi200.apollo.research.11.gem/README.md) | research.11 hood | completed |
-| [research.11.grk](../bbugyi200.apollo.research.11.grk/README.md) | research.11 hood | active |
+| [research.11.grk](../bbugyi200.apollo.research.11.grk/README.md) | research.11 hood | completed |
 | [research.11.image](../bbugyi200.apollo.research.11.image/README.md) | research.11 hood | waiting |
 | [research.11.linker](../bbugyi200.apollo.research.11.linker/README.md) | research.11 hood | waiting |
 | [research.11.mus](../bbugyi200.apollo.research.11.mus/README.md) | research.11 hood | completed |
