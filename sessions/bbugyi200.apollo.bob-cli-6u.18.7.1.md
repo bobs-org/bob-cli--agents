@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6u](../users/bbugyi200/machines/apollo/hoods/bob-cli-6u/README.md) / bob-cli-6u.18.7.1
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-6u` · Members: 2 · Bead: [bob-cli-6u.18.7.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6u/bob-cli-6u.18.7.1.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-6u` · Members: 3 · Bead: [bob-cli-6u.18.7.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6u/bob-cli-6u.18.7.1.md)
 
 ## Lineage
 
@@ -11,6 +11,8 @@ flowchart TD
   n0["bob-cli-6u.18.7.1--mon [active]"]
   n1["bob-cli-6u.18.7.1--plan [completed]"]
   n0 --> n1
+  n2["bob-cli-6u.18.7.1--1 [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -19,12 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-6u.18.7.1--mon | active | gpt-6-luna / codex | 2026-10-13T00:55:53.707123+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | bob-cli-6u.18.7.1--plan | completed | gpt-6-luna / codex | 2026-10-13T00:33:41.750851+00:00 → 2026-10-13T00:56:55.336111+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--plan/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-6u.18.7.1--1 | active | gpt-6-luna / codex | 20261012210121 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--1/prompt.md) | — |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-6u.18.7.2](bbugyi200.apollo.bob-cli-6u.18.7.2.md) (session · 3) | bob-cli-6u.18.7 hood | active 1, completed 1, failed 1 |
+| [bob-cli-6u.18.7.2](bbugyi200.apollo.bob-cli-6u.18.7.2.md) (session · 3) | bob-cli-6u.18.7 hood | completed 2, failed 1 |
 | [bob-cli-6u.18.7.3](../agents/bbugyi200.apollo.bob-cli-6u.18.7.3/README.md) | bob-cli-6u.18.7 hood | active |
 | [bob-cli-6u.18.7.4](../agents/bbugyi200.apollo.bob-cli-6u.18.7.4/README.md) | bob-cli-6u.18.7 hood | active |
 | [bob-cli-6u.18.7.5](../agents/bbugyi200.apollo.bob-cli-6u.18.7.5/README.md) | bob-cli-6u.18.7 hood | waiting |
