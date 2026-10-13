@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.48.linker
 
-**Global name:** `bbugyi200.athena.research.48.linker` · **State:** active · **Source run:** `run-14efbb8f820fb84dbcb9e11ca73438c9`
+**Global name:** `bbugyi200.athena.research.48.linker` · **State:** active · **Source run:** `run-e0f4060578472fb32ae937c4af541465`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -40,7 +40,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.48.linker.w0](../../sessions/bbugyi200.athena.research.48.linker.w0.md) (session · 3) | descendant | failed 3 |
+| [research.48.linker.w0](../../sessions/bbugyi200.athena.research.48.linker.w0.md) (session · 3) | descendant | active 1, failed 2 |
 | [research.48.cdx](../bbugyi200.athena.research.48.cdx/README.md) | research.48 hood | active |
 | [research.48.cld](../bbugyi200.athena.research.48.cld/README.md) | research.48 hood | active |
 | [research.48.final](../bbugyi200.athena.research.48.final/README.md) | research.48 hood | active |
@@ -98,4 +98,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 138 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 146 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
