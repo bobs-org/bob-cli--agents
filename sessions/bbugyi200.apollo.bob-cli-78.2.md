@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-78.2--plan [completed]"]
   n1["bob-cli-78.2--mon [failed]"]
   n0 --> n1
-  n2["bob-cli-78.2--1 [active]"]
+  n2["bob-cli-78.2--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-78.2--plan | completed | gpt-6-luna / codex | 2026-10-13T07:27:03.197495+00:00 → 2026-10-13T08:05:05.002366+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-78.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-78.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-78.2--mon | failed | gpt-6-luna / codex | 2026-10-13T08:04:28.586879+00:00 → 2026-10-13T08:16:05.502929+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-78.2--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-78.2--1 | active | gpt-6-luna / codex | 2026-10-13T08:16:06.794278+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-78.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-78.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-78.2--1 | completed | gpt-6-luna / codex | 2026-10-13T08:16:06.794278+00:00 → 2026-10-13T08:55:15.734428+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-78.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-78.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-78.2--1/chat.md) |
 
 ## Commits
 
@@ -34,8 +34,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-78.1](../agents/bbugyi200.apollo.bob-cli-78.1/README.md) | bob-cli-78 hood | completed |
-| [bob-cli-78.3](../agents/bbugyi200.apollo.bob-cli-78.3/README.md) | bob-cli-78 hood | waiting |
-| [bob-cli-78.4](../agents/bbugyi200.apollo.bob-cli-78.4/README.md) | bob-cli-78 hood | waiting |
+| [bob-cli-78.3](../agents/bbugyi200.apollo.bob-cli-78.3/README.md) | bob-cli-78 hood | active |
+| [bob-cli-78.4](../agents/bbugyi200.apollo.bob-cli-78.4/README.md) | bob-cli-78 hood | active |
 | [bob-cli-78.5](../agents/bbugyi200.apollo.bob-cli-78.5/README.md) | bob-cli-78 hood | completed |
 | [bob-cli-78.6](../agents/bbugyi200.apollo.bob-cli-78.6/README.md) | bob-cli-78 hood | completed |
 | [bob-cli-78.7](../agents/bbugyi200.apollo.bob-cli-78.7/README.md) | bob-cli-78 hood | completed |
