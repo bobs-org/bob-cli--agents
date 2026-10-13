@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [7a](../../users/bbugyi200/machines/apollo/hoods/7a/README.md) / 7a
 
-**Global name:** `bbugyi200.apollo.7a` · **State:** active · **Source run:** `run-5601ab76fe168b3ede2be537c3c11bfa`
+**Global name:** `bbugyi200.apollo.7a` · **State:** completed · **Source run:** `run-5601ab76fe168b3ede2be537c3c11bfa`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 7a
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-13T09:03:16.820089+00:00
+- Timing: 2026-10-13T09:03:16.820089+00:00 → 2026-10-13T09:10:23.513322+00:00
 - Commits: [1](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -41,3 +41,9 @@
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [7a.f0](../../sessions/bbugyi200.apollo.7a.f0.md) (session · 3) | descendant | active 2, failed 1 |

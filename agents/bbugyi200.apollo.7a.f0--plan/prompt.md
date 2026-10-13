@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:7a Can you help me implement the recommended fix? #plan %auto
