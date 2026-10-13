@@ -32,6 +32,6 @@
 | [bob-cli-74.2](../bbugyi200.apollo.bob-cli-74.2/README.md) | bob-cli-74 hood | active |
 | [bob-cli-74.3](../bbugyi200.apollo.bob-cli-74.3/README.md) | bob-cli-74 hood | waiting |
 | [bob-cli-74.4](../bbugyi200.apollo.bob-cli-74.4/README.md) | bob-cli-74 hood | active |
-| [bob-cli-74.5](../bbugyi200.apollo.bob-cli-74.5/README.md) | bob-cli-74 hood | active |
+| [bob-cli-74.5](../bbugyi200.apollo.bob-cli-74.5/README.md) | bob-cli-74 hood | completed |
 | [bob-cli-74.6](../bbugyi200.apollo.bob-cli-74.6/README.md) | bob-cli-74 hood | waiting |
 | [bob-cli-74.land](../bbugyi200.apollo.bob-cli-74.land/README.md) | bob-cli-74 hood | waiting |
