@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-6u` · Members: 5 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-6u.18.7.1--mon [failed]"]
-  n1["bob-cli-6u.18.7.1--2 [active]"]
+  n1["bob-cli-6u.18.7.1--2 [completed]"]
   n0 --> n1
   n2["bob-cli-6u.18.7.1--plan [completed]"]
   n0 --> n2
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-6u.18.7.1--mon | failed | gpt-6-luna / codex | 2026-10-13T00:55:53.707123+00:00 → 2026-10-13T01:02:21.646030+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--mon/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-6u.18.7.1--2 | active | gpt-6-luna / codex | 2026-10-13T01:11:33.583056+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-6u.18.7.1--2 | completed | gpt-6-luna / codex | 2026-10-13T01:11:33.583056+00:00 → 2026-10-13T01:20:03.670290+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--2/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-6u.18.7.1--plan | completed | gpt-6-luna / codex | 2026-10-13T00:33:41.750851+00:00 → 2026-10-13T00:56:55.336111+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-6u.18.7.1--mon-0 | failed | gpt-6-luna / codex | 2026-10-13T01:05:50.823729+00:00 → 2026-10-13T01:11:33.806460+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--mon-0/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-6u.18.7.1--1 | completed | gpt-6-luna / codex | 2026-10-13T01:02:21.179968+00:00 → 2026-10-13T01:06:47.054486+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--1/chat.md) |

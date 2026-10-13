@@ -13,17 +13,23 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-13T00:33:46.622374+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`12abfd7`](https://github.com/bobs-org/bob-cli/commit/12abfd7a1888ed3c67c05e8bc19729359b086730) | docs(projects): document ^prj schedule tag and conversion seeding | 2026-10-12 21:20:15 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-6u.18.7.1](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.1.md) (session · 5) | bob-cli-6u.18.7 hood | active 1, completed 2, failed 2 |
+| [bob-cli-6u.18.7.1](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.1.md) (session · 5) | bob-cli-6u.18.7 hood | completed 3, failed 2 |
 | [bob-cli-6u.18.7.2](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.2.md) (session · 3) | bob-cli-6u.18.7 hood | completed 2, failed 1 |
 | [bob-cli-6u.18.7.4](../bbugyi200.apollo.bob-cli-6u.18.7.4/README.md) | bob-cli-6u.18.7 hood | completed |
 | [bob-cli-6u.18.7.5](../bbugyi200.apollo.bob-cli-6u.18.7.5/README.md) | bob-cli-6u.18.7 hood | waiting |
