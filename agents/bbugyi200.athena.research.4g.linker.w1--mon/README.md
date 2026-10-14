@@ -22,7 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.4g.linker](../bbugyi200.athena.research.4g.linker/README.md) | ancestor | completed |
-| [research.4g.linker.w1.w0](../bbugyi200.athena.research.4g.linker.w1.w0/README.md) | descendant | waiting |
+| [research.4g.linker.w1.w0](../../sessions/bbugyi200.athena.research.4g.linker.w1.w0.md) (session · 3) | descendant | failed 3 |
 | [research.4g.linker.w0](../bbugyi200.athena.research.4g.linker.w0/README.md) | research.4g.linker hood | active |
 | [research.4g.cdx](../bbugyi200.athena.research.4g.cdx/README.md) | research.4g hood | completed |
 | [research.4g.cld](../bbugyi200.athena.research.4g.cld/README.md) | research.4g hood | completed |
