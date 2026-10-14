@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c65a99c6b077476843228d4764aa2e21"}
+{"commits":[{"committed_at":1792001194,"sha":"1b9d35f206f84c03ca4499d9f78dc69a8b170d78","subject":"feat(capture): execute * blocked-task captures and report them"}],"schema_version":2,"source_run_id":"run-c65a99c6b077476843228d4764aa2e21"}
