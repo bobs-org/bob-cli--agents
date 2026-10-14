@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-14T14:04:01.905397+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/reverse\_capture\_dependencies\_and\_ledger\_safety\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261014100238/reverse\_capture\_dependenc… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/reverse_capture_dependencies_and_ledger_safety__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261014100238/reverse_capture_dependencies_and_ledger_safety__cdx-9d8e63b61c78.md
+  ref: file:explicit:086bf29c16130e51ed34848e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/reverse_capture_dependencies_and_ledger_safety__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.4g.cld](../bbugyi200.athena.research.4g.cld/README.md) | research.4g hood | active |
 | [research.4g.final](../bbugyi200.athena.research.4g.final/README.md) | research.4g hood | waiting |
 | [research.4g.gem](../bbugyi200.athena.research.4g.gem/README.md) | research.4g hood | completed |
-| [research.4g.grk](../bbugyi200.athena.research.4g.grk/README.md) | research.4g hood | active |
+| [research.4g.grk](../bbugyi200.athena.research.4g.grk/README.md) | research.4g hood | completed |
 | [research.4g.image](../bbugyi200.athena.research.4g.image/README.md) | research.4g hood | waiting |
 | [research.4g.linker](../bbugyi200.athena.research.4g.linker/README.md) | research.4g hood | waiting |
 | [research.4g.linker.w0](../bbugyi200.athena.research.4g.linker.w0/README.md) | research.4g hood | waiting |
