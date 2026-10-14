@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4g.cdx
 
-**Global name:** `bbugyi200.athena.research.4g.cdx` · **State:** active · **Source run:** `run-9ba8b19e44cff7593ba59f378a9d843f`
+**Global name:** `bbugyi200.athena.research.4g.cdx` · **State:** completed · **Source run:** `run-9ba8b19e44cff7593ba59f378a9d843f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 2026-10-14T14:04:01.905397+00:00
+- Timing: 2026-10-14T14:04:01.905397+00:00 → 2026-10-14T14:22:44.183529+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
