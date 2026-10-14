@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4g.gem
 
-**Global name:** `bbugyi200.athena.research.4g.gem` · **State:** active · **Source run:** `run-a7b58e07831c48c61c7ac1f9b4c7680d`
+**Global name:** `bbugyi200.athena.research.4g.gem` · **State:** completed · **Source run:** `run-a7b58e07831c48c61c7ac1f9b4c7680d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-14T14:05:28.159720+00:00
+- Timing: 2026-10-14T14:05:28.159720+00:00 → 2026-10-14T14:18:05.747031+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
