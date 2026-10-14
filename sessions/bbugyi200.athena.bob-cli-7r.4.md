@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["bob-cli-7r.4--plan [completed]"]
   n0 --> n3
-  n4["bob-cli-7r.4--2 [active]"]
+  n4["bob-cli-7r.4--2 [completed]"]
   n0 --> n4
 ```
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | bob-cli-7r.4--mon | failed | gpt-6-luna / codex | 2026-10-14T21:30:54.806080+00:00 → 2026-10-14T21:34:49.213552+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-7r.4--mon/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-7r.4--1 | completed | gpt-6-luna / codex | 2026-10-14T21:35:24.973421+00:00 → 2026-10-14T21:43:13.209385+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7r.4--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-7r.4--plan | completed | gpt-6-luna / codex | 2026-10-14T21:16:34.301631+00:00 → 2026-10-14T21:31:41.547833+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7r.4--plan/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-7r.4--2 | active | gpt-6-luna / codex | 2026-10-14T21:47:22.965967+00:00 | [1](../agents/bbugyi200.athena.bob-cli-7r.4--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.4--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-7r.4--2 | completed | gpt-6-luna / codex | 2026-10-14T21:47:22.965967+00:00 → 2026-10-14T21:52:52.142387+00:00 | [1](../agents/bbugyi200.athena.bob-cli-7r.4--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.4--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7r.4--2/chat.md) |
 
 ## Commits
 
@@ -42,7 +42,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-7r.1](../agents/bbugyi200.athena.bob-cli-7r.1/README.md) | bob-cli-7r hood | completed |
 | [bob-cli-7r.2](../agents/bbugyi200.athena.bob-cli-7r.2/README.md) | bob-cli-7r hood | completed |
 | [bob-cli-7r.3](../agents/bbugyi200.athena.bob-cli-7r.3/README.md) | bob-cli-7r hood | completed |
-| [bob-cli-7r.5](../agents/bbugyi200.athena.bob-cli-7r.5/README.md) | bob-cli-7r hood | waiting |
+| [bob-cli-7r.5](../agents/bbugyi200.athena.bob-cli-7r.5/README.md) | bob-cli-7r hood | active |
 | [bob-cli-7r.6](../agents/bbugyi200.athena.bob-cli-7r.6/README.md) | bob-cli-7r hood | waiting |
 | [bob-cli-7r.7](../agents/bbugyi200.athena.bob-cli-7r.7/README.md) | bob-cli-7r hood | waiting |
 | [bob-cli-7r.land](../agents/bbugyi200.athena.bob-cli-7r.land/README.md) | bob-cli-7r hood | waiting |
