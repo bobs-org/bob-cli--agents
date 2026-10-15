@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 2026-10-15T19:18:25.508363+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_blog\_subproject\_collapse\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261015151647/sase\_blog\_subproject\_collapse\_\_grk-fa2cf60… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_blog_subproject_collapse__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261015151647/sase_blog_subproject_collapse__grk-fa2cf60060bf.md
+  ref: file:explicit:778d95caf9f6a41937a0f1ee
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202610/sase_blog_subproject_collapse__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-15T19:17:41.571105+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_blog\_single\_project\_consolidation\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261015151645/sase\_blog\_single\_project\_consolid… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_blog_single_project_consolidation__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261015151645/sase_blog_single_project_consolidation__cdx-422206bdaa05.md
+  ref: file:explicit:f5d616d027b0bc82479b057b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/sase_blog_single_project_consolidation__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
