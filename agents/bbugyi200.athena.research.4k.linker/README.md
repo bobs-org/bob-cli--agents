@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4k.linker
 
-**Global name:** `bbugyi200.athena.research.4k.linker` · **State:** waiting · **Source run:** `run-69d4470f43932032fb4e51893a5c3d44`
+**Global name:** `bbugyi200.athena.research.4k.linker` · **State:** active · **Source run:** `run-69d4470f43932032fb4e51893a5c3d44`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261015151651
+- Timing: 2026-10-15T19:59:52.269533+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_blog\_subproject\_retirement/sase\_blog\_subproject\_retirement.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261015151651/sase\_blog\_sub… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_blog_subproject_retirement/sase_blog_subproject_retirement.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261015151651/sase_blog_subproject_retirement-c01816cdc366.md
+  ref: file:explicit:5073940b6b8365794083e3e6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/sase_blog_subproject_retirement/sase_blog_subproject_retirement.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.4k.final](../bbugyi200.athena.research.4k.final/README.md) | research.4k hood | completed |
 | [research.4k.gem](../bbugyi200.athena.research.4k.gem/README.md) | research.4k hood | completed |
 | [research.4k.grk](../bbugyi200.athena.research.4k.grk/README.md) | research.4k hood | completed |
-| [research.4k.image](../bbugyi200.athena.research.4k.image/README.md) | research.4k hood | active |
+| [research.4k.image](../bbugyi200.athena.research.4k.image/README.md) | research.4k hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
