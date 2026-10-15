@@ -21,15 +21,15 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4g.linker](../bbugyi200.athena.research.4g.linker/README.md) | ancestor | completed |
-| [research.4g.linker.w1](../../sessions/bbugyi200.athena.research.4g.linker.w1.md) (session · 3) | research.4g.linker hood | failed 3 |
-| [research.4g.linker.w1.w0](../../sessions/bbugyi200.athena.research.4g.linker.w1.w0.md) (session · 3) | research.4g.linker hood | failed 3 |
-| [research.4g.cdx](../bbugyi200.athena.research.4g.cdx/README.md) | research.4g hood | completed |
-| [research.4g.cld](../bbugyi200.athena.research.4g.cld/README.md) | research.4g hood | completed |
-| [research.4g.final](../bbugyi200.athena.research.4g.final/README.md) | research.4g hood | completed |
-| [research.4g.gem](../bbugyi200.athena.research.4g.gem/README.md) | research.4g hood | completed |
-| [research.4g.grk](../bbugyi200.athena.research.4g.grk/README.md) | research.4g hood | completed |
-| [research.4g.image](../bbugyi200.athena.research.4g.image/README.md) | research.4g hood | completed |
+| [research.4g.linker](../bbugyi200.athena.research.4g.linker/README.md) | ancestor | active |
+| [research.4g.linker.w1](../../sessions/bbugyi200.athena.research.4g.linker.w1.md) (session · 3) | research.4g.linker hood | active 1, failed 2 |
+| [research.4g.linker.w1.w0](../../sessions/bbugyi200.athena.research.4g.linker.w1.w0.md) (session · 3) | research.4g.linker hood | active 1, failed 2 |
+| [research.4g.cdx](../bbugyi200.athena.research.4g.cdx/README.md) | research.4g hood | active |
+| [research.4g.cld](../bbugyi200.athena.research.4g.cld/README.md) | research.4g hood | active |
+| [research.4g.final](../bbugyi200.athena.research.4g.final/README.md) | research.4g hood | active |
+| [research.4g.gem](../bbugyi200.athena.research.4g.gem/README.md) | research.4g hood | active |
+| [research.4g.grk](../bbugyi200.athena.research.4g.grk/README.md) | research.4g hood | active |
+| [research.4g.image](../bbugyi200.athena.research.4g.image/README.md) | research.4g hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
@@ -80,4 +80,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 165 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 172 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

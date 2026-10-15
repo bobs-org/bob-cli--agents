@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["research.4g.linker.w1.w0--plan [failed]"]
+  n0["research.4g.linker.w1.w0--plan [active]"]
   n1["research.4g.linker.w1.w0--mon [failed]"]
   n0 --> n1
   n2["research.4g.linker.w1.w0--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | research.4g.linker.w1.w0--plan | failed | opus / claude | 2026-10-14T19:55:28.294011+00:00 → 2026-10-14T20:21:15.531824+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.4g.linker.w1.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.4g.linker.w1.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | research.4g.linker.w1.w0--plan | active | opus / claude | 2026-10-14T19:55:28.294011+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.4g.linker.w1.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.4g.linker.w1.w0--plan/chat.md) |
 | <a id="member-mon"></a>mon | research.4g.linker.w1.w0--mon | failed | opus / claude | 2026-10-14T20:21:06.837494+00:00 → 2026-10-14T20:24:35.536894+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.4g.linker.w1.w0--mon/chat.md) |
 | <a id="member-gate"></a>gate | research.4g.linker.w1.w0--gate | failed | opus / claude | 2026-10-14T20:20:41.440723+00:00 → 2026-10-14T20:21:07.428486+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.4g.linker.w1.w0--gate/chat.md) |
 
@@ -27,15 +27,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4g.linker.w1](bbugyi200.athena.research.4g.linker.w1.md) (session · 3) | ancestor | failed 3 |
-| [research.4g.linker](../agents/bbugyi200.athena.research.4g.linker/README.md) | ancestor | completed |
+| [research.4g.linker.w1](bbugyi200.athena.research.4g.linker.w1.md) (session · 3) | ancestor | active 1, failed 2 |
+| [research.4g.linker](../agents/bbugyi200.athena.research.4g.linker/README.md) | ancestor | active |
 | [research.4g.linker.w0](../agents/bbugyi200.athena.research.4g.linker.w0/README.md) | research.4g.linker hood | active |
-| [research.4g.cdx](../agents/bbugyi200.athena.research.4g.cdx/README.md) | research.4g hood | completed |
-| [research.4g.cld](../agents/bbugyi200.athena.research.4g.cld/README.md) | research.4g hood | completed |
-| [research.4g.final](../agents/bbugyi200.athena.research.4g.final/README.md) | research.4g hood | completed |
-| [research.4g.gem](../agents/bbugyi200.athena.research.4g.gem/README.md) | research.4g hood | completed |
-| [research.4g.grk](../agents/bbugyi200.athena.research.4g.grk/README.md) | research.4g hood | completed |
-| [research.4g.image](../agents/bbugyi200.athena.research.4g.image/README.md) | research.4g hood | completed |
+| [research.4g.cdx](../agents/bbugyi200.athena.research.4g.cdx/README.md) | research.4g hood | active |
+| [research.4g.cld](../agents/bbugyi200.athena.research.4g.cld/README.md) | research.4g hood | active |
+| [research.4g.final](../agents/bbugyi200.athena.research.4g.final/README.md) | research.4g hood | active |
+| [research.4g.gem](../agents/bbugyi200.athena.research.4g.gem/README.md) | research.4g hood | active |
+| [research.4g.grk](../agents/bbugyi200.athena.research.4g.grk/README.md) | research.4g hood | active |
+| [research.4g.image](../agents/bbugyi200.athena.research.4g.image/README.md) | research.4g hood | active |
 | [research.0.cdx](../agents/bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../agents/bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../agents/bbugyi200.athena.research.0.final/README.md) | research hood | completed |
@@ -86,4 +86,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.39.cdx](../agents/bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../agents/bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../agents/bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 165 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 172 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
