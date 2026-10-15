@@ -25,7 +25,7 @@ flowchart TD
   n0 --> n7
   n8["bob-cli-7r.6--2 [completed]"]
   n0 --> n8
-  n9["bob-cli-7r.6--8 [active]"]
+  n9["bob-cli-7r.6--8 [completed]"]
   n0 --> n9
   n10["bob-cli-7r.6--mon-0 [failed]"]
   n0 --> n10
@@ -56,7 +56,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-3"></a>mon-3 | bob-cli-7r.6--mon-3 | failed | gpt-6-luna / codex | 2026-10-14T23:14:06.408654+00:00 → 2026-10-14T23:18:51.618767+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-7r.6--mon-3/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-7r.6--mon-1 | failed | gpt-6-luna / codex | 2026-10-14T22:55:46.912975+00:00 → 2026-10-14T22:57:37.435580+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-7r.6--mon-1/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-7r.6--2 | completed | gpt-6-luna / codex | 2026-10-14T22:46:33.660595+00:00 → 2026-10-14T22:56:15.914523+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.6--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7r.6--2/chat.md) |
-| <a id="member-8"></a>8 | bob-cli-7r.6--8 | active | gpt-6-luna / codex | 2026-10-14T23:50:19.386957+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.6--8/prompt.md) | — |
+| <a id="member-8"></a>8 | bob-cli-7r.6--8 | completed | gpt-6-luna / codex | 2026-10-14T23:50:19.386957+00:00 → 2026-10-14T23:55:57.061107+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.6--8/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7r.6--8/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-7r.6--mon-0 | failed | gpt-6-luna / codex | 2026-10-14T22:43:55.469836+00:00 → 2026-10-14T22:46:02.130400+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-7r.6--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-7r.6--mon | failed | gpt-6-luna / codex | 2026-10-14T22:35:09.538059+00:00 → 2026-10-14T22:37:18.646117+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-7r.6--mon/chat.md) |
 | <a id="member-4"></a>4 | bob-cli-7r.6--4 | completed | gpt-6-luna / codex | 2026-10-14T23:08:48.988482+00:00 → 2026-10-14T23:14:42.716750+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.6--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7r.6--4/chat.md) |
@@ -74,5 +74,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-7r.3](../agents/bbugyi200.athena.bob-cli-7r.3/README.md) | bob-cli-7r hood | completed |
 | [bob-cli-7r.4](bbugyi200.athena.bob-cli-7r.4.md) (session · 5) | bob-cli-7r hood | completed 3, failed 2 |
 | [bob-cli-7r.5](../agents/bbugyi200.athena.bob-cli-7r.5/README.md) | bob-cli-7r hood | completed |
-| [bob-cli-7r.7](../agents/bbugyi200.athena.bob-cli-7r.7/README.md) | bob-cli-7r hood | waiting |
+| [bob-cli-7r.7](bbugyi200.athena.bob-cli-7r.7.md) (session · 3) | bob-cli-7r hood | active 1, completed 1, failed 1 |
 | [bob-cli-7r.land](../agents/bbugyi200.athena.bob-cli-7r.land/README.md) | bob-cli-7r hood | waiting |
