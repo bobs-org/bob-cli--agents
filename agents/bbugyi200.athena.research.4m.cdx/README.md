@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4m.cdx
 
-**Global name:** `bbugyi200.athena.research.4m.cdx` · **State:** active · **Source run:** `run-72716d49a72ed3b8b61770fa4fe34a30`
+**Global name:** `bbugyi200.athena.research.4m.cdx` · **State:** completed · **Source run:** `run-72716d49a72ed3b8b61770fa4fe34a30`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 2026-10-15T21:44:12.618969+00:00
+- Timing: 2026-10-15T21:44:12.618969+00:00 → 2026-10-15T21:56:22.591017+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -42,7 +42,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [research.4m.cld](../bbugyi200.athena.research.4m.cld/README.md) | research.4m hood | active |
 | [research.4m.final](../bbugyi200.athena.research.4m.final/README.md) | research.4m hood | waiting |
-| [research.4m.gem](../bbugyi200.athena.research.4m.gem/README.md) | research.4m hood | active |
+| [research.4m.gem](../bbugyi200.athena.research.4m.gem/README.md) | research.4m hood | completed |
 | [research.4m.grk](../bbugyi200.athena.research.4m.grk/README.md) | research.4m hood | active |
 | [research.4m.image](../bbugyi200.athena.research.4m.image/README.md) | research.4m hood | waiting |
 | [research.4m.linker](../bbugyi200.athena.research.4m.linker/README.md) | research.4m hood | waiting |
