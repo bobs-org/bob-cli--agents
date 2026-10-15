@@ -74,5 +74,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-7r.3](../agents/bbugyi200.athena.bob-cli-7r.3/README.md) | bob-cli-7r hood | completed |
 | [bob-cli-7r.4](bbugyi200.athena.bob-cli-7r.4.md) (session · 5) | bob-cli-7r hood | completed 3, failed 2 |
 | [bob-cli-7r.5](../agents/bbugyi200.athena.bob-cli-7r.5/README.md) | bob-cli-7r hood | completed |
-| [bob-cli-7r.7](bbugyi200.athena.bob-cli-7r.7.md) (session · 3) | bob-cli-7r hood | active 1, completed 1, failed 1 |
-| [bob-cli-7r.land](../agents/bbugyi200.athena.bob-cli-7r.land/README.md) | bob-cli-7r hood | waiting |
+| [bob-cli-7r.7](bbugyi200.athena.bob-cli-7r.7.md) (session · 3) | bob-cli-7r hood | completed 2, failed 1 |
+| [bob-cli-7r.land](bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 2, failed 1 |

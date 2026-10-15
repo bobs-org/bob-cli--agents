@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-7r.7--plan [completed]"]
   n1["bob-cli-7r.7--mon [failed]"]
   n0 --> n1
-  n2["bob-cli-7r.7--1 [active]"]
+  n2["bob-cli-7r.7--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-7r.7--plan | completed | grok-4.6 / grok | 2026-10-14T23:56:30.747266+00:00 → 2026-10-15T00:14:07.301784+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7r.7--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-7r.7--mon | failed | grok-4.6 / grok | 2026-10-15T00:08:37.998320+00:00 → 2026-10-15T00:15:30.517759+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-7r.7--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-7r.7--1 | active | grok-4.6 / grok | 2026-10-15T00:16:12.683201+00:00 | [1](../agents/bbugyi200.athena.bob-cli-7r.7--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.7--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-7r.7--1 | completed | grok-4.6 / grok | 2026-10-15T00:16:12.683201+00:00 → 2026-10-15T00:19:57.043428+00:00 | [1](../agents/bbugyi200.athena.bob-cli-7r.7--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.7--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7r.7--1/chat.md) |
 
 ## Commits
 
@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-7r.4](bbugyi200.athena.bob-cli-7r.4.md) (session · 5) | bob-cli-7r hood | completed 3, failed 2 |
 | [bob-cli-7r.5](../agents/bbugyi200.athena.bob-cli-7r.5/README.md) | bob-cli-7r hood | completed |
 | [bob-cli-7r.6](bbugyi200.athena.bob-cli-7r.6.md) (session · 17) | bob-cli-7r hood | completed 9, failed 8 |
-| [bob-cli-7r.land](../agents/bbugyi200.athena.bob-cli-7r.land/README.md) | bob-cli-7r hood | waiting |
+| [bob-cli-7r.land](bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 2, failed 1 |
