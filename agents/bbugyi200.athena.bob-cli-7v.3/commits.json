@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3cf480c2cc3680310a88e6e6db3e1df0"}
+{"commits":[{"committed_at":1792083539,"sha":"e10496251059137f53dece8f98543e24d5fae283","subject":"feat(web-clip): add render:false capture and collection compose"}],"schema_version":2,"source_run_id":"run-3cf480c2cc3680310a88e6e6db3e1df0"}
