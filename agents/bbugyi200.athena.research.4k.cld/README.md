@@ -12,19 +12,38 @@
 - Provider: claude
 - Timing: 2026-10-15T19:18:03.615519+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/sase\_blog\_subproject\_merge\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261015151646/sase\_blog\_subproject\_merge\_\_cld-a0443143a48b.… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/sase_blog_subproject_merge__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261015151646/sase_blog_subproject_merge__cld-a0443143a48b.md
+  ref: file:explicit:af3f5b97ae2d5e60a4e287ba
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/sase_blog_subproject_merge__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4k.cdx](../bbugyi200.athena.research.4k.cdx/README.md) | research.4k hood | active |
+| [research.4k.cdx](../bbugyi200.athena.research.4k.cdx/README.md) | research.4k hood | completed |
 | [research.4k.final](../bbugyi200.athena.research.4k.final/README.md) | research.4k hood | waiting |
 | [research.4k.gem](../bbugyi200.athena.research.4k.gem/README.md) | research.4k hood | completed |
-| [research.4k.grk](../bbugyi200.athena.research.4k.grk/README.md) | research.4k hood | active |
+| [research.4k.grk](../bbugyi200.athena.research.4k.grk/README.md) | research.4k hood | completed |
 | [research.4k.image](../bbugyi200.athena.research.4k.image/README.md) | research.4k hood | waiting |
 | [research.4k.linker](../bbugyi200.athena.research.4k.linker/README.md) | research.4k hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |

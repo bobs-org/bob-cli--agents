@@ -21,11 +21,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4k.cdx](../bbugyi200.athena.research.4k.cdx/README.md) | research.4k hood | active |
+| [research.4k.cdx](../bbugyi200.athena.research.4k.cdx/README.md) | research.4k hood | completed |
 | [research.4k.cld](../bbugyi200.athena.research.4k.cld/README.md) | research.4k hood | active |
 | [research.4k.final](../bbugyi200.athena.research.4k.final/README.md) | research.4k hood | waiting |
 | [research.4k.gem](../bbugyi200.athena.research.4k.gem/README.md) | research.4k hood | completed |
-| [research.4k.grk](../bbugyi200.athena.research.4k.grk/README.md) | research.4k hood | active |
+| [research.4k.grk](../bbugyi200.athena.research.4k.grk/README.md) | research.4k hood | completed |
 | [research.4k.image](../bbugyi200.athena.research.4k.image/README.md) | research.4k hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
