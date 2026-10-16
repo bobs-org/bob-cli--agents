@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-87` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-87.8--mon [failed]"]
-  n1["bob-cli-87.8--1 [active]"]
+  n1["bob-cli-87.8--1 [completed]"]
   n0 --> n1
   n2["bob-cli-87.8--plan [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-87.8--mon | failed | gpt-6-luna / codex | 2026-10-16T20:06:05.372511+00:00 → 2026-10-16T20:12:34.649891+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-87.8--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-87.8--1 | active | gpt-6-luna / codex | 2026-10-16T20:14:05.540525+00:00 | [1](../agents/bbugyi200.athena.bob-cli-87.8--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-87.8--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-87.8--1 | completed | gpt-6-luna / codex | 2026-10-16T20:14:05.540525+00:00 → 2026-10-16T20:43:46.844535+00:00 | [1](../agents/bbugyi200.athena.bob-cli-87.8--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-87.8--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.8--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-87.8--plan | completed | gpt-6-luna / codex | 2026-10-16T19:49:20.224495+00:00 → 2026-10-16T20:06:37.420252+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.8--plan/chat.md) |
 
 ## Commits
@@ -28,6 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | 1 | bob-cli | [`c7367ee`](https://github.com/bobs-org/bob-cli/commit/c7367ee183e5d9b9bbb3a92b9a1657a8592de10f) | feat(snapshot): split blocked tasks into Waiting on and Scheduled lanes | 2026-10-16 16:30:42 EDT |
+| — | bob-cli | [`130a5fd`](https://github.com/bobs-org/bob-cli/commit/130a5fd8311a19fe59accb5ff6545a9ad1db2348) | feat(highlights): add section filters and snapshot hints | 2026-10-16 16:38:36 EDT |
 
 ## Neighbors
 
@@ -35,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-87.1](../agents/bbugyi200.athena.bob-cli-87.1/README.md) | bob-cli-87 hood | completed |
 | [bob-cli-87.10](../agents/bbugyi200.athena.bob-cli-87.10/README.md) | bob-cli-87 hood | completed |
-| [bob-cli-87.11](../agents/bbugyi200.athena.bob-cli-87.11/README.md) | bob-cli-87 hood | active |
+| [bob-cli-87.11](bbugyi200.athena.bob-cli-87.11.md) (session · 7) | bob-cli-87 hood | active 1, completed 3, failed 3 |
 | [bob-cli-87.12](../agents/bbugyi200.athena.bob-cli-87.12/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.2](bbugyi200.athena.bob-cli-87.2.md) (session · 3) | bob-cli-87 hood | failed 3 |
 | [bob-cli-87.2.1.1](bbugyi200.athena.bob-cli-87.2.1.1.md) (session · 9) | bob-cli-87 hood | completed 5, failed 4 |
