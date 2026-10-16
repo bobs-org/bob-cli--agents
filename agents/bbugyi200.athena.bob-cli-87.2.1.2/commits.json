@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c3d9055dc699053ebe29e33f67d4f6f5"}
+{"commits":[{"committed_at":1792155271,"sha":"29f5f4efa0bf32f7a86fbbbce778845fed7864fa","subject":"feat(snapshot): add classification and cached vault resolution"}],"schema_version":2,"source_run_id":"run-c3d9055dc699053ebe29e33f67d4f6f5"}

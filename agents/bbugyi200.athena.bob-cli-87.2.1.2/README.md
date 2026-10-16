@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-16T12:33:22.273494+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`29f5f4e`](https://github.com/bobs-org/bob-cli/commit/29f5f4efa0bf32f7a86fbbbce778845fed7864fa) | feat(snapshot): add classification and cached vault resolution | 2026-10-16 08:54:31 EDT |
 
 ## Neighbors
 
@@ -33,7 +39,7 @@
 | [bob-cli-87.11](../bbugyi200.athena.bob-cli-87.11/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.12](../bbugyi200.athena.bob-cli-87.12/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.3](../bbugyi200.athena.bob-cli-87.3/README.md) | bob-cli-87 hood | waiting |
-| [bob-cli-87.4](../../sessions/bbugyi200.athena.bob-cli-87.4.md) (session · 3) | bob-cli-87 hood | active 2, failed 1 |
+| [bob-cli-87.4](../../sessions/bbugyi200.athena.bob-cli-87.4.md) (session · 3) | bob-cli-87 hood | completed 2, failed 1 |
 | [bob-cli-87.5](../bbugyi200.athena.bob-cli-87.5/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.6](../bbugyi200.athena.bob-cli-87.6/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.7](../bbugyi200.athena.bob-cli-87.7/README.md) | bob-cli-87 hood | waiting |
