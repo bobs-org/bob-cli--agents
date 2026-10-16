@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b1dcaf448a9076a036baef0b04a4a9d3"}
+{"commits":[{"committed_at":1792167465,"sha":"57c3df2a87a5b8da8b29bc146e0fb2699a5241f2","subject":"feat(snapshot): add source-aware Bob task rows and relationship metadata"}],"schema_version":2,"source_run_id":"run-b1dcaf448a9076a036baef0b04a4a9d3"}
