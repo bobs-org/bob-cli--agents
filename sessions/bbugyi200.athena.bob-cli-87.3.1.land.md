@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-87` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-87.3.1.land--plan [active]"]
-  n1["bob-cli-87.3.1.land--code [active]"]
+  n0["bob-cli-87.3.1.land--plan [completed]"]
+  n1["bob-cli-87.3.1.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-87.3.1.land--gate [failed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-87.3.1.land--plan | active | gpt-6-astra / codex | 2026-10-16T17:46:29.346123+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.3.1.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-87.3.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-16T18:01:58.195177+00:00 | [1](../agents/bbugyi200.athena.bob-cli-87.3.1.land--code/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | bob-cli-87.3.1.land--plan | completed | gpt-6-astra / codex | 2026-10-16T17:46:29.346123+00:00 → 2026-10-16T18:32:09.165024+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.3.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-87.3.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-16T18:01:58.195177+00:00 → 2026-10-16T18:32:09.165024+00:00 | [1](../agents/bbugyi200.athena.bob-cli-87.3.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-87.3.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-87.3.1.land--gate | failed | gpt-6-astra / codex | 2026-10-16T18:00:51.579270+00:00 → 2026-10-16T18:01:23.104361+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-87.3.1.land--gate/chat.md) |
 
 ## Commits
@@ -69,7 +69,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-87.2.1.4](bbugyi200.athena.bob-cli-87.2.1.4.md) (session · 7) | bob-cli-87 hood | completed 4, failed 3 |
 | [bob-cli-87.2.1.land](bbugyi200.athena.bob-cli-87.2.1.land.md) (session · 5) | bob-cli-87 hood | completed 3, failed 2 |
 | [bob-cli-87.4](bbugyi200.athena.bob-cli-87.4.md) (session · 3) | bob-cli-87 hood | completed 2, failed 1 |
-| [bob-cli-87.5](../agents/bbugyi200.athena.bob-cli-87.5/README.md) | bob-cli-87 hood | active |
+| [bob-cli-87.5](bbugyi200.athena.bob-cli-87.5.md) (session · 7) | bob-cli-87 hood | active 1, completed 3, failed 3 |
 | [bob-cli-87.6](../agents/bbugyi200.athena.bob-cli-87.6/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.7](../agents/bbugyi200.athena.bob-cli-87.7/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.8](../agents/bbugyi200.athena.bob-cli-87.8/README.md) | bob-cli-87 hood | waiting |

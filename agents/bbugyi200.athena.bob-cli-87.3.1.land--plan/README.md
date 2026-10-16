@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-87](../../users/bbugyi200/machines/athena/hoods/bob-cli-87/README.md) / [bob-cli-87.3.1.land](../../sessions/bbugyi200.athena.bob-cli-87.3.1.land.md) / bob-cli-87.3.1.land--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-87.3.1.land--plan` · **State:** active · **Source run:** `run-73e4d3253a77fc1703ad413499723a05`
+**Global name:** `bbugyi200.athena.bob-cli-87.3.1.land--plan` · **State:** completed · **Source run:** `run-73e4d3253a77fc1703ad413499723a05`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-87
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-87.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-87/bob-cli-87.3.1.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-16T17:46:29.346123+00:00
+- Timing: 2026-10-16T17:46:29.346123+00:00 → 2026-10-16T18:32:09.165024+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -57,7 +57,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-87.2.1.4](../../sessions/bbugyi200.athena.bob-cli-87.2.1.4.md) (session · 7) | bob-cli-87 hood | completed 4, failed 3 |
 | [bob-cli-87.2.1.land](../../sessions/bbugyi200.athena.bob-cli-87.2.1.land.md) (session · 5) | bob-cli-87 hood | completed 3, failed 2 |
 | [bob-cli-87.4](../../sessions/bbugyi200.athena.bob-cli-87.4.md) (session · 3) | bob-cli-87 hood | completed 2, failed 1 |
-| [bob-cli-87.5](../bbugyi200.athena.bob-cli-87.5/README.md) | bob-cli-87 hood | active |
+| [bob-cli-87.5](../../sessions/bbugyi200.athena.bob-cli-87.5.md) (session · 7) | bob-cli-87 hood | active 1, completed 3, failed 3 |
 | [bob-cli-87.6](../bbugyi200.athena.bob-cli-87.6/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.7](../bbugyi200.athena.bob-cli-87.7/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.8](../bbugyi200.athena.bob-cli-87.8/README.md) | bob-cli-87 hood | waiting |
