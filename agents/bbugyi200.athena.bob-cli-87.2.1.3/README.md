@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-87](../../users/bbugyi200/machines/athena/hoods/bob-cli-87/README.md) / bob-cli-87.2.1.3
 
-**Global name:** `bbugyi200.athena.bob-cli-87.2.1.3` · **State:** waiting · **Source run:** `run-add8eed0fd8d3e827c1e0dc302eac1fb`
+**Global name:** `bbugyi200.athena.bob-cli-87.2.1.3` · **State:** active · **Source run:** `run-add8eed0fd8d3e827c1e0dc302eac1fb`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-87
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-87.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-87/bob-cli-87.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261016072717
-- Commits: 0
+- Timing: 2026-10-16T12:56:42.576641+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8da6615`](https://github.com/bobs-org/bob-cli/commit/8da66156b8395c93a2d50ab3b415959db6bb1dee) | feat(note-snapshot): implement protected-code-aware obsidian syntax projection | 2026-10-16 09:33:56 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [bob-cli-87.2](../../sessions/bbugyi200.athena.bob-cli-87.2.md) (session · 3) | ancestor | failed 3 |
 | [bob-cli-87.2.1.1](../../sessions/bbugyi200.athena.bob-cli-87.2.1.1.md) (session · 9) | bob-cli-87.2.1 hood | completed 5, failed 4 |
-| [bob-cli-87.2.1.2](../bbugyi200.athena.bob-cli-87.2.1.2/README.md) | bob-cli-87.2.1 hood | active |
+| [bob-cli-87.2.1.2](../bbugyi200.athena.bob-cli-87.2.1.2/README.md) | bob-cli-87.2.1 hood | completed |
 | [bob-cli-87.2.1.4](../bbugyi200.athena.bob-cli-87.2.1.4/README.md) | bob-cli-87.2.1 hood | waiting |
 | [bob-cli-87.2.1.land](../bbugyi200.athena.bob-cli-87.2.1.land/README.md) | bob-cli-87.2.1 hood | waiting |
 | [bob-cli-87.1](../bbugyi200.athena.bob-cli-87.1/README.md) | bob-cli-87 hood | completed |
