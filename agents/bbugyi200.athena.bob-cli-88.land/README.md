@@ -23,6 +23,6 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-88.1](../bbugyi200.athena.bob-cli-88.1/README.md) | bob-cli-88 hood | active |
-| [bob-cli-88.2](../bbugyi200.athena.bob-cli-88.2/README.md) | bob-cli-88 hood | active |
-| [bob-cli-88.3](../bbugyi200.athena.bob-cli-88.3/README.md) | bob-cli-88 hood | active |
+| [bob-cli-88.2](../bbugyi200.athena.bob-cli-88.2/README.md) | bob-cli-88 hood | completed |
+| [bob-cli-88.3](../bbugyi200.athena.bob-cli-88.3/README.md) | bob-cli-88 hood | completed |
 | [bob-cli-88.4](../bbugyi200.athena.bob-cli-88.4/README.md) | bob-cli-88 hood | waiting |
