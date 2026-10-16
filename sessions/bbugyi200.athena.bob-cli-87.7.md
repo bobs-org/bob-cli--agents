@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-87.7--mon [failed]"]
   n1["bob-cli-87.7--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-87.7--1 [active]"]
+  n2["bob-cli-87.7--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-87.7--mon | failed | grok-4.6 / grok | 2026-10-16T20:07:56.535533+00:00 → 2026-10-16T20:16:14.237424+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-87.7--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-87.7--plan | completed | grok-4.6 / grok | 2026-10-16T19:43:22.140431+00:00 → 2026-10-16T20:08:52.056042+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.7--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-87.7--1 | active | grok-4.6 / grok | 2026-10-16T20:17:16.212722+00:00 | [1](../agents/bbugyi200.athena.bob-cli-87.7--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-87.7--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-87.7--1 | completed | grok-4.6 / grok | 2026-10-16T20:17:16.212722+00:00 → 2026-10-16T20:37:13.234842+00:00 | [1](../agents/bbugyi200.athena.bob-cli-87.7--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-87.7--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.7--1/chat.md) |
 
 ## Commits
 
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-87.1](../agents/bbugyi200.athena.bob-cli-87.1/README.md) | bob-cli-87 hood | completed |
 | [bob-cli-87.10](../agents/bbugyi200.athena.bob-cli-87.10/README.md) | bob-cli-87 hood | completed |
-| [bob-cli-87.11](../agents/bbugyi200.athena.bob-cli-87.11/README.md) | bob-cli-87 hood | waiting |
+| [bob-cli-87.11](../agents/bbugyi200.athena.bob-cli-87.11/README.md) | bob-cli-87 hood | active |
 | [bob-cli-87.12](../agents/bbugyi200.athena.bob-cli-87.12/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.2](bbugyi200.athena.bob-cli-87.2.md) (session · 3) | bob-cli-87 hood | failed 3 |
 | [bob-cli-87.2.1.1](bbugyi200.athena.bob-cli-87.2.1.1.md) (session · 9) | bob-cli-87 hood | completed 5, failed 4 |
