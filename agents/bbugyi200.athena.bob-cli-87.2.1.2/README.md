@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-87](../../users/bbugyi200/machines/athena/hoods/bob-cli-87/README.md) / bob-cli-87.2.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-87.2.1.2` · **State:** waiting · **Source run:** `run-c3d9055dc699053ebe29e33f67d4f6f5`
+**Global name:** `bbugyi200.athena.bob-cli-87.2.1.2` · **State:** active · **Source run:** `run-c3d9055dc699053ebe29e33f67d4f6f5`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-87
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-87.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-87/bob-cli-87.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261016072716
+- Timing: 2026-10-16T12:33:22.273494+00:00
 - Commits: 0
 
 ## Files
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-87.2](../../sessions/bbugyi200.athena.bob-cli-87.2.md) (session · 3) | ancestor | failed 3 |
-| [bob-cli-87.2.1.1](../../sessions/bbugyi200.athena.bob-cli-87.2.1.1.md) (session · 9) | bob-cli-87.2.1 hood | active 1, completed 4, failed 4 |
+| [bob-cli-87.2.1.1](../../sessions/bbugyi200.athena.bob-cli-87.2.1.1.md) (session · 9) | bob-cli-87.2.1 hood | completed 5, failed 4 |
 | [bob-cli-87.2.1.3](../bbugyi200.athena.bob-cli-87.2.1.3/README.md) | bob-cli-87.2.1 hood | waiting |
 | [bob-cli-87.2.1.4](../bbugyi200.athena.bob-cli-87.2.1.4/README.md) | bob-cli-87.2.1 hood | waiting |
 | [bob-cli-87.2.1.land](../bbugyi200.athena.bob-cli-87.2.1.land/README.md) | bob-cli-87.2.1 hood | waiting |

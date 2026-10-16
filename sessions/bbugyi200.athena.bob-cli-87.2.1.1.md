@@ -21,7 +21,7 @@ flowchart TD
   n0 --> n5
   n6["bob-cli-87.2.1.1--2 [completed]"]
   n0 --> n6
-  n7["bob-cli-87.2.1.1--4 [active]"]
+  n7["bob-cli-87.2.1.1--4 [completed]"]
   n0 --> n7
   n8["bob-cli-87.2.1.1--mon [failed]"]
   n0 --> n8
@@ -38,7 +38,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | bob-cli-87.2.1.1--mon-0 | failed | gpt-6-luna / codex | 2026-10-16T11:50:55.565733+00:00 → 2026-10-16T11:53:14.255867+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-87.2.1.1--mon-0/chat.md) |
 | <a id="member-3"></a>3 | bob-cli-87.2.1.1--3 | completed | gpt-6-luna / codex | 2026-10-16T12:05:22.629064+00:00 → 2026-10-16T12:13:07.680511+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.2.1.1--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.2.1.1--3/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-87.2.1.1--2 | completed | gpt-6-luna / codex | 2026-10-16T11:53:47.619856+00:00 → 2026-10-16T12:01:10.112438+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.2.1.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.2.1.1--2/chat.md) |
-| <a id="member-4"></a>4 | bob-cli-87.2.1.1--4 | active | gpt-6-luna / codex | 2026-10-16T12:15:20.762823+00:00 | [1](../agents/bbugyi200.athena.bob-cli-87.2.1.1--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-87.2.1.1--4/prompt.md) | — |
+| <a id="member-4"></a>4 | bob-cli-87.2.1.1--4 | completed | gpt-6-luna / codex | 2026-10-16T12:15:20.762823+00:00 → 2026-10-16T12:32:38.033811+00:00 | [1](../agents/bbugyi200.athena.bob-cli-87.2.1.1--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-87.2.1.1--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.2.1.1--4/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-87.2.1.1--mon | failed | gpt-6-luna / codex | 2026-10-16T11:38:15.958517+00:00 → 2026-10-16T11:40:54.698942+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-87.2.1.1--mon/chat.md) |
 
 ## Commits
@@ -52,7 +52,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-87.2](bbugyi200.athena.bob-cli-87.2.md) (session · 3) | ancestor | failed 3 |
-| [bob-cli-87.2.1.2](../agents/bbugyi200.athena.bob-cli-87.2.1.2/README.md) | bob-cli-87.2.1 hood | waiting |
+| [bob-cli-87.2.1.2](../agents/bbugyi200.athena.bob-cli-87.2.1.2/README.md) | bob-cli-87.2.1 hood | active |
 | [bob-cli-87.2.1.3](../agents/bbugyi200.athena.bob-cli-87.2.1.3/README.md) | bob-cli-87.2.1 hood | waiting |
 | [bob-cli-87.2.1.4](../agents/bbugyi200.athena.bob-cli-87.2.1.4/README.md) | bob-cli-87.2.1 hood | waiting |
 | [bob-cli-87.2.1.land](../agents/bbugyi200.athena.bob-cli-87.2.1.land/README.md) | bob-cli-87.2.1 hood | waiting |
