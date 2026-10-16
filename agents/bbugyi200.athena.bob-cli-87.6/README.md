@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-87](../../users/bbugyi200/machines/athena/hoods/bob-cli-87/README.md) / bob-cli-87.6
 
-**Global name:** `bbugyi200.athena.bob-cli-87.6` · **State:** waiting · **Source run:** `run-4cba620fcecc9c0f2067b2f6467c8768`
+**Global name:** `bbugyi200.athena.bob-cli-87.6` · **State:** active · **Source run:** `run-4cba620fcecc9c0f2067b2f6467c8768`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-87
 
@@ -11,19 +11,25 @@
 - Bead: [bob-cli-87.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-87/bob-cli-87.6.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261016103909
-- Commits: 0
+- Timing: 2026-10-16T19:43:46.895846+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`a4c9ecf`](https://github.com/bobs-org/bob-cli/commit/a4c9ecf511a4e5ef5cfa29ac1868c00f2579a839) | feat(highlights): prepare note snapshot images for print | 2026-10-16 15:56:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-87.1](../bbugyi200.athena.bob-cli-87.1/README.md) | bob-cli-87 hood | completed |
-| [bob-cli-87.10](../bbugyi200.athena.bob-cli-87.10/README.md) | bob-cli-87 hood | waiting |
+| [bob-cli-87.10](../bbugyi200.athena.bob-cli-87.10/README.md) | bob-cli-87 hood | active |
 | [bob-cli-87.11](../bbugyi200.athena.bob-cli-87.11/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.12](../bbugyi200.athena.bob-cli-87.12/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.2](../../sessions/bbugyi200.athena.bob-cli-87.2.md) (session · 3) | bob-cli-87 hood | failed 3 |
@@ -38,8 +44,8 @@
 | [bob-cli-87.3.1.3](../../sessions/bbugyi200.athena.bob-cli-87.3.1.3.md) (session · 5) | bob-cli-87 hood | completed 3, failed 2 |
 | [bob-cli-87.3.1.land](../../sessions/bbugyi200.athena.bob-cli-87.3.1.land.md) (session · 3) | bob-cli-87 hood | completed 2, failed 1 |
 | [bob-cli-87.4](../../sessions/bbugyi200.athena.bob-cli-87.4.md) (session · 3) | bob-cli-87 hood | completed 2, failed 1 |
-| [bob-cli-87.5](../../sessions/bbugyi200.athena.bob-cli-87.5.md) (session · 7) | bob-cli-87 hood | active 1, completed 3, failed 3 |
-| [bob-cli-87.7](../bbugyi200.athena.bob-cli-87.7/README.md) | bob-cli-87 hood | waiting |
-| [bob-cli-87.8](../bbugyi200.athena.bob-cli-87.8/README.md) | bob-cli-87 hood | waiting |
+| [bob-cli-87.5](../../sessions/bbugyi200.athena.bob-cli-87.5.md) (session · 7) | bob-cli-87 hood | completed 4, failed 3 |
+| [bob-cli-87.7](../bbugyi200.athena.bob-cli-87.7/README.md) | bob-cli-87 hood | active |
+| [bob-cli-87.8](../bbugyi200.athena.bob-cli-87.8/README.md) | bob-cli-87 hood | active |
 | [bob-cli-87.9](../bbugyi200.athena.bob-cli-87.9/README.md) | bob-cli-87 hood | completed |
 | [bob-cli-87.land](../bbugyi200.athena.bob-cli-87.land/README.md) | bob-cli-87 hood | waiting |

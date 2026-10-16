@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-87](../../users/bbugyi200/machines/athena/hoods/bob-cli-87/README.md) / bob-cli-87.10
 
-**Global name:** `bbugyi200.athena.bob-cli-87.10` · **State:** waiting · **Source run:** `run-c052057a213563477abd1811930848e3`
+**Global name:** `bbugyi200.athena.bob-cli-87.10` · **State:** active · **Source run:** `run-c052057a213563477abd1811930848e3`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-87
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-87](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-87/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261016071432
+- Timing: 2026-10-16T19:46:19.652692+00:00
 - Commits: 0
 
 ## Files
@@ -38,9 +38,9 @@
 | [bob-cli-87.3.1.3](../../sessions/bbugyi200.athena.bob-cli-87.3.1.3.md) (session · 5) | bob-cli-87 hood | completed 3, failed 2 |
 | [bob-cli-87.3.1.land](../../sessions/bbugyi200.athena.bob-cli-87.3.1.land.md) (session · 3) | bob-cli-87 hood | completed 2, failed 1 |
 | [bob-cli-87.4](../../sessions/bbugyi200.athena.bob-cli-87.4.md) (session · 3) | bob-cli-87 hood | completed 2, failed 1 |
-| [bob-cli-87.5](../../sessions/bbugyi200.athena.bob-cli-87.5.md) (session · 7) | bob-cli-87 hood | active 1, completed 3, failed 3 |
-| [bob-cli-87.6](../bbugyi200.athena.bob-cli-87.6/README.md) | bob-cli-87 hood | waiting |
-| [bob-cli-87.7](../bbugyi200.athena.bob-cli-87.7/README.md) | bob-cli-87 hood | waiting |
-| [bob-cli-87.8](../bbugyi200.athena.bob-cli-87.8/README.md) | bob-cli-87 hood | waiting |
+| [bob-cli-87.5](../../sessions/bbugyi200.athena.bob-cli-87.5.md) (session · 7) | bob-cli-87 hood | completed 4, failed 3 |
+| [bob-cli-87.6](../bbugyi200.athena.bob-cli-87.6/README.md) | bob-cli-87 hood | active |
+| [bob-cli-87.7](../bbugyi200.athena.bob-cli-87.7/README.md) | bob-cli-87 hood | active |
+| [bob-cli-87.8](../bbugyi200.athena.bob-cli-87.8/README.md) | bob-cli-87 hood | active |
 | [bob-cli-87.9](../bbugyi200.athena.bob-cli-87.9/README.md) | bob-cli-87 hood | completed |
 | [bob-cli-87.land](../bbugyi200.athena.bob-cli-87.land/README.md) | bob-cli-87 hood | waiting |
