@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,13 +40,13 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4m.cdx](../bbugyi200.athena.research.4m.cdx/README.md) | research.4m hood | completed |
-| [research.4m.cld](../bbugyi200.athena.research.4m.cld/README.md) | research.4m hood | completed |
-| [research.4m.final](../bbugyi200.athena.research.4m.final/README.md) | research.4m hood | completed |
-| [research.4m.gem](../bbugyi200.athena.research.4m.gem/README.md) | research.4m hood | completed |
-| [research.4m.grk](../bbugyi200.athena.research.4m.grk/README.md) | research.4m hood | completed |
-| [research.4m.image](../bbugyi200.athena.research.4m.image/README.md) | research.4m hood | completed |
-| [research.4m.mus](../bbugyi200.athena.research.4m.mus/README.md) | research.4m hood | completed |
+| [research.4m.cdx](../bbugyi200.athena.research.4m.cdx/README.md) | research.4m hood | active |
+| [research.4m.cld](../bbugyi200.athena.research.4m.cld/README.md) | research.4m hood | active |
+| [research.4m.final](../bbugyi200.athena.research.4m.final/README.md) | research.4m hood | active |
+| [research.4m.gem](../bbugyi200.athena.research.4m.gem/README.md) | research.4m hood | active |
+| [research.4m.grk](../bbugyi200.athena.research.4m.grk/README.md) | research.4m hood | active |
+| [research.4m.image](../bbugyi200.athena.research.4m.image/README.md) | research.4m hood | active |
+| [research.4m.mus](../bbugyi200.athena.research.4m.mus/README.md) | research.4m hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
@@ -97,4 +97,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 191 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 198 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
