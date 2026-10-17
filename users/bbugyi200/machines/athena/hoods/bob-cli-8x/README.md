@@ -1,0 +1,15 @@
+# Hood: bob-cli-8x
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-8x
+
+**Global hood:** `bbugyi200.athena.bob-cli-8x` · **Runs:** 7 · **Sessions:** 0 · **States:** active 1, waiting 6
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [bob-cli-8x.1](../../../../../../agents/bbugyi200.athena.bob-cli-8x.1/README.md) | active | gpt-6-luna / codex | 2026-10-17T21:16:27.287108+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8x.1/prompt.md) |
+| [bob-cli-8x.3](../../../../../../agents/bbugyi200.athena.bob-cli-8x.3/README.md) | waiting | grok-4.6 / grok | 20261017171409 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8x.3/prompt.md) |
+| [bob-cli-8x.land](../../../../../../agents/bbugyi200.athena.bob-cli-8x.land/README.md) | waiting | opus / claude | 20261017171413 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8x.land/prompt.md) |
+| [bob-cli-8x.5](../../../../../../agents/bbugyi200.athena.bob-cli-8x.5/README.md) | waiting | grok-4.6 / grok | 20261017171411 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8x.5/prompt.md) |
+| [bob-cli-8x.2](../../../../../../agents/bbugyi200.athena.bob-cli-8x.2/README.md) | waiting | grok-4.6 / grok | 20261017171408 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8x.2/prompt.md) |
+| [bob-cli-8x.6](../../../../../../agents/bbugyi200.athena.bob-cli-8x.6/README.md) | waiting | gpt-6-luna / codex | 20261017171412 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8x.6/prompt.md) |
+| [bob-cli-8x.4](../../../../../../agents/bbugyi200.athena.bob-cli-8x.4/README.md) | waiting | gpt-6-luna / codex | 20261017171410 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8x.4/prompt.md) |
