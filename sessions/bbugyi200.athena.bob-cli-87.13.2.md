@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-87](../users/bbugyi200/machines/athena/hoods/bob-cli-87/README.md) / bob-cli-87.13.2
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-87` · Members: 3 · Bead: [bob-cli-87.13.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-87/bob-cli-87.13.2.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-87` · Members: 4 · Bead: [bob-cli-87.13.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-87/bob-cli-87.13.2.md)
 
 ## Lineage
 
@@ -11,8 +11,10 @@ flowchart TD
   n0["bob-cli-87.13.2--plan [completed]"]
   n1["bob-cli-87.13.2--mon [failed]"]
   n0 --> n1
-  n2["bob-cli-87.13.2--1 [active]"]
+  n2["bob-cli-87.13.2--mon-0 [active]"]
   n0 --> n2
+  n3["bob-cli-87.13.2--1 [completed]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -21,14 +23,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-87.13.2--plan | completed | gpt-6-luna / codex | 2026-10-17T14:14:51.943445+00:00 → 2026-10-17T14:36:52.779001+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.13.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.13.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-87.13.2--mon | failed | gpt-6-luna / codex | 2026-10-17T14:36:08.993931+00:00 → 2026-10-17T14:40:10.363948+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-87.13.2--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-87.13.2--1 | active | gpt-6-luna / codex | 20261017103910 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.13.2--1/prompt.md) | — |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-87.13.2--mon-0 | active | gpt-6-luna / codex | 2026-10-17T14:48:56.080462+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | bob-cli-87.13.2--1 | completed | gpt-6-luna / codex | 2026-10-17T14:41:06.848227+00:00 → 2026-10-17T14:49:52.551825+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.13.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.13.2--1/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-87.13.1](../agents/bbugyi200.athena.bob-cli-87.13.1/README.md) | bob-cli-87.13 hood | active |
-| [bob-cli-87.13.3](bbugyi200.athena.bob-cli-87.13.3.md) (session · 3) | bob-cli-87.13 hood | active 1, completed 1, failed 1 |
+| [bob-cli-87.13.1](bbugyi200.athena.bob-cli-87.13.1.md) (session · 3) | bob-cli-87.13 hood | active 1, completed 1, failed 1 |
+| [bob-cli-87.13.3](bbugyi200.athena.bob-cli-87.13.3.md) (session · 3) | bob-cli-87.13 hood | completed 2, failed 1 |
 | [bob-cli-87.13.4](../agents/bbugyi200.athena.bob-cli-87.13.4/README.md) | bob-cli-87.13 hood | waiting |
 | [bob-cli-87.13.land](../agents/bbugyi200.athena.bob-cli-87.13.land/README.md) | bob-cli-87.13 hood | waiting |
 | [bob-cli-87.1](../agents/bbugyi200.athena.bob-cli-87.1/README.md) | bob-cli-87 hood | completed |

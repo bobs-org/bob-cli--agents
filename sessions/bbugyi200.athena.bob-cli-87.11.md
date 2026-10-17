@@ -60,9 +60,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-87.12--3--gate-2](../agents/bbugyi200.athena.bob-cli-87.12--3--gate-2/README.md) | bob-cli-87 hood | failed |
 | [bob-cli-87.12--3--gate-3](../agents/bbugyi200.athena.bob-cli-87.12--3--gate-3/README.md) | bob-cli-87 hood | failed |
 | [bob-cli-87.12--3--plan](../agents/bbugyi200.athena.bob-cli-87.12--3--plan/README.md) | bob-cli-87 hood | completed |
-| [bob-cli-87.13.1](../agents/bbugyi200.athena.bob-cli-87.13.1/README.md) | bob-cli-87 hood | active |
-| [bob-cli-87.13.2](bbugyi200.athena.bob-cli-87.13.2.md) (session · 3) | bob-cli-87 hood | active 1, completed 1, failed 1 |
-| [bob-cli-87.13.3](bbugyi200.athena.bob-cli-87.13.3.md) (session · 3) | bob-cli-87 hood | active 1, completed 1, failed 1 |
+| [bob-cli-87.13.1](bbugyi200.athena.bob-cli-87.13.1.md) (session · 3) | bob-cli-87 hood | active 1, completed 1, failed 1 |
+| [bob-cli-87.13.2](bbugyi200.athena.bob-cli-87.13.2.md) (session · 4) | bob-cli-87 hood | active 1, completed 2, failed 1 |
+| [bob-cli-87.13.3](bbugyi200.athena.bob-cli-87.13.3.md) (session · 3) | bob-cli-87 hood | completed 2, failed 1 |
 | [bob-cli-87.13.4](../agents/bbugyi200.athena.bob-cli-87.13.4/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.13.land](../agents/bbugyi200.athena.bob-cli-87.13.land/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.2](bbugyi200.athena.bob-cli-87.2.md) (session · 3) | bob-cli-87 hood | failed 3 |

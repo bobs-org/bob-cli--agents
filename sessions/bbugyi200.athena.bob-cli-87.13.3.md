@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-87.13.3--mon [failed]"]
   n1["bob-cli-87.13.3--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-87.13.3--1 [active]"]
+  n2["bob-cli-87.13.3--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-87.13.3--mon | failed | grok-4.6 / grok | 2026-10-17T14:31:27.852921+00:00 → 2026-10-17T14:34:54.771794+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-87.13.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-87.13.3--plan | completed | grok-4.6 / grok | 2026-10-17T14:16:01.762030+00:00 → 2026-10-17T14:32:28.555647+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.13.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.13.3--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-87.13.3--1 | active | grok-4.6 / grok | 2026-10-17T14:35:46.365511+00:00 | [1](../agents/bbugyi200.athena.bob-cli-87.13.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-87.13.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-87.13.3--1 | completed | grok-4.6 / grok | 2026-10-17T14:35:46.365511+00:00 → 2026-10-17T14:41:56.637855+00:00 | [1](../agents/bbugyi200.athena.bob-cli-87.13.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-87.13.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.13.3--1/chat.md) |
 
 ## Commits
 
@@ -33,8 +33,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-87.13.1](../agents/bbugyi200.athena.bob-cli-87.13.1/README.md) | bob-cli-87.13 hood | active |
-| [bob-cli-87.13.2](bbugyi200.athena.bob-cli-87.13.2.md) (session · 3) | bob-cli-87.13 hood | active 1, completed 1, failed 1 |
+| [bob-cli-87.13.1](bbugyi200.athena.bob-cli-87.13.1.md) (session · 3) | bob-cli-87.13 hood | active 1, completed 1, failed 1 |
+| [bob-cli-87.13.2](bbugyi200.athena.bob-cli-87.13.2.md) (session · 4) | bob-cli-87.13 hood | active 1, completed 2, failed 1 |
 | [bob-cli-87.13.4](../agents/bbugyi200.athena.bob-cli-87.13.4/README.md) | bob-cli-87.13 hood | waiting |
 | [bob-cli-87.13.land](../agents/bbugyi200.athena.bob-cli-87.13.land/README.md) | bob-cli-87.13 hood | waiting |
 | [bob-cli-87.1](../agents/bbugyi200.athena.bob-cli-87.1/README.md) | bob-cli-87 hood | completed |
