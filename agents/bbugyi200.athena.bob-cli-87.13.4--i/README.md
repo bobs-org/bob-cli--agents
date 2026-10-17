@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-87](../../users/bbugyi200/machines/athena/hoods/bob-cli-87/README.md) / [bob-cli-87.13.4](../../sessions/bbugyi200.athena.bob-cli-87.13.4.md) / bob-cli-87.13.4--i
 
-**Global name:** `bbugyi200.athena.bob-cli-87.13.4--i` · **State:** active · **Source run:** `run-0a68d18f8c0c1ec202433a265bc7e6cc`
+**Global name:** `bbugyi200.athena.bob-cli-87.13.4--i` · **State:** completed · **Source run:** `run-0a68d18f8c0c1ec202433a265bc7e6cc`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-87
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-87.13.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-87/bob-cli-87.13.4.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-17T23:26:18.419588+00:00
+- Timing: 2026-10-17T23:26:18.419588+00:00 → 2026-10-17T23:35:07.205620+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -31,7 +31,7 @@
 | [bob-cli-87.13.1](../../sessions/bbugyi200.athena.bob-cli-87.13.1.md) (session · 3) | bob-cli-87.13 hood | completed 2, failed 1 |
 | [bob-cli-87.13.2](../../sessions/bbugyi200.athena.bob-cli-87.13.2.md) (session · 9) | bob-cli-87.13 hood | completed 5, failed 4 |
 | [bob-cli-87.13.3](../../sessions/bbugyi200.athena.bob-cli-87.13.3.md) (session · 3) | bob-cli-87.13 hood | completed 2, failed 1 |
-| [bob-cli-87.13.land](../bbugyi200.athena.bob-cli-87.13.land/README.md) | bob-cli-87.13 hood | waiting |
+| [bob-cli-87.13.land](../../sessions/bbugyi200.athena.bob-cli-87.13.land.md) (session · 3) | bob-cli-87.13 hood | active 2, failed 1 |
 | [bob-cli-87.1](../bbugyi200.athena.bob-cli-87.1/README.md) | bob-cli-87 hood | active |
 | [bob-cli-87.10](../bbugyi200.athena.bob-cli-87.10/README.md) | bob-cli-87 hood | active |
 | [bob-cli-87.11](../../sessions/bbugyi200.athena.bob-cli-87.11.md) (session · 7) | bob-cli-87 hood | active 7 |
