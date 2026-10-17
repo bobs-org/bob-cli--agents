@@ -23,9 +23,9 @@
 |---|---|---|
 | [research.4r.cdx](../bbugyi200.athena.research.4r.cdx/README.md) | research.4r hood | completed |
 | [research.4r.cld](../bbugyi200.athena.research.4r.cld/README.md) | research.4r hood | completed |
-| [research.4r.final](../bbugyi200.athena.research.4r.final/README.md) | research.4r hood | waiting |
+| [research.4r.final](../bbugyi200.athena.research.4r.final/README.md) | research.4r hood | active |
 | [research.4r.gem](../bbugyi200.athena.research.4r.gem/README.md) | research.4r hood | completed |
-| [research.4r.grk](../bbugyi200.athena.research.4r.grk/README.md) | research.4r hood | active |
+| [research.4r.grk](../bbugyi200.athena.research.4r.grk/README.md) | research.4r hood | completed |
 | [research.4r.linker](../bbugyi200.athena.research.4r.linker/README.md) | research.4r hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
