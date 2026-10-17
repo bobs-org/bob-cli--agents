@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-17T22:06:32.618148+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/ref\_create\_mermaid\_diagrams\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261017180408/ref\_create\_mermaid\_diagrams\_\_cld-0142732c805… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/ref_create_mermaid_diagrams__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261017180408/ref_create_mermaid_diagrams__cld-0142732c805e.md
+  ref: file:explicit:2c91cf89b5ce1fec7aacc731
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/ref_create_mermaid_diagrams__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.4r.cdx](../bbugyi200.athena.research.4r.cdx/README.md) | research.4r hood | completed |
 | [research.4r.final](../bbugyi200.athena.research.4r.final/README.md) | research.4r hood | waiting |
-| [research.4r.gem](../bbugyi200.athena.research.4r.gem/README.md) | research.4r hood | active |
+| [research.4r.gem](../bbugyi200.athena.research.4r.gem/README.md) | research.4r hood | completed |
 | [research.4r.grk](../bbugyi200.athena.research.4r.grk/README.md) | research.4r hood | active |
 | [research.4r.image](../bbugyi200.athena.research.4r.image/README.md) | research.4r hood | waiting |
 | [research.4r.linker](../bbugyi200.athena.research.4r.linker/README.md) | research.4r hood | waiting |
