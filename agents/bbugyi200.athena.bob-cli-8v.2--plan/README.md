@@ -55,4 +55,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-8v.1](../../sessions/bbugyi200.athena.bob-cli-8v.1.md) (session · 3) | bob-cli-8v hood | completed 2, failed 1 |
-| [bob-cli-8v.land](../../sessions/bbugyi200.athena.bob-cli-8v.land.md) (session · 5) | bob-cli-8v hood | active 1, completed 2, failed 2 |
+| [bob-cli-8v.land](../../sessions/bbugyi200.athena.bob-cli-8v.land.md) (session · 5) | bob-cli-8v hood | completed 3, failed 2 |
