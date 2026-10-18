@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1d8be8a80cd37fbb34b448e8994677d6"}
+{"commits":[{"committed_at":1792286296,"sha":"30eafe28067dc98d3acfc1dded118471051e9201","subject":"docs(task-dependencies): document Blocks stage apply-time guards and writer contract"}],"schema_version":2,"source_run_id":"run-1d8be8a80cd37fbb34b448e8994677d6"}

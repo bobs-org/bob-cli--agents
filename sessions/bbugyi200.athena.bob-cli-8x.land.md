@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-8x.land--code | active | sonnet / claude | 2026-10-18T00:46:35.609100+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-8x.land--code | active | sonnet / claude | 2026-10-18T00:46:35.609100+00:00 | [1](../agents/bbugyi200.athena.bob-cli-8x.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | bob-cli-8x.land--plan | active | opus / claude | 2026-10-18T00:12:59.742927+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-8x.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-8x.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-8x.land--gate | failed | opus / claude | 2026-10-18T00:44:54.063436+00:00 → 2026-10-18T00:46:12.652949+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-8x.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`30eafe2`](https://github.com/bobs-org/bob-cli/commit/30eafe28067dc98d3acfc1dded118471051e9201) | docs(task-dependencies): document Blocks stage apply-time guards and writer contract | 2026-10-17 21:18:16 EDT |
 
 ## Neighbors
 

@@ -12,7 +12,13 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-10-18T00:46:35.609100+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`30eafe2`](https://github.com/bobs-org/bob-cli/commit/30eafe28067dc98d3acfc1dded118471051e9201) | docs(task-dependencies): document Blocks stage apply-time guards and writer contract | 2026-10-17 21:18:16 EDT |
 
 ## Neighbors
 
