@@ -13,11 +13,17 @@
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-10-18T19:42:18.250911+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`4703619`](https://github.com/bobs-org/bob-cli/commit/47036193185db067bce5f55690eaf0ed832466b7) | feat(ref): show intake health in bob ref doctor | 2026-10-18 15:54:24 EDT |
 
 ## Neighbors
 
@@ -25,7 +31,7 @@
 |---|---|---|
 | [bob-cli-9c.1](../../sessions/bbugyi200.athena.bob-cli-9c.1.md) (session · 3) | bob-cli-9c hood | completed 2, failed 1 |
 | [bob-cli-9c.2](../bbugyi200.athena.bob-cli-9c.2/README.md) | bob-cli-9c hood | completed |
-| [bob-cli-9c.3](../bbugyi200.athena.bob-cli-9c.3/README.md) | bob-cli-9c hood | active |
+| [bob-cli-9c.3](../bbugyi200.athena.bob-cli-9c.3/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.4](../bbugyi200.athena.bob-cli-9c.4/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.6](../bbugyi200.athena.bob-cli-9c.6/README.md) | bob-cli-9c hood | waiting |
 | [bob-cli-9c.land](../bbugyi200.athena.bob-cli-9c.land/README.md) | bob-cli-9c hood | waiting |
