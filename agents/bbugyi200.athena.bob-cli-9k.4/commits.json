@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-eaa84a040c42edcc7d619394d0517b4b"}
+{"commits":[{"committed_at":1792360356,"sha":"196af9b38d9bac93e7055c599a7640e0f9eac95a","subject":"feat(pomodoro-homes): expose derived homes on live CLI surfaces"}],"schema_version":2,"source_run_id":"run-eaa84a040c42edcc7d619394d0517b4b"}
