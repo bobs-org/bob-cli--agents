@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4s.image
 
-**Global name:** `bbugyi200.athena.research.4s.image` · **State:** waiting · **Source run:** `run-bd802c4acd1da5663ef25fd7d063e971`
+**Global name:** `bbugyi200.athena.research.4s.image` · **State:** active · **Source run:** `run-bd802c4acd1da5663ef25fd7d063e971`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261018131816
+- Timing: 2026-10-18T17:53:05.019387+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: research:202610/ref\_create\_auto\_ingest\_across\_tailnet/ref\_create\_auto\_ingest\_across\_tailnet\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/202610… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: research:202610/ref_create_auto_ingest_across_tailnet/ref_create_auto_ingest_across_tailnet_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261018131816/ref_create_auto_ingest_across_tailnet_infographic-71da59a5ef55.png
+  ref: file:explicit:991e9648aca7e5339e8ceb7e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/ref_create_auto_ingest_across_tailnet/ref_create_auto_ingest_across_tailnet_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +42,11 @@
 |---|---|---|
 | [research.4s.cdx](../bbugyi200.athena.research.4s.cdx/README.md) | research.4s hood | completed |
 | [research.4s.cld](../bbugyi200.athena.research.4s.cld/README.md) | research.4s hood | completed |
-| [research.4s.final](../bbugyi200.athena.research.4s.final/README.md) | research.4s hood | active |
+| [research.4s.final](../bbugyi200.athena.research.4s.final/README.md) | research.4s hood | completed |
 | [research.4s.gem](../bbugyi200.athena.research.4s.gem/README.md) | research.4s hood | completed |
 | [research.4s.grk](../bbugyi200.athena.research.4s.grk/README.md) | research.4s hood | completed |
 | [research.4s.linker](../bbugyi200.athena.research.4s.linker/README.md) | research.4s hood | waiting |
+| [research.4s.linker.w0](../bbugyi200.athena.research.4s.linker.w0/README.md) | research.4s hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
