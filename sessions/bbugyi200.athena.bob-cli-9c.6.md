@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["bob-cli-9c.6--1 [completed]"]
   n0 --> n2
-  n3["bob-cli-9c.6--3 [active]"]
+  n3["bob-cli-9c.6--3 [completed]"]
   n0 --> n3
   n4["bob-cli-9c.6--mon-1 [failed]"]
   n0 --> n4
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | bob-cli-9c.6--plan | completed | gpt-6-luna / codex | 2026-10-18T19:57:37.217686+00:00 → 2026-10-18T20:19:01.940101+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9c.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9c.6--plan/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-9c.6--2 | completed | gpt-6-luna / codex | 2026-10-18T20:36:16.542199+00:00 → 2026-10-18T20:44:38.401831+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9c.6--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9c.6--2/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-9c.6--1 | completed | gpt-6-luna / codex | 2026-10-18T20:24:36.754739+00:00 → 2026-10-18T20:33:57.805551+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9c.6--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9c.6--1/chat.md) |
-| <a id="member-3"></a>3 | bob-cli-9c.6--3 | active | gpt-6-luna / codex | 2026-10-18T20:48:21.234917+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9c.6--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9c.6--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-9c.6--3 | completed | gpt-6-luna / codex | 2026-10-18T20:48:21.234917+00:00 → 2026-10-18T21:00:16.748842+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9c.6--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9c.6--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9c.6--3/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-9c.6--mon-1 | failed | gpt-6-luna / codex | 2026-10-18T20:43:37.636413+00:00 → 2026-10-18T20:47:28.388794+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9c.6--mon-1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-9c.6--mon-0 | failed | gpt-6-luna / codex | 2026-10-18T20:33:12.608275+00:00 → 2026-10-18T20:35:29.983761+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9c.6--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-9c.6--mon | failed | gpt-6-luna / codex | 2026-10-18T20:17:52.884498+00:00 → 2026-10-18T20:23:50.718200+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9c.6--mon/chat.md) |
@@ -50,4 +50,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-9c.3](../agents/bbugyi200.athena.bob-cli-9c.3/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.4](../agents/bbugyi200.athena.bob-cli-9c.4/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.5](../agents/bbugyi200.athena.bob-cli-9c.5/README.md) | bob-cli-9c hood | completed |
-| [bob-cli-9c.land](../agents/bbugyi200.athena.bob-cli-9c.land/README.md) | bob-cli-9c hood | waiting |
+| [bob-cli-9c.land](bbugyi200.athena.bob-cli-9c.land.md) (session · 3) | bob-cli-9c hood | active 2, failed 1 |
