@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-9b.1--plan [completed]"]
   n1["bob-cli-9b.1--mon [failed]"]
   n0 --> n1
-  n2["bob-cli-9b.1--1 [active]"]
+  n2["bob-cli-9b.1--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-9b.1--plan | completed | gpt-6-luna / codex | 2026-10-18T18:39:31.371121+00:00 → 2026-10-18T18:54:53.102775+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9b.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9b.1--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-9b.1--mon | failed | gpt-6-luna / codex | 2026-10-18T18:54:21.170925+00:00 → 2026-10-18T18:58:56.399829+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9b.1--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-9b.1--1 | active | gpt-6-luna / codex | 2026-10-18T18:59:35.730351+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9b.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9b.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-9b.1--1 | completed | gpt-6-luna / codex | 2026-10-18T18:59:35.730351+00:00 → 2026-10-18T19:09:46.444922+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9b.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9b.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9b.1--1/chat.md) |
 
 ## Commits
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-9b.2](../agents/bbugyi200.athena.bob-cli-9b.2/README.md) | bob-cli-9b hood | waiting |
+| [bob-cli-9b.2](../agents/bbugyi200.athena.bob-cli-9b.2/README.md) | bob-cli-9b hood | active |
 | [bob-cli-9b.3](../agents/bbugyi200.athena.bob-cli-9b.3/README.md) | bob-cli-9b hood | waiting |
 | [bob-cli-9b.4](../agents/bbugyi200.athena.bob-cli-9b.4/README.md) | bob-cli-9b hood | waiting |
 | [bob-cli-9b.land](../agents/bbugyi200.athena.bob-cli-9b.land/README.md) | bob-cli-9b hood | waiting |
