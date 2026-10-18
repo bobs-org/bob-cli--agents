@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4t.grk
 
-**Global name:** `bbugyi200.athena.research.4t.grk` · **State:** active · **Source run:** `run-27ad7eaee1fdaf369af7f3f560798323`
+**Global name:** `bbugyi200.athena.research.4t.grk` · **State:** completed · **Source run:** `run-27ad7eaee1fdaf369af7f3f560798323`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-18T19:07:40.815549+00:00
+- Timing: 2026-10-18T19:07:40.815549+00:00 → 2026-10-18T19:21:32.378997+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,7 +40,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4t.cdx](../bbugyi200.athena.research.4t.cdx/README.md) | research.4t hood | active |
+| [research.4t.cdx](../bbugyi200.athena.research.4t.cdx/README.md) | research.4t hood | completed |
 | [research.4t.cld](../bbugyi200.athena.research.4t.cld/README.md) | research.4t hood | active |
 | [research.4t.final](../bbugyi200.athena.research.4t.final/README.md) | research.4t hood | waiting |
 | [research.4t.gem](../bbugyi200.athena.research.4t.gem/README.md) | research.4t hood | completed |
