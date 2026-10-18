@@ -21,13 +21,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4s.linker](../bbugyi200.athena.research.4s.linker/README.md) | ancestor | waiting |
+| [research.4s.linker](../bbugyi200.athena.research.4s.linker/README.md) | ancestor | active |
 | [research.4s.cdx](../bbugyi200.athena.research.4s.cdx/README.md) | research.4s hood | completed |
 | [research.4s.cld](../bbugyi200.athena.research.4s.cld/README.md) | research.4s hood | completed |
 | [research.4s.final](../bbugyi200.athena.research.4s.final/README.md) | research.4s hood | completed |
 | [research.4s.gem](../bbugyi200.athena.research.4s.gem/README.md) | research.4s hood | completed |
 | [research.4s.grk](../bbugyi200.athena.research.4s.grk/README.md) | research.4s hood | completed |
-| [research.4s.image](../bbugyi200.athena.research.4s.image/README.md) | research.4s hood | active |
+| [research.4s.image](../bbugyi200.athena.research.4s.image/README.md) | research.4s hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |

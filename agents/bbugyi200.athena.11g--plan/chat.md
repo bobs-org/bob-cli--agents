@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 11g--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-11g__plan-261018_132901.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-11g__code-261018_132901.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/work_badge_color_thresholds.md
 
 
