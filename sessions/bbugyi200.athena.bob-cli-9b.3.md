@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-9b` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-9b.3--mon [failed]"]
-  n1["bob-cli-9b.3--1 [active]"]
+  n1["bob-cli-9b.3--1 [completed]"]
   n0 --> n1
   n2["bob-cli-9b.3--plan [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-9b.3--mon | failed | grok-4.6 / grok | 2026-10-18T20:11:39.762570+00:00 → 2026-10-18T20:17:41.189679+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9b.3--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-9b.3--1 | active | grok-4.6 / grok | 2026-10-18T20:19:08.629189+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9b.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9b.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-9b.3--1 | completed | grok-4.6 / grok | 2026-10-18T20:19:08.629189+00:00 → 2026-10-18T20:28:09.420357+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9b.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9b.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9b.3--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-9b.3--plan | completed | grok-4.6 / grok | 2026-10-18T19:54:43.797833+00:00 → 2026-10-18T20:12:25.337600+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9b.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9b.3--plan/chat.md) |
 
 ## Commits
