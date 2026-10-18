@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-9k.1--plan | completed | gpt-6-luna / codex | 2026-10-18T20:38:45.164037+00:00 → 2026-10-18T21:09:15.979213+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9k.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9k.1--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-9k.1--mon | failed | gpt-6-luna / codex | 2026-10-18T21:08:25.452518+00:00 → 2026-10-18T21:11:31.030865+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9k.1--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-9k.1--1 | active | grok-4.6 / grok | 2026-10-18T21:12:18.808298+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9k.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-9k.1--1 | active | grok-4.6 / grok | 2026-10-18T21:12:18.808298+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9k.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9k.1--1/prompt.md) | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | bob-cli | [`9ec332c`](https://github.com/bobs-org/bob-cli/commit/9ec332c81def3014a559e088124ef93e3bb15ae7) | feat(homes): add shared Pomodoro home resolver and rollup contract | 2026-10-18 17:23:52 EDT |
 
 ## Neighbors
 
