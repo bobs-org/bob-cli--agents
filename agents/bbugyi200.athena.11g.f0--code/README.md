@@ -11,7 +11,13 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-18T18:07:37.007166+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`44c04e2`](https://github.com/bobs-org/bob-cli/commit/44c04e24e81c7e7c162e996fb2c981764f06a7ed) | docs(dashboard): describe exact-limit Work badge colors | 2026-10-18 14:16:17 EDT |
 
 ## Neighbors
 
