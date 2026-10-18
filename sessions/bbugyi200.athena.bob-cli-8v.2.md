@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-8v` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-8v.2--1 [active]"]
+  n0["bob-cli-8v.2--1 [completed]"]
   n1["bob-cli-8v.2--gate [failed]"]
   n0 --> n1
   n2["bob-cli-8v.2--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-8v.2--1 | active | gpt-6-astra / codex | 2026-10-18T14:05:47.992564+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-8v.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-8v.2--1 | completed | gpt-6-astra / codex | 2026-10-18T14:05:47.992564+00:00 → 2026-10-18T14:14:15.978121+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-8v.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-8v.2--1/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-8v.2--gate | failed | gpt-6-astra / codex | 2026-10-18T13:52:38.865494+00:00 → 2026-10-18T14:04:06.437518+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-8v.2--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-8v.2--plan | completed | gpt-6-astra / codex | 2026-10-18T13:39:33.905493+00:00 → 2026-10-18T13:53:13.364180+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-8v.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-8v.2--plan/chat.md) |
 
@@ -61,4 +61,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-8v.1](bbugyi200.athena.bob-cli-8v.1.md) (session · 3) | bob-cli-8v hood | completed 2, failed 1 |
-| [bob-cli-8v.land](../agents/bbugyi200.athena.bob-cli-8v.land/README.md) | bob-cli-8v hood | waiting |
+| [bob-cli-8v.land](bbugyi200.athena.bob-cli-8v.land.md) (session · 5) | bob-cli-8v hood | active 1, completed 2, failed 2 |
