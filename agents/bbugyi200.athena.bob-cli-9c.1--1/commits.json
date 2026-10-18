@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1792349938,"sha":"85eac25aa112e0888ec09955ef0bc587e3c514ea","subject":"feat(ref): hold vault-maintenance lock during writing scans"}],"schema_version":2,"source_run_id":"run-0bb66c9aa63228e460e33f65b980812a"}
