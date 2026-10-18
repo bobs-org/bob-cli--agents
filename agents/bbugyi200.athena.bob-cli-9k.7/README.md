@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-9k](../../users/bbugyi200/machines/athena/hoods/bob-cli-9k/README.md) / bob-cli-9k.7
 
-**Global name:** `bbugyi200.athena.bob-cli-9k.7` · **State:** waiting · **Source run:** `run-c9478f1d0eb63bb887f23f099b73660d`
+**Global name:** `bbugyi200.athena.bob-cli-9k.7` · **State:** active · **Source run:** `run-c9478f1d0eb63bb887f23f099b73660d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-9k
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-9k](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-9k/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261018163711
+- Timing: 2026-10-18T21:55:58.084991+00:00
 - Commits: 0
 
 ## Files
@@ -26,7 +26,7 @@
 | [bob-cli-9k.1](../../sessions/bbugyi200.athena.bob-cli-9k.1.md) (session · 3) | bob-cli-9k hood | completed 2, failed 1 |
 | [bob-cli-9k.2](../bbugyi200.athena.bob-cli-9k.2/README.md) | bob-cli-9k hood | active |
 | [bob-cli-9k.3](../bbugyi200.athena.bob-cli-9k.3/README.md) | bob-cli-9k hood | waiting |
-| [bob-cli-9k.4](../bbugyi200.athena.bob-cli-9k.4/README.md) | bob-cli-9k hood | active |
+| [bob-cli-9k.4](../bbugyi200.athena.bob-cli-9k.4/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.5](../bbugyi200.athena.bob-cli-9k.5/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.6](../bbugyi200.athena.bob-cli-9k.6/README.md) | bob-cli-9k hood | waiting |
 | [bob-cli-9k.land](../bbugyi200.athena.bob-cli-9k.land/README.md) | bob-cli-9k hood | waiting |
