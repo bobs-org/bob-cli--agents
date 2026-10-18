@@ -28,7 +28,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-8y.2](../../sessions/bbugyi200.athena.bob-cli-8y.2.md) (session · 5) | bob-cli-8y hood | active 1, completed 2, failed 2 |
-| [bob-cli-8y.3](../bbugyi200.athena.bob-cli-8y.3/README.md) | bob-cli-8y hood | waiting |
+| [bob-cli-8y.2](../../sessions/bbugyi200.athena.bob-cli-8y.2.md) (session · 5) | bob-cli-8y hood | completed 3, failed 2 |
+| [bob-cli-8y.3](../../sessions/bbugyi200.athena.bob-cli-8y.3.md) (session · 5) | bob-cli-8y hood | active 1, completed 2, failed 2 |
 | [bob-cli-8y.4](../bbugyi200.athena.bob-cli-8y.4/README.md) | bob-cli-8y hood | waiting |
 | [bob-cli-8y.land](../bbugyi200.athena.bob-cli-8y.land/README.md) | bob-cli-8y hood | waiting |

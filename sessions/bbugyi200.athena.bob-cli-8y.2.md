@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-8y.2--1 [completed]"]
   n1["bob-cli-8y.2--mon-0 [failed]"]
   n0 --> n1
-  n2["bob-cli-8y.2--2 [active]"]
+  n2["bob-cli-8y.2--2 [completed]"]
   n0 --> n2
   n3["bob-cli-8y.2--plan [completed]"]
   n0 --> n3
@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | bob-cli-8y.2--1 | completed | grok-4.6 / grok | 2026-10-18T00:02:11.311906+00:00 → 2026-10-18T00:37:54.222805+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-8y.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-8y.2--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-8y.2--mon-0 | failed | grok-4.6 / grok | 2026-10-18T00:37:23.963457+00:00 → 2026-10-18T00:42:12.560627+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-8y.2--mon-0/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-8y.2--2 | active | grok-4.6 / grok | 2026-10-18T00:43:36.017925+00:00 | [1](../agents/bbugyi200.athena.bob-cli-8y.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-8y.2--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-8y.2--2 | completed | grok-4.6 / grok | 2026-10-18T00:43:36.017925+00:00 → 2026-10-18T01:03:45.675603+00:00 | [1](../agents/bbugyi200.athena.bob-cli-8y.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-8y.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-8y.2--2/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-8y.2--plan | completed | grok-4.6 / grok | 2026-10-17T23:32:40.505820+00:00 → 2026-10-17T23:56:44.536480+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-8y.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-8y.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-8y.2--mon | failed | grok-4.6 / grok | 2026-10-17T23:56:15.136036+00:00 → 2026-10-18T00:00:27.411302+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-8y.2--mon/chat.md) |
 
@@ -40,6 +40,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-8y.1](bbugyi200.athena.bob-cli-8y.1.md) (session · 9) | bob-cli-8y hood | completed 5, failed 4 |
-| [bob-cli-8y.3](../agents/bbugyi200.athena.bob-cli-8y.3/README.md) | bob-cli-8y hood | waiting |
+| [bob-cli-8y.3](bbugyi200.athena.bob-cli-8y.3.md) (session · 5) | bob-cli-8y hood | active 1, completed 2, failed 2 |
 | [bob-cli-8y.4](../agents/bbugyi200.athena.bob-cli-8y.4/README.md) | bob-cli-8y hood | waiting |
 | [bob-cli-8y.land](../agents/bbugyi200.athena.bob-cli-8y.land/README.md) | bob-cli-8y hood | waiting |
