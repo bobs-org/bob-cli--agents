@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4t.image
 
-**Global name:** `bbugyi200.athena.research.4t.image` · **State:** waiting · **Source run:** `run-dae4b36911b3eeefc53386bc4a44bf7a`
+**Global name:** `bbugyi200.athena.research.4t.image` · **State:** active · **Source run:** `run-dae4b36911b3eeefc53386bc4a44bf7a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261018150552
+- Timing: 2026-10-18T19:49:15.256389+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: research:202610/pomodoro\_area\_project\_attribution/pomodoro\_area\_project\_attribution\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261018150552… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: research:202610/pomodoro_area_project_attribution/pomodoro_area_project_attribution_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261018150552/pomodoro_area_project_attribution_infographic-1b7e5bf1d20f.png
+  ref: file:explicit:a108c2a5b15cdccca551070f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/pomodoro_area_project_attribution/pomodoro_area_project_attribution_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.4t.cdx](../bbugyi200.athena.research.4t.cdx/README.md) | research.4t hood | completed |
 | [research.4t.cld](../bbugyi200.athena.research.4t.cld/README.md) | research.4t hood | completed |
-| [research.4t.final](../bbugyi200.athena.research.4t.final/README.md) | research.4t hood | active |
+| [research.4t.final](../bbugyi200.athena.research.4t.final/README.md) | research.4t hood | completed |
 | [research.4t.gem](../bbugyi200.athena.research.4t.gem/README.md) | research.4t hood | completed |
 | [research.4t.grk](../bbugyi200.athena.research.4t.grk/README.md) | research.4t hood | completed |
 | [research.4t.linker](../bbugyi200.athena.research.4t.linker/README.md) | research.4t hood | waiting |
