@@ -12,16 +12,35 @@
 - Provider: agy
 - Timing: 2026-10-18T17:20:15.482417+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/ref\_create\_auto\_scan\_pipeline\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261018131814/ref\_create\_auto\_scan\_pipeline\_\_gem-3318f88… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/ref_create_auto_scan_pipeline__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261018131814/ref_create_auto_scan_pipeline__gem-3318f883d95e.md
+  ref: file:explicit:9ca5c28dc0c407635dd2af0c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202610/ref_create_auto_scan_pipeline__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4s.cdx](../bbugyi200.athena.research.4s.cdx/README.md) | research.4s hood | active |
+| [research.4s.cdx](../bbugyi200.athena.research.4s.cdx/README.md) | research.4s hood | completed |
 | [research.4s.cld](../bbugyi200.athena.research.4s.cld/README.md) | research.4s hood | active |
 | [research.4s.final](../bbugyi200.athena.research.4s.final/README.md) | research.4s hood | waiting |
 | [research.4s.grk](../bbugyi200.athena.research.4s.grk/README.md) | research.4s hood | active |
