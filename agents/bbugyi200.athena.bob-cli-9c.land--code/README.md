@@ -12,7 +12,13 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-18T21:30:16.515130+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f4cdf0b`](https://github.com/bobs-org/bob-cli/commit/f4cdf0bd31876a0b2b0f5183711090c22bae3ab8) | feat(highlights): land ingest-at-birth silent intake and kill-switch | 2026-10-18 18:05:25 EDT |
 
 ## Neighbors
 
