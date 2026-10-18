@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-9k](../../users/bbugyi200/machines/athena/hoods/bob-cli-9k/README.md) / bob-cli-9k.7
 
-**Global name:** `bbugyi200.athena.bob-cli-9k.7` · **State:** active · **Source run:** `run-c9478f1d0eb63bb887f23f099b73660d`
+**Global name:** `bbugyi200.athena.bob-cli-9k.7` · **State:** completed · **Source run:** `run-c9478f1d0eb63bb887f23f099b73660d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-9k
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-9k](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-9k/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-18T21:55:58.084991+00:00
+- Timing: 2026-10-18T21:55:58.084991+00:00 → 2026-10-18T22:15:12.431182+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

@@ -28,5 +28,5 @@
 | [bob-cli-9k.3](../bbugyi200.athena.bob-cli-9k.3/README.md) | bob-cli-9k hood | waiting |
 | [bob-cli-9k.4](../bbugyi200.athena.bob-cli-9k.4/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.5](../bbugyi200.athena.bob-cli-9k.5/README.md) | bob-cli-9k hood | completed |
-| [bob-cli-9k.7](../bbugyi200.athena.bob-cli-9k.7/README.md) | bob-cli-9k hood | active |
+| [bob-cli-9k.7](../bbugyi200.athena.bob-cli-9k.7/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.land](../bbugyi200.athena.bob-cli-9k.land/README.md) | bob-cli-9k hood | waiting |
