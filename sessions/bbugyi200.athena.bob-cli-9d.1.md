@@ -46,5 +46,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-9d.2](../agents/bbugyi200.athena.bob-cli-9d.2/README.md) | bob-cli-9d hood | completed |
-| [bob-cli-9d.3](../agents/bbugyi200.athena.bob-cli-9d.3/README.md) | bob-cli-9d hood | active |
-| [bob-cli-9d.land](../agents/bbugyi200.athena.bob-cli-9d.land/README.md) | bob-cli-9d hood | waiting |
+| [bob-cli-9d.3](../agents/bbugyi200.athena.bob-cli-9d.3/README.md) | bob-cli-9d hood | completed |
+| [bob-cli-9d.land](bbugyi200.athena.bob-cli-9d.land.md) (session · 3) | bob-cli-9d hood | active 2, failed 1 |
