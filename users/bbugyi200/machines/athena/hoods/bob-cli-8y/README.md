@@ -2,14 +2,16 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-8y
 
-**Global hood:** `bbugyi200.athena.bob-cli-8y` · **Runs:** 15 · **Sessions:** 2 · **States:** active 2, completed 5, failed 5, waiting 3
+**Global hood:** `bbugyi200.athena.bob-cli-8y` · **Runs:** 17 · **Sessions:** 2 · **States:** active 1, completed 7, failed 6, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bob-cli-8y.2--1](../../../../../../sessions/bbugyi200.athena.bob-cli-8y.2.md#member-1) | active | grok-4.6 / grok | 2026-10-18T00:02:11.311906+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8y.2--1/prompt.md) |
+| [bob-cli-8y.2--1](../../../../../../sessions/bbugyi200.athena.bob-cli-8y.2.md#member-1) | completed | grok-4.6 / grok | 2026-10-18T00:02:11.311906+00:00 → 2026-10-18T00:37:54.222805+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8y.2--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-8y.2--1/chat.md) |
+| [bob-cli-8y.2--mon-0](../../../../../../sessions/bbugyi200.athena.bob-cli-8y.2.md#member-mon-0) | failed | grok-4.6 / grok | 2026-10-18T00:37:23.963457+00:00 → 2026-10-18T00:42:12.560627+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-8y.2--mon-0/chat.md) |
 | [bob-cli-8y.1--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-8y.1.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-17T23:41:13.904120+00:00 → 2026-10-17T23:45:54.330438+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-8y.1--mon/chat.md) |
+| [bob-cli-8y.2--2](../../../../../../sessions/bbugyi200.athena.bob-cli-8y.2.md#member-2) | active | grok-4.6 / grok | 2026-10-18T00:43:36.017925+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8y.2--2/prompt.md) |
 | [bob-cli-8y.1--1](../../../../../../sessions/bbugyi200.athena.bob-cli-8y.1.md#member-1) | completed | gpt-6-luna / codex | 2026-10-17T23:44:56.482345+00:00 → 2026-10-17T23:52:04.785731+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8y.1--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-8y.1--1/chat.md) |
-| [bob-cli-8y.1--4](../../../../../../sessions/bbugyi200.athena.bob-cli-8y.1.md#member-4) | active | gpt-6-luna / codex | 2026-10-18T00:25:23.170537+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8y.1--4/prompt.md) |
+| [bob-cli-8y.1--4](../../../../../../sessions/bbugyi200.athena.bob-cli-8y.1.md#member-4) | completed | gpt-6-luna / codex | 2026-10-18T00:25:23.170537+00:00 → 2026-10-18T00:36:29.510596+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8y.1--4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-8y.1--4/chat.md) |
 | [bob-cli-8y.1--3](../../../../../../sessions/bbugyi200.athena.bob-cli-8y.1.md#member-3) | completed | gpt-6-luna / codex | 2026-10-18T00:14:01.404819+00:00 → 2026-10-18T00:19:48.521567+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8y.1--3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-8y.1--3/chat.md) |
 | [bob-cli-8y.3](../../../../../../agents/bbugyi200.athena.bob-cli-8y.3/README.md) | waiting | grok-4.6 / grok | 20261017193033 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8y.3/prompt.md) |
 | [bob-cli-8y.1--2](../../../../../../sessions/bbugyi200.athena.bob-cli-8y.1.md#member-2) | completed | gpt-6-luna / codex | 2026-10-17T23:55:51.303987+00:00 → 2026-10-18T00:10:57.024592+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-8y.1--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-8y.1--2/chat.md) |
