@@ -24,5 +24,5 @@
 |---|---|---|
 | [bob-cli-8y.1](../../sessions/bbugyi200.athena.bob-cli-8y.1.md) (session · 9) | bob-cli-8y hood | completed 5, failed 4 |
 | [bob-cli-8y.3](../../sessions/bbugyi200.athena.bob-cli-8y.3.md) (session · 5) | bob-cli-8y hood | completed 3, failed 2 |
-| [bob-cli-8y.4](../bbugyi200.athena.bob-cli-8y.4/README.md) | bob-cli-8y hood | active |
-| [bob-cli-8y.land](../bbugyi200.athena.bob-cli-8y.land/README.md) | bob-cli-8y hood | waiting |
+| [bob-cli-8y.4](../bbugyi200.athena.bob-cli-8y.4/README.md) | bob-cli-8y hood | completed |
+| [bob-cli-8y.land](../../sessions/bbugyi200.athena.bob-cli-8y.land.md) (session · 5) | bob-cli-8y hood | active 1, completed 2, failed 2 |
