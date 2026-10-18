@@ -6,7 +6,7 @@
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bob-cli-9b.1--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-9b.1.md#member-plan) | completed | gpt-6-luna / codex | 2026-10-18T18:39:31.371121+00:00 → 2026-10-18T18:54:53.102775+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9b.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-9b.1--plan/chat.md) |
+| [bob-cli-9b.1--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-9b.1.md#member-plan) | completed | gpt-6-luna / codex | 2026-10-18T18:39:31.371121+00:00 → 2026-10-18T18:54:53.102775+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-9b.1--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9b.1--plan/prompt.md) |
 | [bob-cli-9b.land](../../../../../../agents/bbugyi200.athena.bob-cli-9b.land/README.md) | waiting | gpt-6-astra / codex | 20261018143825 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9b.land/prompt.md) |
 | [bob-cli-9b.4](../../../../../../agents/bbugyi200.athena.bob-cli-9b.4/README.md) | waiting | sonnet / claude | 20261018143824 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9b.4/prompt.md) |
 | [bob-cli-9b.2](../../../../../../agents/bbugyi200.athena.bob-cli-9b.2/README.md) | waiting | sonnet / claude | 20261018143822 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9b.2/prompt.md) |
