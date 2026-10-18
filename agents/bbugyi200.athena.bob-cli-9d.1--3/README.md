@@ -30,4 +30,4 @@
 |---|---|---|
 | [bob-cli-9d.2](../bbugyi200.athena.bob-cli-9d.2/README.md) | bob-cli-9d hood | completed |
 | [bob-cli-9d.3](../bbugyi200.athena.bob-cli-9d.3/README.md) | bob-cli-9d hood | completed |
-| [bob-cli-9d.land](../../sessions/bbugyi200.athena.bob-cli-9d.land.md) (session · 3) | bob-cli-9d hood | active 2, failed 1 |
+| [bob-cli-9d.land](../../sessions/bbugyi200.athena.bob-cli-9d.land.md) (session · 5) | bob-cli-9d hood | active 1, completed 2, failed 2 |
