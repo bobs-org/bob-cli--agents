@@ -12,17 +12,36 @@
 - Provider: grok
 - Timing: 2026-10-19T15:48:22.141451+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/screenshot\_region\_click\_drag\_resize\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261019114552/screenshot\_region\_click\_drag\_resize\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/screenshot_region_click_drag_resize__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019114552/screenshot_region_click_drag_resize__grk-d1c798968ca9.md
+  ref: file:explicit:8ac416b1d1a3901f319bb26b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/screenshot_region_click_drag_resize__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.50.cdx](../bbugyi200.athena.research.50.cdx/README.md) | research.50 hood | completed |
-| [research.50.cld](../bbugyi200.athena.research.50.cld/README.md) | research.50 hood | active |
+| [research.50.cld](../bbugyi200.athena.research.50.cld/README.md) | research.50 hood | completed |
 | [research.50.final](../bbugyi200.athena.research.50.final/README.md) | research.50 hood | waiting |
 | [research.50.gem](../bbugyi200.athena.research.50.gem/README.md) | research.50 hood | active |
 | [research.50.image](../bbugyi200.athena.research.50.image/README.md) | research.50 hood | waiting |
