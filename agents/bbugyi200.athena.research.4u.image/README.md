@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4u.image
 
-**Global name:** `bbugyi200.athena.research.4u.image` · **State:** waiting · **Source run:** `run-b7d5dcf027699121a85e4f4d7d5d6637`
+**Global name:** `bbugyi200.athena.research.4u.image` · **State:** active · **Source run:** `run-b7d5dcf027699121a85e4f4d7d5d6637`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,41 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261019064042
+- Timing: 2026-10-19T11:23:45.470355+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202610/highlight\_continuation\_marker/highlight\_continuation\_marker\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261019064042/high… |
+| `diagrams` | {count: 0, reason: The infographic covers the merge flow, reversible behavior, and identity safeguards. Additional diagrams would repeat it or the report tables and implementation lists., source\_ref:… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202610/highlight_continuation_marker/highlight_continuation_marker_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019064042/highlight_continuation_marker_infographic-e10fdbe84a9f.png
+  ref: file:explicit:8c49c6ea412751d5866bd327
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/highlight_continuation_marker/highlight_continuation_marker_infographic.png
+```
+
+#### diagrams
+
+```yaml
+count: 0
+reason: The infographic covers the merge flow, reversible behavior, and identity safeguards. Additional diagrams would repeat it or the report tables and implementation lists.
+source_ref: file:explicit:2b9749c9d8bfd3ba2e507ff2
+status: none
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +52,11 @@
 |---|---|---|
 | [research.4u.cdx](../bbugyi200.athena.research.4u.cdx/README.md) | research.4u hood | completed |
 | [research.4u.cld](../bbugyi200.athena.research.4u.cld/README.md) | research.4u hood | completed |
-| [research.4u.final](../bbugyi200.athena.research.4u.final/README.md) | research.4u hood | active |
+| [research.4u.final](../bbugyi200.athena.research.4u.final/README.md) | research.4u hood | completed |
 | [research.4u.gem](../bbugyi200.athena.research.4u.gem/README.md) | research.4u hood | completed |
 | [research.4u.grk](../bbugyi200.athena.research.4u.grk/README.md) | research.4u hood | completed |
 | [research.4u.linker](../bbugyi200.athena.research.4u.linker/README.md) | research.4u hood | waiting |
+| [research.4u.linker.w0](../bbugyi200.athena.research.4u.linker.w0/README.md) | research.4u hood | waiting |
 | [research.4u.mus](../bbugyi200.athena.research.4u.mus/README.md) | research.4u hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
