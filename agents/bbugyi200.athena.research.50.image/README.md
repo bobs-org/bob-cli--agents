@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.50.image
 
-**Global name:** `bbugyi200.athena.research.50.image` · **State:** waiting · **Source run:** `run-848e0b5c9f83a177dfae855b4218ce8f`
+**Global name:** `bbugyi200.athena.research.50.image` · **State:** active · **Source run:** `run-848e0b5c9f83a177dfae855b4218ce8f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,40 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261019114556
+- Timing: 2026-10-19T16:18:17.606120+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202610/screenshot\_region\_draw\_first\_selection/screenshot\_region\_draw\_first\_selection\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2026101… |
+| `diagrams` | {count: 0, reason: The infographic already illustrates the gesture changes and safeguards; remaining candidate diagrams would repeat the report tables or short lists., status: none} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202610/screenshot_region_draw_first_selection/screenshot_region_draw_first_selection_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019114556/screenshot_region_draw_first_selection_infographic-698e5e5e71f3.png
+  ref: file:explicit:3f643c95df73012865187c3b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/screenshot_region_draw_first_selection/screenshot_region_draw_first_selection_infographic.png
+```
+
+#### diagrams
+
+```yaml
+count: 0
+reason: The infographic already illustrates the gesture changes and safeguards; remaining candidate diagrams would repeat the report tables or short lists.
+status: none
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +51,11 @@
 |---|---|---|
 | [research.50.cdx](../bbugyi200.athena.research.50.cdx/README.md) | research.50 hood | completed |
 | [research.50.cld](../bbugyi200.athena.research.50.cld/README.md) | research.50 hood | completed |
-| [research.50.final](../bbugyi200.athena.research.50.final/README.md) | research.50 hood | active |
+| [research.50.final](../bbugyi200.athena.research.50.final/README.md) | research.50 hood | completed |
 | [research.50.gem](../bbugyi200.athena.research.50.gem/README.md) | research.50 hood | completed |
 | [research.50.grk](../bbugyi200.athena.research.50.grk/README.md) | research.50 hood | completed |
 | [research.50.linker](../bbugyi200.athena.research.50.linker/README.md) | research.50 hood | waiting |
+| [research.50.linker.w0](../bbugyi200.athena.research.50.linker.w0/README.md) | research.50 hood | waiting |
 | [research.50.mus](../bbugyi200.athena.research.50.mus/README.md) | research.50 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
