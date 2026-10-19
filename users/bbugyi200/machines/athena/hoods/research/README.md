@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 339 · **Sessions:** 16 · **States:** active 212, completed 94, failed 29, waiting 4
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 339 · **Sessions:** 16 · **States:** active 211, completed 95, failed 29, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -276,7 +276,7 @@
 | [research.32.cdx](../../../../../../agents/bbugyi200.athena.research.32.cdx/README.md) | active | gpt-5.6-sol / codex | 2026-10-01T04:32:05.197284+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.32.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.32.cdx/chat.md) |
 | [research.44.final](../../../../../../agents/bbugyi200.athena.research.44.final/README.md) | active | opus / claude | 2026-10-08T22:16:25.280097+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.44.final/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.44.final/chat.md) |
 | [research.j.cdx](../../../../../../agents/bbugyi200.athena.research.j.cdx/README.md) | completed | — | 2026-06-15T19:51:03+00:00 → 2026-06-15T19:51:03+00:00 | 1 | — |
-| [research.50.cdx](../../../../../../agents/bbugyi200.athena.research.50.cdx/README.md) | active | gpt-6-astra / codex | 2026-10-19T15:47:04.546644+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.50.cdx/prompt.md) |
+| [research.50.cdx](../../../../../../agents/bbugyi200.athena.research.50.cdx/README.md) | completed | gpt-6-astra / codex | 2026-10-19T15:47:04.546644+00:00 → 2026-10-19T15:57:30.883681+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.50.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.50.cdx/chat.md) |
 | [research.3s.gem](../../../../../../agents/bbugyi200.athena.research.3s.gem/README.md) | active | gemini-3.8-flash-high / agy | 2026-10-06T18:59:02.160735+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3s.gem/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.3s.gem/chat.md) |
 | [research.i.cld](../../../../../../agents/bbugyi200.athena.research.i.cld/README.md) | completed | — | 2026-06-15T19:24:42+00:00 → 2026-06-15T19:24:42+00:00 | 1 | — |
 | [research.cld-18](../../../../../../agents/bbugyi200.athena.research.cld-18/README.md) | completed | — | 2026-06-08T15:36:29+00:00 → 2026-06-08T15:36:29+00:00 | 1 | — |
