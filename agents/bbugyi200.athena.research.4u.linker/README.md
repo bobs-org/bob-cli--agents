@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4u.linker
 
-**Global name:** `bbugyi200.athena.research.4u.linker` · **State:** waiting · **Source run:** `run-f741f705d55117cf265e91bbe4b821da`
+**Global name:** `bbugyi200.athena.research.4u.linker` · **State:** active · **Source run:** `run-f741f705d55117cf265e91bbe4b821da`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261019064043
+- Timing: 2026-10-19T11:32:21.281551+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/highlight\_continuation\_marker/highlight\_continuation\_marker.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261019064043/highlight\_continu… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/highlight_continuation_marker/highlight_continuation_marker.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019064043/highlight_continuation_marker-7c150f80d062.md
+  ref: file:explicit:1e18c5107502189c45751b30
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/highlight_continuation_marker/highlight_continuation_marker.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.4u.final](../bbugyi200.athena.research.4u.final/README.md) | research.4u hood | completed |
 | [research.4u.gem](../bbugyi200.athena.research.4u.gem/README.md) | research.4u hood | completed |
 | [research.4u.grk](../bbugyi200.athena.research.4u.grk/README.md) | research.4u hood | completed |
-| [research.4u.image](../bbugyi200.athena.research.4u.image/README.md) | research.4u hood | active |
+| [research.4u.image](../bbugyi200.athena.research.4u.image/README.md) | research.4u hood | completed |
 | [research.4u.mus](../bbugyi200.athena.research.4u.mus/README.md) | research.4u hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
