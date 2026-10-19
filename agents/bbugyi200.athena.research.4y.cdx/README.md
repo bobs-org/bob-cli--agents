@@ -32,6 +32,11 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019080823/cdx-today-marker-tests-e96348b76267.tap
   ref: file:explicit:0bc928bce76885083a493783
   source_path: /tmp/cdx-today-marker-tests.tap
+- kind: markdown
+  label: research:202610/today_task_markers_design_and_rendering_reliability__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019080823/today_task_markers_design_and_rendering_reliability__cdx-b4b00bae6c1e.md
+  ref: file:explicit:05de8e0a849f4df0e63665ee
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/today_task_markers_design_and_rendering_reliability__cdx.md
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
@@ -46,7 +51,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.4y.grk](../bbugyi200.athena.research.4y.grk/README.md) | research.4y hood | active |
 | [research.4y.image](../bbugyi200.athena.research.4y.image/README.md) | research.4y hood | waiting |
 | [research.4y.linker](../bbugyi200.athena.research.4y.linker/README.md) | research.4y hood | waiting |
-| [research.4y.mus](../bbugyi200.athena.research.4y.mus/README.md) | research.4y hood | active |
+| [research.4y.mus](../bbugyi200.athena.research.4y.mus/README.md) | research.4y hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
