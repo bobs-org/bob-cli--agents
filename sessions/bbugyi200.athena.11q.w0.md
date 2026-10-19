@@ -27,4 +27,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [11q](bbugyi200.athena.11q.md) (session · 5) | ancestor | active 1, completed 2, failed 2 |
+| [11q](bbugyi200.athena.11q.md) (session · 8) | ancestor | active 1, completed 4, failed 3 |
