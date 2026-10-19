@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.50.final
 
-**Global name:** `bbugyi200.athena.research.50.final` · **State:** waiting · **Source run:** `run-c313963bc8b3dfb9a5d483551d4da0f1`
+**Global name:** `bbugyi200.athena.research.50.final` · **State:** active · **Source run:** `run-c313963bc8b3dfb9a5d483551d4da0f1`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261019114555
+- Timing: 2026-10-19T16:00:20.780494+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/screenshot\_region\_draw\_first\_selection/screenshot\_region\_draw\_first\_selection\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2026101… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/screenshot_region_draw_first_selection/screenshot_region_draw_first_selection__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019114555/screenshot_region_draw_first_selection__final-0b492fad5e34.md
+  ref: file:explicit:6923690b2b111bebb6c30925
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/screenshot_region_draw_first_selection/screenshot_region_draw_first_selection__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,8 +42,8 @@
 |---|---|---|
 | [research.50.cdx](../bbugyi200.athena.research.50.cdx/README.md) | research.50 hood | completed |
 | [research.50.cld](../bbugyi200.athena.research.50.cld/README.md) | research.50 hood | completed |
-| [research.50.gem](../bbugyi200.athena.research.50.gem/README.md) | research.50 hood | active |
-| [research.50.grk](../bbugyi200.athena.research.50.grk/README.md) | research.50 hood | active |
+| [research.50.gem](../bbugyi200.athena.research.50.gem/README.md) | research.50 hood | completed |
+| [research.50.grk](../bbugyi200.athena.research.50.grk/README.md) | research.50 hood | completed |
 | [research.50.image](../bbugyi200.athena.research.50.image/README.md) | research.50 hood | waiting |
 | [research.50.linker](../bbugyi200.athena.research.50.linker/README.md) | research.50 hood | waiting |
 | [research.50.mus](../bbugyi200.athena.research.50.mus/README.md) | research.50 hood | completed |

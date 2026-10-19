@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.50.grk
 
-**Global name:** `bbugyi200.athena.research.50.grk` · **State:** active · **Source run:** `run-56b00bf8976fc8de0d2d6ba80a492cb4`
+**Global name:** `bbugyi200.athena.research.50.grk` · **State:** completed · **Source run:** `run-56b00bf8976fc8de0d2d6ba80a492cb4`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-19T15:48:22.141451+00:00
+- Timing: 2026-10-19T15:48:22.141451+00:00 → 2026-10-19T15:59:47.941701+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -42,8 +42,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [research.50.cdx](../bbugyi200.athena.research.50.cdx/README.md) | research.50 hood | completed |
 | [research.50.cld](../bbugyi200.athena.research.50.cld/README.md) | research.50 hood | completed |
-| [research.50.final](../bbugyi200.athena.research.50.final/README.md) | research.50 hood | waiting |
-| [research.50.gem](../bbugyi200.athena.research.50.gem/README.md) | research.50 hood | active |
+| [research.50.final](../bbugyi200.athena.research.50.final/README.md) | research.50 hood | active |
+| [research.50.gem](../bbugyi200.athena.research.50.gem/README.md) | research.50 hood | completed |
 | [research.50.image](../bbugyi200.athena.research.50.image/README.md) | research.50 hood | waiting |
 | [research.50.linker](../bbugyi200.athena.research.50.linker/README.md) | research.50 hood | waiting |
 | [research.50.mus](../bbugyi200.athena.research.50.mus/README.md) | research.50 hood | completed |
