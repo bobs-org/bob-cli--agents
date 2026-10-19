@@ -45,8 +45,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.4y.final](../bbugyi200.athena.research.4y.final/README.md) | research.4y hood | completed |
 | [research.4y.gem](../bbugyi200.athena.research.4y.gem/README.md) | research.4y hood | completed |
 | [research.4y.grk](../bbugyi200.athena.research.4y.grk/README.md) | research.4y hood | completed |
-| [research.4y.image](../bbugyi200.athena.research.4y.image/README.md) | research.4y hood | active |
-| [research.4y.linker](../bbugyi200.athena.research.4y.linker/README.md) | research.4y hood | waiting |
+| [research.4y.image](../bbugyi200.athena.research.4y.image/README.md) | research.4y hood | completed |
+| [research.4y.linker](../bbugyi200.athena.research.4y.linker/README.md) | research.4y hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
