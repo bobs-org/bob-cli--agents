@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4y.image
 
-**Global name:** `bbugyi200.athena.research.4y.image` · **State:** waiting · **Source run:** `run-7d6f3ad68b68fec1feb5202e9f414af7`
+**Global name:** `bbugyi200.athena.research.4y.image` · **State:** active · **Source run:** `run-7d6f3ad68b68fec1feb5202e9f414af7`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,40 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261019080829
+- Timing: 2026-10-19T12:53:42.019802+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202610/today\_task\_line\_marks/today\_task\_line\_marks\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261019080829/today\_task\_line\_marks\_info… |
+| `diagrams` | {count: 0, reason: The infographic already covers the Today membership rule, marker interactions, reliability checks, and phased rollout. Remaining material consists of tables, short lists, or detail… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202610/today_task_line_marks/today_task_line_marks_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019080829/today_task_line_marks_infographic-0392906ccd1a.png
+  ref: file:explicit:7ba9da2ea35411aab863c9c3
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/today_task_line_marks/today_task_line_marks_infographic.png
+```
+
+#### diagrams
+
+```yaml
+count: 0
+reason: The infographic already covers the Today membership rule, marker interactions, reliability checks, and phased rollout. Remaining material consists of tables, short lists, or details that do not warrant a distinct diagram.
+status: none
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +51,7 @@
 |---|---|---|
 | [research.4y.cdx](../bbugyi200.athena.research.4y.cdx/README.md) | research.4y hood | completed |
 | [research.4y.cld](../bbugyi200.athena.research.4y.cld/README.md) | research.4y hood | completed |
-| [research.4y.final](../bbugyi200.athena.research.4y.final/README.md) | research.4y hood | active |
+| [research.4y.final](../bbugyi200.athena.research.4y.final/README.md) | research.4y hood | completed |
 | [research.4y.gem](../bbugyi200.athena.research.4y.gem/README.md) | research.4y hood | completed |
 | [research.4y.grk](../bbugyi200.athena.research.4y.grk/README.md) | research.4y hood | completed |
 | [research.4y.linker](../bbugyi200.athena.research.4y.linker/README.md) | research.4y hood | waiting |
