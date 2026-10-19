@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-19T14:10:03.022277+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/highlights\_underlines\_inline\_emphasis\_design\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261019100902/highlights\_underlines\_inlin… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/highlights_underlines_inline_emphasis_design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019100902/highlights_underlines_inline_emphasis_design__cdx-42f83160cd1a.md
+  ref: file:explicit:93b66f8095efa17f2e36ea35
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/highlights_underlines_inline_emphasis_design__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.4z.grk](../bbugyi200.athena.research.4z.grk/README.md) | research.4z hood | active |
 | [research.4z.image](../bbugyi200.athena.research.4z.image/README.md) | research.4z hood | waiting |
 | [research.4z.linker](../bbugyi200.athena.research.4z.linker/README.md) | research.4z hood | waiting |
-| [research.4z.mus](../bbugyi200.athena.research.4z.mus/README.md) | research.4z hood | active |
+| [research.4z.mus](../bbugyi200.athena.research.4z.mus/README.md) | research.4z hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
