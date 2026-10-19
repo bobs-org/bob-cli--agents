@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-19T10:41:31.723384+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/highlights\_continuation\_composition\_design\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261019064036/highlights\_continuation\_compo… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/highlights_continuation_composition_design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019064036/highlights_continuation_composition_design__cdx-cbb84686d11f.md
+  ref: file:explicit:9c49072d3aa84a25adcd60a2
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/highlights_continuation_composition_design__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.4u.grk](../bbugyi200.athena.research.4u.grk/README.md) | research.4u hood | active |
 | [research.4u.image](../bbugyi200.athena.research.4u.image/README.md) | research.4u hood | waiting |
 | [research.4u.linker](../bbugyi200.athena.research.4u.linker/README.md) | research.4u hood | waiting |
-| [research.4u.mus](../bbugyi200.athena.research.4u.mus/README.md) | research.4u hood | active |
+| [research.4u.mus](../bbugyi200.athena.research.4u.mus/README.md) | research.4u hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
