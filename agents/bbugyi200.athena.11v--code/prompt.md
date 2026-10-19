@@ -1,0 +1,12 @@
+%model:@medium
+#gh:gh_bobs-org__bob-cli @plan:202610/refs_new_section.md
+
+The above plan has been reviewed and approved. Implement it now.
+
+Reviewer decisions for this plan (final · reviewer via ACE):
+- new_cap = all (planner default: all). Implement the "new_cap = all" branch; ignore "new_cap = cap5". Context: "Should the NEW section list every NEW reference, dropping today's 5-row cap?".
+- new_window = three_days (planner default: three_days). Implement the "new_window = three_days" branch; ignore "new_window = seven_days". Context: "How long should an unopened, unmarked reference stay NEW on its own?".
+- today_link = marks_seen (planner default: stays_new). Implement the "today_link = marks_seen" branch; ignore "today_link = stays_new". Context: "Should a successful Link to Today (⌘N) in Bob Refs leave the reference NEW?".
+- decision_record = no. Do not edit decisions. Context: "Should the plan add a decisions-web record for the Refs NEW state?".
+No other memory note may be edited.
+Implement only the branches selected above.
