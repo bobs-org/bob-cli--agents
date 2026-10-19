@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me implement the fix recommended in the athena_vault_sync_conflict_loops.md file in the research sidecar repo? #plan %m:@xlarge %auto
