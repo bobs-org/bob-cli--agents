@@ -27,13 +27,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4r.linker](../agents/bbugyi200.athena.research.4r.linker/README.md) | ancestor | completed |
-| [research.4r.cdx](../agents/bbugyi200.athena.research.4r.cdx/README.md) | research.4r hood | completed |
-| [research.4r.cld](../agents/bbugyi200.athena.research.4r.cld/README.md) | research.4r hood | completed |
-| [research.4r.final](../agents/bbugyi200.athena.research.4r.final/README.md) | research.4r hood | completed |
-| [research.4r.gem](../agents/bbugyi200.athena.research.4r.gem/README.md) | research.4r hood | completed |
-| [research.4r.grk](../agents/bbugyi200.athena.research.4r.grk/README.md) | research.4r hood | completed |
-| [research.4r.image](../agents/bbugyi200.athena.research.4r.image/README.md) | research.4r hood | completed |
+| [research.4r.linker](../agents/bbugyi200.athena.research.4r.linker/README.md) | ancestor | active |
+| [research.4r.cdx](../agents/bbugyi200.athena.research.4r.cdx/README.md) | research.4r hood | active |
+| [research.4r.cld](../agents/bbugyi200.athena.research.4r.cld/README.md) | research.4r hood | active |
+| [research.4r.final](../agents/bbugyi200.athena.research.4r.final/README.md) | research.4r hood | active |
+| [research.4r.gem](../agents/bbugyi200.athena.research.4r.gem/README.md) | research.4r hood | active |
+| [research.4r.grk](../agents/bbugyi200.athena.research.4r.grk/README.md) | research.4r hood | active |
+| [research.4r.image](../agents/bbugyi200.athena.research.4r.image/README.md) | research.4r hood | active |
 | [research.0.cdx](../agents/bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../agents/bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../agents/bbugyi200.athena.research.0.final/README.md) | research hood | completed |
@@ -84,4 +84,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.39.cdx](../agents/bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../agents/bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../agents/bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 233 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 240 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
