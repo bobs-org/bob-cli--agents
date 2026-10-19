@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-9k](../../users/bbugyi200/machines/athena/hoods/bob-cli-9k/README.md) / bob-cli-9k.6
 
-**Global name:** `bbugyi200.athena.bob-cli-9k.6` · **State:** active · **Source run:** `run-24e5c01228bc2f579ee89e05ca584d12`
+**Global name:** `bbugyi200.athena.bob-cli-9k.6` · **State:** completed · **Source run:** `run-24e5c01228bc2f579ee89e05ca584d12`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-9k
 
@@ -12,13 +12,13 @@
 - Epic: [bob-cli-9k](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-9k/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-18T23:19:51.697889+00:00
+- Timing: 2026-10-18T23:19:51.697889+00:00 → 2026-10-18T23:47:17.685498+00:00
 - Commits: [1](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -55,4 +55,9 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-9k.4](../bbugyi200.athena.bob-cli-9k.4/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.5](../bbugyi200.athena.bob-cli-9k.5/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.7](../bbugyi200.athena.bob-cli-9k.7/README.md) | bob-cli-9k hood | completed |
-| [bob-cli-9k.land](../bbugyi200.athena.bob-cli-9k.land/README.md) | bob-cli-9k hood | waiting |
+| [bob-cli-9k.8.1](../../sessions/bbugyi200.athena.bob-cli-9k.8.1.md) (session · 3) | bob-cli-9k hood | active 1, completed 1, failed 1 |
+| [bob-cli-9k.8.2](../bbugyi200.athena.bob-cli-9k.8.2/README.md) | bob-cli-9k hood | waiting |
+| [bob-cli-9k.8.3](../bbugyi200.athena.bob-cli-9k.8.3/README.md) | bob-cli-9k hood | waiting |
+| [bob-cli-9k.8.4](../bbugyi200.athena.bob-cli-9k.8.4/README.md) | bob-cli-9k hood | waiting |
+| [bob-cli-9k.8.land](../bbugyi200.athena.bob-cli-9k.8.land/README.md) | bob-cli-9k hood | waiting |
+| [bob-cli-9k.land](../../sessions/bbugyi200.athena.bob-cli-9k.land.md) (session · 3) | bob-cli-9k hood | failed 3 |
