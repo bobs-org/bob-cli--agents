@@ -40,10 +40,10 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4u.cdx](../bbugyi200.athena.research.4u.cdx/README.md) | research.4u hood | active |
+| [research.4u.cdx](../bbugyi200.athena.research.4u.cdx/README.md) | research.4u hood | completed |
 | [research.4u.cld](../bbugyi200.athena.research.4u.cld/README.md) | research.4u hood | active |
 | [research.4u.final](../bbugyi200.athena.research.4u.final/README.md) | research.4u hood | waiting |
-| [research.4u.gem](../bbugyi200.athena.research.4u.gem/README.md) | research.4u hood | active |
+| [research.4u.gem](../bbugyi200.athena.research.4u.gem/README.md) | research.4u hood | completed |
 | [research.4u.grk](../bbugyi200.athena.research.4u.grk/README.md) | research.4u hood | active |
 | [research.4u.image](../bbugyi200.athena.research.4u.image/README.md) | research.4u hood | waiting |
 | [research.4u.linker](../bbugyi200.athena.research.4u.linker/README.md) | research.4u hood | waiting |
