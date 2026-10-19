@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.4s.linker.w0](../../sessions/bbugyi200.athena.research.4s.linker.w0.md) / research.4s.linker.w0--plan
 
-**Global name:** `bbugyi200.athena.research.4s.linker.w0--plan` · **State:** failed · **Source run:** `run-58fdb40aee0f0ab8f59cb3f0ad545f74`
+**Global name:** `bbugyi200.athena.research.4s.linker.w0--plan` · **State:** active · **Source run:** `run-58fdb40aee0f0ab8f59cb3f0ad545f74`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-18T18:15:09.391632+00:00 → 2026-10-18T18:40:10.909920+00:00
+- Timing: 2026-10-18T18:15:09.391632+00:00
 - Commits: 0
 
 ## Files
@@ -78,4 +78,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 215 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 224 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

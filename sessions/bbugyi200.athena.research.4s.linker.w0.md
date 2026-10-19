@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["research.4s.linker.w0--plan [failed]"]
+  n0["research.4s.linker.w0--plan [active]"]
   n1["research.4s.linker.w0--gate [failed]"]
   n0 --> n1
   n2["research.4s.linker.w0--mon [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | research.4s.linker.w0--plan | failed | opus / claude | 2026-10-18T18:15:09.391632+00:00 → 2026-10-18T18:40:10.909920+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.4s.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.4s.linker.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | research.4s.linker.w0--plan | active | opus / claude | 2026-10-18T18:15:09.391632+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.4s.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.4s.linker.w0--plan/chat.md) |
 | <a id="member-gate"></a>gate | research.4s.linker.w0--gate | failed | opus / claude | 2026-10-18T18:39:29.439506+00:00 → 2026-10-18T18:40:00.927979+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.4s.linker.w0--gate/chat.md) |
 | <a id="member-mon"></a>mon | research.4s.linker.w0--mon | failed | opus / claude | 2026-10-18T18:39:59.613198+00:00 → 2026-10-18T18:43:12.192892+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.4s.linker.w0--mon/chat.md) |
 
@@ -84,4 +84,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.39.cdx](../agents/bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../agents/bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../agents/bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 215 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 224 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -11,7 +11,7 @@ flowchart TD
   n0["research.4r.linker.w0--gate [failed]"]
   n1["research.4r.linker.w0--mon [failed]"]
   n0 --> n1
-  n2["research.4r.linker.w0--plan [failed]"]
+  n2["research.4r.linker.w0--plan [active]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | research.4r.linker.w0--gate | failed | opus / claude | 2026-10-17T23:27:59.876476+00:00 → 2026-10-17T23:29:13.427260+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.4r.linker.w0--gate/chat.md) |
 | <a id="member-mon"></a>mon | research.4r.linker.w0--mon | failed | opus / claude | 2026-10-17T23:29:12.737798+00:00 → 2026-10-17T23:31:55.790246+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.4r.linker.w0--mon/chat.md) |
-| <a id="member-plan"></a>plan | research.4r.linker.w0--plan | failed | opus / claude | 2026-10-17T23:16:31.615285+00:00 → 2026-10-17T23:29:24.378844+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.4r.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.4r.linker.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | research.4r.linker.w0--plan | active | opus / claude | 2026-10-17T23:16:31.615285+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.4r.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.4r.linker.w0--plan/chat.md) |
 
 ## Neighbors
 
@@ -84,4 +84,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.39.cdx](../agents/bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../agents/bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../agents/bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 215 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 224 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
