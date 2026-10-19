@@ -43,7 +43,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.4y.cdx](../bbugyi200.athena.research.4y.cdx/README.md) | research.4y hood | completed |
 | [research.4y.cld](../bbugyi200.athena.research.4y.cld/README.md) | research.4y hood | active |
 | [research.4y.final](../bbugyi200.athena.research.4y.final/README.md) | research.4y hood | waiting |
-| [research.4y.grk](../bbugyi200.athena.research.4y.grk/README.md) | research.4y hood | active |
+| [research.4y.grk](../bbugyi200.athena.research.4y.grk/README.md) | research.4y hood | completed |
 | [research.4y.image](../bbugyi200.athena.research.4y.image/README.md) | research.4y hood | waiting |
 | [research.4y.linker](../bbugyi200.athena.research.4y.linker/README.md) | research.4y hood | waiting |
 | [research.4y.mus](../bbugyi200.athena.research.4y.mus/README.md) | research.4y hood | completed |
