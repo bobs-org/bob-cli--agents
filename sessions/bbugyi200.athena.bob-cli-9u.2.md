@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-9u` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-9u.2--plan [completed]"]
-  n1["bob-cli-9u.2--1 [active]"]
+  n1["bob-cli-9u.2--1 [completed]"]
   n0 --> n1
   n2["bob-cli-9u.2--mon [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-9u.2--plan | completed | gpt-6-luna / codex | 2026-10-19T16:28:01.793438+00:00 → 2026-10-19T16:41:57.620071+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9u.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9u.2--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-9u.2--1 | active | gpt-6-luna / codex | 2026-10-19T16:46:05.409565+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9u.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9u.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-9u.2--1 | completed | gpt-6-luna / codex | 2026-10-19T16:46:05.409565+00:00 → 2026-10-19T16:51:55.701193+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9u.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9u.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9u.2--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-9u.2--mon | failed | gpt-6-luna / codex | 2026-10-19T16:41:07.214835+00:00 → 2026-10-19T16:45:28.175131+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9u.2--mon/chat.md) |
 
 ## Commits
@@ -35,4 +35,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-9u.1](../agents/bbugyi200.athena.bob-cli-9u.1/README.md) | bob-cli-9u hood | completed |
 | [bob-cli-9u.3](../agents/bbugyi200.athena.bob-cli-9u.3/README.md) | bob-cli-9u hood | completed |
-| [bob-cli-9u.land](../agents/bbugyi200.athena.bob-cli-9u.land/README.md) | bob-cli-9u hood | waiting |
+| [bob-cli-9u.land](bbugyi200.athena.bob-cli-9u.land.md) (session · 3) | bob-cli-9u hood | active 2, failed 1 |
