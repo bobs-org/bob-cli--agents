@@ -12,7 +12,13 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-19T17:04:30.547237+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`435e9c1`](https://github.com/bobs-org/bob-cli/commit/435e9c1473d55e52c3de40e56c1f6c5e7f389499) | fix(ref): preserve underline host occurrence and wrap pairing | 2026-10-19 13:37:46 EDT |
 
 ## Neighbors
 

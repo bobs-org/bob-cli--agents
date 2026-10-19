@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-9u.land--code | active | grok-4.6 / grok | 2026-10-19T17:04:30.547237+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-9u.land--code | active | grok-4.6 / grok | 2026-10-19T17:04:30.547237+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9u.land--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-9u.land--gate | failed | gpt-6-astra / codex | 2026-10-19T17:03:50.347625+00:00 → 2026-10-19T17:04:19.458883+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9u.land--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-9u.land--plan | active | gpt-6-astra / codex | 2026-10-19T16:52:33.170681+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9u.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9u.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`435e9c1`](https://github.com/bobs-org/bob-cli/commit/435e9c1473d55e52c3de40e56c1f6c5e7f389499) | fix(ref): preserve underline host occurrence and wrap pairing | 2026-10-19 13:37:46 EDT |
 
 ## Neighbors
 
