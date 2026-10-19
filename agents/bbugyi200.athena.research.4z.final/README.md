@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4z.final
 
-**Global name:** `bbugyi200.athena.research.4z.final` · **State:** waiting · **Source run:** `run-76732d4866a6a658b987fe2e094c8c89`
+**Global name:** `bbugyi200.athena.research.4z.final` · **State:** active · **Source run:** `run-76732d4866a6a658b987fe2e094c8c89`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261019100907
+- Timing: 2026-10-19T14:35:10.104555+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/underline\_emphasis\_in\_highlights/underline\_emphasis\_in\_highlights\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261019100907/unde… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/underline_emphasis_in_highlights/underline_emphasis_in_highlights__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019100907/underline_emphasis_in_highlights__final-43946ec9978f.md
+  ref: file:explicit:121c28ef2501c8372cffa598
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/underline_emphasis_in_highlights/underline_emphasis_in_highlights__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.4z.cdx](../bbugyi200.athena.research.4z.cdx/README.md) | research.4z hood | completed |
-| [research.4z.cld](../bbugyi200.athena.research.4z.cld/README.md) | research.4z hood | active |
+| [research.4z.cld](../bbugyi200.athena.research.4z.cld/README.md) | research.4z hood | completed |
 | [research.4z.gem](../bbugyi200.athena.research.4z.gem/README.md) | research.4z hood | completed |
 | [research.4z.grk](../bbugyi200.athena.research.4z.grk/README.md) | research.4z hood | completed |
 | [research.4z.image](../bbugyi200.athena.research.4z.image/README.md) | research.4z hood | waiting |
