@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 339 · **Sessions:** 16 · **States:** active 213, completed 93, failed 29, waiting 4
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 339 · **Sessions:** 16 · **States:** active 212, completed 94, failed 29, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -344,4 +344,4 @@
 | [research.4y.cld](../../../../../../agents/bbugyi200.athena.research.4y.cld/README.md) | completed | opus / claude | 2026-10-19T12:09:43.141261+00:00 → 2026-10-19T12:29:47.033352+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4y.cld/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.4y.cld/chat.md) |
 | [research.4r.linker.w0--plan](../../../../../../sessions/bbugyi200.athena.research.4r.linker.w0.md#member-plan) | active | opus / claude | 2026-10-17T23:16:31.615285+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4r.linker.w0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.4r.linker.w0--plan/chat.md) |
 | [research.31.linker](../../../../../../agents/bbugyi200.athena.research.31.linker/README.md) | active | opus / claude | 2026-10-01T03:48:38.148819+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.31.linker/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.31.linker/chat.md) |
-| [research.50.mus](../../../../../../agents/bbugyi200.athena.research.50.mus/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-19T15:48:46.565983+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.50.mus/prompt.md) |
+| [research.50.mus](../../../../../../agents/bbugyi200.athena.research.50.mus/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-19T15:48:46.565983+00:00 → 2026-10-19T15:54:10.320475+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.50.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.50.mus/chat.md) |
