@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-9v` · Members: 7 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-9v.2--3 [active]"]
+  n0["bob-cli-9v.2--3 [completed]"]
   n1["bob-cli-9v.2--2 [completed]"]
   n0 --> n1
   n2["bob-cli-9v.2--mon-1 [failed]"]
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-3"></a>3 | bob-cli-9v.2--3 | active | muse-spark-1.3-contributor / muse | 2026-10-19T17:55:13.201362+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9v.2--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-9v.2--3 | completed | muse-spark-1.3-contributor / muse | 2026-10-19T17:55:13.201362+00:00 → 2026-10-19T17:58:58.088775+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9v.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9v.2--3/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-9v.2--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-19T17:46:28.247761+00:00 → 2026-10-19T17:49:39.881800+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9v.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9v.2--2/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-9v.2--mon-1 | failed | muse-spark-1.3-contributor / muse | 2026-10-19T17:49:10.411269+00:00 → 2026-10-19T17:54:31.659675+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9v.2--mon-1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-9v.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-19T17:14:52.400673+00:00 → 2026-10-19T17:18:19.782245+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9v.2--mon/chat.md) |
@@ -40,5 +40,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-9v.1](../agents/bbugyi200.athena.bob-cli-9v.1/README.md) | bob-cli-9v hood | completed |
-| [bob-cli-9v.3](../agents/bbugyi200.athena.bob-cli-9v.3/README.md) | bob-cli-9v hood | waiting |
+| [bob-cli-9v.3](../agents/bbugyi200.athena.bob-cli-9v.3/README.md) | bob-cli-9v hood | active |
 | [bob-cli-9v.land](../agents/bbugyi200.athena.bob-cli-9v.land/README.md) | bob-cli-9v hood | waiting |
