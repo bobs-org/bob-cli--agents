@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ef0069121f65d475d9540e3f7f9bfb0f"}
+{"commits":[{"committed_at":1792452393,"sha":"24f43958e8b9ba5d05b5210298a8ac8ad2bf26f5","subject":"fix(task-move): repair landing gaps for selectors, identities, and sync"}],"schema_version":2,"source_run_id":"run-ef0069121f65d475d9540e3f7f9bfb0f"}
