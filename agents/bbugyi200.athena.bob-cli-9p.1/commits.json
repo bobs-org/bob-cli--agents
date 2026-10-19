@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-416496b4fe564b104b0306c5b610928d"}
+{"commits":[{"committed_at":1792413432,"sha":"3924abc88db68f64353544440dda57687c719782","subject":"feat(highlights): fold continuation highlights at render time"}],"schema_version":2,"source_run_id":"run-416496b4fe564b104b0306c5b610928d"}

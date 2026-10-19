@@ -24,4 +24,4 @@
 |---|---|---|
 | [bob-cli-9p.1](../bbugyi200.athena.bob-cli-9p.1/README.md) | bob-cli-9p hood | active |
 | [bob-cli-9p.2](../bbugyi200.athena.bob-cli-9p.2/README.md) | bob-cli-9p hood | waiting |
-| [bob-cli-9p.3](../bbugyi200.athena.bob-cli-9p.3/README.md) | bob-cli-9p hood | active |
+| [bob-cli-9p.3](../bbugyi200.athena.bob-cli-9p.3/README.md) | bob-cli-9p hood | completed |
