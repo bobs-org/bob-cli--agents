@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli The first entry of the bob-mac-capture app's ref panel is clipped sometimes when the panel loads (see the ~/tmp/screenshots/20261019_182525.png screenshot for context). Can you help me diagnose the root cause of this issue and fix it? #plan %m:@xlarge %auto
