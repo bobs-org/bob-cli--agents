@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4z.image
 
-**Global name:** `bbugyi200.athena.research.4z.image` · **State:** waiting · **Source run:** `run-b4fe631b2204951478919458e394e5a9`
+**Global name:** `bbugyi200.athena.research.4z.image` · **State:** active · **Source run:** `run-b4fe631b2204951478919458e394e5a9`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,40 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261019100908
+- Timing: 2026-10-19T14:59:27.422927+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202610/underline\_emphasis\_in\_highlights/underline\_emphasis\_in\_highlights\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261019100908/unde… |
+| `diagrams` | {count: 0, reason: The infographic covers the merge, matching guardrails, and presentation changes; additional flows would duplicate the report’s short implementation lists or lifecycle table., statu… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202610/underline_emphasis_in_highlights/underline_emphasis_in_highlights_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019100908/underline_emphasis_in_highlights_infographic-f24b5bb1f78b.png
+  ref: file:explicit:adb3d1bf0feb4088043889f6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/underline_emphasis_in_highlights/underline_emphasis_in_highlights_infographic.png
+```
+
+#### diagrams
+
+```yaml
+count: 0
+reason: The infographic covers the merge, matching guardrails, and presentation changes; additional flows would duplicate the report’s short implementation lists or lifecycle table.
+status: none
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +51,7 @@
 |---|---|---|
 | [research.4z.cdx](../bbugyi200.athena.research.4z.cdx/README.md) | research.4z hood | completed |
 | [research.4z.cld](../bbugyi200.athena.research.4z.cld/README.md) | research.4z hood | completed |
-| [research.4z.final](../bbugyi200.athena.research.4z.final/README.md) | research.4z hood | active |
+| [research.4z.final](../bbugyi200.athena.research.4z.final/README.md) | research.4z hood | completed |
 | [research.4z.gem](../bbugyi200.athena.research.4z.gem/README.md) | research.4z hood | completed |
 | [research.4z.grk](../bbugyi200.athena.research.4z.grk/README.md) | research.4z hood | completed |
 | [research.4z.linker](../bbugyi200.athena.research.4z.linker/README.md) | research.4z hood | waiting |
