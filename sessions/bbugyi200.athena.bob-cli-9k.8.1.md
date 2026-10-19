@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-9k` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-9k.8.1--1 [active]"]
+  n0["bob-cli-9k.8.1--1 [completed]"]
   n1["bob-cli-9k.8.1--mon [failed]"]
   n0 --> n1
   n2["bob-cli-9k.8.1--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-9k.8.1--1 | active | gpt-6-luna / codex | 2026-10-19T00:47:42.061313+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9k.8.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9k.8.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-9k.8.1--1 | completed | gpt-6-luna / codex | 2026-10-19T00:47:42.061313+00:00 → 2026-10-19T00:56:09.498888+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9k.8.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9k.8.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9k.8.1--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-9k.8.1--mon | failed | gpt-6-luna / codex | 2026-10-19T00:41:09.303067+00:00 → 2026-10-19T00:47:07.244802+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9k.8.1--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-9k.8.1--plan | completed | gpt-6-luna / codex | 2026-10-19T00:22:21.744029+00:00 → 2026-10-19T00:45:56.590301+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9k.8.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9k.8.1--plan/chat.md) |
 
@@ -33,8 +33,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-9k.8.2](../agents/bbugyi200.athena.bob-cli-9k.8.2/README.md) | bob-cli-9k.8 hood | waiting |
-| [bob-cli-9k.8.3](../agents/bbugyi200.athena.bob-cli-9k.8.3/README.md) | bob-cli-9k.8 hood | waiting |
+| [bob-cli-9k.8.2](../agents/bbugyi200.athena.bob-cli-9k.8.2/README.md) | bob-cli-9k.8 hood | active |
+| [bob-cli-9k.8.3](../agents/bbugyi200.athena.bob-cli-9k.8.3/README.md) | bob-cli-9k.8 hood | active |
 | [bob-cli-9k.8.4](../agents/bbugyi200.athena.bob-cli-9k.8.4/README.md) | bob-cli-9k.8 hood | waiting |
 | [bob-cli-9k.8.land](../agents/bbugyi200.athena.bob-cli-9k.8.land/README.md) | bob-cli-9k.8 hood | waiting |
 | [bob-cli-9k.1](bbugyi200.athena.bob-cli-9k.1.md) (session · 3) | bob-cli-9k hood | completed 2, failed 1 |
