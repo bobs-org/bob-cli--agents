@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.50.linker
 
-**Global name:** `bbugyi200.athena.research.50.linker` · **State:** waiting · **Source run:** `run-65b4036494aa2d430655444e56fb67e2`
+**Global name:** `bbugyi200.athena.research.50.linker` · **State:** active · **Source run:** `run-65b4036494aa2d430655444e56fb67e2`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261019114557
+- Timing: 2026-10-19T16:28:24.282970+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/screenshot\_region\_draw\_first\_selection/screenshot\_region\_draw\_first\_selection.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261019114557… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/screenshot_region_draw_first_selection/screenshot_region_draw_first_selection.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261019114557/screenshot_region_draw_first_selection-264d46d78d24.md
+  ref: file:explicit:8266ecd939d4b186daa277fc
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/screenshot_region_draw_first_selection/screenshot_region_draw_first_selection.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.50.final](../bbugyi200.athena.research.50.final/README.md) | research.50 hood | completed |
 | [research.50.gem](../bbugyi200.athena.research.50.gem/README.md) | research.50 hood | completed |
 | [research.50.grk](../bbugyi200.athena.research.50.grk/README.md) | research.50 hood | completed |
-| [research.50.image](../bbugyi200.athena.research.50.image/README.md) | research.50 hood | active |
+| [research.50.image](../bbugyi200.athena.research.50.image/README.md) | research.50 hood | completed |
 | [research.50.mus](../bbugyi200.athena.research.50.mus/README.md) | research.50 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
