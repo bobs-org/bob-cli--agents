@@ -46,7 +46,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.50.grk](../bbugyi200.athena.research.50.grk/README.md) | research.50 hood | completed |
 | [research.50.image](../bbugyi200.athena.research.50.image/README.md) | research.50 hood | completed |
 | [research.50.linker](../bbugyi200.athena.research.50.linker/README.md) | research.50 hood | completed |
-| [research.50.linker.w0](../../sessions/bbugyi200.athena.research.50.linker.w0.md) (session · 3) | research.50 hood | active 1, completed 1, failed 1 |
+| [research.50.linker.w0](../../sessions/bbugyi200.athena.research.50.linker.w0.md) (session · 3) | research.50 hood | completed 2, failed 1 |
+| [research.50.linker.w0.f0](../../sessions/bbugyi200.athena.research.50.linker.w0.f0.md) (session · 3) | research.50 hood | active 1, completed 1, failed 1 |
 | [research.50.mus](../bbugyi200.athena.research.50.mus/README.md) | research.50 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |

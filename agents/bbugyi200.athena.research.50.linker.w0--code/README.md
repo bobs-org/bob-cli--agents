@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.50.linker.w0](../../sessions/bbugyi200.athena.research.50.linker.w0.md) / research.50.linker.w0--code
 
-**Global name:** `bbugyi200.athena.research.50.linker.w0--code` · **State:** active · **Source run:** `run-87ba042eb7aa942ed74cc064418c2611`
+**Global name:** `bbugyi200.athena.research.50.linker.w0--code` · **State:** completed · **Source run:** `run-87ba042eb7aa942ed74cc064418c2611`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,18 +10,19 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-19T16:54:03.372963+00:00
+- Timing: 2026-10-19T16:54:03.372963+00:00 → 2026-10-19T17:01:12.220725+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.50.linker](../bbugyi200.athena.research.50.linker/README.md) | ancestor | completed |
+| [research.50.linker.w0.f0](../../sessions/bbugyi200.athena.research.50.linker.w0.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [research.50.cdx](../bbugyi200.athena.research.50.cdx/README.md) | research.50 hood | completed |
 | [research.50.cld](../bbugyi200.athena.research.50.cld/README.md) | research.50 hood | completed |
 | [research.50.final](../bbugyi200.athena.research.50.final/README.md) | research.50 hood | completed |
