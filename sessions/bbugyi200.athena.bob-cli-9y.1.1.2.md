@@ -47,7 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-9y.1](bbugyi200.athena.bob-cli-9y.1.md) (session · 3) | ancestor | failed 3 |
 | [bob-cli-9y.1.1.1](../agents/bbugyi200.athena.bob-cli-9y.1.1.1/README.md) | bob-cli-9y.1.1 hood | completed |
-| [bob-cli-9y.1.1.land](bbugyi200.athena.bob-cli-9y.1.1.land.md) (session · 3) | bob-cli-9y.1.1 hood | active 2, failed 1 |
+| [bob-cli-9y.1.1.land](bbugyi200.athena.bob-cli-9y.1.1.land.md) (session · 3) | bob-cli-9y.1.1 hood | completed 2, failed 1 |
 | [bob-cli-9y.2](../agents/bbugyi200.athena.bob-cli-9y.2/README.md) | bob-cli-9y hood | completed |
-| [bob-cli-9y.3](../agents/bbugyi200.athena.bob-cli-9y.3/README.md) | bob-cli-9y hood | active |
-| [bob-cli-9y.land](../agents/bbugyi200.athena.bob-cli-9y.land/README.md) | bob-cli-9y hood | waiting |
+| [bob-cli-9y.3](../agents/bbugyi200.athena.bob-cli-9y.3/README.md) | bob-cli-9y hood | completed |
+| [bob-cli-9y.land](../agents/bbugyi200.athena.bob-cli-9y.land/README.md) | bob-cli-9y hood | active |
