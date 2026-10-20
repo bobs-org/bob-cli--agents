@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-a2` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-a2.3--mon [failed]"]
-  n1["bob-cli-a2.3--1 [active]"]
+  n1["bob-cli-a2.3--1 [completed]"]
   n0 --> n1
   n2["bob-cli-a2.3--plan [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-a2.3--mon | failed | gpt-6-luna / codex | 2026-10-20T13:48:05.561516+00:00 → 2026-10-20T13:50:28.397283+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-a2.3--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-a2.3--1 | active | gpt-6-luna / codex | 2026-10-20T13:51:16.064293+00:00 | [1](../agents/bbugyi200.athena.bob-cli-a2.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-a2.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-a2.3--1 | completed | gpt-6-luna / codex | 2026-10-20T13:51:16.064293+00:00 → 2026-10-20T14:20:34.287016+00:00 | [1](../agents/bbugyi200.athena.bob-cli-a2.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-a2.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-a2.3--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-a2.3--plan | completed | gpt-6-luna / codex | 2026-10-20T13:26:35.707487+00:00 → 2026-10-20T13:49:00.414886+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-a2.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-a2.3--plan/chat.md) |
 
 ## Commits
@@ -41,10 +41,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-a2.14](../agents/bbugyi200.athena.bob-cli-a2.14/README.md) | bob-cli-a2 hood | waiting |
 | [bob-cli-a2.15](../agents/bbugyi200.athena.bob-cli-a2.15/README.md) | bob-cli-a2 hood | waiting |
 | [bob-cli-a2.2](../agents/bbugyi200.athena.bob-cli-a2.2/README.md) | bob-cli-a2 hood | completed |
-| [bob-cli-a2.4](../agents/bbugyi200.athena.bob-cli-a2.4/README.md) | bob-cli-a2 hood | waiting |
+| [bob-cli-a2.4](../agents/bbugyi200.athena.bob-cli-a2.4/README.md) | bob-cli-a2 hood | active |
 | [bob-cli-a2.5](../agents/bbugyi200.athena.bob-cli-a2.5/README.md) | bob-cli-a2 hood | active |
 | [bob-cli-a2.6](../agents/bbugyi200.athena.bob-cli-a2.6/README.md) | bob-cli-a2 hood | waiting |
 | [bob-cli-a2.7](../agents/bbugyi200.athena.bob-cli-a2.7/README.md) | bob-cli-a2 hood | waiting |
-| [bob-cli-a2.8](../agents/bbugyi200.athena.bob-cli-a2.8/README.md) | bob-cli-a2 hood | waiting |
-| [bob-cli-a2.9](../agents/bbugyi200.athena.bob-cli-a2.9/README.md) | bob-cli-a2 hood | waiting |
+| [bob-cli-a2.8](../agents/bbugyi200.athena.bob-cli-a2.8/README.md) | bob-cli-a2 hood | active |
+| [bob-cli-a2.9](../agents/bbugyi200.athena.bob-cli-a2.9/README.md) | bob-cli-a2 hood | active |
 | [bob-cli-a2.land](../agents/bbugyi200.athena.bob-cli-a2.land/README.md) | bob-cli-a2 hood | waiting |

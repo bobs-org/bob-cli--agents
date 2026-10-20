@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-a2](../../users/bbugyi200/machines/athena/hoods/bob-cli-a2/README.md) / [bob-cli-a2.3](../../sessions/bbugyi200.athena.bob-cli-a2.3.md) / bob-cli-a2.3--1
 
-**Global name:** `bbugyi200.athena.bob-cli-a2.3--1` · **State:** active · **Source run:** `run-9646bbc9435964f06fce282de31094bc`
+**Global name:** `bbugyi200.athena.bob-cli-a2.3--1` · **State:** completed · **Source run:** `run-9646bbc9435964f06fce282de31094bc`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-a2
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-a2.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-a2/bob-cli-a2.3.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-20T13:51:16.064293+00:00
+- Timing: 2026-10-20T13:51:16.064293+00:00 → 2026-10-20T14:20:34.287016+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -36,10 +36,10 @@
 | [bob-cli-a2.14](../bbugyi200.athena.bob-cli-a2.14/README.md) | bob-cli-a2 hood | waiting |
 | [bob-cli-a2.15](../bbugyi200.athena.bob-cli-a2.15/README.md) | bob-cli-a2 hood | waiting |
 | [bob-cli-a2.2](../bbugyi200.athena.bob-cli-a2.2/README.md) | bob-cli-a2 hood | completed |
-| [bob-cli-a2.4](../bbugyi200.athena.bob-cli-a2.4/README.md) | bob-cli-a2 hood | waiting |
+| [bob-cli-a2.4](../bbugyi200.athena.bob-cli-a2.4/README.md) | bob-cli-a2 hood | active |
 | [bob-cli-a2.5](../bbugyi200.athena.bob-cli-a2.5/README.md) | bob-cli-a2 hood | active |
 | [bob-cli-a2.6](../bbugyi200.athena.bob-cli-a2.6/README.md) | bob-cli-a2 hood | waiting |
 | [bob-cli-a2.7](../bbugyi200.athena.bob-cli-a2.7/README.md) | bob-cli-a2 hood | waiting |
-| [bob-cli-a2.8](../bbugyi200.athena.bob-cli-a2.8/README.md) | bob-cli-a2 hood | waiting |
-| [bob-cli-a2.9](../bbugyi200.athena.bob-cli-a2.9/README.md) | bob-cli-a2 hood | waiting |
+| [bob-cli-a2.8](../bbugyi200.athena.bob-cli-a2.8/README.md) | bob-cli-a2 hood | active |
+| [bob-cli-a2.9](../bbugyi200.athena.bob-cli-a2.9/README.md) | bob-cli-a2 hood | active |
 | [bob-cli-a2.land](../bbugyi200.athena.bob-cli-a2.land/README.md) | bob-cli-a2 hood | waiting |

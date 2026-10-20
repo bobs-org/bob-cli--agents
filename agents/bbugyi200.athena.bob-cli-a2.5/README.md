@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-20T14:02:28.342256+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`1e1d982`](https://github.com/bobs-org/bob-cli/commit/1e1d982693423d59946fad75d383f01028571451) | feat(capture): add ~ / ~~ lexer, guards, and capture-parse wire | 2026-10-20 10:37:53 EDT |
 
 ## Neighbors
 
@@ -31,10 +37,10 @@
 | [bob-cli-a2.14](../bbugyi200.athena.bob-cli-a2.14/README.md) | bob-cli-a2 hood | waiting |
 | [bob-cli-a2.15](../bbugyi200.athena.bob-cli-a2.15/README.md) | bob-cli-a2 hood | waiting |
 | [bob-cli-a2.2](../bbugyi200.athena.bob-cli-a2.2/README.md) | bob-cli-a2 hood | completed |
-| [bob-cli-a2.3](../../sessions/bbugyi200.athena.bob-cli-a2.3.md) (session · 3) | bob-cli-a2 hood | active 1, completed 1, failed 1 |
-| [bob-cli-a2.4](../bbugyi200.athena.bob-cli-a2.4/README.md) | bob-cli-a2 hood | waiting |
+| [bob-cli-a2.3](../../sessions/bbugyi200.athena.bob-cli-a2.3.md) (session · 3) | bob-cli-a2 hood | completed 2, failed 1 |
+| [bob-cli-a2.4](../bbugyi200.athena.bob-cli-a2.4/README.md) | bob-cli-a2 hood | active |
 | [bob-cli-a2.6](../bbugyi200.athena.bob-cli-a2.6/README.md) | bob-cli-a2 hood | waiting |
 | [bob-cli-a2.7](../bbugyi200.athena.bob-cli-a2.7/README.md) | bob-cli-a2 hood | waiting |
-| [bob-cli-a2.8](../bbugyi200.athena.bob-cli-a2.8/README.md) | bob-cli-a2 hood | waiting |
-| [bob-cli-a2.9](../bbugyi200.athena.bob-cli-a2.9/README.md) | bob-cli-a2 hood | waiting |
+| [bob-cli-a2.8](../bbugyi200.athena.bob-cli-a2.8/README.md) | bob-cli-a2 hood | active |
+| [bob-cli-a2.9](../bbugyi200.athena.bob-cli-a2.9/README.md) | bob-cli-a2 hood | active |
 | [bob-cli-a2.land](../bbugyi200.athena.bob-cli-a2.land/README.md) | bob-cli-a2 hood | waiting |
