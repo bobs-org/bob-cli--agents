@@ -26,7 +26,7 @@
 | [bob-cli-a2.1](../bbugyi200.athena.bob-cli-a2.1/README.md) | bob-cli-a2 hood | completed |
 | [bob-cli-a2.10](../bbugyi200.athena.bob-cli-a2.10/README.md) | bob-cli-a2 hood | completed |
 | [bob-cli-a2.11](../bbugyi200.athena.bob-cli-a2.11/README.md) | bob-cli-a2 hood | completed |
-| [bob-cli-a2.12](../bbugyi200.athena.bob-cli-a2.12/README.md) | bob-cli-a2 hood | active |
+| [bob-cli-a2.12](../bbugyi200.athena.bob-cli-a2.12/README.md) | bob-cli-a2 hood | completed |
 | [bob-cli-a2.13](../bbugyi200.athena.bob-cli-a2.13/README.md) | bob-cli-a2 hood | active |
 | [bob-cli-a2.14](../bbugyi200.athena.bob-cli-a2.14/README.md) | bob-cli-a2 hood | waiting |
 | [bob-cli-a2.15](../bbugyi200.athena.bob-cli-a2.15/README.md) | bob-cli-a2 hood | waiting |
