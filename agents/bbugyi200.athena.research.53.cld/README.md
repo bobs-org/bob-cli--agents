@@ -21,9 +21,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.53.cdx](../bbugyi200.athena.research.53.cdx/README.md) | research.53 hood | active |
+| [research.53.cdx](../bbugyi200.athena.research.53.cdx/README.md) | research.53 hood | completed |
 | [research.53.final](../bbugyi200.athena.research.53.final/README.md) | research.53 hood | waiting |
-| [research.53.gem](../bbugyi200.athena.research.53.gem/README.md) | research.53 hood | active |
+| [research.53.gem](../bbugyi200.athena.research.53.gem/README.md) | research.53 hood | completed |
 | [research.53.grk](../bbugyi200.athena.research.53.grk/README.md) | research.53 hood | active |
 | [research.53.image](../bbugyi200.athena.research.53.image/README.md) | research.53 hood | waiting |
 | [research.53.linker](../bbugyi200.athena.research.53.linker/README.md) | research.53 hood | waiting |

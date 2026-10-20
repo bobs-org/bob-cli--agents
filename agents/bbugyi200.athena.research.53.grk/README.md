@@ -12,19 +12,38 @@
 - Provider: grok
 - Timing: 2026-10-20T10:53:48.415982+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/directed\_task\_related\_links\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261020065156/directed\_task\_related\_links\_\_grk-5b5f89b8d98… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/directed_task_related_links__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261020065156/directed_task_related_links__grk-5b5f89b8d982.md
+  ref: file:explicit:74e9d15a7e47cc2e0a8be626
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/directed_task_related_links__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.53.cdx](../bbugyi200.athena.research.53.cdx/README.md) | research.53 hood | active |
+| [research.53.cdx](../bbugyi200.athena.research.53.cdx/README.md) | research.53 hood | completed |
 | [research.53.cld](../bbugyi200.athena.research.53.cld/README.md) | research.53 hood | active |
 | [research.53.final](../bbugyi200.athena.research.53.final/README.md) | research.53 hood | waiting |
-| [research.53.gem](../bbugyi200.athena.research.53.gem/README.md) | research.53 hood | active |
+| [research.53.gem](../bbugyi200.athena.research.53.gem/README.md) | research.53 hood | completed |
 | [research.53.image](../bbugyi200.athena.research.53.image/README.md) | research.53 hood | waiting |
 | [research.53.linker](../bbugyi200.athena.research.53.linker/README.md) | research.53 hood | waiting |
 | [research.53.mus](../bbugyi200.athena.research.53.mus/README.md) | research.53 hood | completed |
