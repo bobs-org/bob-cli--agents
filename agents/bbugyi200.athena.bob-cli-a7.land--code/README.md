@@ -12,7 +12,13 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-20T21:38:25.802566+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`7a7c1bc`](https://github.com/bobs-org/bob-cli/commit/7a7c1bca60135fbf3c78696b3dd296f481f3c3b7) | feat(capture): finish bare Pomodoro link suffix validation and landing | 2026-10-20 18:10:05 EDT |
 
 ## Neighbors
 

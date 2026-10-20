@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5cb01d2faa1098bd96eb69b1fa5915f3"}
+{"commits":[{"committed_at":1792534205,"sha":"7a7c1bca60135fbf3c78696b3dd296f481f3c3b7","subject":"feat(capture): finish bare Pomodoro link suffix validation and landing"}],"schema_version":2,"source_run_id":"run-5cb01d2faa1098bd96eb69b1fa5915f3"}

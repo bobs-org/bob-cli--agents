@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-a7.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-20T21:38:25.802566+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-a7.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-20T21:38:25.802566+00:00 | [1](../agents/bbugyi200.athena.bob-cli-a7.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | bob-cli-a7.land--plan | active | gpt-6-astra / codex | 2026-10-20T21:25:28.634301+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-a7.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-a7.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-a7.land--gate | failed | gpt-6-astra / codex | 2026-10-20T21:37:11.308320+00:00 → 2026-10-20T21:38:14.777456+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-a7.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`7a7c1bc`](https://github.com/bobs-org/bob-cli/commit/7a7c1bca60135fbf3c78696b3dd296f481f3c3b7) | feat(capture): finish bare Pomodoro link suffix validation and landing | 2026-10-20 18:10:05 EDT |
 
 ## Neighbors
 
