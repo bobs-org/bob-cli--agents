@@ -1,0 +1,5 @@
+#gh:gh_bobs-org__bob-cli It seems that there was a decent amount of work done last night to improve
+bob-cli's documentation (see the bob-cli-a0 epic bead for context), but the
+https://bobs-org.github.io/ website is still returning a 404. What do I need to do to
+make this documentation site live? Make sure your report is concise, easy to understand,
+and contains a Mermaid diagram too if applicable. #research %m:@xlarge
