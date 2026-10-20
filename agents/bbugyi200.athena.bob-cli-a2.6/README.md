@@ -13,11 +13,17 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-20T14:41:18.633244+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`fa9669d`](https://github.com/bobs-org/bob-cli/commit/fa9669dd2a09caf4077ebdf9ef8bc7c39cc95a33) | feat(capture): implement task relation completion | 2026-10-20 11:26:44 EDT |
 
 ## Neighbors
 
