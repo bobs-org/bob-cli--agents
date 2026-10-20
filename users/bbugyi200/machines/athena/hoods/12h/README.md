@@ -8,4 +8,4 @@
 |---|---|---|---|---:|---|
 | [12h--gate](../../../../../../sessions/bbugyi200.athena.12h.md#member-gate) | failed | opus / claude | 2026-10-20T17:09:30.251983+00:00 → 2026-10-20T17:09:58.695112+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.12h--gate/chat.md) |
 | [12h--code](../../../../../../sessions/bbugyi200.athena.12h.md#member-code) | active | muse-spark-1.3-contributor / muse | 2026-10-20T17:10:27.698802+00:00 | 0 | — |
-| [12h--plan](../../../../../../sessions/bbugyi200.athena.12h.md#member-plan) | active | opus / claude | 2026-10-20T16:53:11.206628+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.12h--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.12h--plan/chat.md) |
+| [12h--plan](../../../../../../sessions/bbugyi200.athena.12h.md#member-plan) | active | opus / claude | 2026-10-20T16:53:11.206628+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.12h--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.12h--plan/prompt.md) |
