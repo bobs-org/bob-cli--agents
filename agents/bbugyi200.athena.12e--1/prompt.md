@@ -1,0 +1,61 @@
+%queue(weight=1)
+#fork:12e--code
+%model:gpt-6-luna@xhigh
+
+%macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+ssh -x mac bash /tmp/bob-mac-capture-refs-view-20261020/.scratch-macos-verify.sh
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/linked/bob-mac-capture
+```
+
+| | |
+| --- | --- |
+| **Outcome** | COMPLETED — exit 0 |
+| **Started** | 2026-10-20T12:39:01.224721+00:00 |
+| **Finished** | 2026-10-20T12:43:21.178608Z |
+| **Elapsed** | 4m 18s of a 30m 0s budget |
+| **Output** | 2,104 KiB · evidence refs: `file:monitor-diagnostic-manifest:8z8zb9y74yr7`, `file:monitor-retained-log:8z8zb9y74yr7` · raw output omitted: `facts_only` · full log: `sase monitor show 8z8zb9y74yr7 --all-lines` |
+| **Tool run** | sase tool show 548d664aed96b0e6d83804265206dde2 |
+
+**Why this was monitored:** Compile the approved Bob Refs changes on the Mac scratch copy
+
+## Continuation checkpoint
+
+- **Ref:** `local:continuation/checkpoints/monitor_start-dc9f8540f91f43b0.json`
+
+**Checkpoint (JSON):**
+
+```text
+{
+  "kind": "monitor_start",
+  "payload": {
+    "command": "ssh -x mac bash /tmp/bob-mac-capture-refs-view-20261020/.scratch-macos-verify.sh",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/linked/bob-mac-capture",
+    "member_agent_name": "12e--mon",
+    "monitor_id": "8z8zb9y74yr7",
+    "next_output": "auto",
+    "parent_node_ids": [],
+    "project_name": "gh_bobs-org__bob-cli",
+    "request_fingerprint": "sha256:c4fdcc50e097662b67ca63391794c3110154dfb1125b4c828e81009e9c94b622",
+    "starter_agent": "12e--code",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202610/20/20261020081516"
+  },
+  "recorded_at_epoch": 1792499943.3148746,
+  "schema_version": 1
+}
+```
+
+
+## Your next action
+
+Inspect the Mac scratch compile, formatter, and test-typecheck result. If any failed, read the full output, fix the linked bob-mac-capture checkout, rerun needed verification, and clean up the Mac scratch directory. Preserve the selected behavior: Ctrl-U resets, Ctrl-Shift-U scrolls up, Esc keeps the view, and Shift-Command-O restores it. Remember docs-check had two unrelated Material-theme failures. After work, review the final diff and use /sase_final as the last action.
+%macros_enabled:true
