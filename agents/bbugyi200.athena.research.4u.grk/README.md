@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.4u.grk
 
-**Global name:** `bbugyi200.athena.research.4u.grk` · **State:** completed · **Source run:** `run-d535002738cf3b6e2c5e6027d756e419`
+**Global name:** `bbugyi200.athena.research.4u.grk` · **State:** active · **Source run:** `run-d535002738cf3b6e2c5e6027d756e419`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-19T10:42:13.928619+00:00 → 2026-10-19T10:55:35.800979+00:00
+- Timing: 2026-10-19T10:42:13.928619+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -40,14 +40,14 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4u.cdx](../bbugyi200.athena.research.4u.cdx/README.md) | research.4u hood | completed |
-| [research.4u.cld](../bbugyi200.athena.research.4u.cld/README.md) | research.4u hood | completed |
-| [research.4u.final](../bbugyi200.athena.research.4u.final/README.md) | research.4u hood | completed |
-| [research.4u.gem](../bbugyi200.athena.research.4u.gem/README.md) | research.4u hood | completed |
-| [research.4u.image](../bbugyi200.athena.research.4u.image/README.md) | research.4u hood | completed |
-| [research.4u.linker](../bbugyi200.athena.research.4u.linker/README.md) | research.4u hood | completed |
-| [research.4u.linker.w0](../../sessions/bbugyi200.athena.research.4u.linker.w0.md) (session · 3) | research.4u hood | completed 1, failed 2 |
-| [research.4u.mus](../bbugyi200.athena.research.4u.mus/README.md) | research.4u hood | completed |
+| [research.4u.cdx](../bbugyi200.athena.research.4u.cdx/README.md) | research.4u hood | active |
+| [research.4u.cld](../bbugyi200.athena.research.4u.cld/README.md) | research.4u hood | active |
+| [research.4u.final](../bbugyi200.athena.research.4u.final/README.md) | research.4u hood | active |
+| [research.4u.gem](../bbugyi200.athena.research.4u.gem/README.md) | research.4u hood | active |
+| [research.4u.image](../bbugyi200.athena.research.4u.image/README.md) | research.4u hood | active |
+| [research.4u.linker](../bbugyi200.athena.research.4u.linker/README.md) | research.4u hood | active |
+| [research.4u.linker.w0](../../sessions/bbugyi200.athena.research.4u.linker.w0.md) (session · 3) | research.4u hood | active 1, failed 2 |
+| [research.4u.mus](../bbugyi200.athena.research.4u.mus/README.md) | research.4u hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
@@ -98,4 +98,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 250 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 258 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
