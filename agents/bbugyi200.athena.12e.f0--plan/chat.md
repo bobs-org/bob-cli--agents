@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 12e.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-12e_f0__plan-261020_093836.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-12e_f0__code-261020_093836.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/refs_ctrl_u_scroll_ctrl_z_reset.md
 
 
