@@ -30,4 +30,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-aj.2](../../sessions/bbugyi200.athena.bob-cli-aj.2.md) (session · 11) | bob-cli-aj hood | completed 6, failed 5 |
-| [bob-cli-aj.land](../../sessions/bbugyi200.athena.bob-cli-aj.land.md) (session · 3) | bob-cli-aj hood | active 2, failed 1 |
+| [bob-cli-aj.land](../../sessions/bbugyi200.athena.bob-cli-aj.land.md) (session · 3) | bob-cli-aj hood | completed 2, failed 1 |

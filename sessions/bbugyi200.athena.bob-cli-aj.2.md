@@ -52,4 +52,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-aj.1](../agents/bbugyi200.athena.bob-cli-aj.1/README.md) | bob-cli-aj hood | completed |
-| [bob-cli-aj.land](bbugyi200.athena.bob-cli-aj.land.md) (session · 3) | bob-cli-aj hood | active 2, failed 1 |
+| [bob-cli-aj.land](bbugyi200.athena.bob-cli-aj.land.md) (session · 3) | bob-cli-aj hood | completed 2, failed 1 |

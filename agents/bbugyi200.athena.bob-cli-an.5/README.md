@@ -1,0 +1,36 @@
+# Agent: bob-cli-an.5
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / bob-cli-an.5
+
+**Global name:** `bbugyi200.athena.bob-cli-an.5` · **State:** active · **Source run:** `run-ba8836e630f0ae2389fed8b51bea8b5a`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
+
+## Summary
+
+- Bead: [bob-cli-an.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.5.md)
+- Epic: [bob-cli-an](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/README.md)
+- Model: muse-spark-1.3-contributor
+- Provider: muse
+- Timing: 2026-10-21T17:01:04.954934+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`51ad4f4`](https://github.com/bobs-org/bob-cli/commit/51ad4f4c77a318519b2039dc1e743ec9c737304f) | feat(highlights-ref): stabilize highlight IDs across sidecar order | 2026-10-21 13:47:57 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-an.1](../../sessions/bbugyi200.athena.bob-cli-an.1.md) (session · 2) | bob-cli-an hood | active 1, completed 1 |
+| [bob-cli-an.2](../bbugyi200.athena.bob-cli-an.2/README.md) | bob-cli-an hood | waiting |
+| [bob-cli-an.3](../bbugyi200.athena.bob-cli-an.3/README.md) | bob-cli-an hood | waiting |
+| [bob-cli-an.4](../bbugyi200.athena.bob-cli-an.4/README.md) | bob-cli-an hood | waiting |
+| [bob-cli-an.land](../bbugyi200.athena.bob-cli-an.land/README.md) | bob-cli-an hood | waiting |
