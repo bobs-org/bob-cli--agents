@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["bob-cli-an.1--gate-1 [failed]"]
   n0 --> n4
-  n5["bob-cli-an.1--3 [active]"]
+  n5["bob-cli-an.1--3 [completed]"]
   n0 --> n5
   n6["bob-cli-an.1--gate [failed]"]
   n0 --> n6
@@ -32,14 +32,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | bob-cli-an.1--1 | completed | gpt-6-luna / codex | 2026-10-21T21:55:13.786589+00:00 → 2026-10-21T22:01:00.719928+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.1--1/chat.md) |
 | <a id="member-gate-0"></a>gate-0 | bob-cli-an.1--gate-0 | failed | gpt-6-luna / codex | 2026-10-21T22:00:21.929228+00:00 → 2026-10-21T22:01:47.361202+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.1--gate-0/chat.md) |
 | <a id="member-gate-1"></a>gate-1 | bob-cli-an.1--gate-1 | failed | gpt-6-luna / codex | 2026-10-21T22:08:36.145309+00:00 → 2026-10-21T22:09:37.799699+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.1--gate-1/chat.md) |
-| <a id="member-3"></a>3 | bob-cli-an.1--3 | active | gpt-6-luna / codex | 2026-10-21T22:11:10.142439+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.1--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-an.1--3 | completed | gpt-6-luna / codex | 2026-10-21T22:11:10.142439+00:00 → 2026-10-21T22:18:13.656786+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.1--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.1--3/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-an.1--gate | failed | gpt-6-luna / codex | 2026-10-21T17:25:55.203273+00:00 → 2026-10-21T21:53:36.077538+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.1--gate/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-an.2](../agents/bbugyi200.athena.bob-cli-an.2/README.md) | bob-cli-an hood | waiting |
+| [bob-cli-an.2](bbugyi200.athena.bob-cli-an.2.md) (session · 6) | bob-cli-an hood | active 2, completed 2, failed 2 |
 | [bob-cli-an.3](../agents/bbugyi200.athena.bob-cli-an.3/README.md) | bob-cli-an hood | waiting |
 | [bob-cli-an.4](../agents/bbugyi200.athena.bob-cli-an.4/README.md) | bob-cli-an hood | waiting |
 | [bob-cli-an.5](../agents/bbugyi200.athena.bob-cli-an.5/README.md) | bob-cli-an hood | completed |
