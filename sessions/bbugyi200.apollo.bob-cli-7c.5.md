@@ -34,10 +34,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-7c.1](bbugyi200.apollo.bob-cli-7c.1.md) (session · 3) | bob-cli-7c hood | completed 2, failed 1 |
-| [bob-cli-7c.2](bbugyi200.apollo.bob-cli-7c.2.md) (session · 5) | bob-cli-7c hood | active 1, completed 2, failed 2 |
+| [bob-cli-7c.2](bbugyi200.apollo.bob-cli-7c.2.md) (session · 7) | bob-cli-7c hood | active 1, completed 3, failed 3 |
 | [bob-cli-7c.3](../agents/bbugyi200.apollo.bob-cli-7c.3/README.md) | bob-cli-7c hood | waiting |
 | [bob-cli-7c.4](bbugyi200.apollo.bob-cli-7c.4.md) (session · 3) | bob-cli-7c hood | completed 2, failed 1 |
-| [bob-cli-7c.6](../agents/bbugyi200.apollo.bob-cli-7c.6/README.md) | bob-cli-7c hood | active |
+| [bob-cli-7c.6](../agents/bbugyi200.apollo.bob-cli-7c.6/README.md) | bob-cli-7c hood | completed |
 | [bob-cli-7c.7](../agents/bbugyi200.apollo.bob-cli-7c.7/README.md) | bob-cli-7c hood | waiting |
 | [bob-cli-7c.8](../agents/bbugyi200.apollo.bob-cli-7c.8/README.md) | bob-cli-7c hood | waiting |
 | [bob-cli-7c.land](../agents/bbugyi200.apollo.bob-cli-7c.land/README.md) | bob-cli-7c hood | waiting |

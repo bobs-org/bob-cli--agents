@@ -22,17 +22,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2d1adfa`](https://github.com/bobs-org/bob-cli/commit/2d1adfa7d7c794929e8e198a013379f059e7f8fb) | docs(tasks): rewrite successor links as Successor Offers | 2026-10-13 10:35:14 EDT |
+| — | `2d1adfa` | docs(tasks): rewrite successor links as Successor Offers | 2026-10-13 10:35:14 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-7c.2](../../sessions/bbugyi200.apollo.bob-cli-7c.2.md) (session · 5) | bob-cli-7c hood | active 1, completed 2, failed 2 |
+| [bob-cli-7c.2](../../sessions/bbugyi200.apollo.bob-cli-7c.2.md) (session · 7) | bob-cli-7c hood | active 1, completed 3, failed 3 |
 | [bob-cli-7c.3](../bbugyi200.apollo.bob-cli-7c.3/README.md) | bob-cli-7c hood | waiting |
 | [bob-cli-7c.4](../../sessions/bbugyi200.apollo.bob-cli-7c.4.md) (session · 3) | bob-cli-7c hood | completed 2, failed 1 |
 | [bob-cli-7c.5](../../sessions/bbugyi200.apollo.bob-cli-7c.5.md) (session · 5) | bob-cli-7c hood | completed 3, failed 2 |
-| [bob-cli-7c.6](../bbugyi200.apollo.bob-cli-7c.6/README.md) | bob-cli-7c hood | active |
+| [bob-cli-7c.6](../bbugyi200.apollo.bob-cli-7c.6/README.md) | bob-cli-7c hood | completed |
 | [bob-cli-7c.7](../bbugyi200.apollo.bob-cli-7c.7/README.md) | bob-cli-7c hood | waiting |
 | [bob-cli-7c.8](../bbugyi200.apollo.bob-cli-7c.8/README.md) | bob-cli-7c hood | waiting |
 | [bob-cli-7c.land](../bbugyi200.apollo.bob-cli-7c.land/README.md) | bob-cli-7c hood | waiting |
