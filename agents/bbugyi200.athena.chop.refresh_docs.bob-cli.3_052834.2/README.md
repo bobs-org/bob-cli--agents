@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.bob-cli.3\_052834.2
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2` · **State:** waiting · **Source run:** `run-4b26147f09da6691fc22b9337dd3526f`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2` · **State:** active · **Source run:** `run-4b26147f09da6691fc22b9337dd3526f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** chop
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261020151522
-- Commits: 0
+- Timing: 2026-10-22T11:50:16.425742+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8911be8`](https://github.com/bobs-org/bob-cli/commit/8911be85a8677b21af8f853333e4ea2c62618dc2) | docs: clarify verified capture and reference behavior | 2026-10-22 08:03:25 EDT |
 
 ## Neighbors
 
