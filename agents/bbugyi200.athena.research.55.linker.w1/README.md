@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.55.linker.w1
 
-**Global name:** `bbugyi200.athena.research.55.linker.w1` · **State:** waiting · **Source run:** `run-6f42f6590e14071d37115e12a08c63bc`
+**Global name:** `bbugyi200.athena.research.55.linker.w1` · **State:** active · **Source run:** `run-6f42f6590e14071d37115e12a08c63bc`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.55.linker](../bbugyi200.athena.research.55.linker/README.md) | ancestor | active |
+| [research.55.linker](../bbugyi200.athena.research.55.linker/README.md) | ancestor | completed |
 | [research.55.linker.w0](../bbugyi200.athena.research.55.linker.w0/README.md) | research.55.linker hood | active |
 | [research.55.cdx](../bbugyi200.athena.research.55.cdx/README.md) | research.55 hood | completed |
 | [research.55.cld](../bbugyi200.athena.research.55.cld/README.md) | research.55 hood | completed |
