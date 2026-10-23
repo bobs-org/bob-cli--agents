@@ -12,16 +12,35 @@
 - Provider: claude
 - Timing: 2026-10-23T13:51:59.815454+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/ref\_scan\_marker\_writes\_vs\_open\_highlights\_pdfs\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261023094818/ref\_scan\_marker\_writes\_vs… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/ref_scan_marker_writes_vs_open_highlights_pdfs__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023094818/ref_scan_marker_writes_vs_open_highlights_pdfs__cld-3ff50c05e1eb.md
+  ref: file:explicit:9a9676e9a92d62659a239156
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/ref_scan_marker_writes_vs_open_highlights_pdfs__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.56.cdx](../bbugyi200.athena.research.56.cdx/README.md) | research.56 hood | active |
+| [research.56.cdx](../bbugyi200.athena.research.56.cdx/README.md) | research.56 hood | completed |
 | [research.56.final](../bbugyi200.athena.research.56.final/README.md) | research.56 hood | waiting |
 | [research.56.gem](../bbugyi200.athena.research.56.gem/README.md) | research.56 hood | completed |
 | [research.56.grk](../bbugyi200.athena.research.56.grk/README.md) | research.56 hood | completed |
