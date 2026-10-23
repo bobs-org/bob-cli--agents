@@ -12,11 +12,17 @@
 - Model: gpt-6-astra
 - Provider: codex
 - Timing: 2026-10-23T16:38:39.959086+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`0aec807`](https://github.com/bobs-org/bob-cli/commit/0aec807c422c4a1d3d1be6ba5daa078473242071) | feat(native): add bounded macOS file coordination | 2026-10-23 12:44:36 EDT |
 
 ## Neighbors
 
