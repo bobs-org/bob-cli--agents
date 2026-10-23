@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ad7711156d2e07f8269ca89f54fc3f7a"}
+{"commits":[{"committed_at":1792793241,"sha":"37594eb22b89cd403a9fc95e811d1d4e7e421900","subject":"fix(webclip): embed static CID TrueType faces instead of Type 3"}],"schema_version":2,"source_run_id":"run-ad7711156d2e07f8269ca89f54fc3f7a"}

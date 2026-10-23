@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-23T21:31:57.240200+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`37594eb`](https://github.com/bobs-org/bob-cli/commit/37594eb22b89cd403a9fc95e811d1d4e7e421900) | fix(webclip): embed static CID TrueType faces instead of Type 3 | 2026-10-23 18:07:21 EDT |
 
 ## Neighbors
 
@@ -25,8 +31,8 @@
 |---|---|---|
 | [bob-cli-an.6.6.1](../bbugyi200.athena.bob-cli-an.6.6.1/README.md) | bob-cli-an.6.6 hood | completed |
 | [bob-cli-an.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.2.md) (session · 2) | bob-cli-an.6.6 hood | active 1, completed 1 |
-| [bob-cli-an.6.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.3.md) (session · 2) | bob-cli-an.6.6 hood | active 1, completed 1 |
-| [bob-cli-an.6.6.5](../bbugyi200.athena.bob-cli-an.6.6.5/README.md) | bob-cli-an.6.6 hood | active |
+| [bob-cli-an.6.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.3.md) (session · 3) | bob-cli-an.6.6 hood | active 1, completed 1, failed 1 |
+| [bob-cli-an.6.6.5](../bbugyi200.athena.bob-cli-an.6.6.5/README.md) | bob-cli-an.6.6 hood | completed |
 | [bob-cli-an.6.6.land](../bbugyi200.athena.bob-cli-an.6.6.land/README.md) | bob-cli-an.6.6 hood | waiting |
 | [bob-cli-an.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.1.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.2.md) (session · 7) | bob-cli-an.6 hood | completed 4, failed 3 |
