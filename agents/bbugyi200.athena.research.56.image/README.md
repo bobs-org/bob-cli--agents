@@ -12,10 +12,62 @@
 - Provider: codex
 - Timing: 2026-10-23T14:48:55.359462+00:00
 - Commits: 0
+- Variables: [3](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202610/highlights\_open\_pdf\_coordinated\_marker\_writes/highlights\_open\_pdf\_coordinated\_marker\_writes\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_b… |
+| `diagrams` | {considered: 16, count: 1, manifest: 202610/highlights\_open\_pdf\_coordinated\_marker\_writes/highlights\_open\_pdf\_coordinated\_marker\_writes.diagrams.md, source\_ref: file:explicit:554c20b5dffa2c767069327f… |
+| `infographic` | {height: 1448, path: 202610/highlights\_open\_pdf\_coordinated\_marker\_writes/highlights\_open\_pdf\_coordinated\_marker\_writes\_infographic.png, ref: file:explicit:0a2dcedbe34d54993556c600, status: ready, to… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202610/highlights_open_pdf_coordinated_marker_writes/highlights_open_pdf_coordinated_marker_writes_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023094823/highlights_open_pdf_coordinated_marker_writes_infographic-99e754b34aa2.png
+  ref: file:explicit:0a2dcedbe34d54993556c600
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/highlights_open_pdf_coordinated_marker_writes/highlights_open_pdf_coordinated_marker_writes_infographic.png
+- kind: markdown
+  label: diagrams:202610/highlights_open_pdf_coordinated_marker_writes/highlights_open_pdf_coordinated_marker_writes.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023094823/highlights_open_pdf_coordinated_marker_writes.diagrams-1505c1407acc.md
+  ref: file:explicit:4401e0bd4ace3f6b6dc4532c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/highlights_open_pdf_coordinated_marker_writes/highlights_open_pdf_coordinated_marker_writes.diagrams.md
+- kind: file
+  label: image-prompt:202610/highlights_open_pdf_coordinated_marker_writes/highlights_open_pdf_coordinated_marker_writes_infographic
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023094823/infographic.prompt-ee5510305cc4.txt
+  ref: file:explicit:b0ba89746e817a0442b5c4c9
+  source_path: /tmp/refpic.7GK3Qd/infographic.prompt.txt
+```
+
+#### diagrams
+
+```yaml
+considered: 16
+count: 1
+manifest: 202610/highlights_open_pdf_coordinated_marker_writes/highlights_open_pdf_coordinated_marker_writes.diagrams.md
+source_ref: file:explicit:554c20b5dffa2c767069327f
+status: ready
+```
+
+#### infographic
+
+```yaml
+height: 1448
+path: 202610/highlights_open_pdf_coordinated_marker_writes/highlights_open_pdf_coordinated_marker_writes_infographic.png
+ref: file:explicit:0a2dcedbe34d54993556c600
+status: ready
+tool: built-in image_gen
+width: 1086
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
