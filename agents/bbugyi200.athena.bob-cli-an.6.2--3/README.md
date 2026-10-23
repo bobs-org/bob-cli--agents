@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / [bob-cli-an.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.2.md) / bob-cli-an.6.2--3
 
-**Global name:** `bbugyi200.athena.bob-cli-an.6.2--3` · **State:** active · **Source run:** `run-e836c041040a84ffb81d7e5d91a05c2d`
+**Global name:** `bbugyi200.athena.bob-cli-an.6.2--3` · **State:** completed · **Source run:** `run-e836c041040a84ffb81d7e5d91a05c2d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-an.6.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.2.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-23T20:31:43.620714+00:00
+- Timing: 2026-10-23T20:31:43.620714+00:00 → 2026-10-23T20:38:18.927767+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -26,7 +26,7 @@
 | [bob-cli-an.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.3.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.4](../../sessions/bbugyi200.athena.bob-cli-an.6.4.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.5](../../sessions/bbugyi200.athena.bob-cli-an.6.5.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
-| [bob-cli-an.6.land](../bbugyi200.athena.bob-cli-an.6.land/README.md) | bob-cli-an.6 hood | waiting |
+| [bob-cli-an.6.land](../bbugyi200.athena.bob-cli-an.6.land/README.md) | bob-cli-an.6 hood | active |
 | [bob-cli-an.1](../../sessions/bbugyi200.athena.bob-cli-an.1.md) (session · 7) | bob-cli-an hood | completed 4, failed 3 |
 | [bob-cli-an.2](../../sessions/bbugyi200.athena.bob-cli-an.2.md) (session · 7) | bob-cli-an hood | completed 4, failed 3 |
 | [bob-cli-an.3](../../sessions/bbugyi200.athena.bob-cli-an.3.md) (session · 6) | bob-cli-an hood | completed 3, failed 3 |

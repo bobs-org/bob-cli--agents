@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["bob-cli-an.6.2--gate-0 [failed]"]
   n0 --> n4
-  n5["bob-cli-an.6.2--3 [active]"]
+  n5["bob-cli-an.6.2--3 [completed]"]
   n0 --> n5
   n6["bob-cli-an.6.2--2 [completed]"]
   n0 --> n6
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | bob-cli-an.6.2--plan | completed | grok-4.6 / grok | 2026-10-23T18:26:49.753945+00:00 → 2026-10-23T18:40:50.291844+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-an.6.2--mon | failed | grok-4.6 / grok | 2026-10-23T19:07:29.371291+00:00 → 2026-10-23T20:31:02.582448+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.2--mon/chat.md) |
 | <a id="member-gate-0"></a>gate-0 | bob-cli-an.6.2--gate-0 | failed | grok-4.6 / grok | 2026-10-23T19:01:37.745236+00:00 → 2026-10-23T19:02:51.162501+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.2--gate-0/chat.md) |
-| <a id="member-3"></a>3 | bob-cli-an.6.2--3 | active | grok-4.6 / grok | 2026-10-23T20:31:43.620714+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.2--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-an.6.2--3 | completed | grok-4.6 / grok | 2026-10-23T20:31:43.620714+00:00 → 2026-10-23T20:38:18.927767+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.2--3/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-an.6.2--2 | completed | grok-4.6 / grok | 2026-10-23T19:04:03.735377+00:00 → 2026-10-23T19:08:04.317589+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.2--2/chat.md) |
 
 ## Neighbors
@@ -43,7 +43,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-an.6.3](bbugyi200.athena.bob-cli-an.6.3.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.4](bbugyi200.athena.bob-cli-an.6.4.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.5](bbugyi200.athena.bob-cli-an.6.5.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
-| [bob-cli-an.6.land](../agents/bbugyi200.athena.bob-cli-an.6.land/README.md) | bob-cli-an.6 hood | waiting |
+| [bob-cli-an.6.land](../agents/bbugyi200.athena.bob-cli-an.6.land/README.md) | bob-cli-an.6 hood | active |
 | [bob-cli-an.1](bbugyi200.athena.bob-cli-an.1.md) (session · 7) | bob-cli-an hood | completed 4, failed 3 |
 | [bob-cli-an.2](bbugyi200.athena.bob-cli-an.2.md) (session · 7) | bob-cli-an hood | completed 4, failed 3 |
 | [bob-cli-an.3](bbugyi200.athena.bob-cli-an.3.md) (session · 6) | bob-cli-an hood | completed 3, failed 3 |

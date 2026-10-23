@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / bob-cli-an.6.land
 
-**Global name:** `bbugyi200.athena.bob-cli-an.6.land` · **State:** waiting · **Source run:** `run-05a7262ef1a055beffbbe5a127be1d55`
+**Global name:** `bbugyi200.athena.bob-cli-an.6.land` · **State:** active · **Source run:** `run-05a7262ef1a055beffbbe5a127be1d55`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-an.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261023124233
+- Timing: 2026-10-23T20:39:15.319479+00:00
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-an.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.1.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
-| [bob-cli-an.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.2.md) (session · 7) | bob-cli-an.6 hood | active 1, completed 3, failed 3 |
+| [bob-cli-an.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.2.md) (session · 7) | bob-cli-an.6 hood | completed 4, failed 3 |
 | [bob-cli-an.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.3.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.4](../../sessions/bbugyi200.athena.bob-cli-an.6.4.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.5](../../sessions/bbugyi200.athena.bob-cli-an.6.5.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
