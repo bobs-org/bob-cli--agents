@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.55.final
 
-**Global name:** `bbugyi200.athena.research.55.final` · **State:** waiting · **Source run:** `run-f7e02af1936da755f5bbe8e0d61ca3ff`
+**Global name:** `bbugyi200.athena.research.55.final` · **State:** active · **Source run:** `run-f7e02af1936da755f5bbe8e0d61ca3ff`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261023063021
+- Timing: 2026-10-23T10:48:30.961928+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/rotten\_log\_keep\_history/rotten\_log\_keep\_history\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261023063021/rotten\_log\_keep\_histor… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/rotten_log_keep_history/rotten_log_keep_history__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023063021/rotten_log_keep_history__final-9ff92987112e.md
+  ref: file:explicit:62b3587507e6da671fb2160e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/rotten_log_keep_history/rotten_log_keep_history__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.55.cdx](../bbugyi200.athena.research.55.cdx/README.md) | research.55 hood | completed |
-| [research.55.cld](../bbugyi200.athena.research.55.cld/README.md) | research.55 hood | active |
+| [research.55.cld](../bbugyi200.athena.research.55.cld/README.md) | research.55 hood | completed |
 | [research.55.gem](../bbugyi200.athena.research.55.gem/README.md) | research.55 hood | completed |
 | [research.55.grk](../bbugyi200.athena.research.55.grk/README.md) | research.55 hood | completed |
 | [research.55.image](../bbugyi200.athena.research.55.image/README.md) | research.55 hood | waiting |
