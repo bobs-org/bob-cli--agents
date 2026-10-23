@@ -53,6 +53,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.55.linker](../bbugyi200.athena.research.55.linker/README.md) | research.55 hood | completed |
 | [research.55.linker.w0](../bbugyi200.athena.research.55.linker.w0/README.md) | research.55 hood | active |
 | [research.55.linker.w1](../bbugyi200.athena.research.55.linker.w1/README.md) | research.55 hood | active |
+| [research.55.linker.w2](../bbugyi200.athena.research.55.linker.w2/README.md) | research.55 hood | active |
 | [research.55.mus](../bbugyi200.athena.research.55.mus/README.md) | research.55 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |

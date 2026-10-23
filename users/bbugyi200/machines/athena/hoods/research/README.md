@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 366 · **Sessions:** 19 · **States:** active 255, completed 77, failed 33, waiting 1
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 367 · **Sessions:** 19 · **States:** active 256, completed 77, failed 33, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -143,7 +143,7 @@
 | [research.4u.linker.w0--gate](../../../../../../sessions/bbugyi200.athena.research.4u.linker.w0.md#member-gate) | failed | opus / claude | 2026-10-19T11:58:32.192498+00:00 → 2026-10-19T11:59:10.686413+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.4u.linker.w0--gate/chat.md) |
 | [research.3w.final](../../../../../../agents/bbugyi200.athena.research.3w.final/README.md) | active | opus / claude | 2026-10-07T11:05:38.527251+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3w.final/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.3w.final/chat.md) |
 | [research.3x.linker.w0--gate](../../../../../../sessions/bbugyi200.athena.research.3x.linker.w0.md#member-gate) | failed | opus / claude | 2026-10-07T18:26:44.749809+00:00 → 2026-10-07T18:27:18.866436+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.3x.linker.w0--gate/chat.md) |
-| [research.55.linker.w1](../../../../../../agents/bbugyi200.athena.research.55.linker.w1/README.md) | active | opus / claude | 20261023072718 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.55.linker.w1/prompt.md) |
+| [research.55.linker.w1](../../../../../../agents/bbugyi200.athena.research.55.linker.w1/README.md) | active | opus / claude | 2026-10-23T11:31:06.590060+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.55.linker.w1/prompt.md) |
 | [research.4m.gem](../../../../../../agents/bbugyi200.athena.research.4m.gem/README.md) | active | gemini-3.8-flash-high / agy | 2026-10-15T21:45:37.193386+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4m.gem/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.4m.gem/chat.md) |
 | [research.31.mus](../../../../../../agents/bbugyi200.athena.research.31.mus/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-01T02:59:51.211211+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.31.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.31.mus/chat.md) |
 | [research.4d.gem](../../../../../../agents/bbugyi200.athena.research.4d.gem/README.md) | active | gemini-3.8-flash-high / agy | 2026-10-13T13:38:14.261453+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4d.gem/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.4d.gem/chat.md) |
@@ -171,6 +171,7 @@
 | [research.4d.grk](../../../../../../agents/bbugyi200.athena.research.4d.grk/README.md) | active | grok-4.6 / grok | 2026-10-13T13:37:35.005270+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4d.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.4d.grk/chat.md) |
 | [research.4y.image](../../../../../../agents/bbugyi200.athena.research.4y.image/README.md) | active | gpt-6-astra / codex | 2026-10-19T12:53:42.019802+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4y.image/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.4y.image/chat.md) |
 | [research.3w.cdx](../../../../../../agents/bbugyi200.athena.research.3w.cdx/README.md) | active | gpt-6.1-sol / codex | 2026-10-07T10:37:07.435716+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.3w.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.3w.cdx/chat.md) |
+| [research.55.linker.w2](../../../../../../agents/bbugyi200.athena.research.55.linker.w2/README.md) | active | opus / claude | 2026-10-23T11:33:55.895549+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.55.linker.w2/prompt.md) |
 | [research.53.grk](../../../../../../agents/bbugyi200.athena.research.53.grk/README.md) | active | grok-4.6 / grok | 2026-10-20T10:53:48.415982+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.53.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.53.grk/chat.md) |
 | [research.4r.linker.w0--mon](../../../../../../sessions/bbugyi200.athena.research.4r.linker.w0.md#member-mon) | failed | opus / claude | 2026-10-17T23:29:12.737798+00:00 → 2026-10-17T23:31:55.790246+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.4r.linker.w0--mon/chat.md) |
 | [research.final-5](../../../../../../agents/bbugyi200.athena.research.final-5/README.md) | completed | — | 2026-06-03T20:22:25+00:00 → 2026-06-03T20:22:25+00:00 | 1 | — |

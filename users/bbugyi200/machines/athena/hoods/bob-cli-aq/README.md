@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-aq
 
-**Global hood:** `bbugyi200.athena.bob-cli-aq` · **Runs:** 7 · **Sessions:** 1 · **States:** active 1, completed 2, failed 1, waiting 3
+**Global hood:** `bbugyi200.athena.bob-cli-aq` · **Runs:** 7 · **Sessions:** 1 · **States:** active 1, completed 3, failed 1, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -11,5 +11,5 @@
 | [bob-cli-aq.land](../../../../../../agents/bbugyi200.athena.bob-cli-aq.land/README.md) | waiting | gpt-6-astra / codex | 20261023063611 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-aq.land/prompt.md) |
 | [bob-cli-aq.4](../../../../../../agents/bbugyi200.athena.bob-cli-aq.4/README.md) | waiting | gpt-6-luna / codex | 20261023063610 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-aq.4/prompt.md) |
 | [bob-cli-aq.1--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-aq.1.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-23T10:59:58.323010+00:00 → 2026-10-23T11:02:05.068074+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-aq.1--mon/chat.md) |
-| [bob-cli-aq.3](../../../../../../agents/bbugyi200.athena.bob-cli-aq.3/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261023063609 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-aq.3/prompt.md) |
-| [bob-cli-aq.2](../../../../../../agents/bbugyi200.athena.bob-cli-aq.2/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-23T11:16:16.164725+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-aq.2/prompt.md) |
+| [bob-cli-aq.3](../../../../../../agents/bbugyi200.athena.bob-cli-aq.3/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-23T11:32:19.267628+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-aq.3/prompt.md) |
+| [bob-cli-aq.2](../../../../../../agents/bbugyi200.athena.bob-cli-aq.2/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-23T11:16:16.164725+00:00 → 2026-10-23T11:31:48.334261+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-aq.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-aq.2/chat.md) |
