@@ -41,10 +41,10 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.55.cdx](../bbugyi200.athena.research.55.cdx/README.md) | research.55 hood | completed |
-| [research.55.final](../bbugyi200.athena.research.55.final/README.md) | research.55 hood | active |
+| [research.55.final](../bbugyi200.athena.research.55.final/README.md) | research.55 hood | completed |
 | [research.55.gem](../bbugyi200.athena.research.55.gem/README.md) | research.55 hood | completed |
 | [research.55.grk](../bbugyi200.athena.research.55.grk/README.md) | research.55 hood | completed |
-| [research.55.image](../bbugyi200.athena.research.55.image/README.md) | research.55 hood | waiting |
+| [research.55.image](../bbugyi200.athena.research.55.image/README.md) | research.55 hood | active |
 | [research.55.linker](../bbugyi200.athena.research.55.linker/README.md) | research.55 hood | waiting |
 | [research.55.mus](../bbugyi200.athena.research.55.mus/README.md) | research.55 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |

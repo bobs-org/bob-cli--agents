@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.55.image
 
-**Global name:** `bbugyi200.athena.research.55.image` · **State:** waiting · **Source run:** `run-29e786f402976d0201698eb514848e96`
+**Global name:** `bbugyi200.athena.research.55.image` · **State:** active · **Source run:** `run-29e786f402976d0201698eb514848e96`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261023063022
+- Timing: 2026-10-23T11:06:13.566591+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202610/rotten\_log\_keep\_history/rotten\_log\_keep\_history\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261023063022/rotten\_log\_keep\_histor… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202610/rotten_log_keep_history/rotten_log_keep_history_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023063022/rotten_log_keep_history_infographic-3513bb54af41.png
+  ref: file:explicit:f76e707dd8187e1c889bc41e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/rotten_log_keep_history/rotten_log_keep_history_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.55.cdx](../bbugyi200.athena.research.55.cdx/README.md) | research.55 hood | completed |
 | [research.55.cld](../bbugyi200.athena.research.55.cld/README.md) | research.55 hood | completed |
-| [research.55.final](../bbugyi200.athena.research.55.final/README.md) | research.55 hood | active |
+| [research.55.final](../bbugyi200.athena.research.55.final/README.md) | research.55 hood | completed |
 | [research.55.gem](../bbugyi200.athena.research.55.gem/README.md) | research.55 hood | completed |
 | [research.55.grk](../bbugyi200.athena.research.55.grk/README.md) | research.55 hood | completed |
 | [research.55.linker](../bbugyi200.athena.research.55.linker/README.md) | research.55 hood | waiting |
