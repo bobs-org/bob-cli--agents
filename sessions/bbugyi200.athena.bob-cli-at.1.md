@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-at.1--mon | failed | gpt-6-astra / codex | 2026-10-23T16:30:42.738334+00:00 → 2026-10-23T16:37:47.144305+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-at.1--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-at.1--1 | active | gpt-6-astra / codex | 20261023123647 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-at.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-at.1--1 | active | gpt-6-astra / codex | 2026-10-23T16:38:39.959086+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-at.1--1/prompt.md) | — |
 | <a id="member-plan"></a>plan | bob-cli-at.1--plan | completed | gpt-6-astra / codex | 2026-10-23T16:17:38.319911+00:00 → 2026-10-23T16:31:16.346245+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-at.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-at.1--plan/chat.md) |
 
 ## Neighbors
