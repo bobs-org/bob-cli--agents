@@ -21,6 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.56.linker.w0](../bbugyi200.athena.research.56.linker.w0/README.md) | descendant | waiting |
 | [research.56.cdx](../bbugyi200.athena.research.56.cdx/README.md) | research.56 hood | completed |
 | [research.56.cld](../bbugyi200.athena.research.56.cld/README.md) | research.56 hood | completed |
 | [research.56.final](../bbugyi200.athena.research.56.final/README.md) | research.56 hood | active |

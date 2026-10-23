@@ -47,6 +47,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.56.grk](../bbugyi200.athena.research.56.grk/README.md) | research.56 hood | completed |
 | [research.56.image](../bbugyi200.athena.research.56.image/README.md) | research.56 hood | waiting |
 | [research.56.linker](../bbugyi200.athena.research.56.linker/README.md) | research.56 hood | waiting |
+| [research.56.linker.w0](../bbugyi200.athena.research.56.linker.w0/README.md) | research.56 hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
