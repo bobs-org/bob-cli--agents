@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / [bob-cli-an.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.3.md) / bob-cli-an.6.3--1
 
-**Global name:** `bbugyi200.athena.bob-cli-an.6.3--1` · **State:** active · **Source run:** `run-55df41424d68c3933b66144ebd51c80e`
+**Global name:** `bbugyi200.athena.bob-cli-an.6.3--1` · **State:** completed · **Source run:** `run-55df41424d68c3933b66144ebd51c80e`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-an.6.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.3.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-23T17:41:18.325671+00:00
+- Timing: 2026-10-23T17:41:18.325671+00:00 → 2026-10-23T17:48:03.382810+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -24,7 +24,7 @@
 |---|---|---|
 | [bob-cli-an.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.1.md) (session · 3) | bob-cli-an.6 hood | active 1, completed 1, failed 1 |
 | [bob-cli-an.6.2](../bbugyi200.athena.bob-cli-an.6.2/README.md) | bob-cli-an.6 hood | waiting |
-| [bob-cli-an.6.4](../bbugyi200.athena.bob-cli-an.6.4/README.md) | bob-cli-an.6 hood | waiting |
+| [bob-cli-an.6.4](../bbugyi200.athena.bob-cli-an.6.4/README.md) | bob-cli-an.6 hood | active |
 | [bob-cli-an.6.5](../../sessions/bbugyi200.athena.bob-cli-an.6.5.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.land](../bbugyi200.athena.bob-cli-an.6.land/README.md) | bob-cli-an.6 hood | waiting |
 | [bob-cli-an.1](../../sessions/bbugyi200.athena.bob-cli-an.1.md) (session · 7) | bob-cli-an hood | completed 4, failed 3 |

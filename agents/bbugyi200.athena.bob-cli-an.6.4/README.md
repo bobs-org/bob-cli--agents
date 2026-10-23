@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / bob-cli-an.6.4
 
-**Global name:** `bbugyi200.athena.bob-cli-an.6.4` · **State:** waiting · **Source run:** `run-3bb94e917929a9ebe2341fba22bd26e4`
+**Global name:** `bbugyi200.athena.bob-cli-an.6.4` · **State:** active · **Source run:** `run-3bb94e917929a9ebe2341fba22bd26e4`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-an.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261023124232
+- Timing: 2026-10-23T17:49:17.244251+00:00
 - Commits: 0
 
 ## Files
@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-an.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.1.md) (session · 3) | bob-cli-an.6 hood | active 1, completed 1, failed 1 |
 | [bob-cli-an.6.2](../bbugyi200.athena.bob-cli-an.6.2/README.md) | bob-cli-an.6 hood | waiting |
-| [bob-cli-an.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.3.md) (session · 3) | bob-cli-an.6 hood | active 1, completed 1, failed 1 |
+| [bob-cli-an.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.3.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.5](../../sessions/bbugyi200.athena.bob-cli-an.6.5.md) (session · 3) | bob-cli-an.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.land](../bbugyi200.athena.bob-cli-an.6.land/README.md) | bob-cli-an.6 hood | waiting |
 | [bob-cli-an.1](../../sessions/bbugyi200.athena.bob-cli-an.1.md) (session · 7) | bob-cli-an hood | completed 4, failed 3 |
