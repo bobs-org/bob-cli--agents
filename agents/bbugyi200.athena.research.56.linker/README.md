@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.56.linker
 
-**Global name:** `bbugyi200.athena.research.56.linker` · **State:** waiting · **Source run:** `run-cd6ae6fb05b54bc0c8c3870c63b19052`
+**Global name:** `bbugyi200.athena.research.56.linker` · **State:** active · **Source run:** `run-cd6ae6fb05b54bc0c8c3870c63b19052`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261023094824
+- Timing: 2026-10-23T15:05:15.978188+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/highlights\_open\_pdf\_coordinated\_marker\_writes/highlights\_open\_pdf\_coordinated\_marker\_writes.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/highlights_open_pdf_coordinated_marker_writes/highlights_open_pdf_coordinated_marker_writes.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023094824/highlights_open_pdf_coordinated_marker_writes-b22578ef14b0.md
+  ref: file:explicit:05a6c88fd4bd336239480eaf
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/highlights_open_pdf_coordinated_marker_writes/highlights_open_pdf_coordinated_marker_writes.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
