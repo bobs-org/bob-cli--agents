@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / bob-cli-an.land
 
-**Global name:** `bbugyi200.athena.bob-cli-an.land` · **State:** waiting · **Source run:** `run-fd727d312dc6da597831b8e486dbba77`
+**Global name:** `bbugyi200.athena.bob-cli-an.land` · **State:** active · **Source run:** `run-fd727d312dc6da597831b8e486dbba77`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-an](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261021125943
-- Commits: 0
+- Timing: 2026-10-23T16:05:52.593093+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e860379`](https://github.com/bobs-org/bob-cli/commit/e860379a3561eaa400275365ce6788226388aaf9) | docs(vault-sync): justify the gkeep migrate-tasks receipt exclusion | 2026-10-23 12:37:43 EDT |
 
 ## Neighbors
 
