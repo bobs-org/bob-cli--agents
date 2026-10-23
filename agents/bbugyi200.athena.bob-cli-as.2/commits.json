@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f78a9dfbf4c0132701a244de35b54d38"}
+{"commits":[{"committed_at":1792759836,"sha":"5eed7df96a7ce1ca2d07d13c9859e434c34a73ec","subject":"feat(managed-log): register Rotten Log kind with agenda and snapshot support"}],"schema_version":2,"source_run_id":"run-f78a9dfbf4c0132701a244de35b54d38"}
