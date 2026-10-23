@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 13h--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-13h__plan-261023_163005.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-13h__code-261023_163005.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/fix_mac_capture_scan_receipt_build.md
 
 

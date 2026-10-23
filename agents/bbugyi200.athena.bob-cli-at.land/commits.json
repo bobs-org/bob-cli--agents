@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0ad2b9c29a57020142785a87bf587a01"}
+{"commits":[{"committed_at":1792788733,"sha":"7e3bdb2e25285d788d82975dcf7958ffabb17ae7","subject":"fix(highlights): make the coordination acceptance self-test run without pandoc"}],"schema_version":2,"source_run_id":"run-0ad2b9c29a57020142785a87bf587a01"}
