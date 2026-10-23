@@ -12,7 +12,13 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-23T10:53:49.205413+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`510c8a4`](https://github.com/bobs-org/bob-cli/commit/510c8a4425ca8ff267f3852133f86e1cf64c5cec) | fix(highlights-ref): harden legacy migration coverage and grouping docs | 2026-10-23 07:19:04 EDT |
 
 ## Neighbors
 

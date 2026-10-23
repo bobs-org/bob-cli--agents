@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-ap.land--plan | active | gpt-6-astra / codex | 2026-10-23T10:39:30.534644+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ap.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ap.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-ap.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-23T10:53:49.205413+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-ap.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-23T10:53:49.205413+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ap.land--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-ap.land--gate | failed | gpt-6-astra / codex | 2026-10-23T10:52:53.110844+00:00 → 2026-10-23T10:53:21.593554+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ap.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`510c8a4`](https://github.com/bobs-org/bob-cli/commit/510c8a4425ca8ff267f3852133f86e1cf64c5cec) | fix(highlights-ref): harden legacy migration coverage and grouping docs | 2026-10-23 07:19:04 EDT |
 
 ## Neighbors
 
