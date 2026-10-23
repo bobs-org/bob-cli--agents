@@ -12,7 +12,7 @@
 - Provider: codex
 - Timing: 2026-10-23T11:06:13.566591+00:00
 - Commits: 0
-- Variables: [1](#variables)
+- Variables: [2](#variables)
 
 ## Files
 
@@ -23,6 +23,7 @@
 | Variable | Value |
 |---|---|
 | `artifacts` | \[{kind: image, label: image:202610/rotten\_log\_keep\_history/rotten\_log\_keep\_history\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261023063022/rotten\_log\_keep\_histor… |
+| `diagrams` | {considered: 17, count: 1, manifest: 202610/rotten\_log\_keep\_history/rotten\_log\_keep\_history.diagrams.md, source\_ref: file:explicit:62b3587507e6da671fb2160e, status: ready} |
 
 #### artifacts
 
@@ -32,6 +33,21 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023063022/rotten_log_keep_history_infographic-3513bb54af41.png
   ref: file:explicit:f76e707dd8187e1c889bc41e
   source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/rotten_log_keep_history/rotten_log_keep_history_infographic.png
+- kind: markdown
+  label: diagrams:202610/rotten_log_keep_history/rotten_log_keep_history.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023063022/rotten_log_keep_history.diagrams-8cc69f4f4d9b.md
+  ref: file:explicit:22772c9467f202184a5b0ebb
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/rotten_log_keep_history/rotten_log_keep_history.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 17
+count: 1
+manifest: 202610/rotten_log_keep_history/rotten_log_keep_history.diagrams.md
+source_ref: file:explicit:62b3587507e6da671fb2160e
+status: ready
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
