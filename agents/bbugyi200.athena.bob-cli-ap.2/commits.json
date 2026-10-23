@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e10ae3d1fd232ce726bfe24de0d6fdd5"}
+{"commits":[{"committed_at":1792750581,"sha":"f2c24531b5796878af1bff47d984bccababec6bf","subject":"feat(ref): expose annotation group pieces with seams in show"}],"schema_version":2,"source_run_id":"run-e10ae3d1fd232ce726bfe24de0d6fdd5"}
