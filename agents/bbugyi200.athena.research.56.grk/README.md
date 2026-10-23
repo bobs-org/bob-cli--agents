@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 2026-10-23T13:52:29.802769+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/ref\_scan\_open\_highlights\_pdf\_conflicts/ref\_scan\_open\_highlights\_pdf\_conflicts\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/202610230… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/ref_scan_open_highlights_pdf_conflicts/ref_scan_open_highlights_pdf_conflicts__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023094819/ref_scan_open_highlights_pdf_conflicts__grk-679a636309b2.md
+  ref: file:explicit:bd448a472e750bf9418b85a9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202610/ref_scan_open_highlights_pdf_conflicts/ref_scan_open_highlights_pdf_conflicts__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.56.gem](../bbugyi200.athena.research.56.gem/README.md) | research.56 hood | active |
 | [research.56.image](../bbugyi200.athena.research.56.image/README.md) | research.56 hood | waiting |
 | [research.56.linker](../bbugyi200.athena.research.56.linker/README.md) | research.56 hood | waiting |
-| [research.56.mus](../bbugyi200.athena.research.56.mus/README.md) | research.56 hood | active |
+| [research.56.mus](../bbugyi200.athena.research.56.mus/README.md) | research.56 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
