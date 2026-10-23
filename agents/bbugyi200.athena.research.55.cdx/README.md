@@ -32,6 +32,11 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023063016/rotten-log-cdx-test-repro-216db79d34a2.tap
   ref: file:explicit:4ad894f8d3cfa300fad12869
   source_path: /tmp/rotten-log-cdx-test-repro.tap
+- kind: markdown
+  label: research:202610/rotten_refresh_history_and_optional_reasons__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023063016/rotten_refresh_history_and_optional_reasons__cdx-ebaea16a8e49.md
+  ref: file:explicit:437d4cca5379ea90e09a5076
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/rotten_refresh_history_and_optional_reasons__cdx.md
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
@@ -46,7 +51,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.55.grk](../bbugyi200.athena.research.55.grk/README.md) | research.55 hood | active |
 | [research.55.image](../bbugyi200.athena.research.55.image/README.md) | research.55 hood | waiting |
 | [research.55.linker](../bbugyi200.athena.research.55.linker/README.md) | research.55 hood | waiting |
-| [research.55.mus](../bbugyi200.athena.research.55.mus/README.md) | research.55 hood | active |
+| [research.55.mus](../bbugyi200.athena.research.55.mus/README.md) | research.55 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
