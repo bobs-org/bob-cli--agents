@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["bob-cli-aq.land--mon [failed]"]
   n0 --> n2
-  n3["bob-cli-aq.land--1 [active]"]
+  n3["bob-cli-aq.land--1 [completed]"]
   n0 --> n3
   n4["bob-cli-aq.land--code [completed]"]
   n0 --> n4
@@ -26,7 +26,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | bob-cli-aq.land--plan | completed | gpt-6-astra / codex | 2026-10-23T11:55:13.968351+00:00 → 2026-10-23T12:20:12.752052+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-aq.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-aq.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-aq.land--gate | failed | gpt-6-astra / codex | 2026-10-23T12:12:10.906280+00:00 → 2026-10-23T12:12:38.752203+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-aq.land--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-aq.land--mon | failed | gpt-6-luna / codex | 2026-10-23T12:19:25.614353+00:00 → 2026-10-23T12:21:32.733622+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-aq.land--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-aq.land--1 | active | gpt-6-luna / codex | 2026-10-23T12:22:17.347271+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-aq.land--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-aq.land--1 | completed | gpt-6-luna / codex | 2026-10-23T12:22:17.347271+00:00 → 2026-10-23T12:37:21.540953+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-aq.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-aq.land--1/chat.md) |
 | <a id="member-code"></a>code | bob-cli-aq.land--code | completed | gpt-6-luna / codex | 2026-10-23T12:13:00.961053+00:00 → 2026-10-23T12:20:12.752052+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-aq.land--code/chat.md) |
 
 ## Variables
