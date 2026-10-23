@@ -12,19 +12,38 @@
 - Provider: claude
 - Timing: 2026-10-23T10:31:52.163004+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/rotten\_log\_keep\_audit\_trail\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261023063017/rotten\_log\_keep\_audit\_trail\_\_cld-fae826451a8… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/rotten_log_keep_audit_trail__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261023063017/rotten_log_keep_audit_trail__cld-fae826451a87.md
+  ref: file:explicit:b53cbcfc6fa7013251261c25
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/rotten_log_keep_audit_trail__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.55.cdx](../bbugyi200.athena.research.55.cdx/README.md) | research.55 hood | active |
+| [research.55.cdx](../bbugyi200.athena.research.55.cdx/README.md) | research.55 hood | completed |
 | [research.55.final](../bbugyi200.athena.research.55.final/README.md) | research.55 hood | waiting |
-| [research.55.gem](../bbugyi200.athena.research.55.gem/README.md) | research.55 hood | active |
-| [research.55.grk](../bbugyi200.athena.research.55.grk/README.md) | research.55 hood | active |
+| [research.55.gem](../bbugyi200.athena.research.55.gem/README.md) | research.55 hood | completed |
+| [research.55.grk](../bbugyi200.athena.research.55.grk/README.md) | research.55 hood | completed |
 | [research.55.image](../bbugyi200.athena.research.55.image/README.md) | research.55 hood | waiting |
 | [research.55.linker](../bbugyi200.athena.research.55.linker/README.md) | research.55 hood | waiting |
 | [research.55.mus](../bbugyi200.athena.research.55.mus/README.md) | research.55 hood | completed |
