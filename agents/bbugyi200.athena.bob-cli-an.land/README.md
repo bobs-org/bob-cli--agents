@@ -2,21 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / bob-cli-an.land
 
-**Global name:** `bbugyi200.athena.bob-cli-an.land` · **State:** active · **Source run:** `run-fd727d312dc6da597831b8e486dbba77`
+**Global name:** `bbugyi200.athena.bob-cli-an.land` · **State:** completed · **Source run:** `run-e14d57fc3d7b91afc3ad3f67bca94505`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
 ## Summary
 
 - Bead: [bob-cli-an](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/README.md)
-- Model: opus
-- Provider: claude
-- Timing: 2026-10-23T16:05:52.593093+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-10-23T16:37:43+00:00 → 2026-10-23T16:37:43+00:00
 - Commits: [1](#commits)
-
-## Files
-
-[Prompt](prompt.md)
 
 ## Commits
 
@@ -33,3 +29,9 @@
 | [bob-cli-an.3](../../sessions/bbugyi200.athena.bob-cli-an.3.md) (session · 6) | bob-cli-an hood | completed 3, failed 3 |
 | [bob-cli-an.4](../bbugyi200.athena.bob-cli-an.4/README.md) | bob-cli-an hood | completed |
 | [bob-cli-an.5](../bbugyi200.athena.bob-cli-an.5/README.md) | bob-cli-an hood | completed |
+| [bob-cli-an.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.1.md) (session · 3) | bob-cli-an hood | active 1, completed 1, failed 1 |
+| [bob-cli-an.6.2](../bbugyi200.athena.bob-cli-an.6.2/README.md) | bob-cli-an hood | waiting |
+| [bob-cli-an.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.3.md) (session · 3) | bob-cli-an hood | active 1, completed 1, failed 1 |
+| [bob-cli-an.6.4](../bbugyi200.athena.bob-cli-an.6.4/README.md) | bob-cli-an hood | waiting |
+| [bob-cli-an.6.5](../../sessions/bbugyi200.athena.bob-cli-an.6.5.md) (session · 3) | bob-cli-an hood | completed 2, failed 1 |
+| [bob-cli-an.6.land](../bbugyi200.athena.bob-cli-an.6.land/README.md) | bob-cli-an hood | waiting |
