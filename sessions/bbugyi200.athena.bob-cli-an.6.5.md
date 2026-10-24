@@ -50,7 +50,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-an.6.6.6.5.2](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.2/README.md) | bob-cli-an.6 hood | waiting |
 | [bob-cli-an.6.6.6.5.3](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.3/README.md) | bob-cli-an.6 hood | active |
 | [bob-cli-an.6.6.6.5.4](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.4/README.md) | bob-cli-an.6 hood | active |
-| [bob-cli-an.6.6.6.5.5](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.5/README.md) | bob-cli-an.6 hood | waiting |
+| [bob-cli-an.6.6.6.5.5](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.5/README.md) | bob-cli-an.6 hood | active |
 | [bob-cli-an.6.6.6.5.land](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.land/README.md) | bob-cli-an.6 hood | waiting |
 | [bob-cli-an.6.6.6.land](bbugyi200.athena.bob-cli-an.6.6.6.land.md) (session · 5) | bob-cli-an.6 hood | failed 5 |
 | [bob-cli-an.6.6.land](bbugyi200.athena.bob-cli-an.6.6.land.md) (session · 3) | bob-cli-an.6 hood | failed 3 |

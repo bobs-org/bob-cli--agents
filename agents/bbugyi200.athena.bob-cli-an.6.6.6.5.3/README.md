@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-24T11:39:41.510159+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`adb9c32`](https://github.com/bobs-org/bob-cli/commit/adb9c324364b0a383d4f71bb25f5b3c86c4dfaab) | fix(capture): reuse completed multi-word pomodoro names without forking spelling | 2026-10-24 08:05:23 EDT |
 
 ## Neighbors
 
@@ -26,7 +32,7 @@
 | [bob-cli-an.6.6.6.5.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.1/README.md) | bob-cli-an.6.6.6.5 hood | active |
 | [bob-cli-an.6.6.6.5.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.2/README.md) | bob-cli-an.6.6.6.5 hood | waiting |
 | [bob-cli-an.6.6.6.5.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.4/README.md) | bob-cli-an.6.6.6.5 hood | active |
-| [bob-cli-an.6.6.6.5.5](../bbugyi200.athena.bob-cli-an.6.6.6.5.5/README.md) | bob-cli-an.6.6.6.5 hood | waiting |
+| [bob-cli-an.6.6.6.5.5](../bbugyi200.athena.bob-cli-an.6.6.6.5.5/README.md) | bob-cli-an.6.6.6.5 hood | active |
 | [bob-cli-an.6.6.6.5.land](../bbugyi200.athena.bob-cli-an.6.6.6.5.land/README.md) | bob-cli-an.6.6.6.5 hood | waiting |
 | [bob-cli-an.6.6.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.1.md) (session · 3) | bob-cli-an.6.6.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.2.md) (session · 3) | bob-cli-an.6.6.6 hood | completed 2, failed 1 |
