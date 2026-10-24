@@ -13,19 +13,25 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-24T16:34:51.588906+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f2524e8`](https://github.com/bobs-org/bob-cli/commit/f2524e8053471e73421aaf75430a03bd0cd485e9) | fix(highlights-ref): normalize URL identity escapes for shared dedupe key | 2026-10-24 12:55:53 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-an.6.6.6.5.6.5.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.2/README.md) | bob-cli-an.6.6.6.5.6.5 hood | active |
-| [bob-cli-an.6.6.6.5.6.5.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.3.md) (session · 3) | bob-cli-an.6.6.6.5.6.5 hood | completed 1, failed 1, waiting 1 |
-| [bob-cli-an.6.6.6.5.6.5.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.4/README.md) | bob-cli-an.6.6.6.5.6.5 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.2/README.md) | bob-cli-an.6.6.6.5.6.5 hood | completed |
+| [bob-cli-an.6.6.6.5.6.5.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.3.md) (session · 4) | bob-cli-an.6.6.6.5.6.5 hood | active 1, completed 2, failed 1 |
+| [bob-cli-an.6.6.6.5.6.5.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.4/README.md) | bob-cli-an.6.6.6.5.6.5 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.land](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.land/README.md) | bob-cli-an.6.6.6.5.6.5 hood | waiting |
 | [bob-cli-an.6.6.6.5.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.1/README.md) | bob-cli-an.6.6.6.5.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.2.md) (session · 3) | bob-cli-an.6.6.6.5.6 hood | completed 2, failed 1 |
