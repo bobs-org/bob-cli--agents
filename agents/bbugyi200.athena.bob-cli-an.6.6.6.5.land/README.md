@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-10-24T12:54:39.780293+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8ba5f8d`](https://github.com/bobs-org/bob-cli/commit/8ba5f8d78347698df9667ac9dfd186ace1275a05) | test: cover reconcile completed-fallback dedupe and drop live-vault sidecar test | 2026-10-24 09:30:10 EDT |
 
 ## Neighbors
 

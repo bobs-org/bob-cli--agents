@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 13n.w0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-13n_w0__plan-261024_075204.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-13n_w0__code-261024_075204.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/free_ctrl_shift_alt_l_from_amethyst.md
 
 
