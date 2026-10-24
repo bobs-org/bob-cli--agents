@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / bob-cli-an.6.6.land
 
-**Global name:** `bbugyi200.athena.bob-cli-an.6.6.land` · **State:** active · **Source run:** `run-45148913205e961ff8920eac34c3f528`
+**Global name:** `bbugyi200.athena.bob-cli-an.6.6.land` · **State:** completed · **Source run:** `run-63fa4e1909dd4a522858757d58c24544`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
 ## Summary
 
 - Bead: [bob-cli-an.6.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.6.md)
-- Model: opus
-- Provider: claude
-- Timing: 2026-10-24T07:56:42.252154+00:00
+- Model: —
+- Provider: —
+- Timing: 2026-10-24T08:28:14+00:00 → 2026-10-24T09:24:47+00:00
 - Commits: [3](#commits)
 
 ## Files
@@ -35,6 +35,11 @@
 | [bob-cli-an.6.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.3.md) (session · 5) | bob-cli-an.6.6 hood | completed 3, failed 2 |
 | [bob-cli-an.6.6.4](../bbugyi200.athena.bob-cli-an.6.6.4/README.md) | bob-cli-an.6.6 hood | completed |
 | [bob-cli-an.6.6.5](../bbugyi200.athena.bob-cli-an.6.6.5/README.md) | bob-cli-an.6.6 hood | completed |
+| [bob-cli-an.6.6.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.1.md) (session · 3) | bob-cli-an.6.6 hood | active 1, completed 1, failed 1 |
+| [bob-cli-an.6.6.6.2](../bbugyi200.athena.bob-cli-an.6.6.6.2/README.md) | bob-cli-an.6.6 hood | active |
+| [bob-cli-an.6.6.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.3.md) (session · 3) | bob-cli-an.6.6 hood | completed 1, failed 1, waiting 1 |
+| [bob-cli-an.6.6.6.4](../bbugyi200.athena.bob-cli-an.6.6.6.4/README.md) | bob-cli-an.6.6 hood | active |
+| [bob-cli-an.6.6.6.land](../bbugyi200.athena.bob-cli-an.6.6.6.land/README.md) | bob-cli-an.6.6 hood | waiting |
 | [bob-cli-an.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.1.md) (session · 3) | bob-cli-an.6 hood | active 3 |
 | [bob-cli-an.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.2.md) (session · 7) | bob-cli-an.6 hood | active 7 |
 | [bob-cli-an.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.3.md) (session · 3) | bob-cli-an.6 hood | active 3 |

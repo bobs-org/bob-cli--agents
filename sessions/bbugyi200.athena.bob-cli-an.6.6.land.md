@@ -1,0 +1,60 @@
+# Session: bob-cli-an.6.6.land
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / bob-cli-an.6.6.land
+
+Owner: `bbugyi200.athena` · Hood: `bob-cli-an` · Members: 3 · Bead: [bob-cli-an.6.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.6.md)
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["bob-cli-an.6.6.land--mon [failed]"]
+  n1["bob-cli-an.6.6.land--plan [failed]"]
+  n0 --> n1
+  n2["bob-cli-an.6.6.land--gate [failed]"]
+  n0 --> n2
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-mon"></a>mon | bob-cli-an.6.6.land--mon | failed | opus / claude | 2026-10-24T09:39:18.019339+00:00 → 2026-10-24T09:42:40.039685+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.land--mon/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-an.6.6.land--plan | failed | opus / claude | 2026-10-24T07:56:42.252154+00:00 → 2026-10-24T09:39:26.645022+00:00 | [3](../agents/bbugyi200.athena.bob-cli-an.6.6.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.land--plan/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-an.6.6.land--gate | failed | opus / claude | 2026-10-24T09:38:41.834158+00:00 → 2026-10-24T09:39:18.604512+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| plan | bob-cli | [`339578c`](https://github.com/bobs-org/bob-cli/commit/339578cbe833e0a62f53cfa70fc4e2f4d7fc4d08) | fix(time): date ref captures and Keep notes in the configured day timezone | 2026-10-24 04:28:14 EDT |
+| plan | bob-cli | [`0544315`](https://github.com/bobs-org/bob-cli/commit/05443159b9198948e253b0f3d21c7817ea067591) | fix(time): run a DATE clock command in the configured timezone | 2026-10-24 04:39:12 EDT |
+| plan | bob-cli | [`c7e0dab`](https://github.com/bobs-org/bob-cli/commit/c7e0dab6903008ef80a979980446503761bb38cb) | fix(ref): keep the library spelling for PDFs reached through a symlink | 2026-10-24 05:24:47 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-an.6.6.1](../agents/bbugyi200.athena.bob-cli-an.6.6.1/README.md) | bob-cli-an.6.6 hood | completed |
+| [bob-cli-an.6.6.2](bbugyi200.athena.bob-cli-an.6.6.2.md) (session · 3) | bob-cli-an.6.6 hood | completed 2, failed 1 |
+| [bob-cli-an.6.6.3](bbugyi200.athena.bob-cli-an.6.6.3.md) (session · 5) | bob-cli-an.6.6 hood | completed 3, failed 2 |
+| [bob-cli-an.6.6.4](../agents/bbugyi200.athena.bob-cli-an.6.6.4/README.md) | bob-cli-an.6.6 hood | completed |
+| [bob-cli-an.6.6.5](../agents/bbugyi200.athena.bob-cli-an.6.6.5/README.md) | bob-cli-an.6.6 hood | completed |
+| [bob-cli-an.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.1.md) (session · 3) | bob-cli-an.6.6 hood | active 1, completed 1, failed 1 |
+| [bob-cli-an.6.6.6.2](../agents/bbugyi200.athena.bob-cli-an.6.6.6.2/README.md) | bob-cli-an.6.6 hood | active |
+| [bob-cli-an.6.6.6.3](bbugyi200.athena.bob-cli-an.6.6.6.3.md) (session · 3) | bob-cli-an.6.6 hood | completed 1, failed 1, waiting 1 |
+| [bob-cli-an.6.6.6.4](../agents/bbugyi200.athena.bob-cli-an.6.6.6.4/README.md) | bob-cli-an.6.6 hood | active |
+| [bob-cli-an.6.6.6.land](../agents/bbugyi200.athena.bob-cli-an.6.6.6.land/README.md) | bob-cli-an.6.6 hood | waiting |
+| [bob-cli-an.6.1](bbugyi200.athena.bob-cli-an.6.1.md) (session · 3) | bob-cli-an.6 hood | active 3 |
+| [bob-cli-an.6.2](bbugyi200.athena.bob-cli-an.6.2.md) (session · 7) | bob-cli-an.6 hood | active 7 |
+| [bob-cli-an.6.3](bbugyi200.athena.bob-cli-an.6.3.md) (session · 3) | bob-cli-an.6 hood | active 3 |
+| [bob-cli-an.6.4](bbugyi200.athena.bob-cli-an.6.4.md) (session · 3) | bob-cli-an.6 hood | active 3 |
+| [bob-cli-an.6.5](bbugyi200.athena.bob-cli-an.6.5.md) (session · 3) | bob-cli-an.6 hood | active 3 |
+| [bob-cli-an.6.land](bbugyi200.athena.bob-cli-an.6.land.md) (session · 3) | bob-cli-an.6 hood | active 3 |
+| [bob-cli-an.1](bbugyi200.athena.bob-cli-an.1.md) (session · 7) | bob-cli-an hood | active 7 |
+| [bob-cli-an.2](bbugyi200.athena.bob-cli-an.2.md) (session · 7) | bob-cli-an hood | active 7 |
+| [bob-cli-an.3](bbugyi200.athena.bob-cli-an.3.md) (session · 6) | bob-cli-an hood | active 3, completed 1, failed 2 |
+| [bob-cli-an.4](../agents/bbugyi200.athena.bob-cli-an.4/README.md) | bob-cli-an hood | active |
+| [bob-cli-an.5](../agents/bbugyi200.athena.bob-cli-an.5/README.md) | bob-cli-an hood | active |
+| [bob-cli-an.land](bbugyi200.athena.bob-cli-an.land.md) (session · 3) | bob-cli-an hood | active 3 |
+| [bob-cli-an.land](../agents/bbugyi200.athena.bob-cli-an.land/README.md) | bob-cli-an hood | completed |
