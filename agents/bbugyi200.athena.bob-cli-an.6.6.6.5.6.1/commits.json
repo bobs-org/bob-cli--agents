@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f183e4ba49cc8331f59f496784f8d381"}
+{"commits":[{"committed_at":1792851634,"sha":"5d1f8ecca3a389332348fd8e3d637eb9c9d466a5","subject":"fix(highlights-ref): keep hard-wrapped quote lines inside color-grouped highlights"}],"schema_version":2,"source_run_id":"run-f183e4ba49cc8331f59f496784f8d381"}
