@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-an` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-an.6.6.6.2--plan [completed]"]
-  n1["bob-cli-an.6.6.6.2--1 [active]"]
+  n1["bob-cli-an.6.6.6.2--1 [completed]"]
   n0 --> n1
   n2["bob-cli-an.6.6.6.2--mon [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-an.6.6.6.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-24T09:42:12.795002+00:00 → 2026-10-24T10:19:37.673438+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.2--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-an.6.6.6.2--1 | active | muse-spark-1.3-contributor / muse | 2026-10-24T10:25:00.004940+00:00 | [1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-an.6.6.6.2--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-24T10:25:00.004940+00:00 → 2026-10-24T10:29:31.050357+00:00 | [1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.2--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-an.6.6.6.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-24T10:18:02.533556+00:00 → 2026-10-24T10:24:06.865487+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.2--mon/chat.md) |
 
 ## Commits
@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-an.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.1.md) (session · 3) | bob-cli-an.6.6.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.6.6.3](bbugyi200.athena.bob-cli-an.6.6.6.3.md) (session · 3) | bob-cli-an.6.6.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.6.6.4](../agents/bbugyi200.athena.bob-cli-an.6.6.6.4/README.md) | bob-cli-an.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.land](../agents/bbugyi200.athena.bob-cli-an.6.6.6.land/README.md) | bob-cli-an.6.6.6 hood | waiting |
+| [bob-cli-an.6.6.6.land](bbugyi200.athena.bob-cli-an.6.6.6.land.md) (session · 3) | bob-cli-an.6.6.6 hood | active 2, failed 1 |
 | [bob-cli-an.6.6.1](../agents/bbugyi200.athena.bob-cli-an.6.6.1/README.md) | bob-cli-an.6.6 hood | completed |
 | [bob-cli-an.6.6.2](bbugyi200.athena.bob-cli-an.6.6.2.md) (session · 3) | bob-cli-an.6.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.6.3](bbugyi200.athena.bob-cli-an.6.6.3.md) (session · 5) | bob-cli-an.6.6 hood | completed 3, failed 2 |
