@@ -40,7 +40,7 @@
 | [bob-cli-an.6.6.6.5.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.1/README.md) | bob-cli-an.6.6 hood | active |
 | [bob-cli-an.6.6.6.5.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.2/README.md) | bob-cli-an.6.6 hood | waiting |
 | [bob-cli-an.6.6.6.5.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.3/README.md) | bob-cli-an.6.6 hood | active |
-| [bob-cli-an.6.6.6.5.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.4/README.md) | bob-cli-an.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.4/README.md) | bob-cli-an.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.5](../bbugyi200.athena.bob-cli-an.6.6.6.5.5/README.md) | bob-cli-an.6.6 hood | active |
 | [bob-cli-an.6.6.6.5.land](../bbugyi200.athena.bob-cli-an.6.6.6.5.land/README.md) | bob-cli-an.6.6 hood | waiting |
 | [bob-cli-an.6.6.6.land](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.land.md) (session · 5) | bob-cli-an.6.6 hood | failed 5 |
