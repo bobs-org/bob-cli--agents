@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b009fed0a8100fcb483bbc47f14f47a0"}
+{"commits":[{"committed_at":1792845698,"sha":"bff7bc724b5ac854c554ed916a13f5802dede634","subject":"fix(highlights): exclude color-grouped setext title-prefixed marker mirrors"}],"schema_version":2,"source_run_id":"run-b009fed0a8100fcb483bbc47f14f47a0"}

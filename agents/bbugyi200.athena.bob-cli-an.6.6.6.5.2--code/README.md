@@ -13,7 +13,13 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-24T12:21:04.932144+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`bff7bc7`](https://github.com/bobs-org/bob-cli/commit/bff7bc724b5ac854c554ed916a13f5802dede634) | fix(highlights): exclude color-grouped setext title-prefixed marker mirrors | 2026-10-24 08:41:38 EDT |
 
 ## Neighbors
 
@@ -22,7 +28,7 @@
 | [bob-cli-an.6.6.6.5.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.1/README.md) | bob-cli-an.6.6.6.5 hood | completed |
 | [bob-cli-an.6.6.6.5.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.3/README.md) | bob-cli-an.6.6.6.5 hood | completed |
 | [bob-cli-an.6.6.6.5.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.4/README.md) | bob-cli-an.6.6.6.5 hood | completed |
-| [bob-cli-an.6.6.6.5.5](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.5.md) (session · 4) | bob-cli-an.6.6.6.5 hood | active 1, completed 2, failed 1 |
+| [bob-cli-an.6.6.6.5.5](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.5.md) (session · 5) | bob-cli-an.6.6.6.5 hood | active 1, completed 2, failed 2 |
 | [bob-cli-an.6.6.6.5.land](../bbugyi200.athena.bob-cli-an.6.6.6.5.land/README.md) | bob-cli-an.6.6.6.5 hood | waiting |
 | [bob-cli-an.6.6.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.1.md) (session · 3) | bob-cli-an.6.6.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.2.md) (session · 3) | bob-cli-an.6.6.6 hood | completed 2, failed 1 |
