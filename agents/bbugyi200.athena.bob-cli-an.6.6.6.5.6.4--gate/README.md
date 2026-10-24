@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-an.6.6.6.5.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.1/README.md) | bob-cli-an.6.6.6.5.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.2.md) (session · 3) | bob-cli-an.6.6.6.5.6 hood | completed 2, failed 1 |
-| [bob-cli-an.6.6.6.5.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.3/README.md) | bob-cli-an.6.6.6.5.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.3/README.md) | bob-cli-an.6.6.6.5.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.land](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.land/README.md) | bob-cli-an.6.6.6.5.6 hood | waiting |
 | [bob-cli-an.6.6.6.5.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.1/README.md) | bob-cli-an.6.6.6.5 hood | completed |
 | [bob-cli-an.6.6.6.5.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.2.md) (session · 3) | bob-cli-an.6.6.6.5 hood | completed 2, failed 1 |
