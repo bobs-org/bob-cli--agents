@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 13q--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-13q__plan-261024_082507.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-13q__code-261024_082507.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/mermaid_diagram_height_budget.md
 
 
