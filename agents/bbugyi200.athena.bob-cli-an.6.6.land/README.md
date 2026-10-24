@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / bob-cli-an.6.6.land
 
-**Global name:** `bbugyi200.athena.bob-cli-an.6.6.land` · **State:** waiting · **Source run:** `run-45148913205e961ff8920eac34c3f528`
+**Global name:** `bbugyi200.athena.bob-cli-an.6.6.land` · **State:** active · **Source run:** `run-45148913205e961ff8920eac34c3f528`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
@@ -11,19 +11,25 @@
 - Bead: [bob-cli-an.6.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.6.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261023172852
-- Commits: 0
+- Timing: 2026-10-24T07:56:42.252154+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`339578c`](https://github.com/bobs-org/bob-cli/commit/339578cbe833e0a62f53cfa70fc4e2f4d7fc4d08) | fix(time): date ref captures and Keep notes in the configured day timezone | 2026-10-24 04:28:14 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-an.6.6.1](../bbugyi200.athena.bob-cli-an.6.6.1/README.md) | bob-cli-an.6.6 hood | completed |
-| [bob-cli-an.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.2.md) (session · 2) | bob-cli-an.6.6 hood | active 1, completed 1 |
+| [bob-cli-an.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.2.md) (session · 3) | bob-cli-an.6.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.3.md) (session · 5) | bob-cli-an.6.6 hood | completed 3, failed 2 |
 | [bob-cli-an.6.6.4](../bbugyi200.athena.bob-cli-an.6.6.4/README.md) | bob-cli-an.6.6 hood | completed |
 | [bob-cli-an.6.6.5](../bbugyi200.athena.bob-cli-an.6.6.5/README.md) | bob-cli-an.6.6 hood | completed |
