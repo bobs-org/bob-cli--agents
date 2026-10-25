@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 145.w6--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-145_w6__plan-261025_115454.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-145_w6__code-261025_115454.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/day_strip_stat_row.md
 
 

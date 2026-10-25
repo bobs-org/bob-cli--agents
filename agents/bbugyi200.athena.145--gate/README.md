@@ -27,4 +27,4 @@
 | [145.w3](../bbugyi200.athena.145.w3/README.md) | descendant | active |
 | [145.w4](../bbugyi200.athena.145.w4/README.md) | descendant | active |
 | [145.w5](../bbugyi200.athena.145.w5/README.md) | descendant | active |
-| [145.w6](../../sessions/bbugyi200.athena.145.w6.md) (session · 3) | descendant | active 2, failed 1 |
+| [145.w6](../../sessions/bbugyi200.athena.145.w6.md) (session · 3) | descendant | completed 2, failed 1 |

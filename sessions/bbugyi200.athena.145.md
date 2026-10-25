@@ -63,4 +63,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [145.w3](../agents/bbugyi200.athena.145.w3/README.md) | descendant | active |
 | [145.w4](../agents/bbugyi200.athena.145.w4/README.md) | descendant | active |
 | [145.w5](../agents/bbugyi200.athena.145.w5/README.md) | descendant | active |
-| [145.w6](bbugyi200.athena.145.w6.md) (session · 3) | descendant | active 2, failed 1 |
+| [145.w6](bbugyi200.athena.145.w6.md) (session · 3) | descendant | completed 2, failed 1 |
