@@ -28,14 +28,16 @@
 | Agent | Relation | State |
 |---|---|---|
 | [chop.refresh\_docs.bob-cli.8\_638105.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.8_638105.2/README.md) | chop.refresh\_docs.bob-cli.8\_638105 hood | active |
+| [chop.refresh\_docs.bob-cli.0\_587608.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.1.md) (session · 5) | chop.refresh\_docs.bob-cli hood | active 1, completed 2, failed 2 |
+| [chop.refresh\_docs.bob-cli.0\_587608.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
 | [chop.refresh\_docs.bob-cli.0\_794067.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.0\_794067.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.1\_039411.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.1_039411.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.1\_039411.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.1_039411.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
-| [chop.refresh\_docs.bob-cli.3\_052834.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.1/README.md) | chop.refresh\_docs.bob-cli hood | completed |
-| [chop.refresh\_docs.bob-cli.3\_052834.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2/README.md) | chop.refresh\_docs.bob-cli hood | completed |
+| [chop.refresh\_docs.bob-cli.3\_052834.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
+| [chop.refresh\_docs.bob-cli.3\_052834.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.4\_902214.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.1/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
 | [chop.refresh\_docs.bob-cli.4\_902214.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
 | [chop.refresh\_docs.bob-cli.6\_827232.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.6_827232.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
