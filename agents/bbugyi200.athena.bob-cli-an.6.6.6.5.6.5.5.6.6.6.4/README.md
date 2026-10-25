@@ -13,19 +13,25 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-25T15:38:14.967146+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c8573d7`](https://github.com/bobs-org/bob-cli/commit/c8573d78f945760f13e80db5015362242511b4e7) | fix(gkeep): tolerate stdin EPIPE in test child-process helpers | 2026-10-25 11:49:22 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.1/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | active |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | active |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | waiting |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | completed |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | active |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.5](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | waiting |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.land](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.land/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | waiting |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.1/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6 hood | completed |
