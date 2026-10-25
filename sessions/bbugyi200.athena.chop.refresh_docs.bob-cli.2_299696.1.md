@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `chop` · Members: 3
 ```mermaid
 flowchart TD
   n0["chop.refresh_docs.bob-cli.2_299696.1--mon [failed]"]
-  n1["chop.refresh_docs.bob-cli.2_299696.1--1 [active]"]
+  n1["chop.refresh_docs.bob-cli.2_299696.1--1 [completed]"]
   n0 --> n1
   n2["chop.refresh_docs.bob-cli.2_299696.1--0 [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | chop.refresh\_docs.bob-cli.2\_299696.1--mon | failed | gpt-6-astra / codex | 2026-10-25T12:53:28.542503+00:00 → 2026-10-25T12:57:28.269991+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--mon/chat.md) |
-| <a id="member-1"></a>1 | chop.refresh\_docs.bob-cli.2\_299696.1--1 | active | gpt-6-astra / codex | 2026-10-25T12:58:32.547932+00:00 | [1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | chop.refresh\_docs.bob-cli.2\_299696.1--1 | completed | gpt-6-astra / codex | 2026-10-25T12:58:32.547932+00:00 → 2026-10-25T13:04:25.840541+00:00 | [1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--1/chat.md) |
 | <a id="member-0"></a>0 | chop.refresh\_docs.bob-cli.2\_299696.1--0 | completed | gpt-6-astra / codex | 2026-10-25T12:46:13.880287+00:00 → 2026-10-25T12:54:48.162769+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--0/prompt.md) | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--0/chat.md) |
 
 ## Commits
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.bob-cli.2\_299696.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.2/README.md) | chop.refresh\_docs.bob-cli.2\_299696 hood | waiting |
+| [chop.refresh\_docs.bob-cli.2\_299696.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.2/README.md) | chop.refresh\_docs.bob-cli.2\_299696 hood | active |
 | [chop.refresh\_docs.bob-cli.0\_587608.1](bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.1.md) (session · 5) | chop.refresh\_docs.bob-cli hood | active 1, completed 2, failed 2 |
 | [chop.refresh\_docs.bob-cli.0\_587608.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.0\_794067.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.1/README.md) | chop.refresh\_docs.bob-cli hood | active |

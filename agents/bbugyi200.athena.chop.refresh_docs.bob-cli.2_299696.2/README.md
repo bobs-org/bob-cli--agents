@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.bob-cli.2\_299696.2
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.2` · **State:** waiting · **Source run:** `run-c8e4b2577e5191eeeb136667ed317b59`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.2` · **State:** active · **Source run:** `run-c8e4b2577e5191eeeb136667ed317b59`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** chop
 
@@ -10,18 +10,24 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261025072448
-- Commits: 0
+- Timing: 2026-10-25T14:04:20.224138+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`fd0fc2e`](https://github.com/bobs-org/bob-cli/commit/fd0fc2e53327eccb823f0e1d1446bf9229c257c3) | docs: verify refreshed contracts and clarify capture workflows | 2026-10-25 10:16:51 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.bob-cli.2\_299696.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1.md) (session · 3) | chop.refresh\_docs.bob-cli.2\_299696 hood | active 1, completed 1, failed 1 |
+| [chop.refresh\_docs.bob-cli.2\_299696.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1.md) (session · 3) | chop.refresh\_docs.bob-cli.2\_299696 hood | completed 2, failed 1 |
 | [chop.refresh\_docs.bob-cli.0\_587608.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.1.md) (session · 5) | chop.refresh\_docs.bob-cli hood | active 1, completed 2, failed 2 |
 | [chop.refresh\_docs.bob-cli.0\_587608.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.0\_794067.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
