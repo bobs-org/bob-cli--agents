@@ -1,0 +1,31 @@
+# Agent: bob-cli-c9.1
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-c9](../../users/bbugyi200/machines/athena/hoods/bob-cli-c9/README.md) / bob-cli-c9.1
+
+**Global name:** `bbugyi200.athena.bob-cli-c9.1` · **State:** active · **Source run:** `run-c95947bf6fcefe9de1455435bda52e10`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-c9
+
+## Summary
+
+- Bead: [bob-cli-c9.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-c9/bob-cli-c9.1.md)
+- Epic: [bob-cli-c9](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-c9/README.md)
+- Model: muse-spark-1.3-contributor
+- Provider: muse
+- Timing: 2026-10-25T18:18:18.134999+00:00
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-c9.2](../bbugyi200.athena.bob-cli-c9.2/README.md) | bob-cli-c9 hood | active |
+| [bob-cli-c9.3](../bbugyi200.athena.bob-cli-c9.3/README.md) | bob-cli-c9 hood | waiting |
+| [bob-cli-c9.4](../bbugyi200.athena.bob-cli-c9.4/README.md) | bob-cli-c9 hood | waiting |
+| [bob-cli-c9.5](../bbugyi200.athena.bob-cli-c9.5/README.md) | bob-cli-c9 hood | waiting |
+| [bob-cli-c9.6](../bbugyi200.athena.bob-cli-c9.6/README.md) | bob-cli-c9 hood | waiting |
+| [bob-cli-c9.land](../bbugyi200.athena.bob-cli-c9.land/README.md) | bob-cli-c9 hood | waiting |
