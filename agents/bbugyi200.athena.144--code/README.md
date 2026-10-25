@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [144](../../users/bbugyi200/machines/athena/hoods/144/README.md) / [144](../../sessions/bbugyi200.athena.144.md) / 144--code
 
-**Global name:** `bbugyi200.athena.144--code` · **State:** active · **Source run:** `run-5c18449d0835fc8a85171a5d97be9cbb`
+**Global name:** `bbugyi200.athena.144--code` · **State:** completed · **Source run:** `run-5c18449d0835fc8a85171a5d97be9cbb`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 144
 
@@ -10,13 +10,13 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-25T13:47:12.276223+00:00
+- Timing: 2026-10-25T13:47:12.276223+00:00 → 2026-10-25T14:03:34.485608+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
