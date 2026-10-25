@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-c9](../../users/bbugyi200/machines/athena/hoods/bob-cli-c9/README.md) / bob-cli-c9.1
 
-**Global name:** `bbugyi200.athena.bob-cli-c9.1` · **State:** active · **Source run:** `run-c95947bf6fcefe9de1455435bda52e10`
+**Global name:** `bbugyi200.athena.bob-cli-c9.1` · **State:** completed · **Source run:** `run-c95947bf6fcefe9de1455435bda52e10`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-c9
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-c9](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-c9/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-25T18:18:18.134999+00:00
+- Timing: 2026-10-25T18:18:18.134999+00:00 → 2026-10-25T19:07:18.454080+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-c9.2](../bbugyi200.athena.bob-cli-c9.2/README.md) | bob-cli-c9 hood | completed |
-| [bob-cli-c9.3](../bbugyi200.athena.bob-cli-c9.3/README.md) | bob-cli-c9 hood | waiting |
+| [bob-cli-c9.3](../../sessions/bbugyi200.athena.bob-cli-c9.3.md) (session · 3) | bob-cli-c9 hood | active 1, failed 2 |
 | [bob-cli-c9.4](../bbugyi200.athena.bob-cli-c9.4/README.md) | bob-cli-c9 hood | waiting |
 | [bob-cli-c9.5](../bbugyi200.athena.bob-cli-c9.5/README.md) | bob-cli-c9 hood | waiting |
 | [bob-cli-c9.6](../bbugyi200.athena.bob-cli-c9.6/README.md) | bob-cli-c9 hood | waiting |
