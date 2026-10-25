@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5ac18e01cc890b5ab7a92b32cad0b64c"}
+{"commits":[{"committed_at":1792933094,"sha":"f255819acae8185061c0c3bd4300f74aa9f11f8a","subject":"fix(ref-library): prune .git during snapshot traversal"}],"schema_version":2,"source_run_id":"run-5ac18e01cc890b5ab7a92b32cad0b64c"}
