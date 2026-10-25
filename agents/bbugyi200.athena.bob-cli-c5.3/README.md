@@ -75,6 +75,6 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [bob-cli-c5.1](../bbugyi200.athena.bob-cli-c5.1/README.md) | bob-cli-c5 hood | completed |
 | [bob-cli-c5.2](../bbugyi200.athena.bob-cli-c5.2/README.md) | bob-cli-c5 hood | completed |
-| [bob-cli-c5.4](../bbugyi200.athena.bob-cli-c5.4/README.md) | bob-cli-c5 hood | active |
-| [bob-cli-c5.5](../bbugyi200.athena.bob-cli-c5.5/README.md) | bob-cli-c5 hood | waiting |
-| [bob-cli-c5.land](../bbugyi200.athena.bob-cli-c5.land/README.md) | bob-cli-c5 hood | waiting |
+| [bob-cli-c5.4](../bbugyi200.athena.bob-cli-c5.4/README.md) | bob-cli-c5 hood | completed |
+| [bob-cli-c5.5](../bbugyi200.athena.bob-cli-c5.5/README.md) | bob-cli-c5 hood | completed |
+| [bob-cli-c5.land](../../sessions/bbugyi200.athena.bob-cli-c5.land.md) (session · 3) | bob-cli-c5 hood | active 2, failed 1 |
