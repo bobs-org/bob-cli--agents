@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-25T13:48:58.841262+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/day\_strip\_root\_parent\_and\_layout\_redesign\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261025094436/day\_strip\_root\_parent\_and\_layo… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/day_strip_root_parent_and_layout_redesign__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261025094436/day_strip_root_parent_and_layout_redesign__gem-ddcf317ff840.md
+  ref: file:explicit:e15bbca96e1c8cf010a2770f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202610/day_strip_root_parent_and_layout_redesign__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.59.grk](../bbugyi200.athena.research.59.grk/README.md) | research.59 hood | active |
 | [research.59.image](../bbugyi200.athena.research.59.image/README.md) | research.59 hood | waiting |
 | [research.59.linker](../bbugyi200.athena.research.59.linker/README.md) | research.59 hood | waiting |
-| [research.59.mus](../bbugyi200.athena.research.59.mus/README.md) | research.59 hood | active |
+| [research.59.mus](../bbugyi200.athena.research.59.mus/README.md) | research.59 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |

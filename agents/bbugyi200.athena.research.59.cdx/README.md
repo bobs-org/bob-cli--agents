@@ -12,10 +12,34 @@
 - Provider: codex
 - Timing: 2026-10-25T13:45:59.069065+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: file, label: research:202610/day\_strip\_root\_parent\_concept\_\_cdx/index.html, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261025094432/index-196c64e73405.html, ref: file:exp… |
+
+#### artifacts
+
+```yaml
+- kind: file
+  label: research:202610/day_strip_root_parent_concept__cdx/index.html
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261025094432/index-196c64e73405.html
+  ref: file:explicit:483cc4e0306b5109740f97c2
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/day_strip_root_parent_concept__cdx/index.html
+- kind: image
+  label: research:202610/day_strip_root_parent_concept__cdx/concept.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261025094432/concept-49d472428f3f.png
+  ref: file:explicit:0e374542f8250e462f69d7ef
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/day_strip_root_parent_concept__cdx/concept.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +51,7 @@
 | [research.59.grk](../bbugyi200.athena.research.59.grk/README.md) | research.59 hood | active |
 | [research.59.image](../bbugyi200.athena.research.59.image/README.md) | research.59 hood | waiting |
 | [research.59.linker](../bbugyi200.athena.research.59.linker/README.md) | research.59 hood | waiting |
-| [research.59.mus](../bbugyi200.athena.research.59.mus/README.md) | research.59 hood | active |
+| [research.59.mus](../bbugyi200.athena.research.59.mus/README.md) | research.59 hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
