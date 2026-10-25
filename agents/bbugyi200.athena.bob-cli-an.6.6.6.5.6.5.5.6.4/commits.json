@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c679c5204db2b8a7e70baa2ea76ca43f"}
+{"commits":[{"committed_at":1792933507,"sha":"0e75ca56901ff6f023416eb0b119d348d8aaf860","subject":"test(capture): make related perf gate tolerate parallel load"}],"schema_version":2,"source_run_id":"run-c679c5204db2b8a7e70baa2ea76ca43f"}
