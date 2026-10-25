@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8f66d76ac60ba51b2e54337b0aaad0b2"}
+{"commits":[{"committed_at":1792928659,"sha":"a75c55f990ece7b12521c22f0c61f4bc1e45b38c","subject":"fix(highlights-ref): limit the %40 URL identity alias to Medium author paths"}],"schema_version":2,"source_run_id":"run-ebe3f157ac42e9ec0fe07f422f5b8efa"}
