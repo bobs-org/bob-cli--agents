@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-75a9dddfe2599ddc0243e98cb664a021"}
+{"commits":[{"committed_at":1792940419,"sha":"ba523746df6fd21308193bbc14f7b59a76ba9529","subject":"fix(ref-doctor): fold reference ids ASCII-only and drop pandoc from the repair test"}],"schema_version":2,"source_run_id":"run-75a9dddfe2599ddc0243e98cb664a021"}

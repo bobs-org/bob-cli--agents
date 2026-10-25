@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / bob-cli-an.6.6.6.5.6.5.5.6.6.land
 
-**Global name:** `bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.land` · **State:** waiting · **Source run:** `run-75a9dddfe2599ddc0243e98cb664a021`
+**Global name:** `bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.land` · **State:** active · **Source run:** `run-75a9dddfe2599ddc0243e98cb664a021`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-an.6.6.6.5.6.5.5.6.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.6.6.5.6.5.5.6.6.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261025100529
-- Commits: 0
+- Timing: 2026-10-25T14:38:25.329013+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`ba52374`](https://github.com/bobs-org/bob-cli/commit/ba523746df6fd21308193bbc14f7b59a76ba9529) | fix(ref-doctor): fold reference ids ASCII-only and drop pandoc from the repair test | 2026-10-25 11:00:19 EDT |
 
 ## Neighbors
 
@@ -24,7 +30,7 @@
 |---|---|---|
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.1/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.4/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.5](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.1/README.md) | bob-cli-an.6.6.6.5.6.5.5.6 hood | completed |
