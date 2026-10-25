@@ -12,7 +12,7 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-10-25T14:38:25.329013+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Files
 
@@ -23,6 +23,7 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | bob-cli | [`ba52374`](https://github.com/bobs-org/bob-cli/commit/ba523746df6fd21308193bbc14f7b59a76ba9529) | fix(ref-doctor): fold reference ids ASCII-only and drop pandoc from the repair test | 2026-10-25 11:00:19 EDT |
+| bob-cli | [`41cd374`](https://github.com/bobs-org/bob-cli/commit/41cd37487779a54187675445531557d3ab26879d) | fix(ref-doctor): accept the duplicate-avoiding \_N id suffix | 2026-10-25 11:25:05 EDT |
 
 ## Neighbors
 
