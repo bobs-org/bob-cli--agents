@@ -12,7 +12,13 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-25T13:34:44.225559+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f1ab0df`](https://github.com/bobs-org/bob-cli/commit/f1ab0df9d37759b330f628aee343024577b99140) | fix(cli): quiet EPIPE guard keeps usage-error exit 2 and panic output | 2026-10-25 09:58:47 EDT |
 
 ## Neighbors
 

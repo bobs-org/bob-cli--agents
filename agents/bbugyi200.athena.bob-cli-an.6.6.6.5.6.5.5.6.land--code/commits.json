@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c74213209a074d023b9889215f79704b"}
+{"commits":[{"committed_at":1792936727,"sha":"f1ab0df9d37759b330f628aee343024577b99140","subject":"fix(cli): quiet EPIPE guard keeps usage-error exit 2 and panic output"}],"schema_version":2,"source_run_id":"run-c74213209a074d023b9889215f79704b"}

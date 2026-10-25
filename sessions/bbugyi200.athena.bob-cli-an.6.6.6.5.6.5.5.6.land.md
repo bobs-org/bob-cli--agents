@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-an.6.6.6.5.6.5.5.6.land--gate | failed | opus / claude | 2026-10-25T13:33:36.876437+00:00 → 2026-10-25T13:34:17.600405+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.land--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-an.6.6.6.5.6.5.5.6.land--plan | active | opus / claude | 2026-10-25T13:12:44.586965+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-25T13:34:44.225559+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-25T13:34:44.225559+00:00 | [1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.land--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`f1ab0df`](https://github.com/bobs-org/bob-cli/commit/f1ab0df9d37759b330f628aee343024577b99140) | fix(cli): quiet EPIPE guard keeps usage-error exit 2 and panic output | 2026-10-25 09:58:47 EDT |
 
 ## Neighbors
 
