@@ -216,7 +216,7 @@
 | [140](hoods/140/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
 | [144](hoods/144/README.md) | 3 | 1 | completed 2, failed 1 |
 | [145](hoods/145/README.md) | 12 | 2 | active 8, completed 1, failed 3 |
-| [146](hoods/146/README.md) | 6 | 2 | active 2, completed 2, failed 2 |
+| [146](hoods/146/README.md) | 6 | 2 | completed 4, failed 2 |
 | [15](hoods/15/README.md) | 2 | 1 | active 1, completed 1 |
 | [19](hoods/19/README.md) | 8 | 4 | active 4, completed 4 |
 | [1b](hoods/1b/README.md) | 2 | 1 | active 1, completed 1 |
