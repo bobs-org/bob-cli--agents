@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-dd85f4b43c22cab28237061370a119ab"}
+{"commits":[{"committed_at":1792938259,"sha":"3eebe47f459207d61d05801347a90dde41b0a909","subject":"fix(highlights): require pdftotext for diagram PDF assertions"}],"schema_version":2,"source_run_id":"run-dd85f4b43c22cab28237061370a119ab"}
