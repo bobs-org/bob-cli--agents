@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d6ca2d61f0a94331b81a53d0937e832a"}
+{"commits":[{"committed_at":1792937819,"sha":"633bc3f6045b5d80e252c7d1f31780d2f438030d","subject":"docs(capture): clarify unknown-flag guard in TEXT help"}],"schema_version":2,"source_run_id":"run-d6ca2d61f0a94331b81a53d0937e832a"}

@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-25T14:07:03.177645+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`633bc3f`](https://github.com/bobs-org/bob-cli/commit/633bc3f6045b5d80e252c7d1f31780d2f438030d) | docs(capture): clarify unknown-flag guard in TEXT help | 2026-10-25 10:16:59 EDT |
 
 ## Neighbors
 
