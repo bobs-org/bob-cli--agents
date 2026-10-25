@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bf570d7901b9b5f42c1b8c32907836c9"}
+{"commits":[{"committed_at":1792933813,"sha":"6292c35b61aa230b24b070523341b85576eeae54","subject":"fix(cli): exit 0 quietly on EPIPE instead of panicking"}],"schema_version":2,"source_run_id":"run-bf570d7901b9b5f42c1b8c32907836c9"}
