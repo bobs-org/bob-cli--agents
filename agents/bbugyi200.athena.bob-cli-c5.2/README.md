@@ -33,4 +33,4 @@
 | [bob-cli-c5.3](../bbugyi200.athena.bob-cli-c5.3/README.md) | bob-cli-c5 hood | completed |
 | [bob-cli-c5.4](../bbugyi200.athena.bob-cli-c5.4/README.md) | bob-cli-c5 hood | completed |
 | [bob-cli-c5.5](../bbugyi200.athena.bob-cli-c5.5/README.md) | bob-cli-c5 hood | completed |
-| [bob-cli-c5.land](../../sessions/bbugyi200.athena.bob-cli-c5.land.md) (session · 3) | bob-cli-c5 hood | active 2, failed 1 |
+| [bob-cli-c5.land](../../sessions/bbugyi200.athena.bob-cli-c5.land.md) (session · 3) | bob-cli-c5 hood | completed 2, failed 1 |

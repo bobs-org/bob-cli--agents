@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-c5.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_c5_land__plan-261025_102845.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_c5_land__code-261025_102845.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/c5_land_distinct_root_hues.md
 
 
