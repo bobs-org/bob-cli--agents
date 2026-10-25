@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** 146.f0--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-146_f0__plan-261025_125001.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-146_f0__code-261025_125001.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/highlights_tab_keys_boolean_fix.md
 
 
