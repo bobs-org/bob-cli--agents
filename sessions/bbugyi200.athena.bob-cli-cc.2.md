@@ -53,9 +53,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-cc.1](../agents/bbugyi200.athena.bob-cli-cc.1/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.10](../agents/bbugyi200.athena.bob-cli-cc.10/README.md) | bob-cli-cc hood | waiting |
-| [bob-cli-cc.3](../agents/bbugyi200.athena.bob-cli-cc.3/README.md) | bob-cli-cc hood | active |
-| [bob-cli-cc.4](../agents/bbugyi200.athena.bob-cli-cc.4/README.md) | bob-cli-cc hood | waiting |
-| [bob-cli-cc.5](../agents/bbugyi200.athena.bob-cli-cc.5/README.md) | bob-cli-cc hood | waiting |
+| [bob-cli-cc.3](../agents/bbugyi200.athena.bob-cli-cc.3/README.md) | bob-cli-cc hood | completed |
+| [bob-cli-cc.4](../agents/bbugyi200.athena.bob-cli-cc.4/README.md) | bob-cli-cc hood | active |
+| [bob-cli-cc.5](../agents/bbugyi200.athena.bob-cli-cc.5/README.md) | bob-cli-cc hood | active |
 | [bob-cli-cc.6](../agents/bbugyi200.athena.bob-cli-cc.6/README.md) | bob-cli-cc hood | waiting |
 | [bob-cli-cc.7](../agents/bbugyi200.athena.bob-cli-cc.7/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.8](../agents/bbugyi200.athena.bob-cli-cc.8/README.md) | bob-cli-cc hood | waiting |

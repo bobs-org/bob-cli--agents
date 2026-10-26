@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-cc](../../users/bbugyi200/machines/athena/hoods/bob-cli-cc/README.md) / bob-cli-cc.5
 
-**Global name:** `bbugyi200.athena.bob-cli-cc.5` · **State:** waiting · **Source run:** `run-fbd45b46ad505399e78a736659717941`
+**Global name:** `bbugyi200.athena.bob-cli-cc.5` · **State:** active · **Source run:** `run-fbd45b46ad505399e78a736659717941`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-cc
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-cc](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-cc/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261026090230
+- Timing: 2026-10-26T15:21:41.247290+00:00
 - Commits: 0
 
 ## Files
@@ -26,8 +26,8 @@
 | [bob-cli-cc.1](../bbugyi200.athena.bob-cli-cc.1/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.10](../bbugyi200.athena.bob-cli-cc.10/README.md) | bob-cli-cc hood | waiting |
 | [bob-cli-cc.2](../../sessions/bbugyi200.athena.bob-cli-cc.2.md) (session · 9) | bob-cli-cc hood | completed 5, failed 4 |
-| [bob-cli-cc.3](../bbugyi200.athena.bob-cli-cc.3/README.md) | bob-cli-cc hood | active |
-| [bob-cli-cc.4](../bbugyi200.athena.bob-cli-cc.4/README.md) | bob-cli-cc hood | waiting |
+| [bob-cli-cc.3](../bbugyi200.athena.bob-cli-cc.3/README.md) | bob-cli-cc hood | completed |
+| [bob-cli-cc.4](../bbugyi200.athena.bob-cli-cc.4/README.md) | bob-cli-cc hood | active |
 | [bob-cli-cc.6](../bbugyi200.athena.bob-cli-cc.6/README.md) | bob-cli-cc hood | waiting |
 | [bob-cli-cc.7](../bbugyi200.athena.bob-cli-cc.7/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.8](../bbugyi200.athena.bob-cli-cc.8/README.md) | bob-cli-cc hood | waiting |
