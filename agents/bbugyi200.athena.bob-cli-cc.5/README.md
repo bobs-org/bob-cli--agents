@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-26T15:21:41.247290+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`a6d3ecb`](https://github.com/bobs-org/bob-cli/commit/a6d3ecbfd4743f2aa9e44e49e9b5bba282f41fec) | feat(highlights-ref): overwrite source store and doctor ref sources | 2026-10-26 12:21:15 EDT |
 
 ## Neighbors
 
