@@ -25,7 +25,7 @@ flowchart TD
   n0 --> n7
   n8["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--3 [completed]"]
   n0 --> n8
-  n9["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--4 [active]"]
+  n9["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--4 [completed]"]
   n0 --> n9
   n10["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--gate [failed]"]
   n0 --> n10
@@ -44,14 +44,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-2"></a>2 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--2 | completed | gpt-6-luna / codex | 2026-10-26T17:47:02.929887+00:00 → 2026-10-26T17:53:09.537089+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--2/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--mon | failed | gpt-6-luna / codex | 2026-10-26T17:24:28.713033+00:00 → 2026-10-26T17:28:39.334177+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--mon/chat.md) |
 | <a id="member-3"></a>3 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--3 | completed | gpt-6-luna / codex | 2026-10-26T18:01:33.428820+00:00 → 2026-10-26T18:06:36.210491+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--3/chat.md) |
-| <a id="member-4"></a>4 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--4 | active | gpt-6-luna / codex | 2026-10-26T18:09:27.293084+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--4/prompt.md) | — |
+| <a id="member-4"></a>4 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--4 | completed | gpt-6-luna / codex | 2026-10-26T18:09:27.293084+00:00 → 2026-10-26T18:19:28.945113+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--4/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--gate | failed | gpt-6-astra / codex | 2026-10-26T17:12:11.603307+00:00 → 2026-10-26T17:14:45.165090+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2--gate/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1.md) (session · 11) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | active 1, completed 5, failed 5 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1.md) (session · 12) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | active 1, completed 6, failed 5 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.3](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.4](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.4/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.5](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed |

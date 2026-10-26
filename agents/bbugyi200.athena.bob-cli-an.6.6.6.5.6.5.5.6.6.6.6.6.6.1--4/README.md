@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1.md) / bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1--4
 
-**Global name:** `bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1--4` · **State:** active · **Source run:** `run-1746dda3391478c67af53e540ddf46f8`
+**Global name:** `bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1--4` · **State:** completed · **Source run:** `run-1746dda3391478c67af53e540ddf46f8`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
@@ -11,18 +11,18 @@
 - Bead: [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-26T18:16:21.386102+00:00
+- Timing: 2026-10-26T18:16:21.386102+00:00 → 2026-10-26T18:24:31.400605+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2.md) (session · 11) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | active 1, completed 5, failed 5 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2.md) (session · 11) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed 6, failed 5 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.4/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.5](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed |
