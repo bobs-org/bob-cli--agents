@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--code | active | grok-4.6 / grok | 2026-10-26T20:07:51.061495+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--code | active | grok-4.6 / grok | 2026-10-26T20:07:51.061495+00:00 | [1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--gate | failed | gpt-6-astra / codex | 2026-10-26T20:06:39.131383+00:00 → 2026-10-26T20:07:31.376774+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--plan | active | gpt-6-astra / codex | 2026-10-26T19:55:47.588555+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`115a361`](https://github.com/bobs-org/bob-cli/commit/115a3610bdb2caabf9763f49a487b29e2bc16efa) | feat(plugins)!: refuse overwriting another checkout's uncommitted deploy | 2026-10-26 17:02:42 EDT |
 
 ## Neighbors
 

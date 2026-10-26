@@ -13,7 +13,13 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-26T20:07:51.061495+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`115a361`](https://github.com/bobs-org/bob-cli/commit/115a3610bdb2caabf9763f49a487b29e2bc16efa) | feat(plugins)!: refuse overwriting another checkout's uncommitted deploy | 2026-10-26 17:02:42 EDT |
 
 ## Neighbors
 
