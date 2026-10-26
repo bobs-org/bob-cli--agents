@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-78aaf725cc41c447c00e17ad1716e194"}
+{"commits":[{"committed_at":1792988981,"sha":"8e35872b95c965abf2f45cef45fa3201c509435d","subject":"feat(ref): apply staged overwrite in scoped transaction"}],"schema_version":2,"source_run_id":"run-78aaf725cc41c447c00e17ad1716e194"}
