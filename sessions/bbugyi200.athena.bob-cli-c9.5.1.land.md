@@ -2,26 +2,38 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-c9](../users/bbugyi200/machines/athena/hoods/bob-cli-c9/README.md) / bob-cli-c9.5.1.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-c9` · Members: 3 · Bead: [bob-cli-c9.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-c9/bob-cli-c9.5.1.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-c9` · Members: 5 · Bead: [bob-cli-c9.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-c9/bob-cli-c9.5.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-c9.5.1.land--plan [active]"]
-  n1["bob-cli-c9.5.1.land--code [active]"]
+  n0["bob-cli-c9.5.1.land--1 [active]"]
+  n1["bob-cli-c9.5.1.land--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-c9.5.1.land--gate [failed]"]
+  n2["bob-cli-c9.5.1.land--mon [failed]"]
   n0 --> n2
+  n3["bob-cli-c9.5.1.land--code [completed]"]
+  n0 --> n3
+  n4["bob-cli-c9.5.1.land--gate [failed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-c9.5.1.land--plan | active | opus / claude | 2026-10-26T14:40:49.342905+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-c9.5.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-c9.5.1.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-c9.5.1.land--code | active | gpt-6-luna / codex | 2026-10-26T15:13:40.953507+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | bob-cli-c9.5.1.land--1 | active | gpt-6-luna / codex | 2026-10-26T15:51:01.286838+00:00 | [1](../agents/bbugyi200.athena.bob-cli-c9.5.1.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-c9.5.1.land--1/prompt.md) | — |
+| <a id="member-plan"></a>plan | bob-cli-c9.5.1.land--plan | completed | opus / claude | 2026-10-26T14:40:49.342905+00:00 → 2026-10-26T15:45:38.056077+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-c9.5.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-c9.5.1.land--plan/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-c9.5.1.land--mon | failed | gpt-6-luna / codex | 2026-10-26T15:44:48.704803+00:00 → 2026-10-26T15:49:57.818502+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-c9.5.1.land--mon/chat.md) |
+| <a id="member-code"></a>code | bob-cli-c9.5.1.land--code | completed | gpt-6-luna / codex | 2026-10-26T15:13:40.953507+00:00 → 2026-10-26T15:45:38.056077+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-c9.5.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-c9.5.1.land--gate | failed | opus / claude | 2026-10-26T15:12:49.406434+00:00 → 2026-10-26T15:13:28.864120+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-c9.5.1.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | bob-cli | [`38a02d7`](https://github.com/bobs-org/bob-cli/commit/38a02d7bd6342d7a431b4cebf108df53b44b12f1) | fix(highlights): resolve annotated overwrite landing findings | 2026-10-26 11:59:10 EDT |
 
 ## Neighbors
 
