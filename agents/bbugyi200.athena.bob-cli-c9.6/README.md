@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-26T16:02:05.872687+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`94cd2d9`](https://github.com/bobs-org/bob-cli/commit/94cd2d9528997aa490f6c984c92e26faf18486a4) | docs(ref): record-phase glossary correction and recapture docs pass | 2026-10-26 12:12:45 EDT |
 
 ## Neighbors
 
