@@ -12,16 +12,40 @@
 - Provider: claude
 - Timing: 2026-10-26T15:38:08.666341+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/day\_strip\_typical\_day\_comparison\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261026113617/day\_strip\_typical\_day\_comparison\_\_cld-8… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/day_strip_typical_day_comparison__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026113617/day_strip_typical_day_comparison__cld-8f426cfa9508.md
+  ref: file:explicit:940c0258a06da691c148e7a0
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202610/day_strip_typical_day_comparison__cld.md
+- kind: image
+  label: research:202610/day_strip_typical_day_comparison_mockup__cld.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026113617/day_strip_typical_day_comparison_mockup__cld-738d5b78f706.png
+  ref: file:explicit:033dbbb404a3f9463d21638c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202610/day_strip_typical_day_comparison_mockup__cld.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5d.cdx](../bbugyi200.athena.research.5d.cdx/README.md) | research.5d hood | active |
+| [research.5d.cdx](../bbugyi200.athena.research.5d.cdx/README.md) | research.5d hood | completed |
 | [research.5d.final](../bbugyi200.athena.research.5d.final/README.md) | research.5d hood | waiting |
 | [research.5d.gem](../bbugyi200.athena.research.5d.gem/README.md) | research.5d hood | completed |
 | [research.5d.grk](../bbugyi200.athena.research.5d.grk/README.md) | research.5d hood | completed |

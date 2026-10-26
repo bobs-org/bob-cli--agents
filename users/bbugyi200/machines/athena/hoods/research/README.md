@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 418 · **Sessions:** 23 · **States:** active 283, completed 90, failed 41, waiting 4
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 418 · **Sessions:** 23 · **States:** active 282, completed 91, failed 41, waiting 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -88,7 +88,7 @@
 | [research.4.cdx](../../../../../../agents/bbugyi200.athena.research.4.cdx/README.md) | active | gpt-5.5 / codex | 2026-07-09T16:33:32.619630+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4.cdx/prompt.md) |
 | [research.2o.grk](../../../../../../agents/bbugyi200.athena.research.2o.grk/README.md) | active | grok-4.6 / grok | 2026-09-26T21:09:11.738328+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.2o.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.2o.grk/chat.md) |
 | [research.55.linker.w2--gate](../../../../../../sessions/bbugyi200.athena.research.55.linker.w2.md#member-gate) | failed | opus / claude | 2026-10-23T12:23:32.170110+00:00 → 2026-10-23T12:24:10.233726+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.55.linker.w2--gate/chat.md) |
-| [research.5d.cdx](../../../../../../agents/bbugyi200.athena.research.5d.cdx/README.md) | active | gpt-6-astra / codex | 2026-10-26T15:37:42.515270+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.5d.cdx/prompt.md) |
+| [research.5d.cdx](../../../../../../agents/bbugyi200.athena.research.5d.cdx/README.md) | completed | gpt-6-astra / codex | 2026-10-26T15:37:42.515270+00:00 → 2026-10-26T15:55:35.573048+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.5d.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.5d.cdx/chat.md) |
 | [research.48.gem](../../../../../../agents/bbugyi200.athena.research.48.gem/README.md) | active | gemini-3.8-flash-high / agy | 2026-10-09T20:04:32.628023+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.48.gem/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.48.gem/chat.md) |
 | [research.31.grk](../../../../../../agents/bbugyi200.athena.research.31.grk/README.md) | active | grok-4.6 / grok | 2026-10-01T02:59:36.209294+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.31.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.31.grk/chat.md) |
 | [research.4u.cdx](../../../../../../agents/bbugyi200.athena.research.4u.cdx/README.md) | active | gpt-6-astra / codex | 2026-10-19T10:41:31.723384+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4u.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.4u.cdx/chat.md) |
