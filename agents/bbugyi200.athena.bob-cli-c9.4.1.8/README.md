@@ -38,8 +38,8 @@
 | [bob-cli-c9.4.1.6](../bbugyi200.athena.bob-cli-c9.4.1.6/README.md) | bob-cli-c9.4.1 hood | active |
 | [bob-cli-c9.4.1.7](../../sessions/bbugyi200.athena.bob-cli-c9.4.1.7.md) (session · 3) | bob-cli-c9.4.1 hood | active 3 |
 | [bob-cli-c9.4.1.9.1](../bbugyi200.athena.bob-cli-c9.4.1.9.1/README.md) | bob-cli-c9.4.1 hood | completed |
-| [bob-cli-c9.4.1.9.2](../bbugyi200.athena.bob-cli-c9.4.1.9.2/README.md) | bob-cli-c9.4.1 hood | active |
-| [bob-cli-c9.4.1.9.3](../bbugyi200.athena.bob-cli-c9.4.1.9.3/README.md) | bob-cli-c9.4.1 hood | waiting |
+| [bob-cli-c9.4.1.9.2](../bbugyi200.athena.bob-cli-c9.4.1.9.2/README.md) | bob-cli-c9.4.1 hood | completed |
+| [bob-cli-c9.4.1.9.3](../bbugyi200.athena.bob-cli-c9.4.1.9.3/README.md) | bob-cli-c9.4.1 hood | active |
 | [bob-cli-c9.4.1.9.land](../bbugyi200.athena.bob-cli-c9.4.1.9.land/README.md) | bob-cli-c9.4.1 hood | waiting |
 | [bob-cli-c9.4.1.land](../../sessions/bbugyi200.athena.bob-cli-c9.4.1.land.md) (session · 3) | bob-cli-c9.4.1 hood | active 3 |
 | [bob-cli-c9.1](../bbugyi200.athena.bob-cli-c9.1/README.md) | bob-cli-c9 hood | completed |
