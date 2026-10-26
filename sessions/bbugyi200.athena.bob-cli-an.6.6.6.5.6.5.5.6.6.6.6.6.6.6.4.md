@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--mon [failed]"]
   n1["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--gate [failed]"]
   n0 --> n1
-  n2["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--1 [active]"]
+  n2["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--1 [completed]"]
   n0 --> n2
   n3["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--code [completed]"]
   n0 --> n3
@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--mon | failed | grok-4.6 / grok | 2026-10-26T20:17:40.852686+00:00 → 2026-10-26T20:24:56.794175+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--gate | failed | gpt-6-astra / codex | 2026-10-26T20:04:09.208283+00:00 → 2026-10-26T20:04:47.465165+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--gate/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--1 | active | grok-4.6 / grok | 2026-10-26T20:26:08.918710+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--1 | completed | grok-4.6 / grok | 2026-10-26T20:26:08.918710+00:00 → 2026-10-26T20:31:37.061790+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--1/chat.md) |
 | <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--code | completed | grok-4.6 / grok | 2026-10-26T20:05:39.044849+00:00 → 2026-10-26T20:18:17.710798+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--code/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--plan | completed | gpt-6-astra / codex | 2026-10-26T19:56:50.927163+00:00 → 2026-10-26T20:18:17.710798+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--plan/chat.md) |
 
