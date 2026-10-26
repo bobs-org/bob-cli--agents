@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-c9](../../users/bbugyi200/machines/athena/hoods/bob-cli-c9/README.md) / bob-cli-c9.land
 
-**Global name:** `bbugyi200.athena.bob-cli-c9.land` · **State:** waiting · **Source run:** `run-2529ba3d951533752f818e5482a70401`
+**Global name:** `bbugyi200.athena.bob-cli-c9.land` · **State:** active · **Source run:** `run-2529ba3d951533752f818e5482a70401`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-c9
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-c9](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-c9/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261025141653
-- Commits: 0
+- Timing: 2026-10-26T16:16:02.783969+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`6f2f193`](https://github.com/bobs-org/bob-cli/commit/6f2f19324083835fdd36f34c25dd4f3fef8d5a6d) | fix(ref): land recapture epic with host-independent overwrite guards | 2026-10-26 12:56:49 EDT |
 
 ## Neighbors
 
@@ -57,4 +63,4 @@
 | [bob-cli-c9.5.1.4](../bbugyi200.athena.bob-cli-c9.5.1.4/README.md) | bob-cli-c9 hood | completed |
 | [bob-cli-c9.5.1.5](../bbugyi200.athena.bob-cli-c9.5.1.5/README.md) | bob-cli-c9 hood | completed |
 | [bob-cli-c9.5.1.land](../../sessions/bbugyi200.athena.bob-cli-c9.5.1.land.md) (session · 5) | bob-cli-c9 hood | completed 3, failed 2 |
-| [bob-cli-c9.6](../bbugyi200.athena.bob-cli-c9.6/README.md) | bob-cli-c9 hood | active |
+| [bob-cli-c9.6](../bbugyi200.athena.bob-cli-c9.6/README.md) | bob-cli-c9 hood | completed |
