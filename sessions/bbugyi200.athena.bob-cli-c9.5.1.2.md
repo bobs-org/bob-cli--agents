@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-c9` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-c9.5.1.2--1 [active]"]
+  n0["bob-cli-c9.5.1.2--1 [completed]"]
   n1["bob-cli-c9.5.1.2--plan [completed]"]
   n0 --> n1
   n2["bob-cli-c9.5.1.2--mon [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-c9.5.1.2--1 | active | gpt-6-luna / codex | 2026-10-26T12:48:15.869304+00:00 | [1](../agents/bbugyi200.athena.bob-cli-c9.5.1.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-c9.5.1.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-c9.5.1.2--1 | completed | gpt-6-luna / codex | 2026-10-26T12:48:15.869304+00:00 → 2026-10-26T13:02:30.380324+00:00 | [1](../agents/bbugyi200.athena.bob-cli-c9.5.1.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-c9.5.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-c9.5.1.2--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-c9.5.1.2--plan | completed | gpt-6-luna / codex | 2026-10-26T12:14:28.435958+00:00 → 2026-10-26T12:37:24.483725+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-c9.5.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-c9.5.1.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-c9.5.1.2--mon | failed | gpt-6-luna / codex | 2026-10-26T12:36:14.834705+00:00 → 2026-10-26T12:39:53.016398+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-c9.5.1.2--mon/chat.md) |
 
@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-c9.5](bbugyi200.athena.bob-cli-c9.5.md) (session · 3) | ancestor | failed 3 |
 | [bob-cli-c9.5.1.1](../agents/bbugyi200.athena.bob-cli-c9.5.1.1/README.md) | bob-cli-c9.5.1 hood | completed |
 | [bob-cli-c9.5.1.3](../agents/bbugyi200.athena.bob-cli-c9.5.1.3/README.md) | bob-cli-c9.5.1 hood | completed |
-| [bob-cli-c9.5.1.4](../agents/bbugyi200.athena.bob-cli-c9.5.1.4/README.md) | bob-cli-c9.5.1 hood | waiting |
+| [bob-cli-c9.5.1.4](../agents/bbugyi200.athena.bob-cli-c9.5.1.4/README.md) | bob-cli-c9.5.1 hood | active |
 | [bob-cli-c9.5.1.5](../agents/bbugyi200.athena.bob-cli-c9.5.1.5/README.md) | bob-cli-c9.5.1 hood | waiting |
 | [bob-cli-c9.5.1.land](../agents/bbugyi200.athena.bob-cli-c9.5.1.land/README.md) | bob-cli-c9.5.1 hood | waiting |
 | [bob-cli-c9.1](../agents/bbugyi200.athena.bob-cli-c9.1/README.md) | bob-cli-c9 hood | completed |
