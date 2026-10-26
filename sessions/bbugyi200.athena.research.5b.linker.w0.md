@@ -27,14 +27,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5b.linker](../agents/bbugyi200.athena.research.5b.linker/README.md) | ancestor | completed |
-| [research.5b.cdx](../agents/bbugyi200.athena.research.5b.cdx/README.md) | research.5b hood | completed |
-| [research.5b.cld](../agents/bbugyi200.athena.research.5b.cld/README.md) | research.5b hood | completed |
-| [research.5b.final](../agents/bbugyi200.athena.research.5b.final/README.md) | research.5b hood | completed |
-| [research.5b.gem](../agents/bbugyi200.athena.research.5b.gem/README.md) | research.5b hood | completed |
-| [research.5b.grk](../agents/bbugyi200.athena.research.5b.grk/README.md) | research.5b hood | completed |
-| [research.5b.image](../agents/bbugyi200.athena.research.5b.image/README.md) | research.5b hood | completed |
-| [research.5b.mus](../agents/bbugyi200.athena.research.5b.mus/README.md) | research.5b hood | completed |
+| [research.5b.linker](../agents/bbugyi200.athena.research.5b.linker/README.md) | ancestor | active |
+| [research.5b.cdx](../agents/bbugyi200.athena.research.5b.cdx/README.md) | research.5b hood | active |
+| [research.5b.cld](../agents/bbugyi200.athena.research.5b.cld/README.md) | research.5b hood | active |
+| [research.5b.final](../agents/bbugyi200.athena.research.5b.final/README.md) | research.5b hood | active |
+| [research.5b.gem](../agents/bbugyi200.athena.research.5b.gem/README.md) | research.5b hood | active |
+| [research.5b.grk](../agents/bbugyi200.athena.research.5b.grk/README.md) | research.5b hood | active |
+| [research.5b.image](../agents/bbugyi200.athena.research.5b.image/README.md) | research.5b hood | active |
+| [research.5b.mus](../agents/bbugyi200.athena.research.5b.mus/README.md) | research.5b hood | active |
 | [research.0.cdx](../agents/bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../agents/bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../agents/bbugyi200.athena.research.0.final/README.md) | research hood | completed |
@@ -85,4 +85,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.39.cdx](../agents/bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../agents/bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../agents/bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 313 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 314 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
