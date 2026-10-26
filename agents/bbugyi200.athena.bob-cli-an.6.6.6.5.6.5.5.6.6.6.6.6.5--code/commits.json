@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3947f913888e442a389e3d3ade5864af"}
+{"commits":[{"committed_at":1793028615,"sha":"f73f926d72451cbaad4f5b22553c1860d3c8f490","subject":"perf(query): avoid unused Dataview index in native Tasks queries"}],"schema_version":2,"source_run_id":"run-3947f913888e442a389e3d3ade5864af"}
