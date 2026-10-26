@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-cc.1](../agents/bbugyi200.athena.bob-cli-cc.1/README.md) | bob-cli-cc hood | completed |
-| [bob-cli-cc.10](../agents/bbugyi200.athena.bob-cli-cc.10/README.md) | bob-cli-cc hood | active |
+| [bob-cli-cc.10](../agents/bbugyi200.athena.bob-cli-cc.10/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.2](bbugyi200.athena.bob-cli-cc.2.md) (session · 9) | bob-cli-cc hood | completed 5, failed 4 |
 | [bob-cli-cc.3](../agents/bbugyi200.athena.bob-cli-cc.3/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.4](../agents/bbugyi200.athena.bob-cli-cc.4/README.md) | bob-cli-cc hood | completed |
@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-cc.6](../agents/bbugyi200.athena.bob-cli-cc.6/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.7](../agents/bbugyi200.athena.bob-cli-cc.7/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.9](../agents/bbugyi200.athena.bob-cli-cc.9/README.md) | bob-cli-cc hood | completed |
-| [bob-cli-cc.land](../agents/bbugyi200.athena.bob-cli-cc.land/README.md) | bob-cli-cc hood | waiting |
+| [bob-cli-cc.land](bbugyi200.athena.bob-cli-cc.land.md) (session · 3) | bob-cli-cc hood | active 2, failed 1 |
