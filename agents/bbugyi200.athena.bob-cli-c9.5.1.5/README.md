@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-c9](../../users/bbugyi200/machines/athena/hoods/bob-cli-c9/README.md) / bob-cli-c9.5.1.5
 
-**Global name:** `bbugyi200.athena.bob-cli-c9.5.1.5` · **State:** active · **Source run:** `run-128e2066bdaac8dc20ad145ceb2d895b`
+**Global name:** `bbugyi200.athena.bob-cli-c9.5.1.5` · **State:** completed · **Source run:** `run-128e2066bdaac8dc20ad145ceb2d895b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-c9
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-c9.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-c9/bob-cli-c9.5.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-26T13:50:03.897358+00:00
+- Timing: 2026-10-26T13:50:03.897358+00:00 → 2026-10-26T14:40:14.396170+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -34,7 +34,7 @@
 | [bob-cli-c9.5.1.2](../../sessions/bbugyi200.athena.bob-cli-c9.5.1.2.md) (session · 3) | bob-cli-c9.5.1 hood | completed 2, failed 1 |
 | [bob-cli-c9.5.1.3](../bbugyi200.athena.bob-cli-c9.5.1.3/README.md) | bob-cli-c9.5.1 hood | completed |
 | [bob-cli-c9.5.1.4](../bbugyi200.athena.bob-cli-c9.5.1.4/README.md) | bob-cli-c9.5.1 hood | completed |
-| [bob-cli-c9.5.1.land](../bbugyi200.athena.bob-cli-c9.5.1.land/README.md) | bob-cli-c9.5.1 hood | waiting |
+| [bob-cli-c9.5.1.land](../../sessions/bbugyi200.athena.bob-cli-c9.5.1.land.md) (session · 3) | bob-cli-c9.5.1 hood | active 2, failed 1 |
 | [bob-cli-c9.1](../bbugyi200.athena.bob-cli-c9.1/README.md) | bob-cli-c9 hood | completed |
 | [bob-cli-c9.2](../bbugyi200.athena.bob-cli-c9.2/README.md) | bob-cli-c9 hood | completed |
 | [bob-cli-c9.3](../../sessions/bbugyi200.athena.bob-cli-c9.3.md) (session · 3) | bob-cli-c9 hood | failed 3 |
