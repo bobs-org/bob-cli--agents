@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-c9.4.1.9.land--gate | failed | gpt-6-astra / codex | 2026-10-26T10:46:51.174051+00:00 → 2026-10-26T10:47:25.190620+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-c9.4.1.9.land--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-c9.4.1.9.land--plan | active | gpt-6-astra / codex | 2026-10-26T10:29:03.467805+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-c9.4.1.9.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-c9.4.1.9.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-c9.4.1.9.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-26T10:47:56.962464+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-c9.4.1.9.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-26T10:47:56.962464+00:00 | [1](../agents/bbugyi200.athena.bob-cli-c9.4.1.9.land--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`4ee76d1`](https://github.com/bobs-org/bob-cli/commit/4ee76d114ab76a912350cf62bbe2acea29d87fd7) | fix(highlights): repair overwrite identity, narration, selection, and rollback proof | 2026-10-26 07:27:34 EDT |
 
 ## Neighbors
 
