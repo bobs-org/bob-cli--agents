@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [14l](../../users/bbugyi200/machines/athena/hoods/14l/README.md) / [14l](../../sessions/bbugyi200.athena.14l.md) / 14l--code
 
-**Global name:** `bbugyi200.athena.14l--code` · **State:** active · **Source run:** `run-fc22505028d50e12819f7db6b0fa7e92`
+**Global name:** `bbugyi200.athena.14l--code` · **State:** completed · **Source run:** `run-fc22505028d50e12819f7db6b0fa7e92`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 14l
 
@@ -10,12 +10,12 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-26T15:48:14.698970+00:00
+- Timing: 2026-10-26T15:48:14.698970+00:00 → 2026-10-26T16:34:29.110376+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
