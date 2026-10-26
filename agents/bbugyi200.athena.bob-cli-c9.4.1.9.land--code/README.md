@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-c9](../../users/bbugyi200/machines/athena/hoods/bob-cli-c9/README.md) / [bob-cli-c9.4.1.9.land](../../sessions/bbugyi200.athena.bob-cli-c9.4.1.9.land.md) / bob-cli-c9.4.1.9.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-c9.4.1.9.land--code` · **State:** active · **Source run:** `run-e3b5644711ca7ff229e4dab7d0197191`
+**Global name:** `bbugyi200.athena.bob-cli-c9.4.1.9.land--code` · **State:** completed · **Source run:** `run-e3b5644711ca7ff229e4dab7d0197191`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-c9
 
@@ -11,8 +11,12 @@
 - Bead: [bob-cli-c9.4.1.9](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-c9/bob-cli-c9.4.1.9.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-26T10:47:56.962464+00:00
+- Timing: 2026-10-26T10:47:56.962464+00:00 → 2026-10-26T11:29:30.620230+00:00
 - Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
 
 ## Commits
 
@@ -51,6 +55,12 @@
 | [bob-cli-c9.3.1.6.4](../bbugyi200.athena.bob-cli-c9.3.1.6.4/README.md) | bob-cli-c9 hood | active |
 | [bob-cli-c9.3.1.6.land](../../sessions/bbugyi200.athena.bob-cli-c9.3.1.6.land.md) (session · 5) | bob-cli-c9 hood | active 3, completed 1, failed 1 |
 | [bob-cli-c9.3.1.land](../../sessions/bbugyi200.athena.bob-cli-c9.3.1.land.md) (session · 3) | bob-cli-c9 hood | active 3 |
-| [bob-cli-c9.5](../bbugyi200.athena.bob-cli-c9.5/README.md) | bob-cli-c9 hood | active |
+| [bob-cli-c9.5](../../sessions/bbugyi200.athena.bob-cli-c9.5.md) (session · 3) | bob-cli-c9 hood | failed 3 |
+| [bob-cli-c9.5.1.1](../bbugyi200.athena.bob-cli-c9.5.1.1/README.md) | bob-cli-c9 hood | active |
+| [bob-cli-c9.5.1.2](../bbugyi200.athena.bob-cli-c9.5.1.2/README.md) | bob-cli-c9 hood | waiting |
+| [bob-cli-c9.5.1.3](../bbugyi200.athena.bob-cli-c9.5.1.3/README.md) | bob-cli-c9 hood | waiting |
+| [bob-cli-c9.5.1.4](../bbugyi200.athena.bob-cli-c9.5.1.4/README.md) | bob-cli-c9 hood | waiting |
+| [bob-cli-c9.5.1.5](../bbugyi200.athena.bob-cli-c9.5.1.5/README.md) | bob-cli-c9 hood | waiting |
+| [bob-cli-c9.5.1.land](../bbugyi200.athena.bob-cli-c9.5.1.land/README.md) | bob-cli-c9 hood | waiting |
 | [bob-cli-c9.6](../bbugyi200.athena.bob-cli-c9.6/README.md) | bob-cli-c9 hood | waiting |
 | [bob-cli-c9.land](../bbugyi200.athena.bob-cli-c9.land/README.md) | bob-cli-c9 hood | waiting |

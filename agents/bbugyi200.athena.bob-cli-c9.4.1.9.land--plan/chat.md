@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-c9.4.1.9.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_c9_4_1_9_land__plan-261026_034040.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_c9_4_1_9_land__code-261026_034040.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/overwrite_final_repairs.md
 
 
