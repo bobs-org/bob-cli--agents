@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-cc](../../users/bbugyi200/machines/athena/hoods/bob-cli-cc/README.md) / bob-cli-cc.10
 
-**Global name:** `bbugyi200.athena.bob-cli-cc.10` · **State:** waiting · **Source run:** `run-b95507af8e31608948b747bb01f59277`
+**Global name:** `bbugyi200.athena.bob-cli-cc.10` · **State:** active · **Source run:** `run-b95507af8e31608948b747bb01f59277`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-cc
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-cc](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-cc/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261026090234
-- Commits: 0
+- Timing: 2026-10-26T17:23:19.351112+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`a170b1b`](https://github.com/bobs-org/bob-cli/commit/a170b1b363d5357a68ea257331cde27ef547c33b) | docs(memory): record reference source and code catalog decisions | 2026-10-26 13:32:11 EDT |
 
 ## Neighbors
 
@@ -28,7 +34,7 @@
 | [bob-cli-cc.3](../bbugyi200.athena.bob-cli-cc.3/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.4](../bbugyi200.athena.bob-cli-cc.4/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.5](../bbugyi200.athena.bob-cli-cc.5/README.md) | bob-cli-cc hood | completed |
-| [bob-cli-cc.6](../bbugyi200.athena.bob-cli-cc.6/README.md) | bob-cli-cc hood | active |
+| [bob-cli-cc.6](../bbugyi200.athena.bob-cli-cc.6/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.7](../bbugyi200.athena.bob-cli-cc.7/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.8](../../sessions/bbugyi200.athena.bob-cli-cc.8.md) (session · 3) | bob-cli-cc hood | completed 2, failed 1 |
 | [bob-cli-cc.9](../bbugyi200.athena.bob-cli-cc.9/README.md) | bob-cli-cc hood | completed |
