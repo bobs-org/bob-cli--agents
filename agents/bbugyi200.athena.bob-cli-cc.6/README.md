@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-26T15:46:05.166192+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`36ae0ef`](https://github.com/bobs-org/bob-cli/commit/36ae0ef0ae4fe4fd49b6916eb04431a2738f4eab) | feat(ref): add bob ref attach-source with text-verified sources | 2026-10-26 13:14:49 EDT |
 
 ## Neighbors
 
@@ -31,5 +37,5 @@
 | [bob-cli-cc.5](../bbugyi200.athena.bob-cli-cc.5/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.7](../bbugyi200.athena.bob-cli-cc.7/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.8](../../sessions/bbugyi200.athena.bob-cli-cc.8.md) (session · 3) | bob-cli-cc hood | completed 2, failed 1 |
-| [bob-cli-cc.9](../bbugyi200.athena.bob-cli-cc.9/README.md) | bob-cli-cc hood | active |
+| [bob-cli-cc.9](../bbugyi200.athena.bob-cli-cc.9/README.md) | bob-cli-cc hood | completed |
 | [bob-cli-cc.land](../bbugyi200.athena.bob-cli-cc.land/README.md) | bob-cli-cc hood | waiting |
