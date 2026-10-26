@@ -32,8 +32,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-c9.3.1.3](../agents/bbugyi200.athena.bob-cli-c9.3.1.3/README.md) | descendant | completed |
 | [bob-cli-c9.3.1.4](../agents/bbugyi200.athena.bob-cli-c9.3.1.4/README.md) | descendant | completed |
 | [bob-cli-c9.3.1.5](../agents/bbugyi200.athena.bob-cli-c9.3.1.5/README.md) | descendant | completed |
-| [bob-cli-c9.3.1.6.1](../agents/bbugyi200.athena.bob-cli-c9.3.1.6.1/README.md) | descendant | active |
-| [bob-cli-c9.3.1.6.2](../agents/bbugyi200.athena.bob-cli-c9.3.1.6.2/README.md) | descendant | waiting |
+| [bob-cli-c9.3.1.6.1](../agents/bbugyi200.athena.bob-cli-c9.3.1.6.1/README.md) | descendant | completed |
+| [bob-cli-c9.3.1.6.2](bbugyi200.athena.bob-cli-c9.3.1.6.2.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [bob-cli-c9.3.1.6.3](../agents/bbugyi200.athena.bob-cli-c9.3.1.6.3/README.md) | descendant | waiting |
 | [bob-cli-c9.3.1.6.4](../agents/bbugyi200.athena.bob-cli-c9.3.1.6.4/README.md) | descendant | waiting |
 | [bob-cli-c9.3.1.6.land](../agents/bbugyi200.athena.bob-cli-c9.3.1.6.land/README.md) | descendant | waiting |
