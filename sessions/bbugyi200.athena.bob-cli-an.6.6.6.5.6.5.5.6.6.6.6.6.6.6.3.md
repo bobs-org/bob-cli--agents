@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-an` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--code [active]"]
+  n0["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--code [completed]"]
   n1["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--gate [failed]"]
   n0 --> n1
-  n2["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--plan [active]"]
+  n2["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--code | active | grok-4.6 / grok | 2026-10-26T20:07:51.061495+00:00 | [1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--code | completed | grok-4.6 / grok | 2026-10-26T20:07:51.061495+00:00 → 2026-10-26T21:05:52.051046+00:00 | [1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--gate | failed | gpt-6-astra / codex | 2026-10-26T20:06:39.131383+00:00 → 2026-10-26T20:07:31.376774+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--plan | active | gpt-6-astra / codex | 2026-10-26T19:55:47.588555+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--plan | completed | gpt-6-astra / codex | 2026-10-26T19:55:47.588555+00:00 → 2026-10-26T21:05:52.051046+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.3--plan/chat.md) |
 
 ## Commits
 
