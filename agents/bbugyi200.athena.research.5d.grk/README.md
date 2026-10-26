@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5d.grk
 
-**Global name:** `bbugyi200.athena.research.5d.grk` · **State:** active · **Source run:** `run-3e6cf2e19b1883af84999198df1039ac`
+**Global name:** `bbugyi200.athena.research.5d.grk` · **State:** completed · **Source run:** `run-3e6cf2e19b1883af84999198df1039ac`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-26T15:38:35.431004+00:00
+- Timing: 2026-10-26T15:38:35.431004+00:00 → 2026-10-26T15:53:29.731237+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 

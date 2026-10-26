@@ -12,10 +12,39 @@
 - Provider: codex
 - Timing: 2026-10-26T15:37:42.515270+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/day-strip-seven-day-reference-design\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261026113615/day-strip-seven-day-reference-desig… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/day-strip-seven-day-reference-design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026113615/day-strip-seven-day-reference-design__cdx-cdb3862c6d0d.md
+  ref: file:explicit:bbda6fb5c5fb139b8f84d96c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/day-strip-seven-day-reference-design__cdx.md
+- kind: file
+  label: research:202610/media/day-strip-seven-day-reference-design__cdx.svg
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026113615/day-strip-seven-day-reference-design__cdx-3d4232effcbb.svg
+  ref: file:explicit:b9212b2f72cdd45cd97dcc86
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/media/day-strip-seven-day-reference-design__cdx.svg
+- kind: image
+  label: research:202610/media/day-strip-seven-day-reference-design__cdx.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026113615/day-strip-seven-day-reference-design__cdx-eab8fe5c55ad.png
+  ref: file:explicit:6f94aad5390bfe38bc4d5bd9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/media/day-strip-seven-day-reference-design__cdx.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +53,7 @@
 | [research.5d.cld](../bbugyi200.athena.research.5d.cld/README.md) | research.5d hood | active |
 | [research.5d.final](../bbugyi200.athena.research.5d.final/README.md) | research.5d hood | waiting |
 | [research.5d.gem](../bbugyi200.athena.research.5d.gem/README.md) | research.5d hood | completed |
-| [research.5d.grk](../bbugyi200.athena.research.5d.grk/README.md) | research.5d hood | active |
+| [research.5d.grk](../bbugyi200.athena.research.5d.grk/README.md) | research.5d hood | completed |
 | [research.5d.image](../bbugyi200.athena.research.5d.image/README.md) | research.5d hood | waiting |
 | [research.5d.linker](../bbugyi200.athena.research.5d.linker/README.md) | research.5d hood | waiting |
 | [research.5d.mus](../bbugyi200.athena.research.5d.mus/README.md) | research.5d hood | completed |
