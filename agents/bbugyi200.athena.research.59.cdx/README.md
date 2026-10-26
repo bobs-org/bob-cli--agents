@@ -37,6 +37,11 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261025094432/concept-49d472428f3f.png
   ref: file:explicit:0e374542f8250e462f69d7ef
   source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/day_strip_root_parent_concept__cdx/concept.png
+- kind: markdown
+  label: research:202610/day_strip_root_parent_design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261025094432/day_strip_root_parent_design__cdx-f28ecc00b71a.md
+  ref: file:explicit:3165ae72832e74772fb74b39
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/day_strip_root_parent_design__cdx.md
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
@@ -46,12 +51,12 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.59.cld](../bbugyi200.athena.research.59.cld/README.md) | research.59 hood | active |
-| [research.59.final](../bbugyi200.athena.research.59.final/README.md) | research.59 hood | waiting |
+| [research.59.final](../bbugyi200.athena.research.59.final/README.md) | research.59 hood | active |
 | [research.59.gem](../bbugyi200.athena.research.59.gem/README.md) | research.59 hood | active |
 | [research.59.grk](../bbugyi200.athena.research.59.grk/README.md) | research.59 hood | active |
-| [research.59.image](../bbugyi200.athena.research.59.image/README.md) | research.59 hood | waiting |
-| [research.59.linker](../bbugyi200.athena.research.59.linker/README.md) | research.59 hood | waiting |
-| [research.59.mus](../bbugyi200.athena.research.59.mus/README.md) | research.59 hood | completed |
+| [research.59.image](../bbugyi200.athena.research.59.image/README.md) | research.59 hood | active |
+| [research.59.linker](../bbugyi200.athena.research.59.linker/README.md) | research.59 hood | active |
+| [research.59.mus](../bbugyi200.athena.research.59.mus/README.md) | research.59 hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
@@ -102,4 +107,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 288 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 296 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
