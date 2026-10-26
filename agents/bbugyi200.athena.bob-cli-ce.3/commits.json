@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1491a5d9c6dfd11d373cc6df233b7a3e"}
+{"commits":[{"committed_at":1793028954,"sha":"b5ba95c96ec51418ad312e5e1b4e1fa71bb2753c","subject":"feat(cli): honor color, progress, and exit receipts without a TTY"}],"schema_version":2,"source_run_id":"run-1491a5d9c6dfd11d373cc6df233b7a3e"}
