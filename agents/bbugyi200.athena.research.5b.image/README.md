@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5b.image
 
-**Global name:** `bbugyi200.athena.research.5b.image` · **State:** waiting · **Source run:** `run-c670e1a7896e0ebc6a3d46534b5eb283`
+**Global name:** `bbugyi200.athena.research.5b.image` · **State:** active · **Source run:** `run-c670e1a7896e0ebc6a3d46534b5eb283`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261026070317
+- Timing: 2026-10-26T11:56:31.649904+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202610/ref\_code\_block\_copy/ref\_code\_block\_copy.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261026070317/ref\_code\_block\_copy.diagrams… |
+| `diagrams` | {considered: 17, count: 1, manifest: 202610/ref\_code\_block\_copy/ref\_code\_block\_copy.diagrams.md, source\_ref: file:explicit:1cbb5f6d2616816d3a7b5186, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202610/ref_code_block_copy/ref_code_block_copy.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026070317/ref_code_block_copy.diagrams-1cb9f03640a2.md
+  ref: file:explicit:7eed9876fdbe6aad93cf1806
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/ref_code_block_copy/ref_code_block_copy.diagrams.md
+- kind: image
+  label: image:202610/ref_code_block_copy/ref_code_block_copy_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026070317/ref_code_block_copy_infographic-4bf8e56f790a.png
+  ref: file:explicit:166ae27902b83f7dde27d6e1
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202610/ref_code_block_copy/ref_code_block_copy_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 17
+count: 1
+manifest: 202610/ref_code_block_copy/ref_code_block_copy.diagrams.md
+source_ref: file:explicit:1cbb5f6d2616816d3a7b5186
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,10 +58,11 @@
 |---|---|---|
 | [research.5b.cdx](../bbugyi200.athena.research.5b.cdx/README.md) | research.5b hood | completed |
 | [research.5b.cld](../bbugyi200.athena.research.5b.cld/README.md) | research.5b hood | completed |
-| [research.5b.final](../bbugyi200.athena.research.5b.final/README.md) | research.5b hood | active |
+| [research.5b.final](../bbugyi200.athena.research.5b.final/README.md) | research.5b hood | completed |
 | [research.5b.gem](../bbugyi200.athena.research.5b.gem/README.md) | research.5b hood | completed |
 | [research.5b.grk](../bbugyi200.athena.research.5b.grk/README.md) | research.5b hood | completed |
 | [research.5b.linker](../bbugyi200.athena.research.5b.linker/README.md) | research.5b hood | waiting |
+| [research.5b.linker.w0](../bbugyi200.athena.research.5b.linker.w0/README.md) | research.5b hood | waiting |
 | [research.5b.mus](../bbugyi200.athena.research.5b.mus/README.md) | research.5b hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |

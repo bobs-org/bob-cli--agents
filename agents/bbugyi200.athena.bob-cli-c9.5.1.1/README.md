@@ -13,11 +13,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-26T11:44:28.059715+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e482520`](https://github.com/bobs-org/bob-cli/commit/e482520841bdc4939290066569d0972f41538287) | feat(ref): plan annotated overwrite archives and highlight links | 2026-10-26 08:11:04 EDT |
 
 ## Neighbors
 
