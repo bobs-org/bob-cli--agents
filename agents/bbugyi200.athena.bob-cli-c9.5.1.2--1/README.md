@@ -12,11 +12,17 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-10-26T12:48:15.869304+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`af41608`](https://github.com/bobs-org/bob-cli/commit/af416080dc14480e6ad9cf1a19e3b043fd8dd22b) | fix(highlights): hold replaced annotated captures | 2026-10-26 09:00:39 EDT |
 
 ## Neighbors
 
@@ -24,7 +30,7 @@
 |---|---|---|
 | [bob-cli-c9.5](../../sessions/bbugyi200.athena.bob-cli-c9.5.md) (session · 3) | ancestor | failed 3 |
 | [bob-cli-c9.5.1.1](../bbugyi200.athena.bob-cli-c9.5.1.1/README.md) | bob-cli-c9.5.1 hood | completed |
-| [bob-cli-c9.5.1.3](../bbugyi200.athena.bob-cli-c9.5.1.3/README.md) | bob-cli-c9.5.1 hood | active |
+| [bob-cli-c9.5.1.3](../bbugyi200.athena.bob-cli-c9.5.1.3/README.md) | bob-cli-c9.5.1 hood | completed |
 | [bob-cli-c9.5.1.4](../bbugyi200.athena.bob-cli-c9.5.1.4/README.md) | bob-cli-c9.5.1 hood | waiting |
 | [bob-cli-c9.5.1.5](../bbugyi200.athena.bob-cli-c9.5.1.5/README.md) | bob-cli-c9.5.1 hood | waiting |
 | [bob-cli-c9.5.1.land](../bbugyi200.athena.bob-cli-c9.5.1.land/README.md) | bob-cli-c9.5.1 hood | waiting |
