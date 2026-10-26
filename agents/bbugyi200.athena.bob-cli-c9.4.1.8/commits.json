@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-12533fbdb85bfe9a9760a2da7bd92710"}
+{"commits":[{"committed_at":1792998075,"sha":"94abe3d98061c8642c7b91d9975999afeeed269e","subject":"test(highlights): verify overwrite preservation and crash recovery"}],"schema_version":2,"source_run_id":"run-12533fbdb85bfe9a9760a2da7bd92710"}

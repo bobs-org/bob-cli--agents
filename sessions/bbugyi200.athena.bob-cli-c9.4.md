@@ -33,8 +33,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-c9.4.1.4](../agents/bbugyi200.athena.bob-cli-c9.4.1.4/README.md) | descendant | completed |
 | [bob-cli-c9.4.1.5](../agents/bbugyi200.athena.bob-cli-c9.4.1.5/README.md) | descendant | completed |
 | [bob-cli-c9.4.1.6](../agents/bbugyi200.athena.bob-cli-c9.4.1.6/README.md) | descendant | completed |
-| [bob-cli-c9.4.1.7](bbugyi200.athena.bob-cli-c9.4.1.7.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [bob-cli-c9.4.1.8](../agents/bbugyi200.athena.bob-cli-c9.4.1.8/README.md) | descendant | waiting |
+| [bob-cli-c9.4.1.7](bbugyi200.athena.bob-cli-c9.4.1.7.md) (session · 3) | descendant | completed 2, failed 1 |
+| [bob-cli-c9.4.1.8](../agents/bbugyi200.athena.bob-cli-c9.4.1.8/README.md) | descendant | active |
 | [bob-cli-c9.4.1.land](../agents/bbugyi200.athena.bob-cli-c9.4.1.land/README.md) | descendant | waiting |
 | [bob-cli-c9.1](../agents/bbugyi200.athena.bob-cli-c9.1/README.md) | bob-cli-c9 hood | completed |
 | [bob-cli-c9.2](../agents/bbugyi200.athena.bob-cli-c9.2/README.md) | bob-cli-c9 hood | completed |

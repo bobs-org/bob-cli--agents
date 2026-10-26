@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-c9](../../users/bbugyi200/machines/athena/hoods/bob-cli-c9/README.md) / bob-cli-c9.4.1.8
 
-**Global name:** `bbugyi200.athena.bob-cli-c9.4.1.8` · **State:** waiting · **Source run:** `run-12533fbdb85bfe9a9760a2da7bd92710`
+**Global name:** `bbugyi200.athena.bob-cli-c9.4.1.8` · **State:** active · **Source run:** `run-12533fbdb85bfe9a9760a2da7bd92710`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-c9
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-c9.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-c9/bob-cli-c9.4.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261025223621
-- Commits: 0
+- Timing: 2026-10-26T06:29:26.489480+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`94abe3d`](https://github.com/bobs-org/bob-cli/commit/94abe3d98061c8642c7b91d9975999afeeed269e) | test(highlights): verify overwrite preservation and crash recovery | 2026-10-26 03:01:15 EDT |
 
 ## Neighbors
 
@@ -30,7 +36,7 @@
 | [bob-cli-c9.4.1.4](../bbugyi200.athena.bob-cli-c9.4.1.4/README.md) | bob-cli-c9.4.1 hood | completed |
 | [bob-cli-c9.4.1.5](../bbugyi200.athena.bob-cli-c9.4.1.5/README.md) | bob-cli-c9.4.1 hood | completed |
 | [bob-cli-c9.4.1.6](../bbugyi200.athena.bob-cli-c9.4.1.6/README.md) | bob-cli-c9.4.1 hood | completed |
-| [bob-cli-c9.4.1.7](../../sessions/bbugyi200.athena.bob-cli-c9.4.1.7.md) (session · 3) | bob-cli-c9.4.1 hood | active 1, completed 1, failed 1 |
+| [bob-cli-c9.4.1.7](../../sessions/bbugyi200.athena.bob-cli-c9.4.1.7.md) (session · 3) | bob-cli-c9.4.1 hood | completed 2, failed 1 |
 | [bob-cli-c9.4.1.land](../bbugyi200.athena.bob-cli-c9.4.1.land/README.md) | bob-cli-c9.4.1 hood | waiting |
 | [bob-cli-c9.1](../bbugyi200.athena.bob-cli-c9.1/README.md) | bob-cli-c9 hood | completed |
 | [bob-cli-c9.2](../bbugyi200.athena.bob-cli-c9.2/README.md) | bob-cli-c9 hood | completed |
