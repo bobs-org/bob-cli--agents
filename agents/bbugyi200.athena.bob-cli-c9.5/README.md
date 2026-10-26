@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-c9](../../users/bbugyi200/machines/athena/hoods/bob-cli-c9/README.md) / bob-cli-c9.5
 
-**Global name:** `bbugyi200.athena.bob-cli-c9.5` · **State:** waiting · **Source run:** `run-edd6c95c2a59bbbde7e33cd1a49b3a02`
+**Global name:** `bbugyi200.athena.bob-cli-c9.5` · **State:** active · **Source run:** `run-edd6c95c2a59bbbde7e33cd1a49b3a02`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-c9
 
