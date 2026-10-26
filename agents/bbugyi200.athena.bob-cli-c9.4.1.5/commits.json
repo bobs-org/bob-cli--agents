@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b4461b9a6057220ae1dc825d9818bb2c"}
+{"commits":[{"committed_at":1792992082,"sha":"00200a967fa818fc0f2c40135bc7cc49d2ce927c","subject":"feat(highlights): enable local-file and vault-snapshot overwrite"}],"schema_version":2,"source_run_id":"run-b4461b9a6057220ae1dc825d9818bb2c"}
