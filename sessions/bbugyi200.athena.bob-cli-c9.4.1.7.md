@@ -61,9 +61,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-c9.3.1.6.land](bbugyi200.athena.bob-cli-c9.3.1.6.land.md) (session · 5) | bob-cli-c9 hood | active 3, completed 1, failed 1 |
 | [bob-cli-c9.3.1.land](bbugyi200.athena.bob-cli-c9.3.1.land.md) (session · 3) | bob-cli-c9 hood | active 3 |
 | [bob-cli-c9.5](bbugyi200.athena.bob-cli-c9.5.md) (session · 3) | bob-cli-c9 hood | failed 3 |
-| [bob-cli-c9.5.1.1](../agents/bbugyi200.athena.bob-cli-c9.5.1.1/README.md) | bob-cli-c9 hood | active |
-| [bob-cli-c9.5.1.2](../agents/bbugyi200.athena.bob-cli-c9.5.1.2/README.md) | bob-cli-c9 hood | waiting |
-| [bob-cli-c9.5.1.3](../agents/bbugyi200.athena.bob-cli-c9.5.1.3/README.md) | bob-cli-c9 hood | waiting |
+| [bob-cli-c9.5.1.1](../agents/bbugyi200.athena.bob-cli-c9.5.1.1/README.md) | bob-cli-c9 hood | completed |
+| [bob-cli-c9.5.1.2](bbugyi200.athena.bob-cli-c9.5.1.2.md) (session · 3) | bob-cli-c9 hood | active 1, completed 1, failed 1 |
+| [bob-cli-c9.5.1.3](../agents/bbugyi200.athena.bob-cli-c9.5.1.3/README.md) | bob-cli-c9 hood | active |
 | [bob-cli-c9.5.1.4](../agents/bbugyi200.athena.bob-cli-c9.5.1.4/README.md) | bob-cli-c9 hood | waiting |
 | [bob-cli-c9.5.1.5](../agents/bbugyi200.athena.bob-cli-c9.5.1.5/README.md) | bob-cli-c9 hood | waiting |
 | [bob-cli-c9.5.1.land](../agents/bbugyi200.athena.bob-cli-c9.5.1.land/README.md) | bob-cli-c9 hood | waiting |

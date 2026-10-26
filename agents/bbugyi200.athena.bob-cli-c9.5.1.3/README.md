@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-c9](../../users/bbugyi200/machines/athena/hoods/bob-cli-c9/README.md) / bob-cli-c9.5.1.3
 
-**Global name:** `bbugyi200.athena.bob-cli-c9.5.1.3` · **State:** waiting · **Source run:** `run-1dbe2a41884976c160db9bf0b9228cba`
+**Global name:** `bbugyi200.athena.bob-cli-c9.5.1.3` · **State:** active · **Source run:** `run-1dbe2a41884976c160db9bf0b9228cba`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-c9
 
@@ -12,20 +12,26 @@
 - Epic: [bob-cli-c9.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-c9/bob-cli-c9.5.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261026074312
-- Commits: 0
+- Timing: 2026-10-26T12:14:02.810845+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`564168f`](https://github.com/bobs-org/bob-cli/commit/564168f3a8c29d7bb55a5009d0906a27bf1a497c) | feat(ref): recover annotated overwrite transactions that renamed bundles | 2026-10-26 08:55:40 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-c9.5](../../sessions/bbugyi200.athena.bob-cli-c9.5.md) (session · 3) | ancestor | failed 3 |
-| [bob-cli-c9.5.1.1](../bbugyi200.athena.bob-cli-c9.5.1.1/README.md) | bob-cli-c9.5.1 hood | active |
-| [bob-cli-c9.5.1.2](../bbugyi200.athena.bob-cli-c9.5.1.2/README.md) | bob-cli-c9.5.1 hood | waiting |
+| [bob-cli-c9.5.1.1](../bbugyi200.athena.bob-cli-c9.5.1.1/README.md) | bob-cli-c9.5.1 hood | completed |
+| [bob-cli-c9.5.1.2](../../sessions/bbugyi200.athena.bob-cli-c9.5.1.2.md) (session · 3) | bob-cli-c9.5.1 hood | active 1, completed 1, failed 1 |
 | [bob-cli-c9.5.1.4](../bbugyi200.athena.bob-cli-c9.5.1.4/README.md) | bob-cli-c9.5.1 hood | waiting |
 | [bob-cli-c9.5.1.5](../bbugyi200.athena.bob-cli-c9.5.1.5/README.md) | bob-cli-c9.5.1 hood | waiting |
 | [bob-cli-c9.5.1.land](../bbugyi200.athena.bob-cli-c9.5.1.land/README.md) | bob-cli-c9.5.1 hood | waiting |
