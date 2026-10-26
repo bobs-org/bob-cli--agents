@@ -457,7 +457,7 @@
 | [bob-cli-c9](hoods/bob-cli-c9/README.md) | 67 | 12 | active 35, completed 18, failed 14 |
 | [bob-cli-cc](hoods/bob-cli-cc/README.md) | 23 | 3 | active 2, completed 15, failed 6 |
 | [bob-cli-ce](hoods/bob-cli-ce/README.md) | 12 | 0 | active 1, completed 10, waiting 1 |
-| [bob-cli-cn](hoods/bob-cli-cn/README.md) | 4 | 0 | active 1, waiting 3 |
+| [bob-cli-cn](hoods/bob-cli-cn/README.md) | 4 | 0 | active 1, completed 1, waiting 2 |
 | [bob-cli-e](hoods/bob-cli-e/README.md) | 6 | 0 | active 6 |
 | [bob-cli-j](hoods/bob-cli-j/README.md) | 8 | 0 | active 7, waiting 1 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 3 | 0 | active 3 |
