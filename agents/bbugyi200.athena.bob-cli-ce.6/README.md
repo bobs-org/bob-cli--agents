@@ -27,9 +27,9 @@
 | [bob-cli-ce.10](../bbugyi200.athena.bob-cli-ce.10/README.md) | bob-cli-ce hood | waiting |
 | [bob-cli-ce.11](../bbugyi200.athena.bob-cli-ce.11/README.md) | bob-cli-ce hood | waiting |
 | [bob-cli-ce.2](../bbugyi200.athena.bob-cli-ce.2/README.md) | bob-cli-ce hood | completed |
-| [bob-cli-ce.3](../bbugyi200.athena.bob-cli-ce.3/README.md) | bob-cli-ce hood | active |
+| [bob-cli-ce.3](../bbugyi200.athena.bob-cli-ce.3/README.md) | bob-cli-ce hood | completed |
 | [bob-cli-ce.4](../bbugyi200.athena.bob-cli-ce.4/README.md) | bob-cli-ce hood | completed |
-| [bob-cli-ce.5](../bbugyi200.athena.bob-cli-ce.5/README.md) | bob-cli-ce hood | waiting |
+| [bob-cli-ce.5](../bbugyi200.athena.bob-cli-ce.5/README.md) | bob-cli-ce hood | active |
 | [bob-cli-ce.7](../bbugyi200.athena.bob-cli-ce.7/README.md) | bob-cli-ce hood | waiting |
 | [bob-cli-ce.8](../bbugyi200.athena.bob-cli-ce.8/README.md) | bob-cli-ce hood | waiting |
 | [bob-cli-ce.9](../bbugyi200.athena.bob-cli-ce.9/README.md) | bob-cli-ce hood | waiting |
