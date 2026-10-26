@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 2026-10-26T15:38:35.431004+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/day\_strip\_seven\_day\_average\_comparison/day\_strip\_seven\_day\_average\_comparison\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/202610261… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/day_strip_seven_day_average_comparison/day_strip_seven_day_average_comparison__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026113618/day_strip_seven_day_average_comparison__grk-30908508688d.md
+  ref: file:explicit:ef46c31154ed3e274009c382
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202610/day_strip_seven_day_average_comparison/day_strip_seven_day_average_comparison__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.5d.cdx](../bbugyi200.athena.research.5d.cdx/README.md) | research.5d hood | active |
 | [research.5d.cld](../bbugyi200.athena.research.5d.cld/README.md) | research.5d hood | active |
 | [research.5d.final](../bbugyi200.athena.research.5d.final/README.md) | research.5d hood | waiting |
-| [research.5d.gem](../bbugyi200.athena.research.5d.gem/README.md) | research.5d hood | active |
+| [research.5d.gem](../bbugyi200.athena.research.5d.gem/README.md) | research.5d hood | completed |
 | [research.5d.image](../bbugyi200.athena.research.5d.image/README.md) | research.5d hood | waiting |
 | [research.5d.linker](../bbugyi200.athena.research.5d.linker/README.md) | research.5d hood | waiting |
 | [research.5d.mus](../bbugyi200.athena.research.5d.mus/README.md) | research.5d hood | completed |
