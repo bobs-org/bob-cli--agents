@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-ce.land--plan | active | opus / claude | 2026-10-26T18:31:50.257154+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ce.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ce.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ce.land--gate | failed | opus / claude | 2026-10-26T19:08:30.192937+00:00 → 2026-10-26T19:09:41.439284+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ce.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-ce.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-26T19:10:24.035853+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-ce.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-26T19:10:24.035853+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ce.land--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`97edc43`](https://github.com/bobs-org/bob-cli/commit/97edc43825aed9ab0e9db630f54a15bfe779f535) | docs(run-obsidian): add \`:\` troubleshooting and refresh generated docs | 2026-10-26 15:20:03 EDT |
 
 ## Neighbors
 
