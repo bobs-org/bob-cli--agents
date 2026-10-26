@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e7c7911c1333b4de3a41c3182c350ecc"}
+{"commits":[{"committed_at":1793037516,"sha":"0f76d558b108754eec3db75b0837ae70380be550","subject":"feat(task-deps): retire legacy child dependency readers"}],"schema_version":2,"source_run_id":"run-e7c7911c1333b4de3a41c3182c350ecc"}
