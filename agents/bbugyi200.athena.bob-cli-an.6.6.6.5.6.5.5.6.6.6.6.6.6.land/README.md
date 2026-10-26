@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-10-26T18:45:42.497211+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`d7cfa05`](https://github.com/bobs-org/bob-cli/commit/d7cfa05c16c4e760df0c885f845cd55260c2edfe) | test(task-deps): scan fenced dependents through the managed line | 2026-10-26 15:26:25 EDT |
 
 ## Neighbors
 
