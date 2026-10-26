@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-ce
 
-**Global hood:** `bbugyi200.athena.bob-cli-ce` · **Runs:** 12 · **Sessions:** 0 · **States:** active 1, completed 5, waiting 6
+**Global hood:** `bbugyi200.athena.bob-cli-ce` · **Runs:** 12 · **Sessions:** 0 · **States:** active 1, completed 6, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -16,5 +16,5 @@
 | [bob-cli-ce.11](../../../../../../agents/bbugyi200.athena.bob-cli-ce.11/README.md) | waiting | gpt-6-luna / codex | 20261026103729 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ce.11/prompt.md) |
 | [bob-cli-ce.8](../../../../../../agents/bbugyi200.athena.bob-cli-ce.8/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261026103727 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ce.8/prompt.md) |
 | [bob-cli-ce.land](../../../../../../agents/bbugyi200.athena.bob-cli-ce.land/README.md) | waiting | opus / claude | 20261026103730 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ce.land/prompt.md) |
-| [bob-cli-ce.6](../../../../../../agents/bbugyi200.athena.bob-cli-ce.6/README.md) | active | gpt-6-luna / codex | 2026-10-26T16:07:56.048530+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ce.6/prompt.md) |
-| [bob-cli-ce.7](../../../../../../agents/bbugyi200.athena.bob-cli-ce.7/README.md) | waiting | grok-4.6 / grok | 20261026103725 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ce.7/prompt.md) |
+| [bob-cli-ce.6](../../../../../../agents/bbugyi200.athena.bob-cli-ce.6/README.md) | completed | gpt-6-luna / codex | 2026-10-26T16:07:56.048530+00:00 → 2026-10-26T16:33:19.206124+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ce.6/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-ce.6/chat.md) |
+| [bob-cli-ce.7](../../../../../../agents/bbugyi200.athena.bob-cli-ce.7/README.md) | active | grok-4.6 / grok | 2026-10-26T16:34:22.722395+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ce.7/prompt.md) |
