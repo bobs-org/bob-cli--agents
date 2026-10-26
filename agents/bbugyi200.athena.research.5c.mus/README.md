@@ -45,8 +45,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.5c.final](../bbugyi200.athena.research.5c.final/README.md) | research.5c hood | completed |
 | [research.5c.gem](../bbugyi200.athena.research.5c.gem/README.md) | research.5c hood | completed |
 | [research.5c.grk](../bbugyi200.athena.research.5c.grk/README.md) | research.5c hood | completed |
-| [research.5c.image](../bbugyi200.athena.research.5c.image/README.md) | research.5c hood | active |
-| [research.5c.linker](../bbugyi200.athena.research.5c.linker/README.md) | research.5c hood | waiting |
+| [research.5c.image](../bbugyi200.athena.research.5c.image/README.md) | research.5c hood | completed |
+| [research.5c.linker](../bbugyi200.athena.research.5c.linker/README.md) | research.5c hood | active |
 | [research.5c.linker.w0](../bbugyi200.athena.research.5c.linker.w0/README.md) | research.5c hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |

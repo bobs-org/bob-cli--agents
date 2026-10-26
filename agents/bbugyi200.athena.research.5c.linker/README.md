@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5c.linker
 
-**Global name:** `bbugyi200.athena.research.5c.linker` · **State:** waiting · **Source run:** `run-32c07c18222058388e889ef46cd89603`
+**Global name:** `bbugyi200.athena.research.5c.linker` · **State:** active · **Source run:** `run-32c07c18222058388e889ef46cd89603`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261026082725
+- Timing: 2026-10-26T13:43:57.654321+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/bob\_colon\_command\_mode/bob\_colon\_command\_mode.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261026082725/bob\_colon\_command\_mode-48fd4df5… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/bob_colon_command_mode/bob_colon_command_mode.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026082725/bob_colon_command_mode-48fd4df589a9.md
+  ref: file:explicit:dc94c1e16424941fdef9c68f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/bob_colon_command_mode/bob_colon_command_mode.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.5c.final](../bbugyi200.athena.research.5c.final/README.md) | research.5c hood | completed |
 | [research.5c.gem](../bbugyi200.athena.research.5c.gem/README.md) | research.5c hood | completed |
 | [research.5c.grk](../bbugyi200.athena.research.5c.grk/README.md) | research.5c hood | completed |
-| [research.5c.image](../bbugyi200.athena.research.5c.image/README.md) | research.5c hood | active |
+| [research.5c.image](../bbugyi200.athena.research.5c.image/README.md) | research.5c hood | completed |
 | [research.5c.mus](../bbugyi200.athena.research.5c.mus/README.md) | research.5c hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
