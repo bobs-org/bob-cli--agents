@@ -1,0 +1,10 @@
+#gh:gh_bobs-org__bob-cli
+%id(land, clan=bob-cli-c9.3.1.6, bead=bob-cli-c9.3.1.6)
+%model:@large
+%auto
+%w(bob-cli-c9.3.1.6.1,bob-cli-c9.3.1.6.2,bob-cli-c9.3.1.6.3,bob-cli-c9.3.1.6.4, for_epic=false)
+%w(bead=bob-cli-c9.3.1.6.1)
+%w(bead=bob-cli-c9.3.1.6.2)
+%w(bead=bob-cli-c9.3.1.6.3)
+%w(bead=bob-cli-c9.3.1.6.4)
+#bd/land_epic:bob-cli-c9.3.1.6
