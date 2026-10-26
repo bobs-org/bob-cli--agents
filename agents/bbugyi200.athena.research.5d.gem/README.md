@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-26T15:39:56.185318+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/day\_strip\_metric\_7d\_average\_indicators\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261026113620/day\_strip\_metric\_7d\_average\_indic… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/day_strip_metric_7d_average_indicators__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026113620/day_strip_metric_7d_average_indicators__gem-09d1d5b74c51.md
+  ref: file:explicit:dad64ed6437b8bb00cd96f80
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_20/sase/repos/research/202610/day_strip_metric_7d_average_indicators__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.5d.grk](../bbugyi200.athena.research.5d.grk/README.md) | research.5d hood | active |
 | [research.5d.image](../bbugyi200.athena.research.5d.image/README.md) | research.5d hood | waiting |
 | [research.5d.linker](../bbugyi200.athena.research.5d.linker/README.md) | research.5d hood | waiting |
-| [research.5d.mus](../bbugyi200.athena.research.5d.mus/README.md) | research.5d hood | active |
+| [research.5d.mus](../bbugyi200.athena.research.5d.mus/README.md) | research.5d hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
