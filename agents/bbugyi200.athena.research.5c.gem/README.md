@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-26T12:30:25.934668+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/obsidian\_colon\_bob\_command\_mode\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261026082722/obsidian\_colon\_bob\_command\_mode\_\_gem-7a1… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/obsidian_colon_bob_command_mode__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026082722/obsidian_colon_bob_command_mode__gem-7a114d8bf6f5.md
+  ref: file:explicit:6b9f29617f94885fdce66a9d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_18/sase/repos/research/202610/obsidian_colon_bob_command_mode__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.5c.grk](../bbugyi200.athena.research.5c.grk/README.md) | research.5c hood | active |
 | [research.5c.image](../bbugyi200.athena.research.5c.image/README.md) | research.5c hood | waiting |
 | [research.5c.linker](../bbugyi200.athena.research.5c.linker/README.md) | research.5c hood | waiting |
-| [research.5c.mus](../bbugyi200.athena.research.5c.mus/README.md) | research.5c hood | active |
+| [research.5c.mus](../bbugyi200.athena.research.5c.mus/README.md) | research.5c hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
