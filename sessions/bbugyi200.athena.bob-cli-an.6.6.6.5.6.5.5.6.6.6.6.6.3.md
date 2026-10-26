@@ -32,8 +32,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--code | completed | gpt-6-luna / codex | 2026-10-26T14:59:44.584549+00:00 → 2026-10-26T15:04:54.674690+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--code/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--mon-0 | failed | gpt-6-luna / codex | 2026-10-26T15:20:43.882968+00:00 → 2026-10-26T15:27:00.331288+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--mon-0/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--1 | completed | gpt-6-luna / codex | 2026-10-26T15:09:23.405181+00:00 → 2026-10-26T15:21:46.096408+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--1/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--2 | active | gpt-6-luna / codex | 2026-10-26T15:28:11.686740+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--2 | active | gpt-6-luna / codex | 2026-10-26T15:28:11.686740+00:00 | [1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--2/prompt.md) | — |
 | <a id="member-mon"></a>mon | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--mon | failed | gpt-6-luna / codex | 2026-10-26T15:04:20.133393+00:00 → 2026-10-26T15:08:27.691150+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | bob-cli | [`6a470eb`](https://github.com/bobs-org/bob-cli/commit/6a470ebe96ee31547264db373434042dc545e02e) | test(capture): deduplicate claimed ref jobs in kick test | 2026-10-26 11:35:14 EDT |
 
 ## Neighbors
 
@@ -42,7 +48,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.1.md) (session · 2) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | active 1, completed 1 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.2](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | waiting |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.4](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.4.md) (session · 5) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | completed 3, failed 2 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.5](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.5.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | active 2, failed 1 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.5](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.5.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.land](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.land/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | waiting |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.1/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.2](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.2.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | completed 2, failed 1 |
