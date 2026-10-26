@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-10-26T11:05:30.196619+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/copy\_mode\_code\_block\_targeting/copy\_mode\_code\_block\_targeting\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261026070313/copy\_mode\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/copy_mode_code_block_targeting/copy_mode_code_block_targeting__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026070313/copy_mode_code_block_targeting__grk-28dd5fc74ddb.md
+  ref: file:explicit:2739e5fc61da492c77e3d00b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202610/copy_mode_code_block_targeting/copy_mode_code_block_targeting__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5b.cdx](../bbugyi200.athena.research.5b.cdx/README.md) | research.5b hood | active |
+| [research.5b.cdx](../bbugyi200.athena.research.5b.cdx/README.md) | research.5b hood | completed |
 | [research.5b.cld](../bbugyi200.athena.research.5b.cld/README.md) | research.5b hood | active |
 | [research.5b.final](../bbugyi200.athena.research.5b.final/README.md) | research.5b hood | waiting |
 | [research.5b.gem](../bbugyi200.athena.research.5b.gem/README.md) | research.5b hood | completed |

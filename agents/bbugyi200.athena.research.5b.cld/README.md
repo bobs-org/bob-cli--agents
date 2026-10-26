@@ -12,16 +12,35 @@
 - Provider: claude
 - Timing: 2026-10-26T11:04:52.867176+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/refs\_copy\_card\_code\_block\_targets\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261026070312/refs\_copy\_card\_code\_block\_targets\_\_cld… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/refs_copy_card_code_block_targets__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261026070312/refs_copy_card_code_block_targets__cld-518cebe8143a.md
+  ref: file:explicit:66e67aebfb4f41fc5ee7e2af
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202610/refs_copy_card_code_block_targets__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5b.cdx](../bbugyi200.athena.research.5b.cdx/README.md) | research.5b hood | active |
+| [research.5b.cdx](../bbugyi200.athena.research.5b.cdx/README.md) | research.5b hood | completed |
 | [research.5b.final](../bbugyi200.athena.research.5b.final/README.md) | research.5b hood | waiting |
 | [research.5b.gem](../bbugyi200.athena.research.5b.gem/README.md) | research.5b hood | completed |
 | [research.5b.grk](../bbugyi200.athena.research.5b.grk/README.md) | research.5b hood | active |
