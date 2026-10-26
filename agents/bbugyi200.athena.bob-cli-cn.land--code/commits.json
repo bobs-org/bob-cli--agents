@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d509b3fa7da214252c4d5b75749b04e3"}
+{"commits":[{"committed_at":1793043123,"sha":"777df22f5b8f02e59a53e0d705e794e29a96decd","subject":"fix(stats): share the usable-day rule with typical day"}],"schema_version":2,"source_run_id":"run-d509b3fa7da214252c4d5b75749b04e3"}

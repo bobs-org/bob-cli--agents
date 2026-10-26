@@ -12,7 +12,13 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-10-26T19:03:47.683235+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`777df22`](https://github.com/bobs-org/bob-cli/commit/777df22f5b8f02e59a53e0d705e794e29a96decd) | fix(stats): share the usable-day rule with typical day | 2026-10-26 15:32:03 EDT |
 
 ## Neighbors
 

@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-cn.land--plan | active | gpt-6-astra / codex | 2026-10-26T18:44:41.122111+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-cn.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-cn.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-cn.land--gate | failed | gpt-6-astra / codex | 2026-10-26T19:02:36.161677+00:00 → 2026-10-26T19:03:32.006996+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-cn.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-cn.land--code | active | grok-4.6 / grok | 2026-10-26T19:03:47.683235+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-cn.land--code | active | grok-4.6 / grok | 2026-10-26T19:03:47.683235+00:00 | [1](../agents/bbugyi200.athena.bob-cli-cn.land--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`777df22`](https://github.com/bobs-org/bob-cli/commit/777df22f5b8f02e59a53e0d705e794e29a96decd) | fix(stats): share the usable-day rule with typical day | 2026-10-26 15:32:03 EDT |
 
 ## Neighbors
 
