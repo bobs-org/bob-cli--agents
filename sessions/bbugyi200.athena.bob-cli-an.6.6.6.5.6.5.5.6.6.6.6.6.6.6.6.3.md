@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-an` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--plan [active]"]
-  n1["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--code [active]"]
+  n0["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--plan [completed]"]
+  n1["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--code [completed]"]
   n0 --> n1
   n2["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--gate [failed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--plan | active | gpt-6-astra / codex | 2026-10-27T07:12:15.925608+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--code | active | grok-4.6 / grok | 2026-10-27T07:21:55.584915+00:00 | [1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--code/README.md#commits) | — | — |
+| <a id="member-plan"></a>plan | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--plan | completed | gpt-6-astra / codex | 2026-10-27T07:12:15.925608+00:00 → 2026-10-27T08:01:28.141762+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--code | completed | grok-4.6 / grok | 2026-10-27T07:21:55.584915+00:00 → 2026-10-27T08:01:28.141762+00:00 | [1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--gate | failed | gpt-6-astra / codex | 2026-10-27T07:20:51.084260+00:00 → 2026-10-27T07:21:27.680100+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--gate/chat.md) |
 
 ## Commits

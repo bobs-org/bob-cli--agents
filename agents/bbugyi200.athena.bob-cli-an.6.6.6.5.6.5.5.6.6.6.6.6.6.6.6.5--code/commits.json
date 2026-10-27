@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5af62d00e13a11343e32f74847b99ce5"}
+{"commits":[{"committed_at":1793088077,"sha":"29d6105b09856a70d7a9ff4359a44e3e76d79572","subject":"docs(plugins): add Obsidian rollout smoke gate to deploy guide"}],"schema_version":2,"source_run_id":"run-5af62d00e13a11343e32f74847b99ce5"}

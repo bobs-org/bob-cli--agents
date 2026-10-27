@@ -28,19 +28,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--mon | failed | gpt-6-luna / codex | 2026-10-27T07:41:34.275201+00:00 → 2026-10-27T07:44:57.378250+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--mon/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--2 | active | gpt-6-luna / codex | 20261027035853 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--2 | active | gpt-6-luna / codex | 2026-10-27T08:01:02.689810+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--2/prompt.md) | — |
 | <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--code | completed | gpt-6-luna / codex | 2026-10-27T07:21:39.967696+00:00 → 2026-10-27T07:42:52.320006+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--gate | failed | gpt-6-astra / codex | 2026-10-27T07:20:45.263216+00:00 → 2026-10-27T07:21:13.580331+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--plan | completed | gpt-6-astra / codex | 2026-10-27T07:11:31.837640+00:00 → 2026-10-27T07:42:52.320006+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--plan/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--1 | completed | gpt-6-luna / codex | 2026-10-27T07:46:04.972095+00:00 → 2026-10-27T07:51:25.677296+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--1/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--mon-0 | failed | gpt-6-luna / codex | 2026-10-27T07:50:17.077336+00:00 → 2026-10-27T07:59:53.289600+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--mon-0/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--mon-0 | failed | gpt-6-luna / codex | 2026-10-27T07:50:17.077336+00:00 → 2026-10-27T08:01:41.330797+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.2--mon-0/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.1.md) (session · 6) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6 hood | active 1, completed 3, failed 2 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6 hood | active 2, failed 1 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.4](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.4/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.5](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.5.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6 hood | active 2, failed 1 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.land](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.land/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6 hood | waiting |

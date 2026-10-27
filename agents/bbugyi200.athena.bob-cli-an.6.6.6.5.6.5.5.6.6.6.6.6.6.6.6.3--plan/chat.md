@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.3--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_an_6_6_6_5_6_5_5_6_6_6_6_6_6_6_6_3__plan-261027_031015.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_an_6_6_6_5_6_5_5_6_6_6_6_6_6_6_6_3__code-261027_031015.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/annotated_archive_presenter.md
 
 
