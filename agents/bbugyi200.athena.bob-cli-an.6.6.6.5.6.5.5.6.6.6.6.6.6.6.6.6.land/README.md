@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-10-27T13:45:42.225504+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`b4a5850`](https://github.com/bobs-org/bob-cli/commit/b4a5850d32508eeb1133deab68444599d268e9db) | fix(ci): wait for lagging job status before judging a completed run | 2026-10-27 10:48:41 EDT |
 
 ## Neighbors
 
