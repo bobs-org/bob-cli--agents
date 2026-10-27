@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 2026-10-27T17:59:10.997628+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/kind\_of\_work\_pomodoro\_themes\_six\_month\_audit\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261027135809/kind\_of\_work\_pomodoro\_theme… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/kind_of_work_pomodoro_themes_six_month_audit__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027135809/kind_of_work_pomodoro_themes_six_month_audit__grk-5d7aa8a0753a.md
+  ref: file:explicit:9e9f572a199bd3439f334236
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202610/kind_of_work_pomodoro_themes_six_month_audit__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

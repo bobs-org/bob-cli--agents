@@ -2,11 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / an
 
-**Global hood:** `bbugyi200.apollo.an` · **Runs:** 15 · **Sessions:** 2 · **States:** active 1, completed 8, failed 6
+**Global hood:** `bbugyi200.apollo.an` · **Runs:** 17 · **Sessions:** 3 · **States:** active 2, completed 8, failed 7
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [an--mon-0](../../../../../../sessions/bbugyi200.apollo.an.md#member-mon-0) | failed | grok-4.6 / grok | 2026-10-27T15:43:43.313165+00:00 → 2026-10-27T15:55:55.380415+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.an--mon-0/chat.md) |
+| [an.f0.w0--gate](../../../../../../sessions/bbugyi200.apollo.an.f0.w0.md#member-gate) | failed | opus / claude | 2026-10-27T18:14:36.747491+00:00 → 2026-10-27T18:14:56.630403+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.an.f0.w0--gate/chat.md) |
 | [an--mon](../../../../../../sessions/bbugyi200.apollo.an.md#member-mon) | failed | grok-4.6 / grok | 2026-10-27T15:24:48.538768+00:00 → 2026-10-27T15:37:11.455158+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.an--mon/chat.md) |
 | [an--mon-1](../../../../../../sessions/bbugyi200.apollo.an.md#member-mon-1) | failed | grok-4.6 / grok | 2026-10-27T16:01:35.973025+00:00 → 2026-10-27T16:18:13.434388+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.an--mon-1/chat.md) |
 | [an.f0--plan](../../../../../../sessions/bbugyi200.apollo.an.f0.md#member-plan) | completed | opus / claude | 2026-10-27T17:16:27.528666+00:00 → 2026-10-27T17:45:59.213770+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.an.f0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.an.f0--plan/chat.md) |
@@ -20,4 +21,5 @@
 | [an--1](../../../../../../sessions/bbugyi200.apollo.an.md#member-1) | completed | grok-4.6 / grok | 2026-10-27T15:37:16.629241+00:00 → 2026-10-27T15:44:40.984051+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.an--1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.an--1/chat.md) |
 | [an--gate](../../../../../../sessions/bbugyi200.apollo.an.md#member-gate) | failed | opus / claude | 2026-10-27T15:06:12.323008+00:00 → 2026-10-27T15:06:26.997729+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.an--gate/chat.md) |
 | [an--3](../../../../../../sessions/bbugyi200.apollo.an.md#member-3) | completed | grok-4.6 / grok | 2026-10-27T16:18:12.971760+00:00 → 2026-10-27T16:26:17.085535+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.an--3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.an--3/chat.md) |
-| [an.f0.w0](../../../../../../agents/bbugyi200.apollo.an.f0.w0/README.md) | active | opus / claude | 2026-10-27T18:07:25.644546+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.an.f0.w0/prompt.md) |
+| [an.f0.w0--plan](../../../../../../sessions/bbugyi200.apollo.an.f0.w0.md#member-plan) | active | opus / claude | 2026-10-27T18:07:25.644546+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.an.f0.w0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.an.f0.w0--plan/chat.md) |
+| [an.f0.w0--code](../../../../../../sessions/bbugyi200.apollo.an.f0.w0.md#member-code) | active | gpt-6-luna / codex | 2026-10-27T18:15:39.818656+00:00 | 0 | — |

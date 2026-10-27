@@ -52,4 +52,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [an.f0](bbugyi200.apollo.an.f0.md) (session · 5) | descendant | completed 3, failed 2 |
-| [an.f0.w0](../agents/bbugyi200.apollo.an.f0.w0/README.md) | descendant | active |
+| [an.f0.w0](bbugyi200.apollo.an.f0.w0.md) (session · 3) | descendant | active 2, failed 1 |

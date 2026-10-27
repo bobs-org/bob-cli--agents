@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-10-27T17:59:27.773522+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/pomodoro\_work\_type\_themes\_six\_month\_audit\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261027135811/pomodoro\_work\_type\_themes\_six\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/pomodoro_work_type_themes_six_month_audit__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027135811/pomodoro_work_type_themes_six_month_audit__gem-66327006760f.md
+  ref: file:explicit:71a5d82828d8bfbd6767aa86
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_19/sase/repos/research/202610/pomodoro_work_type_themes_six_month_audit__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
