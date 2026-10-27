@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2l.linker
 
-**Global name:** `bbugyi200.apollo.research.2l.linker` · **State:** waiting · **Source run:** `run-96584f799b3cc00bf0d667a51713367c`
+**Global name:** `bbugyi200.apollo.research.2l.linker` · **State:** active · **Source run:** `run-96584f799b3cc00bf0d667a51713367c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -22,7 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.2l.cdx](../bbugyi200.apollo.research.2l.cdx/README.md) | research.2l hood | active |
-| [research.2l.image](../bbugyi200.apollo.research.2l.image/README.md) | research.2l hood | waiting |
+| [research.2l.image](../bbugyi200.apollo.research.2l.image/README.md) | research.2l hood | active |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
@@ -73,4 +73,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 382 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 393 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
