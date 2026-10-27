@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 486 · **Sessions:** 21 · **States:** active 381, completed 64, dismissed 1, failed 40
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 486 · **Sessions:** 21 · **States:** active 380, completed 65, dismissed 1, failed 40
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [research.2g.final](../../../../../../agents/bbugyi200.apollo.research.2g.final/README.md) | active | opus / claude | 2026-10-25T17:01:08.452717+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.2g.final/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.2g.final/chat.md) |
-| [research.2n.linker](../../../../../../agents/bbugyi200.apollo.research.2n.linker/README.md) | active | opus / claude | 2026-10-27T15:47:03.507963+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.2n.linker/prompt.md) |
+| [research.2n.linker](../../../../../../agents/bbugyi200.apollo.research.2n.linker/README.md) | completed | opus / claude | 2026-10-27T15:47:03.507963+00:00 → 2026-10-27T15:59:12.236685+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.2n.linker/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.2n.linker/chat.md) |
 | [research.cdx-3](../../../../../../agents/bbugyi200.apollo.research.cdx-3/README.md) | completed | — | 2026-06-03T16:42:41+00:00 → 2026-06-03T16:42:41+00:00 | 1 | — |
 | [research.1n.grk](../../../../../../agents/bbugyi200.apollo.research.1n.grk/README.md) | active | grok-4.6 / grok | 2026-10-16T11:08:09.073847+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.1n.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.1n.grk/chat.md) |
 | [research.0p.mus](../../../../../../agents/bbugyi200.apollo.research.0p.mus/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-09T14:18:21.772758+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.0p.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.0p.mus/chat.md) |
