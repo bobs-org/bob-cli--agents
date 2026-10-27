@@ -57,4 +57,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [bob-cli-d2.1](../bbugyi200.athena.bob-cli-d2.1/README.md) | bob-cli-d2 hood | completed |
 | [bob-cli-d2.2](../../sessions/bbugyi200.athena.bob-cli-d2.2.md) (session · 5) | bob-cli-d2 hood | completed 3, failed 2 |
-| [bob-cli-d2.land](../../sessions/bbugyi200.athena.bob-cli-d2.land.md) (session · 4) | bob-cli-d2 hood | active 1, completed 2, failed 1 |
+| [bob-cli-d2.land](../../sessions/bbugyi200.athena.bob-cli-d2.land.md) (session · 5) | bob-cli-d2 hood | active 1, completed 2, failed 2 |
