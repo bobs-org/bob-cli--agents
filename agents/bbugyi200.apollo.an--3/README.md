@@ -28,4 +28,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [an.f0](../../sessions/bbugyi200.apollo.an.f0.md) (session · 5) | descendant | completed 3, failed 2 |
-| [an.f0.w0](../../sessions/bbugyi200.apollo.an.f0.w0.md) (session · 7) | descendant | active 1, completed 3, failed 3 |
+| [an.f0.w0](../../sessions/bbugyi200.apollo.an.f0.w0.md) (session · 7) | descendant | completed 4, failed 3 |

@@ -229,7 +229,7 @@
 | [ad](hoods/ad/README.md) | 2 | 0 | completed 2 |
 | [al](hoods/al/README.md) | 3 | 1 | completed 2, failed 1 |
 | [am](hoods/am/README.md) | 16 | 1 | active 1, completed 8, failed 7 |
-| [an](hoods/an/README.md) | 21 | 3 | active 1, completed 11, failed 9 |
+| [an](hoods/an/README.md) | 21 | 3 | completed 12, failed 9 |
 | [ao](hoods/ao/README.md) | 1 | 0 | completed 1 |
 | [at](hoods/at/README.md) | 1 | 0 | completed 1 |
 | [bob-cli-1](hoods/bob-cli-1/README.md) | 7 | 0 | completed 7 |
@@ -341,7 +341,7 @@
 | [home-2](hoods/home-2/README.md) | 6 | 0 | completed 6 |
 | [jr](hoods/jr/README.md) | 2 | 0 | completed 2 |
 | [m3](hoods/m3/README.md) | 1 | 0 | completed 1 |
-| [research](hoods/research/README.md) | 494 | 21 | active 381, completed 70, dismissed 1, failed 40, waiting 2 |
+| [research](hoods/research/README.md) | 494 | 21 | active 381, completed 71, dismissed 1, failed 40, waiting 1 |
 | [research\_swarm](hoods/research_swarm/README.md) | 1 | 0 | completed 1 |
 | [sase-51](hoods/sase-51/README.md) | 1 | 0 | completed 1 |
 | [sase-60](hoods/sase-60/README.md) | 1 | 0 | completed 1 |

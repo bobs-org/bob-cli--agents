@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2q.image
 
-**Global name:** `bbugyi200.apollo.research.2q.image` · **State:** waiting · **Source run:** `run-af44b42c4234c6dec1cf9ea8bf863a46`
+**Global name:** `bbugyi200.apollo.research.2q.image` · **State:** active · **Source run:** `run-af44b42c4234c6dec1cf9ea8bf863a46`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261027135813
+- Timing: 2026-10-27T18:49:24.699559+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202610/work\_kind\_pomodoro\_theme\_set/work\_kind\_pomodoro\_theme\_set\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261027135813/work\_kind\_po… |
+| `diagrams` | {considered: 11, count: 1, manifest: 202610/work\_kind\_pomodoro\_theme\_set/work\_kind\_pomodoro\_theme\_set.diagrams.md, source\_ref: file:explicit:d4ef4427f5664e958724ab11, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202610/work_kind_pomodoro_theme_set/work_kind_pomodoro_theme_set_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027135813/work_kind_pomodoro_theme_set_infographic-fbfee17b0b5e.png
+  ref: file:explicit:de198b0f220a232c45fe9073
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/work_kind_pomodoro_theme_set/work_kind_pomodoro_theme_set_infographic.png
+- kind: markdown
+  label: diagrams:202610/work_kind_pomodoro_theme_set/work_kind_pomodoro_theme_set.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027135813/work_kind_pomodoro_theme_set.diagrams-76593a779aca.md
+  ref: file:explicit:cdea1b701965c3b4e896ce74
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/work_kind_pomodoro_theme_set/work_kind_pomodoro_theme_set.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 11
+count: 1
+manifest: 202610/work_kind_pomodoro_theme_set/work_kind_pomodoro_theme_set.diagrams.md
+source_ref: file:explicit:d4ef4427f5664e958724ab11
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +58,7 @@
 |---|---|---|
 | [research.2q.cdx](../bbugyi200.apollo.research.2q.cdx/README.md) | research.2q hood | completed |
 | [research.2q.cld](../bbugyi200.apollo.research.2q.cld/README.md) | research.2q hood | completed |
-| [research.2q.final](../bbugyi200.apollo.research.2q.final/README.md) | research.2q hood | active |
+| [research.2q.final](../bbugyi200.apollo.research.2q.final/README.md) | research.2q hood | completed |
 | [research.2q.gem](../bbugyi200.apollo.research.2q.gem/README.md) | research.2q hood | completed |
 | [research.2q.grk](../bbugyi200.apollo.research.2q.grk/README.md) | research.2q hood | completed |
 | [research.2q.linker](../bbugyi200.apollo.research.2q.linker/README.md) | research.2q hood | waiting |
