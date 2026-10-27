@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6289e2c8b1ea546a57911401d75597fb"}
+{"commits":[{"committed_at":1793098562,"sha":"69b7d96211d4106da89bd8cdb9cc622d3ae7e8db","subject":"feat(ref): verify every attach-source candidate and attach on exactly-one-pass"}],"schema_version":2,"source_run_id":"run-6289e2c8b1ea546a57911401d75597fb"}
