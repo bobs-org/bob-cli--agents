@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ct](../../users/bbugyi200/machines/athena/hoods/bob-cli-ct/README.md) / [bob-cli-ct.3](../../sessions/bbugyi200.athena.bob-cli-ct.3.md) / bob-cli-ct.3--mon
 
-**Global name:** `bbugyi200.athena.bob-cli-ct.3--mon` · **State:** failed · **Source run:** `run-6df07bea4debc1b8d884d68a0678e4da`
+**Global name:** `bbugyi200.athena.bob-cli-ct.3--mon` · **State:** failed · **Source run:** `run-51a6485bee7057187a191ec1731986b1`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ct
 
 ## Summary
 
 - Bead: [bob-cli-ct.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ct/bob-cli-ct.3.md)
-- Epic: [bob-cli-ct](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ct/README.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-26T21:25:32.105056+00:00 → 2026-10-26T21:31:12.186055+00:00
+- Timing: 2026-10-27T00:47:43.928705+00:00 → 2026-10-27T00:56:33.814388+00:00
 - Commits: 0
 
 ## Files
@@ -26,5 +25,5 @@
 | [bob-cli-ct.1](../bbugyi200.athena.bob-cli-ct.1/README.md) | bob-cli-ct hood | completed |
 | [bob-cli-ct.2](../../sessions/bbugyi200.athena.bob-cli-ct.2.md) (session · 3) | bob-cli-ct hood | completed 2, failed 1 |
 | [bob-cli-ct.4](../bbugyi200.athena.bob-cli-ct.4/README.md) | bob-cli-ct hood | completed |
-| [bob-cli-ct.5](../bbugyi200.athena.bob-cli-ct.5/README.md) | bob-cli-ct hood | active |
+| [bob-cli-ct.5](../bbugyi200.athena.bob-cli-ct.5/README.md) | bob-cli-ct hood | completed |
 | [bob-cli-ct.land](../bbugyi200.athena.bob-cli-ct.land/README.md) | bob-cli-ct hood | waiting |

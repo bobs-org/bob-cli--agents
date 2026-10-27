@@ -1,15 +1,17 @@
 # Chat History - ace-run (bob-cli-ct.3--plan)
 
-- **TIMESTAMP:** 2026-10-26 17:25:34 EDT
-- **MODEL:** codex/gpt-6-luna
+- **TIMESTAMP:** 2026-10-26 20:47:46 EDT
+- **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-ct.3--plan
 
 ## Prompt
 
+Host notice: bead `bob-cli-ct.3` was already closed (done, 2026-10-27T00:28:07Z) when this run started. This run is attached to it without reopening it, and a `CLOSED-BEAD LAUNCH:` note on the bead records the relaunch. First check whether the earlier work already landed (`git log --grep bob-cli-ct.3` and the bead's notes via `sase bead read bob-cli-ct.3`). If it did, verify it and finish without redoing it; closing the bead again is a safe no-op. If the work is genuinely unfinished, run `sase bead open bob-cli-ct.3` first and close it yourself with `sase bead close bob-cli-ct.3 --note "<what you verified>"` when done (the finalizer will not close a reopened `open` bead). If the resolution is `canceled` or `superseded`, do not redo the work unless this prompt explicitly asks for it.
+
+%id(3, clan=bob-cli-ct, bead=bob-cli-ct.3)
 %auto
 #gh:gh_bobs-org__bob-cli
-%id(3, clan=bob-cli-ct, bead=bob-cli-ct.3)
-%model:@medium
+%m:gpt-6-astra 
 %w(bob-cli-ct.1,bob-cli-ct.2, for_epic=false)
 %w(bead=bob-cli-ct.1)
 %w(bead=bob-cli-ct.2)
@@ -42,22 +44,22 @@ single-agent tale unless one coder can clearly finish everything left.
 # Monitor handoff
 
 This agent delegated the remaining work to a monitor turn.
-Monitor ID: dxwscxhpj6nk
-Inspect with: sase monitor show dxwscxhpj6nk
+Monitor ID: 2eq5da24ffnp
+Inspect with: sase monitor show 2eq5da24ffnp
 Monitor turn: bob-cli-ct.3--mon
 Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10
 
 Command:
 
 ```sh
-just check
+just docs-gen && just check && just docs-check
 ```
 
 Reason:
 
-Run the full bob-cli check gate before the athena link recatalog backfill
+Verify recovered bob-cli-ct.3 implementation and generated docs before explicit close and finalization
 
 Next action:
 
-Resume this assigned bob-cli-ct.3 phase in the same workspace. Inspect the just check result. If it failed due to this change, fix the defect and rerun the failing checks and just check. If an identical check failure reproduces on the clean base tree, record a PROPOSED FOLLOW-UP note on bob-cli-ct.3 citing evidence and continue per the bead instructions. Once checks pass, run the full athena dry run with `cargo run --quiet -- ref recatalog --bob-dir /home/bryan/bob -d`. Enforce the design gates: stop before writing if pandoc failures exceed 2% of eligible stores, any skip reason looks systematic, or fewer than 85% of non-bare links have annotation pages; if dry-run gates fail, report the findings and leave the phase open. If gates pass, run the write pass on athena, record counts and commit SHAs in a note on bob-cli-ct.3, and spot-check 10 references across sizes by comparing every paged link URL/page from `bob ref links <REF> -f json` with that PDF’s URI annotations using `mutool show` (write a temporary parser only if needed, then remove it). Re-run any necessary verification, run `sase bead epic-symbols bob-cli-ct.3`, resolve or re-key every leftover symbol, then close only bob-cli-ct.3 with a note describing checks, dry-run/write counts, commit SHAs, and spot-check results. Do not close the parent. Finally read `/home/bryan/.codex/skills/sase_final/SKILL.md` if needed and follow it as the last action before responding.
+The originally closed phase did NOT land: prior finalization failed, current relaunch reset tracked edits, and only 3 new files survived in stash 3454bb0e. This turn reopened bob-cli-ct.3 and restored the complete implementation. Preserved recovery patch: file:explicit:68a06d5d2a81c40e1cc9c3e1 (use audited sase artifact read if needed). Inspect this monitor result for just docs-gen, just check, and just docs-check. Fix only failures caused by the restored implementation and rerun necessary checks. If a failure is unrelated, reproduce it on the clean base and record PROPOSED FOLLOW-UP on bob-cli-ct.3 per user instructions. Shared record_source_catalog preserves native reader behavior and section numbering; note_snapshot stays unnumbered to match its existing render, documented in bead notes. The focused four-route unit test passed before this monitor. Prior backfill is already complete with 235 stores, 1421 links, 1400 paged (98.5%), three vault commit SHAs, and ten spot-checks in bead notes: DO NOT rerun the write backfill. Inspect all generated docs changes and ensure no accidental memory edits. Once verification passes, run sase bead epic-symbols bob-cli-ct.3, append final verification evidence, and explicitly run sase bead close bob-cli-ct.3 --note describing recovery and verification. The bead is reopened open and the finalizer will not close it automatically. Do not close parent bob-cli-ct or any ancestor. The indispensable final step is /sase_final: get context, submit a commit declaration for all recovered source, tests, and docs with a feat(ref) message including bob-cli-ct.3, then respond. Prior failure before finalization lost tracked work, so do not stop after closing without submitting the declaration.
 
