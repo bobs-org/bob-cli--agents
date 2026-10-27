@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2q.final
 
-**Global name:** `bbugyi200.apollo.research.2q.final` · **State:** waiting · **Source run:** `run-c0655cdb27f097d9575dec3dc35c8cc0`
+**Global name:** `bbugyi200.apollo.research.2q.final` · **State:** active · **Source run:** `run-c0655cdb27f097d9575dec3dc35c8cc0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261027135812
+- Timing: 2026-10-27T18:25:41.593124+00:00
 - Commits: 0
 
 ## Files
@@ -22,7 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.2q.cdx](../bbugyi200.apollo.research.2q.cdx/README.md) | research.2q hood | completed |
-| [research.2q.cld](../bbugyi200.apollo.research.2q.cld/README.md) | research.2q hood | active |
+| [research.2q.cld](../bbugyi200.apollo.research.2q.cld/README.md) | research.2q hood | completed |
 | [research.2q.gem](../bbugyi200.apollo.research.2q.gem/README.md) | research.2q hood | completed |
 | [research.2q.grk](../bbugyi200.apollo.research.2q.grk/README.md) | research.2q hood | completed |
 | [research.2q.image](../bbugyi200.apollo.research.2q.image/README.md) | research.2q hood | waiting |

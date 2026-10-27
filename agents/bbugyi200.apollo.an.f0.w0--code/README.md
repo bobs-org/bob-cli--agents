@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [an](../../users/bbugyi200/machines/apollo/hoods/an/README.md) / [an.f0.w0](../../sessions/bbugyi200.apollo.an.f0.w0.md) / an.f0.w0--code
 
-**Global name:** `bbugyi200.apollo.an.f0.w0--code` · **State:** active · **Source run:** `run-fb4809422d12617ad45620d21a795bc4`
+**Global name:** `bbugyi200.apollo.an.f0.w0--code` · **State:** completed · **Source run:** `run-fb4809422d12617ad45620d21a795bc4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** an
 
@@ -10,8 +10,12 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-27T18:15:39.818656+00:00
+- Timing: 2026-10-27T18:15:39.818656+00:00 → 2026-10-27T18:27:28.278366+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 

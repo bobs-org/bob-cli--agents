@@ -12,11 +12,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-10-27T17:42:46.618117+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`5bb53ca`](https://github.com/bobs-org/bob-cli/commit/5bb53caa73e6c40623d887b358f28f0d1b2f865f) | fix(web-ref): catalog figure-wrapped code and keep anchor pages after a mismatch | 2026-10-27 14:33:25 EDT |
 
 ## Neighbors
 
