@@ -1,0 +1,61 @@
+%queue(weight=1)
+#fork:a6--code
+%model:gpt-6-luna@xhigh
+
+%macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+ssh -o BatchMode=yes athena 'cd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/target/highlights-save-check && just portable-check'
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16
+```
+
+| | |
+| --- | --- |
+| **Outcome** | COMPLETED — exit 0 |
+| **Started** | 2026-10-24T15:18:05.141499+00:00 |
+| **Finished** | 2026-10-24T15:20:03.589522Z |
+| **Elapsed** | 1m 57s of a 30m 0s budget |
+| **Output** | 3,114 KiB · evidence refs: `file:monitor-diagnostic-manifest:khfyfzjbm6c9`, `file:monitor-retained-log:khfyfzjbm6c9` · raw output omitted: `facts_only` · full log: `sase monitor show khfyfzjbm6c9 --all-lines` |
+| **Tool run** | sase tool show c2d72075dc304afd7bc4aca52390399b |
+
+**Why this was monitored:** Run the approved bob-mac-capture portable checks on athena
+
+## Continuation checkpoint
+
+- **Ref:** `local:continuation/checkpoints/monitor_start-b9e558008134c90c.json`
+
+**Checkpoint (JSON):**
+
+```text
+{
+  "kind": "monitor_start",
+  "payload": {
+    "command": "ssh -o BatchMode=yes athena 'cd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/target/highlights-save-check && just portable-check'",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16",
+    "member_agent_name": "a6--mon",
+    "monitor_id": "khfyfzjbm6c9",
+    "next_output": "auto",
+    "parent_node_ids": [],
+    "project_name": "gh_bobs-org__bob-cli",
+    "request_fingerprint": "sha256:888575b7904ec4a75c4c1bc0aef5553857c93a98a1f4269f4a4689ab94e7de42",
+    "starter_agent": "a6--code",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202610/24/20261024105247"
+  },
+  "recorded_at_epoch": 1792855086.5170617,
+  "schema_version": 1
+}
+```
+
+
+## Your next action
+
+Review the portable-check result. Fix implementation failures if any, rerun relevant checks, then inspect both repository diffs/status and use /sase_final before replying. State that macOS targets remain unverified while the Mac is offline.
+%macros_enabled:true

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2n.image
 
-**Global name:** `bbugyi200.apollo.research.2n.image` · **State:** waiting · **Source run:** `run-3efea7f7c753405603841301be2c5d5f`
+**Global name:** `bbugyi200.apollo.research.2n.image` · **State:** active · **Source run:** `run-3efea7f7c753405603841301be2c5d5f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261027104204
+- Timing: 2026-10-27T15:34:14.165232+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202610/pomodoro\_six\_theme\_review/pomodoro\_six\_theme\_review\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261027104204/pomodoro\_six\_theme… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202610/pomodoro_six_theme_review/pomodoro_six_theme_review_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027104204/pomodoro_six_theme_review_infographic-ff58832a31ed.png
+  ref: file:explicit:db1743c29c2dd2af5ed505ff
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202610/pomodoro_six_theme_review/pomodoro_six_theme_review_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.2n.cdx](../bbugyi200.apollo.research.2n.cdx/README.md) | research.2n hood | completed |
 | [research.2n.cld](../bbugyi200.apollo.research.2n.cld/README.md) | research.2n hood | completed |
-| [research.2n.final](../bbugyi200.apollo.research.2n.final/README.md) | research.2n hood | active |
+| [research.2n.final](../bbugyi200.apollo.research.2n.final/README.md) | research.2n hood | completed |
 | [research.2n.gem](../bbugyi200.apollo.research.2n.gem/README.md) | research.2n hood | completed |
 | [research.2n.grk](../bbugyi200.apollo.research.2n.grk/README.md) | research.2n hood | completed |
 | [research.2n.linker](../bbugyi200.apollo.research.2n.linker/README.md) | research.2n hood | waiting |
