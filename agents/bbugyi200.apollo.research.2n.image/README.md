@@ -12,7 +12,7 @@
 - Provider: codex
 - Timing: 2026-10-27T15:34:14.165232+00:00
 - Commits: 0
-- Variables: [1](#variables)
+- Variables: [2](#variables)
 
 ## Files
 
@@ -23,6 +23,7 @@
 | Variable | Value |
 |---|---|
 | `artifacts` | \[{kind: image, label: image:202610/pomodoro\_six\_theme\_review/pomodoro\_six\_theme\_review\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261027104204/pomodoro\_six\_theme… |
+| `diagrams` | {considered: 16, count: 1, manifest: 202610/pomodoro\_six\_theme\_review/pomodoro\_six\_theme\_review.diagrams.md, source\_ref: file:explicit:31a547563fcb73e36ddc4be5, status: ready} |
 
 #### artifacts
 
@@ -32,6 +33,21 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027104204/pomodoro_six_theme_review_infographic-ff58832a31ed.png
   ref: file:explicit:db1743c29c2dd2af5ed505ff
   source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202610/pomodoro_six_theme_review/pomodoro_six_theme_review_infographic.png
+- kind: markdown
+  label: diagrams:202610/pomodoro_six_theme_review/pomodoro_six_theme_review.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027104204/pomodoro_six_theme_review.diagrams-ca333031e1e8.md
+  ref: file:explicit:4908c9f8f2d9e2eb8f8b36f7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202610/pomodoro_six_theme_review/pomodoro_six_theme_review.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 16
+count: 1
+manifest: 202610/pomodoro_six_theme_review/pomodoro_six_theme_review.diagrams.md
+source_ref: file:explicit:31a547563fcb73e36ddc4be5
+status: ready
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
