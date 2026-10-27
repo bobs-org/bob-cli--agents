@@ -12,19 +12,38 @@
 - Provider: claude
 - Timing: 2026-10-27T17:58:49.963456+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/pomodoro\_work\_kind\_themes\_six\_month\_audit\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261027135808/pomodoro\_work\_kind\_themes\_six\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/pomodoro_work_kind_themes_six_month_audit__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027135808/pomodoro_work_kind_themes_six_month_audit__cld-0c58a16b0fa9.md
+  ref: file:explicit:78cd0a57cdb6d0e551e1a827
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202610/pomodoro_work_kind_themes_six_month_audit__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.2q.cdx](../bbugyi200.apollo.research.2q.cdx/README.md) | research.2q hood | active |
+| [research.2q.cdx](../bbugyi200.apollo.research.2q.cdx/README.md) | research.2q hood | completed |
 | [research.2q.final](../bbugyi200.apollo.research.2q.final/README.md) | research.2q hood | waiting |
-| [research.2q.gem](../bbugyi200.apollo.research.2q.gem/README.md) | research.2q hood | active |
-| [research.2q.grk](../bbugyi200.apollo.research.2q.grk/README.md) | research.2q hood | active |
+| [research.2q.gem](../bbugyi200.apollo.research.2q.gem/README.md) | research.2q hood | completed |
+| [research.2q.grk](../bbugyi200.apollo.research.2q.grk/README.md) | research.2q hood | completed |
 | [research.2q.image](../bbugyi200.apollo.research.2q.image/README.md) | research.2q hood | waiting |
 | [research.2q.linker](../bbugyi200.apollo.research.2q.linker/README.md) | research.2q hood | waiting |
 | [research.2q.mus](../bbugyi200.apollo.research.2q.mus/README.md) | research.2q hood | completed |
