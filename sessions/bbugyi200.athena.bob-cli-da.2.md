@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["bob-cli-da.2--1 [completed]"]
   n0 --> n4
-  n5["bob-cli-da.2--3 [active]"]
+  n5["bob-cli-da.2--3 [completed]"]
   n0 --> n5
   n6["bob-cli-da.2--plan [completed]"]
   n0 --> n6
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-1"></a>mon-1 | bob-cli-da.2--mon-1 | failed | grok-4.6 / grok | 2026-10-27T21:06:00.937784+00:00 → 2026-10-27T21:13:54.428335+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-da.2--mon-1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-da.2--mon | failed | gpt-6-luna / codex | 2026-10-27T20:39:00.153467+00:00 → 2026-10-27T20:43:08.712370+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-da.2--mon/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-da.2--1 | completed | grok-4.6 / grok | 2026-10-27T20:45:10.538725+00:00 → 2026-10-27T20:52:07.045343+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-da.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-da.2--1/chat.md) |
-| <a id="member-3"></a>3 | bob-cli-da.2--3 | active | grok-4.6 / grok | 2026-10-27T21:15:24.774206+00:00 | [1](../agents/bbugyi200.athena.bob-cli-da.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-da.2--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-da.2--3 | completed | grok-4.6 / grok | 2026-10-27T21:15:24.774206+00:00 → 2026-10-27T21:23:17.617629+00:00 | [1](../agents/bbugyi200.athena.bob-cli-da.2--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-da.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-da.2--3/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-da.2--plan | completed | gpt-6-luna / codex | 2026-10-27T20:34:04.049827+00:00 → 2026-10-27T20:40:30.015394+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-da.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-da.2--plan/chat.md) |
 
 ## Commits
@@ -49,6 +49,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-da.3](../agents/bbugyi200.athena.bob-cli-da.3/README.md) | bob-cli-da hood | completed |
 | [bob-cli-da.4](bbugyi200.athena.bob-cli-da.4.md) (session · 3) | bob-cli-da hood | failed 3 |
 | [bob-cli-da.4.1.1](../agents/bbugyi200.athena.bob-cli-da.4.1.1/README.md) | bob-cli-da hood | completed |
-| [bob-cli-da.4.1.2](../agents/bbugyi200.athena.bob-cli-da.4.1.2/README.md) | bob-cli-da hood | active |
+| [bob-cli-da.4.1.2](bbugyi200.athena.bob-cli-da.4.1.2.md) (session · 3) | bob-cli-da hood | active 1, completed 1, failed 1 |
 | [bob-cli-da.4.1.land](../agents/bbugyi200.athena.bob-cli-da.4.1.land/README.md) | bob-cli-da hood | waiting |
 | [bob-cli-da.land](../agents/bbugyi200.athena.bob-cli-da.land/README.md) | bob-cli-da hood | waiting |
