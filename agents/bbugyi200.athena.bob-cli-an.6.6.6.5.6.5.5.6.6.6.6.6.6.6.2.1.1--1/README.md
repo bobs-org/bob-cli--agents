@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.1](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.1.md) / bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.1--1
 
-**Global name:** `bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.1--1` · **State:** active · **Source run:** `run-981e9fbd8611613d1dec42c89d413a87`
+**Global name:** `bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.1--1` · **State:** completed · **Source run:** `run-981e9fbd8611613d1dec42c89d413a87`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-27T03:15:10.210775+00:00
+- Timing: 2026-10-27T03:15:10.210775+00:00 → 2026-10-27T03:20:57.567949+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -29,8 +29,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.md) (session · 3) | ancestor | failed 3 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1 hood | waiting |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1 hood | waiting |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.3.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1 hood | active 1, completed 1, failed 1 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.4/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1 hood | waiting |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.5](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1 hood | waiting |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.land](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1.land/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.2.1 hood | waiting |
