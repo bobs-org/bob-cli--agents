@@ -1,0 +1,28 @@
+# Agent: bob-cli-d2.2
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-d2](../../users/bbugyi200/machines/athena/hoods/bob-cli-d2/README.md) / bob-cli-d2.2
+
+**Global name:** `bbugyi200.athena.bob-cli-d2.2` · **State:** active · **Source run:** `run-2a617a43d8b9e799044bb903cb469a2d`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-d2
+
+## Summary
+
+- Bead: [bob-cli-d2.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-d2/bob-cli-d2.2.md)
+- Epic: [bob-cli-d2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-d2/README.md)
+- Model: gpt-6-luna
+- Provider: codex
+- Timing: 2026-10-27T11:44:39.972356+00:00
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-d2.1](../bbugyi200.athena.bob-cli-d2.1/README.md) | bob-cli-d2 hood | active |
+| [bob-cli-d2.3](../bbugyi200.athena.bob-cli-d2.3/README.md) | bob-cli-d2 hood | waiting |
+| [bob-cli-d2.land](../bbugyi200.athena.bob-cli-d2.land/README.md) | bob-cli-d2 hood | waiting |

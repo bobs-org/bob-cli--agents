@@ -1,62 +1,65 @@
-# Chat History - ace-run (bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--plan)
+# Chat History - ace-run (bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--code)
 
-- **TIMESTAMP:** 2026-10-26 16:04:47 EDT
+- **TIMESTAMP:** 2026-10-26 16:17:44 EDT
 - **MODEL:** codex/gpt-6-astra
-- **AGENT:** bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--plan
-
-**Plan:** /home/bryan/.sase/plans/202610/queued_code_return_expectations.md
-
+- **AGENT:** bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--code
 
 ## Prompt
 
+%model:@small
 #gh:gh_bobs-org__bob-cli
-%id(4, clan=bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6, bead=bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4)
-%model:@large
-%auto
-Can you complete the work for bead bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4? The bead is already reserved for you and assigned to your agent
-name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
-checkpoint or by the runtime promoting an ad-hoc wait-time claim. Do not set the status by hand. If the host
-notice says the bead was already closed when this run started, the run is attached to the closed bead. Check
-whether the earlier work landed before redoing anything, and run `sase bead open bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4` only if the work
-is genuinely unfinished. Read its
-description and design file with `sase bead read bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4 -r "Need the phase scope and design file"`, do the work, and close only this bead with
-`sase bead close bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4 --note "<what you verified>"`. Honor the epic's DECISIONS shown by
-`sase bead read`; they are final, and only memory notes they authorize may be edited. Before closing, run
-`sase bead epic-symbols bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4`. If this phase still has `--epic-symbol` entries, resolve each symbol or
-re-key the Justfile line to a still-open bead (the parent epic or a later phase). `sase bead close` refuses while
-leftovers remain; they go stale the instant this phase closes and turn unrelated agents' `just check` red. Closing
-an assigned phase bead is unaffected by the parent-close descendant guard. Do NOT close the parent epic or any ancestor plan bead. Any instruction in a phase
-description or child plan to close an ancestor is preparation and evidence for that ancestor's land agent, not
-authorization for a phase worker. Do not create beads yourself: record discovered follow-up work as a
-`PROPOSED FOLLOW-UP:` entry via
-`sase bead note bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4 'PROPOSED FOLLOW-UP: <one-line summary — detail>'`; the epic's land agent triages
-these into task beads. A check failure that reproduces identically on the clean base tree does not keep this bead
-open: record it as a `PROPOSED FOLLOW-UP:` entry (citing any task bead that already tracks it) and close anyway;
-nothing relaunches a phase left open. Before planning, check the phase's notes: if an earlier agent already
-worked this phase and left it open with recorded remaining work, that remainder did not fit one agent, so author
-a child epic whose phases each fit one coding agent and whose land agent closes this phase instead of another
-single-agent tale unless one coder can clearly finish everything left.
-Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
+@plan:202610/queued_code_return_expectations.md
+
+The above plan has been reviewed and approved. Implement it now.
 
 
 ## Response
 
-*Plan submitted for review.*
+# Monitor handoff
 
-**Plan file:** `/home/bryan/.sase/plans/202610/queued_code_return_expectations.md`
+This agent delegated the remaining work to a monitor turn.
+Monitor ID: 3yhrth8mxcx4
+Inspect with: sase monitor show 3yhrth8mxcx4
+Monitor turn: bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4--mon
+Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14
 
-> - **PARENT:**
->   [202610/backlog_batch15_vault_safety_pdf_moves_and_red_gates.md](202610/backlog_batch15_vault_safety_pdf_moves_and_red_gates.md)
-> - **BEAD:** bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4
-> # Correct the queued code-copy XCTest to match page-aware selection
-> Implement assigned phase `bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4` (`mac-code-key-ci`)
-> from `plan:202610/backlog_batch15_vault_safety_pdf_moves_and_red_gates.md`. The tracked
-> CI defect is `bob-cli-cr`; leave that task open for the parent epic's lander to verify
-> on the landed SHA. Close only the assigned phase after its work and local validation are
-> complete.
-> ## Scope and established cause
+Command:
 
-*See full plan file for details.*
+```sh
+sase tool run check
+```
+
+Reason:
+
+Parent epic requires just check in bob-cli after the queued code-copy XCTest repair
+
+Next action:
+
+Continue implementing plan:202610/queued_code_return_expectations.md for assigned phase bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4.
+
+The Swift test repair in linked bob-mac-capture is already done and locally validated. Do not reopen production Swift, the refs-code.json fixture, docs, changelog, versions, or memory.
+
+Already done:
+- Tests/BobMacCaptureTests/RefsPanelModelTests.swift: renamed/corrected no-page queued-Return test to testQueuedCodeKeyCopiesFirstBlockWhenCatalogReturnsWithoutPage (nil highlightedPage, C -> .codePicker pending, Return before 80ms catalog, exact makefile payload with literal tabs and no added final newline, Copied makefile · 3 lines, one pasteboard write, one completion, card closed). Added testQueuedCodeKeyCopiesPageBlockWhenCatalogReturnsFromHighlightsTab (FakeTabsReader, tabsSnapshot page 7, prepareForPresentation(source: .highlightsTabs), wait for .loaded, frozen page 7, queued C/Return while loading, exact 14-line YAML payload, Copied yaml · 14 lines, one write, one completion, card closed).
+- Baseline was clean 591e4fe. Working tree dirty only in that test file.
+- just portable-check in bob-mac-capture: passed, 1672 tests, 0 failures.
+- Mac scratch rsync to /tmp/bob-mac-capture-queued-code-return-expectations excluding .build/.git; ./Scripts/bundle.sh then just typecheck-tests passed (PASS BobMacCaptureTests, BobMacCaptureInstallHelperTests, CaptureCoreTests, RefsCoreTests; stub typecheck only). Scratch copy then removed. Never used Bryan's checkout or just install.
+- epic-symbols for the assigned phase: no entries.
+- Phase note #2 already records the implementation evidence.
+
+This monitor ran `sase tool run check` in the primary bob-cli checkout. Read its result with `sase tool show` / the monitor breakdown.
+
+If just check failed:
+- Investigate whether this change caused it. The bob-cli tree should be unchanged by this phase (edits are in bob-mac-capture only).
+- For an unrelated failure, reproduce on the clean base and record exact evidence plus any already tracking task as `sase bead note bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4 'PROPOSED FOLLOW-UP: ...'` for the lander. An identical base failure does not keep the phase open. Do not create task beads.
+
+If just check passed, or the only failures are unrelated and reproduced on the clean base:
+1. Re-run `sase bead epic-symbols bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4`. Resolve any new entries or re-key the relevant Justfile line to a still-open parent/later phase before closing.
+2. Close only this phase:
+   sase bead close bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.4 --note "<verified changes, check results, and pending landed-SHA macOS CI>"
+   Include: test correction summary; portable-check 1672/0; Mac bundle+typecheck-tests stub PASS; just check result; linked repo still needs host commit of RefsPanelModelTests.swift; real runtime verdict is master CI after the final commit lands; parent epic lander must inspect the run for the exact landed SHA (including later steps after lint), verify these queued-Return cases and the full suite, and only then close bob-cli-cr.
+3. Do not close bob-cli-cr, do not close a parent/ancestor, do not change status by hand, do not use raw Git commits.
+4. Finalize changed repositories through `/sase_final`. bob-mac-capture is part of the declaration (commit the test file). Primary bob-cli should have no source changes from this phase. Use bead_action close on the assigned phase only after the close command above has already closed it, or close via the declaration if still open and fully verified — prefer the explicit sase bead close with the verification note first.
+
+Leave the parent lander the CI and task-closure evidence it needs.
 
