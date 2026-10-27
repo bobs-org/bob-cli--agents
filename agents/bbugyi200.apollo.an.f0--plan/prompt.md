@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:an Can you now help me add a new `<cmd+/>` keymap for the bob-mac-capture app's ref panel (in addition to the existing `<cmd+ctrl+shift+o>` keymap)? #plan %m:@xlarge %auto

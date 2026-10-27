@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-27T17:58:37.673332+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/six\_month\_work\_audit\_activity\_themes\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261027135806/six\_month\_work\_audit\_activity\_theme… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/six_month_work_audit_activity_themes__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027135806/six_month_work_audit_activity_themes__cdx-abe6a1fada70.md
+  ref: file:explicit:8d93a79c9c73e11a4e182759
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202610/six_month_work_audit_activity_themes__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.2q.grk](../bbugyi200.apollo.research.2q.grk/README.md) | research.2q hood | active |
 | [research.2q.image](../bbugyi200.apollo.research.2q.image/README.md) | research.2q hood | waiting |
 | [research.2q.linker](../bbugyi200.apollo.research.2q.linker/README.md) | research.2q hood | waiting |
-| [research.2q.mus](../bbugyi200.apollo.research.2q.mus/README.md) | research.2q hood | active |
+| [research.2q.mus](../bbugyi200.apollo.research.2q.mus/README.md) | research.2q hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |

@@ -23,7 +23,7 @@ flowchart TD
   n0 --> n6
   n7["an--gate [failed]"]
   n0 --> n7
-  n8["an--3 [active]"]
+  n8["an--3 [completed]"]
   n0 --> n8
 ```
 
@@ -39,10 +39,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-2"></a>2 | an--2 | completed | grok-4.6 / grok | 2026-10-27T15:56:07.447240+00:00 → 2026-10-27T16:02:26.780623+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.an--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.an--2/chat.md) |
 | <a id="member-1"></a>1 | an--1 | completed | grok-4.6 / grok | 2026-10-27T15:37:16.629241+00:00 → 2026-10-27T15:44:40.984051+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.an--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.an--1/chat.md) |
 | <a id="member-gate"></a>gate | an--gate | failed | opus / claude | 2026-10-27T15:06:12.323008+00:00 → 2026-10-27T15:06:26.997729+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.an--gate/chat.md) |
-| <a id="member-3"></a>3 | an--3 | active | grok-4.6 / grok | 2026-10-27T16:18:12.971760+00:00 | [1](../agents/bbugyi200.apollo.an--3/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.an--3/prompt.md) | — |
+| <a id="member-3"></a>3 | an--3 | completed | grok-4.6 / grok | 2026-10-27T16:18:12.971760+00:00 → 2026-10-27T16:26:17.085535+00:00 | [1](../agents/bbugyi200.apollo.an--3/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.an--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.an--3/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | 3 | bob-cli | [`9613af8`](https://github.com/bobs-org/bob-cli/commit/9613af8550219edf502e2f694e6ee49990216dbf) | docs(guides): document the Mac Capture Command-\\ alias | 2026-10-27 12:20:19 EDT |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [an.f0](bbugyi200.apollo.an.f0.md) (session · 5) | descendant | completed 3, failed 2 |
+| [an.f0.w0](../agents/bbugyi200.apollo.an.f0.w0/README.md) | descendant | active |
