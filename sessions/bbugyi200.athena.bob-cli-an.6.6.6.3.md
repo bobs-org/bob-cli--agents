@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | bob-cli-an.6.6.6.3--1 | active | gpt-6-luna / codex | 2026-10-24T10:04:42.139487+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.3--1/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-an.6.6.6.3--mon | active | gpt-6-luna / codex | 2026-10-24T09:52:41.836978+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.3--mon/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-an.6.6.6.3--mon | active | gpt-6-luna / codex | 2026-10-24T09:52:41.836978+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | bob-cli-an.6.6.6.3--plan | active | gpt-6-luna / codex | 2026-10-24T09:43:02.043601+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.3--plan/chat.md) |
 
 ## Neighbors
@@ -77,7 +77,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1.md) (session · 13) | bob-cli-an.6.6.6 hood | completed 7, failed 6 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2.md) (session · 11) | bob-cli-an.6.6.6 hood | completed 6, failed 5 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.3](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.3/README.md) | bob-cli-an.6.6.6 hood | completed |
-| … and 23 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) | bob-cli-an.6.6.6 hood | — |
+| … and 25 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) | bob-cli-an.6.6.6 hood | — |
 | [bob-cli-an.6.6.1](../agents/bbugyi200.athena.bob-cli-an.6.6.1/README.md) | bob-cli-an.6.6 hood | active |
 | [bob-cli-an.6.6.2](bbugyi200.athena.bob-cli-an.6.6.2.md) (session · 3) | bob-cli-an.6.6 hood | active 3 |
 | [bob-cli-an.6.6.3](bbugyi200.athena.bob-cli-an.6.6.3.md) (session · 5) | bob-cli-an.6.6 hood | active 5 |
