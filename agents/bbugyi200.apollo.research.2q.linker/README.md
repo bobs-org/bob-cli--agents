@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2q.linker
 
-**Global name:** `bbugyi200.apollo.research.2q.linker` · **State:** waiting · **Source run:** `run-d3fbd313b56e4ecc77c0d74138e4f58f`
+**Global name:** `bbugyi200.apollo.research.2q.linker` · **State:** active · **Source run:** `run-d3fbd313b56e4ecc77c0d74138e4f58f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261027135814
+- Timing: 2026-10-27T19:02:38.483920+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/work\_kind\_pomodoro\_theme\_set/work\_kind\_pomodoro\_theme\_set.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261027135814/work\_kind\_pomodoro\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/work_kind_pomodoro_theme_set/work_kind_pomodoro_theme_set.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027135814/work_kind_pomodoro_theme_set-2da39ccd8974.md
+  ref: file:explicit:e48a43468389f90bc55db7af
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/work_kind_pomodoro_theme_set/work_kind_pomodoro_theme_set.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -26,7 +45,7 @@
 | [research.2q.final](../bbugyi200.apollo.research.2q.final/README.md) | research.2q hood | completed |
 | [research.2q.gem](../bbugyi200.apollo.research.2q.gem/README.md) | research.2q hood | completed |
 | [research.2q.grk](../bbugyi200.apollo.research.2q.grk/README.md) | research.2q hood | completed |
-| [research.2q.image](../bbugyi200.apollo.research.2q.image/README.md) | research.2q hood | active |
+| [research.2q.image](../bbugyi200.apollo.research.2q.image/README.md) | research.2q hood | completed |
 | [research.2q.mus](../bbugyi200.apollo.research.2q.mus/README.md) | research.2q hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
