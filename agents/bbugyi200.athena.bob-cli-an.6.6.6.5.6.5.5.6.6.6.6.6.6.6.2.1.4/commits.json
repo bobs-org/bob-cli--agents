@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-67062cf8c9785d74f7a1b1cf0ff88c16"}
+{"commits":[{"committed_at":1793075675,"sha":"0971ad564b7661e2a79a076626fbbc20fad48b5a","subject":"feat(highlights-ref): route capture replacement writers through guarded publish boundary"}],"schema_version":2,"source_run_id":"run-67062cf8c9785d74f7a1b1cf0ff88c16"}
