@@ -79,4 +79,4 @@
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.1/README.md) | bob-cli-an hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.2/README.md) | bob-cli-an hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.3/README.md) | bob-cli-an hood | completed |
-| … and 45 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) | bob-cli-an hood | — |
+| … and 51 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) | bob-cli-an hood | — |
