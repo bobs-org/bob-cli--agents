@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ebd5632cf1f0513d34a8b1763cf4d0ba"}
+{"commits":[{"committed_at":1793086378,"sha":"49f6131d9b98496458629572b5102eab76c3262d","subject":"feat(plugins): warn when a deployed plugin folder is not git-ignored or is tracked"}],"schema_version":2,"source_run_id":"run-ebd5632cf1f0513d34a8b1763cf4d0ba"}
