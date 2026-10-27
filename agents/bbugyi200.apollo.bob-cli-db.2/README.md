@@ -1,0 +1,27 @@
+# Agent: bob-cli-db.2
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-db](../../users/bbugyi200/machines/apollo/hoods/bob-cli-db/README.md) / bob-cli-db.2
+
+**Global name:** `bbugyi200.apollo.bob-cli-db.2` · **State:** waiting · **Source run:** `run-66c6897c280e9e9f9c053eab55baffe3`
+
+**Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-db
+
+## Summary
+
+- Bead: [bob-cli-db.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-db/bob-cli-db.2.md)
+- Epic: [bob-cli-db](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-db/README.md)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 20261027171148
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-db.1](../bbugyi200.apollo.bob-cli-db.1/README.md) | bob-cli-db hood | active |
+| [bob-cli-db.land](../bbugyi200.apollo.bob-cli-db.land/README.md) | bob-cli-db hood | waiting |
