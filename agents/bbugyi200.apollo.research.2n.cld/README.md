@@ -12,16 +12,35 @@
 - Provider: claude
 - Timing: 2026-10-27T14:42:41.856392+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/pomodoro\_theme\_vocabulary\_audit\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261027104159/pomodoro\_theme\_vocabulary\_audit\_\_cld-a4f… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/pomodoro_theme_vocabulary_audit__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027104159/pomodoro_theme_vocabulary_audit__cld-a4ff0efb5405.md
+  ref: file:explicit:9aafae93c0362e99ecdf8086
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202610/pomodoro_theme_vocabulary_audit__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.2n.cdx](../bbugyi200.apollo.research.2n.cdx/README.md) | research.2n hood | active |
+| [research.2n.cdx](../bbugyi200.apollo.research.2n.cdx/README.md) | research.2n hood | completed |
 | [research.2n.final](../bbugyi200.apollo.research.2n.final/README.md) | research.2n hood | waiting |
 | [research.2n.gem](../bbugyi200.apollo.research.2n.gem/README.md) | research.2n hood | completed |
 | [research.2n.grk](../bbugyi200.apollo.research.2n.grk/README.md) | research.2n hood | active |
