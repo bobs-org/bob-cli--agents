@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-da.4.1.land--gate [failed]"]
   n1["bob-cli-da.4.1.land--mon [failed]"]
   n0 --> n1
-  n2["bob-cli-da.4.1.land--1 [active]"]
+  n2["bob-cli-da.4.1.land--1 [completed]"]
   n0 --> n2
   n3["bob-cli-da.4.1.land--plan [completed]"]
   n0 --> n3
@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-da.4.1.land--gate | failed | gpt-6-astra / codex | 2026-10-27T22:12:16.387432+00:00 → 2026-10-27T22:12:57.971337+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-da.4.1.land--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-da.4.1.land--mon | failed | gpt-6-luna / codex | 2026-10-27T22:29:36.504868+00:00 → 2026-10-27T22:32:41.971338+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-da.4.1.land--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-da.4.1.land--1 | active | gpt-6-luna / codex | 2026-10-27T22:33:50.892425+00:00 | [1](../agents/bbugyi200.athena.bob-cli-da.4.1.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-da.4.1.land--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-da.4.1.land--1 | completed | gpt-6-luna / codex | 2026-10-27T22:33:50.892425+00:00 → 2026-10-27T22:45:44.569412+00:00 | [1](../agents/bbugyi200.athena.bob-cli-da.4.1.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-da.4.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-da.4.1.land--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-da.4.1.land--plan | completed | gpt-6-astra / codex | 2026-10-27T22:02:09.746910+00:00 → 2026-10-27T22:30:57.115434+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-da.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-da.4.1.land--plan/chat.md) |
 | <a id="member-code"></a>code | bob-cli-da.4.1.land--code | completed | gpt-6-luna / codex | 2026-10-27T22:13:51.305361+00:00 → 2026-10-27T22:30:57.115434+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-da.4.1.land--code/chat.md) |
 
@@ -45,4 +45,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-da.1](bbugyi200.athena.bob-cli-da.1.md) (session · 5) | bob-cli-da hood | completed 3, failed 2 |
 | [bob-cli-da.2](bbugyi200.athena.bob-cli-da.2.md) (session · 7) | bob-cli-da hood | completed 4, failed 3 |
 | [bob-cli-da.3](../agents/bbugyi200.athena.bob-cli-da.3/README.md) | bob-cli-da hood | completed |
-| [bob-cli-da.land](../agents/bbugyi200.athena.bob-cli-da.land/README.md) | bob-cli-da hood | active |
+| [bob-cli-da.land](bbugyi200.athena.bob-cli-da.land.md) (session · 3) | bob-cli-da hood | failed 3 |
