@@ -46,4 +46,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-ct.2](../../sessions/bbugyi200.athena.bob-cli-ct.2.md) (session · 3) | bob-cli-ct hood | completed 2, failed 1 |
 | [bob-cli-ct.4](../bbugyi200.athena.bob-cli-ct.4/README.md) | bob-cli-ct hood | completed |
 | [bob-cli-ct.5](../bbugyi200.athena.bob-cli-ct.5/README.md) | bob-cli-ct hood | completed |
-| [bob-cli-ct.land](../bbugyi200.athena.bob-cli-ct.land/README.md) | bob-cli-ct hood | waiting |
+| [bob-cli-ct.land](../bbugyi200.athena.bob-cli-ct.land/README.md) | bob-cli-ct hood | active |
