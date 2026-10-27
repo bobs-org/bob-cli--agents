@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0149e7703c2c00cb1293048995683a0e"}
+{"commits":[{"committed_at":1793128689,"sha":"d208c595c7483acb43a4407018a0171fd21df8fc","subject":"fix(tests): gate note-profile snapshot renders by package availability"}],"schema_version":2,"source_run_id":"run-0149e7703c2c00cb1293048995683a0e"}
