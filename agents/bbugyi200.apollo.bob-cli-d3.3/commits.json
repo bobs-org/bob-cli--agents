@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4ed8f258862b1feb80c5e092ace50fd9"}
+{"commits":[{"committed_at":1793120690,"sha":"6dea005804abd61702ea5355d5999571dbd644aa","subject":"feat(web-ref): multi-URL collections save one source and catalog"}],"schema_version":2,"source_run_id":"run-4ed8f258862b1feb80c5e092ace50fd9"}
