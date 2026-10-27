@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-27T18:25:41.593124+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/work\_kind\_pomodoro\_theme\_set/work\_kind\_pomodoro\_theme\_set\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261027135812/work\_kind\_po… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/work_kind_pomodoro_theme_set/work_kind_pomodoro_theme_set__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027135812/work_kind_pomodoro_theme_set__final-cdf6500ae773.md
+  ref: file:explicit:d4ef4427f5664e958724ab11
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202610/work_kind_pomodoro_theme_set/work_kind_pomodoro_theme_set__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
