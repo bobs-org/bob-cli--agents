@@ -1,0 +1,21 @@
+# Hood: bob-cli-bk
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-bk
+
+**Global hood:** `bbugyi200.apollo.bob-cli-bk` · **Runs:** 13 · **Sessions:** 2 · **States:** active 12, completed 1
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [bob-cli-bk.land--gate](../../../../../../sessions/bbugyi200.apollo.bob-cli-bk.land.md#member-gate) | active | gpt-6-astra / codex | 2026-10-24T22:23:22.998787+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.land--gate/chat.md) |
+| [bob-cli-bk.4--mon-0](../../../../../../sessions/bbugyi200.apollo.bob-cli-bk.4.md#member-mon-0) | active | gpt-6-luna / codex | 2026-10-24T21:48:16.707062+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.4--mon-0/chat.md) |
+| [bob-cli-bk.1](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.1/README.md) | active | gpt-6-luna / codex | 2026-10-24T18:14:56.606379+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.1/chat.md) |
+| [bob-cli-bk.2](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.2/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-24T19:01:49.185744+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.2/chat.md) |
+| [bob-cli-bk.land--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-bk.land.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-10-24T22:23:51.555007+00:00 → 2026-10-24T23:07:21.754446+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.land--code/chat.md) |
+| [bob-cli-bk.3](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.3/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-24T20:50:19.372318+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.3/chat.md) |
+| [bob-cli-bk.4--mon](../../../../../../sessions/bbugyi200.apollo.bob-cli-bk.4.md#member-mon) | active | gpt-6-luna / codex | 2026-10-24T21:40:57.699797+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.4--mon/chat.md) |
+| [bob-cli-bk.4--2](../../../../../../sessions/bbugyi200.apollo.bob-cli-bk.4.md#member-2) | active | gpt-6-luna / codex | 2026-10-24T21:50:07.738983+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.4--2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.4--2/chat.md) |
+| [bob-cli-bk.land--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-bk.land.md#member-plan) | active | gpt-6-astra / codex | 2026-10-24T22:13:02.967133+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.land--plan/chat.md) |
+| [bob-cli-bk.4--3](../../../../../../sessions/bbugyi200.apollo.bob-cli-bk.4.md#member-3) | active | gpt-6-luna / codex | 2026-10-24T21:59:45.830648+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.4--3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.4--3/chat.md) |
+| [bob-cli-bk.4--1](../../../../../../sessions/bbugyi200.apollo.bob-cli-bk.4.md#member-1) | active | gpt-6-luna / codex | 2026-10-24T21:44:59.831839+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.4--1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.4--1/chat.md) |
+| [bob-cli-bk.4--mon-1](../../../../../../sessions/bbugyi200.apollo.bob-cli-bk.4.md#member-mon-1) | active | gpt-6-luna / codex | 2026-10-24T21:56:19.383574+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.4--mon-1/chat.md) |
+| [bob-cli-bk.4--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-bk.4.md#member-plan) | active | gpt-6-luna / codex | 2026-10-24T21:18:30.253717+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.4--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-bk.4--plan/chat.md) |
