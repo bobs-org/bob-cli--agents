@@ -12,7 +12,7 @@
 - Model: opus
 - Provider: claude
 - Timing: 2026-10-27T06:20:14.683009+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Files
 
@@ -23,6 +23,7 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | bob-cli | [`0a5f079`](https://github.com/bobs-org/bob-cli/commit/0a5f079320a2add11749b24e54895b70dce34ed1) | test(file-coordination): fix macOS-only move-coordination test build | 2026-10-27 02:40:09 EDT |
+| bob-cli | [`2f004d7`](https://github.com/bobs-org/bob-cli/commit/2f004d7722bde0dd8ae7ba13a16581defcc21bcd) | fix(plugins): record deploy stamp time in real UTC | 2026-10-27 02:53:40 EDT |
 
 ## Neighbors
 
