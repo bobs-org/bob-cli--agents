@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-d7` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-d7.1--1 [active]"]
+  n0["bob-cli-d7.1--1 [completed]"]
   n1["bob-cli-d7.1--mon [failed]"]
   n0 --> n1
   n2["bob-cli-d7.1--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-d7.1--1 | active | gpt-6-luna / codex | 2026-10-27T19:15:16.535994+00:00 | [1](../agents/bbugyi200.athena.bob-cli-d7.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-d7.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-d7.1--1 | completed | gpt-6-luna / codex | 2026-10-27T19:15:16.535994+00:00 → 2026-10-27T19:20:00.187049+00:00 | [1](../agents/bbugyi200.athena.bob-cli-d7.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-d7.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-d7.1--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-d7.1--mon | failed | gpt-6-luna / codex | 2026-10-27T19:06:45.897391+00:00 → 2026-10-27T19:13:53.045962+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-d7.1--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-d7.1--plan | completed | gpt-6-luna / codex | 2026-10-27T18:57:55.549640+00:00 → 2026-10-27T19:07:51.439571+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-d7.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-d7.1--plan/chat.md) |
 
@@ -34,6 +34,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-d7.2](../agents/bbugyi200.athena.bob-cli-d7.2/README.md) | bob-cli-d7 hood | completed |
-| [bob-cli-d7.3](../agents/bbugyi200.athena.bob-cli-d7.3/README.md) | bob-cli-d7 hood | active |
+| [bob-cli-d7.3](bbugyi200.athena.bob-cli-d7.3.md) (session · 3) | bob-cli-d7 hood | active 1, completed 1, failed 1 |
 | [bob-cli-d7.4](bbugyi200.athena.bob-cli-d7.4.md) (session · 3) | bob-cli-d7 hood | active 1, completed 1, failed 1 |
 | [bob-cli-d7.land](../agents/bbugyi200.athena.bob-cli-d7.land/README.md) | bob-cli-d7 hood | waiting |
