@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-10-27T14:42:28.990005+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/pomodoro\_theme\_boundaries\_attention\_and\_work\_review\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261027104157/pomodoro\_theme\_bound… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/pomodoro_theme_boundaries_attention_and_work_review__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261027104157/pomodoro_theme_boundaries_attention_and_work_review__cdx-2eee1920d046.md
+  ref: file:explicit:777a26beb3d239238102db05
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/pomodoro_theme_boundaries_attention_and_work_review__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,11 +42,11 @@
 |---|---|---|
 | [research.2n.cld](../bbugyi200.apollo.research.2n.cld/README.md) | research.2n hood | active |
 | [research.2n.final](../bbugyi200.apollo.research.2n.final/README.md) | research.2n hood | waiting |
-| [research.2n.gem](../bbugyi200.apollo.research.2n.gem/README.md) | research.2n hood | active |
+| [research.2n.gem](../bbugyi200.apollo.research.2n.gem/README.md) | research.2n hood | completed |
 | [research.2n.grk](../bbugyi200.apollo.research.2n.grk/README.md) | research.2n hood | active |
 | [research.2n.image](../bbugyi200.apollo.research.2n.image/README.md) | research.2n hood | waiting |
 | [research.2n.linker](../bbugyi200.apollo.research.2n.linker/README.md) | research.2n hood | waiting |
-| [research.2n.mus](../bbugyi200.apollo.research.2n.mus/README.md) | research.2n hood | active |
+| [research.2n.mus](../bbugyi200.apollo.research.2n.mus/README.md) | research.2n hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
