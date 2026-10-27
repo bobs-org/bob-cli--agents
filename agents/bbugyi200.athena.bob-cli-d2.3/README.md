@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-d2](../../users/bbugyi200/machines/athena/hoods/bob-cli-d2/README.md) / bob-cli-d2.3
 
-**Global name:** `bbugyi200.athena.bob-cli-d2.3` · **State:** active · **Source run:** `run-e53348952d7ec72bef35f1ebe679afce`
+**Global name:** `bbugyi200.athena.bob-cli-d2.3` · **State:** completed · **Source run:** `run-e53348952d7ec72bef35f1ebe679afce`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-d2
 
@@ -12,13 +12,13 @@
 - Epic: [bob-cli-d2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-d2/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-27T12:35:19.072642+00:00
+- Timing: 2026-10-27T12:35:19.072642+00:00 → 2026-10-27T13:02:36.858809+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -57,4 +57,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [bob-cli-d2.1](../bbugyi200.athena.bob-cli-d2.1/README.md) | bob-cli-d2 hood | completed |
 | [bob-cli-d2.2](../../sessions/bbugyi200.athena.bob-cli-d2.2.md) (session · 5) | bob-cli-d2 hood | completed 3, failed 2 |
-| [bob-cli-d2.land](../bbugyi200.athena.bob-cli-d2.land/README.md) | bob-cli-d2 hood | waiting |
+| [bob-cli-d2.land](../../sessions/bbugyi200.athena.bob-cli-d2.land.md) (session · 3) | bob-cli-d2 hood | active 2, failed 1 |
