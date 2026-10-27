@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-an` · Members: 19 · Bead: [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-an` · Members: 24 · Bead: [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4.md)
 
 ## Lineage
 
@@ -17,34 +17,44 @@ flowchart TD
   n0 --> n3
   n4["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--3 [completed]"]
   n0 --> n4
-  n5["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--plan [completed]"]
+  n5["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-7 [failed]"]
   n0 --> n5
-  n6["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--5 [completed]"]
+  n6["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--plan [completed]"]
   n0 --> n6
-  n7["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-6 [failed]"]
+  n7["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--5 [completed]"]
   n0 --> n7
-  n8["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-3 [failed]"]
+  n8["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-9 [active]"]
   n0 --> n8
-  n9["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--2 [completed]"]
+  n9["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-6 [failed]"]
   n0 --> n9
-  n10["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--gate [failed]"]
+  n10["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-3 [failed]"]
   n0 --> n10
-  n11["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-4 [failed]"]
+  n11["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--2 [completed]"]
   n0 --> n11
-  n12["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--1 [completed]"]
+  n12["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--gate [failed]"]
   n0 --> n12
-  n13["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-2 [failed]"]
+  n13["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--a [completed]"]
   n0 --> n13
-  n14["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-0 [failed]"]
+  n14["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-4 [failed]"]
   n0 --> n14
-  n15["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-1 [failed]"]
+  n15["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--1 [completed]"]
   n0 --> n15
-  n16["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--code [completed]"]
+  n16["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-2 [failed]"]
   n0 --> n16
-  n17["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--8 [active]"]
+  n17["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-0 [failed]"]
   n0 --> n17
-  n18["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--6 [completed]"]
+  n18["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-1 [failed]"]
   n0 --> n18
+  n19["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--code [completed]"]
+  n0 --> n19
+  n20["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--9 [completed]"]
+  n0 --> n20
+  n21["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--8 [completed]"]
+  n0 --> n21
+  n22["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-8 [failed]"]
+  n0 --> n22
+  n23["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--6 [completed]"]
+  n0 --> n23
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -56,26 +66,31 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-5"></a>mon-5 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-5 | failed | gpt-6-luna / codex | 2026-10-27T11:47:27.963675+00:00 → 2026-10-27T11:50:01.544765+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-5/chat.md) |
 | <a id="member-4"></a>4 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--4 | completed | gpt-6-luna / codex | 2026-10-27T11:19:26.441137+00:00 → 2026-10-27T11:23:51.792938+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--4/chat.md) |
 | <a id="member-3"></a>3 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--3 | completed | gpt-6-luna / codex | 2026-10-27T11:09:18.048763+00:00 → 2026-10-27T11:16:27.844606+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--3/chat.md) |
+| <a id="member-mon-7"></a>mon-7 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-7 | failed | gpt-6-luna / codex | 2026-10-27T12:05:57.149972+00:00 → 2026-10-27T12:09:19.711741+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-7/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--plan | completed | gpt-6-astra / codex | 2026-10-27T10:27:29.669076+00:00 → 2026-10-27T10:47:16.584418+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--plan/chat.md) |
 | <a id="member-5"></a>5 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--5 | completed | gpt-6-luna / codex | 2026-10-27T11:27:39.160945+00:00 → 2026-10-27T11:32:24.517261+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--5/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--5/chat.md) |
+| <a id="member-mon-9"></a>mon-9 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-9 | active | gpt-6-luna / codex | 2026-10-27T12:23:37.781205+00:00 | 0 | — | — |
 | <a id="member-mon-6"></a>mon-6 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-6 | failed | gpt-6-luna / codex | 2026-10-27T11:53:07.583474+00:00 → 2026-10-27T12:00:32.973319+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-6/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-3 | failed | gpt-6-luna / codex | 2026-10-27T11:22:40.632917+00:00 → 2026-10-27T11:26:38.598689+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-3/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--2 | completed | gpt-6-luna / codex | 2026-10-27T10:59:19.320622+00:00 → 2026-10-27T11:06:47.172829+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--2/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--gate | failed | gpt-6-astra / codex | 2026-10-27T10:32:48.275195+00:00 → 2026-10-27T10:33:27.573848+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--gate/chat.md) |
+| <a id="member-a"></a>a | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--a | completed | gpt-6-luna / codex | 2026-10-27T12:20:06.724707+00:00 → 2026-10-27T12:24:27.975755+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--a/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--a/chat.md) |
 | <a id="member-mon-4"></a>mon-4 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-4 | failed | gpt-6-luna / codex | 2026-10-27T11:31:27.970514+00:00 → 2026-10-27T11:38:39.775146+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-4/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--1 | completed | gpt-6-luna / codex | 2026-10-27T10:50:18.708769+00:00 → 2026-10-27T10:55:02.460021+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--1/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-2 | failed | gpt-6-luna / codex | 2026-10-27T11:15:34.540442+00:00 → 2026-10-27T11:18:31.475827+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-0 | failed | gpt-6-luna / codex | 2026-10-27T10:53:31.865612+00:00 → 2026-10-27T10:58:09.808473+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-0/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-1 | failed | gpt-6-luna / codex | 2026-10-27T11:06:07.524792+00:00 → 2026-10-27T11:08:27.983561+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-1/chat.md) |
 | <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--code | completed | gpt-6-luna / codex | 2026-10-27T10:33:59.540413+00:00 → 2026-10-27T10:47:16.584418+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--code/chat.md) |
-| <a id="member-8"></a>8 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--8 | active | gpt-6-luna / codex | 2026-10-27T12:01:36.289226+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--8/prompt.md) | — |
+| <a id="member-9"></a>9 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--9 | completed | gpt-6-luna / codex | 2026-10-27T12:09:52.109259+00:00 → 2026-10-27T12:12:44.968436+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--9/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--9/chat.md) |
+| <a id="member-8"></a>8 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--8 | completed | gpt-6-luna / codex | 2026-10-27T12:01:36.289226+00:00 → 2026-10-27T12:06:54.415415+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--8/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--8/chat.md) |
+| <a id="member-mon-8"></a>mon-8 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-8 | failed | gpt-6-luna / codex | 2026-10-27T12:12:06.624479+00:00 → 2026-10-27T12:19:16.753525+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--mon-8/chat.md) |
 | <a id="member-6"></a>6 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--6 | completed | gpt-6-luna / codex | 2026-10-27T11:39:42.880360+00:00 → 2026-10-27T11:48:08.247110+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--6/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4--6/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1.md) (session · 9) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | active 1, completed 4, failed 4 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1.md) (session · 11) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | active 1, completed 5, failed 5 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.2](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.3](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.3.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.5](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.5.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | completed 2, failed 1 |
@@ -101,33 +116,33 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.5](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6 hood | active |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.land](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.land.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6 hood | active 3 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.land](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.land/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1.md) (session · 13) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed 7, failed 6 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2.md) (session · 11) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed 6, failed 5 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.3](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.4](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.4/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.5](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.land](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.land.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | failed 3 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.1.md) (session · 13) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | active 11, completed 1, failed 1 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.2.md) (session · 11) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | active 9, completed 1, failed 1 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.3](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.4](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.4/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.5](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.land](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.land.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | active 3 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.land](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.land/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.1.md) (session · 4) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | active 1, completed 2, failed 1 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.2](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3.md) (session · 7) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | completed 4, failed 3 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.4](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.4.md) (session · 5) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | completed 3, failed 2 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.5](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.5.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | completed 2, failed 1 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.land](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.land.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | failed 3 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.1.md) (session · 4) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | active 4 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.2](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.3.md) (session · 7) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | active 5, completed 1, failed 1 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.4](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.4.md) (session · 5) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | active 3, completed 1, failed 1 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.5](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.5.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | active 2, completed 1 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.land](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.land.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | active 3 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.land](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.land/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.1/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.2](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.2.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | completed 2, failed 1 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.3](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.4](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.4/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.5](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.land](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.land.md) (session · 5) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | failed 5 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.1.md) (session · 5) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | completed 3, failed 2 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.1/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.2](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.2.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | active 3 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.3](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.4](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.4/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.5](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.land](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.land.md) (session · 5) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6 hood | active 2, failed 3 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.1.md) (session · 5) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | active 5 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.1/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.2](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.3](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.4](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.4/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.5](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | completed |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.land](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.land.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | failed 3 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.2](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.3](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.4](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.4/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.5](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.5/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.land](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.land.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6 hood | active 3 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.1/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6 hood | active |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.2](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6 hood | active |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.3](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.3/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6 hood | active |
