@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #coder:~/.sase/plans/202610/refs_new_reference_resets_view.md %m:gpt-6-astra

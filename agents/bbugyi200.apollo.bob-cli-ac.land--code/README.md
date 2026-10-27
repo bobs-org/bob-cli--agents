@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `5d212ef` | ci(release): fix archive names and recover v0.2.0 binaries | 2026-10-21 01:23:23 EDT |
+| bob-cli | [`5d212ef`](https://github.com/bobs-org/bob-cli/commit/5d212ef964b862fb9675dbe76dbd9281b87bf77d) | ci(release): fix archive names and recover v0.2.0 binaries | 2026-10-21 01:23:23 EDT |
 
 ## Variables
 
@@ -48,11 +48,11 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ac.1](../bbugyi200.apollo.bob-cli-ac.1/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.2](../../sessions/bbugyi200.apollo.bob-cli-ac.2.md) (session · 5) | bob-cli-ac hood | completed 3, failed 2 |
-| [bob-cli-ac.3](../../sessions/bbugyi200.apollo.bob-cli-ac.3.md) (session · 13) | bob-cli-ac hood | completed 7, failed 6 |
-| [bob-cli-ac.4](../bbugyi200.apollo.bob-cli-ac.4/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.5](../bbugyi200.apollo.bob-cli-ac.5/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.6](../bbugyi200.apollo.bob-cli-ac.6/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.7](../bbugyi200.apollo.bob-cli-ac.7/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.8](../../sessions/bbugyi200.apollo.bob-cli-ac.8.md) (session · 3) | bob-cli-ac hood | completed 2, failed 1 |
+| [bob-cli-ac.1](../bbugyi200.apollo.bob-cli-ac.1/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.2](../../sessions/bbugyi200.apollo.bob-cli-ac.2.md) (session · 5) | bob-cli-ac hood | active 5 |
+| [bob-cli-ac.3](../../sessions/bbugyi200.apollo.bob-cli-ac.3.md) (session · 13) | bob-cli-ac hood | active 13 |
+| [bob-cli-ac.4](../bbugyi200.apollo.bob-cli-ac.4/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.5](../bbugyi200.apollo.bob-cli-ac.5/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.6](../bbugyi200.apollo.bob-cli-ac.6/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.7](../bbugyi200.apollo.bob-cli-ac.7/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.8](../../sessions/bbugyi200.apollo.bob-cli-ac.8.md) (session · 3) | bob-cli-ac hood | active 3 |

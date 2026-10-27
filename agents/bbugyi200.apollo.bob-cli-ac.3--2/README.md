@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ac](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ac/README.md) / [bob-cli-ac.3](../../sessions/bbugyi200.apollo.bob-cli-ac.3.md) / bob-cli-ac.3--2
 
-**Global name:** `bbugyi200.apollo.bob-cli-ac.3--2` · **State:** completed · **Source run:** `run-b28d1dcb49b7b3e993608bab54d31750`
+**Global name:** `bbugyi200.apollo.bob-cli-ac.3--2` · **State:** active · **Source run:** `run-b28d1dcb49b7b3e993608bab54d31750`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ac
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-ac.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ac/bob-cli-ac.3.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-21T00:35:23.418710+00:00 → 2026-10-21T00:57:20.741782+00:00
+- Timing: 2026-10-21T00:35:23.418710+00:00
 - Commits: 0
 
 ## Files
@@ -22,11 +22,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ac.1](../bbugyi200.apollo.bob-cli-ac.1/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.2](../../sessions/bbugyi200.apollo.bob-cli-ac.2.md) (session · 5) | bob-cli-ac hood | completed 3, failed 2 |
-| [bob-cli-ac.4](../bbugyi200.apollo.bob-cli-ac.4/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.5](../bbugyi200.apollo.bob-cli-ac.5/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.6](../bbugyi200.apollo.bob-cli-ac.6/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.7](../bbugyi200.apollo.bob-cli-ac.7/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.8](../../sessions/bbugyi200.apollo.bob-cli-ac.8.md) (session · 3) | bob-cli-ac hood | completed 2, failed 1 |
-| [bob-cli-ac.land](../../sessions/bbugyi200.apollo.bob-cli-ac.land.md) (session · 3) | bob-cli-ac hood | completed 2, failed 1 |
+| [bob-cli-ac.1](../bbugyi200.apollo.bob-cli-ac.1/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.2](../../sessions/bbugyi200.apollo.bob-cli-ac.2.md) (session · 5) | bob-cli-ac hood | active 5 |
+| [bob-cli-ac.4](../bbugyi200.apollo.bob-cli-ac.4/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.5](../bbugyi200.apollo.bob-cli-ac.5/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.6](../bbugyi200.apollo.bob-cli-ac.6/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.7](../bbugyi200.apollo.bob-cli-ac.7/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.8](../../sessions/bbugyi200.apollo.bob-cli-ac.8.md) (session · 3) | bob-cli-ac hood | active 3 |
+| [bob-cli-ac.land](../../sessions/bbugyi200.apollo.bob-cli-ac.land.md) (session · 3) | bob-cli-ac hood | active 2, completed 1 |

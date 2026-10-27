@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.04.mus
 
-**Global name:** `bbugyi200.apollo.research.04.mus` · **State:** failed · **Source run:** `run-71abc919e5a0d1e84849c93b87e5dd84`
+**Global name:** `bbugyi200.apollo.research.04.mus` · **State:** active · **Source run:** `run-71abc919e5a0d1e84849c93b87e5dd84`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.04.audio](../bbugyi200.apollo.research.04.audio/README.md) | research.04 hood | active |
 | [research.04.cdx](../bbugyi200.apollo.research.04.cdx/README.md) | research.04 hood | active |
-| [research.04.cld](../bbugyi200.apollo.research.04.cld/README.md) | research.04 hood | failed |
+| [research.04.cld](../bbugyi200.apollo.research.04.cld/README.md) | research.04 hood | active |
 | [research.04.final](../bbugyi200.apollo.research.04.final/README.md) | research.04 hood | active |
 | [research.04.gem](../bbugyi200.apollo.research.04.gem/README.md) | research.04 hood | active |
 | [research.04.grk](../bbugyi200.apollo.research.04.grk/README.md) | research.04 hood | active |
@@ -79,4 +79,4 @@
 | [research.07.audio](../bbugyi200.apollo.research.07.audio/README.md) | research hood | active |
 | [research.07.cdx](../bbugyi200.apollo.research.07.cdx/README.md) | research hood | active |
 | [research.07.cld](../bbugyi200.apollo.research.07.cld/README.md) | research hood | active |
-| … and 198 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 376 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

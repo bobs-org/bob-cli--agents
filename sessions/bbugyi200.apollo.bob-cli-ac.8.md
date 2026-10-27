@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-ac` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ac.8--plan [completed]"]
-  n1["bob-cli-ac.8--1 [completed]"]
+  n0["bob-cli-ac.8--plan [active]"]
+  n1["bob-cli-ac.8--1 [active]"]
   n0 --> n1
-  n2["bob-cli-ac.8--mon [failed]"]
+  n2["bob-cli-ac.8--mon [active]"]
   n0 --> n2
 ```
 
@@ -19,15 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-ac.8--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-21T03:45:48.665921+00:00 → 2026-10-21T03:52:02.829259+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ac.8--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ac.8--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-ac.8--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-21T04:03:11.813838+00:00 → 2026-10-21T04:20:42.067785+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ac.8--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ac.8--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ac.8--1/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-ac.8--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-21T03:51:02.033940+00:00 → 2026-10-21T04:03:12.316635+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ac.8--mon/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ac.8--plan | active | muse-spark-1.3-contributor / muse | 2026-10-21T03:45:48.665921+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ac.8--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ac.8--plan/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-ac.8--1 | active | muse-spark-1.3-contributor / muse | 2026-10-21T04:03:11.813838+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ac.8--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ac.8--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ac.8--1/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-ac.8--mon | active | muse-spark-1.3-contributor / muse | 2026-10-21T03:51:02.033940+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ac.8--mon/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | — | `1257c2e` | ci(release): upload binaries via ref instead of unsupported tag input | 2026-10-21 00:18:44 EDT |
+| 1 | bob-cli | [`1257c2e`](https://github.com/bobs-org/bob-cli/commit/1257c2e8d90cfaec4e8d6ad14edc457637685dac) | ci(release): upload binaries via ref instead of unsupported tag input | 2026-10-21 00:18:44 EDT |
 
 ## Variables
 
@@ -54,11 +54,11 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ac.1](../agents/bbugyi200.apollo.bob-cli-ac.1/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.2](bbugyi200.apollo.bob-cli-ac.2.md) (session · 5) | bob-cli-ac hood | completed 3, failed 2 |
-| [bob-cli-ac.3](bbugyi200.apollo.bob-cli-ac.3.md) (session · 13) | bob-cli-ac hood | completed 7, failed 6 |
-| [bob-cli-ac.4](../agents/bbugyi200.apollo.bob-cli-ac.4/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.5](../agents/bbugyi200.apollo.bob-cli-ac.5/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.6](../agents/bbugyi200.apollo.bob-cli-ac.6/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.7](../agents/bbugyi200.apollo.bob-cli-ac.7/README.md) | bob-cli-ac hood | completed |
-| [bob-cli-ac.land](bbugyi200.apollo.bob-cli-ac.land.md) (session · 3) | bob-cli-ac hood | completed 2, failed 1 |
+| [bob-cli-ac.1](../agents/bbugyi200.apollo.bob-cli-ac.1/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.2](bbugyi200.apollo.bob-cli-ac.2.md) (session · 5) | bob-cli-ac hood | active 5 |
+| [bob-cli-ac.3](bbugyi200.apollo.bob-cli-ac.3.md) (session · 13) | bob-cli-ac hood | active 13 |
+| [bob-cli-ac.4](../agents/bbugyi200.apollo.bob-cli-ac.4/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.5](../agents/bbugyi200.apollo.bob-cli-ac.5/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.6](../agents/bbugyi200.apollo.bob-cli-ac.6/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.7](../agents/bbugyi200.apollo.bob-cli-ac.7/README.md) | bob-cli-ac hood | active |
+| [bob-cli-ac.land](bbugyi200.apollo.bob-cli-ac.land.md) (session · 3) | bob-cli-ac hood | active 2, completed 1 |
