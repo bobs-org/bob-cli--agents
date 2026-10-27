@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--mon-0 [failed]"]
   n0 --> n3
-  n4["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--4 [active]"]
+  n4["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--4 [completed]"]
   n0 --> n4
   n5["bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--mon-1 [failed]"]
   n0 --> n5
@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-2"></a>2 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--2 | completed | grok-4.6 / grok | 2026-10-27T11:34:32.248071+00:00 → 2026-10-27T11:42:54.647095+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--2/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--mon | failed | grok-4.6 / grok | 2026-10-27T11:12:01.078536+00:00 → 2026-10-27T11:14:13.488926+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--mon/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--mon-0 | failed | grok-4.6 / grok | 2026-10-27T11:25:47.576477+00:00 → 2026-10-27T11:33:27.625623+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--mon-0/chat.md) |
-| <a id="member-4"></a>4 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--4 | active | grok-4.6 / grok | 2026-10-27T12:26:09.958348+00:00 | [1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--4/prompt.md) | — |
+| <a id="member-4"></a>4 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--4 | completed | grok-4.6 / grok | 2026-10-27T12:26:09.958348+00:00 → 2026-10-27T12:34:38.696468+00:00 | [1](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--4/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--mon-1 | failed | grok-4.6 / grok | 2026-10-27T11:42:15.137092+00:00 → 2026-10-27T11:56:30.394602+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--mon-1/chat.md) |
 | <a id="member-code"></a>code | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--code | completed | grok-4.6 / grok | 2026-10-27T10:35:33.819279+00:00 → 2026-10-27T11:12:49.074422+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--code/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--mon-2 | failed | grok-4.6 / grok | 2026-10-27T12:07:56.148899+00:00 → 2026-10-27T12:25:16.281122+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1--mon-2/chat.md) |
@@ -59,7 +59,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.2](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.3](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.3.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | completed 2, failed 1 |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4.md) (session · 24) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | active 1, completed 12, failed 11 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.4.md) (session · 29) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | active 1, completed 14, failed 14 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.5](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.5.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.land](../agents/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.land/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | waiting |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.1](bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.1.md) (session · 7) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6 hood | active 7 |

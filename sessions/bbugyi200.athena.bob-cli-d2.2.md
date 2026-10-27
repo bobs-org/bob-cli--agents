@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["bob-cli-d2.2--1 [completed]"]
   n0 --> n3
-  n4["bob-cli-d2.2--2 [active]"]
+  n4["bob-cli-d2.2--2 [completed]"]
   n0 --> n4
 ```
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | bob-cli-d2.2--mon-0 | failed | gpt-6-luna / codex | 2026-10-27T12:19:49.368100+00:00 → 2026-10-27T12:27:49.007280+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-d2.2--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-d2.2--mon | failed | gpt-6-luna / codex | 2026-10-27T12:07:02.075863+00:00 → 2026-10-27T12:12:41.787016+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-d2.2--mon/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-d2.2--1 | completed | gpt-6-luna / codex | 2026-10-27T12:13:36.004708+00:00 → 2026-10-27T12:20:33.520818+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-d2.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-d2.2--1/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-d2.2--2 | active | gpt-6-luna / codex | 2026-10-27T12:27:10.785091+00:00 | [1](../agents/bbugyi200.athena.bob-cli-d2.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-d2.2--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-d2.2--2 | completed | gpt-6-luna / codex | 2026-10-27T12:27:10.785091+00:00 → 2026-10-27T12:34:15.734823+00:00 | [1](../agents/bbugyi200.athena.bob-cli-d2.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-d2.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-d2.2--2/chat.md) |
 
 ## Commits
 
@@ -40,5 +40,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-d2.1](../agents/bbugyi200.athena.bob-cli-d2.1/README.md) | bob-cli-d2 hood | completed |
-| [bob-cli-d2.3](../agents/bbugyi200.athena.bob-cli-d2.3/README.md) | bob-cli-d2 hood | waiting |
+| [bob-cli-d2.3](../agents/bbugyi200.athena.bob-cli-d2.3/README.md) | bob-cli-d2 hood | active |
 | [bob-cli-d2.land](../agents/bbugyi200.athena.bob-cli-d2.land/README.md) | bob-cli-d2 hood | waiting |

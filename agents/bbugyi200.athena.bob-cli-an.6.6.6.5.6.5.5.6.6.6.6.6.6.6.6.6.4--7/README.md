@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1.md) (session · 11) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | active 1, completed 5, failed 5 |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.1.md) (session · 11) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | completed 6, failed 5 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.2/README.md) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | completed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.3.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | completed 2, failed 1 |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.5](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6.5.md) (session · 3) | bob-cli-an.6.6.6.5.6.5.5.6.6.6.6.6.6.6.6.6 hood | completed 2, failed 1 |
