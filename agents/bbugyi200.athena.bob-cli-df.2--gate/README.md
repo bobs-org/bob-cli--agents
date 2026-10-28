@@ -28,8 +28,8 @@
 | [bob-cli-df.2.1.3](../../sessions/bbugyi200.athena.bob-cli-df.2.1.3.md) (session · 9) | descendant | completed 5, failed 4 |
 | [bob-cli-df.2.1.4.1](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.1.md) (session · 11) | descendant | completed 6, failed 5 |
 | [bob-cli-df.2.1.4.2](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.2.md) (session · 3) | descendant | completed 2, failed 1 |
-| [bob-cli-df.2.1.4.3.1](../bbugyi200.athena.bob-cli-df.2.1.4.3.1/README.md) | descendant | active |
-| [bob-cli-df.2.1.4.3.2](../bbugyi200.athena.bob-cli-df.2.1.4.3.2/README.md) | descendant | waiting |
+| [bob-cli-df.2.1.4.3.1](../bbugyi200.athena.bob-cli-df.2.1.4.3.1/README.md) | descendant | completed |
+| [bob-cli-df.2.1.4.3.2](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.3.2.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
 | [bob-cli-df.2.1.4.3.land](../bbugyi200.athena.bob-cli-df.2.1.4.3.land/README.md) | descendant | waiting |
 | [bob-cli-df.2.1.4.land](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.land.md) (session · 3) | descendant | failed 3 |
 | [bob-cli-df.2.1.land](../../sessions/bbugyi200.athena.bob-cli-df.2.1.land.md) (session · 3) | descendant | failed 3 |

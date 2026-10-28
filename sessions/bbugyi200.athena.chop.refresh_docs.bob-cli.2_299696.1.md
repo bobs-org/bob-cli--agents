@@ -11,7 +11,7 @@ flowchart TD
   n0["chop.refresh_docs.bob-cli.2_299696.1--mon [failed]"]
   n1["chop.refresh_docs.bob-cli.2_299696.1--1 [completed]"]
   n0 --> n1
-  n2["chop.refresh_docs.bob-cli.2_299696.1--0 [completed]"]
+  n2["chop.refresh_docs.bob-cli.2_299696.1--0 [active]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | chop.refresh\_docs.bob-cli.2\_299696.1--mon | failed | gpt-6-astra / codex | 2026-10-25T12:53:28.542503+00:00 → 2026-10-25T12:57:28.269991+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--mon/chat.md) |
 | <a id="member-1"></a>1 | chop.refresh\_docs.bob-cli.2\_299696.1--1 | completed | gpt-6-astra / codex | 2026-10-25T12:58:32.547932+00:00 → 2026-10-25T13:04:25.840541+00:00 | [1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--1/chat.md) |
-| <a id="member-0"></a>0 | chop.refresh\_docs.bob-cli.2\_299696.1--0 | completed | gpt-6-astra / codex | 2026-10-25T12:46:13.880287+00:00 → 2026-10-25T12:54:48.162769+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--0/prompt.md) | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--0/chat.md) |
+| <a id="member-0"></a>0 | chop.refresh\_docs.bob-cli.2\_299696.1--0 | active | gpt-6-astra / codex | 2026-10-25T12:46:13.880287+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--0/prompt.md) | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1--0/chat.md) |
 
 ## Commits
 
@@ -46,6 +46,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.bob-cli.3\_052834.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.4\_902214.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.1/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
 | [chop.refresh\_docs.bob-cli.4\_902214.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
+| [chop.refresh\_docs.bob-cli.5\_555411.1](bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | active 1, completed 1, failed 1 |
+| [chop.refresh\_docs.bob-cli.5\_555411.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
 | [chop.refresh\_docs.bob-cli.6\_827232.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.6_827232.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.6\_827232.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.6_827232.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.7\_404570.1](bbugyi200.athena.chop.refresh_docs.bob-cli.7_404570.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | active 1, completed 1, failed 1 |
