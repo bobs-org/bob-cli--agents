@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-df.2.1.4.2--mon [failed]"]
   n1["bob-cli-df.2.1.4.2--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-df.2.1.4.2--1 [active]"]
+  n2["bob-cli-df.2.1.4.2--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-df.2.1.4.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-28T07:38:42.859858+00:00 → 2026-10-28T07:51:56.545273+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-df.2.1.4.2--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-df.2.1.4.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-10-28T07:22:55.363124+00:00 → 2026-10-28T07:39:44.018125+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-df.2.1.4.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-df.2.1.4.2--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-df.2.1.4.2--1 | active | muse-spark-1.3-contributor / muse | 2026-10-28T07:53:10.182739+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-df.2.1.4.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-df.2.1.4.2--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-28T07:53:10.182739+00:00 → 2026-10-28T08:15:41.735989+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-df.2.1.4.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-df.2.1.4.2--1/chat.md) |
 
 ## Neighbors
 
@@ -29,7 +29,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-df.2](bbugyi200.athena.bob-cli-df.2.md) (session · 3) | ancestor | failed 3 |
 | [bob-cli-df.2.1.4.1](bbugyi200.athena.bob-cli-df.2.1.4.1.md) (session · 11) | bob-cli-df.2.1.4 hood | completed 6, failed 5 |
-| [bob-cli-df.2.1.4.land](../agents/bbugyi200.athena.bob-cli-df.2.1.4.land/README.md) | bob-cli-df.2.1.4 hood | waiting |
+| [bob-cli-df.2.1.4.3.1](../agents/bbugyi200.athena.bob-cli-df.2.1.4.3.1/README.md) | bob-cli-df.2.1.4 hood | active |
+| [bob-cli-df.2.1.4.3.2](../agents/bbugyi200.athena.bob-cli-df.2.1.4.3.2/README.md) | bob-cli-df.2.1.4 hood | waiting |
+| [bob-cli-df.2.1.4.3.land](../agents/bbugyi200.athena.bob-cli-df.2.1.4.3.land/README.md) | bob-cli-df.2.1.4 hood | waiting |
+| [bob-cli-df.2.1.4.land](bbugyi200.athena.bob-cli-df.2.1.4.land.md) (session · 3) | bob-cli-df.2.1.4 hood | failed 3 |
 | [bob-cli-df.2.1.1](../agents/bbugyi200.athena.bob-cli-df.2.1.1/README.md) | bob-cli-df.2.1 hood | completed |
 | [bob-cli-df.2.1.2](../agents/bbugyi200.athena.bob-cli-df.2.1.2/README.md) | bob-cli-df.2.1 hood | completed |
 | [bob-cli-df.2.1.3](bbugyi200.athena.bob-cli-df.2.1.3.md) (session · 9) | bob-cli-df.2.1 hood | completed 5, failed 4 |
