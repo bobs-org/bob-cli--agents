@@ -45,4 +45,4 @@
 | [bob-cli-df.2.1.4.land](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.land.md) (session · 3) | bob-cli-df hood | active 3 |
 | [bob-cli-df.2.1.land](../../sessions/bbugyi200.athena.bob-cli-df.2.1.land.md) (session · 3) | bob-cli-df hood | active 3 |
 | [bob-cli-df.3](../bbugyi200.athena.bob-cli-df.3/README.md) | bob-cli-df hood | completed |
-| [bob-cli-df.land](../../sessions/bbugyi200.athena.bob-cli-df.land.md) (session · 2) | bob-cli-df hood | active 2 |
+| [bob-cli-df.land](../../sessions/bbugyi200.athena.bob-cli-df.land.md) (session · 3) | bob-cli-df hood | active 2, failed 1 |
