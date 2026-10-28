@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-dp.1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_dp_1__plan-261028_130921.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_dp_1__code-261028_130921.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/external_sidecar_validation.md
 
 
