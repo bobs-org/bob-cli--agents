@@ -1,0 +1,30 @@
+# Agent: bob-cli-dk.4
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-dk](../../users/bbugyi200/machines/athena/hoods/bob-cli-dk/README.md) / bob-cli-dk.4
+
+**Global name:** `bbugyi200.athena.bob-cli-dk.4` · **State:** waiting · **Source run:** `run-4b71af22c36651ea2cff6e50d243e741`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-dk
+
+## Summary
+
+- Bead: [bob-cli-dk.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-dk/bob-cli-dk.4.md)
+- Epic: [bob-cli-dk](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-dk/README.md)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 20261028074904
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-dk.1](../bbugyi200.athena.bob-cli-dk.1/README.md) | bob-cli-dk hood | active |
+| [bob-cli-dk.2](../bbugyi200.athena.bob-cli-dk.2/README.md) | bob-cli-dk hood | waiting |
+| [bob-cli-dk.3](../bbugyi200.athena.bob-cli-dk.3/README.md) | bob-cli-dk hood | waiting |
+| [bob-cli-dk.5](../bbugyi200.athena.bob-cli-dk.5/README.md) | bob-cli-dk hood | waiting |
+| [bob-cli-dk.land](../bbugyi200.athena.bob-cli-dk.land/README.md) | bob-cli-dk hood | waiting |
