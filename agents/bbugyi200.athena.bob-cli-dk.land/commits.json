@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8bd797b4e7c348862757c8dbb3291aaa"}
+{"commits":[{"committed_at":1793199472,"sha":"8852f7bfa1394b001152e477bfa16a1ea7de5b11","subject":"fix(themes): set config_warning in the test-only Catalog::for_suggest"}],"schema_version":2,"source_run_id":"run-8bd797b4e7c348862757c8dbb3291aaa"}

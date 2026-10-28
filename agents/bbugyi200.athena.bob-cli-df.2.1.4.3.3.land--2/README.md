@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-df](../../users/bbugyi200/machines/athena/hoods/bob-cli-df/README.md) / [bob-cli-df.2.1.4.3.3.land](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.3.3.land.md) / bob-cli-df.2.1.4.3.3.land--2
 
-**Global name:** `bbugyi200.athena.bob-cli-df.2.1.4.3.3.land--2` · **State:** active · **Source run:** `run-8a6c8ed98ac5d498ea67d4abc0c9b685`
+**Global name:** `bbugyi200.athena.bob-cli-df.2.1.4.3.3.land--2` · **State:** completed · **Source run:** `run-8a6c8ed98ac5d498ea67d4abc0c9b685`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-df
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-df.2.1.4.3.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-df/bob-cli-df.2.1.4.3.3.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-28T14:25:32.584736+00:00
+- Timing: 2026-10-28T14:25:32.584736+00:00 → 2026-10-28T14:42:16.865705+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -43,4 +43,4 @@
 | [bob-cli-df.4.1.3](../bbugyi200.athena.bob-cli-df.4.1.3/README.md) | bob-cli-df hood | active |
 | [bob-cli-df.4.1.4](../../sessions/bbugyi200.athena.bob-cli-df.4.1.4.md) (session · 3) | bob-cli-df hood | active 3 |
 | [bob-cli-df.4.1.land](../../sessions/bbugyi200.athena.bob-cli-df.4.1.land.md) (session · 3) | bob-cli-df hood | active 2, completed 1 |
-| [bob-cli-df.land](../bbugyi200.athena.bob-cli-df.land/README.md) | bob-cli-df hood | active |
+| [bob-cli-df.land](../../sessions/bbugyi200.athena.bob-cli-df.land.md) (session · 2) | bob-cli-df hood | active 2 |

@@ -41,6 +41,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-dk.1](../agents/bbugyi200.athena.bob-cli-dk.1/README.md) | bob-cli-dk hood | completed |
 | [bob-cli-dk.3](../agents/bbugyi200.athena.bob-cli-dk.3/README.md) | bob-cli-dk hood | completed |
-| [bob-cli-dk.4](../agents/bbugyi200.athena.bob-cli-dk.4/README.md) | bob-cli-dk hood | active |
+| [bob-cli-dk.4](../agents/bbugyi200.athena.bob-cli-dk.4/README.md) | bob-cli-dk hood | completed |
 | [bob-cli-dk.5](../agents/bbugyi200.athena.bob-cli-dk.5/README.md) | bob-cli-dk hood | completed |
-| [bob-cli-dk.land](../agents/bbugyi200.athena.bob-cli-dk.land/README.md) | bob-cli-dk hood | waiting |
+| [bob-cli-dk.land](../agents/bbugyi200.athena.bob-cli-dk.land/README.md) | bob-cli-dk hood | active |
