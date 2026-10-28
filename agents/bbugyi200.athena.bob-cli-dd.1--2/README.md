@@ -24,4 +24,4 @@
 |---|---|---|
 | [bob-cli-dd.2](../bbugyi200.athena.bob-cli-dd.2/README.md) | bob-cli-dd hood | completed |
 | [bob-cli-dd.3](../bbugyi200.athena.bob-cli-dd.3/README.md) | bob-cli-dd hood | completed |
-| [bob-cli-dd.land](../bbugyi200.athena.bob-cli-dd.land/README.md) | bob-cli-dd hood | waiting |
+| [bob-cli-dd.land](../../sessions/bbugyi200.athena.bob-cli-dd.land.md) (session · 11) | bob-cli-dd hood | completed 4, failed 7 |

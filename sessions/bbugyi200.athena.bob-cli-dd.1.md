@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-dd` · Members: 9 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-dd.1--3 [active]"]
+  n0["bob-cli-dd.1--3 [completed]"]
   n1["bob-cli-dd.1--1 [completed]"]
   n0 --> n1
   n2["bob-cli-dd.1--mon-1 [failed]"]
@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-3"></a>3 | bob-cli-dd.1--3 | active | muse-spark-1.3-contributor / muse | 2026-10-28T00:14:35.026648+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-dd.1--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-dd.1--3 | completed | muse-spark-1.3-contributor / muse | 2026-10-28T00:14:35.026648+00:00 → 2026-10-28T00:19:50.966789+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-dd.1--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-dd.1--3/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-dd.1--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-27T23:31:23.976048+00:00 → 2026-10-27T23:47:06.291890+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-dd.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-dd.1--1/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-dd.1--mon-1 | failed | muse-spark-1.3-contributor / muse | 2026-10-27T23:53:45.607097+00:00 → 2026-10-28T00:12:46.310398+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-dd.1--mon-1/chat.md) |
 | <a id="member-code"></a>code | bob-cli-dd.1--code | completed | muse-spark-1.3-contributor / muse | 2026-10-27T23:02:28.560626+00:00 → 2026-10-27T23:25:37.487860+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-dd.1--code/chat.md) |
@@ -47,4 +47,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-dd.2](../agents/bbugyi200.athena.bob-cli-dd.2/README.md) | bob-cli-dd hood | completed |
 | [bob-cli-dd.3](../agents/bbugyi200.athena.bob-cli-dd.3/README.md) | bob-cli-dd hood | completed |
-| [bob-cli-dd.land](../agents/bbugyi200.athena.bob-cli-dd.land/README.md) | bob-cli-dd hood | waiting |
+| [bob-cli-dd.land](bbugyi200.athena.bob-cli-dd.land.md) (session · 11) | bob-cli-dd hood | completed 4, failed 7 |
