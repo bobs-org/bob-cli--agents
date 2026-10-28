@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-df.4.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_df_4_1_land__plan-261027_214101.md`
+- 2. --code — `~/.sase/chats/202610/gh_bobs_org__bob_cli-ace_run-bob_cli_df_4_1_land__code-261027_214101.md`
+
 **Plan:** /home/bryan/.sase/plans/202610/finish_failed_close_preservation.md
 
 
