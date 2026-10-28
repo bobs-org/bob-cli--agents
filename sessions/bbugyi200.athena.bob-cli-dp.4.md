@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["bob-cli-dp.4--mon [failed]"]
   n0 --> n4
-  n5["bob-cli-dp.4--2 [active]"]
+  n5["bob-cli-dp.4--2 [completed]"]
   n0 --> n5
   n6["bob-cli-dp.4--plan [completed]"]
   n0 --> n6
@@ -32,13 +32,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | bob-cli-dp.4--mon-0 | failed | gpt-6-luna / codex | 2026-10-28T16:39:00.961084+00:00 → 2026-10-28T16:41:15.418442+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-dp.4--mon-0/chat.md) |
 | <a id="member-code"></a>code | bob-cli-dp.4--code | completed | gpt-6-luna / codex | 2026-10-28T15:36:32.593975+00:00 → 2026-10-28T15:48:50.461763+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-dp.4--code/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-dp.4--mon | failed | gpt-6-luna / codex | 2026-10-28T15:47:29.948160+00:00 → 2026-10-28T15:50:00.477588+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-dp.4--mon/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-dp.4--2 | active | gpt-6-luna / codex | 2026-10-28T16:42:44.917738+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-dp.4--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-dp.4--2 | completed | gpt-6-luna / codex | 2026-10-28T16:42:44.917738+00:00 → 2026-10-28T16:48:23.836023+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-dp.4--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-dp.4--2/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-dp.4--plan | completed | gpt-6-astra / codex | 2026-10-28T15:28:45.904175+00:00 → 2026-10-28T15:48:50.461763+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-dp.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-dp.4--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-dp.1](bbugyi200.athena.bob-cli-dp.1.md) (session · 3) | bob-cli-dp hood | active 2, failed 1 |
 | [bob-cli-dp.1](../agents/bbugyi200.athena.bob-cli-dp.1/README.md) | bob-cli-dp hood | failed |
 | [bob-cli-dp.2](bbugyi200.athena.bob-cli-dp.2.md) (session · 3) | bob-cli-dp hood | completed 2, failed 1 |
 | [bob-cli-dp.3](../agents/bbugyi200.athena.bob-cli-dp.3/README.md) | bob-cli-dp hood | completed |
