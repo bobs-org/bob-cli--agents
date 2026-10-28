@@ -2,26 +2,32 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-df](../users/bbugyi200/machines/athena/hoods/bob-cli-df/README.md) / bob-cli-df.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-df` · Members: 3 · Bead: [bob-cli-df](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-df/README.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-df` · Members: 5 · Bead: [bob-cli-df](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-df/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-df.land--code [active]"]
+  n0["bob-cli-df.land--code [failed]"]
   n1["bob-cli-df.land--gate [failed]"]
   n0 --> n1
-  n2["bob-cli-df.land--plan [active]"]
+  n2["bob-cli-df.land--gate-0 [failed]"]
   n0 --> n2
+  n3["bob-cli-df.land--mon [failed]"]
+  n0 --> n3
+  n4["bob-cli-df.land--plan [failed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-df.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-28T14:59:24.001264+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-df.land--code | failed | muse-spark-1.3-contributor / muse | 2026-10-28T14:59:24.001264+00:00 → 2026-10-28T15:23:27.000653+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-df.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-df.land--gate | failed | gpt-6-astra / codex | 2026-10-28T14:57:33.546213+00:00 → 2026-10-28T14:58:53.256440+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-df.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-df.land--plan | active | gpt-6-astra / codex | 2026-10-28T14:37:45.352569+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-df.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-df.land--plan/chat.md) |
+| <a id="member-gate-0"></a>gate-0 | bob-cli-df.land--gate-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-28T15:22:12.697510+00:00 → 2026-10-28T15:23:25.403010+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-df.land--gate-0/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-df.land--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-28T15:23:24.581596+00:00 → 2026-10-28T15:26:57.939094+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-df.land--mon/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-df.land--plan | failed | gpt-6-astra / codex | 2026-10-28T14:37:45.352569+00:00 → 2026-10-28T15:23:27.000653+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-df.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-df.land--plan/chat.md) |
 
 ## Neighbors
 

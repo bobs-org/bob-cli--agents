@@ -49,4 +49,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-df.2.1.4.land](bbugyi200.athena.bob-cli-df.2.1.4.land.md) (session · 3) | bob-cli-df hood | active 3 |
 | [bob-cli-df.2.1.land](bbugyi200.athena.bob-cli-df.2.1.land.md) (session · 3) | bob-cli-df hood | active 3 |
 | [bob-cli-df.3](../agents/bbugyi200.athena.bob-cli-df.3/README.md) | bob-cli-df hood | completed |
-| [bob-cli-df.land](bbugyi200.athena.bob-cli-df.land.md) (session · 3) | bob-cli-df hood | active 2, failed 1 |
+| [bob-cli-df.land](bbugyi200.athena.bob-cli-df.land.md) (session · 5) | bob-cli-df hood | failed 5 |

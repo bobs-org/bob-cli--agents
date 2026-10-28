@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-df](../../users/bbugyi200/machines/athena/hoods/bob-cli-df/README.md) / [bob-cli-df.land](../../sessions/bbugyi200.athena.bob-cli-df.land.md) / bob-cli-df.land--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-df.land--plan` · **State:** active · **Source run:** `run-db9a153d0c308bce90d6db223bfc016c`
+**Global name:** `bbugyi200.athena.bob-cli-df.land--plan` · **State:** failed · **Source run:** `run-db9a153d0c308bce90d6db223bfc016c`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-df
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-df](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-df/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-28T14:37:45.352569+00:00
+- Timing: 2026-10-28T14:37:45.352569+00:00 → 2026-10-28T15:23:27.000653+00:00
 - Commits: 0
 
 ## Files
