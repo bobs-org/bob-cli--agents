@@ -11,19 +11,25 @@
 - Bead: [bob-cli-dw.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-dw/bob-cli-dw.5.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261028155454
-- Commits: 0
+- Timing: 2026-10-28T19:57:58.655720+00:00
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e998ee4`](https://github.com/bobs-org/bob-cli/commit/e998ee4e649b7673c47f57fd599113ead51e583c) | docs(projects): distinguish cancel-row prune from reconcile cleanup | 2026-10-28 16:06:15 EDT |
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-dw.1](../bbugyi200.athena.bob-cli-dw.1/README.md) | bob-cli-dw hood | active |
-| [bob-cli-dw.2](../bbugyi200.athena.bob-cli-dw.2/README.md) | bob-cli-dw hood | active |
+| [bob-cli-dw.1](../bbugyi200.athena.bob-cli-dw.1/README.md) | bob-cli-dw hood | completed |
+| [bob-cli-dw.2](../bbugyi200.athena.bob-cli-dw.2/README.md) | bob-cli-dw hood | completed |
 | [bob-cli-dw.3](../../sessions/bbugyi200.athena.bob-cli-dw.3.md) (session · 3) | bob-cli-dw hood | completed 2, failed 1 |
 | [bob-cli-dw.4](../bbugyi200.athena.bob-cli-dw.4/README.md) | bob-cli-dw hood | completed |
 | [bob-cli-dw.land](../bbugyi200.athena.bob-cli-dw.land/README.md) | bob-cli-dw hood | waiting |
