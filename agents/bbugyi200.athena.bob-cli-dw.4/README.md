@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-dw](../../users/bbugyi200/machines/athena/hoods/bob-cli-dw/README.md) / bob-cli-dw.4
 
-**Global name:** `bbugyi200.athena.bob-cli-dw.4` · **State:** active · **Source run:** `run-2993e3618686d58c7044bf87c6ecf62f`
+**Global name:** `bbugyi200.athena.bob-cli-dw.4` · **State:** completed · **Source run:** `run-2993e3618686d58c7044bf87c6ecf62f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-dw
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-dw](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-dw/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-28T19:40:30.036347+00:00
+- Timing: 2026-10-28T19:40:30.036347+00:00 → 2026-10-28T19:53:59.735641+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
@@ -32,5 +32,5 @@
 | [bob-cli-dw.1](../bbugyi200.athena.bob-cli-dw.1/README.md) | bob-cli-dw hood | active |
 | [bob-cli-dw.2](../bbugyi200.athena.bob-cli-dw.2/README.md) | bob-cli-dw hood | active |
 | [bob-cli-dw.3](../../sessions/bbugyi200.athena.bob-cli-dw.3.md) (session · 3) | bob-cli-dw hood | completed 2, failed 1 |
-| [bob-cli-dw.5](../../sessions/bbugyi200.athena.bob-cli-dw.5.md) (session · 2) | bob-cli-dw hood | active 1, completed 1 |
+| [bob-cli-dw.5](../../sessions/bbugyi200.athena.bob-cli-dw.5.md) (session · 3) | bob-cli-dw hood | active 1, completed 1, failed 1 |
 | [bob-cli-dw.land](../bbugyi200.athena.bob-cli-dw.land/README.md) | bob-cli-dw hood | waiting |
