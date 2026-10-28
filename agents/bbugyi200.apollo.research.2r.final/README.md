@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-10-28T11:06:06.789454+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/cancel\_labels\_for\_task\_relations/cancel\_labels\_for\_task\_relations\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261028064534/canc… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/cancel_labels_for_task_relations/cancel_labels_for_task_relations__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261028064534/cancel_labels_for_task_relations__final-9853207715fa.md
+  ref: file:explicit:c2df973625489b7bb8aea6a3
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/cancel_labels_for_task_relations/cancel_labels_for_task_relations__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +46,7 @@
 | [research.2r.grk](../bbugyi200.apollo.research.2r.grk/README.md) | research.2r hood | completed |
 | [research.2r.image](../bbugyi200.apollo.research.2r.image/README.md) | research.2r hood | waiting |
 | [research.2r.linker](../bbugyi200.apollo.research.2r.linker/README.md) | research.2r hood | waiting |
+| [research.2r.linker.w0](../bbugyi200.apollo.research.2r.linker.w0/README.md) | research.2r hood | waiting |
 | [research.2r.mus](../bbugyi200.apollo.research.2r.mus/README.md) | research.2r hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
