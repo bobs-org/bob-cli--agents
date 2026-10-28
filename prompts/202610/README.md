@@ -61,6 +61,7 @@
 | [14z.md](14z.md) | %queue(weight=1) #fork:14z--code %model:muse-spark-1.3-contributor %effort:high | - | [bbugyi200.athena.14z--1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.14z.md) | 0 |
 | [150.md](150.md) | %queue(weight=1) #fork:150--2 %model:grok-4.6@medium | - | [bbugyi200.athena.150--3](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.150.md) | 0 |
 | [152.md](152.md) | %model:@medium #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.152--code](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.152.md) | 1 |
+| [155.md](155.md) | %queue(weight=1) #fork:155--1 %model:grok-4.6@high | - | [bbugyi200.athena.155--2](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.155.md) | 0 |
 | [156.md](156.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202610/links_stage_blocked_ranking.md][1] | - | [bbugyi200.athena.156--code](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.156.md) | 1 |
 | [157.md](157.md) | gh:gh_bobs-org__bob-cli What do I need to do to get the `bob ref scan -w` command to | - | [bbugyi200.athena.157](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.157/README.md) | 0 |
 | [1i.md](1i.md) | gh:gh_bobs-org__bob-cli The `pass show sase_listen_feed_token` command is hanging on my | - | [bbugyi200.kellys_mbp.1i](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.kellys_mbp.1i/README.md) | 0 |
