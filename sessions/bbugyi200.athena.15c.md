@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `15c` · Members: 3
 ```mermaid
 flowchart TD
   n0["15c--plan [completed]"]
-  n1["15c--code [active]"]
+  n1["15c--code [completed]"]
   n0 --> n1
   n2["15c--gate [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 15c--plan | completed | opus / claude | 2026-10-28T19:42:57.890270+00:00 → 2026-10-28T19:54:32.531784+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.15c--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.15c--plan/chat.md) |
-| <a id="member-code"></a>code | 15c--code | active | gpt-6-luna / codex | 2026-10-28T19:58:44.113059+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.15c--code/prompt.md) | — |
+| <a id="member-code"></a>code | 15c--code | completed | gpt-6-luna / codex | 2026-10-28T19:58:44.113059+00:00 → 2026-10-28T20:20:30.064209+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.15c--code/prompt.md) | [Chat](../agents/bbugyi200.athena.15c--code/chat.md) |
 | <a id="member-gate"></a>gate | 15c--gate | failed | opus / claude | 2026-10-28T19:55:45.128949+00:00 → 2026-10-28T19:57:06.994089+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.15c--gate/chat.md) |
 
 ## Variables

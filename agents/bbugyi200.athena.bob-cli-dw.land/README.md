@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-dw](../../users/bbugyi200/machines/athena/hoods/bob-cli-dw/README.md) / bob-cli-dw.land
 
-**Global name:** `bbugyi200.athena.bob-cli-dw.land` · **State:** waiting · **Source run:** `run-fb3dcd83ad8a3a84797ab494a2e2fb96`
+**Global name:** `bbugyi200.athena.bob-cli-dw.land` · **State:** active · **Source run:** `run-fb3dcd83ad8a3a84797ab494a2e2fb96`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-dw
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-dw](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-dw/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261028153711
+- Timing: 2026-10-28T20:09:50.671625+00:00
 - Commits: 0
 
 ## Files
@@ -26,4 +26,4 @@
 | [bob-cli-dw.2](../bbugyi200.athena.bob-cli-dw.2/README.md) | bob-cli-dw hood | completed |
 | [bob-cli-dw.3](../../sessions/bbugyi200.athena.bob-cli-dw.3.md) (session · 3) | bob-cli-dw hood | completed 2, failed 1 |
 | [bob-cli-dw.4](../bbugyi200.athena.bob-cli-dw.4/README.md) | bob-cli-dw hood | completed |
-| [bob-cli-dw.5](../../sessions/bbugyi200.athena.bob-cli-dw.5.md) (session · 3) | bob-cli-dw hood | active 1, completed 1, failed 1 |
+| [bob-cli-dw.5](../../sessions/bbugyi200.athena.bob-cli-dw.5.md) (session · 3) | bob-cli-dw hood | completed 2, failed 1 |
