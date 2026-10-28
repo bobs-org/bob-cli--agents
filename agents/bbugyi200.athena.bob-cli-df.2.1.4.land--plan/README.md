@@ -52,7 +52,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-df.2.1.4.3.1](../bbugyi200.athena.bob-cli-df.2.1.4.3.1/README.md) | bob-cli-df.2.1.4 hood | completed |
 | [bob-cli-df.2.1.4.3.2](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.3.2.md) (session · 5) | bob-cli-df.2.1.4 hood | completed 3, failed 2 |
 | [bob-cli-df.2.1.4.3.3.1](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.3.3.1.md) (session · 7) | bob-cli-df.2.1.4 hood | completed 4, failed 3 |
-| [bob-cli-df.2.1.4.3.3.2](../bbugyi200.athena.bob-cli-df.2.1.4.3.3.2/README.md) | bob-cli-df.2.1.4 hood | active |
+| [bob-cli-df.2.1.4.3.3.2](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.3.3.2.md) (session · 3) | bob-cli-df.2.1.4 hood | completed 2, failed 1 |
+| [bob-cli-df.2.1.4.3.3.land](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.3.3.land.md) (session · 5) | bob-cli-df.2.1.4 hood | active 1, completed 2, failed 2 |
 | [bob-cli-df.2.1.4.3.3.land](../bbugyi200.athena.bob-cli-df.2.1.4.3.3.land/README.md) | bob-cli-df.2.1.4 hood | waiting |
 | [bob-cli-df.2.1.4.3.land](../bbugyi200.athena.bob-cli-df.2.1.4.3.land/README.md) | bob-cli-df.2.1.4 hood | completed |
 | [bob-cli-df.2.1.1](../bbugyi200.athena.bob-cli-df.2.1.1/README.md) | bob-cli-df.2.1 hood | active |
