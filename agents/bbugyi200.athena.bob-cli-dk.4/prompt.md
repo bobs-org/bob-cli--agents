@@ -1,7 +1,7 @@
+%auto
 #gh:gh_bobs-org__bob-cli
 %id(4, clan=bob-cli-dk, bead=bob-cli-dk.4)
 %model:@medium
-%auto
 %w(bob-cli-dk.1,bob-cli-dk.2, for_epic=false)
 %w(bead=bob-cli-dk.1)
 %w(bead=bob-cli-dk.2)
