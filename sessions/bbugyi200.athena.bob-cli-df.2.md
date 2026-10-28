@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | bob-cli-df.2--gate | active | gpt-6-astra / codex | 2026-10-28T01:38:37.226956+00:00 | 0 | — | — |
+| <a id="member-gate"></a>gate | bob-cli-df.2--gate | active | gpt-6-astra / codex | 2026-10-28T01:38:37.804596+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | bob-cli-df.2--plan | active | gpt-6-astra / codex | 2026-10-28T01:29:05.142474+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-df.2--plan/prompt.md) | — |
 
 ## Neighbors
@@ -26,5 +26,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-df.1](../agents/bbugyi200.athena.bob-cli-df.1/README.md) | bob-cli-df hood | active |
 | [bob-cli-df.3](../agents/bbugyi200.athena.bob-cli-df.3/README.md) | bob-cli-df hood | active |
-| [bob-cli-df.4](bbugyi200.athena.bob-cli-df.4.md) (session · 3) | bob-cli-df hood | active 2, failed 1 |
+| [bob-cli-df.4](bbugyi200.athena.bob-cli-df.4.md) (session · 3) | bob-cli-df hood | active 1, failed 2 |
 | [bob-cli-df.land](../agents/bbugyi200.athena.bob-cli-df.land/README.md) | bob-cli-df hood | waiting |

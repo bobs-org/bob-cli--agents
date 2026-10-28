@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-df` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-df.4--plan [active]"]
+  n0["bob-cli-df.4--plan [failed]"]
   n1["bob-cli-df.4--gate [failed]"]
   n0 --> n1
   n2["bob-cli-df.4--mon [active]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-df.4--plan | active | gpt-6-astra / codex | 2026-10-28T01:30:31.519758+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-df.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-df.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-df.4--plan | failed | gpt-6-astra / codex | 2026-10-28T01:30:31.519758+00:00 → 2026-10-28T01:39:26.038538+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-df.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-df.4--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-df.4--gate | failed | gpt-6-astra / codex | 2026-10-28T01:38:33.984870+00:00 → 2026-10-28T01:39:14.903975+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-df.4--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-df.4--mon | active | gpt-6-astra / codex | 2026-10-28T01:39:14.003765+00:00 | 0 | — | — |
 

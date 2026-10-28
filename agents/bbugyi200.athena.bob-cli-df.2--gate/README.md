@@ -12,7 +12,7 @@
 - Epic: [bob-cli-df](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-df/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-28T01:38:37.226956+00:00
+- Timing: 2026-10-28T01:38:37.804596+00:00
 - Commits: 0
 
 ## Neighbors
@@ -21,5 +21,5 @@
 |---|---|---|
 | [bob-cli-df.1](../bbugyi200.athena.bob-cli-df.1/README.md) | bob-cli-df hood | active |
 | [bob-cli-df.3](../bbugyi200.athena.bob-cli-df.3/README.md) | bob-cli-df hood | active |
-| [bob-cli-df.4](../../sessions/bbugyi200.athena.bob-cli-df.4.md) (session · 3) | bob-cli-df hood | active 2, failed 1 |
+| [bob-cli-df.4](../../sessions/bbugyi200.athena.bob-cli-df.4.md) (session · 3) | bob-cli-df hood | active 1, failed 2 |
 | [bob-cli-df.land](../bbugyi200.athena.bob-cli-df.land/README.md) | bob-cli-df hood | waiting |
