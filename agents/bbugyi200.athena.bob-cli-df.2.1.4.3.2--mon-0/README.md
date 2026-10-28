@@ -24,7 +24,10 @@
 |---|---|---|
 | [bob-cli-df.2](../../sessions/bbugyi200.athena.bob-cli-df.2.md) (session · 3) | ancestor | failed 3 |
 | [bob-cli-df.2.1.4.3.1](../bbugyi200.athena.bob-cli-df.2.1.4.3.1/README.md) | bob-cli-df.2.1.4.3 hood | completed |
-| [bob-cli-df.2.1.4.3.land](../bbugyi200.athena.bob-cli-df.2.1.4.3.land/README.md) | bob-cli-df.2.1.4.3 hood | waiting |
+| [bob-cli-df.2.1.4.3.3.1](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.3.3.1.md) (session · 2) | bob-cli-df.2.1.4.3 hood | active 1, completed 1 |
+| [bob-cli-df.2.1.4.3.3.2](../bbugyi200.athena.bob-cli-df.2.1.4.3.3.2/README.md) | bob-cli-df.2.1.4.3 hood | waiting |
+| [bob-cli-df.2.1.4.3.3.land](../bbugyi200.athena.bob-cli-df.2.1.4.3.3.land/README.md) | bob-cli-df.2.1.4.3 hood | waiting |
+| [bob-cli-df.2.1.4.3.land](../bbugyi200.athena.bob-cli-df.2.1.4.3.land/README.md) | bob-cli-df.2.1.4.3 hood | completed |
 | [bob-cli-df.2.1.4.1](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.1.md) (session · 11) | bob-cli-df.2.1.4 hood | active 11 |
 | [bob-cli-df.2.1.4.2](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.2.md) (session · 3) | bob-cli-df.2.1.4 hood | active 3 |
 | [bob-cli-df.2.1.4.land](../../sessions/bbugyi200.athena.bob-cli-df.2.1.4.land.md) (session · 3) | bob-cli-df.2.1.4 hood | active 3 |
