@@ -25,3 +25,4 @@
 |---|---|---|
 | [bob-cli-db.1](../bbugyi200.apollo.bob-cli-db.1/README.md) | bob-cli-db hood | completed |
 | [bob-cli-db.land](../../sessions/bbugyi200.apollo.bob-cli-db.land.md) (session · 3) | bob-cli-db hood | active 2, failed 1 |
+| [bob-cli-db.land](../bbugyi200.apollo.bob-cli-db.land/README.md) | bob-cli-db hood | active |
