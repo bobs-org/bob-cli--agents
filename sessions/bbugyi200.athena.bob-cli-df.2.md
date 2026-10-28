@@ -28,8 +28,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-df.2.1.1](../agents/bbugyi200.athena.bob-cli-df.2.1.1/README.md) | descendant | completed |
-| [bob-cli-df.2.1.2](../agents/bbugyi200.athena.bob-cli-df.2.1.2/README.md) | descendant | active |
-| [bob-cli-df.2.1.3](../agents/bbugyi200.athena.bob-cli-df.2.1.3/README.md) | descendant | waiting |
+| [bob-cli-df.2.1.2](../agents/bbugyi200.athena.bob-cli-df.2.1.2/README.md) | descendant | completed |
+| [bob-cli-df.2.1.3](bbugyi200.athena.bob-cli-df.2.1.3.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [bob-cli-df.2.1.land](../agents/bbugyi200.athena.bob-cli-df.2.1.land/README.md) | descendant | waiting |
 | [bob-cli-df.1](../agents/bbugyi200.athena.bob-cli-df.1/README.md) | bob-cli-df hood | completed |
 | [bob-cli-df.3](../agents/bbugyi200.athena.bob-cli-df.3/README.md) | bob-cli-df hood | completed |
