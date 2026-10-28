@@ -63,10 +63,10 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-df.2.1.4.3.2](bbugyi200.athena.bob-cli-df.2.1.4.3.2.md) (session · 5) | bob-cli-df hood | completed 3, failed 2 |
 | [bob-cli-df.2.1.4.3.3.1](bbugyi200.athena.bob-cli-df.2.1.4.3.3.1.md) (session · 7) | bob-cli-df hood | completed 4, failed 3 |
 | [bob-cli-df.2.1.4.3.3.2](bbugyi200.athena.bob-cli-df.2.1.4.3.3.2.md) (session · 3) | bob-cli-df hood | completed 2, failed 1 |
-| [bob-cli-df.2.1.4.3.3.land](bbugyi200.athena.bob-cli-df.2.1.4.3.3.land.md) (session · 5) | bob-cli-df hood | active 1, completed 2, failed 2 |
+| [bob-cli-df.2.1.4.3.3.land](bbugyi200.athena.bob-cli-df.2.1.4.3.3.land.md) (session · 7) | bob-cli-df hood | active 1, completed 3, failed 3 |
 | [bob-cli-df.2.1.4.3.3.land](../agents/bbugyi200.athena.bob-cli-df.2.1.4.3.3.land/README.md) | bob-cli-df hood | waiting |
 | [bob-cli-df.2.1.4.3.land](../agents/bbugyi200.athena.bob-cli-df.2.1.4.3.land/README.md) | bob-cli-df hood | completed |
 | [bob-cli-df.2.1.4.land](bbugyi200.athena.bob-cli-df.2.1.4.land.md) (session · 3) | bob-cli-df hood | active 3 |
 | [bob-cli-df.2.1.land](bbugyi200.athena.bob-cli-df.2.1.land.md) (session · 3) | bob-cli-df hood | active 3 |
 | [bob-cli-df.3](../agents/bbugyi200.athena.bob-cli-df.3/README.md) | bob-cli-df hood | completed |
-| [bob-cli-df.land](../agents/bbugyi200.athena.bob-cli-df.land/README.md) | bob-cli-df hood | waiting |
+| [bob-cli-df.land](../agents/bbugyi200.athena.bob-cli-df.land/README.md) | bob-cli-df hood | active |
