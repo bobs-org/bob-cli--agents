@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-e2](../../users/bbugyi200/machines/athena/hoods/bob-cli-e2/README.md) / bob-cli-e2.2
 
-**Global name:** `bbugyi200.athena.bob-cli-e2.2` · **State:** completed · **Source run:** `run-467679a88dcf97d052ce79a2112b5603`
+**Global name:** `bbugyi200.athena.bob-cli-e2.2` · **State:** active · **Source run:** `run-467679a88dcf97d052ce79a2112b5603`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-e2
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-e2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-e2/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-29T03:19:13.056580+00:00 → 2026-10-29T03:55:14.358487+00:00
+- Timing: 2026-10-29T03:19:13.056580+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -29,8 +29,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-e2.1](../bbugyi200.athena.bob-cli-e2.1/README.md) | bob-cli-e2 hood | completed |
-| [bob-cli-e2.3](../bbugyi200.athena.bob-cli-e2.3/README.md) | bob-cli-e2 hood | completed |
-| [bob-cli-e2.4](../bbugyi200.athena.bob-cli-e2.4/README.md) | bob-cli-e2 hood | completed |
-| [bob-cli-e2.5](../../sessions/bbugyi200.athena.bob-cli-e2.5.md) (session · 5) | bob-cli-e2 hood | completed 3, failed 2 |
-| [bob-cli-e2.land](../../sessions/bbugyi200.athena.bob-cli-e2.land.md) (session · 5) | bob-cli-e2 hood | active 1, completed 2, failed 2 |
+| [bob-cli-e2.1](../bbugyi200.athena.bob-cli-e2.1/README.md) | bob-cli-e2 hood | active |
+| [bob-cli-e2.3](../bbugyi200.athena.bob-cli-e2.3/README.md) | bob-cli-e2 hood | active |
+| [bob-cli-e2.4](../bbugyi200.athena.bob-cli-e2.4/README.md) | bob-cli-e2 hood | active |
+| [bob-cli-e2.5](../../sessions/bbugyi200.athena.bob-cli-e2.5.md) (session · 5) | bob-cli-e2 hood | active 5 |
+| [bob-cli-e2.land](../../sessions/bbugyi200.athena.bob-cli-e2.land.md) (session · 5) | bob-cli-e2 hood | active 3, completed 1, failed 1 |
