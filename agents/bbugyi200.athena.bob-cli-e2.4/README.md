@@ -13,18 +13,24 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-10-29T03:32:34.936420+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`511c7ad`](https://github.com/bobs-org/bob-cli/commit/511c7ad7b9e2a9d418b15ba5522d483c948a46f1) | feat!: retire GTD review buckets | 2026-10-29 00:37:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-e2.1](../bbugyi200.athena.bob-cli-e2.1/README.md) | bob-cli-e2 hood | completed |
-| [bob-cli-e2.2](../bbugyi200.athena.bob-cli-e2.2/README.md) | bob-cli-e2 hood | active |
+| [bob-cli-e2.2](../bbugyi200.athena.bob-cli-e2.2/README.md) | bob-cli-e2 hood | completed |
 | [bob-cli-e2.3](../bbugyi200.athena.bob-cli-e2.3/README.md) | bob-cli-e2 hood | completed |
 | [bob-cli-e2.5](../bbugyi200.athena.bob-cli-e2.5/README.md) | bob-cli-e2 hood | waiting |
 | [bob-cli-e2.land](../bbugyi200.athena.bob-cli-e2.land/README.md) | bob-cli-e2 hood | waiting |
