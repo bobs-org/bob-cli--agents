@@ -22,8 +22,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-e2.1](../bbugyi200.athena.bob-cli-e2.1/README.md) | bob-cli-e2 hood | active |
-| [bob-cli-e2.2](../bbugyi200.athena.bob-cli-e2.2/README.md) | bob-cli-e2 hood | waiting |
-| [bob-cli-e2.3](../bbugyi200.athena.bob-cli-e2.3/README.md) | bob-cli-e2 hood | waiting |
-| [bob-cli-e2.4](../bbugyi200.athena.bob-cli-e2.4/README.md) | bob-cli-e2 hood | waiting |
+| [bob-cli-e2.1](../bbugyi200.athena.bob-cli-e2.1/README.md) | bob-cli-e2 hood | completed |
+| [bob-cli-e2.2](../bbugyi200.athena.bob-cli-e2.2/README.md) | bob-cli-e2 hood | active |
+| [bob-cli-e2.3](../bbugyi200.athena.bob-cli-e2.3/README.md) | bob-cli-e2 hood | completed |
+| [bob-cli-e2.4](../bbugyi200.athena.bob-cli-e2.4/README.md) | bob-cli-e2 hood | active |
 | [bob-cli-e2.5](../bbugyi200.athena.bob-cli-e2.5/README.md) | bob-cli-e2 hood | waiting |
