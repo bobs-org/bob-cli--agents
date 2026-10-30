@@ -42,10 +42,10 @@
 | [028](hoods/028/README.md) | 9 | 4 | active 4, completed 5 |
 | [029](hoods/029/README.md) | 1 | 0 | active 1 |
 | [02a](hoods/02a/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [02b](hoods/02b/README.md) | 2 | 1 | active 2 |
-| [02e](hoods/02e/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [02g](hoods/02g/README.md) | 6 | 3 | active 2, completed 4 |
-| [02h](hoods/02h/README.md) | 2 | 1 | active 2 |
+| [02b](hoods/02b/README.md) | 2 | 1 | active 1, completed 1 |
+| [02e](hoods/02e/README.md) | 3 | 1 | completed 2, failed 1 |
+| [02g](hoods/02g/README.md) | 6 | 3 | active 1, completed 5 |
+| [02h](hoods/02h/README.md) | 2 | 1 | active 1, completed 1 |
 | [02j](hoods/02j/README.md) | 1 | 0 | completed 1 |
 | [02l](hoods/02l/README.md) | 1 | 0 | completed 1 |
 | [02t](hoods/02t/README.md) | 6 | 2 | active 1, completed 3, failed 2 |
