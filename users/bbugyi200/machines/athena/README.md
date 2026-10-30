@@ -103,8 +103,8 @@
 | [0k5](hoods/0k5/README.md) | 8 | 3 | completed 4, dismissed 1, failed 3 |
 | [0kj](hoods/0kj/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0lc](hoods/0lc/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [0lu](hoods/0lu/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [0ly](hoods/0ly/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0lu](hoods/0lu/README.md) | 3 | 1 | completed 2, failed 1 |
+| [0ly](hoods/0ly/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0m](hoods/0m/README.md) | 1 | 0 | completed 1 |
 | [0m9](hoods/0m9/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0mz](hoods/0mz/README.md) | 12 | 4 | active 4, completed 4, failed 4 |
