@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `0ff` · Members: 3
 ```mermaid
 flowchart TD
   n0["0ff.f0.f1--gate [failed]"]
-  n1["0ff.f0.f1--code [active]"]
+  n1["0ff.f0.f1--code [completed]"]
   n0 --> n1
   n2["0ff.f0.f1--plan [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0ff.f0.f1--gate | failed | opus / claude | 2026-08-28T15:00:13.750698+00:00 → 2026-08-28T15:01:24.551326+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0ff.f0.f1--gate/chat.md) |
-| <a id="member-code"></a>code | 0ff.f0.f1--code | active | grok-4.6 / grok | 2026-08-28T15:01:30.723777+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ff.f0.f1--code/prompt.md) | — |
+| <a id="member-code"></a>code | 0ff.f0.f1--code | completed | grok-4.6 / grok | 2026-08-28T15:01:30.723777+00:00 → 2026-08-28T15:08:38.929936+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ff.f0.f1--code/prompt.md) | — |
 | <a id="member-plan"></a>plan | 0ff.f0.f1--plan | completed | opus / claude | 2026-08-28T14:44:12.742392+00:00 → 2026-08-28T15:00:21.540408+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0ff.f0.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0ff.f0.f1--plan/chat.md) |
 
 ## Neighbors

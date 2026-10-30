@@ -88,7 +88,7 @@
 | [0ey](hoods/0ey/README.md) | 4 | 1 | active 1, completed 1, dismissed 1, waiting 1 |
 | [0f](hoods/0f/README.md) | 1 | 0 | completed 1 |
 | [0f9](hoods/0f9/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [0ff](hoods/0ff/README.md) | 10 | 3 | active 1, completed 5, failed 3, waiting 1 |
+| [0ff](hoods/0ff/README.md) | 10 | 3 | completed 6, failed 3, waiting 1 |
 | [0fg](hoods/0fg/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0fj](hoods/0fj/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0fv](hoods/0fv/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
