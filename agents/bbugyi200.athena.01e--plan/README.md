@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [01e.f0](../bbugyi200.athena.01e.f0/README.md) | descendant | active |
-| [01e.f1](../../sessions/bbugyi200.athena.01e.f1.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [01e.f1](../../sessions/bbugyi200.athena.01e.f1.md) (session · 3) | descendant | completed 2, failed 1 |

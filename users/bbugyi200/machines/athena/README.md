@@ -26,11 +26,11 @@
 | [010](hoods/010/README.md) | 2 | 0 | active 1, completed 1 |
 | [015](hoods/015/README.md) | 2 | 0 | completed 2 |
 | [01c](hoods/01c/README.md) | 2 | 1 | active 1, completed 1 |
-| [01e](hoods/01e/README.md) | 7 | 2 | active 2, completed 3, failed 2 |
+| [01e](hoods/01e/README.md) | 7 | 2 | active 1, completed 4, failed 2 |
 | [01f](hoods/01f/README.md) | 1 | 0 | completed 1 |
 | [01g](hoods/01g/README.md) | 3 | 1 | active 1, completed 2 |
 | [01j](hoods/01j/README.md) | 1 | 0 | completed 1 |
-| [01k](hoods/01k/README.md) | 6 | 2 | active 1, completed 3, failed 2 |
+| [01k](hoods/01k/README.md) | 6 | 2 | completed 4, failed 2 |
 | [01m](hoods/01m/README.md) | 2 | 1 | active 2 |
 | [01p](hoods/01p/README.md) | 3 | 0 | completed 3 |
 | [01r](hoods/01r/README.md) | 5 | 0 | completed 5 |

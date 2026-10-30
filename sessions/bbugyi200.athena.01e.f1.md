@@ -11,7 +11,7 @@ flowchart TD
   n0["01e.f1--plan [completed]"]
   n1["01e.f1--gate [failed]"]
   n0 --> n1
-  n2["01e.f1--code [active]"]
+  n2["01e.f1--code [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 01e.f1--plan | completed | opus / claude | 2026-09-07T13:48:22.076949+00:00 → 2026-09-07T13:55:28.470422+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01e.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.01e.f1--plan/chat.md) |
 | <a id="member-gate"></a>gate | 01e.f1--gate | failed | opus / claude | 2026-09-07T13:55:16.330488+00:00 → 2026-09-07T13:58:19.520291+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.01e.f1--gate/chat.md) |
-| <a id="member-code"></a>code | 01e.f1--code | active | grok-4.6 / grok | 2026-09-07T13:58:39.601878+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01e.f1--code/prompt.md) | — |
+| <a id="member-code"></a>code | 01e.f1--code | completed | grok-4.6 / grok | 2026-09-07T13:58:39.601878+00:00 → 2026-09-07T14:10:31.692235+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.01e.f1--code/prompt.md) | — |
 
 ## Neighbors
 
