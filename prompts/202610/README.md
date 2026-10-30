@@ -75,6 +75,7 @@
 | [161.md](161.md) | %queue(weight=1) #fork:161--2 %model:@medium | - | [bbugyi200.athena.161--3](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.161.md) | 0 |
 | [164.md](164.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202610/relation_inverse_ed_by.md][1] | - | [bbugyi200.athena.164](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.164.md) | 1 |
 | [166.md](166.md) | %model:@medium #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.166](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.166.md) | 1 |
+| [16b.md](16b.md) | %queue(weight=1) #fork:16b--1 %model:grok-4.6 %effort:medium | - | [bbugyi200.athena.16b](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.16b.md) | 0 |
 | [1i.md](1i.md) | gh:gh_bobs-org__bob-cli The `pass show sase_listen_feed_token` command is hanging on my | - | [bbugyi200.kellys_mbp.1i](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.kellys_mbp.1i/README.md) | 0 |
 | [3t.cld.f0.md](3t.cld.f0.md) | gh:gh_bobs-org__bob-cli #fork:3t.cld I've never had a valid Gemini API key. What do I | - | [bbugyi200.apollo.3t.cld.f0](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.apollo.3t.cld.f0/README.md) | 0 |
 | [59.md](59.md) | %queue(weight=1) %auto #fork:59--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.apollo.59--1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.59.md) | 0 |
