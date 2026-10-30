@@ -21,4 +21,4 @@
 | [08j.f0.f0](../../sessions/bbugyi200.athena.08j.f0.f0.md) (session · 2) | ancestor | completed 2 |
 | [08j.f0](../../sessions/bbugyi200.athena.08j.f0.md) (session · 2) | ancestor | completed 2 |
 | [08j](../../sessions/bbugyi200.athena.08j.md) (session · 2) | ancestor | completed 2 |
-| [08j.f0.f0.w0.f2](../../sessions/bbugyi200.athena.08j.f0.f0.w0.f2.md) (session · 2) | 08j.f0.f0.w0 hood | active 2 |
+| [08j.f0.f0.w0.f2](../../sessions/bbugyi200.athena.08j.f0.f0.w0.f2.md) (session · 2) | 08j.f0.f0.w0 hood | active 1, completed 1 |

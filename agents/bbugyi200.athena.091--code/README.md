@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [091](../../users/bbugyi200/machines/athena/hoods/091/README.md) / [091](../../sessions/bbugyi200.athena.091.md) / 091--code
 
-**Global name:** `bbugyi200.athena.091--code` · **State:** active · **Source run:** `run-79a12586a073aee35fc6e1401fdb8016`
+**Global name:** `bbugyi200.athena.091--code` · **State:** completed · **Source run:** `run-79a12586a073aee35fc6e1401fdb8016`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 091
 

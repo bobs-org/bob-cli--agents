@@ -2,9 +2,9 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 091
 
-**Global hood:** `bbugyi200.athena.091` · **Runs:** 2 · **Sessions:** 1 · **States:** active 2
+**Global hood:** `bbugyi200.athena.091` · **Runs:** 2 · **Sessions:** 1 · **States:** active 1, completed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [091--plan](../../../../../../sessions/bbugyi200.athena.091.md#member-plan) | active | gpt-5.6-sol / codex | 2026-08-21T10:40:19.290577+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.091--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.091--plan/prompt.md) |
-| [091--code](../../../../../../sessions/bbugyi200.athena.091.md#member-code) | active | gpt-5.5 / codex | 2026-08-21T10:44:18.561366+00:00 | 0 | — |
+| [091--code](../../../../../../sessions/bbugyi200.athena.091.md#member-code) | completed | gpt-5.5 / codex | 2026-08-21T10:44:18.561366+00:00 | 0 | — |

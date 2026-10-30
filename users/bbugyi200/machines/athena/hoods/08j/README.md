@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 08j
 
-**Global hood:** `bbugyi200.athena.08j` · **Runs:** 11 · **Sessions:** 5 · **States:** active 2, completed 8, dismissed 1
+**Global hood:** `bbugyi200.athena.08j` · **Runs:** 11 · **Sessions:** 5 · **States:** active 1, completed 9, dismissed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [08j.f0--code](../../../../../../sessions/bbugyi200.athena.08j.f0.md#member-code) | completed | grok-4.6 / grok | 2026-08-20T13:32:33.435563+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.08j.f0--code/chat.md) |
 | [08j--plan](../../../../../../sessions/bbugyi200.athena.08j.md#member-plan) | completed | gpt-5.6-sol / codex | 2026-08-20T12:52:36.522086+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.08j--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.08j--plan/prompt.md) |
-| [08j.f0.f0.w0.f2--code](../../../../../../sessions/bbugyi200.athena.08j.f0.f0.w0.f2.md#member-code) | active | grok-4.6 / grok | 2026-08-20T14:40:09.555844+00:00 | 0 | — |
+| [08j.f0.f0.w0.f2--code](../../../../../../sessions/bbugyi200.athena.08j.f0.f0.w0.f2.md#member-code) | completed | grok-4.6 / grok | 2026-08-20T14:40:09.555844+00:00 | 0 | — |
 | [08j.f0--plan](../../../../../../sessions/bbugyi200.athena.08j.f0.md#member-plan) | completed | gpt-5.6-sol / codex | 2026-08-20T13:09:52.945850+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.08j.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.08j.f0--plan/prompt.md) |
 | [08j.f0.f0.w0--code](../../../../../../sessions/bbugyi200.athena.08j.f0.f0.w0.md#member-code) | completed | gpt-5.5 / codex | 2026-08-20T14:18:50.326010+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.08j.f0.f0.w0--code/chat.md) |
 | [08j.f0.f0.w0.f0](../../../../../../agents/bbugyi200.athena.08j.f0.f0.w0.f0/README.md) | dismissed | — | 2026-08-20T10:25:12 | 0 | — |

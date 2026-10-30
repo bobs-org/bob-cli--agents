@@ -25,4 +25,4 @@
 | [08j](../../sessions/bbugyi200.athena.08j.md) (session · 2) | ancestor | completed 2 |
 | [08j.f0.f0.w0](../../sessions/bbugyi200.athena.08j.f0.f0.w0.md) (session · 2) | descendant | completed 2 |
 | [08j.f0.f0.w0.f0](../bbugyi200.athena.08j.f0.f0.w0.f0/README.md) | descendant | dismissed |
-| [08j.f0.f0.w0.f2](../../sessions/bbugyi200.athena.08j.f0.f0.w0.f2.md) (session · 2) | descendant | active 2 |
+| [08j.f0.f0.w0.f2](../../sessions/bbugyi200.athena.08j.f0.f0.w0.f2.md) (session · 2) | descendant | active 1, completed 1 |
