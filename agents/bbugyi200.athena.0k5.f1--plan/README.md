@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [0k5](../../sessions/bbugyi200.athena.0k5.md) (session · 3) | ancestor | completed 2, failed 1 |
-| [0k5.f0](../../sessions/bbugyi200.athena.0k5.f0.md) (session · 2) | 0k5 hood | dismissed 1, waiting 1 |
+| [0k5.f0](../../sessions/bbugyi200.athena.0k5.f0.md) (session · 2) | 0k5 hood | dismissed 1, failed 1 |

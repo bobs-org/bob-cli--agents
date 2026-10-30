@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [0k5](../../users/bbugyi200/machines/athena/hoods/0k5/README.md) / [0k5.f1](../../sessions/bbugyi200.athena.0k5.f1.md) / 0k5.f1--code
 
-**Global name:** `bbugyi200.athena.0k5.f1--code` · **State:** active · **Source run:** `run-d6b77f0ee50fcf98b2a64170dd38fbdd`
+**Global name:** `bbugyi200.athena.0k5.f1--code` · **State:** completed · **Source run:** `run-d6b77f0ee50fcf98b2a64170dd38fbdd`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 0k5
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-09-12T20:52:37.507820+00:00
+- Timing: 2026-09-12T20:52:37.507820+00:00 → 2026-09-12T21:06:10.557608+00:00
 - Commits: 0
 
 ## Files
@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [0k5](../../sessions/bbugyi200.athena.0k5.md) (session · 3) | ancestor | completed 2, failed 1 |
-| [0k5.f0](../../sessions/bbugyi200.athena.0k5.f0.md) (session · 2) | 0k5 hood | dismissed 1, waiting 1 |
+| [0k5.f0](../../sessions/bbugyi200.athena.0k5.f0.md) (session · 2) | 0k5 hood | dismissed 1, failed 1 |

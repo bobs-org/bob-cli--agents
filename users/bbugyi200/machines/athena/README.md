@@ -96,11 +96,11 @@
 | [0g](hoods/0g/README.md) | 1 | 0 | completed 1 |
 | [0g4](hoods/0g4/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0gp](hoods/0gp/README.md) | 3 | 1 | completed 2, failed 1 |
-| [0h0](hoods/0h0/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0h0](hoods/0h0/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0ig](hoods/0ig/README.md) | 1 | 0 | active 1 |
-| [0iz](hoods/0iz/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0iz](hoods/0iz/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0j1](hoods/0j1/README.md) | 1 | 0 | active 1 |
-| [0k5](hoods/0k5/README.md) | 8 | 3 | active 1, completed 3, dismissed 1, failed 2, waiting 1 |
+| [0k5](hoods/0k5/README.md) | 8 | 3 | completed 4, dismissed 1, failed 3 |
 | [0kj](hoods/0kj/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0lc](hoods/0lc/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0lu](hoods/0lu/README.md) | 3 | 1 | active 1, completed 1, failed 1 |

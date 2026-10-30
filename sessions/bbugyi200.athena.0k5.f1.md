@@ -11,7 +11,7 @@ flowchart TD
   n0["0k5.f1--plan [completed]"]
   n1["0k5.f1--gate [failed]"]
   n0 --> n1
-  n2["0k5.f1--code [active]"]
+  n2["0k5.f1--code [completed]"]
   n0 --> n2
 ```
 
@@ -21,11 +21,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | 0k5.f1--plan | completed | gpt-5.6-sol / codex | 2026-09-12T19:44:19.483453+00:00 → 2026-09-12T19:50:58.771401+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0k5.f1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0k5.f1--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0k5.f1--gate | failed | gpt-5.6-sol / codex | 2026-09-12T19:52:02.258560+00:00 → 2026-09-12T20:52:30.938017+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0k5.f1--gate/chat.md) |
-| <a id="member-code"></a>code | 0k5.f1--code | active | gpt-5.5 / codex | 2026-09-12T20:52:37.507820+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0k5.f1--code/prompt.md) | — |
+| <a id="member-code"></a>code | 0k5.f1--code | completed | gpt-5.5 / codex | 2026-09-12T20:52:37.507820+00:00 → 2026-09-12T21:06:10.557608+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0k5.f1--code/prompt.md) | — |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [0k5](bbugyi200.athena.0k5.md) (session · 3) | ancestor | completed 2, failed 1 |
-| [0k5.f0](bbugyi200.athena.0k5.f0.md) (session · 2) | 0k5 hood | dismissed 1, waiting 1 |
+| [0k5.f0](bbugyi200.athena.0k5.f0.md) (session · 2) | 0k5 hood | dismissed 1, failed 1 |
