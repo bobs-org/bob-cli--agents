@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1793369597,"sha":"2ca76ca05a1bc544f16a3686774ac4a6538a9550","subject":"fix(gcal): reuse gog clients by piping normalized client JSON"}],"schema_version":2,"source_run_id":"run-cd0bd5be48dadc0a4b3a0723954223c7"}
