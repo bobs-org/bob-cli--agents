@@ -48,7 +48,7 @@
 | [02h](hoods/02h/README.md) | 2 | 1 | active 1, completed 1 |
 | [02j](hoods/02j/README.md) | 1 | 0 | completed 1 |
 | [02l](hoods/02l/README.md) | 1 | 0 | completed 1 |
-| [02t](hoods/02t/README.md) | 6 | 2 | active 1, completed 3, failed 2 |
+| [02t](hoods/02t/README.md) | 6 | 2 | completed 4, failed 2 |
 | [03h](hoods/03h/README.md) | 3 | 1 | active 1, completed 2 |
 | [03s](hoods/03s/README.md) | 3 | 0 | completed 3 |
 | [041](hoods/041/README.md) | 2 | 1 | active 1, completed 1 |
