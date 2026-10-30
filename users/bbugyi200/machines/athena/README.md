@@ -76,11 +76,11 @@
 | [0bc](hoods/0bc/README.md) | 1 | 0 | completed 1 |
 | [0c9](hoods/0c9/README.md) | 4 | 2 | completed 2, failed 2 |
 | [0cv](hoods/0cv/README.md) | 2 | 1 | active 1, failed 1 |
-| [0du](hoods/0du/README.md) | 2 | 1 | active 2 |
+| [0du](hoods/0du/README.md) | 2 | 1 | active 1, completed 1 |
 | [0dw](hoods/0dw/README.md) | 3 | 1 | active 2, waiting 1 |
 | [0e7](hoods/0e7/README.md) | 2 | 1 | completed 2 |
-| [0e9](hoods/0e9/README.md) | 2 | 1 | active 2 |
-| [0eb](hoods/0eb/README.md) | 2 | 1 | active 1, failed 1 |
+| [0e9](hoods/0e9/README.md) | 2 | 1 | active 1, completed 1 |
+| [0eb](hoods/0eb/README.md) | 2 | 1 | failed 2 |
 | [0ei](hoods/0ei/README.md) | 2 | 1 | active 2 |
 | [0el](hoods/0el/README.md) | 2 | 1 | active 2 |
 | [0en](hoods/0en/README.md) | 2 | 1 | failed 2 |
