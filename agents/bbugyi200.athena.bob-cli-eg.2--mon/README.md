@@ -26,4 +26,4 @@
 | [bob-cli-eg.1](../bbugyi200.athena.bob-cli-eg.1/README.md) | bob-cli-eg hood | completed |
 | [bob-cli-eg.3](../../sessions/bbugyi200.athena.bob-cli-eg.3.md) (session · 3) | bob-cli-eg hood | completed 2, failed 1 |
 | [bob-cli-eg.4](../bbugyi200.athena.bob-cli-eg.4/README.md) | bob-cli-eg hood | completed |
-| [bob-cli-eg.land](../../sessions/bbugyi200.athena.bob-cli-eg.land.md) (session · 3) | bob-cli-eg hood | active 2, failed 1 |
+| [bob-cli-eg.land](../../sessions/bbugyi200.athena.bob-cli-eg.land.md) (session · 3) | bob-cli-eg hood | completed 2, failed 1 |
