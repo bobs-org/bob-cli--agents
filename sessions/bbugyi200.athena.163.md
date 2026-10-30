@@ -90,4 +90,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [163.f0](../agents/bbugyi200.athena.163.f0/README.md) | descendant | waiting |
+| [163.f0](bbugyi200.athena.163.f0.md) (session · 11) | descendant | completed 6, failed 5 |

@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:163 Can you now help me verify that the bob-cli-e7 epic bead is closed and that all of the corresponding work is complete? #if_not_plan %m:@xlarge

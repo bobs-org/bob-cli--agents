@@ -41,4 +41,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [163.f0](../bbugyi200.athena.163.f0/README.md) | descendant | waiting |
+| [163.f0](../../sessions/bbugyi200.athena.163.f0.md) (session · 11) | descendant | completed 6, failed 5 |
