@@ -21,7 +21,7 @@
 | [00u](hoods/00u/README.md) | 4 | 0 | active 1, completed 3 |
 | [00v](hoods/00v/README.md) | 4 | 1 | active 1, completed 3 |
 | [00w](hoods/00w/README.md) | 15 | 7 | active 8, completed 5, failed 2 |
-| [00x](hoods/00x/README.md) | 2 | 1 | active 2 |
+| [00x](hoods/00x/README.md) | 2 | 1 | active 1, completed 1 |
 | [00y](hoods/00y/README.md) | 1 | 0 | active 1 |
 | [010](hoods/010/README.md) | 2 | 0 | active 1, completed 1 |
 | [015](hoods/015/README.md) | 2 | 0 | completed 2 |
