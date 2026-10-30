@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 163
 
-**Global hood:** `bbugyi200.athena.163` · **Runs:** 16 · **Sessions:** 1 · **States:** active 1, completed 7, failed 7, waiting 1
+**Global hood:** `bbugyi200.athena.163` · **Runs:** 16 · **Sessions:** 1 · **States:** completed 8, failed 7, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [163--code](../../../../../../sessions/bbugyi200.athena.163.md#member-code) | completed | gpt-6-luna / codex | 2026-10-30T13:22:40.272643+00:00 → 2026-10-30T13:55:53.691982+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163--code/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.163--code/chat.md) |
 | [163--mon](../../../../../../sessions/bbugyi200.athena.163.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-30T13:55:40.776443+00:00 → 2026-10-30T13:59:17.684022+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.163--mon/chat.md) |
-| [163--6](../../../../../../sessions/bbugyi200.athena.163.md#member-6) | active | gpt-6-luna / codex | 2026-10-30T15:36:14.726743+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.163--6/prompt.md) |
+| [163--6](../../../../../../sessions/bbugyi200.athena.163.md#member-6) | completed | gpt-6-luna / codex | 2026-10-30T15:36:14.726743+00:00 → 2026-10-30T16:06:31.802096+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.163--6/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.163--6/chat.md) |
 | [163--3](../../../../../../sessions/bbugyi200.athena.163.md#member-3) | completed | gpt-6-luna / codex | 2026-10-30T14:36:57.830527+00:00 → 2026-10-30T14:44:06.634746+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163--3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.163--3/chat.md) |
 | [163--2](../../../../../../sessions/bbugyi200.athena.163.md#member-2) | completed | gpt-6-luna / codex | 2026-10-30T14:15:53.590807+00:00 → 2026-10-30T14:19:56.362688+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.163--2/chat.md) |
 | [163.f0](../../../../../../agents/bbugyi200.athena.163.f0/README.md) | waiting | opus / claude | 20261030094328 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163.f0/prompt.md) |

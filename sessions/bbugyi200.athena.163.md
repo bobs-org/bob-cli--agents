@@ -11,7 +11,7 @@ flowchart TD
   n0["163--code [completed]"]
   n1["163--mon [failed]"]
   n0 --> n1
-  n2["163--6 [active]"]
+  n2["163--6 [completed]"]
   n0 --> n2
   n3["163--3 [completed]"]
   n0 --> n3
@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 163--code | completed | gpt-6-luna / codex | 2026-10-30T13:22:40.272643+00:00 → 2026-10-30T13:55:53.691982+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.163--code/prompt.md) | [Chat](../agents/bbugyi200.athena.163--code/chat.md) |
 | <a id="member-mon"></a>mon | 163--mon | failed | gpt-6-luna / codex | 2026-10-30T13:55:40.776443+00:00 → 2026-10-30T13:59:17.684022+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.163--mon/chat.md) |
-| <a id="member-6"></a>6 | 163--6 | active | gpt-6-luna / codex | 2026-10-30T15:36:14.726743+00:00 | [1](../agents/bbugyi200.athena.163--6/README.md#commits) | [Prompt](../agents/bbugyi200.athena.163--6/prompt.md) | — |
+| <a id="member-6"></a>6 | 163--6 | completed | gpt-6-luna / codex | 2026-10-30T15:36:14.726743+00:00 → 2026-10-30T16:06:31.802096+00:00 | [1](../agents/bbugyi200.athena.163--6/README.md#commits) | [Prompt](../agents/bbugyi200.athena.163--6/prompt.md) | [Chat](../agents/bbugyi200.athena.163--6/chat.md) |
 | <a id="member-3"></a>3 | 163--3 | completed | gpt-6-luna / codex | 2026-10-30T14:36:57.830527+00:00 → 2026-10-30T14:44:06.634746+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.163--3/prompt.md) | [Chat](../agents/bbugyi200.athena.163--3/chat.md) |
 | <a id="member-2"></a>2 | 163--2 | completed | gpt-6-luna / codex | 2026-10-30T14:15:53.590807+00:00 → 2026-10-30T14:19:56.362688+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.163--2/prompt.md) | [Chat](../agents/bbugyi200.athena.163--2/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | 163--mon-3 | failed | gpt-6-luna / codex | 2026-10-30T14:53:43.006331+00:00 → 2026-10-30T15:02:20.551019+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.163--mon-3/chat.md) |

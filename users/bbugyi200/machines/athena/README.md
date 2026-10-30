@@ -243,7 +243,7 @@
 | [15u](hoods/15u/README.md) | 3 | 1 | completed 2, failed 1 |
 | [15x](hoods/15x/README.md) | 3 | 1 | completed 2, failed 1 |
 | [161](hoods/161/README.md) | 9 | 1 | completed 5, failed 4 |
-| [163](hoods/163/README.md) | 16 | 1 | active 1, completed 7, failed 7, waiting 1 |
+| [163](hoods/163/README.md) | 16 | 1 | completed 8, failed 7, waiting 1 |
 | [164](hoods/164/README.md) | 3 | 1 | completed 2, failed 1 |
 | [166](hoods/166/README.md) | 3 | 1 | completed 2, failed 1 |
 | [16b](hoods/16b/README.md) | 7 | 1 | completed 4, failed 3 |
