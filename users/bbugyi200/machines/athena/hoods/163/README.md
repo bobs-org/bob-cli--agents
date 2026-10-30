@@ -1,0 +1,24 @@
+# Hood: 163
+
+[Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 163
+
+**Global hood:** `bbugyi200.athena.163` · **Runs:** 16 · **Sessions:** 1 · **States:** active 1, completed 7, failed 7, waiting 1
+
+| Agent | State | Model / provider | Timing | Commits | Files |
+|---|---|---|---|---:|---|
+| [163--code](../../../../../../sessions/bbugyi200.athena.163.md#member-code) | completed | gpt-6-luna / codex | 2026-10-30T13:22:40.272643+00:00 → 2026-10-30T13:55:53.691982+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163--code/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.163--code/chat.md) |
+| [163--mon](../../../../../../sessions/bbugyi200.athena.163.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-30T13:55:40.776443+00:00 → 2026-10-30T13:59:17.684022+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.163--mon/chat.md) |
+| [163--6](../../../../../../sessions/bbugyi200.athena.163.md#member-6) | active | gpt-6-luna / codex | 2026-10-30T15:36:14.726743+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.163--6/prompt.md) |
+| [163--3](../../../../../../sessions/bbugyi200.athena.163.md#member-3) | completed | gpt-6-luna / codex | 2026-10-30T14:36:57.830527+00:00 → 2026-10-30T14:44:06.634746+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163--3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.163--3/chat.md) |
+| [163--2](../../../../../../sessions/bbugyi200.athena.163.md#member-2) | completed | gpt-6-luna / codex | 2026-10-30T14:15:53.590807+00:00 → 2026-10-30T14:19:56.362688+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.163--2/chat.md) |
+| [163.f0](../../../../../../agents/bbugyi200.athena.163.f0/README.md) | waiting | opus / claude | 20261030094328 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163.f0/prompt.md) |
+| [163--mon-3](../../../../../../sessions/bbugyi200.athena.163.md#member-mon-3) | failed | gpt-6-luna / codex | 2026-10-30T14:53:43.006331+00:00 → 2026-10-30T15:02:20.551019+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.163--mon-3/chat.md) |
+| [163--mon-1](../../../../../../sessions/bbugyi200.athena.163.md#member-mon-1) | failed | gpt-6-luna / codex | 2026-10-30T14:19:44.993394+00:00 → 2026-10-30T14:34:25.697851+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.163--mon-1/chat.md) |
+| [163--5](../../../../../../sessions/bbugyi200.athena.163.md#member-5) | completed | gpt-6-luna / codex | 2026-10-30T15:01:50.190382+00:00 → 2026-10-30T15:14:32.584341+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163--5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.163--5/chat.md) |
+| [163--plan](../../../../../../sessions/bbugyi200.athena.163.md#member-plan) | completed | opus / claude | 2026-10-30T13:05:12.126581+00:00 → 2026-10-30T13:16:23.545494+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.163--plan/chat.md) |
+| [163--4](../../../../../../sessions/bbugyi200.athena.163.md#member-4) | completed | gpt-6-luna / codex | 2026-10-30T14:49:48.478263+00:00 → 2026-10-30T14:54:09.156525+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163--4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.163--4/chat.md) |
+| [163--mon-2](../../../../../../sessions/bbugyi200.athena.163.md#member-mon-2) | failed | gpt-6-luna / codex | 2026-10-30T14:43:54.631532+00:00 → 2026-10-30T14:45:52.440944+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.163--mon-2/chat.md) |
+| [163--1](../../../../../../sessions/bbugyi200.athena.163.md#member-1) | completed | gpt-6-luna / codex | 2026-10-30T14:01:34.130656+00:00 → 2026-10-30T14:06:40.495342+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.163--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.163--1/chat.md) |
+| [163--mon-0](../../../../../../sessions/bbugyi200.athena.163.md#member-mon-0) | failed | gpt-6-luna / codex | 2026-10-30T14:06:28.297515+00:00 → 2026-10-30T14:13:49.065311+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.163--mon-0/chat.md) |
+| [163--gate](../../../../../../sessions/bbugyi200.athena.163.md#member-gate) | failed | opus / claude | 2026-10-30T13:19:54.408511+00:00 → 2026-10-30T13:21:19.595284+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.163--gate/chat.md) |
+| [163--mon-4](../../../../../../sessions/bbugyi200.athena.163.md#member-mon-4) | failed | gpt-6-luna / codex | 2026-10-30T15:14:13.319546+00:00 → 2026-10-30T15:34:01.307338+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.163--mon-4/chat.md) |

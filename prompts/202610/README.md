@@ -73,6 +73,7 @@
 | [15u.md](15u.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202610/change_parent_panel.md][1] | - | [bbugyi200.athena.15u--code](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.15u.md) | 1 |
 | [15x.md](15x.md) | %queue(weight=1) #fork:15x--0 %model:gpt-6-astra@xhigh | - | [bbugyi200.athena.15x--1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.15x.md) | 0 |
 | [161.md](161.md) | %queue(weight=1) #fork:161--2 %model:@medium | - | [bbugyi200.athena.161--3](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.161.md) | 0 |
+| [163.md](163.md) | %queue(weight=1) #fork:163--5 %model:gpt-6-luna@xhigh | - | [bbugyi200.athena.163](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.163.md) | 0 |
 | [164.md](164.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202610/relation_inverse_ed_by.md][1] | - | [bbugyi200.athena.164](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.164.md) | 1 |
 | [166.md](166.md) | %model:@medium #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.166](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.166.md) | 1 |
 | [16b.md](16b.md) | %queue(weight=1) #fork:16b--1 %model:grok-4.6 %effort:medium | - | [bbugyi200.athena.16b](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.16b.md) | 0 |
