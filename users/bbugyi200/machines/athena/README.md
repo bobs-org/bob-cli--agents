@@ -250,7 +250,7 @@
 | [16c](hoods/16c/README.md) | 3 | 1 | completed 2, failed 1 |
 | [16d](hoods/16d/README.md) | 3 | 1 | completed 2, failed 1 |
 | [16g](hoods/16g/README.md) | 3 | 1 | completed 2, failed 1 |
-| [16h](hoods/16h/README.md) | 6 | 2 | active 1, completed 3, failed 2 |
+| [16h](hoods/16h/README.md) | 6 | 2 | completed 4, failed 2 |
 | [19](hoods/19/README.md) | 8 | 4 | active 4, completed 4 |
 | [1b](hoods/1b/README.md) | 2 | 1 | active 1, completed 1 |
 | [1d](hoods/1d/README.md) | 1 | 0 | completed 1 |
