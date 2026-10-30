@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me add an excellent new glossary term for Obsidian's "command-mode" (triggered via the `:` keymap)? #plan %m:@xlarge
