@@ -95,7 +95,7 @@
 | [0fw](hoods/0fw/README.md) | 6 | 2 | active 2, completed 2, failed 2 |
 | [0g](hoods/0g/README.md) | 1 | 0 | completed 1 |
 | [0g4](hoods/0g4/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [0gp](hoods/0gp/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0gp](hoods/0gp/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0h0](hoods/0h0/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0ig](hoods/0ig/README.md) | 1 | 0 | active 1 |
 | [0iz](hoods/0iz/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
