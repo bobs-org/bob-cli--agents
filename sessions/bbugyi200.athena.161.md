@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["161--mon-1 [failed]"]
   n0 --> n3
-  n4["161--3 [active]"]
+  n4["161--3 [completed]"]
   n0 --> n4
   n5["161--2 [completed]"]
   n0 --> n5
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | 161--code | completed | gpt-6-luna / codex | 2026-10-30T03:00:04.079977+00:00 → 2026-10-30T03:11:58.261352+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.161--code/chat.md) |
 | <a id="member-gate"></a>gate | 161--gate | failed | opus / claude | 2026-10-30T02:55:40.977088+00:00 → 2026-10-30T02:58:08.520725+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.161--gate/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 161--mon-1 | failed | gpt-6-luna / codex | 2026-10-30T03:41:05.862001+00:00 → 2026-10-30T03:49:19.749239+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.161--mon-1/chat.md) |
-| <a id="member-3"></a>3 | 161--3 | active | gpt-6-luna / codex | 2026-10-30T03:54:00.238721+00:00 | [1](../agents/bbugyi200.athena.161--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.161--3/prompt.md) | — |
+| <a id="member-3"></a>3 | 161--3 | completed | gpt-6-luna / codex | 2026-10-30T03:54:00.238721+00:00 → 2026-10-30T04:04:13.549479+00:00 | [1](../agents/bbugyi200.athena.161--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.161--3/prompt.md) | [Chat](../agents/bbugyi200.athena.161--3/chat.md) |
 | <a id="member-2"></a>2 | 161--2 | completed | gpt-6-luna / codex | 2026-10-30T03:33:26.229808+00:00 → 2026-10-30T03:41:25.369571+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.161--2/prompt.md) | [Chat](../agents/bbugyi200.athena.161--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 161--mon-0 | failed | gpt-6-luna / codex | 2026-10-30T03:21:46.635315+00:00 → 2026-10-30T03:30:03.517212+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.161--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | 161--plan | completed | opus / claude | 2026-10-30T02:46:14.109818+00:00 → 2026-10-30T03:11:58.261352+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.161--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.161--plan/chat.md) |
