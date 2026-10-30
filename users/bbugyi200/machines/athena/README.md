@@ -109,7 +109,7 @@
 | [0m9](hoods/0m9/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0mz](hoods/0mz/README.md) | 12 | 4 | active 4, completed 4, failed 4 |
 | [0o](hoods/0o/README.md) | 1 | 0 | completed 1 |
-| [0pu](hoods/0pu/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0pu](hoods/0pu/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0t3](hoods/0t3/README.md) | 3 | 1 | active 1, failed 2 |
 | [0ug](hoods/0ug/README.md) | 3 | 1 | active 1, failed 2 |
 | [0ui](hoods/0ui/README.md) | 3 | 1 | active 1, failed 2 |
