@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [023](../../users/bbugyi200/machines/athena/hoods/023/README.md) / [023](../../sessions/bbugyi200.athena.023.md) / 023--code
 
-**Global name:** `bbugyi200.athena.023--code` · **State:** active · **Source run:** `run-58d1424c60ead990a2269d6abb0eaf94`
+**Global name:** `bbugyi200.athena.023--code` · **State:** completed · **Source run:** `run-58d1424c60ead990a2269d6abb0eaf94`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 023
 
