@@ -17,5 +17,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [0ey](../../sessions/bbugyi200.athena.0ey.md) (session · 2) | ancestor | active 2 |
+| [0ey](../../sessions/bbugyi200.athena.0ey.md) (session · 2) | ancestor | active 1, completed 1 |
 | [0ey.f1](../bbugyi200.athena.0ey.f1/README.md) | 0ey hood | waiting |

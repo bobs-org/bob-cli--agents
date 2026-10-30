@@ -81,11 +81,11 @@
 | [0e7](hoods/0e7/README.md) | 2 | 1 | completed 2 |
 | [0e9](hoods/0e9/README.md) | 2 | 1 | active 1, completed 1 |
 | [0eb](hoods/0eb/README.md) | 2 | 1 | failed 2 |
-| [0ei](hoods/0ei/README.md) | 2 | 1 | active 2 |
-| [0el](hoods/0el/README.md) | 2 | 1 | active 2 |
+| [0ei](hoods/0ei/README.md) | 2 | 1 | active 1, completed 1 |
+| [0el](hoods/0el/README.md) | 2 | 1 | active 1, completed 1 |
 | [0en](hoods/0en/README.md) | 2 | 1 | failed 2 |
 | [0er](hoods/0er/README.md) | 2 | 1 | failed 2 |
-| [0ey](hoods/0ey/README.md) | 4 | 1 | active 2, dismissed 1, waiting 1 |
+| [0ey](hoods/0ey/README.md) | 4 | 1 | active 1, completed 1, dismissed 1, waiting 1 |
 | [0f](hoods/0f/README.md) | 1 | 0 | completed 1 |
 | [0f9](hoods/0f9/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0ff](hoods/0ff/README.md) | 10 | 3 | active 1, completed 5, failed 3, waiting 1 |
