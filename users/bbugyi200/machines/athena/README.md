@@ -63,8 +63,8 @@
 | [06v](hoods/06v/README.md) | 2 | 1 | active 1, completed 1 |
 | [06y](hoods/06y/README.md) | 1 | 0 | completed 1 |
 | [071](hoods/071/README.md) | 2 | 0 | completed 2 |
-| [07m](hoods/07m/README.md) | 2 | 1 | active 2 |
-| [07p](hoods/07p/README.md) | 2 | 1 | active 2 |
+| [07m](hoods/07m/README.md) | 2 | 1 | active 1, completed 1 |
+| [07p](hoods/07p/README.md) | 2 | 1 | active 1, completed 1 |
 | [085](hoods/085/README.md) | 2 | 1 | failed 2 |
 | [08j](hoods/08j/README.md) | 11 | 5 | active 2, completed 8, dismissed 1 |
 | [08w](hoods/08w/README.md) | 5 | 0 | completed 5 |
