@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00o](../../users/bbugyi200/machines/athena/hoods/00o/README.md) / [00o.f1](../../sessions/bbugyi200.athena.00o.f1.md) / 00o.f1--code
 
-**Global name:** `bbugyi200.athena.00o.f1--code` · **State:** active · **Source run:** `run-b905b5e10cc6faea4819e56e5e3f4a40`
+**Global name:** `bbugyi200.athena.00o.f1--code` · **State:** completed · **Source run:** `run-b905b5e10cc6faea4819e56e5e3f4a40`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 00o
 

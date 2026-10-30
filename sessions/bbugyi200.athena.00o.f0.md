@@ -25,4 +25,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [00o](../agents/bbugyi200.athena.00o/README.md) | ancestor | completed |
-| [00o.f1](bbugyi200.athena.00o.f1.md) (session · 2) | 00o hood | active 2 |
+| [00o.f1](bbugyi200.athena.00o.f1.md) (session · 2) | 00o hood | active 1, completed 1 |
