@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 10v
 
-**Global hood:** `bbugyi200.athena.10v` · **Runs:** 15 · **Sessions:** 1 · **States:** active 1, completed 7, failed 7
+**Global hood:** `bbugyi200.athena.10v` · **Runs:** 15 · **Sessions:** 1 · **States:** completed 8, failed 7
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -11,7 +11,7 @@
 | [10v--plan](../../../../../../sessions/bbugyi200.athena.10v.md#member-plan) | completed | opus / claude | 2026-10-17T10:24:01.933570+00:00 → 2026-10-17T10:37:22.412674+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.10v--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.10v--plan/prompt.md) |
 | [10v--mon-4](../../../../../../sessions/bbugyi200.athena.10v.md#member-mon-4) | failed | gpt-6-luna / codex | 2026-10-17T12:03:04.020111+00:00 → 2026-10-17T12:05:14.143893+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.10v--mon-4/chat.md) |
 | [10v--mon-2](../../../../../../sessions/bbugyi200.athena.10v.md#member-mon-2) | failed | gpt-6-luna / codex | 2026-10-17T11:40:10.947423+00:00 → 2026-10-17T11:42:43.998283+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.10v--mon-2/chat.md) |
-| [10v--6](../../../../../../sessions/bbugyi200.athena.10v.md#member-6) | active | grok-4.6 / grok | 2026-10-17T12:05:49.052094+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.10v--6/prompt.md) |
+| [10v--6](../../../../../../sessions/bbugyi200.athena.10v.md#member-6) | completed | grok-4.6 / grok | 2026-10-17T12:05:49.052094+00:00 → 2026-10-17T12:14:09.222270+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.10v--6/prompt.md) |
 | [10v--2](../../../../../../sessions/bbugyi200.athena.10v.md#member-2) | completed | gpt-6-luna / codex | 2026-10-17T11:28:39.473557+00:00 → 2026-10-17T11:33:27.127846+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.10v--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.10v--2/prompt.md) |
 | [10v--mon](../../../../../../sessions/bbugyi200.athena.10v.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-17T11:03:16.729650+00:00 → 2026-10-17T11:09:18.840175+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.10v--mon/chat.md) |
 | [10v--1](../../../../../../sessions/bbugyi200.athena.10v.md#member-1) | completed | gpt-6-luna / codex | 2026-10-17T11:12:17.174940+00:00 → 2026-10-17T11:22:25.795305+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.10v--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.10v--1/prompt.md) |

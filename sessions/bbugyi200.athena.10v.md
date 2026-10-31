@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["10v--mon-2 [failed]"]
   n0 --> n4
-  n5["10v--6 [active]"]
+  n5["10v--6 [completed]"]
   n0 --> n5
   n6["10v--2 [completed]"]
   n0 --> n6
@@ -48,7 +48,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | 10v--plan | completed | opus / claude | 2026-10-17T10:24:01.933570+00:00 → 2026-10-17T10:37:22.412674+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.10v--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.10v--plan/chat.md) |
 | <a id="member-mon-4"></a>mon-4 | 10v--mon-4 | failed | gpt-6-luna / codex | 2026-10-17T12:03:04.020111+00:00 → 2026-10-17T12:05:14.143893+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.10v--mon-4/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | 10v--mon-2 | failed | gpt-6-luna / codex | 2026-10-17T11:40:10.947423+00:00 → 2026-10-17T11:42:43.998283+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.10v--mon-2/chat.md) |
-| <a id="member-6"></a>6 | 10v--6 | active | grok-4.6 / grok | 2026-10-17T12:05:49.052094+00:00 | [1](../agents/bbugyi200.athena.10v--6/README.md#commits) | [Prompt](../agents/bbugyi200.athena.10v--6/prompt.md) | — |
+| <a id="member-6"></a>6 | 10v--6 | completed | grok-4.6 / grok | 2026-10-17T12:05:49.052094+00:00 → 2026-10-17T12:14:09.222270+00:00 | [1](../agents/bbugyi200.athena.10v--6/README.md#commits) | [Prompt](../agents/bbugyi200.athena.10v--6/prompt.md) | — |
 | <a id="member-2"></a>2 | 10v--2 | completed | gpt-6-luna / codex | 2026-10-17T11:28:39.473557+00:00 → 2026-10-17T11:33:27.127846+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.10v--2/prompt.md) | [Chat](../agents/bbugyi200.athena.10v--2/chat.md) |
 | <a id="member-mon"></a>mon | 10v--mon | failed | gpt-6-luna / codex | 2026-10-17T11:03:16.729650+00:00 → 2026-10-17T11:09:18.840175+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.10v--mon/chat.md) |
 | <a id="member-1"></a>1 | 10v--1 | completed | gpt-6-luna / codex | 2026-10-17T11:12:17.174940+00:00 → 2026-10-17T11:22:25.795305+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.10v--1/prompt.md) | [Chat](../agents/bbugyi200.athena.10v--1/chat.md) |
@@ -63,4 +63,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 6 | bob-cli | [`5af6521`](https://github.com/bobs-org/bob-cli/commit/5af6521a30a1ee843ff4c1f7d2574d97c1236e97) | feat(ref): re-key reference ids to the file stem on rename | 2026-10-17 08:12:34 EDT |
+| 6 | — | `5af6521` | feat(ref): re-key reference ids to the file stem on rename | 2026-10-17 08:12:34 EDT |

@@ -176,10 +176,10 @@
 | [10e](hoods/10e/README.md) | 3 | 1 | completed 2, failed 1 |
 | [10m](hoods/10m/README.md) | 3 | 1 | failed 3 |
 | [10n](hoods/10n/README.md) | 3 | 1 | completed 2, failed 1 |
-| [10p](hoods/10p/README.md) | 3 | 1 | active 2, failed 1 |
-| [10v](hoods/10v/README.md) | 15 | 1 | active 1, completed 7, failed 7 |
+| [10p](hoods/10p/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [10v](hoods/10v/README.md) | 15 | 1 | completed 8, failed 7 |
 | [11](hoods/11/README.md) | 1 | 0 | completed 1 |
-| [111](hoods/111/README.md) | 3 | 1 | active 2, failed 1 |
+| [111](hoods/111/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [117](hoods/117/README.md) | 3 | 1 | failed 3 |
 | [11d](hoods/11d/README.md) | 23 | 1 | active 1, completed 11, failed 11 |
 | [11g](hoods/11g/README.md) | 6 | 2 | active 2, completed 2, failed 2 |
