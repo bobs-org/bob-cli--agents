@@ -147,10 +147,10 @@
 | [0x9](hoods/0x9/README.md) | 8 | 2 | active 2, completed 3, failed 3 |
 | [0xf](hoods/0xf/README.md) | 3 | 1 | failed 3 |
 | [0xh](hoods/0xh/README.md) | 3 | 1 | failed 3 |
-| [0xi](hoods/0xi/README.md) | 3 | 1 | active 2, failed 1 |
-| [0xl](hoods/0xl/README.md) | 3 | 1 | active 2, failed 1 |
+| [0xi](hoods/0xi/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0xl](hoods/0xl/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0xq](hoods/0xq/README.md) | 3 | 1 | failed 3 |
-| [0xs](hoods/0xs/README.md) | 3 | 1 | active 2, failed 1 |
+| [0xs](hoods/0xs/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0xt](hoods/0xt/README.md) | 3 | 1 | active 2, failed 1 |
 | [0y2](hoods/0y2/README.md) | 3 | 1 | failed 3 |
 | [0y4](hoods/0y4/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
