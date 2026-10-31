@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3232214`](https://github.com/bobs-org/bob-cli/commit/32322146c23cdd625f1b84b9250bb163f8d34296) | feat(hardening): shared uv resolution, URL safety, and doctor rows | 2026-10-07 08:39:11 EDT |
+| — | `3232214` | feat(hardening): shared uv resolution, URL safety, and doctor rows | 2026-10-07 08:39:11 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [bob-cli-52.7](../bbugyi200.athena.bob-cli-52.7/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.8](../bbugyi200.athena.bob-cli-52.8/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.9](../bbugyi200.athena.bob-cli-52.9/README.md) | bob-cli-52 hood | completed |
-| [bob-cli-52.land](../../sessions/bbugyi200.athena.bob-cli-52.land.md) (session · 3) | bob-cli-52 hood | active 2, failed 1 |
+| [bob-cli-52.land](../../sessions/bbugyi200.athena.bob-cli-52.land.md) (session · 3) | bob-cli-52 hood | active 1, completed 1, failed 1 |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`df9d504`](https://github.com/bobs-org/bob-cli/commit/df9d504fb937a9ba80bf7ec51f6d8ead285fac62) | feat(url-routing): add intent classifier, routing policy, and offline library verdict | 2026-10-07 09:01:44 EDT |
+| — | `df9d504` | feat(url-routing): add intent classifier, routing policy, and offline library verdict | 2026-10-07 09:01:44 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [bob-cli-52.7](../bbugyi200.athena.bob-cli-52.7/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.8](../bbugyi200.athena.bob-cli-52.8/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.9](../bbugyi200.athena.bob-cli-52.9/README.md) | bob-cli-52 hood | completed |
-| [bob-cli-52.land](../../sessions/bbugyi200.athena.bob-cli-52.land.md) (session · 3) | bob-cli-52 hood | active 2, failed 1 |
+| [bob-cli-52.land](../../sessions/bbugyi200.athena.bob-cli-52.land.md) (session · 3) | bob-cli-52 hood | active 1, completed 1, failed 1 |

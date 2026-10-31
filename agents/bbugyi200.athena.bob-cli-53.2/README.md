@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b5a0258`](https://github.com/bobs-org/bob-cli/commit/b5a0258de16d872bb69eea968f50478f0f6909f6) | docs(date-marks): document Tasks query results date marks (T1-T9) | 2026-10-07 09:12:44 EDT |
+| — | `b5a0258` | docs(date-marks): document Tasks query results date marks (T1-T9) | 2026-10-07 09:12:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-53.1](../bbugyi200.athena.bob-cli-53.1/README.md) | bob-cli-53 hood | completed |
-| [bob-cli-53.land](../../sessions/bbugyi200.athena.bob-cli-53.land.md) (session · 3) | bob-cli-53 hood | active 2, failed 1 |
+| [bob-cli-53.land](../../sessions/bbugyi200.athena.bob-cli-53.land.md) (session · 3) | bob-cli-53 hood | active 1, completed 1, failed 1 |

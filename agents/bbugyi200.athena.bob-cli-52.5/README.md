@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f4fb812`](https://github.com/bobs-org/bob-cli/commit/f4fb812ad58cb8748f7bfe73036f9ddbf6461e79) | feat(ref-jobs): background clip queue for reading-queue links | 2026-10-07 10:08:25 EDT |
+| — | `f4fb812` | feat(ref-jobs): background clip queue for reading-queue links | 2026-10-07 10:08:25 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [bob-cli-52.7](../bbugyi200.athena.bob-cli-52.7/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.8](../bbugyi200.athena.bob-cli-52.8/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.9](../bbugyi200.athena.bob-cli-52.9/README.md) | bob-cli-52 hood | completed |
-| [bob-cli-52.land](../../sessions/bbugyi200.athena.bob-cli-52.land.md) (session · 3) | bob-cli-52 hood | active 2, failed 1 |
+| [bob-cli-52.land](../../sessions/bbugyi200.athena.bob-cli-52.land.md) (session · 3) | bob-cli-52 hood | active 1, completed 1, failed 1 |

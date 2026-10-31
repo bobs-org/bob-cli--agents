@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2eafe60`](https://github.com/bobs-org/bob-cli/commit/2eafe60c505be3852633cb61e1f2cc29db409b17) | feat(ref): add typed non-printing URL ingest for reading queue | 2026-10-07 08:41:05 EDT |
+| — | `2eafe60` | feat(ref): add typed non-printing URL ingest for reading queue | 2026-10-07 08:41:05 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [bob-cli-52.7](../bbugyi200.athena.bob-cli-52.7/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.8](../bbugyi200.athena.bob-cli-52.8/README.md) | bob-cli-52 hood | completed |
 | [bob-cli-52.9](../bbugyi200.athena.bob-cli-52.9/README.md) | bob-cli-52 hood | completed |
-| [bob-cli-52.land](../../sessions/bbugyi200.athena.bob-cli-52.land.md) (session · 3) | bob-cli-52 hood | active 2, failed 1 |
+| [bob-cli-52.land](../../sessions/bbugyi200.athena.bob-cli-52.land.md) (session · 3) | bob-cli-52 hood | active 1, completed 1, failed 1 |

@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6fb936d`](https://github.com/bobs-org/bob-cli/commit/6fb936d71dc0a79e59f3566b1e23c60938b9d0db) | feat(highlights): keep return-link glyphs out of synced highlights | 2026-10-07 16:07:53 EDT |
+| — | `6fb936d` | feat(highlights): keep return-link glyphs out of synced highlights | 2026-10-07 16:07:53 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5j.1](../bbugyi200.athena.bob-cli-5j.1/README.md) | bob-cli-5j hood | completed |
-| [bob-cli-5j.land](../../sessions/bbugyi200.athena.bob-cli-5j.land.md) (session · 3) | bob-cli-5j hood | active 2, failed 1 |
+| [bob-cli-5j.land](../../sessions/bbugyi200.athena.bob-cli-5j.land.md) (session · 3) | bob-cli-5j hood | active 1, completed 1, failed 1 |

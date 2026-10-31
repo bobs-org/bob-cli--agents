@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-52](../../users/bbugyi200/machines/athena/hoods/bob-cli-52/README.md) / [bob-cli-52.land](../../sessions/bbugyi200.athena.bob-cli-52.land.md) / bob-cli-52.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-52.land--code` · **State:** active · **Source run:** `run-3a034c64daa188f1916f0c6099a8ed12`
+**Global name:** `bbugyi200.athena.bob-cli-52.land--code` · **State:** completed · **Source run:** `run-3a034c64daa188f1916f0c6099a8ed12`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-52
 
@@ -11,14 +11,14 @@
 - Bead: [bob-cli-52](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-52/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-07T16:20:20.296179+00:00
+- Timing: 2026-10-07T16:20:20.296179+00:00 → 2026-10-07T17:11:15.377188+00:00
 - Commits: [1](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6244ddd`](https://github.com/bobs-org/bob-cli/commit/6244dddd931982a598920cdc0fdc69a752c462c8) | feat(landing): implement bob-cli-52 landing per 202610/bob\_cli\_52\_landing.md | 2026-10-07 13:08:30 EDT |
+| — | `6244ddd` | feat(landing): implement bob-cli-52 landing per 202610/bob\_cli\_52\_landing.md | 2026-10-07 13:08:30 EDT |
 
 ## Neighbors
 

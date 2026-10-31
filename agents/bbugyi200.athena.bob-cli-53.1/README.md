@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`67f0cbb`](https://github.com/bobs-org/bob-cli/commit/67f0cbb7b48505f2caa88976fd40ae30de1eda4f) | feat(docs): add task date marks display contract (bob-cli-53.1) | 2026-10-07 08:56:51 EDT |
+| — | `67f0cbb` | feat(docs): add task date marks display contract (bob-cli-53.1) | 2026-10-07 08:56:51 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-53.2](../bbugyi200.athena.bob-cli-53.2/README.md) | bob-cli-53 hood | completed |
-| [bob-cli-53.land](../../sessions/bbugyi200.athena.bob-cli-53.land.md) (session · 3) | bob-cli-53 hood | active 2, failed 1 |
+| [bob-cli-53.land](../../sessions/bbugyi200.athena.bob-cli-53.land.md) (session · 3) | bob-cli-53 hood | active 1, completed 1, failed 1 |

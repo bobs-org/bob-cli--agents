@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d4fab34`](https://github.com/bobs-org/bob-cli/commit/d4fab34ab6c4b2911624f849a95e9adfba48f101) | feat(highlights): render paired return links in Markdown PDFs | 2026-10-07 15:42:33 EDT |
+| — | `d4fab34` | feat(highlights): render paired return links in Markdown PDFs | 2026-10-07 15:42:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5j.2](../bbugyi200.athena.bob-cli-5j.2/README.md) | bob-cli-5j hood | completed |
-| [bob-cli-5j.land](../../sessions/bbugyi200.athena.bob-cli-5j.land.md) (session · 3) | bob-cli-5j hood | active 2, failed 1 |
+| [bob-cli-5j.land](../../sessions/bbugyi200.athena.bob-cli-5j.land.md) (session · 3) | bob-cli-5j hood | active 1, completed 1, failed 1 |
