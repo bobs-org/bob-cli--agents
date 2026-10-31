@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `15h` · Members: 7
 
 ```mermaid
 flowchart TD
-  n0["15h--2 [active]"]
+  n0["15h--2 [completed]"]
   n1["15h--code [completed]"]
   n0 --> n1
   n2["15h--mon-0 [failed]"]
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | 15h--2 | active | gpt-6-luna / codex | 2026-10-28T21:58:30.763904+00:00 | [1](../agents/bbugyi200.athena.15h--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.15h--2/prompt.md) | — |
+| <a id="member-2"></a>2 | 15h--2 | completed | gpt-6-luna / codex | 2026-10-28T21:58:30.763904+00:00 → 2026-10-28T22:05:43.188905+00:00 | [1](../agents/bbugyi200.athena.15h--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.15h--2/prompt.md) | — |
 | <a id="member-code"></a>code | 15h--code | completed | gpt-6-luna / codex | 2026-10-28T21:31:17.156932+00:00 → 2026-10-28T21:41:51.140998+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.15h--code/prompt.md) | [Chat](../agents/bbugyi200.athena.15h--code/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 15h--mon-0 | failed | gpt-6-luna / codex | 2026-10-28T21:52:13.269624+00:00 → 2026-10-28T21:55:20.089047+00:00 | 0 | — | — |
 | <a id="member-mon"></a>mon | 15h--mon | failed | gpt-6-luna / codex | 2026-10-28T21:41:14.811717+00:00 → 2026-10-28T21:44:10.009969+00:00 | 0 | — | — |
@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`1e8e0ec`](https://github.com/bobs-org/bob-cli/commit/1e8e0ecce3201cfc6efa1614c62a289832617661) | docs(task-relations): document Task Link relation keymaps | 2026-10-28 18:03:39 EDT |
+| 2 | — | `1e8e0ec` | docs(task-relations): document Task Link relation keymaps | 2026-10-28 18:03:39 EDT |
