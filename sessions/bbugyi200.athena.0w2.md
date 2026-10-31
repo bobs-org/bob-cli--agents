@@ -23,7 +23,7 @@ flowchart TD
   n0 --> n6
   n7["0w2--2 [completed]"]
   n0 --> n7
-  n8["0w2--3 [active]"]
+  n8["0w2--3 [completed]"]
   n0 --> n8
 ```
 
@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-gate"></a>gate | 0w2--gate | failed | opus / claude | 2026-10-04T09:47:08.316339+00:00 → 2026-10-04T09:47:27.791395+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0w2--gate/chat.md) |
 | <a id="member-1"></a>1 | 0w2--1 | completed | gpt-6-luna / codex | 2026-10-04T09:59:58.613797+00:00 → 2026-10-04T10:06:39.944762+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0w2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0w2--1/chat.md) |
 | <a id="member-2"></a>2 | 0w2--2 | completed | gpt-6-luna / codex | 2026-10-04T10:08:26.911653+00:00 → 2026-10-04T10:18:05.447138+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0w2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.0w2--2/chat.md) |
-| <a id="member-3"></a>3 | 0w2--3 | active | gpt-6-luna / codex | 2026-10-04T10:20:50.004213+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0w2--3/prompt.md) | — |
+| <a id="member-3"></a>3 | 0w2--3 | completed | gpt-6-luna / codex | 2026-10-04T10:20:50.004213+00:00 → 2026-10-04T10:26:32.308062+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0w2--3/prompt.md) | — |

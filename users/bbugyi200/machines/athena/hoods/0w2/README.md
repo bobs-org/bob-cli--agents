@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0w2
 
-**Global hood:** `bbugyi200.athena.0w2` · **Runs:** 9 · **Sessions:** 1 · **States:** active 1, completed 4, failed 4
+**Global hood:** `bbugyi200.athena.0w2` · **Runs:** 9 · **Sessions:** 1 · **States:** completed 5, failed 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -14,4 +14,4 @@
 | [0w2--gate](../../../../../../sessions/bbugyi200.athena.0w2.md#member-gate) | failed | opus / claude | 2026-10-04T09:47:08.316339+00:00 → 2026-10-04T09:47:27.791395+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0w2--gate/chat.md) |
 | [0w2--1](../../../../../../sessions/bbugyi200.athena.0w2.md#member-1) | completed | gpt-6-luna / codex | 2026-10-04T09:59:58.613797+00:00 → 2026-10-04T10:06:39.944762+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0w2--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0w2--1/prompt.md) |
 | [0w2--2](../../../../../../sessions/bbugyi200.athena.0w2.md#member-2) | completed | gpt-6-luna / codex | 2026-10-04T10:08:26.911653+00:00 → 2026-10-04T10:18:05.447138+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0w2--2/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0w2--2/prompt.md) |
-| [0w2--3](../../../../../../sessions/bbugyi200.athena.0w2.md#member-3) | active | gpt-6-luna / codex | 2026-10-04T10:20:50.004213+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0w2--3/prompt.md) |
+| [0w2--3](../../../../../../sessions/bbugyi200.athena.0w2.md#member-3) | completed | gpt-6-luna / codex | 2026-10-04T10:20:50.004213+00:00 → 2026-10-04T10:26:32.308062+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0w2--3/prompt.md) |
