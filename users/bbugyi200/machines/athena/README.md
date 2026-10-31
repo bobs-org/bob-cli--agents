@@ -233,7 +233,7 @@
 | [155](hoods/155/README.md) | 7 | 1 | completed 4, failed 3 |
 | [156](hoods/156/README.md) | 3 | 1 | completed 2, failed 1 |
 | [157](hoods/157/README.md) | 1 | 0 | active 1 |
-| [158](hoods/158/README.md) | 6 | 1 | active 1, completed 3, failed 2 |
+| [158](hoods/158/README.md) | 6 | 1 | completed 3, failed 3 |
 | [15c](hoods/15c/README.md) | 3 | 1 | completed 2, failed 1 |
 | [15g](hoods/15g/README.md) | 5 | 1 | completed 3, failed 2 |
 | [15h](hoods/15h/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
