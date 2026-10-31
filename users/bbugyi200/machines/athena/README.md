@@ -157,10 +157,10 @@
 | [0y6](hoods/0y6/README.md) | 5 | 1 | completed 3, failed 2 |
 | [0y9](hoods/0y9/README.md) | 5 | 1 | completed 3, failed 2 |
 | [0yb](hoods/0yb/README.md) | 3 | 1 | failed 3 |
-| [0yc](hoods/0yc/README.md) | 10 | 2 | active 1, completed 5, failed 4 |
-| [0yd](hoods/0yd/README.md) | 3 | 1 | active 2, failed 1 |
-| [0ye](hoods/0ye/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [0yk](hoods/0yk/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
+| [0yc](hoods/0yc/README.md) | 10 | 2 | completed 6, failed 4 |
+| [0yd](hoods/0yd/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0ye](hoods/0ye/README.md) | 3 | 1 | completed 2, failed 1 |
+| [0yk](hoods/0yk/README.md) | 5 | 1 | completed 3, failed 2 |
 | [0z](hoods/0z/README.md) | 1 | 0 | completed 1 |
 | [0z0](hoods/0z0/README.md) | 4 | 1 | active 1, failed 3 |
 | [0z1](hoods/0z1/README.md) | 4 | 1 | failed 3, waiting 1 |

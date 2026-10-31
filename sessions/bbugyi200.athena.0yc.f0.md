@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["0yc.f0--gate [failed]"]
   n0 --> n5
-  n6["0yc.f0--2 [active]"]
+  n6["0yc.f0--2 [completed]"]
   n0 --> n6
 ```
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | 0yc.f0--plan | completed | grok-4.7 / grok | 2026-10-08T16:49:49.909421+00:00 → 2026-10-08T17:00:57.389470+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0yc.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0yc.f0--plan/chat.md) |
 | <a id="member-1"></a>1 | 0yc.f0--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T17:05:08.886606+00:00 → 2026-10-08T17:17:50.506569+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0yc.f0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.0yc.f0--1/chat.md) |
 | <a id="member-gate"></a>gate | 0yc.f0--gate | failed | grok-4.7 / grok | 2026-10-08T16:56:24.226750+00:00 → 2026-10-08T16:56:45.672271+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0yc.f0--gate/chat.md) |
-| <a id="member-2"></a>2 | 0yc.f0--2 | active | muse-spark-1.3-contributor / muse | 2026-10-08T17:21:54.991519+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0yc.f0--2/prompt.md) | — |
+| <a id="member-2"></a>2 | 0yc.f0--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-08T17:21:54.991519+00:00 → 2026-10-08T17:30:27.727195+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0yc.f0--2/prompt.md) | — |
 
 ## Neighbors
 

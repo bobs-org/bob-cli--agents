@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 0yc
 
-**Global hood:** `bbugyi200.athena.0yc` · **Runs:** 10 · **Sessions:** 2 · **States:** active 1, completed 5, failed 4
+**Global hood:** `bbugyi200.athena.0yc` · **Runs:** 10 · **Sessions:** 2 · **States:** completed 6, failed 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -15,4 +15,4 @@
 | [0yc.f0--plan](../../../../../../sessions/bbugyi200.athena.0yc.f0.md#member-plan) | completed | grok-4.7 / grok | 2026-10-08T16:49:49.909421+00:00 → 2026-10-08T17:00:57.389470+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0yc.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0yc.f0--plan/prompt.md) |
 | [0yc.f0--1](../../../../../../sessions/bbugyi200.athena.0yc.f0.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-10-08T17:05:08.886606+00:00 → 2026-10-08T17:17:50.506569+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0yc.f0--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.0yc.f0--1/prompt.md) |
 | [0yc.f0--gate](../../../../../../sessions/bbugyi200.athena.0yc.f0.md#member-gate) | failed | grok-4.7 / grok | 2026-10-08T16:56:24.226750+00:00 → 2026-10-08T16:56:45.672271+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.0yc.f0--gate/chat.md) |
-| [0yc.f0--2](../../../../../../sessions/bbugyi200.athena.0yc.f0.md#member-2) | active | muse-spark-1.3-contributor / muse | 2026-10-08T17:21:54.991519+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0yc.f0--2/prompt.md) |
+| [0yc.f0--2](../../../../../../sessions/bbugyi200.athena.0yc.f0.md#member-2) | completed | muse-spark-1.3-contributor / muse | 2026-10-08T17:21:54.991519+00:00 → 2026-10-08T17:30:27.727195+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.0yc.f0--2/prompt.md) |

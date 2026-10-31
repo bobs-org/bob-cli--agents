@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0yk` · Members: 5
 
 ```mermaid
 flowchart TD
-  n0["0yk--1 [active]"]
+  n0["0yk--1 [completed]"]
   n1["0yk--mon [failed]"]
   n0 --> n1
   n2["0yk--code [completed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | 0yk--1 | active | muse-spark-1.3-contributor / muse | 2026-10-09T12:27:50.866722+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0yk--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 0yk--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-09T12:27:50.866722+00:00 → 2026-10-09T12:32:11.025077+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0yk--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | 0yk--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-09T12:23:08.486248+00:00 → 2026-10-09T12:27:22.932213+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0yk--mon/chat.md) |
 | <a id="member-code"></a>code | 0yk--code | completed | muse-spark-1.3-contributor / muse | 2026-10-09T12:06:48.341728+00:00 → 2026-10-09T12:23:48.560618+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0yk--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0yk--code/chat.md) |
 | <a id="member-plan"></a>plan | 0yk--plan | completed | opus / claude | 2026-10-09T06:06:24.643879+00:00 → 2026-10-09T06:21:20.052430+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0yk--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0yk--plan/chat.md) |
