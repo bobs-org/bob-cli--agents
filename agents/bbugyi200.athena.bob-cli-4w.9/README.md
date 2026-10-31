@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a34dc02`](https://github.com/bobs-org/bob-cli/commit/a34dc026c04ed47ae0119e6100bad774c5b2dc7d) | feat(ref): capture URLs recorded only by legacy notes with a warning | 2026-10-06 21:27:49 EDT |
+| — | `a34dc02` | feat(ref): capture URLs recorded only by legacy notes with a warning | 2026-10-06 21:27:49 EDT |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@
 | [bob-cli-4w.6](../bbugyi200.athena.bob-cli-4w.6/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.7](../bbugyi200.athena.bob-cli-4w.7/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.8](../bbugyi200.athena.bob-cli-4w.8/README.md) | bob-cli-4w hood | completed |
-| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 2, failed 1 |
+| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 1, completed 1, failed 1 |

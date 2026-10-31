@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-4q](../../users/bbugyi200/machines/athena/hoods/bob-cli-4q/README.md) / [bob-cli-4q.land](../../sessions/bbugyi200.athena.bob-cli-4q.land.md) / bob-cli-4q.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-4q.land--code` · **State:** active · **Source run:** `run-70888e2fa225d887bff4395c44347b01`
+**Global name:** `bbugyi200.athena.bob-cli-4q.land--code` · **State:** completed · **Source run:** `run-70888e2fa225d887bff4395c44347b01`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-4q
 
@@ -11,14 +11,14 @@
 - Bead: [bob-cli-4q](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-4q/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-06T20:02:35.165515+00:00
+- Timing: 2026-10-06T20:02:35.165515+00:00 → 2026-10-06T20:22:40.052900+00:00
 - Commits: [1](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0ca5a13`](https://github.com/bobs-org/bob-cli/commit/0ca5a13a16282c3c93b858c5673db3bafc82c3d6) | docs(inbox-routing): say non-closing Task Card answers route last before writing | 2026-10-06 16:18:16 EDT |
+| — | `0ca5a13` | docs(inbox-routing): say non-closing Task Card answers route last before writing | 2026-10-06 16:18:16 EDT |
 
 ## Neighbors
 

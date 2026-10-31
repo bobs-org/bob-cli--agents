@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`fe1c05f`](https://github.com/bobs-org/bob-cli/commit/fe1c05f067e8843863fd3ce164e572511063515c) | docs(highlights): record live-verify results for listen attach flow | 2026-10-06 18:54:20 EDT |
+| 1 | — | `fe1c05f` | docs(highlights): record live-verify results for listen attach flow | 2026-10-06 18:54:20 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-4s.3](../agents/bbugyi200.athena.bob-cli-4s.3/README.md) | bob-cli-4s hood | completed |
 | [bob-cli-4s.4](../agents/bbugyi200.athena.bob-cli-4s.4/README.md) | bob-cli-4s hood | completed |
 | [bob-cli-4s.5](../agents/bbugyi200.athena.bob-cli-4s.5/README.md) | bob-cli-4s hood | completed |
-| [bob-cli-4s.land](bbugyi200.athena.bob-cli-4s.land.md) (session · 3) | bob-cli-4s hood | active 2, failed 1 |
+| [bob-cli-4s.land](bbugyi200.athena.bob-cli-4s.land.md) (session · 3) | bob-cli-4s hood | active 1, completed 1, failed 1 |

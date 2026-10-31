@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fa7c7b0`](https://github.com/bobs-org/bob-cli/commit/fa7c7b002931cface784e19e85778d151754a37a) | feat(highlights): accept markdown, local PDF, PDF URL, and arXiv targets in create | 2026-10-06 16:47:07 EDT |
+| — | `fa7c7b0` | feat(highlights): accept markdown, local PDF, PDF URL, and arXiv targets in create | 2026-10-06 16:47:07 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-4s.4](../bbugyi200.athena.bob-cli-4s.4/README.md) | bob-cli-4s hood | completed |
 | [bob-cli-4s.5](../bbugyi200.athena.bob-cli-4s.5/README.md) | bob-cli-4s hood | completed |
 | [bob-cli-4s.6](../../sessions/bbugyi200.athena.bob-cli-4s.6.md) (session · 3) | bob-cli-4s hood | completed 2, failed 1 |
-| [bob-cli-4s.land](../../sessions/bbugyi200.athena.bob-cli-4s.land.md) (session · 3) | bob-cli-4s hood | active 2, failed 1 |
+| [bob-cli-4s.land](../../sessions/bbugyi200.athena.bob-cli-4s.land.md) (session · 3) | bob-cli-4s hood | active 1, completed 1, failed 1 |

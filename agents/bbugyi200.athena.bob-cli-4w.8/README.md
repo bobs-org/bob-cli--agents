@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`eaca8b1`](https://github.com/bobs-org/bob-cli/commit/eaca8b14ef506bcc48a282218eb6944561a13efd) | feat(highlights-ref): sync fixes — discard leaked marker mirrors, stamp close dates | 2026-10-06 21:39:57 EDT |
+| — | `eaca8b1` | feat(highlights-ref): sync fixes — discard leaked marker mirrors, stamp close dates | 2026-10-06 21:39:57 EDT |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@
 | [bob-cli-4w.6](../bbugyi200.athena.bob-cli-4w.6/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.7](../bbugyi200.athena.bob-cli-4w.7/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.9](../bbugyi200.athena.bob-cli-4w.9/README.md) | bob-cli-4w hood | completed |
-| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 2, failed 1 |
+| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 1, completed 1, failed 1 |

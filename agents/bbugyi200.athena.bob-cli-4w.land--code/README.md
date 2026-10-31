@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-4w](../../users/bbugyi200/machines/athena/hoods/bob-cli-4w/README.md) / [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) / bob-cli-4w.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-4w.land--code` · **State:** active · **Source run:** `run-efd60397e5007829f2be76c7a9f1c2cf`
+**Global name:** `bbugyi200.athena.bob-cli-4w.land--code` · **State:** completed · **Source run:** `run-efd60397e5007829f2be76c7a9f1c2cf`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-4w
 
@@ -11,14 +11,14 @@
 - Bead: [bob-cli-4w](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-4w/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-07T04:41:52.623446+00:00
+- Timing: 2026-10-07T04:41:52.623446+00:00 → 2026-10-07T05:13:59.743050+00:00
 - Commits: [1](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6d2911c`](https://github.com/bobs-org/bob-cli/commit/6d2911ce416ad2898f5791ea2e602eb4c40aed54) | fix(ref): land bob-cli-4w with output, identity, hygiene, and docs fixes | 2026-10-07 01:12:05 EDT |
+| — | `6d2911c` | fix(ref): land bob-cli-4w with output, identity, hygiene, and docs fixes | 2026-10-07 01:12:05 EDT |
 
 ## Neighbors
 

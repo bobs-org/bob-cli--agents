@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ade4b8a`](https://github.com/bobs-org/bob-cli/commit/ade4b8af2580bad8bba18339180987be1a5c4849) | docs(inbox-routing): add canonical spec and rollout notes | 2026-10-06 15:41:38 EDT |
+| — | `ade4b8a` | docs(inbox-routing): add canonical spec and rollout notes | 2026-10-06 15:41:38 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-4q.1](../bbugyi200.athena.bob-cli-4q.1/README.md) | bob-cli-4q hood | completed |
 | [bob-cli-4q.2](../bbugyi200.athena.bob-cli-4q.2/README.md) | bob-cli-4q hood | completed |
 | [bob-cli-4q.3](../bbugyi200.athena.bob-cli-4q.3/README.md) | bob-cli-4q hood | completed |
-| [bob-cli-4q.land](../../sessions/bbugyi200.athena.bob-cli-4q.land.md) (session · 3) | bob-cli-4q hood | active 2, failed 1 |
+| [bob-cli-4q.land](../../sessions/bbugyi200.athena.bob-cli-4q.land.md) (session · 3) | bob-cli-4q hood | active 1, completed 1, failed 1 |

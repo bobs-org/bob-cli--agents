@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`acceed2`](https://github.com/bobs-org/bob-cli/commit/acceed2b834b2253eb28e3688707c902f81fd0bc) | feat(highlights): add listen and attach modes for create and clip | 2026-10-06 17:30:04 EDT |
+| — | `acceed2` | feat(highlights): add listen and attach modes for create and clip | 2026-10-06 17:30:04 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-4s.3](../bbugyi200.athena.bob-cli-4s.3/README.md) | bob-cli-4s hood | completed |
 | [bob-cli-4s.4](../bbugyi200.athena.bob-cli-4s.4/README.md) | bob-cli-4s hood | completed |
 | [bob-cli-4s.6](../../sessions/bbugyi200.athena.bob-cli-4s.6.md) (session · 3) | bob-cli-4s hood | completed 2, failed 1 |
-| [bob-cli-4s.land](../../sessions/bbugyi200.athena.bob-cli-4s.land.md) (session · 3) | bob-cli-4s hood | active 2, failed 1 |
+| [bob-cli-4s.land](../../sessions/bbugyi200.athena.bob-cli-4s.land.md) (session · 3) | bob-cli-4s hood | active 1, completed 1, failed 1 |

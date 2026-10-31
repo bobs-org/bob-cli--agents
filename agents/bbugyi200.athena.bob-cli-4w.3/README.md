@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7b60ded`](https://github.com/bobs-org/bob-cli/commit/7b60ded9f056f240f7e0d3db1ae4707a4ab9aab3) | feat(ref-library): add read-only RefRow index module with fixture vault | 2026-10-06 21:21:22 EDT |
+| — | `7b60ded` | feat(ref-library): add read-only RefRow index module with fixture vault | 2026-10-06 21:21:22 EDT |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@
 | [bob-cli-4w.7](../bbugyi200.athena.bob-cli-4w.7/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.8](../bbugyi200.athena.bob-cli-4w.8/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.9](../bbugyi200.athena.bob-cli-4w.9/README.md) | bob-cli-4w hood | completed |
-| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 2, failed 1 |
+| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 1, completed 1, failed 1 |

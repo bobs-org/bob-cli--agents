@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`476f4ae`](https://github.com/bobs-org/bob-cli/commit/476f4ae1caa1e86c40611336ce9ccac24032e16f) | feat(highlights): add configurable listen command contract and runner | 2026-10-06 15:57:05 EDT |
+| — | `476f4ae` | feat(highlights): add configurable listen command contract and runner | 2026-10-06 15:57:05 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-4s.4](../bbugyi200.athena.bob-cli-4s.4/README.md) | bob-cli-4s hood | completed |
 | [bob-cli-4s.5](../bbugyi200.athena.bob-cli-4s.5/README.md) | bob-cli-4s hood | completed |
 | [bob-cli-4s.6](../../sessions/bbugyi200.athena.bob-cli-4s.6.md) (session · 3) | bob-cli-4s hood | completed 2, failed 1 |
-| [bob-cli-4s.land](../../sessions/bbugyi200.athena.bob-cli-4s.land.md) (session · 3) | bob-cli-4s hood | active 2, failed 1 |
+| [bob-cli-4s.land](../../sessions/bbugyi200.athena.bob-cli-4s.land.md) (session · 3) | bob-cli-4s hood | active 1, completed 1, failed 1 |

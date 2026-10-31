@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`87498c7`](https://github.com/bobs-org/bob-cli/commit/87498c7bd7b4da89e0a95c1a693e7aa209d4463c) | feat(ref-library): add bob ref find library-membership verdicts | 2026-10-06 22:20:45 EDT |
+| — | `87498c7` | feat(ref-library): add bob ref find library-membership verdicts | 2026-10-06 22:20:45 EDT |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@
 | [bob-cli-4w.7](../bbugyi200.athena.bob-cli-4w.7/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.8](../bbugyi200.athena.bob-cli-4w.8/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.9](../bbugyi200.athena.bob-cli-4w.9/README.md) | bob-cli-4w hood | completed |
-| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 2, failed 1 |
+| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 1, completed 1, failed 1 |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e3e69df`](https://github.com/bobs-org/bob-cli/commit/e3e69dfd24c714ad8840ebcc3b806a3b10257848) | feat(ref): add bob ref show with exact resolution and rich row output | 2026-10-06 23:26:16 EDT |
+| — | `e3e69df` | feat(ref): add bob ref show with exact resolution and rich row output | 2026-10-06 23:26:16 EDT |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@
 | [bob-cli-4w.7](../bbugyi200.athena.bob-cli-4w.7/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.8](../bbugyi200.athena.bob-cli-4w.8/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.9](../bbugyi200.athena.bob-cli-4w.9/README.md) | bob-cli-4w hood | completed |
-| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 2, failed 1 |
+| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 1, completed 1, failed 1 |

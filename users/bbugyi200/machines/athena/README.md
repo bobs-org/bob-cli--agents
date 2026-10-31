@@ -434,9 +434,9 @@
 | [bob-cli-41](hoods/bob-cli-41/README.md) | 4 | 0 | completed 4 |
 | [bob-cli-44](hoods/bob-cli-44/README.md) | 1 | 0 | active 1 |
 | [bob-cli-4p](hoods/bob-cli-4p/README.md) | 3 | 0 | active 1, completed 2 |
-| [bob-cli-4q](hoods/bob-cli-4q/README.md) | 7 | 1 | active 2, completed 4, failed 1 |
-| [bob-cli-4s](hoods/bob-cli-4s/README.md) | 11 | 2 | active 2, completed 7, failed 2 |
-| [bob-cli-4w](hoods/bob-cli-4w/README.md) | 14 | 1 | active 2, completed 11, failed 1 |
+| [bob-cli-4q](hoods/bob-cli-4q/README.md) | 7 | 1 | active 1, completed 5, failed 1 |
+| [bob-cli-4s](hoods/bob-cli-4s/README.md) | 11 | 2 | active 1, completed 8, failed 2 |
+| [bob-cli-4w](hoods/bob-cli-4w/README.md) | 14 | 1 | active 1, completed 12, failed 1 |
 | [bob-cli-5](hoods/bob-cli-5/README.md) | 4 | 0 | completed 4 |
 | [bob-cli-52](hoods/bob-cli-52/README.md) | 12 | 1 | active 2, completed 9, failed 1 |
 | [bob-cli-53](hoods/bob-cli-53/README.md) | 5 | 1 | active 2, completed 2, failed 1 |

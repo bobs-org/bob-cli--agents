@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e64b2df`](https://github.com/bobs-org/bob-cli/commit/e64b2df2eacf125a30b130266e4287903ce37b44) | feat(ref-doctor): add library health rows to bob ref doctor | 2026-10-06 22:07:39 EDT |
+| — | `e64b2df` | feat(ref-doctor): add library health rows to bob ref doctor | 2026-10-06 22:07:39 EDT |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@
 | [bob-cli-4w.6](../bbugyi200.athena.bob-cli-4w.6/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.8](../bbugyi200.athena.bob-cli-4w.8/README.md) | bob-cli-4w hood | completed |
 | [bob-cli-4w.9](../bbugyi200.athena.bob-cli-4w.9/README.md) | bob-cli-4w hood | completed |
-| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 2, failed 1 |
+| [bob-cli-4w.land](../../sessions/bbugyi200.athena.bob-cli-4w.land.md) (session · 3) | bob-cli-4w hood | active 1, completed 1, failed 1 |
