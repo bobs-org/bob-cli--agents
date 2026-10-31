@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-er` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-er.land--gate [failed]"]
-  n1["bob-cli-er.land--plan [active]"]
+  n1["bob-cli-er.land--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-er.land--code [active]"]
+  n2["bob-cli-er.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-er.land--gate | failed | gpt-6-astra / codex | 2026-10-31T00:27:21.810351+00:00 → 2026-10-31T00:29:05.245659+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-er.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-er.land--plan | active | gpt-6-astra / codex | 2026-10-31T00:13:02.581214+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-er.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-er.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-er.land--code | active | grok-4.6 / grok | 2026-10-31T00:29:47.221909+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-er.land--plan | completed | gpt-6-astra / codex | 2026-10-31T00:13:02.581214+00:00 → 2026-10-31T01:10:00.187665+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-er.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-er.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-er.land--code | completed | grok-4.6 / grok | 2026-10-31T00:29:47.221909+00:00 → 2026-10-31T01:10:00.187665+00:00 | [1](../agents/bbugyi200.athena.bob-cli-er.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-er.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`d81f778`](https://github.com/bobs-org/bob-cli/commit/d81f778b66f81759fafb7829209ec5da2b99b493) | docs(guides): document sequence chip, summary, and rerun-last | 2026-10-30 21:08:50 EDT |
 
 ## Variables
 

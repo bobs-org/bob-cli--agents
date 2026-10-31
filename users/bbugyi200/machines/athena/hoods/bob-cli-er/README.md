@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-er
 
-**Global hood:** `bbugyi200.athena.bob-cli-er` · **Runs:** 15 · **Sessions:** 3 · **States:** active 2, completed 8, failed 5
+**Global hood:** `bbugyi200.athena.bob-cli-er` · **Runs:** 15 · **Sessions:** 3 · **States:** completed 10, failed 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -19,5 +19,5 @@
 | [bob-cli-er.2--mon-0](../../../../../../sessions/bbugyi200.athena.bob-cli-er.2.md#member-mon-0) | failed | gpt-6-luna / codex | 2026-10-30T22:08:55.082427+00:00 → 2026-10-30T22:10:36.982267+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-er.2--mon-0/chat.md) |
 | [bob-cli-er.2--3](../../../../../../sessions/bbugyi200.athena.bob-cli-er.2.md#member-3) | completed | muse-spark-1.3-contributor / muse | 2026-10-30T22:20:58.242243+00:00 → 2026-10-30T22:37:26.775366+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-er.2--3/prompt.md) |
 | [bob-cli-er.4--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-er.4.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-30T23:27:18.225676+00:00 → 2026-10-30T23:35:03.807772+00:00 | 0 | — |
-| [bob-cli-er.land--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-er.land.md#member-plan) | active | gpt-6-astra / codex | 2026-10-31T00:13:02.581214+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-er.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-er.land--plan/chat.md) |
-| [bob-cli-er.land--code](../../../../../../sessions/bbugyi200.athena.bob-cli-er.land.md#member-code) | active | grok-4.6 / grok | 2026-10-31T00:29:47.221909+00:00 | 0 | — |
+| [bob-cli-er.land--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-er.land.md#member-plan) | completed | gpt-6-astra / codex | 2026-10-31T00:13:02.581214+00:00 → 2026-10-31T01:10:00.187665+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-er.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-er.land--plan/chat.md) |
+| [bob-cli-er.land--code](../../../../../../sessions/bbugyi200.athena.bob-cli-er.land.md#member-code) | completed | grok-4.6 / grok | 2026-10-31T00:29:47.221909+00:00 → 2026-10-31T01:10:00.187665+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-er.land--code/chat.md) |
