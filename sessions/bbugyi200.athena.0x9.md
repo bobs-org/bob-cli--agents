@@ -33,10 +33,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`841b1c0`](https://github.com/bobs-org/bob-cli/commit/841b1c0ee198d53f35edbc421988761fd4e5799e) | docs(review): Ctrl+Shift+M never advances the walk; move parks and \]s resumes at the moved row's neighbour | 2026-10-06 09:49:45 EDT |
+| code | — | `841b1c0` | docs(review): Ctrl+Shift+M never advances the walk; move parks and \]s resumes at the moved row's neighbour | 2026-10-06 09:49:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0x9.f0](bbugyi200.athena.0x9.f0.md) (session · 3) | descendant | active 2, failed 1 |
+| [0x9.f0](bbugyi200.athena.0x9.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
