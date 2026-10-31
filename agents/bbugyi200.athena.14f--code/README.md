@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [14f](../../users/bbugyi200/machines/athena/hoods/14f/README.md) / [14f](../../sessions/bbugyi200.athena.14f.md) / 14f--code
 
-**Global name:** `bbugyi200.athena.14f--code` · **State:** active · **Source run:** `run-1975fb288508f087ce0ee6675e333788`
+**Global name:** `bbugyi200.athena.14f--code` · **State:** completed · **Source run:** `run-1975fb288508f087ce0ee6675e333788`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 14f
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-26T09:29:39.801180+00:00
+- Timing: 2026-10-26T09:29:39.801180+00:00 → 2026-10-26T09:46:12.341581+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`17f3881`](https://github.com/bobs-org/bob-cli/commit/17f3881c4d73672b5e16185c8a23f13b1ebc73c5) | feat(homes): let root: true make a project its own root parent | 2026-10-26 05:45:06 EDT |
+| — | `17f3881` | feat(homes): let root: true make a project its own root parent | 2026-10-26 05:45:06 EDT |

@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `14f` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["14f--code [active]"]
+  n0["14f--code [completed]"]
   n1["14f--gate [failed]"]
   n0 --> n1
   n2["14f--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 14f--code | active | muse-spark-1.3-contributor / muse | 2026-10-26T09:29:39.801180+00:00 | [1](../agents/bbugyi200.athena.14f--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.14f--code/prompt.md) | — |
+| <a id="member-code"></a>code | 14f--code | completed | muse-spark-1.3-contributor / muse | 2026-10-26T09:29:39.801180+00:00 → 2026-10-26T09:46:12.341581+00:00 | [1](../agents/bbugyi200.athena.14f--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.14f--code/prompt.md) | — |
 | <a id="member-gate"></a>gate | 14f--gate | failed | opus / claude | 2026-10-26T09:28:04.977058+00:00 → 2026-10-26T09:28:52.400121+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.14f--gate/chat.md) |
 | <a id="member-plan"></a>plan | 14f--plan | completed | opus / claude | 2026-10-26T09:18:57.570707+00:00 → 2026-10-26T09:26:42.742402+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.14f--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.14f--plan/chat.md) |
 
@@ -27,4 +27,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`17f3881`](https://github.com/bobs-org/bob-cli/commit/17f3881c4d73672b5e16185c8a23f13b1ebc73c5) | feat(homes): let root: true make a project its own root parent | 2026-10-26 05:45:06 EDT |
+| code | — | `17f3881` | feat(homes): let root: true make a project its own root parent | 2026-10-26 05:45:06 EDT |
