@@ -11,7 +11,7 @@ flowchart TD
   n0["11q--1 [completed]"]
   n1["11q--mon-0 [failed]"]
   n0 --> n1
-  n2["11q--mon-1 [active]"]
+  n2["11q--mon-1 [failed]"]
   n0 --> n2
   n3["11q--code [completed]"]
   n0 --> n3
@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | 11q--1 | completed | gpt-6-luna / codex | 2026-10-19T14:00:56.649968+00:00 → 2026-10-19T14:06:22.079949+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.11q--1/prompt.md) | [Chat](../agents/bbugyi200.athena.11q--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | 11q--mon-0 | failed | gpt-6-luna / codex | 2026-10-19T14:05:38.028597+00:00 → 2026-10-19T14:13:06.338916+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.11q--mon-0/chat.md) |
-| <a id="member-mon-1"></a>mon-1 | 11q--mon-1 | active | gpt-6-luna / codex | 2026-10-19T14:18:39.141856+00:00 | 0 | — | — |
+| <a id="member-mon-1"></a>mon-1 | 11q--mon-1 | failed | gpt-6-luna / codex | 2026-10-19T14:18:39.141856+00:00 → 2026-10-19T14:26:04.245345+00:00 | 0 | — | — |
 | <a id="member-code"></a>code | 11q--code | completed | gpt-6-luna / codex | 2026-10-19T13:44:49.049894+00:00 → 2026-10-19T13:55:12.229584+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.11q--code/prompt.md) | [Chat](../agents/bbugyi200.athena.11q--code/chat.md) |
 | <a id="member-mon"></a>mon | 11q--mon | failed | gpt-6-luna / codex | 2026-10-19T13:54:30.376151+00:00 → 2026-10-19T14:00:15.032172+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.11q--mon/chat.md) |
 | <a id="member-gate"></a>gate | 11q--gate | failed | opus / claude | 2026-10-19T13:43:22.655364+00:00 → 2026-10-19T13:44:13.457279+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.11q--gate/chat.md) |
@@ -42,4 +42,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [11q.w0](bbugyi200.athena.11q.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [11q.w0](bbugyi200.athena.11q.w0.md) (session · 3) | descendant | completed 2, failed 1 |

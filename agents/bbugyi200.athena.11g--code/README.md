@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`674c9f5`](https://github.com/bobs-org/bob-cli/commit/674c9f55bc7a8fe4c536701592396ddcfb5da049) | docs(work-badges): retune color thresholds to 40/60/80 | 2026-10-18 13:39:26 EDT |
+| — | `674c9f5` | docs(work-badges): retune color thresholds to 40/60/80 | 2026-10-18 13:39:26 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [11g.f0](../../sessions/bbugyi200.athena.11g.f0.md) (session · 3) | descendant | active 2, failed 1 |
+| [11g.f0](../../sessions/bbugyi200.athena.11g.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
