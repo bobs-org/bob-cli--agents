@@ -197,9 +197,9 @@
 | [12a](hoods/12a/README.md) | 1 | 0 | active 1 |
 | [12b](hoods/12b/README.md) | 3 | 1 | completed 2, failed 1 |
 | [12c](hoods/12c/README.md) | 1 | 0 | active 1 |
-| [12d](hoods/12d/README.md) | 13 | 1 | active 1, completed 6, failed 6 |
-| [12e](hoods/12e/README.md) | 11 | 3 | active 2, completed 5, failed 4 |
-| [12h](hoods/12h/README.md) | 3 | 1 | active 2, failed 1 |
+| [12d](hoods/12d/README.md) | 13 | 1 | completed 7, failed 6 |
+| [12e](hoods/12e/README.md) | 11 | 3 | active 1, completed 6, failed 4 |
+| [12h](hoods/12h/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [12j](hoods/12j/README.md) | 1 | 0 | active 1 |
 | [12k](hoods/12k/README.md) | 8 | 2 | active 2, completed 3, failed 3 |
 | [12o](hoods/12o/README.md) | 5 | 1 | active 1, completed 2, failed 2 |

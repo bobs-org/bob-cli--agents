@@ -34,4 +34,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [12e.f0](bbugyi200.athena.12e.f0.md) (session · 3) | descendant | completed 2, failed 1 |
-| [12e.f0.w0](bbugyi200.athena.12e.f0.w0.md) (session · 3) | descendant | active 2, failed 1 |
+| [12e.f0.w0](bbugyi200.athena.12e.f0.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |

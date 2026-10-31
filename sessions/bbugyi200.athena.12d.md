@@ -29,7 +29,7 @@ flowchart TD
   n0 --> n9
   n10["12d--4 [completed]"]
   n0 --> n10
-  n11["12d--5 [active]"]
+  n11["12d--5 [completed]"]
   n0 --> n11
   n12["12d--mon [failed]"]
   n0 --> n12
@@ -50,11 +50,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | 12d--code | completed | gpt-6-luna / codex | 2026-10-20T11:36:14.786424+00:00 → 2026-10-20T11:56:18.116028+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.12d--code/prompt.md) | [Chat](../agents/bbugyi200.athena.12d--code/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | 12d--mon-2 | failed | gpt-6-luna / codex | 2026-10-20T12:55:45.383049+00:00 → 2026-10-20T13:00:38.297999+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.12d--mon-2/chat.md) |
 | <a id="member-4"></a>4 | 12d--4 | completed | gpt-6-luna / codex | 2026-10-20T13:01:57.428132+00:00 → 2026-10-20T13:10:38.119207+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.12d--4/prompt.md) | [Chat](../agents/bbugyi200.athena.12d--4/chat.md) |
-| <a id="member-5"></a>5 | 12d--5 | active | gpt-6-luna / codex | 2026-10-20T13:12:50.952992+00:00 | [1](../agents/bbugyi200.athena.12d--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.12d--5/prompt.md) | — |
+| <a id="member-5"></a>5 | 12d--5 | completed | gpt-6-luna / codex | 2026-10-20T13:12:50.952992+00:00 → 2026-10-20T13:20:52.313341+00:00 | [1](../agents/bbugyi200.athena.12d--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.12d--5/prompt.md) | — |
 | <a id="member-mon"></a>mon | 12d--mon | failed | gpt-6-luna / codex | 2026-10-20T11:55:32.537001+00:00 → 2026-10-20T12:03:57.295164+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.12d--mon/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 5 | bob-cli | [`0e9f915`](https://github.com/bobs-org/bob-cli/commit/0e9f915a6dc69aadc5e701ecab5e3e6f70167326) | feat(capture): support triple-at template start | 2026-10-20 09:18:04 EDT |
+| 5 | — | `0e9f915` | feat(capture): support triple-at template start | 2026-10-20 09:18:04 EDT |

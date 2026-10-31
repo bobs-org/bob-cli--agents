@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [12e](../../sessions/bbugyi200.athena.12e.md) (session · 5) | ancestor | completed 3, failed 2 |
-| [12e.f0.w0](../../sessions/bbugyi200.athena.12e.f0.w0.md) (session · 3) | descendant | active 2, failed 1 |
+| [12e.f0.w0](../../sessions/bbugyi200.athena.12e.f0.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
