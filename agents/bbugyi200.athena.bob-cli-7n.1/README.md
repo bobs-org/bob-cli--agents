@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`04a6e84`](https://github.com/bobs-org/bob-cli/commit/04a6e84a38fcdd0811eda86258e78cef7781ff99) | docs(capture): contract star-blocks existing-task grammar | 2026-10-14 11:50:51 EDT |
+| — | `04a6e84` | docs(capture): contract star-blocks existing-task grammar | 2026-10-14 11:50:51 EDT |
 
 ## Neighbors
 
@@ -36,4 +36,4 @@
 | [bob-cli-7n.6](../bbugyi200.athena.bob-cli-7n.6/README.md) | bob-cli-7n hood | completed |
 | [bob-cli-7n.7](../bbugyi200.athena.bob-cli-7n.7/README.md) | bob-cli-7n hood | completed |
 | [bob-cli-7n.8](../bbugyi200.athena.bob-cli-7n.8/README.md) | bob-cli-7n hood | completed |
-| [bob-cli-7n.land](../../sessions/bbugyi200.athena.bob-cli-7n.land.md) (session · 3) | bob-cli-7n hood | active 2, failed 1 |
+| [bob-cli-7n.land](../../sessions/bbugyi200.athena.bob-cli-7n.land.md) (session · 3) | bob-cli-7n hood | active 1, completed 1, failed 1 |

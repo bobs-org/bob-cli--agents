@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1b9d35f`](https://github.com/bobs-org/bob-cli/commit/1b9d35f206f84c03ca4499d9f78dc69a8b170d78) | feat(capture): execute \* blocked-task captures and report them | 2026-10-14 14:06:34 EDT |
+| — | `1b9d35f` | feat(capture): execute \* blocked-task captures and report them | 2026-10-14 14:06:34 EDT |
 
 ## Neighbors
 
@@ -36,4 +36,4 @@
 | [bob-cli-7n.5](../../sessions/bbugyi200.athena.bob-cli-7n.5.md) (session · 3) | bob-cli-7n hood | completed 2, failed 1 |
 | [bob-cli-7n.7](../bbugyi200.athena.bob-cli-7n.7/README.md) | bob-cli-7n hood | completed |
 | [bob-cli-7n.8](../bbugyi200.athena.bob-cli-7n.8/README.md) | bob-cli-7n hood | completed |
-| [bob-cli-7n.land](../../sessions/bbugyi200.athena.bob-cli-7n.land.md) (session · 3) | bob-cli-7n hood | active 2, failed 1 |
+| [bob-cli-7n.land](../../sessions/bbugyi200.athena.bob-cli-7n.land.md) (session · 3) | bob-cli-7n hood | active 1, completed 1, failed 1 |

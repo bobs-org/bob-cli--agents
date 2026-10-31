@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`78f1a69`](https://github.com/bobs-org/bob-cli/commit/78f1a6932c4dcd563ea785738a74077b67cb83bc) | feat(capture): add blocked-task completion candidates | 2026-10-14 12:53:19 EDT |
+| — | `78f1a69` | feat(capture): add blocked-task completion candidates | 2026-10-14 12:53:19 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@
 | [bob-cli-7n.6](../bbugyi200.athena.bob-cli-7n.6/README.md) | bob-cli-7n hood | completed |
 | [bob-cli-7n.7](../bbugyi200.athena.bob-cli-7n.7/README.md) | bob-cli-7n hood | completed |
 | [bob-cli-7n.8](../bbugyi200.athena.bob-cli-7n.8/README.md) | bob-cli-7n hood | completed |
-| [bob-cli-7n.land](../../sessions/bbugyi200.athena.bob-cli-7n.land.md) (session · 3) | bob-cli-7n hood | active 2, failed 1 |
+| [bob-cli-7n.land](../../sessions/bbugyi200.athena.bob-cli-7n.land.md) (session · 3) | bob-cli-7n hood | active 1, completed 1, failed 1 |

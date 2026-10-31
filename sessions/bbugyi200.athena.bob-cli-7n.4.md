@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`158d6de`](https://github.com/bobs-org/bob-cli/commit/158d6dec448d7b6c5f63b00986a315012fd0742e) | feat(capture): add path-addressed star dependent writer | 2026-10-14 13:24:15 EDT |
+| 1 | — | `158d6de` | feat(capture): add path-addressed star dependent writer | 2026-10-14 13:24:15 EDT |
 
 ## Neighbors
 
@@ -40,4 +40,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-7n.6](../agents/bbugyi200.athena.bob-cli-7n.6/README.md) | bob-cli-7n hood | completed |
 | [bob-cli-7n.7](../agents/bbugyi200.athena.bob-cli-7n.7/README.md) | bob-cli-7n hood | completed |
 | [bob-cli-7n.8](../agents/bbugyi200.athena.bob-cli-7n.8/README.md) | bob-cli-7n hood | completed |
-| [bob-cli-7n.land](bbugyi200.athena.bob-cli-7n.land.md) (session · 3) | bob-cli-7n hood | active 2, failed 1 |
+| [bob-cli-7n.land](bbugyi200.athena.bob-cli-7n.land.md) (session · 3) | bob-cli-7n hood | active 1, completed 1, failed 1 |

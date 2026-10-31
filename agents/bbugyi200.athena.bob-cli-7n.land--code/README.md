@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-7n](../../users/bbugyi200/machines/athena/hoods/bob-cli-7n/README.md) / [bob-cli-7n.land](../../sessions/bbugyi200.athena.bob-cli-7n.land.md) / bob-cli-7n.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-7n.land--code` · **State:** active · **Source run:** `run-d03ab94f79b3b3221b02667cf1ff5826`
+**Global name:** `bbugyi200.athena.bob-cli-7n.land--code` · **State:** completed · **Source run:** `run-d03ab94f79b3b3221b02667cf1ff5826`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-7n
 
@@ -11,14 +11,14 @@
 - Bead: [bob-cli-7n](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-7n/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-14T19:26:01.373964+00:00
+- Timing: 2026-10-14T19:26:01.373964+00:00 → 2026-10-14T19:58:00.365334+00:00
 - Commits: [1](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`498e5ab`](https://github.com/bobs-org/bob-cli/commit/498e5ab27f07e5dab7675a2cfae095a36e44dbae) | fix(capture): land star-blocks repairs and close the epic | 2026-10-14 15:55:44 EDT |
+| — | `498e5ab` | fix(capture): land star-blocks repairs and close the epic | 2026-10-14 15:55:44 EDT |
 
 ## Neighbors
 

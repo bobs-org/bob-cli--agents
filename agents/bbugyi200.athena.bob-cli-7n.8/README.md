@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`908b3ef`](https://github.com/bobs-org/bob-cli/commit/908b3ef544b48f4f9575f9c3b5735c555142cee8) | docs(capture): publish star-blocks decision and examples | 2026-10-14 14:55:25 EDT |
+| — | `908b3ef` | docs(capture): publish star-blocks decision and examples | 2026-10-14 14:55:25 EDT |
 
 ## Neighbors
 
@@ -36,4 +36,4 @@
 | [bob-cli-7n.5](../../sessions/bbugyi200.athena.bob-cli-7n.5.md) (session · 3) | bob-cli-7n hood | completed 2, failed 1 |
 | [bob-cli-7n.6](../bbugyi200.athena.bob-cli-7n.6/README.md) | bob-cli-7n hood | completed |
 | [bob-cli-7n.7](../bbugyi200.athena.bob-cli-7n.7/README.md) | bob-cli-7n hood | completed |
-| [bob-cli-7n.land](../../sessions/bbugyi200.athena.bob-cli-7n.land.md) (session · 3) | bob-cli-7n hood | active 2, failed 1 |
+| [bob-cli-7n.land](../../sessions/bbugyi200.athena.bob-cli-7n.land.md) (session · 3) | bob-cli-7n hood | active 1, completed 1, failed 1 |
