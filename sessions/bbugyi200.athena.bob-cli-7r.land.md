@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-7r` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-7r.land--code [active]"]
+  n0["bob-cli-7r.land--code [completed]"]
   n1["bob-cli-7r.land--gate [failed]"]
   n0 --> n1
   n2["bob-cli-7r.land--plan [active]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-7r.land--code | active | grok-4.6 / grok | 2026-10-15T00:48:19.948809+00:00 | [1](../agents/bbugyi200.athena.bob-cli-7r.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | bob-cli-7r.land--code | completed | grok-4.6 / grok | 2026-10-15T00:48:19.948809+00:00 → 2026-10-15T01:27:01.693411+00:00 | [1](../agents/bbugyi200.athena.bob-cli-7r.land--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-7r.land--gate | failed | opus / claude | 2026-10-15T00:47:34.347822+00:00 → 2026-10-15T00:47:58.906992+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-7r.land--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-7r.land--plan | active | opus / claude | 2026-10-15T00:20:38.541447+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7r.land--plan/chat.md) |
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`14505e5`](https://github.com/bobs-org/bob-cli/commit/14505e5751dc4fea1c15e8ed87add9c89ceb574b) | fix(capture): land remaining existing-owner relationship defects (A1-A7) | 2026-10-14 21:24:13 EDT |
+| code | — | `14505e5` | fix(capture): land remaining existing-owner relationship defects (A1-A7) | 2026-10-14 21:24:13 EDT |
 
 ## Neighbors
 

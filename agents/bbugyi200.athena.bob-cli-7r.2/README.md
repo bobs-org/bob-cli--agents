@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`785d4ea`](https://github.com/bobs-org/bob-cli/commit/785d4ea17d7ded1218ca26602bc333f2fce24d5e) | feat(capture): accept ^route:id owners and + selectors beside &/\* | 2026-10-14 17:12:54 EDT |
+| — | `785d4ea` | feat(capture): accept ^route:id owners and + selectors beside &/\* | 2026-10-14 17:12:54 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@
 | [bob-cli-7r.5](../bbugyi200.athena.bob-cli-7r.5/README.md) | bob-cli-7r hood | completed |
 | [bob-cli-7r.6](../../sessions/bbugyi200.athena.bob-cli-7r.6.md) (session · 17) | bob-cli-7r hood | completed 9, failed 8 |
 | [bob-cli-7r.7](../../sessions/bbugyi200.athena.bob-cli-7r.7.md) (session · 3) | bob-cli-7r hood | completed 2, failed 1 |
-| [bob-cli-7r.land](../../sessions/bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 2, failed 1 |
+| [bob-cli-7r.land](../../sessions/bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 1, completed 1, failed 1 |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5a31133`](https://github.com/bobs-org/bob-cli/commit/5a3113354bd86b4e9e1b73512547d2d1db4bb7ed) | feat(capture): add owner-aware completion and guarded pickers | 2026-10-14 17:51:25 EDT |
+| — | `5a31133` | feat(capture): add owner-aware completion and guarded pickers | 2026-10-14 17:51:25 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-7r.5](../bbugyi200.athena.bob-cli-7r.5/README.md) | bob-cli-7r hood | completed |
 | [bob-cli-7r.6](../../sessions/bbugyi200.athena.bob-cli-7r.6.md) (session · 17) | bob-cli-7r hood | completed 9, failed 8 |
 | [bob-cli-7r.7](../../sessions/bbugyi200.athena.bob-cli-7r.7.md) (session · 3) | bob-cli-7r hood | completed 2, failed 1 |
-| [bob-cli-7r.land](../../sessions/bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 2, failed 1 |
+| [bob-cli-7r.land](../../sessions/bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 1, completed 1, failed 1 |

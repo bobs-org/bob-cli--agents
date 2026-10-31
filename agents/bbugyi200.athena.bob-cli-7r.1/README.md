@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2f67276`](https://github.com/bobs-org/bob-cli/commit/2f67276206ad70015380e7cadcb86cc020a76fd7) | docs(capture): document existing task relationships | 2026-10-14 16:31:49 EDT |
+| — | `2f67276` | docs(capture): document existing task relationships | 2026-10-14 16:31:49 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@
 | [bob-cli-7r.5](../bbugyi200.athena.bob-cli-7r.5/README.md) | bob-cli-7r hood | completed |
 | [bob-cli-7r.6](../../sessions/bbugyi200.athena.bob-cli-7r.6.md) (session · 17) | bob-cli-7r hood | completed 9, failed 8 |
 | [bob-cli-7r.7](../../sessions/bbugyi200.athena.bob-cli-7r.7.md) (session · 3) | bob-cli-7r hood | completed 2, failed 1 |
-| [bob-cli-7r.land](../../sessions/bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 2, failed 1 |
+| [bob-cli-7r.land](../../sessions/bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 1, completed 1, failed 1 |

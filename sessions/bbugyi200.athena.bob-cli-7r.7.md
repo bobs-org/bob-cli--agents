@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`75a1809`](https://github.com/bobs-org/bob-cli/commit/75a180967746f23fcf22f40b5da0b8c43d2b1aad) | docs(capture): align RXC1 owner JSON and cover RX8 execute | 2026-10-14 20:18:31 EDT |
+| 1 | — | `75a1809` | docs(capture): align RXC1 owner JSON and cover RX8 execute | 2026-10-14 20:18:31 EDT |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-7r.4](bbugyi200.athena.bob-cli-7r.4.md) (session · 5) | bob-cli-7r hood | completed 3, failed 2 |
 | [bob-cli-7r.5](../agents/bbugyi200.athena.bob-cli-7r.5/README.md) | bob-cli-7r hood | completed |
 | [bob-cli-7r.6](bbugyi200.athena.bob-cli-7r.6.md) (session · 17) | bob-cli-7r hood | completed 9, failed 8 |
-| [bob-cli-7r.land](bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 2, failed 1 |
+| [bob-cli-7r.land](bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 1, completed 1, failed 1 |

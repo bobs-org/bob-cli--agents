@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`5a31133`](https://github.com/bobs-org/bob-cli/commit/5a3113354bd86b4e9e1b73512547d2d1db4bb7ed) | feat(capture): add owner-aware completion and guarded pickers | 2026-10-14 17:51:25 EDT |
+| 2 | — | `5a31133` | feat(capture): add owner-aware completion and guarded pickers | 2026-10-14 17:51:25 EDT |
 
 ## Neighbors
 
@@ -45,4 +45,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-7r.5](../agents/bbugyi200.athena.bob-cli-7r.5/README.md) | bob-cli-7r hood | completed |
 | [bob-cli-7r.6](bbugyi200.athena.bob-cli-7r.6.md) (session · 17) | bob-cli-7r hood | completed 9, failed 8 |
 | [bob-cli-7r.7](bbugyi200.athena.bob-cli-7r.7.md) (session · 3) | bob-cli-7r hood | completed 2, failed 1 |
-| [bob-cli-7r.land](bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 2, failed 1 |
+| [bob-cli-7r.land](bbugyi200.athena.bob-cli-7r.land.md) (session · 3) | bob-cli-7r hood | active 1, completed 1, failed 1 |
