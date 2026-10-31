@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | bob-cli | [`298ebdf`](https://github.com/bobs-org/bob-cli/commit/298ebdf41b05000189bba7d5af8e64a1a717685e) | docs(task-cleanup): document emptied entry cleanup | 2026-10-16 08:56:10 EDT |
+| 3 | — | `298ebdf` | docs(task-cleanup): document emptied entry cleanup | 2026-10-16 08:56:10 EDT |
 
 ## Neighbors
 
@@ -48,4 +48,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-88.1](../agents/bbugyi200.athena.bob-cli-88.1/README.md) | bob-cli-88 hood | completed |
 | [bob-cli-88.2](../agents/bbugyi200.athena.bob-cli-88.2/README.md) | bob-cli-88 hood | completed |
 | [bob-cli-88.3](../agents/bbugyi200.athena.bob-cli-88.3/README.md) | bob-cli-88 hood | completed |
-| [bob-cli-88.land](bbugyi200.athena.bob-cli-88.land.md) (session · 3) | bob-cli-88 hood | active 2, failed 1 |
+| [bob-cli-88.land](bbugyi200.athena.bob-cli-88.land.md) (session · 3) | bob-cli-88 hood | active 1, completed 1, failed 1 |

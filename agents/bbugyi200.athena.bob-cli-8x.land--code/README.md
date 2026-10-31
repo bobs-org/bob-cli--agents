@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-8x](../../users/bbugyi200/machines/athena/hoods/bob-cli-8x/README.md) / [bob-cli-8x.land](../../sessions/bbugyi200.athena.bob-cli-8x.land.md) / bob-cli-8x.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-8x.land--code` · **State:** active · **Source run:** `run-1d8be8a80cd37fbb34b448e8994677d6`
+**Global name:** `bbugyi200.athena.bob-cli-8x.land--code` · **State:** completed · **Source run:** `run-1d8be8a80cd37fbb34b448e8994677d6`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-8x
 
@@ -11,14 +11,14 @@
 - Bead: [bob-cli-8x](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-8x/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-10-18T00:46:35.609100+00:00
+- Timing: 2026-10-18T00:46:35.609100+00:00 → 2026-10-18T01:21:20.587229+00:00
 - Commits: [1](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`30eafe2`](https://github.com/bobs-org/bob-cli/commit/30eafe28067dc98d3acfc1dded118471051e9201) | docs(task-dependencies): document Blocks stage apply-time guards and writer contract | 2026-10-17 21:18:16 EDT |
+| — | `30eafe2` | docs(task-dependencies): document Blocks stage apply-time guards and writer contract | 2026-10-17 21:18:16 EDT |
 
 ## Neighbors
 

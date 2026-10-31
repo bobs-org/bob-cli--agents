@@ -457,9 +457,9 @@
 | [bob-cli-7v](hoods/bob-cli-7v/README.md) | 34 | 5 | active 1, completed 20, failed 13 |
 | [bob-cli-8](hoods/bob-cli-8/README.md) | 5 | 0 | completed 5 |
 | [bob-cli-87](hoods/bob-cli-87/README.md) | 146 | 19 | active 69, completed 38, failed 38, waiting 1 |
-| [bob-cli-88](hoods/bob-cli-88/README.md) | 13 | 2 | active 2, completed 7, failed 4 |
+| [bob-cli-88](hoods/bob-cli-88/README.md) | 13 | 2 | active 1, completed 8, failed 4 |
 | [bob-cli-8v](hoods/bob-cli-8v/README.md) | 11 | 3 | completed 7, failed 4 |
-| [bob-cli-8x](hoods/bob-cli-8x/README.md) | 9 | 1 | active 2, completed 6, failed 1 |
+| [bob-cli-8x](hoods/bob-cli-8x/README.md) | 9 | 1 | active 1, completed 7, failed 1 |
 | [bob-cli-8y](hoods/bob-cli-8y/README.md) | 25 | 4 | active 1, completed 14, failed 10 |
 | [bob-cli-9](hoods/bob-cli-9/README.md) | 11 | 0 | active 11 |
 | [bob-cli-9b](hoods/bob-cli-9b/README.md) | 14 | 3 | active 2, completed 7, failed 5 |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3ec4d0d`](https://github.com/bobs-org/bob-cli/commit/3ec4d0d232dbb178e01d0b4fe0761a66323f547f) | docs(dependencies): clarify editing from both ends | 2026-10-17 20:08:44 EDT |
+| — | `3ec4d0d` | docs(dependencies): clarify editing from both ends | 2026-10-17 20:08:44 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-8x.3](../bbugyi200.athena.bob-cli-8x.3/README.md) | bob-cli-8x hood | completed |
 | [bob-cli-8x.4](../bbugyi200.athena.bob-cli-8x.4/README.md) | bob-cli-8x hood | completed |
 | [bob-cli-8x.5](../bbugyi200.athena.bob-cli-8x.5/README.md) | bob-cli-8x hood | completed |
-| [bob-cli-8x.land](../../sessions/bbugyi200.athena.bob-cli-8x.land.md) (session · 3) | bob-cli-8x hood | active 2, failed 1 |
+| [bob-cli-8x.land](../../sessions/bbugyi200.athena.bob-cli-8x.land.md) (session · 3) | bob-cli-8x hood | active 1, completed 1, failed 1 |

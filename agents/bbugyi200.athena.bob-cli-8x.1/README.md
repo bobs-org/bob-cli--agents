@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`30bdfb8`](https://github.com/bobs-org/bob-cli/commit/30bdfb8900be9cc7a24dc534e73f9e0712a2b5c7) | docs(task-dependencies): document reverse Blocks stage contract | 2026-10-17 17:26:11 EDT |
+| — | `30bdfb8` | docs(task-dependencies): document reverse Blocks stage contract | 2026-10-17 17:26:11 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-8x.4](../bbugyi200.athena.bob-cli-8x.4/README.md) | bob-cli-8x hood | completed |
 | [bob-cli-8x.5](../bbugyi200.athena.bob-cli-8x.5/README.md) | bob-cli-8x hood | completed |
 | [bob-cli-8x.6](../bbugyi200.athena.bob-cli-8x.6/README.md) | bob-cli-8x hood | completed |
-| [bob-cli-8x.land](../../sessions/bbugyi200.athena.bob-cli-8x.land.md) (session · 3) | bob-cli-8x hood | active 2, failed 1 |
+| [bob-cli-8x.land](../../sessions/bbugyi200.athena.bob-cli-8x.land.md) (session · 3) | bob-cli-8x hood | active 1, completed 1, failed 1 |
