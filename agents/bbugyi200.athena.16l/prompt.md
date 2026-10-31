@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli What do I need to do to get the `bob gcal sync` command to work on my macbook like it does on this machine? #research %m:@xlarge
