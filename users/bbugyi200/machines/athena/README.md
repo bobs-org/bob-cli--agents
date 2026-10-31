@@ -186,11 +186,11 @@
 | [11k](hoods/11k/README.md) | 5 | 1 | completed 3, failed 2 |
 | [11q](hoods/11q/README.md) | 11 | 2 | completed 6, failed 5 |
 | [11r](hoods/11r/README.md) | 3 | 1 | failed 3 |
-| [11v](hoods/11v/README.md) | 4 | 1 | active 1, completed 1, failed 1, waiting 1 |
-| [11x](hoods/11x/README.md) | 3 | 1 | active 2, failed 1 |
+| [11v](hoods/11v/README.md) | 4 | 1 | completed 2, failed 1, waiting 1 |
+| [11x](hoods/11x/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [12](hoods/12/README.md) | 5 | 0 | completed 5 |
 | [121](hoods/121/README.md) | 1 | 0 | active 1 |
-| [122](hoods/122/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
+| [122](hoods/122/README.md) | 7 | 1 | completed 4, failed 3 |
 | [123](hoods/123/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [128](hoods/128/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
 | [129](hoods/129/README.md) | 3 | 1 | active 2, failed 1 |
