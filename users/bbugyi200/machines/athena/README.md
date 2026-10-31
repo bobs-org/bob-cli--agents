@@ -166,11 +166,11 @@
 | [0z1](hoods/0z1/README.md) | 4 | 1 | failed 3, waiting 1 |
 | [0z5](hoods/0z5/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [0z7](hoods/0z7/README.md) | 3 | 1 | failed 3 |
-| [0z8](hoods/0z8/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
-| [0zi](hoods/0zi/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
-| [0zk](hoods/0zk/README.md) | 6 | 2 | active 2, completed 2, failed 2 |
-| [0zx](hoods/0zx/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [0zy](hoods/0zy/README.md) | 6 | 1 | active 1, completed 2, failed 2, waiting 1 |
+| [0z8](hoods/0z8/README.md) | 5 | 1 | completed 3, failed 2 |
+| [0zi](hoods/0zi/README.md) | 5 | 1 | completed 3, failed 2 |
+| [0zk](hoods/0zk/README.md) | 6 | 2 | active 1, completed 3, failed 2 |
+| [0zx](hoods/0zx/README.md) | 3 | 1 | completed 2, failed 1 |
+| [0zy](hoods/0zy/README.md) | 6 | 1 | completed 3, failed 2, waiting 1 |
 | [101](hoods/101/README.md) | 3 | 1 | active 2, failed 1 |
 | [10d](hoods/10d/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [10e](hoods/10e/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
