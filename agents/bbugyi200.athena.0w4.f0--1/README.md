@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fc438bc`](https://github.com/bobs-org/bob-cli/commit/fc438bcf602a738360691f66269f0547af8cf201) | feat(freshness): drop the October 19 decay trial date | 2026-10-04 06:59:59 EDT |
+| — | `fc438bc` | feat(freshness): drop the October 19 decay trial date | 2026-10-04 06:59:59 EDT |
 
 ## Neighbors
 
@@ -30,4 +30,4 @@
 | [0w4](../../sessions/bbugyi200.athena.0w4.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [0w4.f1](../../sessions/bbugyi200.athena.0w4.f1.md) (session · 3) | 0w4 hood | completed 2, failed 1 |
 | [0w4.f2](../bbugyi200.athena.0w4.f2/README.md) | 0w4 hood | active |
-| [0w4.f3](../../sessions/bbugyi200.athena.0w4.f3.md) (session · 3) | 0w4 hood | active 2, failed 1 |
+| [0w4.f3](../../sessions/bbugyi200.athena.0w4.f3.md) (session · 3) | 0w4 hood | active 1, completed 1, failed 1 |

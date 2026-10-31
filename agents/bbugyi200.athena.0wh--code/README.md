@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`54ff70a`](https://github.com/bobs-org/bob-cli/commit/54ff70acf959abd46a30e728cd5e102862546157) | feat(install-all): restart Obsidian when plugin sync copies files | 2026-10-04 14:19:03 EDT |
+| — | `54ff70a` | feat(install-all): restart Obsidian when plugin sync copies files | 2026-10-04 14:19:03 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [0wh.f0](../../sessions/bbugyi200.athena.0wh.f0.md) (session · 3) | descendant | completed 2, failed 1 |
-| [0wh.f0.f0](../../sessions/bbugyi200.athena.0wh.f0.f0.md) (session · 3) | descendant | active 2, failed 1 |
+| [0wh.f0.f0](../../sessions/bbugyi200.athena.0wh.f0.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |

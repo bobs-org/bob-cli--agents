@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b1332af`](https://github.com/bobs-org/bob-cli/commit/b1332af2d23335be72d2827eb868193e289d0819) | feat(ready): always advertise the Task Card keys in the crowded-note hint | 2026-10-04 06:13:38 EDT |
+| — | `b1332af` | feat(ready): always advertise the Task Card keys in the crowded-note hint | 2026-10-04 06:13:38 EDT |
 
 ## Neighbors
 
@@ -30,4 +30,4 @@
 | [0w4.f0](../../sessions/bbugyi200.athena.0w4.f0.md) (session · 5) | descendant | completed 3, failed 2 |
 | [0w4.f1](../../sessions/bbugyi200.athena.0w4.f1.md) (session · 3) | descendant | completed 2, failed 1 |
 | [0w4.f2](../bbugyi200.athena.0w4.f2/README.md) | descendant | active |
-| [0w4.f3](../../sessions/bbugyi200.athena.0w4.f3.md) (session · 3) | descendant | active 2, failed 1 |
+| [0w4.f3](../../sessions/bbugyi200.athena.0w4.f3.md) (session · 3) | descendant | active 1, completed 1, failed 1 |

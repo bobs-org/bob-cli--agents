@@ -136,11 +136,11 @@
 | [0vw](hoods/0vw/README.md) | 3 | 1 | failed 3 |
 | [0vx](hoods/0vx/README.md) | 1 | 0 | completed 1 |
 | [0w2](hoods/0w2/README.md) | 9 | 1 | completed 5, failed 4 |
-| [0w4](hoods/0w4/README.md) | 15 | 4 | active 3, completed 7, failed 5 |
-| [0w5](hoods/0w5/README.md) | 3 | 1 | active 2, failed 1 |
-| [0wc](hoods/0wc/README.md) | 3 | 1 | active 2, failed 1 |
-| [0we](hoods/0we/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
-| [0wh](hoods/0wh/README.md) | 9 | 3 | active 2, completed 4, failed 3 |
+| [0w4](hoods/0w4/README.md) | 15 | 4 | active 2, completed 8, failed 5 |
+| [0w5](hoods/0w5/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0wc](hoods/0wc/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0we](hoods/0we/README.md) | 5 | 1 | completed 3, failed 2 |
+| [0wh](hoods/0wh/README.md) | 9 | 3 | active 1, completed 5, failed 3 |
 | [0wi](hoods/0wi/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
 | [0wk](hoods/0wk/README.md) | 6 | 2 | active 2, completed 2, failed 2 |
 | [0wn](hoods/0wn/README.md) | 3 | 1 | active 2, failed 1 |

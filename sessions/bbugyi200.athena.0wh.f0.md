@@ -27,11 +27,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`cd2dd77`](https://github.com/bobs-org/bob-cli/commit/cd2dd7789e8ebf5c02d5bb0b12f1db0f701955a8) | feat(install-all): notify on macOS before Obsidian restart | 2026-10-04 14:37:34 EDT |
+| code | — | `cd2dd77` | feat(install-all): notify on macOS before Obsidian restart | 2026-10-04 14:37:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [0wh](bbugyi200.athena.0wh.md) (session · 3) | ancestor | completed 2, failed 1 |
-| [0wh.f0.f0](bbugyi200.athena.0wh.f0.f0.md) (session · 3) | descendant | active 2, failed 1 |
+| [0wh.f0.f0](bbugyi200.athena.0wh.f0.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |

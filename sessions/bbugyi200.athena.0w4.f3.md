@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0w4` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0w4.f3--code [active]"]
+  n0["0w4.f3--code [completed]"]
   n1["0w4.f3--plan [active]"]
   n0 --> n1
   n2["0w4.f3--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 0w4.f3--code | active | grok-4.6 / grok | 2026-10-04T14:31:34.249857+00:00 | [1](../agents/bbugyi200.athena.0w4.f3--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | 0w4.f3--code | completed | grok-4.6 / grok | 2026-10-04T14:31:34.249857+00:00 → 2026-10-04T14:49:08.126245+00:00 | [1](../agents/bbugyi200.athena.0w4.f3--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | 0w4.f3--plan | active | gpt-6.1-sol / codex | 2026-10-04T14:20:57.529132+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0w4.f3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0w4.f3--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0w4.f3--gate | failed | gpt-6.1-sol / codex | 2026-10-04T14:28:17.102448+00:00 → 2026-10-04T14:29:47.801142+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0w4.f3--gate/chat.md) |
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`b5a8ac2`](https://github.com/bobs-org/bob-cli/commit/b5a8ac20749ec1d8ef1e0e97dd2c8e695d07bcc3) | docs(projects): advertise Task Card close as Ctrl+\[ | 2026-10-04 10:40:18 EDT |
+| code | — | `b5a8ac2` | docs(projects): advertise Task Card close as Ctrl+\[ | 2026-10-04 10:40:18 EDT |
 
 ## Neighbors
 

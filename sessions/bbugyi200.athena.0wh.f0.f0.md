@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0wh` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0wh.f0.f0--code [active]"]
+  n0["0wh.f0.f0--code [completed]"]
   n1["0wh.f0.f0--gate [failed]"]
   n0 --> n1
   n2["0wh.f0.f0--plan [active]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 0wh.f0.f0--code | active | grok-4.6 / grok | 2026-10-04T18:53:24.610883+00:00 | [1](../agents/bbugyi200.athena.0wh.f0.f0--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | 0wh.f0.f0--code | completed | grok-4.6 / grok | 2026-10-04T18:53:24.610883+00:00 → 2026-10-04T19:47:11.254343+00:00 | [1](../agents/bbugyi200.athena.0wh.f0.f0--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | 0wh.f0.f0--gate | failed | opus / claude | 2026-10-04T18:52:57.298452+00:00 → 2026-10-04T18:53:18.755766+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0wh.f0.f0--gate/chat.md) |
 | <a id="member-plan"></a>plan | 0wh.f0.f0--plan | active | opus / claude | 2026-10-04T18:45:00.061338+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0wh.f0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0wh.f0.f0--plan/chat.md) |
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`19230d3`](https://github.com/bobs-org/bob-cli/commit/19230d37b40f731b0f65b8caccd6c62ed2ad2968) | feat(install-all): offer to clone missing sibling checkouts over SSH | 2026-10-04 15:46:11 EDT |
+| code | — | `19230d3` | feat(install-all): offer to clone missing sibling checkouts over SSH | 2026-10-04 15:46:11 EDT |
 
 ## Neighbors
 
