@@ -539,7 +539,7 @@
 | [ss](hoods/ss/README.md) | 1 | 0 | active 1 |
 | [st](hoods/st/README.md) | 2 | 1 | active 1, completed 1 |
 | [t1](hoods/t1/README.md) | 4 | 2 | active 2, completed 2 |
-| [tp](hoods/tp/README.md) | 2 | 1 | active 2 |
+| [tp](hoods/tp/README.md) | 2 | 1 | active 1, completed 1 |
 | [tt](hoods/tt/README.md) | 1 | 0 | failed 1 |
 | [tu](hoods/tu/README.md) | 9 | 4 | active 5, completed 4 |
 | [uq](hoods/uq/README.md) | 2 | 1 | active 1, completed 1 |
