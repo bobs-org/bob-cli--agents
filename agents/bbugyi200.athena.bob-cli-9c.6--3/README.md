@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2a11d05`](https://github.com/bobs-org/bob-cli/commit/2a11d0514103a08ef5c29b4100196c5543e2028e) | feat(ref): roll out per-host intake drains | 2026-10-18 16:58:03 EDT |
+| — | `2a11d05` | feat(ref): roll out per-host intake drains | 2026-10-18 16:58:03 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-9c.3](../bbugyi200.athena.bob-cli-9c.3/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.4](../bbugyi200.athena.bob-cli-9c.4/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.5](../bbugyi200.athena.bob-cli-9c.5/README.md) | bob-cli-9c hood | completed |
-| [bob-cli-9c.land](../../sessions/bbugyi200.athena.bob-cli-9c.land.md) (session · 3) | bob-cli-9c hood | active 2, failed 1 |
+| [bob-cli-9c.land](../../sessions/bbugyi200.athena.bob-cli-9c.land.md) (session · 3) | bob-cli-9c hood | active 1, completed 1, failed 1 |

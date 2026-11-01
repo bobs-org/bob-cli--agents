@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c4ac06f`](https://github.com/bobs-org/bob-cli/commit/c4ac06fb47633fcf1b26e592031a6c32c0087a8e) | feat(highlights): ingest references during create | 2026-10-18 15:15:47 EDT |
+| — | `c4ac06f` | feat(highlights): ingest references during create | 2026-10-18 15:15:47 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-9c.4](../bbugyi200.athena.bob-cli-9c.4/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.5](../bbugyi200.athena.bob-cli-9c.5/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.6](../../sessions/bbugyi200.athena.bob-cli-9c.6.md) (session · 7) | bob-cli-9c hood | completed 4, failed 3 |
-| [bob-cli-9c.land](../../sessions/bbugyi200.athena.bob-cli-9c.land.md) (session · 3) | bob-cli-9c hood | active 2, failed 1 |
+| [bob-cli-9c.land](../../sessions/bbugyi200.athena.bob-cli-9c.land.md) (session · 3) | bob-cli-9c hood | active 1, completed 1, failed 1 |

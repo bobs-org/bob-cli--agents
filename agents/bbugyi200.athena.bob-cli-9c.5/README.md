@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4703619`](https://github.com/bobs-org/bob-cli/commit/47036193185db067bce5f55690eaf0ed832466b7) | feat(ref): show intake health in bob ref doctor | 2026-10-18 15:54:24 EDT |
+| — | `4703619` | feat(ref): show intake health in bob ref doctor | 2026-10-18 15:54:24 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-9c.3](../bbugyi200.athena.bob-cli-9c.3/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.4](../bbugyi200.athena.bob-cli-9c.4/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.6](../../sessions/bbugyi200.athena.bob-cli-9c.6.md) (session · 7) | bob-cli-9c hood | completed 4, failed 3 |
-| [bob-cli-9c.land](../../sessions/bbugyi200.athena.bob-cli-9c.land.md) (session · 3) | bob-cli-9c hood | active 2, failed 1 |
+| [bob-cli-9c.land](../../sessions/bbugyi200.athena.bob-cli-9c.land.md) (session · 3) | bob-cli-9c hood | active 1, completed 1, failed 1 |

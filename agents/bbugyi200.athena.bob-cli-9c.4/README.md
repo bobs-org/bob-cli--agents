@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fa7745f`](https://github.com/bobs-org/bob-cli/commit/fa7745fc71c0fe0cb2fafe4c78270e3b5d890837) | feat(ref): add scan --intake-only xlib drain | 2026-10-18 15:39:40 EDT |
+| — | `fa7745f` | feat(ref): add scan --intake-only xlib drain | 2026-10-18 15:39:40 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-9c.3](../bbugyi200.athena.bob-cli-9c.3/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.5](../bbugyi200.athena.bob-cli-9c.5/README.md) | bob-cli-9c hood | completed |
 | [bob-cli-9c.6](../../sessions/bbugyi200.athena.bob-cli-9c.6.md) (session · 7) | bob-cli-9c hood | completed 4, failed 3 |
-| [bob-cli-9c.land](../../sessions/bbugyi200.athena.bob-cli-9c.land.md) (session · 3) | bob-cli-9c hood | active 2, failed 1 |
+| [bob-cli-9c.land](../../sessions/bbugyi200.athena.bob-cli-9c.land.md) (session · 3) | bob-cli-9c hood | active 1, completed 1, failed 1 |
