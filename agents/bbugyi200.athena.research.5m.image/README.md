@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 20261101180020
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/starts\_after\_relation/starts\_after\_relation\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101180020/starts\_after\_relation\_info… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/starts_after_relation/starts_after_relation_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101180020/starts_after_relation_infographic-82601ba67a0d.png
+  ref: file:explicit:d889fc7280b7fb353b0d7c7a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/starts_after_relation/starts_after_relation_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
