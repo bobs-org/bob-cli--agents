@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fa9669d`](https://github.com/bobs-org/bob-cli/commit/fa9669dd2a09caf4077ebdf9ef8bc7c39cc95a33) | feat(capture): implement task relation completion | 2026-10-20 11:26:44 EDT |
+| — | `fa9669d` | feat(capture): implement task relation completion | 2026-10-20 11:26:44 EDT |
 
 ## Neighbors
 
@@ -43,4 +43,4 @@
 | [bob-cli-a2.7](../bbugyi200.athena.bob-cli-a2.7/README.md) | bob-cli-a2 hood | completed |
 | [bob-cli-a2.8](../../sessions/bbugyi200.athena.bob-cli-a2.8.md) (session · 3) | bob-cli-a2 hood | completed 2, failed 1 |
 | [bob-cli-a2.9](../bbugyi200.athena.bob-cli-a2.9/README.md) | bob-cli-a2 hood | completed |
-| [bob-cli-a2.land](../../sessions/bbugyi200.athena.bob-cli-a2.land.md) (session · 3) | bob-cli-a2 hood | active 2, failed 1 |
+| [bob-cli-a2.land](../../sessions/bbugyi200.athena.bob-cli-a2.land.md) (session · 3) | bob-cli-a2 hood | active 1, completed 1, failed 1 |

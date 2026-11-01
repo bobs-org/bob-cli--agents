@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`b88a70e`](https://github.com/bobs-org/bob-cli/commit/b88a70e6dcbe80bd129bf83651d343736a254d33) | feat(glossary): add task relation terminology | 2026-10-20 10:02:57 EDT |
+| 1 | — | `b88a70e` | feat(glossary): add task relation terminology | 2026-10-20 10:02:57 EDT |
 
 ## Neighbors
 
@@ -47,4 +47,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-a2.7](../agents/bbugyi200.athena.bob-cli-a2.7/README.md) | bob-cli-a2 hood | completed |
 | [bob-cli-a2.8](bbugyi200.athena.bob-cli-a2.8.md) (session · 3) | bob-cli-a2 hood | completed 2, failed 1 |
 | [bob-cli-a2.9](../agents/bbugyi200.athena.bob-cli-a2.9/README.md) | bob-cli-a2 hood | completed |
-| [bob-cli-a2.land](bbugyi200.athena.bob-cli-a2.land.md) (session · 3) | bob-cli-a2 hood | active 2, failed 1 |
+| [bob-cli-a2.land](bbugyi200.athena.bob-cli-a2.land.md) (session · 3) | bob-cli-a2 hood | active 1, completed 1, failed 1 |

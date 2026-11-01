@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1e1d982`](https://github.com/bobs-org/bob-cli/commit/1e1d982693423d59946fad75d383f01028571451) | feat(capture): add ~ / ~~ lexer, guards, and capture-parse wire | 2026-10-20 10:37:53 EDT |
+| — | `1e1d982` | feat(capture): add ~ / ~~ lexer, guards, and capture-parse wire | 2026-10-20 10:37:53 EDT |
 
 ## Neighbors
 
@@ -43,4 +43,4 @@
 | [bob-cli-a2.7](../bbugyi200.athena.bob-cli-a2.7/README.md) | bob-cli-a2 hood | completed |
 | [bob-cli-a2.8](../../sessions/bbugyi200.athena.bob-cli-a2.8.md) (session · 3) | bob-cli-a2 hood | completed 2, failed 1 |
 | [bob-cli-a2.9](../bbugyi200.athena.bob-cli-a2.9/README.md) | bob-cli-a2 hood | completed |
-| [bob-cli-a2.land](../../sessions/bbugyi200.athena.bob-cli-a2.land.md) (session · 3) | bob-cli-a2 hood | active 2, failed 1 |
+| [bob-cli-a2.land](../../sessions/bbugyi200.athena.bob-cli-a2.land.md) (session · 3) | bob-cli-a2 hood | active 1, completed 1, failed 1 |

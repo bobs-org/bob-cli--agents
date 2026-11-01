@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ae9629e`](https://github.com/bobs-org/bob-cli/commit/ae9629ecd69c9227c314cb9d0e6c5d65a892efd9) | docs(task-relations): add task-relations contract page and wire relation lines | 2026-10-20 09:23:41 EDT |
+| — | `ae9629e` | docs(task-relations): add task-relations contract page and wire relation lines | 2026-10-20 09:23:41 EDT |
 
 ## Neighbors
 
@@ -43,4 +43,4 @@
 | [bob-cli-a2.7](../bbugyi200.athena.bob-cli-a2.7/README.md) | bob-cli-a2 hood | completed |
 | [bob-cli-a2.8](../../sessions/bbugyi200.athena.bob-cli-a2.8.md) (session · 3) | bob-cli-a2 hood | completed 2, failed 1 |
 | [bob-cli-a2.9](../bbugyi200.athena.bob-cli-a2.9/README.md) | bob-cli-a2 hood | completed |
-| [bob-cli-a2.land](../../sessions/bbugyi200.athena.bob-cli-a2.land.md) (session · 3) | bob-cli-a2 hood | active 2, failed 1 |
+| [bob-cli-a2.land](../../sessions/bbugyi200.athena.bob-cli-a2.land.md) (session · 3) | bob-cli-a2 hood | active 1, completed 1, failed 1 |

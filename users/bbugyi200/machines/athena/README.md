@@ -471,9 +471,9 @@
 | [bob-cli-9u](hoods/bob-cli-9u/README.md) | 8 | 2 | active 1, completed 5, failed 2 |
 | [bob-cli-9v](hoods/bob-cli-9v/README.md) | 12 | 2 | active 1, completed 7, failed 4 |
 | [bob-cli-9y](hoods/bob-cli-9y/README.md) | 17 | 3 | active 1, completed 9, failed 7 |
-| [bob-cli-a2](hoods/bob-cli-a2/README.md) | 22 | 3 | active 2, completed 17, failed 3 |
-| [bob-cli-a7](hoods/bob-cli-a7/README.md) | 10 | 2 | active 2, completed 5, failed 3 |
-| [bob-cli-a8](hoods/bob-cli-a8/README.md) | 8 | 2 | active 2, completed 4, failed 2 |
+| [bob-cli-a2](hoods/bob-cli-a2/README.md) | 22 | 3 | active 1, completed 18, failed 3 |
+| [bob-cli-a7](hoods/bob-cli-a7/README.md) | 10 | 2 | active 1, completed 6, failed 3 |
+| [bob-cli-a8](hoods/bob-cli-a8/README.md) | 8 | 2 | active 1, completed 5, failed 2 |
 | [bob-cli-aj](hoods/bob-cli-aj/README.md) | 15 | 2 | completed 9, failed 6 |
 | [bob-cli-an](hoods/bob-cli-an/README.md) | 410 | 63 | active 326, completed 48, failed 36 |
 | [bob-cli-ap](hoods/bob-cli-ap/README.md) | 8 | 2 | completed 6, failed 2 |

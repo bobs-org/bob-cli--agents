@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-a2](../../users/bbugyi200/machines/athena/hoods/bob-cli-a2/README.md) / [bob-cli-a2.land](../../sessions/bbugyi200.athena.bob-cli-a2.land.md) / bob-cli-a2.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-a2.land--code` · **State:** active · **Source run:** `run-bf0c3726930dc31b7c2b6254cdaaa871`
+**Global name:** `bbugyi200.athena.bob-cli-a2.land--code` · **State:** completed · **Source run:** `run-bf0c3726930dc31b7c2b6254cdaaa871`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-a2
 
@@ -11,14 +11,14 @@
 - Bead: [bob-cli-a2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-a2/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-20T17:59:43.330525+00:00
+- Timing: 2026-10-20T17:59:43.330525+00:00 → 2026-10-20T18:22:44.539516+00:00
 - Commits: [1](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4907f00`](https://github.com/bobs-org/bob-cli/commit/4907f00ddd02635fe4f6698efcae21eb17b8554a) | docs(capture): quote multi-word relation labels and fix capture-parse help | 2026-10-20 14:18:59 EDT |
+| — | `4907f00` | docs(capture): quote multi-word relation labels and fix capture-parse help | 2026-10-20 14:18:59 EDT |
 
 ## Neighbors
 

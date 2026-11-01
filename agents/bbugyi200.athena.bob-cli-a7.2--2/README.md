@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c300239`](https://github.com/bobs-org/bob-cli/commit/c300239ca3101aeac774664a64dee8f433ea4f00) | feat(capture): support bare Pomodoro names in links | 2026-10-20 16:58:30 EDT |
+| — | `c300239` | feat(capture): support bare Pomodoro names in links | 2026-10-20 16:58:30 EDT |
 
 ## Neighbors
 
@@ -30,4 +30,4 @@
 |---|---|---|
 | [bob-cli-a7.1](../bbugyi200.athena.bob-cli-a7.1/README.md) | bob-cli-a7 hood | completed |
 | [bob-cli-a7.3](../bbugyi200.athena.bob-cli-a7.3/README.md) | bob-cli-a7 hood | completed |
-| [bob-cli-a7.land](../../sessions/bbugyi200.athena.bob-cli-a7.land.md) (session · 3) | bob-cli-a7 hood | active 2, failed 1 |
+| [bob-cli-a7.land](../../sessions/bbugyi200.athena.bob-cli-a7.land.md) (session · 3) | bob-cli-a7 hood | active 1, completed 1, failed 1 |

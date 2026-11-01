@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a0ac845`](https://github.com/bobs-org/bob-cli/commit/a0ac8451643ba867ce105627a8e346734ade961f) | docs(capture): teach =name primary start-token spelling | 2026-10-20 17:22:17 EDT |
+| — | `a0ac845` | docs(capture): teach =name primary start-token spelling | 2026-10-20 17:22:17 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [bob-cli-a7.1](../bbugyi200.athena.bob-cli-a7.1/README.md) | bob-cli-a7 hood | completed |
 | [bob-cli-a7.2](../../sessions/bbugyi200.athena.bob-cli-a7.2.md) (session · 5) | bob-cli-a7 hood | completed 3, failed 2 |
-| [bob-cli-a7.land](../../sessions/bbugyi200.athena.bob-cli-a7.land.md) (session · 3) | bob-cli-a7 hood | active 2, failed 1 |
+| [bob-cli-a7.land](../../sessions/bbugyi200.athena.bob-cli-a7.land.md) (session · 3) | bob-cli-a7 hood | active 1, completed 1, failed 1 |

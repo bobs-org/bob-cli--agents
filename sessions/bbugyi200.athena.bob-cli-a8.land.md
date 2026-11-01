@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-a8.land--plan [active]"]
   n1["bob-cli-a8.land--gate [failed]"]
   n0 --> n1
-  n2["bob-cli-a8.land--code [active]"]
+  n2["bob-cli-a8.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-a8.land--plan | active | gpt-6-astra / codex | 2026-10-20T22:55:10.098485+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-a8.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-a8.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-a8.land--gate | failed | gpt-6-astra / codex | 2026-10-20T23:11:32.821448+00:00 → 2026-10-20T23:12:46.158749+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-a8.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-a8.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-20T23:13:09.477560+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-a8.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-20T23:13:09.477560+00:00 → 2026-10-20T23:34:13.282499+00:00 | 0 | — | — |
 
 ## Variables
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`eefdeb4`](https://github.com/bobs-org/bob-cli/commit/eefdeb4717c003aeb23e09c9288f66fa36ee6203) | docs(relations): document relation usage and rollout | 2026-10-20 13:17:35 EDT |
+| — | `eefdeb4` | docs(relations): document relation usage and rollout | 2026-10-20 13:17:35 EDT |
 
 ## Neighbors
 
@@ -43,4 +43,4 @@
 | [bob-cli-a2.7](../bbugyi200.athena.bob-cli-a2.7/README.md) | bob-cli-a2 hood | completed |
 | [bob-cli-a2.8](../../sessions/bbugyi200.athena.bob-cli-a2.8.md) (session · 3) | bob-cli-a2 hood | completed 2, failed 1 |
 | [bob-cli-a2.9](../bbugyi200.athena.bob-cli-a2.9/README.md) | bob-cli-a2 hood | completed |
-| [bob-cli-a2.land](../../sessions/bbugyi200.athena.bob-cli-a2.land.md) (session · 3) | bob-cli-a2 hood | active 2, failed 1 |
+| [bob-cli-a2.land](../../sessions/bbugyi200.athena.bob-cli-a2.land.md) (session · 3) | bob-cli-a2 hood | active 1, completed 1, failed 1 |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`18c16f3`](https://github.com/bobs-org/bob-cli/commit/18c16f3dae2b64fdc2bbabdd71ee83c68da381af) | feat(capture): lex =name as the named pomodoro start | 2026-10-20 16:09:05 EDT |
+| — | `18c16f3` | feat(capture): lex =name as the named pomodoro start | 2026-10-20 16:09:05 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [bob-cli-a7.2](../../sessions/bbugyi200.athena.bob-cli-a7.2.md) (session · 5) | bob-cli-a7 hood | completed 3, failed 2 |
 | [bob-cli-a7.3](../bbugyi200.athena.bob-cli-a7.3/README.md) | bob-cli-a7 hood | completed |
-| [bob-cli-a7.land](../../sessions/bbugyi200.athena.bob-cli-a7.land.md) (session · 3) | bob-cli-a7 hood | active 2, failed 1 |
+| [bob-cli-a7.land](../../sessions/bbugyi200.athena.bob-cli-a7.land.md) (session · 3) | bob-cli-a7 hood | active 1, completed 1, failed 1 |

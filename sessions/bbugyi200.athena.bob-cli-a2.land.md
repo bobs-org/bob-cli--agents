@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-a2.land--plan [active]"]
   n1["bob-cli-a2.land--gate [failed]"]
   n0 --> n1
-  n2["bob-cli-a2.land--code [active]"]
+  n2["bob-cli-a2.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -21,13 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-a2.land--plan | active | opus / claude | 2026-10-20T17:19:46.908325+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-a2.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-a2.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-a2.land--gate | failed | opus / claude | 2026-10-20T17:58:06.285584+00:00 → 2026-10-20T17:59:30.913297+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-a2.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-a2.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-20T17:59:43.330525+00:00 | [1](../agents/bbugyi200.athena.bob-cli-a2.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | bob-cli-a2.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-20T17:59:43.330525+00:00 → 2026-10-20T18:22:44.539516+00:00 | [1](../agents/bbugyi200.athena.bob-cli-a2.land--code/README.md#commits) | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`4907f00`](https://github.com/bobs-org/bob-cli/commit/4907f00ddd02635fe4f6698efcae21eb17b8554a) | docs(capture): quote multi-word relation labels and fix capture-parse help | 2026-10-20 14:18:59 EDT |
+| code | — | `4907f00` | docs(capture): quote multi-word relation labels and fix capture-parse help | 2026-10-20 14:18:59 EDT |
 
 ## Variables
 
