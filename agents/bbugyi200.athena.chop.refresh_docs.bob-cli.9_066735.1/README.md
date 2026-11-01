@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b64f393`](https://github.com/bobs-org/bob-cli/commit/b64f393d0262977a8513b25a6c6bf7d4ab5c7118) | docs: refresh user-facing docs to match current bob CLI | 2026-08-19 22:29:43 EDT |
+| — | `b64f393` | docs: refresh user-facing docs to match current bob CLI | 2026-08-19 22:29:43 EDT |
 
 ## Neighbors
 
@@ -42,7 +42,7 @@
 | [chop.refresh\_docs.bob-cli.3\_052834.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.4\_902214.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.1/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
 | [chop.refresh\_docs.bob-cli.4\_902214.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
-| [chop.refresh\_docs.bob-cli.5\_555411.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | active 1, completed 1, failed 1 |
+| [chop.refresh\_docs.bob-cli.5\_555411.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
 | [chop.refresh\_docs.bob-cli.5\_555411.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
 | [chop.refresh\_docs.bob-cli.6\_827232.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.6_827232.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.6\_827232.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.6_827232.2/README.md) | chop.refresh\_docs.bob-cli hood | active |

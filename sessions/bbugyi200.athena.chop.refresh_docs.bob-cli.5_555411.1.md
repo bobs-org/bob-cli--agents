@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `chop` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["chop.refresh_docs.bob-cli.5_555411.1--1 [active]"]
+  n0["chop.refresh_docs.bob-cli.5_555411.1--1 [completed]"]
   n1["chop.refresh_docs.bob-cli.5_555411.1--0 [completed]"]
   n0 --> n1
   n2["chop.refresh_docs.bob-cli.5_555411.1--mon [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | chop.refresh\_docs.bob-cli.5\_555411.1--1 | active | gpt-6-astra / codex | 2026-10-28T10:21:27.264167+00:00 | [1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | chop.refresh\_docs.bob-cli.5\_555411.1--1 | completed | gpt-6-astra / codex | 2026-10-28T10:21:27.264167+00:00 → 2026-10-28T10:25:00.531529+00:00 | [1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1--1/prompt.md) | — |
 | <a id="member-0"></a>0 | chop.refresh\_docs.bob-cli.5\_555411.1--0 | completed | gpt-6-astra / codex | 2026-10-28T10:07:39.509606+00:00 → 2026-10-28T10:15:46.742609+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1--0/prompt.md) | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1--0/chat.md) |
 | <a id="member-mon"></a>mon | chop.refresh\_docs.bob-cli.5\_555411.1--mon | failed | gpt-6-astra / codex | 2026-10-28T10:15:05.531712+00:00 → 2026-10-28T10:20:23.354461+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1--mon/chat.md) |
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`e7263d5`](https://github.com/bobs-org/bob-cli/commit/e7263d558aa3d9d1037f7f5c7e2831094d7f064b) | docs: refresh completion, reference capture, and release contracts | 2026-10-28 06:23:35 EDT |
+| 1 | — | `e7263d5` | docs: refresh completion, reference capture, and release contracts | 2026-10-28 06:23:35 EDT |
 
 ## Neighbors
 

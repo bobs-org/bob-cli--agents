@@ -512,7 +512,7 @@
 | [bq5](hoods/bq5/README.md) | 1 | 0 | completed 1 |
 | [bq6](hoods/bq6/README.md) | 1 | 0 | completed 1 |
 | [bqu](hoods/bqu/README.md) | 1 | 0 | completed 1 |
-| [chop](hoods/chop/README.md) | 38 | 4 | active 25, completed 5, failed 5, waiting 3 |
+| [chop](hoods/chop/README.md) | 38 | 4 | active 24, completed 6, failed 5, waiting 3 |
 | [ci](hoods/ci/README.md) | 2 | 1 | active 1, completed 1 |
 | [gh\_bobs-org\_\_bob-cli-2](hoods/gh_bobs-org__bob-cli-2/README.md) | 4 | 0 | completed 4 |
 | [gh\_bobs-org\_\_bob-cli-5](hoods/gh_bobs-org__bob-cli-5/README.md) | 1 | 0 | completed 1 |

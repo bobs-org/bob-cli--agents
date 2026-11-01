@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.bob-cli.5\_555411.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1.md) (session · 3) | chop.refresh\_docs.bob-cli.5\_555411 hood | active 1, completed 1, failed 1 |
+| [chop.refresh\_docs.bob-cli.5\_555411.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1.md) (session · 3) | chop.refresh\_docs.bob-cli.5\_555411 hood | completed 2, failed 1 |
 | [chop.refresh\_docs.bob-cli.0\_587608.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.1.md) (session · 5) | chop.refresh\_docs.bob-cli hood | active 1, completed 2, failed 2 |
 | [chop.refresh\_docs.bob-cli.0\_587608.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.0\_794067.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.1/README.md) | chop.refresh\_docs.bob-cli hood | active |

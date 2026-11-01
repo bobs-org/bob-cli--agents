@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c32143e`](https://github.com/bobs-org/bob-cli/commit/c32143ea398ac3012ae5bce9609f256958aee632) | docs: align onboarding with schema 14, project blocking, and flags | 2026-10-13 08:09:09 EDT |
+| — | `c32143e` | docs: align onboarding with schema 14, project blocking, and flags | 2026-10-13 08:09:09 EDT |
 
 ## Neighbors
 
@@ -42,7 +42,7 @@
 | [chop.refresh\_docs.bob-cli.3\_052834.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.4\_902214.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.1/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
 | [chop.refresh\_docs.bob-cli.4\_902214.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
-| [chop.refresh\_docs.bob-cli.5\_555411.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | active 1, completed 1, failed 1 |
+| [chop.refresh\_docs.bob-cli.5\_555411.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
 | [chop.refresh\_docs.bob-cli.5\_555411.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
 | [chop.refresh\_docs.bob-cli.6\_827232.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.6_827232.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.6\_827232.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.6_827232.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
