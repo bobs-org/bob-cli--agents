@@ -16,7 +16,7 @@
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,7 +40,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5d.linker.w0](../bbugyi200.athena.research.5d.linker.w0/README.md) | descendant | waiting |
+| [research.5d.linker.w0](../../sessions/bbugyi200.athena.research.5d.linker.w0.md) (session · 3) | descendant | active 1, completed 2 |
 | [research.5d.cdx](../bbugyi200.athena.research.5d.cdx/README.md) | research.5d hood | completed |
 | [research.5d.cld](../bbugyi200.athena.research.5d.cld/README.md) | research.5d hood | completed |
 | [research.5d.final](../bbugyi200.athena.research.5d.final/README.md) | research.5d hood | completed |
@@ -98,4 +98,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 314 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 322 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
