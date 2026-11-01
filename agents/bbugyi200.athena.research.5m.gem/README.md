@@ -12,16 +12,35 @@
 - Provider: agy
 - Timing: 2026-11-01T23:04:06.351854+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/starts\_after\_relation\_successor\_design\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101180018/starts\_after\_relation\_successor\_d… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/starts_after_relation_successor_design__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101180018/starts_after_relation_successor_design__gem-598b0f76404b.md
+  ref: file:explicit:850e37396fb1550153b43b61
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/starts_after_relation_successor_design__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5m.cdx](../bbugyi200.athena.research.5m.cdx/README.md) | research.5m hood | active |
+| [research.5m.cdx](../bbugyi200.athena.research.5m.cdx/README.md) | research.5m hood | completed |
 | [research.5m.cld](../bbugyi200.athena.research.5m.cld/README.md) | research.5m hood | active |
 | [research.5m.final](../bbugyi200.athena.research.5m.final/README.md) | research.5m hood | waiting |
 | [research.5m.grk](../bbugyi200.athena.research.5m.grk/README.md) | research.5m hood | active |

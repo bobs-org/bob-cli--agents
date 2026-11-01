@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5m.cdx
 
-**Global name:** `bbugyi200.athena.research.5m.cdx` · **State:** active · **Source run:** `run-03d5af51cbe0ee07987d00006f0cfd2f`
+**Global name:** `bbugyi200.athena.research.5m.cdx` · **State:** completed · **Source run:** `run-03d5af51cbe0ee07987d00006f0cfd2f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-01T23:01:39.922517+00:00
+- Timing: 2026-11-01T23:01:39.922517+00:00 → 2026-11-01T23:09:31.691208+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/starts\_after\_relation\_successor\_design\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101180013/starts\_after\_relation\_successor\_d… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/starts_after_relation_successor_design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101180013/starts_after_relation_successor_design__cdx-817a2b245946.md
+  ref: file:explicit:b7bf2a29bb442107421d7f69
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/starts_after_relation_successor_design__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
