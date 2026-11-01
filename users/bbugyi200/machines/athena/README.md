@@ -544,7 +544,7 @@
 | [tu](hoods/tu/README.md) | 9 | 4 | active 5, completed 4 |
 | [uq](hoods/uq/README.md) | 2 | 1 | active 1, completed 1 |
 | [uw](hoods/uw/README.md) | 2 | 1 | active 1, completed 1 |
-| [v0](hoods/v0/README.md) | 2 | 1 | active 2 |
+| [v0](hoods/v0/README.md) | 2 | 1 | active 1, completed 1 |
 | [vv](hoods/vv/README.md) | 2 | 1 | active 1, completed 1 |
 | [vz](hoods/vz/README.md) | 4 | 1 | active 3, completed 1 |
 | [wm](hoods/wm/README.md) | 2 | 1 | active 1, completed 1 |
