@@ -520,7 +520,7 @@
 | [home-2](hoods/home-2/README.md) | 6 | 0 | completed 6 |
 | [jr](hoods/jr/README.md) | 8 | 3 | active 3, completed 5 |
 | [m3](hoods/m3/README.md) | 3 | 1 | active 1, completed 2 |
-| [pv](hoods/pv/README.md) | 3 | 1 | active 3 |
+| [pv](hoods/pv/README.md) | 3 | 1 | active 2, completed 1 |
 | [qa](hoods/qa/README.md) | 3 | 1 | active 2, completed 1 |
 | [qz](hoods/qz/README.md) | 2 | 1 | active 1, completed 1 |
 | [research](hoods/research/README.md) | 419 | 23 | active 298, completed 78, failed 41, waiting 2 |
