@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`0bed62a`](https://github.com/bobs-org/bob-cli/commit/0bed62a142a24be36795d88d9db1d559cf4a04b7) | feat(highlights): report continuation counts in scan output and docs | 2026-10-19 09:00:15 EDT |
+| 1 | — | `0bed62a` | feat(highlights): report continuation counts in scan output and docs | 2026-10-19 09:00:15 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-9p.1](../agents/bbugyi200.athena.bob-cli-9p.1/README.md) | bob-cli-9p hood | completed |
 | [bob-cli-9p.3](../agents/bbugyi200.athena.bob-cli-9p.3/README.md) | bob-cli-9p hood | completed |
-| [bob-cli-9p.land](bbugyi200.athena.bob-cli-9p.land.md) (session · 3) | bob-cli-9p hood | active 2, failed 1 |
+| [bob-cli-9p.land](bbugyi200.athena.bob-cli-9p.land.md) (session · 3) | bob-cli-9p hood | active 1, completed 1, failed 1 |

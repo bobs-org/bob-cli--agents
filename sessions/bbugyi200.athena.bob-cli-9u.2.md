@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`1dc6fe0`](https://github.com/bobs-org/bob-cli/commit/1dc6fe0606948c8741bf0dcd217a51155a1d6726) | feat(ref): report and render underline emphasis | 2026-10-19 12:50:11 EDT |
+| 1 | — | `1dc6fe0` | feat(ref): report and render underline emphasis | 2026-10-19 12:50:11 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-9u.1](../agents/bbugyi200.athena.bob-cli-9u.1/README.md) | bob-cli-9u hood | completed |
 | [bob-cli-9u.3](../agents/bbugyi200.athena.bob-cli-9u.3/README.md) | bob-cli-9u hood | completed |
-| [bob-cli-9u.land](bbugyi200.athena.bob-cli-9u.land.md) (session · 3) | bob-cli-9u hood | active 2, failed 1 |
+| [bob-cli-9u.land](bbugyi200.athena.bob-cli-9u.land.md) (session · 3) | bob-cli-9u hood | active 1, completed 1, failed 1 |

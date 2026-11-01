@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1dc6fe0`](https://github.com/bobs-org/bob-cli/commit/1dc6fe0606948c8741bf0dcd217a51155a1d6726) | feat(ref): report and render underline emphasis | 2026-10-19 12:50:11 EDT |
+| — | `1dc6fe0` | feat(ref): report and render underline emphasis | 2026-10-19 12:50:11 EDT |
 
 ## Neighbors
 
@@ -30,4 +30,4 @@
 |---|---|---|
 | [bob-cli-9u.1](../bbugyi200.athena.bob-cli-9u.1/README.md) | bob-cli-9u hood | completed |
 | [bob-cli-9u.3](../bbugyi200.athena.bob-cli-9u.3/README.md) | bob-cli-9u hood | completed |
-| [bob-cli-9u.land](../../sessions/bbugyi200.athena.bob-cli-9u.land.md) (session · 3) | bob-cli-9u hood | active 2, failed 1 |
+| [bob-cli-9u.land](../../sessions/bbugyi200.athena.bob-cli-9u.land.md) (session · 3) | bob-cli-9u hood | active 1, completed 1, failed 1 |

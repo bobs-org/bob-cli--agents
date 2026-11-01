@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0bed62a`](https://github.com/bobs-org/bob-cli/commit/0bed62a142a24be36795d88d9db1d559cf4a04b7) | feat(highlights): report continuation counts in scan output and docs | 2026-10-19 09:00:15 EDT |
+| — | `0bed62a` | feat(highlights): report continuation counts in scan output and docs | 2026-10-19 09:00:15 EDT |
 
 ## Neighbors
 
@@ -30,4 +30,4 @@
 |---|---|---|
 | [bob-cli-9p.1](../bbugyi200.athena.bob-cli-9p.1/README.md) | bob-cli-9p hood | completed |
 | [bob-cli-9p.3](../bbugyi200.athena.bob-cli-9p.3/README.md) | bob-cli-9p hood | completed |
-| [bob-cli-9p.land](../../sessions/bbugyi200.athena.bob-cli-9p.land.md) (session · 3) | bob-cli-9p hood | active 2, failed 1 |
+| [bob-cli-9p.land](../../sessions/bbugyi200.athena.bob-cli-9p.land.md) (session · 3) | bob-cli-9p hood | active 1, completed 1, failed 1 |

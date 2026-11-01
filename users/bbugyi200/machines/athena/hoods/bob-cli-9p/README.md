@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-9p
 
-**Global hood:** `bbugyi200.athena.bob-cli-9p` · **Runs:** 8 · **Sessions:** 2 · **States:** active 2, completed 4, failed 2
+**Global hood:** `bbugyi200.athena.bob-cli-9p` · **Runs:** 8 · **Sessions:** 2 · **States:** active 1, completed 5, failed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-9p.3](../../../../../../agents/bbugyi200.athena.bob-cli-9p.3/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-19T12:03:13.225288+00:00 → 2026-10-19T12:08:11.055488+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-9p.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9p.3/prompt.md) |
-| [bob-cli-9p.land--code](../../../../../../sessions/bbugyi200.athena.bob-cli-9p.land.md#member-code) | active | muse-spark-1.3-contributor / muse | 2026-10-19T13:13:44.876695+00:00 | 1 | — |
+| [bob-cli-9p.land--code](../../../../../../sessions/bbugyi200.athena.bob-cli-9p.land.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-10-19T13:13:44.876695+00:00 → 2026-10-19T13:26:41.722844+00:00 | 1 | — |
 | [bob-cli-9p.1](../../../../../../agents/bbugyi200.athena.bob-cli-9p.1/README.md) | completed | grok-4.6 / grok | 2026-10-19T12:03:35.277681+00:00 → 2026-10-19T12:38:53.693416+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-9p.1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9p.1/prompt.md) |
 | [bob-cli-9p.land--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-9p.land.md#member-gate) | failed | gpt-6-astra / codex | 2026-10-19T13:12:54.066842+00:00 → 2026-10-19T13:13:21.726272+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-9p.land--gate/chat.md) |
 | [bob-cli-9p.2--1](../../../../../../sessions/bbugyi200.athena.bob-cli-9p.2.md#member-1) | completed | grok-4.6 / grok | 2026-10-19T12:57:24.634998+00:00 → 2026-10-19T13:01:58.401114+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-9p.2--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9p.2--1/prompt.md) |

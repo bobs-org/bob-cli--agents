@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1b158e6`](https://github.com/bobs-org/bob-cli/commit/1b158e662364485fbc591aa8def3cceeb8951ea7) | docs(today-marks): document the display contract | 2026-10-19 09:54:40 EDT |
+| — | `1b158e6` | docs(today-marks): document the display contract | 2026-10-19 09:54:40 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-9r.3](../bbugyi200.athena.bob-cli-9r.3/README.md) | bob-cli-9r hood | completed |
 | [bob-cli-9r.4](../bbugyi200.athena.bob-cli-9r.4/README.md) | bob-cli-9r hood | completed |
 | [bob-cli-9r.5](../bbugyi200.athena.bob-cli-9r.5/README.md) | bob-cli-9r hood | completed |
-| [bob-cli-9r.land](../../sessions/bbugyi200.athena.bob-cli-9r.land.md) (session · 3) | bob-cli-9r hood | active 2, failed 1 |
+| [bob-cli-9r.land](../../sessions/bbugyi200.athena.bob-cli-9r.land.md) (session · 3) | bob-cli-9r hood | active 1, completed 1, failed 1 |
