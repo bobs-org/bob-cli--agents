@@ -12,7 +12,7 @@
 - Provider: codex
 - Timing: 20261101180020
 - Commits: 0
-- Variables: [1](#variables)
+- Variables: [2](#variables)
 
 ## Files
 
@@ -23,6 +23,7 @@
 | Variable | Value |
 |---|---|
 | `artifacts` | \[{kind: image, label: image:202611/starts\_after\_relation/starts\_after\_relation\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101180020/starts\_after\_relation\_info… |
+| `diagrams` | {considered: 17, count: 0, reason: The one nonduplicative candidate passed Mermaid CLI 12.0.0 batch parsing (1 of 1 charts) and measured 792.029 by 810 px, fit 82.4%, but PNG preview exports timed ou… |
 
 #### artifacts
 
@@ -32,6 +33,16 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101180020/starts_after_relation_infographic-82601ba67a0d.png
   ref: file:explicit:d889fc7280b7fb353b0d7c7a
   source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/starts_after_relation/starts_after_relation_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 17
+count: 0
+reason: The one nonduplicative candidate passed Mermaid CLI 12.0.0 batch parsing (1 of 1 charts) and measured 792.029 by 810 px, fit 82.4%, but PNG preview exports timed out after 90 seconds for both the initial and width-revised source. Required visual validation could not be completed. No manifest was written or registered.
+source_ref: file:explicit:e5d4632a1c57ddcefa79536a
+status: failed
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
