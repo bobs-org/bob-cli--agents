@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-11-01T23:43:39.320097+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/blocked\_task\_visual\_distinctions\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101183901/blocked\_task\_visual\_distinctions\_\_gem-6… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/blocked_task_visual_distinctions__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101183901/blocked_task_visual_distinctions__gem-6e0679676807.md
+  ref: file:explicit:ebdd3f18710d2ae45dd276ec
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202611/blocked_task_visual_distinctions__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
