@@ -2,14 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-f5
 
-**Global hood:** `bbugyi200.athena.bob-cli-f5` · **Runs:** 11 · **Sessions:** 2 · **States:** active 2, completed 6, failed 3
+**Global hood:** `bbugyi200.athena.bob-cli-f5` · **Runs:** 10 · **Sessions:** 2 · **States:** completed 7, failed 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-f5.3--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-f5.3.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-01T15:27:34.955450+00:00 → 2026-11-01T15:30:21.874653+00:00 | 0 | — |
-| [bob-cli-f5.land--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-f5.land.md#member-plan) | active | gpt-6-astra / codex | 2026-11-01T16:26:35.725396+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-f5.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-f5.land--plan/chat.md) |
+| [bob-cli-f5.land--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-f5.land.md#member-plan) | completed | gpt-6-astra / codex | 2026-11-01T16:26:35.725396+00:00 → 2026-11-01T17:39:14.216731+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-f5.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-f5.land--plan/chat.md) |
 | [bob-cli-f5.2](../../../../../../agents/bbugyi200.athena.bob-cli-f5.2/README.md) | completed | sonnet / claude | 2026-11-01T14:50:02.587702+00:00 → 2026-11-01T15:11:48.527972+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-f5.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-f5.2/chat.md) |
-| [bob-cli-f5.land--code](../../../../../../sessions/bbugyi200.athena.bob-cli-f5.land.md#member-code) | active | sonnet / claude | 2026-11-01T16:47:34.451734+00:00 | 0 | — |
 | [bob-cli-f5.3--mon-0](../../../../../../sessions/bbugyi200.athena.bob-cli-f5.3.md#member-mon-0) | failed | gpt-6-luna / codex | 2026-11-01T15:33:34.634507+00:00 → 2026-11-01T15:36:08.326030+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-f5.3--mon-0/chat.md) |
 | [bob-cli-f5.4](../../../../../../agents/bbugyi200.athena.bob-cli-f5.4/README.md) | completed | grok-4.6 / grok | 2026-11-01T15:42:58.754213+00:00 → 2026-11-01T16:23:31.464896+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-f5.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-f5.4/chat.md) |
 | [bob-cli-f5.3--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-f5.3.md#member-plan) | completed | gpt-6-luna / codex | 2026-11-01T15:12:08.072618+00:00 → 2026-11-01T15:27:41.208864+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-f5.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-f5.3--plan/chat.md) |
