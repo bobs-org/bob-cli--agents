@@ -12,19 +12,50 @@
 - Provider: codex
 - Timing: 2026-11-01T23:40:43.000107+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: file, label: research:202611/blocked\_task\_visual\_grammar\_\_cdx.html, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101183856/blocked\_task\_visual\_grammar\_\_cdx-45111031c09b.… |
+
+#### artifacts
+
+```yaml
+- kind: file
+  label: research:202611/blocked_task_visual_grammar__cdx.html
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101183856/blocked_task_visual_grammar__cdx-45111031c09b.html
+  ref: file:explicit:c353ab741625d1d3cfb83365
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/blocked_task_visual_grammar__cdx.html
+- kind: markdown
+  label: research:202611/blocked_task_visual_grammar__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101183856/blocked_task_visual_grammar__cdx-7aa4c5c25e14.md
+  ref: file:explicit:1825e44c2d301e52092fc058
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/blocked_task_visual_grammar__cdx.md
+- kind: image
+  label: research:202611/blocked_task_visual_grammar__cdx.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101183856/blocked_task_visual_grammar__cdx-e8240a3dcb12.png
+  ref: file:explicit:cebaaf660267d9500965d510
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/blocked_task_visual_grammar__cdx.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.5n.cld](../bbugyi200.athena.research.5n.cld/README.md) | research.5n hood | active |
+| [research.5n.final](../bbugyi200.athena.research.5n.final/README.md) | research.5n hood | waiting |
 | [research.5n.gem](../bbugyi200.athena.research.5n.gem/README.md) | research.5n hood | active |
 | [research.5n.grk](../bbugyi200.athena.research.5n.grk/README.md) | research.5n hood | active |
-| [research.5n.mus](../bbugyi200.athena.research.5n.mus/README.md) | research.5n hood | active |
+| [research.5n.image](../bbugyi200.athena.research.5n.image/README.md) | research.5n hood | waiting |
+| [research.5n.linker](../bbugyi200.athena.research.5n.linker/README.md) | research.5n hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
