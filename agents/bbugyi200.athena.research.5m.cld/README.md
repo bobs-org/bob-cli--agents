@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5m.cld
 
-**Global name:** `bbugyi200.athena.research.5m.cld` · **State:** active · **Source run:** `run-1b774d6d662105795b181d8a57d56dc4`
+**Global name:** `bbugyi200.athena.research.5m.cld` · **State:** completed · **Source run:** `run-1b774d6d662105795b181d8a57d56dc4`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-01T23:02:11.303465+00:00
+- Timing: 2026-11-01T23:02:11.303465+00:00 → 2026-11-01T23:18:24.332601+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/starts\_after\_relation\_successors\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101180015/starts\_after\_relation\_successors\_\_cld-6… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/starts_after_relation_successors__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101180015/starts_after_relation_successors__cld-660f1ae81010.md
+  ref: file:explicit:95ef06cf1b64aad1fe5e8cd5
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/starts_after_relation_successors__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.5m.cdx](../bbugyi200.athena.research.5m.cdx/README.md) | research.5m hood | completed |
 | [research.5m.final](../bbugyi200.athena.research.5m.final/README.md) | research.5m hood | waiting |
 | [research.5m.gem](../bbugyi200.athena.research.5m.gem/README.md) | research.5m hood | completed |
-| [research.5m.grk](../bbugyi200.athena.research.5m.grk/README.md) | research.5m hood | active |
+| [research.5m.grk](../bbugyi200.athena.research.5m.grk/README.md) | research.5m hood | completed |
 | [research.5m.image](../bbugyi200.athena.research.5m.image/README.md) | research.5m hood | waiting |
 | [research.5m.linker](../bbugyi200.athena.research.5m.linker/README.md) | research.5m hood | waiting |
 | [research.5m.mus](../bbugyi200.athena.research.5m.mus/README.md) | research.5m hood | completed |

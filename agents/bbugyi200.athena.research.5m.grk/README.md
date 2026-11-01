@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5m.grk
 
-**Global name:** `bbugyi200.athena.research.5m.grk` · **State:** active · **Source run:** `run-3bffe4e2db2503a9f801ec3b5b4e18ca`
+**Global name:** `bbugyi200.athena.research.5m.grk` · **State:** completed · **Source run:** `run-3bffe4e2db2503a9f801ec3b5b4e18ca`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-01T23:02:58.541829+00:00
+- Timing: 2026-11-01T23:02:58.541829+00:00 → 2026-11-01T23:18:13.134300+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/starts\_after\_relation\_successor\_offers\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101180016/starts\_after\_relation\_successor\_o… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/starts_after_relation_successor_offers__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101180016/starts_after_relation_successor_offers__grk-3cb7240a4231.md
+  ref: file:explicit:4b934378c3d5f0f1c205430f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/starts_after_relation_successor_offers__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.5m.cdx](../bbugyi200.athena.research.5m.cdx/README.md) | research.5m hood | completed |
-| [research.5m.cld](../bbugyi200.athena.research.5m.cld/README.md) | research.5m hood | active |
+| [research.5m.cld](../bbugyi200.athena.research.5m.cld/README.md) | research.5m hood | completed |
 | [research.5m.final](../bbugyi200.athena.research.5m.final/README.md) | research.5m hood | waiting |
 | [research.5m.gem](../bbugyi200.athena.research.5m.gem/README.md) | research.5m hood | completed |
 | [research.5m.image](../bbugyi200.athena.research.5m.image/README.md) | research.5m hood | waiting |
