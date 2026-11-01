@@ -35,5 +35,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-f5.1](../agents/bbugyi200.athena.bob-cli-f5.1/README.md) | bob-cli-f5 hood | completed |
 | [bob-cli-f5.2](../agents/bbugyi200.athena.bob-cli-f5.2/README.md) | bob-cli-f5 hood | completed |
-| [bob-cli-f5.4](../agents/bbugyi200.athena.bob-cli-f5.4/README.md) | bob-cli-f5 hood | waiting |
+| [bob-cli-f5.4](../agents/bbugyi200.athena.bob-cli-f5.4/README.md) | bob-cli-f5 hood | completed |
 | [bob-cli-f5.land](../agents/bbugyi200.athena.bob-cli-f5.land/README.md) | bob-cli-f5 hood | waiting |
