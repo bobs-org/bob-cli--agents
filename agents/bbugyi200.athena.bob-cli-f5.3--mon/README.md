@@ -22,4 +22,4 @@
 | [bob-cli-f5.1](../bbugyi200.athena.bob-cli-f5.1/README.md) | bob-cli-f5 hood | completed |
 | [bob-cli-f5.2](../bbugyi200.athena.bob-cli-f5.2/README.md) | bob-cli-f5 hood | completed |
 | [bob-cli-f5.4](../bbugyi200.athena.bob-cli-f5.4/README.md) | bob-cli-f5 hood | completed |
-| [bob-cli-f5.land](../bbugyi200.athena.bob-cli-f5.land/README.md) | bob-cli-f5 hood | waiting |
+| [bob-cli-f5.land](../../sessions/bbugyi200.athena.bob-cli-f5.land.md) (session · 3) | bob-cli-f5 hood | active 2, failed 1 |
