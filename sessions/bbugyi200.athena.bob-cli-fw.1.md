@@ -51,5 +51,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-fw.2](../agents/bbugyi200.athena.bob-cli-fw.2/README.md) | bob-cli-fw hood | waiting |
+| [bob-cli-fw.2](../agents/bbugyi200.athena.bob-cli-fw.2/README.md) | bob-cli-fw hood | completed |
 | [bob-cli-fw.land](../agents/bbugyi200.athena.bob-cli-fw.land/README.md) | bob-cli-fw hood | waiting |
