@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0ee692887f6bcc88fd1cd5d5861d74c6"}
+{"commits":[{"committed_at":1793631579,"sha":"1562baab267edf7663a178972e96c15baa583671","subject":"feat(gcal): indent CANCEL LOG like the Task Card writer"}],"schema_version":2,"source_run_id":"run-0ee692887f6bcc88fd1cd5d5861d74c6"}
