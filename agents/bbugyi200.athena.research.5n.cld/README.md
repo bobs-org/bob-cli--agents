@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-11-01T23:41:15.702383+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/blocked\_reason\_checkboxes\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101183858/blocked\_reason\_checkboxes\_\_cld-e7a565bfe1b5.md… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/blocked_reason_checkboxes__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101183858/blocked_reason_checkboxes__cld-e7a565bfe1b5.md
+  ref: file:explicit:2d1ace17e0a3862d22e58889
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/blocked_reason_checkboxes__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

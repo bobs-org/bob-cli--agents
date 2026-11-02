@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 20261101180021
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/starts\_after\_relation/starts\_after\_relation.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101180021/starts\_after\_relation-b7b0721aec4… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/starts_after_relation/starts_after_relation.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101180021/starts_after_relation-b7b0721aec41.md
+  ref: file:explicit:1135167eee73add9867dac6c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/starts_after_relation/starts_after_relation.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
