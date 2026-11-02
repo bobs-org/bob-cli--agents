@@ -10,8 +10,8 @@
 
 - Bead: [bob-cli-fs.9](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.9.md)
 - Epic: [bob-cli-fs](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/README.md)
-- Model: sonnet
-- Provider: claude
+- Model: grok-4.6
+- Provider: grok
 - Timing: 20261102055850
 - Commits: 0
 
