@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-995fc2548cbb80a09d921a4d8920df8f"}
+{"commits":[{"committed_at":1793634857,"sha":"cba88d0d785aa47c1ba3720c035f4cab4b7786bb","subject":"feat(gcal): filter vendor boilerplate from event descriptions"}],"schema_version":2,"source_run_id":"run-995fc2548cbb80a09d921a4d8920df8f"}
