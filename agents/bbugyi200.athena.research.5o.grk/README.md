@@ -45,7 +45,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.5o.final](../bbugyi200.athena.research.5o.final/README.md) | research.5o hood | completed |
 | [research.5o.gem](../bbugyi200.athena.research.5o.gem/README.md) | research.5o hood | completed |
 | [research.5o.image](../bbugyi200.athena.research.5o.image/README.md) | research.5o hood | completed |
-| [research.5o.linker](../bbugyi200.athena.research.5o.linker/README.md) | research.5o hood | waiting |
+| [research.5o.linker](../bbugyi200.athena.research.5o.linker/README.md) | research.5o hood | completed |
 | [research.5o.linker.w0](../bbugyi200.athena.research.5o.linker.w0/README.md) | research.5o hood | waiting |
 | [research.5o.mus](../bbugyi200.athena.research.5o.mus/README.md) | research.5o hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
