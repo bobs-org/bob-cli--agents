@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7632870a83ddb08f3cbd446051fa6e2e"}
+{"commits":[{"committed_at":1793656512,"sha":"ebe8a44c705bf5e3c1ed9043135e69b04ce54899","subject":"fix(gcal): keep description bullets put when the row no longer parses"}],"schema_version":2,"source_run_id":"run-7632870a83ddb08f3cbd446051fa6e2e"}
