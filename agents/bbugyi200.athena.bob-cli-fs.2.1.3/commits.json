@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-53105e184cc57902ee7fc626cfa99990"}
+{"commits":[{"committed_at":1793627372,"sha":"cb729a76190d4c365ebd470e5dac8ee54e9f5705","subject":"feat(task-relations): merge relation offers into successor planning"}],"schema_version":2,"source_run_id":"run-53105e184cc57902ee7fc626cfa99990"}
