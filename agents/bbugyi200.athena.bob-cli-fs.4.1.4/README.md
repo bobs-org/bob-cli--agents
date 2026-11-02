@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 20261102123055
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`d9d070b`](https://github.com/bobs-org/bob-cli/commit/d9d070b7fc1bb51d254b45fd6954bddd47e40ce8) | feat(capture): net relation offers across capture items | 2026-11-02 15:28:37 EST |
 
 ## Neighbors
 
