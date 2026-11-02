@@ -12,11 +12,17 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-11-02T17:41:34.500457+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`d8b4d4f`](https://github.com/bobs-org/bob-cli/commit/d8b4d4fbdc7b9ec4868798fb40cacb687a10ebaf) | feat(relations): surface successor label effects | 2026-11-02 12:49:04 EST |
 
 ## Neighbors
 
