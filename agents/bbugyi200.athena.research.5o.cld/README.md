@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-11-02T13:03:12.487018+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gcal\_description\_bullets\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261102080140/gcal\_description\_bullets\_\_cld-588ffd82c47a.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gcal_description_bullets__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102080140/gcal_description_bullets__cld-588ffd82c47a.md
+  ref: file:explicit:9bde2c476f03b98feac0a376
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_20/sase/repos/research/202611/gcal_description_bullets__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 20261102080141
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gcal\_event\_description\_sub\_bullets/gcal\_event\_description\_sub\_bullets\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261102080141/gc… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gcal_event_description_sub_bullets/gcal_event_description_sub_bullets__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102080141/gcal_event_description_sub_bullets__grk-6d54f87eb5c8.md
+  ref: file:explicit:0b2c3c20e338986eb408575d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_21/sase/repos/research/202611/gcal_event_description_sub_bullets/gcal_event_description_sub_bullets__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
