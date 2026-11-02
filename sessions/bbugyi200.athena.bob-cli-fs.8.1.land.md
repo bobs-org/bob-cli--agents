@@ -2,23 +2,26 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / bob-cli-fs.8.1.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 2 · Bead: [bob-cli-fs.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.8.1.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 3 · Bead: [bob-cli-fs.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.8.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-fs.8.1.land--gate [active]"]
-  n1["bob-cli-fs.8.1.land--plan [active]"]
+  n0["bob-cli-fs.8.1.land--code [active]"]
+  n1["bob-cli-fs.8.1.land--gate [completed]"]
   n0 --> n1
+  n2["bob-cli-fs.8.1.land--plan [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | bob-cli-fs.8.1.land--gate | active | gpt-6-astra / codex | 2026-11-02T14:22:11.413518+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-fs.8.1.land--plan | active | gpt-6-astra / codex | 2026-11-02T14:01:28.527332+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.8.1.land--plan/prompt.md) | — |
+| <a id="member-code"></a>code | bob-cli-fs.8.1.land--code | active | gpt-6-luna / codex | 2026-11-02T14:22:55.991685+00:00 | 0 | — | — |
+| <a id="member-gate"></a>gate | bob-cli-fs.8.1.land--gate | completed | gpt-6-astra / codex | 2026-11-02T14:22:12.398982+00:00 → 2026-11-02T14:22:32.308011+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.8.1.land--gate/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-fs.8.1.land--plan | active | gpt-6-astra / codex | 2026-11-02T14:01:28.527332+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.8.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.8.1.land--plan/chat.md) |
 
 ## Variables
 
