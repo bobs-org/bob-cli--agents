@@ -13,10 +13,30 @@
 - Provider: codex
 - Timing: 20261102124712
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-g1, kind: file, label: bob-cli-g1 landing: seven known plugin baseline failures on a28d1af, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261102124712/g1-land-baseli… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-g1
+  kind: file
+  label: bob-cli-g1 landing: seven known plugin baseline failures on a28d1af
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102124712/g1-land-baseline-d93d29130db5.log
+  ref: file:explicit:1c86942de5e48357b13f472a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/linked/bob-plugins/.g1-land-baseline.log
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
