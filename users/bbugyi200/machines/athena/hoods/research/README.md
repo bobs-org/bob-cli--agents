@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 439 · **Sessions:** 25 · **States:** active 300, completed 97, failed 41, waiting 1
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 439 · **Sessions:** 25 · **States:** active 299, completed 98, failed 41, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -266,7 +266,7 @@
 | [research.1a.cdx](../../../../../../agents/bbugyi200.athena.research.1a.cdx/README.md) | active | gpt-5.6-sol / codex | 2026-08-27T13:44:59.050726+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.1a.cdx/prompt.md) |
 | [research.4k.grk](../../../../../../agents/bbugyi200.athena.research.4k.grk/README.md) | active | grok-4.6 / grok | 2026-10-15T19:18:25.508363+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4k.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.4k.grk/chat.md) |
 | [research.0m.cld](../../../../../../agents/bbugyi200.athena.research.0m.cld/README.md) | completed | — | 2026-06-26T12:03:14+00:00 → 2026-06-26T12:03:14+00:00 | 1 | — |
-| [research.5m.linker.w0--mon](../../../../../../sessions/bbugyi200.athena.research.5m.linker.w0.md#member-mon) | active | opus / claude | 2026-11-02T10:57:05.563163+00:00 | 0 | — |
+| [research.5m.linker.w0--mon](../../../../../../sessions/bbugyi200.athena.research.5m.linker.w0.md#member-mon) | completed | opus / claude | 2026-11-02T10:57:05.563163+00:00 → 2026-11-02T10:59:27.152124+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.5m.linker.w0--mon/chat.md) |
 | [research.4k.linker.w1--plan](../../../../../../sessions/bbugyi200.athena.research.4k.linker.w1.md#member-plan) | active | opus / claude | 2026-10-15T20:25:04.140922+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.4k.linker.w1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.4k.linker.w1--plan/chat.md) |
 | [research.i.final.f1.f1](../../../../../../agents/bbugyi200.athena.research.i.final.f1.f1/README.md) | completed | — | 2026-06-15T20:12:56+00:00 → 2026-06-15T20:46:08+00:00 | 2 | — |
 | [research.44.grk](../../../../../../agents/bbugyi200.athena.research.44.grk/README.md) | active | grok-4.6 / grok | 2026-10-08T21:31:07.156387+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.research.44.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.research.44.grk/chat.md) |
