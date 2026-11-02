@@ -23,6 +23,8 @@
 |---|---|---|
 | [research.5o.cdx](../bbugyi200.athena.research.5o.cdx/README.md) | research.5o hood | active |
 | [research.5o.cld](../bbugyi200.athena.research.5o.cld/README.md) | research.5o hood | active |
+| [research.5o.gem](../bbugyi200.athena.research.5o.gem/README.md) | research.5o hood | active |
+| [research.5o.mus](../bbugyi200.athena.research.5o.mus/README.md) | research.5o hood | active |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
