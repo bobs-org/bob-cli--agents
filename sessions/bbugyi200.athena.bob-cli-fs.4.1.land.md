@@ -23,11 +23,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-fs.4.1.land--1 | active | muse-spark-1.3-contributor / muse | 2026-11-02T23:44:31.704100+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-fs.4.1.land--1 | active | muse-spark-1.3-contributor / muse | 2026-11-02T23:44:31.704100+00:00 | [1](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--1/prompt.md) | — |
 | <a id="member-gate"></a>gate | bob-cli-fs.4.1.land--gate | completed | opus / claude | 2026-11-02T23:13:02.634518+00:00 → 2026-11-02T23:13:29.846402+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-fs.4.1.land--mon | completed | muse-spark-1.3-contributor / muse | 2026-11-02T23:37:26.334838+00:00 → 2026-11-02T23:43:57.333604+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-fs.4.1.land--plan | completed | opus / claude | 2026-11-02T22:52:30.923833+00:00 → 2026-11-02T23:37:34.129848+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--plan/chat.md) |
 | <a id="member-code"></a>code | bob-cli-fs.4.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-02T23:13:59.315599+00:00 → 2026-11-02T23:37:34.129848+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | bob-cli | [`2aec2aa`](https://github.com/bobs-org/bob-cli/commit/2aec2aa472cf90d22ce607d3805dbceb10c92f72) | perf(capture): trim relation-successor overhead and re-measure apollo budgets | 2026-11-02 18:58:22 EST |
 
 ## Neighbors
 

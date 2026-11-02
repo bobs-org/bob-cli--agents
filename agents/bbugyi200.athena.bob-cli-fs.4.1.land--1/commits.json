@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-85a45c8e552c56445e08914e4b4b8763"}
+{"commits":[{"committed_at":1793663902,"sha":"2aec2aa472cf90d22ce607d3805dbceb10c92f72","subject":"perf(capture): trim relation-successor overhead and re-measure apollo budgets"}],"schema_version":2,"source_run_id":"run-85a45c8e552c56445e08914e4b4b8763"}
