@@ -40,6 +40,12 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102100757/bob-fx-perf-audit-a33ca4d3f541.log
   ref: file:explicit:dd79208b8c6d14c0a47fb839
   source_path: /tmp/bob-fx-perf-audit.log
+- bead: bob-cli-fx
+  kind: file
+  label: MEET landing: reproduced placement and successor gaps, fixture and docs audit
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102100757/bob-fx-placement-probes-22d9fbc05b0a.log
+  ref: file:explicit:09e9d220720061d1919e7c2e
+  source_path: /tmp/bob-fx-placement-probes.log
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
