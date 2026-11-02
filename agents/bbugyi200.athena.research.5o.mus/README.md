@@ -12,10 +12,29 @@
 - Provider: muse
 - Timing: 2026-11-02T13:04:16.818122+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gcal\_description\_agenda\_\_mus.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261102080142/gcal\_description\_agenda\_\_mus-6fb198ec189b.md, re… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gcal_description_agenda__mus.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102080142/gcal_description_agenda__mus-6fb198ec189b.md
+  ref: file:explicit:9aa977ddfc05f770655bcace
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_22/sase/repos/research/202611/gcal_description_agenda__mus.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,6 +42,7 @@
 |---|---|---|
 | [research.5o.cdx](../bbugyi200.athena.research.5o.cdx/README.md) | research.5o hood | active |
 | [research.5o.cld](../bbugyi200.athena.research.5o.cld/README.md) | research.5o hood | active |
+| [research.5o.final](../bbugyi200.athena.research.5o.final/README.md) | research.5o hood | waiting |
 | [research.5o.gem](../bbugyi200.athena.research.5o.gem/README.md) | research.5o hood | active |
 | [research.5o.grk](../bbugyi200.athena.research.5o.grk/README.md) | research.5o hood | active |
 | [research.5o.image](../bbugyi200.athena.research.5o.image/README.md) | research.5o hood | active |
