@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-fs.4.1.1](../../sessions/bbugyi200.athena.bob-cli-fs.4.1.1.md) (session · 5) | descendant | completed 4, failed 1 |
 | [bob-cli-fs.4.1.2](../../sessions/bbugyi200.athena.bob-cli-fs.4.1.2.md) (session · 5) | descendant | completed 4, failed 1 |
-| [bob-cli-fs.4.1.3](../bbugyi200.athena.bob-cli-fs.4.1.3/README.md) | descendant | waiting |
+| [bob-cli-fs.4.1.3](../bbugyi200.athena.bob-cli-fs.4.1.3/README.md) | descendant | completed |
 | [bob-cli-fs.4.1.4](../bbugyi200.athena.bob-cli-fs.4.1.4/README.md) | descendant | active |
 | [bob-cli-fs.4.1.5](../bbugyi200.athena.bob-cli-fs.4.1.5/README.md) | descendant | active |
 | [bob-cli-fs.4.1.6](../bbugyi200.athena.bob-cli-fs.4.1.6/README.md) | descendant | active |
