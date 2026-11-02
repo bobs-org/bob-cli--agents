@@ -19,4 +19,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-fx.1](../bbugyi200.athena.bob-cli-fx.1/README.md) | bob-cli-fx hood | completed |
-| [bob-cli-fx.land](../../sessions/bbugyi200.athena.bob-cli-fx.land.md) (session · 2) | bob-cli-fx hood | active 2 |
+| [bob-cli-fx.land](../../sessions/bbugyi200.athena.bob-cli-fx.land.md) (session · 3) | bob-cli-fx hood | active 2, completed 1 |
