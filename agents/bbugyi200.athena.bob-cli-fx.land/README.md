@@ -13,10 +13,30 @@
 - Provider: codex
 - Timing: 20261102100757
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-fx, kind: file, label: MEET landing: five pre-existing plugin test failures, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261102100757/bob-fx-plugin-audit-be951dd49… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-fx
+  kind: file
+  label: MEET landing: five pre-existing plugin test failures
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102100757/bob-fx-plugin-audit-be951dd49929.log
+  ref: file:explicit:0201e20ab57a269a1d560ad4
+  source_path: /tmp/bob-fx-plugin-audit.log
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
