@@ -98,7 +98,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-ft.3.1.land](../../sessions/bbugyi200.athena.bob-cli-ft.3.1.land.md) (session · 5) | bob-cli-ft.3.1 hood | completed 5 |
 | [bob-cli-ft.1](../bbugyi200.athena.bob-cli-ft.1/README.md) | bob-cli-ft hood | completed |
 | [bob-cli-ft.2](../bbugyi200.athena.bob-cli-ft.2/README.md) | bob-cli-ft hood | completed |
-| [bob-cli-ft.4](../bbugyi200.athena.bob-cli-ft.4/README.md) | bob-cli-ft hood | waiting |
+| [bob-cli-ft.4](../bbugyi200.athena.bob-cli-ft.4/README.md) | bob-cli-ft hood | completed |
 | [bob-cli-ft.5](../bbugyi200.athena.bob-cli-ft.5/README.md) | bob-cli-ft hood | waiting |
 | [bob-cli-ft.6](../bbugyi200.athena.bob-cli-ft.6/README.md) | bob-cli-ft hood | waiting |
 | [bob-cli-ft.7](../bbugyi200.athena.bob-cli-ft.7/README.md) | bob-cli-ft hood | completed |

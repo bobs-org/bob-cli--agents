@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-fs.2.1.land--plan | active | opus / claude | 2026-11-02T15:51:45.203540+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.2.1.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-fs.2.1.land--code | active | gpt-6-luna / codex | 2026-11-02T16:04:55.081401+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-fs.2.1.land--code | active | gpt-6-luna / codex | 2026-11-02T16:04:55.081401+00:00 | [1](../agents/bbugyi200.athena.bob-cli-fs.2.1.land--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-fs.2.1.land--gate | completed | opus / claude | 2026-11-02T16:04:09.897081+00:00 → 2026-11-02T16:04:33.508952+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.2.1.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`fdc34de`](https://github.com/bobs-org/bob-cli/commit/fdc34de9bf82600e187ef8f6ebb66473fc4d2bbf) | fix(task-complete): finish relation successor core | 2026-11-02 12:17:57 EST |
 
 ## Neighbors
 
