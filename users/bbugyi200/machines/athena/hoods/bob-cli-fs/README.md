@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-fs
 
-**Global hood:** `bbugyi200.athena.bob-cli-fs` · **Runs:** 52 · **Sessions:** 9 · **States:** active 7, completed 34, failed 5, waiting 6
+**Global hood:** `bbugyi200.athena.bob-cli-fs` · **Runs:** 53 · **Sessions:** 9 · **States:** active 8, completed 34, failed 5, waiting 6
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -41,6 +41,7 @@
 | [bob-cli-fs.3--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-fs.3.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-02T17:27:54.651198+00:00 → 2026-11-02T17:30:31.827422+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-fs.3--mon/chat.md) |
 | [bob-cli-fs.2--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-fs.2.md#member-plan) | active | gpt-6-astra / codex | 2026-11-02T11:20:57.061596+00:00 → 2026-11-02T11:31:00.678109+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-fs.2--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-fs.2--plan/chat.md) |
 | [bob-cli-fs.10](../../../../../../agents/bbugyi200.athena.bob-cli-fs.10/README.md) | waiting | gpt-6-astra / codex | 20261102055851 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-fs.10/prompt.md) |
+| [bob-cli-fs.4.1.1--2](../../../../../../sessions/bbugyi200.athena.bob-cli-fs.4.1.1.md#member-2) | active | gpt-6-luna / codex | 2026-11-02T18:01:30.633218+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-fs.4.1.1--2/prompt.md) |
 | [bob-cli-fs.4.1.3](../../../../../../agents/bbugyi200.athena.bob-cli-fs.4.1.3/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261102123054 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-fs.4.1.3/prompt.md) |
 | [bob-cli-fs.11](../../../../../../agents/bbugyi200.athena.bob-cli-fs.11/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261102055852 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-fs.11/prompt.md) |
 | [bob-cli-fs.5](../../../../../../agents/bbugyi200.athena.bob-cli-fs.5/README.md) | waiting | grok-4.6 / grok | 20261102055849 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-fs.5/prompt.md) |
