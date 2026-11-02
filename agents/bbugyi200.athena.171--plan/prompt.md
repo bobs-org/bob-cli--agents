@@ -1,0 +1,11 @@
+#gh:gh_bobs-org__bob-cli When we use the `=` capture syntax in the bob-mac-capture app and we are in the
+middle of an event task (or the next 5-minute block that a plain `=` would use is the
+start of an event task), we should default to using the `MEET` type (using the
+appropriate default time range--like we already do for `=meet`) instead of the first
+future pomodoro. The user should be able to override this by specifying a different
+pomodoro type explicitly, but a warning should be shown (since they are starting a
+non-MEET pomodoro in the middle of an event). For example, in the
+~/tmp/screenshots/20261102_080417.png screenshot, `=` should have started the MEET
+pomodoro with a time range of 0800-0815.
+
+Can you help me fix this? #plan %m:@xlarge
