@@ -26,8 +26,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | bob-cli-fs.4.1.2--plan | completed | grok-4.6 / grok | 2026-11-02T18:18:19.219237+00:00 → 2026-11-02T18:54:14.295387+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-fs.4.1.2--mon | failed | grok-4.6 / grok | 2026-11-02T18:54:08.666155+00:00 → 2026-11-02T18:58:39.607167+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--mon/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-fs.4.1.2--1 | completed | grok-4.6 / grok | 2026-11-02T18:59:26.856940+00:00 → 2026-11-02T19:09:24.359970+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--1/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-fs.4.1.2--2 | active | grok-4.6 / grok | 2026-11-02T19:17:39.056188+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-fs.4.1.2--2 | active | grok-4.6 / grok | 2026-11-02T19:17:39.056188+00:00 | [1](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--2/prompt.md) | — |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-fs.4.1.2--mon-0 | completed | grok-4.6 / grok | 2026-11-02T19:09:17.315092+00:00 → 2026-11-02T19:16:57.551374+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--mon-0/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | bob-cli | [`e013169`](https://github.com/bobs-org/bob-cli/commit/e01316937db67b83b5cb9f9824c99748b5043438) | feat(capture): offer relation successors on managed Done | 2026-11-02 14:29:08 EST |
 
 ## Neighbors
 

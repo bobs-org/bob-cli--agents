@@ -12,11 +12,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-11-02T19:17:39.056188+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e013169`](https://github.com/bobs-org/bob-cli/commit/e01316937db67b83b5cb9f9824c99748b5043438) | feat(capture): offer relation successors on managed Done | 2026-11-02 14:29:08 EST |
 
 ## Neighbors
 
