@@ -1,0 +1,44 @@
+# Session: bob-cli-fs.2
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / bob-cli-fs.2
+
+Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 3 · Bead: [bob-cli-fs.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.2.md)
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["bob-cli-fs.2--gate [completed]"]
+  n1["bob-cli-fs.2--plan [active]"]
+  n0 --> n1
+  n2["bob-cli-fs.2--mon [completed]"]
+  n0 --> n2
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-gate"></a>gate | bob-cli-fs.2--gate | completed | gpt-6-astra / codex | 2026-11-02T11:28:50.132843+00:00 → 2026-11-02T11:30:46.860762+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.2--gate/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-fs.2--plan | active | gpt-6-astra / codex | 2026-11-02T11:20:57.061596+00:00 → 2026-11-02T11:31:00.678109+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.2--plan/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-fs.2--mon | completed | gpt-6-astra / codex | 2026-11-02T11:30:45.575909+00:00 → 2026-11-02T11:33:47.090111+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.2--mon/chat.md) |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-fs.2.1.1](../agents/bbugyi200.athena.bob-cli-fs.2.1.1/README.md) | descendant | active |
+| [bob-cli-fs.2.1.2](../agents/bbugyi200.athena.bob-cli-fs.2.1.2/README.md) | descendant | waiting |
+| [bob-cli-fs.2.1.3](../agents/bbugyi200.athena.bob-cli-fs.2.1.3/README.md) | descendant | waiting |
+| [bob-cli-fs.2.1.land](../agents/bbugyi200.athena.bob-cli-fs.2.1.land/README.md) | descendant | waiting |
+| [bob-cli-fs.1](bbugyi200.athena.bob-cli-fs.1.md) (session · 3) | bob-cli-fs hood | completed 3 |
+| [bob-cli-fs.10](../agents/bbugyi200.athena.bob-cli-fs.10/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.11](../agents/bbugyi200.athena.bob-cli-fs.11/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.3](../agents/bbugyi200.athena.bob-cli-fs.3/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.4](../agents/bbugyi200.athena.bob-cli-fs.4/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.5](../agents/bbugyi200.athena.bob-cli-fs.5/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.6](../agents/bbugyi200.athena.bob-cli-fs.6/README.md) | bob-cli-fs hood | active |
+| [bob-cli-fs.7](../agents/bbugyi200.athena.bob-cli-fs.7/README.md) | bob-cli-fs hood | completed |
+| [bob-cli-fs.8](../agents/bbugyi200.athena.bob-cli-fs.8/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.9](../agents/bbugyi200.athena.bob-cli-fs.9/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.land](../agents/bbugyi200.athena.bob-cli-fs.land/README.md) | bob-cli-fs hood | waiting |
