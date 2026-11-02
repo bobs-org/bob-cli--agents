@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / [research.5m.linker.w0](../../sessions/bbugyi200.athena.research.5m.linker.w0.md) / research.5m.linker.w0--gate
 
-**Global name:** `bbugyi200.athena.research.5m.linker.w0--gate` · **State:** active · **Source run:** `run-efd8ffae55a1686463a084891bce8c08`
+**Global name:** `bbugyi200.athena.research.5m.linker.w0--gate` · **State:** completed · **Source run:** `run-efd8ffae55a1686463a084891bce8c08`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,8 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-02T00:36:41.328745+00:00
+- Timing: 2026-11-02T10:56:40.378032+00:00 → 2026-11-02T10:57:09.375956+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
