@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / bob-cli-fs.2.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-fs.2.1.2` · **State:** waiting · **Source run:** `run-235454cf8f192a5409932e2132f4c3ae`
+**Global name:** `bbugyi200.athena.bob-cli-fs.2.1.2` · **State:** completed · **Source run:** `run-235454cf8f192a5409932e2132f4c3ae`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-fs
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-fs.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.2.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261102063247
-- Commits: 0
+- Timing: 2026-11-02T12:01:43.643591+00:00 → 2026-11-02T12:40:25.383111+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`ace86f8`](https://github.com/bobs-org/bob-cli/commit/ace86f8e5d7fc9c2103e7513953548b119b6629c) | feat(task-relations): add pure relation-successor classifier | 2026-11-02 07:39:55 EST |
 
 ## Neighbors
 
