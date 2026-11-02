@@ -1,6 +1,6 @@
-#gh:gh_bobs-org__bob-cli
 %id(land, clan=bob-cli-fs.2.1, bead=bob-cli-fs.2.1)
-%model:@large
+#gh:gh_bobs-org__bob-cli
+%m:@xlarge 
 %auto
 %w(bob-cli-fs.2.1.1,bob-cli-fs.2.1.2,bob-cli-fs.2.1.3, for_epic=false)
 %w(bead=bob-cli-fs.2.1.1)

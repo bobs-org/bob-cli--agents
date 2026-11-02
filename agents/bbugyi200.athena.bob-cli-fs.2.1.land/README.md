@@ -2,47 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / bob-cli-fs.2.1.land
 
-**Global name:** `bbugyi200.athena.bob-cli-fs.2.1.land` · **State:** waiting · **Source run:** `run-874d7f934d0b841cbb50290eb0b7c590`
+**Global name:** `bbugyi200.athena.bob-cli-fs.2.1.land` · **State:** active · **Source run:** `run-104940c48354960f82a0191d6bdfc9f0`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-fs
 
 ## Summary
 
 - Bead: [bob-cli-fs.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.2.1.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 20261102063249
+- Model: opus
+- Provider: claude
+- Timing: 20261102104839
 - Commits: 0
-- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
-
-## Variables
-
-| Variable | Value |
-|---|---|
-| `artifacts` | \[{bead: bob-cli-fs.2.1, kind: file, label: Relation core landing regression probes at cb729a76, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261102063249/land\_audit\_relation\_probes… |
-
-#### artifacts
-
-```yaml
-- bead: bob-cli-fs.2.1
-  kind: file
-  label: Relation core landing regression probes at cb729a76
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102063249/land_audit_relation_probes-698a50e9a49f.rs
-  ref: file:explicit:02f513efcf6d714094b172c0
-  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/land_audit_relation_probes.rs
-- bead: bob-cli-fs.2.1
-  kind: file
-  label: Four confirmed relation core landing failures at cb729a76
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102063249/land_audit_relation_probes-61be22d4fa97.log
-  ref: file:explicit:ed01e90996e17bd9acfc75b6
-  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/land_audit_relation_probes.log
-```
-
-Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -65,6 +39,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-fs.8.1.2](../bbugyi200.athena.bob-cli-fs.8.1.2/README.md) | bob-cli-fs hood | completed |
 | [bob-cli-fs.8.1.3](../../sessions/bbugyi200.athena.bob-cli-fs.8.1.3.md) (session · 5) | bob-cli-fs hood | completed 5 |
 | [bob-cli-fs.8.1.4](../bbugyi200.athena.bob-cli-fs.8.1.4/README.md) | bob-cli-fs hood | completed |
-| [bob-cli-fs.8.1.land](../bbugyi200.athena.bob-cli-fs.8.1.land/README.md) | bob-cli-fs hood | waiting |
-| [bob-cli-fs.9](../bbugyi200.athena.bob-cli-fs.9/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.8.1.land](../../sessions/bbugyi200.athena.bob-cli-fs.8.1.land.md) (session · 3) | bob-cli-fs hood | completed 1, failed 2 |
+| [bob-cli-fs.8.1.land](../bbugyi200.athena.bob-cli-fs.8.1.land/README.md) | bob-cli-fs hood | completed |
+| [bob-cli-fs.9](../bbugyi200.athena.bob-cli-fs.9/README.md) | bob-cli-fs hood | completed |
 | [bob-cli-fs.land](../bbugyi200.athena.bob-cli-fs.land/README.md) | bob-cli-fs hood | waiting |
