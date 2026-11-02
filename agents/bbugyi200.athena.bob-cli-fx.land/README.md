@@ -34,6 +34,12 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102100757/bob-fx-plugin-audit-be951dd49929.log
   ref: file:explicit:0201e20ab57a269a1d560ad4
   source_path: /tmp/bob-fx-plugin-audit.log
+- bead: bob-cli-fx
+  kind: file
+  label: MEET landing: existing wikilink CPU budget failures
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102100757/bob-fx-perf-audit-a33ca4d3f541.log
+  ref: file:explicit:dd79208b8c6d14c0a47fb839
+  source_path: /tmp/bob-fx-perf-audit.log
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
