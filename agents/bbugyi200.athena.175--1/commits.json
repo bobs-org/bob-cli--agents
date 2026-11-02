@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1793645013,"sha":"5fffb82ab7e3dd3ed87c57d72fcc27f207f9c019","subject":"fix(gcal): write title-free badge links, read location from Maps URL"}],"schema_version":2,"source_run_id":"run-256ad9c9844763cf2f2b9a0aaa921103"}
