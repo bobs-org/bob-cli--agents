@@ -34,6 +34,17 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102070958/fs-cycler-landing-probe-68f7079eb8af.cjs
   ref: file:explicit:bcf92583e130ba24ca6dd32d
   source_path: /tmp/fs-cycler-landing-probe.cjs
+- bead: bob-cli-fs.8.1
+  kind: file
+  label: Cycler landing six failing probes with 25 existing wiring passes
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102070958/fs-cycler-landing-probe-e007d9e9b695.log
+  ref: file:explicit:f1a7a88d67cb76f8a82fbe6d
+  source_path: /tmp/fs-cycler-landing-probe.log
+- kind: file
+  label: Cycler landing existing unrelated plugin test failures
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102070958/fs-unrelated-tests-3d34a801f4d5.log
+  ref: file:explicit:793fe12a35ddf65729ac6f00
+  source_path: /tmp/fs-unrelated-tests.log
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
