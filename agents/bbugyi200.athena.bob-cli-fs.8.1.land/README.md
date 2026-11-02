@@ -13,10 +13,30 @@
 - Provider: codex
 - Timing: 20261102070958
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-fs.8.1, kind: file, label: Cycler landing regression probes for bob-cli-fs.8.1, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261102070958/fs-cycler-landing-probe-68… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-fs.8.1
+  kind: file
+  label: Cycler landing regression probes for bob-cli-fs.8.1
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102070958/fs-cycler-landing-probe-68f7079eb8af.cjs
+  ref: file:explicit:bcf92583e130ba24ca6dd32d
+  source_path: /tmp/fs-cycler-landing-probe.cjs
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
