@@ -2,22 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-fv](../../users/bbugyi200/machines/athena/hoods/bob-cli-fv/README.md) / bob-cli-fv.8
 
-**Global name:** `bbugyi200.athena.bob-cli-fv.8` · **State:** waiting · **Source run:** `run-3416f994457f3ec62920d89b1f5b6dc0`
+**Global name:** `bbugyi200.athena.bob-cli-fv.8` · **State:** completed · **Source run:** `run-b03f5dfc1a5d36717e55025407b3a62a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-fv
 
 ## Summary
 
 - Bead: [bob-cli-fv.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fv/bob-cli-fv.8.md)
-- Epic: [bob-cli-fv](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fv/README.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261102093035
-- Commits: 0
+- Timing: 2026-11-02T21:07:13.526099+00:00 → 2026-11-02T21:22:48.071602+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`30d3120`](https://github.com/bobs-org/bob-cli/commit/30d312095ab2a009e635d2b51fb1697d49885970) | docs(gcal): record description ownership and join-link exception | 2026-11-02 16:22:23 EST |
 
 ## Neighbors
 
