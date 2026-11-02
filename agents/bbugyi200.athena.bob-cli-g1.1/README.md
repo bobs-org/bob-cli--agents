@@ -31,4 +31,4 @@
 |---|---|---|
 | [bob-cli-g1.2](../../sessions/bbugyi200.athena.bob-cli-g1.2.md) (session · 9) | bob-cli-g1 hood | completed 5, failed 4 |
 | [bob-cli-g1.3](../bbugyi200.athena.bob-cli-g1.3/README.md) | bob-cli-g1 hood | completed |
-| [bob-cli-g1.land](../bbugyi200.athena.bob-cli-g1.land/README.md) | bob-cli-g1 hood | waiting |
+| [bob-cli-g1.land](../../sessions/bbugyi200.athena.bob-cli-g1.land.md) (session · 2) | bob-cli-g1 hood | active 2 |
