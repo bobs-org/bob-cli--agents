@@ -67,5 +67,5 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-fs.8.1.4](../bbugyi200.athena.bob-cli-fs.8.1.4/README.md) | bob-cli-fs hood | completed |
 | [bob-cli-fs.8.1.land](../../sessions/bbugyi200.athena.bob-cli-fs.8.1.land.md) (session · 3) | bob-cli-fs hood | completed 1, failed 2 |
 | [bob-cli-fs.8.1.land](../bbugyi200.athena.bob-cli-fs.8.1.land/README.md) | bob-cli-fs hood | completed |
-| [bob-cli-fs.9](../bbugyi200.athena.bob-cli-fs.9/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.9](../bbugyi200.athena.bob-cli-fs.9/README.md) | bob-cli-fs hood | completed |
 | [bob-cli-fs.land](../bbugyi200.athena.bob-cli-fs.land/README.md) | bob-cli-fs hood | waiting |
