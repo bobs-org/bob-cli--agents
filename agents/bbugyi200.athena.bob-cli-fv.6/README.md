@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-fv](../../users/bbugyi200/machines/athena/hoods/bob-cli-fv/README.md) / bob-cli-fv.6
 
-**Global name:** `bbugyi200.athena.bob-cli-fv.6` · **State:** waiting · **Source run:** `run-8f1d0eab4a0858c0cba19d01b1d69032`
+**Global name:** `bbugyi200.athena.bob-cli-fv.6` · **State:** completed · **Source run:** `run-8f1d0eab4a0858c0cba19d01b1d69032`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-fv
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-fv](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fv/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261102093033
-- Commits: 0
+- Timing: 2026-11-02T16:32:09.803652+00:00 → 2026-11-02T17:12:46.597218+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`db4e8a8`](https://github.com/bobs-org/bob-cli/commit/db4e8a8aa3aeca27647ff0b36780190317fa895d) | feat(gcal): write event descriptions as Event Task bullets at birth | 2026-11-02 12:12:20 EST |
 
 ## Neighbors
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8f1d0eab4a0858c0cba19d01b1d69032"}
+{"commits":[{"committed_at":1793639540,"sha":"db4e8a8aa3aeca27647ff0b36780190317fa895d","subject":"feat(gcal): write event descriptions as Event Task bullets at birth"}],"schema_version":2,"source_run_id":"run-8f1d0eab4a0858c0cba19d01b1d69032"}

@@ -37,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-fv.3](../agents/bbugyi200.athena.bob-cli-fv.3/README.md) | bob-cli-fv hood | completed |
 | [bob-cli-fv.4](../agents/bbugyi200.athena.bob-cli-fv.4/README.md) | bob-cli-fv hood | completed |
 | [bob-cli-fv.5](bbugyi200.athena.bob-cli-fv.5.md) (session · 7) | bob-cli-fv hood | completed 6, failed 1 |
-| [bob-cli-fv.6](../agents/bbugyi200.athena.bob-cli-fv.6/README.md) | bob-cli-fv hood | waiting |
+| [bob-cli-fv.6](../agents/bbugyi200.athena.bob-cli-fv.6/README.md) | bob-cli-fv hood | completed |
 | [bob-cli-fv.7](../agents/bbugyi200.athena.bob-cli-fv.7/README.md) | bob-cli-fv hood | waiting |
 | [bob-cli-fv.8](../agents/bbugyi200.athena.bob-cli-fv.8/README.md) | bob-cli-fv hood | waiting |
 | [bob-cli-fv.land](../agents/bbugyi200.athena.bob-cli-fv.land/README.md) | bob-cli-fv hood | waiting |
