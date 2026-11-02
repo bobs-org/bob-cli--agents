@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ft](../../users/bbugyi200/machines/athena/hoods/bob-cli-ft/README.md) / bob-cli-ft.5
 
-**Global name:** `bbugyi200.athena.bob-cli-ft.5` · **State:** waiting · **Source run:** `run-1392148ada06af580f5bf56a31c93696`
+**Global name:** `bbugyi200.athena.bob-cli-ft.5` · **State:** completed · **Source run:** `run-1392148ada06af580f5bf56a31c93696`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ft
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ft](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ft/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261102063005
-- Commits: 0
+- Timing: 2026-11-02T17:17:59.648123+00:00 → 2026-11-02T18:07:53.696934+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8c7e710`](https://github.com/bobs-org/bob-cli/commit/8c7e710306d0e49b52376e5d6d85f52dfd73f722) | docs(blocked-marks): record Tasks query CSS-only marks | 2026-11-02 13:07:06 EST |
 
 ## Neighbors
 
