@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `research` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["research.5o.linker.w0--gate [active]"]
+  n0["research.5o.linker.w0--gate [completed]"]
   n1["research.5o.linker.w0--plan [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | research.5o.linker.w0--gate | active | opus / claude | 2026-11-02T14:26:48.352005+00:00 | 0 | — | — |
+| <a id="member-gate"></a>gate | research.5o.linker.w0--gate | completed | opus / claude | 2026-11-02T14:28:22.227266+00:00 → 2026-11-02T14:28:39.092627+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.5o.linker.w0--gate/chat.md) |
 | <a id="member-plan"></a>plan | research.5o.linker.w0--plan | completed | opus / claude | 2026-11-02T14:08:31.347183+00:00 → 2026-11-02T14:26:50.085909+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.5o.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.5o.linker.w0--plan/chat.md) |
 
 ## Neighbors
