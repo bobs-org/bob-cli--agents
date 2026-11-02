@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / [bob-cli-fs.4.1.6](../../sessions/bbugyi200.athena.bob-cli-fs.4.1.6.md) / bob-cli-fs.4.1.6--5
 
-**Global name:** `bbugyi200.athena.bob-cli-fs.4.1.6--5` · **State:** active · **Source run:** `run-bd132709ab1020de3b0476abf8b4a2d4`
+**Global name:** `bbugyi200.athena.bob-cli-fs.4.1.6--5` · **State:** completed · **Source run:** `run-bd132709ab1020de3b0476abf8b4a2d4`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-fs
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-fs.4.1.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.4.1.6.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261102173732
-- Commits: 0
+- Timing: 2026-11-02T22:39:17.043499+00:00 → 2026-11-02T22:52:13.395500+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c20263c`](https://github.com/bobs-org/bob-cli/commit/c20263c6f0f3b4f2a720641a1ae579c5c9b68489) | fix(capture): skip previous-daily relation sources by relative path | 2026-11-02 17:51:45 EST |
 
 ## Neighbors
 

@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["bob-cli-fs.4.1.6--4 [completed]"]
   n0 --> n5
-  n6["bob-cli-fs.4.1.6--5 [active]"]
+  n6["bob-cli-fs.4.1.6--5 [completed]"]
   n0 --> n6
   n7["bob-cli-fs.4.1.6--1 [completed]"]
   n0 --> n7
@@ -41,11 +41,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | bob-cli-fs.4.1.6--mon-0 | failed | gpt-6-luna / codex | 2026-11-02T21:44:00.848923+00:00 → 2026-11-02T21:49:21.251986+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--mon-0/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-fs.4.1.6--mon-1 | completed | gpt-6-luna / codex | 2026-11-02T21:52:38.333497+00:00 → 2026-11-02T21:56:25.650593+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--mon-1/chat.md) |
 | <a id="member-4"></a>4 | bob-cli-fs.4.1.6--4 | completed | grok-4.6 / grok | 2026-11-02T22:08:12.768724+00:00 → 2026-11-02T22:31:50.305965+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--4/chat.md) |
-| <a id="member-5"></a>5 | bob-cli-fs.4.1.6--5 | active | grok-4.6 / grok | 20261102173732 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--5/prompt.md) | — |
+| <a id="member-5"></a>5 | bob-cli-fs.4.1.6--5 | completed | grok-4.6 / grok | 2026-11-02T22:39:17.043499+00:00 → 2026-11-02T22:52:13.395500+00:00 | [1](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--5/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--5/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-fs.4.1.6--1 | completed | gpt-6-luna / codex | 2026-11-02T21:33:15.873002+00:00 → 2026-11-02T21:44:08.447023+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--1/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-fs.4.1.6--mon-2 | failed | grok-4.6 / grok | 2026-11-02T22:03:23.697314+00:00 → 2026-11-02T22:07:24.406847+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--mon-2/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-fs.4.1.6--mon | failed | gpt-6-luna / codex | 2026-11-02T21:28:25.072558+00:00 → 2026-11-02T21:31:48.232597+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--mon/chat.md) |
 | <a id="member-3"></a>3 | bob-cli-fs.4.1.6--3 | completed | grok-4.6 / grok | 2026-11-02T21:57:27.298548+00:00 → 2026-11-02T22:03:30.101417+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.6--3/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 5 | bob-cli | [`c20263c`](https://github.com/bobs-org/bob-cli/commit/c20263c6f0f3b4f2a720641a1ae579c5c9b68489) | fix(capture): skip previous-daily relation sources by relative path | 2026-11-02 17:51:45 EST |
 
 ## Neighbors
 
