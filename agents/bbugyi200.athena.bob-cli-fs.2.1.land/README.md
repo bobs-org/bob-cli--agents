@@ -34,6 +34,12 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102063249/land_audit_relation_probes-698a50e9a49f.rs
   ref: file:explicit:02f513efcf6d714094b172c0
   source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/land_audit_relation_probes.rs
+- bead: bob-cli-fs.2.1
+  kind: file
+  label: Four confirmed relation core landing failures at cb729a76
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102063249/land_audit_relation_probes-61be22d4fa97.log
+  ref: file:explicit:ed01e90996e17bd9acfc75b6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/land_audit_relation_probes.log
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
