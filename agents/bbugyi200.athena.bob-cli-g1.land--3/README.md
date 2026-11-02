@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-g1](../../users/bbugyi200/machines/athena/hoods/bob-cli-g1/README.md) / [bob-cli-g1.land](../../sessions/bbugyi200.athena.bob-cli-g1.land.md) / bob-cli-g1.land--3
 
-**Global name:** `bbugyi200.athena.bob-cli-g1.land--3` · **State:** active · **Source run:** `run-137e33cec311308fd5fca23b4e24e264`
+**Global name:** `bbugyi200.athena.bob-cli-g1.land--3` · **State:** completed · **Source run:** `run-137e33cec311308fd5fca23b4e24e264`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-g1
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-g1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-g1/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-02T21:25:18.466415+00:00
+- Timing: 2026-11-02T21:25:18.466415+00:00 → 2026-11-02T21:31:39.354597+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

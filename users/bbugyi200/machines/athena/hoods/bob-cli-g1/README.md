@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-g1
 
-**Global hood:** `bbugyi200.athena.bob-cli-g1` · **Runs:** 20 · **Sessions:** 2 · **States:** active 1, completed 14, failed 5
+**Global hood:** `bbugyi200.athena.bob-cli-g1` · **Runs:** 20 · **Sessions:** 2 · **States:** completed 15, failed 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-g1.land--mon-0](../../../../../../sessions/bbugyi200.athena.bob-cli-g1.land.md#member-mon-0) | failed | gpt-6-luna / codex | 2026-11-02T20:57:34.130829+00:00 → 2026-11-02T21:03:46.103360+00:00 | 0 | — |
-| [bob-cli-g1.land--3](../../../../../../sessions/bbugyi200.athena.bob-cli-g1.land.md#member-3) | active | grok-4.6 / grok | 2026-11-02T21:25:18.466415+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-g1.land--3/prompt.md) |
+| [bob-cli-g1.land--3](../../../../../../sessions/bbugyi200.athena.bob-cli-g1.land.md#member-3) | completed | grok-4.6 / grok | 2026-11-02T21:25:18.466415+00:00 → 2026-11-02T21:31:39.354597+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-g1.land--3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-g1.land--3/chat.md) |
 | [bob-cli-g1.land--2](../../../../../../sessions/bbugyi200.athena.bob-cli-g1.land.md#member-2) | completed | grok-4.6 / grok | 2026-11-02T21:04:36.155705+00:00 → 2026-11-02T21:14:55.206200+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-g1.land--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-g1.land--2/chat.md) |
 | [bob-cli-g1.2--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-g1.2.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-02T18:14:55.430598+00:00 → 2026-11-02T19:01:18.592757+00:00 | 0 | — |
 | [bob-cli-g1.land--code](../../../../../../sessions/bbugyi200.athena.bob-cli-g1.land.md#member-code) | completed | gpt-6-luna / codex | 2026-11-02T20:44:47.698333+00:00 → 2026-11-02T20:52:50.459346+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-g1.land--code/chat.md) |
