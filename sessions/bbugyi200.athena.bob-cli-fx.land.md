@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-fx` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-fx.land--gate [completed]"]
-  n1["bob-cli-fx.land--plan [active]"]
+  n1["bob-cli-fx.land--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-fx.land--code [active]"]
+  n2["bob-cli-fx.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-fx.land--gate | completed | gpt-6-astra / codex | 2026-11-02T16:24:17.634574+00:00 → 2026-11-02T16:24:37.158529+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fx.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-fx.land--plan | active | gpt-6-astra / codex | 2026-11-02T16:08:39.729149+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fx.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fx.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-fx.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-02T16:24:57.175802+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-fx.land--plan | completed | gpt-6-astra / codex | 2026-11-02T16:08:39.729149+00:00 → 2026-11-02T16:50:44.291167+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fx.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fx.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-fx.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-02T16:24:57.175802+00:00 → 2026-11-02T16:50:44.291167+00:00 | 0 | — | — |
 
 ## Variables
 
