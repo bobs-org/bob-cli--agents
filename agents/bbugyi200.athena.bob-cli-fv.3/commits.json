@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ca5df81ed53894f94a1947dbb883c9b5"}
+{"commits":[{"committed_at":1793633512,"sha":"35c0a39a9f7c5b909db517b4aa94e0d67eff869d","subject":"feat(gcal): parse calendar descriptions into structured lines"}],"schema_version":2,"source_run_id":"run-ca5df81ed53894f94a1947dbb883c9b5"}
