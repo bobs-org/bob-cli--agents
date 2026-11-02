@@ -40,6 +40,11 @@
 | [bob-cli-fs.5](../bbugyi200.athena.bob-cli-fs.5/README.md) | bob-cli-fs hood | waiting |
 | [bob-cli-fs.6](../bbugyi200.athena.bob-cli-fs.6/README.md) | bob-cli-fs hood | completed |
 | [bob-cli-fs.7](../bbugyi200.athena.bob-cli-fs.7/README.md) | bob-cli-fs hood | completed |
-| [bob-cli-fs.8](../bbugyi200.athena.bob-cli-fs.8/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.8](../../sessions/bbugyi200.athena.bob-cli-fs.8.md) (session · 3) | bob-cli-fs hood | active 1, completed 2 |
+| [bob-cli-fs.8.1.1](../bbugyi200.athena.bob-cli-fs.8.1.1/README.md) | bob-cli-fs hood | completed |
+| [bob-cli-fs.8.1.2](../bbugyi200.athena.bob-cli-fs.8.1.2/README.md) | bob-cli-fs hood | active |
+| [bob-cli-fs.8.1.3](../bbugyi200.athena.bob-cli-fs.8.1.3/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.8.1.4](../bbugyi200.athena.bob-cli-fs.8.1.4/README.md) | bob-cli-fs hood | waiting |
+| [bob-cli-fs.8.1.land](../bbugyi200.athena.bob-cli-fs.8.1.land/README.md) | bob-cli-fs hood | waiting |
 | [bob-cli-fs.9](../bbugyi200.athena.bob-cli-fs.9/README.md) | bob-cli-fs hood | waiting |
 | [bob-cli-fs.land](../bbugyi200.athena.bob-cli-fs.land/README.md) | bob-cli-fs hood | waiting |
