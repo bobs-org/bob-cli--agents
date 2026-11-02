@@ -12,7 +12,7 @@
 - Provider: codex
 - Timing: 20261101183903
 - Commits: 0
-- Variables: [1](#variables)
+- Variables: [2](#variables)
 
 ## Files
 
@@ -23,6 +23,7 @@
 | Variable | Value |
 |---|---|
 | `artifacts` | \[{kind: image, label: image:202611/blocked\_reason\_marks/blocked\_reason\_marks\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101183903/blocked\_reason\_marks\_infogra… |
+| `diagrams` | {considered: 12, count: 0, reason: The one nonduplicative candidate explained Blocked-to-Ready recovery lag. Mermaid CLI 12.0.0 passed smoke, initial render, batch and invalid-syntax checks; its revi… |
 
 #### artifacts
 
@@ -32,6 +33,16 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101183903/blocked_reason_marks_infographic-24facd99fe37.png
   ref: file:explicit:e4723d8ec819858a989805a1
   source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/blocked_reason_marks/blocked_reason_marks_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 0
+reason: The one nonduplicative candidate explained Blocked-to-Ready recovery lag. Mermaid CLI 12.0.0 passed smoke, initial render, batch and invalid-syntax checks; its revised SVG fit at 100%, but revised PNG export timed out after 90 seconds without a Puppeteer connection error. Visual review could not complete, so no manifest was written or registered.
+source_ref: file:explicit:1ca3470f0bb7c6f09fcbc2c3
+status: failed
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
