@@ -55,6 +55,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-fs.4.1.4](../agents/bbugyi200.athena.bob-cli-fs.4.1.4/README.md) | bob-cli-fs hood | active |
 | [bob-cli-fs.4.1.5](../agents/bbugyi200.athena.bob-cli-fs.4.1.5/README.md) | bob-cli-fs hood | active |
 | [bob-cli-fs.4.1.6](../agents/bbugyi200.athena.bob-cli-fs.4.1.6/README.md) | bob-cli-fs hood | active |
+| [bob-cli-fs.4.1.land](../agents/bbugyi200.athena.bob-cli-fs.4.1.land/README.md) | bob-cli-fs hood | waiting |
 | [bob-cli-fs.5](../agents/bbugyi200.athena.bob-cli-fs.5/README.md) | bob-cli-fs hood | waiting |
 | [bob-cli-fs.6](../agents/bbugyi200.athena.bob-cli-fs.6/README.md) | bob-cli-fs hood | completed |
 | [bob-cli-fs.7](../agents/bbugyi200.athena.bob-cli-fs.7/README.md) | bob-cli-fs hood | completed |
