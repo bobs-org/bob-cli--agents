@@ -27,7 +27,7 @@
 | [bob-cli-ft.3.1.2](../../sessions/bbugyi200.athena.bob-cli-ft.3.1.2.md) (session · 5) | descendant | completed 3, failed 2 |
 | [bob-cli-ft.3.1.3](../bbugyi200.athena.bob-cli-ft.3.1.3/README.md) | descendant | completed |
 | [bob-cli-ft.3.1.4](../bbugyi200.athena.bob-cli-ft.3.1.4/README.md) | descendant | completed |
-| [bob-cli-ft.3.1.land](../bbugyi200.athena.bob-cli-ft.3.1.land/README.md) | descendant | waiting |
+| [bob-cli-ft.3.1.land](../../sessions/bbugyi200.athena.bob-cli-ft.3.1.land.md) (session · 5) | descendant | completed 5 |
 | [bob-cli-ft.1](../bbugyi200.athena.bob-cli-ft.1/README.md) | bob-cli-ft hood | completed |
 | [bob-cli-ft.2](../bbugyi200.athena.bob-cli-ft.2/README.md) | bob-cli-ft hood | completed |
 | [bob-cli-ft.4](../bbugyi200.athena.bob-cli-ft.4/README.md) | bob-cli-ft hood | waiting |
