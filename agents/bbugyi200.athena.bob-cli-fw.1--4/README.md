@@ -29,4 +29,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-fw.2](../bbugyi200.athena.bob-cli-fw.2/README.md) | bob-cli-fw hood | completed |
-| [bob-cli-fw.land](../bbugyi200.athena.bob-cli-fw.land/README.md) | bob-cli-fw hood | waiting |
+| [bob-cli-fw.land](../../sessions/bbugyi200.athena.bob-cli-fw.land.md) (session · 3) | bob-cli-fw hood | completed 3 |
