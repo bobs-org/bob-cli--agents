@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5m.linker](../bbugyi200.athena.research.5m.linker/README.md) | ancestor | waiting |
+| [research.5m.linker](../bbugyi200.athena.research.5m.linker/README.md) | ancestor | completed |
 | [research.5m.cdx](../bbugyi200.athena.research.5m.cdx/README.md) | research.5m hood | completed |
 | [research.5m.cld](../bbugyi200.athena.research.5m.cld/README.md) | research.5m hood | completed |
 | [research.5m.final](../bbugyi200.athena.research.5m.final/README.md) | research.5m hood | completed |
