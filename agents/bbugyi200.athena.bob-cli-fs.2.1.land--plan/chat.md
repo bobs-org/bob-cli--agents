@@ -1,22 +1,17 @@
 # Chat History - ace-run (bob-cli-fs.2.1.land--plan)
 
-- **TIMESTAMP:** 2026-11-02 09:10:16 EST
-- **MODEL:** codex/gpt-6-astra
+- **TIMESTAMP:** 2026-11-02 11:04:33 EST
+- **MODEL:** claude/opus
 - **AGENT:** bob-cli-fs.2.1.land--plan
 
-## Linked Chats
-
-- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_fs_2_1_land__plan-261102_063249.md`
-- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_fs_2_1_land__code-261102_063249.md`
-
-**Plan:** /home/bryan/.sase/plans/202611/relation_successor_core_closeout.md
+**Plan:** /home/bryan/.sase/plans/202611/relation_successor_core_residual.md
 
 
 ## Prompt
 
-#gh:gh_bobs-org__bob-cli
 %id(land, clan=bob-cli-fs.2.1, bead=bob-cli-fs.2.1)
-%model:@large
+#gh:gh_bobs-org__bob-cli
+%m:@xlarge 
 %auto
 %w(bob-cli-fs.2.1.1,bob-cli-fs.2.1.2,bob-cli-fs.2.1.3, for_epic=false)
 %w(bead=bob-cli-fs.2.1.1)
@@ -94,18 +89,18 @@ and report it in your final response.
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202611/relation_successor_core_closeout.md`
+**Plan file:** `/home/bryan/.sase/plans/202611/relation_successor_core_residual.md`
 
-> - **PARENT:** [202611/relation_successor_core.md](202611/relation_successor_core.md)
 > - **BEAD:** bob-cli-fs.2.1
 > # Finish the relation-successor core and land bob-cli-fs.2.1
-> Repair only the gaps found while landing `bob-cli-fs.2.1`, then finish its landing and
-> close its parent phase `bob-cli-fs.2` in this same coding turn. This is one bounded
-> implementation across the existing classifier/planner seam, its tests, and shared
-> fixture parity; it needs one coder, not another phased epic.
-> ## Context and constraints
-> Read `bob-cli-fs.2.1` and its three children with `sase bead read`, and read
-> `plan:202611/relation_successor_core.md` and `plan:202611/starts_after_relation.md` with
+> This tale finishes landing child epic `bob-cli-fs.2.1`, the Rust relation-successor core
+> for phase `bob-cli-fs.2` of `bob-cli-fs` (starts-after relations). All three phases are
+> closed. The first closeout tale (`plan:202611/relation_successor_core_closeout.md`,
+> commit `98bfec6a`) fixed four regressions and is only partly done. A fresh land re-audit
+> at bob-cli `cba88d0d` confirmed in source that the items below are still open. They are
+> epic work, not follow-ups. One coding agent implements them, and that agent also
+> performs the closeout at the end. No later lander exists, and nothing resumes this
+> landing.
 
 *See full plan file for details.*
 
