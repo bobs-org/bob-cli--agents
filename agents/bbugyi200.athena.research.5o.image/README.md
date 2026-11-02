@@ -12,10 +12,45 @@
 - Provider: codex
 - Timing: 20261102080145
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/gcal\_event\_description\_notes/gcal\_event\_description\_notes.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261102080145/gcal\_event… |
+| `diagrams` | {considered: 14, count: 2, manifest: 202611/gcal\_event\_description\_notes/gcal\_event\_description\_notes.diagrams.md, source\_ref: file:explicit:9b14be4538ae451b397432db, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/gcal_event_description_notes/gcal_event_description_notes.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102080145/gcal_event_description_notes.diagrams-cd6690649c14.md
+  ref: file:explicit:8dfe508ee864a567694f1b87
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202611/gcal_event_description_notes/gcal_event_description_notes.diagrams.md
+- kind: image
+  label: infographic:202611/gcal_event_description_notes/gcal_event_description_notes_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102080145/gcal_event_description_notes_infographic-6875bc17aca7.png
+  ref: file:explicit:b65e123168b66509fbead731
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202611/gcal_event_description_notes/gcal_event_description_notes_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 2
+manifest: 202611/gcal_event_description_notes/gcal_event_description_notes.diagrams.md
+source_ref: file:explicit:9b14be4538ae451b397432db
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
