@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-fs.8](../../sessions/bbugyi200.athena.bob-cli-fs.8.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-fs.8.1.1](../bbugyi200.athena.bob-cli-fs.8.1.1/README.md) | bob-cli-fs.8.1 hood | completed |
-| [bob-cli-fs.8.1.2](../bbugyi200.athena.bob-cli-fs.8.1.2/README.md) | bob-cli-fs.8.1 hood | active |
+| [bob-cli-fs.8.1.2](../bbugyi200.athena.bob-cli-fs.8.1.2/README.md) | bob-cli-fs.8.1 hood | completed |
 | [bob-cli-fs.8.1.4](../bbugyi200.athena.bob-cli-fs.8.1.4/README.md) | bob-cli-fs.8.1 hood | waiting |
 | [bob-cli-fs.8.1.land](../bbugyi200.athena.bob-cli-fs.8.1.land/README.md) | bob-cli-fs.8.1 hood | waiting |
 | [bob-cli-fs.1](../../sessions/bbugyi200.athena.bob-cli-fs.1.md) (session · 3) | bob-cli-fs hood | completed 3 |

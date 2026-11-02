@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-11-02T13:02:55.168236+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/google\_calendar\_description\_snapshots\_and\_task\_drawers\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261102080139/google\_calendar\_d… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/google_calendar_description_snapshots_and_task_drawers__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102080139/google_calendar_description_snapshots_and_task_drawers__cdx-6f4fc183b79a.md
+  ref: file:explicit:21a3ce7691c5c8b7c0b00582
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_19/sase/repos/research/202611/google_calendar_description_snapshots_and_task_drawers__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
