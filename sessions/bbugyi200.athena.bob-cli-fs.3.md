@@ -2,21 +2,24 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / bob-cli-fs.3
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 2 · Bead: [bob-cli-fs.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.3.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 3 · Bead: [bob-cli-fs.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.3.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-fs.3--mon [failed]"]
-  n1["bob-cli-fs.3--plan [completed]"]
+  n0["bob-cli-fs.3--1 [active]"]
+  n1["bob-cli-fs.3--mon [failed]"]
   n0 --> n1
+  n2["bob-cli-fs.3--plan [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
+| <a id="member-1"></a>1 | bob-cli-fs.3--1 | active | gpt-6-luna / codex | 2026-11-02T17:31:11.179537+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.3--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | bob-cli-fs.3--mon | failed | gpt-6-luna / codex | 2026-11-02T17:27:54.651198+00:00 → 2026-11-02T17:30:31.827422+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-fs.3--plan | completed | gpt-6-luna / codex | 2026-11-02T17:16:56.503001+00:00 → 2026-11-02T17:28:01.167004+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.3--plan/chat.md) |
 
