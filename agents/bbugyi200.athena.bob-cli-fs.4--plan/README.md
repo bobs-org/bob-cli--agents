@@ -23,6 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-fs.4.1.1](../bbugyi200.athena.bob-cli-fs.4.1.1/README.md) | descendant | active |
+| [bob-cli-fs.4.1.2](../bbugyi200.athena.bob-cli-fs.4.1.2/README.md) | descendant | active |
 | [bob-cli-fs.1](../../sessions/bbugyi200.athena.bob-cli-fs.1.md) (session · 3) | bob-cli-fs hood | completed 3 |
 | [bob-cli-fs.10](../bbugyi200.athena.bob-cli-fs.10/README.md) | bob-cli-fs hood | waiting |
 | [bob-cli-fs.11](../bbugyi200.athena.bob-cli-fs.11/README.md) | bob-cli-fs hood | waiting |
