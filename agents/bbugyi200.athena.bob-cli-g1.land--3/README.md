@@ -12,11 +12,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-11-02T21:25:18.466415+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`4422abc`](https://github.com/bobs-org/bob-cli/commit/4422abcce2b8b972b96c860830ccbd3a1b1af1be) | docs(frees-marks): record measured live-verification timings | 2026-11-02 16:30:36 EST |
 
 ## Neighbors
 

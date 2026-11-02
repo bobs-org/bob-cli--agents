@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon-0"></a>mon-0 | bob-cli-g1.land--mon-0 | failed | gpt-6-luna / codex | 2026-11-02T20:57:34.130829+00:00 → 2026-11-02T21:03:46.103360+00:00 | 0 | — | — |
-| <a id="member-3"></a>3 | bob-cli-g1.land--3 | active | grok-4.6 / grok | 2026-11-02T21:25:18.466415+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.land--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-g1.land--3 | active | grok-4.6 / grok | 2026-11-02T21:25:18.466415+00:00 | [1](../agents/bbugyi200.athena.bob-cli-g1.land--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.land--3/prompt.md) | — |
 | <a id="member-2"></a>2 | bob-cli-g1.land--2 | completed | grok-4.6 / grok | 2026-11-02T21:04:36.155705+00:00 → 2026-11-02T21:14:55.206200+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-g1.land--2/chat.md) |
 | <a id="member-code"></a>code | bob-cli-g1.land--code | completed | gpt-6-luna / codex | 2026-11-02T20:44:47.698333+00:00 → 2026-11-02T20:52:50.459346+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-g1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-g1.land--gate | completed | gpt-6-astra / codex | 2026-11-02T20:43:55.879851+00:00 → 2026-11-02T20:44:18.787594+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-g1.land--gate/chat.md) |
@@ -40,6 +40,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | bob-cli-g1.land--mon | completed | gpt-6-luna / codex | 2026-11-02T20:52:41.557687+00:00 → 2026-11-02T20:54:26.769931+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-g1.land--mon/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-g1.land--1 | completed | gpt-6-luna / codex | 2026-11-02T20:55:23.576476+00:00 → 2026-11-02T20:57:40.641998+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-g1.land--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-g1.land--plan | completed | gpt-6-astra / codex | 2026-11-02T20:31:32.430527+00:00 → 2026-11-02T20:52:50.459346+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-g1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 3 | bob-cli | [`4422abc`](https://github.com/bobs-org/bob-cli/commit/4422abcce2b8b972b96c860830ccbd3a1b1af1be) | docs(frees-marks): record measured live-verification timings | 2026-11-02 16:30:36 EST |
 
 ## Variables
 
