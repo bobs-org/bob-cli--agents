@@ -2,23 +2,26 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / bob-cli-fs.4.1.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 2 · Bead: [bob-cli-fs.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.4.1.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 3 · Bead: [bob-cli-fs.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.4.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-fs.4.1.land--gate [active]"]
+  n0["bob-cli-fs.4.1.land--gate [completed]"]
   n1["bob-cli-fs.4.1.land--plan [active]"]
   n0 --> n1
+  n2["bob-cli-fs.4.1.land--code [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | bob-cli-fs.4.1.land--gate | active | opus / claude | 2026-11-02T23:13:02.634518+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-fs.4.1.land--plan | active | opus / claude | 2026-11-02T22:52:30.923833+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--plan/prompt.md) | — |
+| <a id="member-gate"></a>gate | bob-cli-fs.4.1.land--gate | completed | opus / claude | 2026-11-02T23:13:02.634518+00:00 → 2026-11-02T23:13:29.846402+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--gate/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-fs.4.1.land--plan | active | opus / claude | 2026-11-02T22:52:30.923833+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-fs.4.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-02T23:13:59.315599+00:00 | 0 | — | — |
 
 ## Neighbors
 
