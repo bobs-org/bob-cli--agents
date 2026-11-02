@@ -2,47 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / [bob-cli-fs.2.1.land](../../sessions/bbugyi200.athena.bob-cli-fs.2.1.land.md) / bob-cli-fs.2.1.land--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-fs.2.1.land--plan` · **State:** completed · **Source run:** `run-874d7f934d0b841cbb50290eb0b7c590`
+**Global name:** `bbugyi200.athena.bob-cli-fs.2.1.land--plan` · **State:** active · **Source run:** `run-104940c48354960f82a0191d6bdfc9f0`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-fs
 
 ## Summary
 
 - Bead: [bob-cli-fs.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.2.1.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 2026-11-02T13:50:16.990672+00:00 → 2026-11-02T14:29:25.364206+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-02T15:51:45.203540+00:00
 - Commits: 0
-- Variables: [1](#variables)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
-
-## Variables
-
-| Variable | Value |
-|---|---|
-| `artifacts` | \[{bead: bob-cli-fs.2.1, kind: file, label: Relation core landing regression probes at cb729a76, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261102063249/land\_audit\_relation\_probes… |
-
-#### artifacts
-
-```yaml
-- bead: bob-cli-fs.2.1
-  kind: file
-  label: Relation core landing regression probes at cb729a76
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102063249/land_audit_relation_probes-698a50e9a49f.rs
-  ref: file:explicit:02f513efcf6d714094b172c0
-  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/land_audit_relation_probes.rs
-- bead: bob-cli-fs.2.1
-  kind: file
-  label: Four confirmed relation core landing failures at cb729a76
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261102063249/land_audit_relation_probes-61be22d4fa97.log
-  ref: file:explicit:ed01e90996e17bd9acfc75b6
-  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/land_audit_relation_probes.log
-```
-
-Values are truncated for display; see [meta.json](meta.json) for the full values.
+[Prompt](prompt.md)
 
 ## Neighbors
 
