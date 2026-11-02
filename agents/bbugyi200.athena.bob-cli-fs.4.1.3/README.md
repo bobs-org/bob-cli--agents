@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 20261102123054
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`690f006`](https://github.com/bobs-org/bob-cli/commit/690f006a9ca85cb219b07f05c63f3d0f2644f02b) | feat(capture): plan parked successors on pomodoro close | 2026-11-02 15:00:11 EST |
 
 ## Neighbors
 
