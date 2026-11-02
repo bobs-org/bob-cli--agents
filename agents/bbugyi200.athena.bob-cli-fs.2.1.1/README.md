@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / bob-cli-fs.2.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-fs.2.1.1` · **State:** active · **Source run:** `run-1df7570607ffef6380499f8bb1fcb955`
+**Global name:** `bbugyi200.athena.bob-cli-fs.2.1.1` · **State:** completed · **Source run:** `run-1df7570607ffef6380499f8bb1fcb955`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-fs
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-fs.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.2.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-02T11:33:51.764967+00:00
-- Commits: 0
+- Timing: 2026-11-02T11:33:51.764967+00:00 → 2026-11-02T12:01:23.015915+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c3a2e62`](https://github.com/bobs-org/bob-cli/commit/c3a2e62acdec4ca22dc740038862ce5648156461) | feat(task-relations): add successor-label policy and shared copy | 2026-11-02 07:00:54 EST |
 
 ## Neighbors
 
