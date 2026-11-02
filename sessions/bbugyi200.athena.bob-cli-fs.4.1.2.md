@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["bob-cli-fs.4.1.2--1 [completed]"]
   n0 --> n2
-  n3["bob-cli-fs.4.1.2--mon-0 [active]"]
+  n3["bob-cli-fs.4.1.2--mon-0 [completed]"]
   n0 --> n3
 ```
 
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | bob-cli-fs.4.1.2--plan | completed | grok-4.6 / grok | 2026-11-02T18:18:19.219237+00:00 → 2026-11-02T18:54:14.295387+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-fs.4.1.2--mon | failed | grok-4.6 / grok | 2026-11-02T18:54:08.666155+00:00 → 2026-11-02T18:58:39.607167+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--mon/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-fs.4.1.2--1 | completed | grok-4.6 / grok | 2026-11-02T18:59:26.856940+00:00 → 2026-11-02T19:09:24.359970+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--1/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | bob-cli-fs.4.1.2--mon-0 | active | grok-4.6 / grok | 2026-11-02T19:09:17.315092+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-fs.4.1.2--mon-0 | completed | grok-4.6 / grok | 2026-11-02T19:09:17.315092+00:00 → 2026-11-02T19:16:57.551374+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.2--mon-0/chat.md) |
 
 ## Neighbors
 
