@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 20261101183902
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/blocked\_reason\_marks/blocked\_reason\_marks\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261101183902/blocked\_reason\_marks\_\_final-… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/blocked_reason_marks/blocked_reason_marks__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261101183902/blocked_reason_marks__final-ff71946ad3a8.md
+  ref: file:explicit:1ca3470f0bb7c6f09fcbc2c3
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/blocked_reason_marks/blocked_reason_marks__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
