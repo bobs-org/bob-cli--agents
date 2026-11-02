@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / [bob-cli-fs.4.1.1](../../sessions/bbugyi200.athena.bob-cli-fs.4.1.1.md) / bob-cli-fs.4.1.1--2
 
-**Global name:** `bbugyi200.athena.bob-cli-fs.4.1.1--2` · **State:** active · **Source run:** `run-9ee5c5bd025ef4bbb3cdd59e693af942`
+**Global name:** `bbugyi200.athena.bob-cli-fs.4.1.1--2` · **State:** completed · **Source run:** `run-9ee5c5bd025ef4bbb3cdd59e693af942`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-fs
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-fs.4.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.4.1.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-02T18:01:30.633218+00:00
-- Commits: 0
+- Timing: 2026-11-02T18:01:30.633218+00:00 → 2026-11-02T18:17:40.090634+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`30ae6ac`](https://github.com/bobs-org/bob-cli/commit/30ae6ac9786b58eeb5086cd1c6fea9ce808d55fe) | feat(capture): share lazy relation source snapshots | 2026-11-02 13:16:29 EST |
 
 ## Neighbors
 

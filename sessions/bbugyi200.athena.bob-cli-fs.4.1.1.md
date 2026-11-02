@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["bob-cli-fs.4.1.1--1 [completed]"]
   n0 --> n2
-  n3["bob-cli-fs.4.1.1--2 [active]"]
+  n3["bob-cli-fs.4.1.1--2 [completed]"]
   n0 --> n3
   n4["bob-cli-fs.4.1.1--plan [completed]"]
   n0 --> n4
@@ -26,8 +26,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | bob-cli-fs.4.1.1--mon-0 | failed | gpt-6-luna / codex | 2026-11-02T17:56:38.796207+00:00 → 2026-11-02T18:00:09.533326+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.1--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-fs.4.1.1--mon | completed | gpt-6-luna / codex | 2026-11-02T17:48:21.394380+00:00 → 2026-11-02T17:52:03.896678+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.1--mon/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-fs.4.1.1--1 | completed | gpt-6-luna / codex | 2026-11-02T17:52:41.177018+00:00 → 2026-11-02T17:56:46.867787+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.1--1/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-fs.4.1.1--2 | active | gpt-6-luna / codex | 2026-11-02T18:01:30.633218+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.1--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-fs.4.1.1--2 | completed | gpt-6-luna / codex | 2026-11-02T18:01:30.633218+00:00 → 2026-11-02T18:17:40.090634+00:00 | [1](../agents/bbugyi200.athena.bob-cli-fs.4.1.1--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.1--2/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-fs.4.1.1--plan | completed | gpt-6-luna / codex | 2026-11-02T17:32:00.372169+00:00 → 2026-11-02T17:48:28.294086+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.4.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.4.1.1--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | bob-cli | [`30ae6ac`](https://github.com/bobs-org/bob-cli/commit/30ae6ac9786b58eeb5086cd1c6fea9ce808d55fe) | feat(capture): share lazy relation source snapshots | 2026-11-02 13:16:29 EST |
 
 ## Neighbors
 
