@@ -23,4 +23,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-fx.1](../bbugyi200.athena.bob-cli-fx.1/README.md) | bob-cli-fx hood | completed |
-| [bob-cli-fx.2](../bbugyi200.athena.bob-cli-fx.2/README.md) | bob-cli-fx hood | waiting |
+| [bob-cli-fx.2](../../sessions/bbugyi200.athena.bob-cli-fx.2.md) (session · 5) | bob-cli-fx hood | completed 3, failed 2 |
