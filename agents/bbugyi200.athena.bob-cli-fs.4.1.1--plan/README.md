@@ -28,7 +28,7 @@
 | [bob-cli-fs.4.1.3](../bbugyi200.athena.bob-cli-fs.4.1.3/README.md) | bob-cli-fs.4.1 hood | completed |
 | [bob-cli-fs.4.1.4](../bbugyi200.athena.bob-cli-fs.4.1.4/README.md) | bob-cli-fs.4.1 hood | completed |
 | [bob-cli-fs.4.1.5](../bbugyi200.athena.bob-cli-fs.4.1.5/README.md) | bob-cli-fs.4.1 hood | completed |
-| [bob-cli-fs.4.1.6](../../sessions/bbugyi200.athena.bob-cli-fs.4.1.6.md) (session · 10) | bob-cli-fs.4.1 hood | active 1, completed 6, failed 3 |
+| [bob-cli-fs.4.1.6](../../sessions/bbugyi200.athena.bob-cli-fs.4.1.6.md) (session · 11) | bob-cli-fs.4.1 hood | active 1, completed 7, failed 3 |
 | [bob-cli-fs.4.1.land](../bbugyi200.athena.bob-cli-fs.4.1.land/README.md) | bob-cli-fs.4.1 hood | waiting |
 | [bob-cli-fs.1](../../sessions/bbugyi200.athena.bob-cli-fs.1.md) (session · 3) | bob-cli-fs hood | completed 3 |
 | [bob-cli-fs.10](../bbugyi200.athena.bob-cli-fs.10/README.md) | bob-cli-fs hood | waiting |
