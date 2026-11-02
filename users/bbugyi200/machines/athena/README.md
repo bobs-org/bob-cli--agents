@@ -509,7 +509,7 @@
 | [bob-cli-eg](hoods/bob-cli-eg/README.md) | 11 | 3 | completed 8, failed 3 |
 | [bob-cli-er](hoods/bob-cli-er/README.md) | 15 | 3 | completed 10, failed 5 |
 | [bob-cli-f5](hoods/bob-cli-f5/README.md) | 10 | 2 | completed 7, failed 3 |
-| [bob-cli-fs](hoods/bob-cli-fs/README.md) | 48 | 8 | active 9, completed 30, failed 3, waiting 6 |
+| [bob-cli-fs](hoods/bob-cli-fs/README.md) | 48 | 8 | active 8, completed 30, failed 4, waiting 6 |
 | [bob-cli-ft](hoods/bob-cli-ft/README.md) | 24 | 3 | active 1, completed 17, failed 2, waiting 4 |
 | [bob-cli-fv](hoods/bob-cli-fv/README.md) | 17 | 2 | completed 13, failed 1, waiting 3 |
 | [bob-cli-fw](hoods/bob-cli-fw/README.md) | 13 | 2 | completed 10, failed 3 |
