@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-fs.8](bbugyi200.athena.bob-cli-fs.8.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-fs.8.1.1](../agents/bbugyi200.athena.bob-cli-fs.8.1.1/README.md) | bob-cli-fs.8.1 hood | completed |
 | [bob-cli-fs.8.1.2](../agents/bbugyi200.athena.bob-cli-fs.8.1.2/README.md) | bob-cli-fs.8.1 hood | completed |
-| [bob-cli-fs.8.1.4](../agents/bbugyi200.athena.bob-cli-fs.8.1.4/README.md) | bob-cli-fs.8.1 hood | waiting |
+| [bob-cli-fs.8.1.4](../agents/bbugyi200.athena.bob-cli-fs.8.1.4/README.md) | bob-cli-fs.8.1 hood | completed |
 | [bob-cli-fs.8.1.land](../agents/bbugyi200.athena.bob-cli-fs.8.1.land/README.md) | bob-cli-fs.8.1 hood | waiting |
 | [bob-cli-fs.1](bbugyi200.athena.bob-cli-fs.1.md) (session · 3) | bob-cli-fs hood | completed 3 |
 | [bob-cli-fs.10](../agents/bbugyi200.athena.bob-cli-fs.10/README.md) | bob-cli-fs hood | waiting |
