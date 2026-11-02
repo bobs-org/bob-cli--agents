@@ -2,23 +2,26 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-g1](../users/bbugyi200/machines/athena/hoods/bob-cli-g1/README.md) / bob-cli-g1.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-g1` · Members: 2 · Bead: [bob-cli-g1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-g1/README.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-g1` · Members: 3 · Bead: [bob-cli-g1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-g1/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-g1.land--gate [active]"]
-  n1["bob-cli-g1.land--plan [active]"]
+  n0["bob-cli-g1.land--code [active]"]
+  n1["bob-cli-g1.land--gate [completed]"]
   n0 --> n1
+  n2["bob-cli-g1.land--plan [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | bob-cli-g1.land--gate | active | gpt-6-astra / codex | 2026-11-02T20:43:55.050286+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-g1.land--plan | active | gpt-6-astra / codex | 2026-11-02T20:31:32.430527+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.land--plan/prompt.md) | — |
+| <a id="member-code"></a>code | bob-cli-g1.land--code | active | gpt-6-luna / codex | 2026-11-02T20:44:47.698333+00:00 | 0 | — | — |
+| <a id="member-gate"></a>gate | bob-cli-g1.land--gate | completed | gpt-6-astra / codex | 2026-11-02T20:43:55.879851+00:00 → 2026-11-02T20:44:18.787594+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-g1.land--gate/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-g1.land--plan | active | gpt-6-astra / codex | 2026-11-02T20:31:32.430527+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-g1.land--plan/chat.md) |
 
 ## Variables
 
