@@ -49,9 +49,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-4"></a>4 | bob-cli-fs.land--4 | completed | grok-4.6 / grok | 2026-11-03T05:27:59.562674+00:00 → 2026-11-03T05:32:26.530564+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--4/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | bob-cli-fs.land--mon-3 | completed | grok-4.6 / grok | 2026-11-03T05:32:13.493882+00:00 → 2026-11-03T05:40:15.584774+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--mon-3/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-fs.land--2 | completed | grok-4.6 / grok | 2026-11-03T04:11:06.306462+00:00 → 2026-11-03T05:06:56.522554+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--2/chat.md) |
-| <a id="member-5"></a>5 | bob-cli-fs.land--5 | active | grok-4.6 / grok | 20261103003915 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--5/prompt.md) | — |
+| <a id="member-5"></a>5 | bob-cli-fs.land--5 | active | grok-4.6 / grok | 20261103003915 | [1](../agents/bbugyi200.athena.bob-cli-fs.land--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--5/prompt.md) | — |
 | <a id="member-3"></a>3 | bob-cli-fs.land--3 | completed | grok-4.6 / grok | 2026-11-03T05:14:48.800276+00:00 → 2026-11-03T05:25:35.457721+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--3/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-fs.land--1 | completed | gpt-6-luna / codex | 2026-11-03T04:04:50.253431+00:00 → 2026-11-03T04:06:47.418743+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 5 | bob-cli | [`65a12f0`](https://github.com/bobs-org/bob-cli/commit/65a12f0aa7694ffc04859de557ccee033a88d2e6) | perf(capture): narrow starts-after relation-source reads on capture close | 2026-11-03 00:43:33 EST |
 
 ## Neighbors
 

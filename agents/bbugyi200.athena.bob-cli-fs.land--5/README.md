@@ -12,11 +12,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 20261103003915
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`65a12f0`](https://github.com/bobs-org/bob-cli/commit/65a12f0aa7694ffc04859de557ccee033a88d2e6) | perf(capture): narrow starts-after relation-source reads on capture close | 2026-11-03 00:43:33 EST |
 
 ## Neighbors
 
