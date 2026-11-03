@@ -22,3 +22,9 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | bob-cli | [`e74f4f0`](https://github.com/bobs-org/bob-cli/commit/e74f4f08fc92f27842a7339967fd6b993078ff09) | fix(capture): remove duplicate note pull initializer | 2026-11-03 15:18:39 EST |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [17p.f0](../../sessions/bbugyi200.athena.17p.f0.md) (session · 5) | descendant | completed 5 |

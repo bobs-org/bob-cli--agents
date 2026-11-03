@@ -1,0 +1,69 @@
+%queue(weight=1)
+#fork:17p.f0--code
+%model:gpt-6-luna@high
+
+%macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+set -eu
+cargo check --all-targets --locked
+cargo fmt --all -- --check
+cargo test --lib native::capture
+install_root="$(mktemp -d)"
+RUSTC_WRAPPER= cargo install --path . --locked --profile local-install --root "$install_root"
+"$install_root/bin/bob" --help
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_26
+```
+
+| | |
+| --- | --- |
+| **Outcome** | COMPLETED — exit 0 |
+| **Started** | 2026-11-03T20:59:09.686732+00:00 |
+| **Finished** | 2026-11-03T21:05:46.940757Z |
+| **Elapsed** | 6m 11s of a 45m 0s budget |
+| **Output** | 162 KiB · evidence refs: `file:monitor-diagnostic-manifest:h546b69x35v7`, `file:monitor-retained-log:h546b69x35v7` · raw output omitted: `facts_only` · full log: `sase monitor show h546b69x35v7 --all-lines` |
+| **Tool run** | sase tool show 36db0edcb9e33654216beaf06ef2a2bc |
+
+**Why this was monitored:** Run the approved restore_note_pull_initializer verification
+
+## Continuation checkpoint
+
+- **Ref:** `local:continuation/checkpoints/monitor_start-c2de77dc92317217.json`
+
+**Checkpoint (JSON):**
+
+```text
+{
+  "kind": "monitor_start",
+  "payload": {
+    "command": "set -eu\ncargo check --all-targets --locked\ncargo fmt --all -- --check\ncargo test --lib native::capture\ninstall_root=\"$(mktemp -d)\"\nRUSTC_WRAPPER= cargo install --path . --locked --profile local-install --root \"$install_root\"\n\"$install_root/bin/bob\" --help",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_26",
+    "member_agent_name": "17p.f0--mon",
+    "monitor_id": "h546b69x35v7",
+    "next_output": "auto",
+    "parent_node_ids": [
+      "agent-delta:20261103154512:46b0491209d44cfa"
+    ],
+    "project_name": "gh_bobs-org__bob-cli",
+    "request_fingerprint": "sha256:c8ce1e2a2366dfbd35850d677ce2862d454f6b4ed3621132f84fbbd3594ab564",
+    "starter_agent": "17p.f0--code",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/03/20261103155557"
+  },
+  "recorded_at_epoch": 1793739576.1111565,
+  "schema_version": 1
+}
+```
+
+
+## Your next action
+
+Read the verification outcome. If every requested check passes, inspect the workspace diff and report completion. If a check fails, diagnose and report the failure without making unrelated fixes; make only a directly necessary in-scope repair, rerun affected checks, then report.
+%macros_enabled:true
