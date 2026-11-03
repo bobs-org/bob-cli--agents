@@ -84,4 +84,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-fs.6](../bbugyi200.athena.bob-cli-fs.6/README.md) | bob-cli-fs hood | completed |
 | [bob-cli-fs.7](../bbugyi200.athena.bob-cli-fs.7/README.md) | bob-cli-fs hood | completed |
 | [bob-cli-fs.9](../bbugyi200.athena.bob-cli-fs.9/README.md) | bob-cli-fs hood | completed |
-| [bob-cli-fs.land](../../sessions/bbugyi200.athena.bob-cli-fs.land.md) (session · 6) | bob-cli-fs hood | active 1, completed 5 |
+| [bob-cli-fs.land](../../sessions/bbugyi200.athena.bob-cli-fs.land.md) (session · 6) | bob-cli-fs hood | completed 6 |

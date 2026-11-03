@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-fs.land--mon [completed]"]
   n1["bob-cli-fs.land--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-fs.land--mon-0 [active]"]
+  n2["bob-cli-fs.land--mon-0 [completed]"]
   n0 --> n2
   n3["bob-cli-fs.land--gate [completed]"]
   n0 --> n3
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-fs.land--mon | completed | gpt-6-luna / codex | 2026-11-03T04:02:04.479975+00:00 → 2026-11-03T04:04:01.863703+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-fs.land--plan | completed | opus / claude | 2026-11-03T03:36:32.347900+00:00 → 2026-11-03T04:02:11.414544+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--plan/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | bob-cli-fs.land--mon-0 | active | gpt-6-luna / codex | 2026-11-03T04:06:40.575812+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-fs.land--mon-0 | completed | gpt-6-luna / codex | 2026-11-03T04:06:40.575812+00:00 → 2026-11-03T04:10:20.887515+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--mon-0/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-fs.land--gate | completed | opus / claude | 2026-11-03T03:59:00.884955+00:00 → 2026-11-03T03:59:22.675632+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--gate/chat.md) |
 | <a id="member-code"></a>code | bob-cli-fs.land--code | completed | gpt-6-luna / codex | 2026-11-03T03:59:51.064670+00:00 → 2026-11-03T04:02:11.414544+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--code/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-fs.land--1 | completed | gpt-6-luna / codex | 2026-11-03T04:04:50.253431+00:00 → 2026-11-03T04:06:47.418743+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--1/chat.md) |
