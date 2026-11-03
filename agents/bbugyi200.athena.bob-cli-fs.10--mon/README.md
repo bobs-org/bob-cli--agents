@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / [bob-cli-fs.10](../../sessions/bbugyi200.athena.bob-cli-fs.10.md) / bob-cli-fs.10--mon
 
-**Global name:** `bbugyi200.athena.bob-cli-fs.10--mon` · **State:** active · **Source run:** `run-352ed768e70edd91c7ddabc01b65e2ed`
+**Global name:** `bbugyi200.athena.bob-cli-fs.10--mon` · **State:** completed · **Source run:** `run-352ed768e70edd91c7ddabc01b65e2ed`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-fs
 
@@ -12,13 +12,18 @@
 - Epic: [bob-cli-fs](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-03T00:46:01.563405+00:00
+- Timing: 2026-11-03T00:46:01.563405+00:00 → 2026-11-03T00:48:22.565951+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-fs.10.1.1](../bbugyi200.athena.bob-cli-fs.10.1.1/README.md) | descendant | active |
 | [bob-cli-fs.1](../../sessions/bbugyi200.athena.bob-cli-fs.1.md) (session · 3) | bob-cli-fs hood | completed 3 |
 | [bob-cli-fs.11](../bbugyi200.athena.bob-cli-fs.11/README.md) | bob-cli-fs hood | waiting |
 | [bob-cli-fs.2](../../sessions/bbugyi200.athena.bob-cli-fs.2.md) (session · 3) | bob-cli-fs hood | active 1, completed 2 |
