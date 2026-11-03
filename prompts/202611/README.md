@@ -12,6 +12,7 @@
 | [175.md](175.md) | %queue(weight=1) #fork:175--code %model:muse-spark-1.3-contributor@xhigh | - | [bbugyi200.athena.175](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.175.md) | 0 |
 | [179.md](179.md) | %queue(weight=1) #fork:179--1 %model:grok-4.6@medium | - | [bbugyi200.athena.179](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.179.md) | 0 |
 | [17c.md](17c.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202611/refs_copy_picker_scope.md][1] | - | [bbugyi200.athena.17c](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.17c.md) | 1 |
+| [17h.f0.md](17h.f0.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202611/highlights_ctrl_i_forward.md][1] | - | [bbugyi200.athena.17h.f0](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.17h.f0.md) | 1 |
 | [17h.md](17h.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202611/highlights_page_keys.md][1] | - | [bbugyi200.athena.17h](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.17h.md) | 1 |
 | [17i.md](17i.md) | %model:@medium #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.17i](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.17i.md) | 1 |
 | [17j.md](17j.md) | %model:@small #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.17j](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.17j.md) | 1 |

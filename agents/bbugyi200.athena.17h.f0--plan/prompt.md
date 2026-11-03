@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:17h Can you now help me add a new `<ctrl+i>` keymap that jumps forward in the stack? #plan %m:@xlarge
