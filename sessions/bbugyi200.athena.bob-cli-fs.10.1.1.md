@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 4 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-fs.10.1.1--1 [completed]"]
-  n1["bob-cli-fs.10.1.1--mon-0 [active]"]
+  n1["bob-cli-fs.10.1.1--mon-0 [completed]"]
   n0 --> n1
   n2["bob-cli-fs.10.1.1--mon [failed]"]
   n0 --> n2
@@ -22,7 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | bob-cli-fs.10.1.1--1 | completed | gpt-6-luna / codex | 2026-11-03T01:00:11.063307+00:00 → 2026-11-03T01:05:07.500513+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--1/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | bob-cli-fs.10.1.1--mon-0 | active | gpt-6-luna / codex | 2026-11-03T01:05:00.541206+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-fs.10.1.1--mon-0 | completed | gpt-6-luna / codex | 2026-11-03T01:05:00.541206+00:00 → 2026-11-03T01:08:43.012575+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-fs.10.1.1--mon | failed | gpt-6-luna / codex | 2026-11-03T00:55:43.031406+00:00 → 2026-11-03T00:59:25.061924+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-fs.10.1.1--plan | completed | gpt-6-luna / codex | 2026-11-03T00:48:28.152646+00:00 → 2026-11-03T00:55:50.114490+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--plan/chat.md) |
 
