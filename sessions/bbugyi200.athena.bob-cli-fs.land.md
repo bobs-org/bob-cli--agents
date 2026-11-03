@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["bob-cli-fs.land--code [completed]"]
   n0 --> n5
-  n6["bob-cli-fs.land--2 [active]"]
+  n6["bob-cli-fs.land--2 [completed]"]
   n0 --> n6
   n7["bob-cli-fs.land--1 [completed]"]
   n0 --> n7
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | bob-cli-fs.land--mon-0 | completed | gpt-6-luna / codex | 2026-11-03T04:06:40.575812+00:00 → 2026-11-03T04:10:20.887515+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--mon-0/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-fs.land--gate | completed | opus / claude | 2026-11-03T03:59:00.884955+00:00 → 2026-11-03T03:59:22.675632+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--gate/chat.md) |
 | <a id="member-code"></a>code | bob-cli-fs.land--code | completed | gpt-6-luna / codex | 2026-11-03T03:59:51.064670+00:00 → 2026-11-03T04:02:11.414544+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--code/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-fs.land--2 | active | grok-4.6 / grok | 2026-11-03T04:11:06.306462+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--2/chat.md) |
+| <a id="member-2"></a>2 | bob-cli-fs.land--2 | completed | grok-4.6 / grok | 2026-11-03T04:11:06.306462+00:00 → 2026-11-03T05:06:56.522554+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--2/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-fs.land--1 | completed | gpt-6-luna / codex | 2026-11-03T04:04:50.253431+00:00 → 2026-11-03T04:06:47.418743+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--1/chat.md) |
 
 ## Neighbors

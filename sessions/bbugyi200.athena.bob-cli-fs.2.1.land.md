@@ -65,4 +65,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-fs.8.1.land](bbugyi200.athena.bob-cli-fs.8.1.land.md) (session · 3) | bob-cli-fs hood | completed 1, failed 2 |
 | [bob-cli-fs.8.1.land](../agents/bbugyi200.athena.bob-cli-fs.8.1.land/README.md) | bob-cli-fs hood | completed |
 | [bob-cli-fs.9](../agents/bbugyi200.athena.bob-cli-fs.9/README.md) | bob-cli-fs hood | completed |
-| [bob-cli-fs.land](bbugyi200.athena.bob-cli-fs.land.md) (session · 8) | bob-cli-fs hood | active 2, completed 6 |
+| [bob-cli-fs.land](bbugyi200.athena.bob-cli-fs.land.md) (session · 8) | bob-cli-fs hood | active 1, completed 7 |
