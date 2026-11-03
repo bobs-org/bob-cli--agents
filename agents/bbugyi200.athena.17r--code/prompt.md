@@ -1,0 +1,11 @@
+%model:@medium
+#gh:gh_bobs-org__bob-cli @plan:202611/fix_bob_mac_capture_ci_4.md
+
+The above plan has been reviewed and approved. Implement it now.
+
+Reviewer decisions for this plan (final · reviewer via Telegram):
+- fixture_source = regenerate (planner default: regenerate). Implement the "fixture_source = regenerate" branch; ignore "fixture_source = hand_bump". Context: "Regenerate the real-bob directive fixtures from current bob instead of hand-editing their grammar?".
+- fake_bob_scope = all (planner default: all). Implement the "fake_bob_scope = all" branch; ignore "fake_bob_scope = failing_only". Context: "Move every inline fake-bob body that hard-codes grammar 3 to grammar 5?".
+- pull_in_order = product (planner default: product). Implement the "pull_in_order = product" branch; ignore "pull_in_order = test". Context: "Restore legacy Pull-In section order when Bob lists only some groups and sends no copy?".
+- line_case_undo = native (planner default: native). Implement the "line_case_undo = native" branch; ignore "line_case_undo = restore". Context: "Keep AppKit's native caret placement after undoing Ctrl-G U?".
+Implement only the branches selected above.
