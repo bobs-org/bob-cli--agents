@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fcbfacfb6d81be4ebbf2aa99f3502220"}
+{"commits":[{"committed_at":1793740445,"sha":"7de57d04abb5e53439b75b02563750f740d4d030","subject":"fix(periods): insert missing daily parent on migrate; drop duplicate note_pull field"}],"schema_version":2,"source_run_id":"run-fcbfacfb6d81be4ebbf2aa99f3502220"}
