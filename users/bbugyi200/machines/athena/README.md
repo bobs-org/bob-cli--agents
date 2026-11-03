@@ -525,7 +525,7 @@
 | [bob-cli-fw](hoods/bob-cli-fw/README.md) | 13 | 2 | completed 10, failed 3 |
 | [bob-cli-fx](hoods/bob-cli-fx/README.md) | 9 | 2 | completed 7, failed 2 |
 | [bob-cli-g1](hoods/bob-cli-g1/README.md) | 20 | 2 | completed 15, failed 5 |
-| [bob-cli-gh](hoods/bob-cli-gh/README.md) | 20 | 2 | completed 16, failed 3, waiting 1 |
+| [bob-cli-gh](hoods/bob-cli-gh/README.md) | 20 | 2 | completed 17, failed 3 |
 | [bob-cli-gj](hoods/bob-cli-gj/README.md) | 23 | 3 | active 1, completed 14, failed 5, waiting 3 |
 | [bob-cli-gm](hoods/bob-cli-gm/README.md) | 11 | 1 | active 2, completed 3, waiting 6 |
 | [bob-cli-gn](hoods/bob-cli-gn/README.md) | 6 | 1 | completed 4, waiting 2 |

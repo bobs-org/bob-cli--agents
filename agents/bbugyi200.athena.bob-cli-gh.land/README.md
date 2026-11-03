@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-gh](../../users/bbugyi200/machines/athena/hoods/bob-cli-gh/README.md) / bob-cli-gh.land
 
-**Global name:** `bbugyi200.athena.bob-cli-gh.land` · **State:** waiting · **Source run:** `run-7f997b3080eb62d2117fce7932d428d5`
+**Global name:** `bbugyi200.athena.bob-cli-gh.land` · **State:** completed · **Source run:** `run-1b2deb9b4e095a2522ad3fb69aed8fe9`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-gh
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-gh](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-gh/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261103110316
-- Commits: 0
+- Timing: 2026-11-03T21:35:14.645558+00:00 → 2026-11-03T22:43:33.923898+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`56d8dac`](https://github.com/bobs-org/bob-cli/commit/56d8dac3960b32fc68b92c4641c3f9b25a5fcac2) | fix(periods): accept brief -f md and fill frontmatter-only period stubs | 2026-11-03 17:36:21 EST |
 
 ## Neighbors
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7f997b3080eb62d2117fce7932d428d5"}
+{"commits":[{"committed_at":1793745381,"sha":"56d8dac3960b32fc68b92c4641c3f9b25a5fcac2","subject":"fix(periods): accept brief -f md and fill frontmatter-only period stubs"}],"schema_version":2,"source_run_id":"run-1b2deb9b4e095a2522ad3fb69aed8fe9"}

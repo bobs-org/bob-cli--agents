@@ -30,4 +30,4 @@
 | [bob-cli-gh.7](../bbugyi200.athena.bob-cli-gh.7/README.md) | bob-cli-gh hood | completed |
 | [bob-cli-gh.8](../bbugyi200.athena.bob-cli-gh.8/README.md) | bob-cli-gh hood | completed |
 | [bob-cli-gh.9](../bbugyi200.athena.bob-cli-gh.9/README.md) | bob-cli-gh hood | completed |
-| [bob-cli-gh.land](../bbugyi200.athena.bob-cli-gh.land/README.md) | bob-cli-gh hood | waiting |
+| [bob-cli-gh.land](../bbugyi200.athena.bob-cli-gh.land/README.md) | bob-cli-gh hood | completed |
