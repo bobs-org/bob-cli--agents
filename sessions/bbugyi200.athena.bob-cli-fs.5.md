@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 2 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-fs.5--mon [active]"]
+  n0["bob-cli-fs.5--mon [completed]"]
   n1["bob-cli-fs.5--plan [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-fs.5--mon | active | grok-4.6 / grok | 2026-11-03T00:20:00.207663+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-fs.5--mon | completed | grok-4.6 / grok | 2026-11-03T00:20:00.207663+00:00 → 2026-11-03T00:24:30.217818+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.5--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-fs.5--plan | completed | grok-4.6 / grok | 2026-11-02T23:58:10.140732+00:00 → 2026-11-03T00:20:19.472387+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.5--plan/chat.md) |
 
 ## Neighbors
