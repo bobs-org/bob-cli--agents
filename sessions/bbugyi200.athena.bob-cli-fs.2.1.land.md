@@ -27,6 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
+| — | bob-cli | [`98bfec6`](https://github.com/bobs-org/bob-cli/commit/98bfec6aca2a877b9bceccb2ce5c9dbd6aa39267) | feat(task-relations): repair relation-successor ordering, identity, and recovery regressions | 2026-11-02 09:28:30 EST |
 | code | bob-cli | [`fdc34de`](https://github.com/bobs-org/bob-cli/commit/fdc34de9bf82600e187ef8f6ebb66473fc4d2bbf) | fix(task-complete): finish relation successor core | 2026-11-02 12:17:57 EST |
 
 ## Neighbors
