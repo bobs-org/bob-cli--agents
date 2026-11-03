@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-58ffaa0e35d048347e0e095fd61df6f4"}
+{"commits":[{"committed_at":1793735697,"sha":"a95d5d8f0268c9f30cf7d2ff87d1145aca519a9f","subject":"feat(capture): batch note-pull planning with ownership and ordering"}],"schema_version":2,"source_run_id":"run-58ffaa0e35d048347e0e095fd61df6f4"}

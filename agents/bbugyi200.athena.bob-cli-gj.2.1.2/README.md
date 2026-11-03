@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-gj](../../users/bbugyi200/machines/athena/hoods/bob-cli-gj/README.md) / bob-cli-gj.2.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-gj.2.1.2` · **State:** active · **Source run:** `run-58ffaa0e35d048347e0e095fd61df6f4`
+**Global name:** `bbugyi200.athena.bob-cli-gj.2.1.2` · **State:** completed · **Source run:** `run-58ffaa0e35d048347e0e095fd61df6f4`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-gj
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-gj.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-gj/bob-cli-gj.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261103123350
-- Commits: 0
+- Timing: 2026-11-03T19:14:57.778401+00:00 → 2026-11-03T19:55:23.046675+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`a95d5d8`](https://github.com/bobs-org/bob-cli/commit/a95d5d8f0268c9f30cf7d2ff87d1145aca519a9f) | feat(capture): batch note-pull planning with ownership and ordering | 2026-11-03 14:54:57 EST |
 
 ## Neighbors
 
