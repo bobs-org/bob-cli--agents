@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-fs.5--mon | completed | grok-4.6 / grok | 2026-11-03T00:20:00.207663+00:00 → 2026-11-03T00:24:30.217818+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.5--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-fs.5--1 | active | grok-4.6 / grok | 2026-11-03T00:25:18.698650+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.5--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-fs.5--1 | active | grok-4.6 / grok | 2026-11-03T00:25:18.698650+00:00 | [1](../agents/bbugyi200.athena.bob-cli-fs.5--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.5--1/prompt.md) | — |
 | <a id="member-plan"></a>plan | bob-cli-fs.5--plan | completed | grok-4.6 / grok | 2026-11-02T23:58:10.140732+00:00 → 2026-11-03T00:20:19.472387+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.5--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | bob-cli | [`71907da`](https://github.com/bobs-org/bob-cli/commit/71907dab7ceb7dab45a401a700e7069cd767bc24) | feat(capture): offer relation successors on Pending unlink | 2026-11-02 19:36:19 EST |
 
 ## Neighbors
 
