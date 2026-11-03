@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / bob-cli-fs.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 11 · Bead: [bob-cli-fs](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/README.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 12 · Bead: [bob-cli-fs](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/README.md)
 
 ## Lineage
 
@@ -21,14 +21,16 @@ flowchart TD
   n0 --> n5
   n6["bob-cli-fs.land--code [completed]"]
   n0 --> n6
-  n7["bob-cli-fs.land--4 [active]"]
+  n7["bob-cli-fs.land--4 [completed]"]
   n0 --> n7
-  n8["bob-cli-fs.land--2 [completed]"]
+  n8["bob-cli-fs.land--mon-3 [active]"]
   n0 --> n8
-  n9["bob-cli-fs.land--3 [completed]"]
+  n9["bob-cli-fs.land--2 [completed]"]
   n0 --> n9
-  n10["bob-cli-fs.land--1 [completed]"]
+  n10["bob-cli-fs.land--3 [completed]"]
   n0 --> n10
+  n11["bob-cli-fs.land--1 [completed]"]
+  n0 --> n11
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -42,7 +44,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | bob-cli-fs.land--mon-0 | completed | gpt-6-luna / codex | 2026-11-03T04:06:40.575812+00:00 → 2026-11-03T04:10:20.887515+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--mon-0/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-fs.land--gate | completed | opus / claude | 2026-11-03T03:59:00.884955+00:00 → 2026-11-03T03:59:22.675632+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--gate/chat.md) |
 | <a id="member-code"></a>code | bob-cli-fs.land--code | completed | gpt-6-luna / codex | 2026-11-03T03:59:51.064670+00:00 → 2026-11-03T04:02:11.414544+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--code/chat.md) |
-| <a id="member-4"></a>4 | bob-cli-fs.land--4 | active | grok-4.6 / grok | 2026-11-03T05:27:59.562674+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--4/prompt.md) | — |
+| <a id="member-4"></a>4 | bob-cli-fs.land--4 | completed | grok-4.6 / grok | 2026-11-03T05:27:59.562674+00:00 → 2026-11-03T05:32:26.530564+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--4/chat.md) |
+| <a id="member-mon-3"></a>mon-3 | bob-cli-fs.land--mon-3 | active | grok-4.6 / grok | 2026-11-03T05:32:13.493882+00:00 | 0 | — | — |
 | <a id="member-2"></a>2 | bob-cli-fs.land--2 | completed | grok-4.6 / grok | 2026-11-03T04:11:06.306462+00:00 → 2026-11-03T05:06:56.522554+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--2/chat.md) |
 | <a id="member-3"></a>3 | bob-cli-fs.land--3 | completed | grok-4.6 / grok | 2026-11-03T05:14:48.800276+00:00 → 2026-11-03T05:25:35.457721+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--3/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-fs.land--1 | completed | gpt-6-luna / codex | 2026-11-03T04:04:50.253431+00:00 → 2026-11-03T04:06:47.418743+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--1/chat.md) |
