@@ -2,15 +2,17 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / bob-cli-fs.5
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 2 · Bead: [bob-cli-fs.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.5.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 3 · Bead: [bob-cli-fs.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/bob-cli-fs.5.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["bob-cli-fs.5--mon [completed]"]
-  n1["bob-cli-fs.5--plan [completed]"]
+  n1["bob-cli-fs.5--1 [active]"]
   n0 --> n1
+  n2["bob-cli-fs.5--plan [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -18,6 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-fs.5--mon | completed | grok-4.6 / grok | 2026-11-03T00:20:00.207663+00:00 → 2026-11-03T00:24:30.217818+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.5--mon/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-fs.5--1 | active | grok-4.6 / grok | 2026-11-03T00:25:18.698650+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.5--1/prompt.md) | — |
 | <a id="member-plan"></a>plan | bob-cli-fs.5--plan | completed | grok-4.6 / grok | 2026-11-02T23:58:10.140732+00:00 → 2026-11-03T00:20:19.472387+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.5--plan/chat.md) |
 
 ## Neighbors
