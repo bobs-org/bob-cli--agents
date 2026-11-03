@@ -2,23 +2,26 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-fs](../users/bbugyi200/machines/athena/hoods/bob-cli-fs/README.md) / bob-cli-fs.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 2 · Bead: [bob-cli-fs](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/README.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-fs` · Members: 3 · Bead: [bob-cli-fs](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-fs/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["bob-cli-fs.land--plan [active]"]
-  n1["bob-cli-fs.land--gate [active]"]
+  n1["bob-cli-fs.land--gate [completed]"]
   n0 --> n1
+  n2["bob-cli-fs.land--code [active]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-fs.land--plan | active | opus / claude | 2026-11-03T03:36:32.347900+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--plan/prompt.md) | — |
-| <a id="member-gate"></a>gate | bob-cli-fs.land--gate | active | opus / claude | 2026-11-03T03:58:59.974146+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-fs.land--plan | active | opus / claude | 2026-11-03T03:36:32.347900+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--plan/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-fs.land--gate | completed | opus / claude | 2026-11-03T03:59:00.884955+00:00 → 2026-11-03T03:59:22.675632+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.land--gate/chat.md) |
+| <a id="member-code"></a>code | bob-cli-fs.land--code | active | gpt-6-luna / codex | 2026-11-03T03:59:51.064670+00:00 | 0 | — | — |
 
 ## Neighbors
 
