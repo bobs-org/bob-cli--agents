@@ -1,0 +1,9 @@
+%model:@medium
+#gh:gh_bobs-org__bob-cli @plan:202611/highlights_page_keys.md
+
+The above plan has been reviewed and approved. Implement it now.
+
+Reviewer decisions for this plan (final · reviewer via ACE):
+- ctrl_o_history = stack (planner default: stack). Implement the "ctrl_o_history = stack" branch; ignore "ctrl_o_history = toggle". Context: "Should repeated ⌃O keep walking back through older jumps, like Vim's jump list?".
+- success_alert = quiet (planner default: quiet). Implement the "success_alert = quiet" branch; ignore "success_alert = alert". Context: "Should each successful jump also flash a \"Page N of M\" alert?".
+Implement only the branches selected above.
