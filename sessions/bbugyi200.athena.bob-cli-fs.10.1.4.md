@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-fs.10.1.1](bbugyi200.athena.bob-cli-fs.10.1.1.md) (session · 7) | bob-cli-fs.10.1 hood | completed 6, failed 1 |
 | [bob-cli-fs.10.1.2](../agents/bbugyi200.athena.bob-cli-fs.10.1.2/README.md) | bob-cli-fs.10.1 hood | completed |
 | [bob-cli-fs.10.1.3](../agents/bbugyi200.athena.bob-cli-fs.10.1.3/README.md) | bob-cli-fs.10.1 hood | completed |
-| [bob-cli-fs.10.1.land](bbugyi200.athena.bob-cli-fs.10.1.land.md) (session · 3) | bob-cli-fs.10.1 hood | active 2, completed 1 |
+| [bob-cli-fs.10.1.land](bbugyi200.athena.bob-cli-fs.10.1.land.md) (session · 3) | bob-cli-fs.10.1 hood | completed 3 |
 | [bob-cli-fs.1](bbugyi200.athena.bob-cli-fs.1.md) (session · 3) | bob-cli-fs hood | completed 3 |
 | [bob-cli-fs.11](../agents/bbugyi200.athena.bob-cli-fs.11/README.md) | bob-cli-fs hood | waiting |
 | [bob-cli-fs.2](bbugyi200.athena.bob-cli-fs.2.md) (session · 3) | bob-cli-fs hood | active 1, completed 2 |
