@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-gj.2.1.1](../bbugyi200.athena.bob-cli-gj.2.1.1/README.md) | descendant | completed |
 | [bob-cli-gj.2.1.2](../bbugyi200.athena.bob-cli-gj.2.1.2/README.md) | descendant | completed |
-| [bob-cli-gj.2.1.3](../bbugyi200.athena.bob-cli-gj.2.1.3/README.md) | descendant | waiting |
+| [bob-cli-gj.2.1.3](../bbugyi200.athena.bob-cli-gj.2.1.3/README.md) | descendant | completed |
 | [bob-cli-gj.2.1.4](../bbugyi200.athena.bob-cli-gj.2.1.4/README.md) | descendant | waiting |
 | [bob-cli-gj.2.1.land](../bbugyi200.athena.bob-cli-gj.2.1.land/README.md) | descendant | waiting |
 | [bob-cli-gj.1](../../sessions/bbugyi200.athena.bob-cli-gj.1.md) (session · 5) | bob-cli-gj hood | completed 4, failed 1 |
