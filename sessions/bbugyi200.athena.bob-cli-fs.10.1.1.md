@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["bob-cli-fs.10.1.1--mon [failed]"]
   n0 --> n3
-  n4["bob-cli-fs.10.1.1--mon-1 [active]"]
+  n4["bob-cli-fs.10.1.1--mon-1 [completed]"]
   n0 --> n4
   n5["bob-cli-fs.10.1.1--plan [completed]"]
   n0 --> n5
@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-2"></a>2 | bob-cli-fs.10.1.1--2 | completed | gpt-6-luna / codex | 2026-11-03T01:09:19.317273+00:00 → 2026-11-03T01:11:07.676323+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-fs.10.1.1--mon-0 | completed | gpt-6-luna / codex | 2026-11-03T01:05:00.541206+00:00 → 2026-11-03T01:08:43.012575+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-fs.10.1.1--mon | failed | gpt-6-luna / codex | 2026-11-03T00:55:43.031406+00:00 → 2026-11-03T00:59:25.061924+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--mon/chat.md) |
-| <a id="member-mon-1"></a>mon-1 | bob-cli-fs.10.1.1--mon-1 | active | gpt-6-luna / codex | 2026-11-03T01:11:01.024548+00:00 | 0 | — | — |
+| <a id="member-mon-1"></a>mon-1 | bob-cli-fs.10.1.1--mon-1 | completed | gpt-6-luna / codex | 2026-11-03T01:11:01.024548+00:00 → 2026-11-03T01:14:31.537951+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--mon-1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-fs.10.1.1--plan | completed | gpt-6-luna / codex | 2026-11-03T00:48:28.152646+00:00 → 2026-11-03T00:55:50.114490+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.10.1.1--plan/chat.md) |
 
 ## Neighbors
