@@ -2,21 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-gj](../../users/bbugyi200/machines/athena/hoods/bob-cli-gj/README.md) / bob-cli-gj.land
 
-**Global name:** `bbugyi200.athena.bob-cli-gj.land` · **State:** waiting · **Source run:** `run-1ab7c92edf0bb894730111cd6ad6d5f9`
+**Global name:** `bbugyi200.athena.bob-cli-gj.land` · **State:** completed · **Source run:** `run-f9deeb8239af87e135dfd36a8feeaaba`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-gj
 
 ## Summary
 
 - Bead: [bob-cli-gj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-gj/README.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 20261103115847
-- Commits: 0
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-04T15:49:39.935034+00:00 → 2026-11-04T16:27:01.508764+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`bd56f1c`](https://github.com/bobs-org/bob-cli/commit/bd56f1cc82eba1d4ea0027d9038be4ea89d09698) | fix(capture): keep note-pull groups on their requested source after moves | 2026-11-04 11:26:08 EST |
 
 ## Neighbors
 
