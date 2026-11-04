@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-gm](../../users/bbugyi200/machines/athena/hoods/bob-cli-gm/README.md) / bob-cli-gm.3
 
-**Global name:** `bbugyi200.athena.bob-cli-gm.3` · **State:** waiting · **Source run:** `run-30fbede4a872a1472315a369bdd934c2`
+**Global name:** `bbugyi200.athena.bob-cli-gm.3` · **State:** completed · **Source run:** `run-30fbede4a872a1472315a369bdd934c2`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-gm
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-gm](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-gm/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261103135729
-- Commits: 0
+- Timing: 2026-11-04T02:12:24.281702+00:00 → 2026-11-04T03:00:19.517352+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`d19a8d9`](https://github.com/bobs-org/bob-cli/commit/d19a8d92f9641416d936697445deb19086af851c) | feat(capture): complete and rewrite inside target runs | 2026-11-03 21:59:49 EST |
 
 ## Neighbors
 
