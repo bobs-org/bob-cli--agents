@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-gj](../../users/bbugyi200/machines/athena/hoods/bob-cli-gj/README.md) / [bob-cli-gj.2.1.land](../../sessions/bbugyi200.athena.bob-cli-gj.2.1.land.md) / bob-cli-gj.2.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-gj.2.1.land--code` · **State:** completed · **Source run:** `run-2fd074cfaa3606133ceba69009ed2d1b`
+**Global name:** `bbugyi200.athena.bob-cli-gj.2.1.land--code` · **State:** completed · **Source run:** `run-e13242e51f66a3d159f9874474198585`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-gj
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-gj.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-gj/bob-cli-gj.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-03T22:41:26.007179+00:00 → 2026-11-03T23:33:29.886064+00:00
+- Timing: 2026-11-04T12:30:13.739712+00:00 → 2026-11-04T14:44:53.892294+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4db3200`](https://github.com/bobs-org/bob-cli/commit/4db3200cd6367c43a252322b66e3c6652e8a7295) | fix(capture)!: finish note-pull contract and landing | 2026-11-03 18:32:59 EST |
+| bob-cli | [`cbc35ad`](https://github.com/bobs-org/bob-cli/commit/cbc35adf64a843f25a8adc9855e823f696b088ed) | feat(capture): optimize note-pull landing with move-aware ownership | 2026-11-04 09:43:56 EST |
 
 ## Neighbors
 
@@ -34,5 +34,5 @@
 | [bob-cli-gj.2.1.3](../bbugyi200.athena.bob-cli-gj.2.1.3/README.md) | bob-cli-gj.2.1 hood | completed |
 | [bob-cli-gj.2.1.4](../../sessions/bbugyi200.athena.bob-cli-gj.2.1.4.md) (session · 9) | bob-cli-gj.2.1 hood | completed 5, failed 4 |
 | [bob-cli-gj.1](../../sessions/bbugyi200.athena.bob-cli-gj.1.md) (session · 5) | bob-cli-gj hood | completed 4, failed 1 |
-| [bob-cli-gj.3](../bbugyi200.athena.bob-cli-gj.3/README.md) | bob-cli-gj hood | waiting |
+| [bob-cli-gj.3](../../sessions/bbugyi200.athena.bob-cli-gj.3.md) (session · 9) | bob-cli-gj hood | active 1, completed 4, failed 4 |
 | [bob-cli-gj.land](../bbugyi200.athena.bob-cli-gj.land/README.md) | bob-cli-gj hood | waiting |

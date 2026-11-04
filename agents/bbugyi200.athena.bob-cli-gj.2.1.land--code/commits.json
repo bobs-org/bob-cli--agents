@@ -1,1 +1,1 @@
-{"commits":[{"committed_at":1793748779,"sha":"4db3200cd6367c43a252322b66e3c6652e8a7295","subject":"fix(capture)!: finish note-pull contract and landing"}],"schema_version":2,"source_run_id":"run-2fd074cfaa3606133ceba69009ed2d1b"}
+{"commits":[{"committed_at":1793803436,"sha":"cbc35adf64a843f25a8adc9855e823f696b088ed","subject":"feat(capture): optimize note-pull landing with move-aware ownership"}],"schema_version":2,"source_run_id":"run-e13242e51f66a3d159f9874474198585"}

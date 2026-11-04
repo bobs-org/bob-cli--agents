@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-gj](../../users/bbugyi200/machines/athena/hoods/bob-cli-gj/README.md) / [bob-cli-gj.2.1.land](../../sessions/bbugyi200.athena.bob-cli-gj.2.1.land.md) / bob-cli-gj.2.1.land--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-gj.2.1.land--plan` · **State:** completed · **Source run:** `run-bef11309836cb3305ddb7c80a843f1f5`
+**Global name:** `bbugyi200.athena.bob-cli-gj.2.1.land--plan` · **State:** completed · **Source run:** `run-623103b80de9738989bfc01be752d479`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-gj
 
 ## Summary
 
 - Bead: [bob-cli-gj.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-gj/bob-cli-gj.2.1.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 2026-11-03T22:28:58.325182+00:00 → 2026-11-03T23:33:29.886064+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-04T11:50:54.280994+00:00 → 2026-11-04T14:44:53.892294+00:00
 - Commits: 0
 
 ## Files
@@ -28,5 +28,5 @@
 | [bob-cli-gj.2.1.3](../bbugyi200.athena.bob-cli-gj.2.1.3/README.md) | bob-cli-gj.2.1 hood | completed |
 | [bob-cli-gj.2.1.4](../../sessions/bbugyi200.athena.bob-cli-gj.2.1.4.md) (session · 9) | bob-cli-gj.2.1 hood | completed 5, failed 4 |
 | [bob-cli-gj.1](../../sessions/bbugyi200.athena.bob-cli-gj.1.md) (session · 5) | bob-cli-gj hood | completed 4, failed 1 |
-| [bob-cli-gj.3](../bbugyi200.athena.bob-cli-gj.3/README.md) | bob-cli-gj hood | waiting |
+| [bob-cli-gj.3](../../sessions/bbugyi200.athena.bob-cli-gj.3.md) (session · 9) | bob-cli-gj hood | active 1, completed 4, failed 4 |
 | [bob-cli-gj.land](../bbugyi200.athena.bob-cli-gj.land/README.md) | bob-cli-gj hood | waiting |

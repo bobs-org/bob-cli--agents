@@ -1,42 +1,42 @@
 # Chat History - ace-run (bob-cli-gj.2.1.land--plan)
 
-- **TIMESTAMP:** 2026-11-03 17:41:12 EST
-- **MODEL:** codex/gpt-6-astra
+- **TIMESTAMP:** 2026-11-04 07:29:21 EST
+- **MODEL:** claude/opus
 - **AGENT:** bob-cli-gj.2.1.land--plan
 
 ## Linked Chats
 
-- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_gj_2_1_land__plan-261103_123353.md`
-- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_gj_2_1_land__code-261103_123353.md`
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_gj_2_1_land__plan-261104_064735.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_gj_2_1_land__code-261104_064735.md`
 
-**Plan:** /home/bryan/.sase/plans/202611/note_pull_landing.md
+**Plan:** /home/bryan/.sase/plans/202611/note_pull_latency_move_landing.md
 
 
 ## Proposed Plan Preview
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202611/note_pull_landing.md`
+**Plan file:** `/home/bryan/.sase/plans/202611/note_pull_latency_move_landing.md`
 
-> - **PARENT:** [202611/note_pull_cli.md](202611/note_pull_cli.md)
 > - **BEAD:** bob-cli-gj.2.1
-> # Finish and land note-pull capture
-> ## Scope and starting evidence
-> Finish only the remaining work in **bob-cli-gj.2.1**, then complete its landing in this
-> tale. Its parent **bob-cli-gj.2** is a phase of **bob-cli-gj**. This tale has no later
-> land agent: do not wait for another agent to close these beads.
-> The landing audit inspected all four closed child phases and every note, their commits
-> `c673d144`, `a95d5d8f`, `3d1822be`, and `093dcead`, and intervening commits through
-> `093dcead`. The grammar, single-item planner, explicit picks, batch offer traversal,
+> # Land note-pull capture after the latency and move-integration fixes
+> ## Context
+> This tale finishes epic **bob-cli-gj.2.1** (note-pull capture in bob-cli) and lands it
+> in the same turn. Its parent **bob-cli-gj.2** is a _phase_ of epic **bob-cli-gj**. No
+> later land agent will act on this tale, so its final step closes both beads.
+> Start by reading the state:
+> - `sase bead read bob-cli-gj.2.1 -r "Need landing audits and triage"`. Note #7 holds the
+>   second landing audit this plan is built on.
+> - `sase bead read <id> -r "Recheck phase scope and notes"` for `bob-cli-gj.2.1.1`,
 
 *See full plan file for details.*
 
 ## Prompt
 
+%id(land, clan=bob-cli-gj.2.1, bead=bob-cli-gj.2.1)
 %auto
 #gh:gh_bobs-org__bob-cli
-%id(land, clan=bob-cli-gj.2.1, bead=bob-cli-gj.2.1)
-%model:@large
+%m:@xlarge 
 %w(bob-cli-gj.2.1.1,bob-cli-gj.2.1.2,bob-cli-gj.2.1.3,bob-cli-gj.2.1.4, for_epic=false)
 %w(bead=bob-cli-gj.2.1.1)
 %w(bead=bob-cli-gj.2.1.2)
@@ -112,26 +112,43 @@ and report it in your final response.
 
 ## Response
 
-I’ll audit the epic, its children, and the code, then review intervening changes before closing it. I’m using the SASE memory and finalization skills for the required reads and closeout.
+I've read the epic and all four phase beads. Next I'm checking the plan's latency budget, the one remaining blocker the previous landing recorded.
 
+I'm building a release binary to profile the note-pull latency gap (87.67 ms against the 70 ms budget), the last open item on this epic.
 
-All four phases are closed. Their notes flag two things to verify: the `note_pull` initializer broke during three concurrent landings, and the final latency measurement exceeded the stated target. I’m checking the plan and current code to determine whether either leaves the epic incomplete.
+I've made an isolated copy of the vault and am timing note-pull against a plain capture.
 
+I'm adding temporary timing marks (to be reverted) so I can see where the extra ~60 ms on `@sase` goes.
 
-I found a likely correctness bug in the final optimization: a task with closed prerequisites can be counted as blocked when it is hidden, scheduled, or already linked. I’m checking that with fixtures, along with how note pulls interact with the task moves that landed during this epic.
+Build and the note-pull tests pass on the current tip (38 lib and 8 CLI). Now checking how note-pull interacts with the multi-target and transfer grammar that landed since.
 
+I did not close epic bob-cli-gj.2.1: it still misses its 70 ms latency budget and has a reporting bug from moves that landed after it. I wrote a repair plan for one coding agent and submitted it for your approval; it ends by closing this epic and its parent phase bob-cli-gj.2. No code changes are committed this turn; my timing experiments were reverted.
 
-The code review found two more gaps: selecting all from repeated pulls can make the second pull refuse, and the no-pick hint lists every offer instead of the contracted first-and-last example. The recorded 82.60 ms latency also remains above the approved 70 ms budget. I’m preparing a focused repair tale; these are remaining epic work.
+**What checks out on current master (`b9fe9d0c`):**
+- The full build (`cargo check --all-targets --locked`) passes, and the note-pull tests pass: 38/38 library and 8/8 CLI.
+- The field that broke the build three times is now in each result literal exactly once.
+- Grammar is now revision 10 because of the new transfer syntax, and a lone `@route` still parses as a note pull.
+- Multi-target captures (`@a+x @b+y`) before or after a pull keep capture order and offer ownership.
+- No epic symbols remain, and the earlier repair commit (`4db3200c`) holds up.
 
+**Remaining issue 1, latency.** On an isolated copy of the vault (6,907 notes), `@sase` takes 78.4 ± 3.3 ms, up to 87.1 ms. `@mac_inbox` takes 38.9 ms and a plain `hello` capture 17.7 ms. Timing the stages showed where it goes:
 
-The lint follow-up doesn’t establish a failure of the project’s actual gate: it used `-D warnings`, which `just lint` does not use. I recorded that outcome and kept the latency miss in the epic. I’m using `/sase_plan` to propose one medium repair tale whose final step closes this epic and parent phase `bob-cli-gj.2`.
+| Stage | Cost |
+| --- | ---: |
+| Walking the vault for note paths, mostly from a slow per-directory sort | 19 ms |
+| Building the note index one path at a time | 10 ms |
+| Reading note contents for the dependency check | 11 ms |
+| Loading the theme catalog for placement | 13 ms |
+| Loading the theme catalog a second time for the "unconfigured theme" warnings | 11 ms |
 
+That second theme-catalog load runs on every capture, which accounts for most of `hello`'s 17.7 ms. Fixing the sort and the index build (both small changes) brought `@sase` to about 56 ms in a reverted test. Skipping the redundant catalog load should bring it to about 45 ms. The plan applies all three and reruns the benchmark.
 
-The medium repair tale passed validation and is staged. It includes fresh build/test gates, latency verification, and concrete closeout steps for both beads.
+**Remaining issue 2, moves after a pull.** Project-note moves and transfer moves landed after the note-pull code. If a draft pulls `@work` with `-p all` and a later item moves one of the pulled tasks, the task is still linked but drops out of the report. The output says "2 of 2 pulled in" while three links are written, and the moved task's Pomodoro line loses its note-pull reason. A preview without picks never offers that task, yet `-p all` links it. The plan makes note-pull rows follow the move to the task's new note while keeping their pick numbers and keys stable. It reads the existing move records and leaves other offer groups alone.
 
-The [sase_plan skill](/home/bryan/.codex/skills/sase_plan/SKILL.md) says, “Nothing starts until your turn ends,” so I’m finalizing the proposal now. The epic remains open.
+**Follow-up triage** (recorded on the epic):
+- **Clippy proposal from phase .2:** still declined, since the real check gate doesn't use `-D warnings` and passes.
+- **Latency proposal from phase .4:** kept as epic work in the new plan.
+- **Possible same move problem in `!` successor and relation offers:** not confirmed. The plan has the coding agent check it and file a task only if it reproduces.
+- **No new task beads filed.**
 
-
-The epic remains open. Review found gaps in dependency folds, repeated-pull selection, blocked-project reporting, CLI copy, and latency (82.60 ms versus 70 ms).
-
-I recorded follow-up triage and staged a validated medium repair tale, including verification and closure of `bob-cli-gj.2.1` and parent phase `bob-cli-gj.2`. No epic-symbol exemptions remain. Build/tests were not rerun this turn.
+The plan also has the closing agent add a note on bob-cli-gc (the slow `!` close task), since the slow vault walk and the duplicate theme-catalog load account for part of its unexplained ~60 ms.

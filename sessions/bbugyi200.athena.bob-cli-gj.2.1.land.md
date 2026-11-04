@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-gj` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-gj.2.1.land--code [completed]"]
-  n1["bob-cli-gj.2.1.land--plan [completed]"]
+  n0["bob-cli-gj.2.1.land--plan [completed]"]
+  n1["bob-cli-gj.2.1.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-gj.2.1.land--gate [completed]"]
+  n2["bob-cli-gj.2.1.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,15 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-gj.2.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-03T22:41:26.007179+00:00 → 2026-11-03T23:33:29.886064+00:00 | [1](../agents/bbugyi200.athena.bob-cli-gj.2.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-gj.2.1.land--code/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-gj.2.1.land--plan | completed | gpt-6-astra / codex | 2026-11-03T22:28:58.325182+00:00 → 2026-11-03T23:33:29.886064+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-gj.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-gj.2.1.land--plan/chat.md) |
-| <a id="member-gate"></a>gate | bob-cli-gj.2.1.land--gate | completed | gpt-6-astra / codex | 2026-11-03T22:40:48.192769+00:00 → 2026-11-03T22:41:12.017316+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-gj.2.1.land--gate/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-gj.2.1.land--plan | completed | opus / claude | 2026-11-04T11:50:54.280994+00:00 → 2026-11-04T14:44:53.892294+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-gj.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-gj.2.1.land--plan/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-gj.2.1.land--gate | completed | opus / claude | 2026-11-04T12:29:00.293208+00:00 → 2026-11-04T12:29:21.813104+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-gj.2.1.land--gate/chat.md) |
+| <a id="member-code"></a>code | bob-cli-gj.2.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-04T12:30:13.739712+00:00 → 2026-11-04T14:44:53.892294+00:00 | [1](../agents/bbugyi200.athena.bob-cli-gj.2.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-gj.2.1.land--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`4db3200`](https://github.com/bobs-org/bob-cli/commit/4db3200cd6367c43a252322b66e3c6652e8a7295) | fix(capture)!: finish note-pull contract and landing | 2026-11-03 18:32:59 EST |
+| code | bob-cli | [`cbc35ad`](https://github.com/bobs-org/bob-cli/commit/cbc35adf64a843f25a8adc9855e823f696b088ed) | feat(capture): optimize note-pull landing with move-aware ownership | 2026-11-04 09:43:56 EST |
 
 ## Neighbors
 
@@ -39,5 +39,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-gj.2.1.3](../agents/bbugyi200.athena.bob-cli-gj.2.1.3/README.md) | bob-cli-gj.2.1 hood | completed |
 | [bob-cli-gj.2.1.4](bbugyi200.athena.bob-cli-gj.2.1.4.md) (session · 9) | bob-cli-gj.2.1 hood | completed 5, failed 4 |
 | [bob-cli-gj.1](bbugyi200.athena.bob-cli-gj.1.md) (session · 5) | bob-cli-gj hood | completed 4, failed 1 |
-| [bob-cli-gj.3](../agents/bbugyi200.athena.bob-cli-gj.3/README.md) | bob-cli-gj hood | waiting |
+| [bob-cli-gj.3](bbugyi200.athena.bob-cli-gj.3.md) (session · 9) | bob-cli-gj hood | active 1, completed 4, failed 4 |
 | [bob-cli-gj.land](../agents/bbugyi200.athena.bob-cli-gj.land/README.md) | bob-cli-gj hood | waiting |
