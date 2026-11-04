@@ -1,0 +1,38 @@
+# Agent: bob-cli-h8.4
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-h8](../../users/bbugyi200/machines/athena/hoods/bob-cli-h8/README.md) / bob-cli-h8.4
+
+**Global name:** `bbugyi200.athena.bob-cli-h8.4` · **State:** completed · **Source run:** `run-1b0ea2b07aaefd4eb9dc10e7308d0b3a`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-h8
+
+## Summary
+
+- Bead: [bob-cli-h8.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-h8/bob-cli-h8.4.md)
+- Epic: [bob-cli-h8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-h8/README.md)
+- Model: muse-spark-1.3-contributor
+- Provider: muse
+- Timing: 2026-11-04T21:45:25.266516+00:00 → 2026-11-04T21:49:00.473763+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-h8.1](../bbugyi200.athena.bob-cli-h8.1/README.md) | bob-cli-h8 hood | active |
+| [bob-cli-h8.10](../bbugyi200.athena.bob-cli-h8.10/README.md) | bob-cli-h8 hood | waiting |
+| [bob-cli-h8.11](../bbugyi200.athena.bob-cli-h8.11/README.md) | bob-cli-h8 hood | waiting |
+| [bob-cli-h8.12](../bbugyi200.athena.bob-cli-h8.12/README.md) | bob-cli-h8 hood | waiting |
+| [bob-cli-h8.13](../bbugyi200.athena.bob-cli-h8.13/README.md) | bob-cli-h8 hood | waiting |
+| [bob-cli-h8.2](../bbugyi200.athena.bob-cli-h8.2/README.md) | bob-cli-h8 hood | active |
+| [bob-cli-h8.3](../bbugyi200.athena.bob-cli-h8.3/README.md) | bob-cli-h8 hood | completed |
+| [bob-cli-h8.5](../bbugyi200.athena.bob-cli-h8.5/README.md) | bob-cli-h8 hood | active |
+| [bob-cli-h8.6](../bbugyi200.athena.bob-cli-h8.6/README.md) | bob-cli-h8 hood | active |
+| [bob-cli-h8.7](../bbugyi200.athena.bob-cli-h8.7/README.md) | bob-cli-h8 hood | waiting |
+| [bob-cli-h8.8](../bbugyi200.athena.bob-cli-h8.8/README.md) | bob-cli-h8 hood | waiting |
+| [bob-cli-h8.9](../bbugyi200.athena.bob-cli-h8.9/README.md) | bob-cli-h8 hood | active |
+| [bob-cli-h8.land](../bbugyi200.athena.bob-cli-h8.land/README.md) | bob-cli-h8 hood | waiting |
