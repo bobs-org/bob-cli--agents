@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-h8](../../users/bbugyi200/machines/athena/hoods/bob-cli-h8/README.md) / bob-cli-h8.6
 
-**Global name:** `bbugyi200.athena.bob-cli-h8.6` · **State:** active · **Source run:** `run-40d9e959cd76a59d998145f1aa0b98a8`
+**Global name:** `bbugyi200.athena.bob-cli-h8.6` · **State:** completed · **Source run:** `run-40d9e959cd76a59d998145f1aa0b98a8`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-h8
 
@@ -12,18 +12,24 @@
 - Epic: [bob-cli-h8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-h8/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-04T21:56:57.728035+00:00
-- Commits: 0
+- Timing: 2026-11-04T21:56:57.728035+00:00 → 2026-11-04T22:13:04.331547+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`53bf947`](https://github.com/bobs-org/bob-cli/commit/53bf94721d638a02106ff7a142b216a4b80e2b7f) | test(highlights): pin overwrite timezone and document recapture stamp | 2026-11-04 17:12:34 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-h8.1](../bbugyi200.athena.bob-cli-h8.1/README.md) | bob-cli-h8 hood | active |
+| [bob-cli-h8.1](../../sessions/bbugyi200.athena.bob-cli-h8.1.md) (session · 2) | bob-cli-h8 hood | active 1, completed 1 |
 | [bob-cli-h8.10](../bbugyi200.athena.bob-cli-h8.10/README.md) | bob-cli-h8 hood | waiting |
 | [bob-cli-h8.11](../bbugyi200.athena.bob-cli-h8.11/README.md) | bob-cli-h8 hood | waiting |
 | [bob-cli-h8.12](../bbugyi200.athena.bob-cli-h8.12/README.md) | bob-cli-h8 hood | waiting |
@@ -31,7 +37,7 @@
 | [bob-cli-h8.2](../bbugyi200.athena.bob-cli-h8.2/README.md) | bob-cli-h8 hood | active |
 | [bob-cli-h8.3](../bbugyi200.athena.bob-cli-h8.3/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.4](../bbugyi200.athena.bob-cli-h8.4/README.md) | bob-cli-h8 hood | completed |
-| [bob-cli-h8.5](../bbugyi200.athena.bob-cli-h8.5/README.md) | bob-cli-h8 hood | active |
+| [bob-cli-h8.5](../../sessions/bbugyi200.athena.bob-cli-h8.5.md) (session · 2) | bob-cli-h8 hood | active 1, completed 1 |
 | [bob-cli-h8.7](../bbugyi200.athena.bob-cli-h8.7/README.md) | bob-cli-h8 hood | waiting |
 | [bob-cli-h8.8](../bbugyi200.athena.bob-cli-h8.8/README.md) | bob-cli-h8 hood | waiting |
 | [bob-cli-h8.9](../bbugyi200.athena.bob-cli-h8.9/README.md) | bob-cli-h8 hood | active |
