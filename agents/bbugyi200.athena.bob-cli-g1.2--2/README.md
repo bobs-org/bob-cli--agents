@@ -14,6 +14,10 @@
 - Timing: 2026-11-02T19:17:23.301621+00:00 → 2026-11-02T19:22:46.779936+00:00
 - Commits: 0
 
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
+
 ## Neighbors
 
 | Agent | Relation | State |

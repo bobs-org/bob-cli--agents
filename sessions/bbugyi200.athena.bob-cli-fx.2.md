@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | bob-cli-fx.2--mon | failed | gpt-6-luna / codex | 2026-11-02T15:55:18.907992+00:00 → 2026-11-02T15:57:32.242840+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | bob-cli-fx.2--plan | completed | gpt-6-luna / codex | 2026-11-02T15:48:22.512492+00:00 → 2026-11-02T15:55:29.791067+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fx.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fx.2--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-fx.2--mon-0 | failed | gpt-6-luna / codex | 2026-11-02T16:01:03.958987+00:00 → 2026-11-02T16:03:18.867569+00:00 | 0 | — | — |
-| <a id="member-2"></a>2 | bob-cli-fx.2--2 | completed | muse-spark-1.3-contributor / muse | 2026-11-02T16:03:55.414495+00:00 → 2026-11-02T16:08:16.522604+00:00 | [1](../agents/bbugyi200.athena.bob-cli-fx.2--2/README.md#commits) | — | — |
+| <a id="member-2"></a>2 | bob-cli-fx.2--2 | completed | muse-spark-1.3-contributor / muse | 2026-11-02T16:03:55.414495+00:00 → 2026-11-02T16:08:16.522604+00:00 | [1](../agents/bbugyi200.athena.bob-cli-fx.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-fx.2--2/prompt.md) | — |
 
 ## Commits
 

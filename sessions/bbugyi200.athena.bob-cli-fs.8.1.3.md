@@ -23,8 +23,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | bob-cli-fs.8.1.3--2 | completed | gpt-6-luna / codex | 2026-11-02T13:44:30.277764+00:00 → 2026-11-02T13:47:24.509160+00:00 | 0 | — | — |
-| <a id="member-1"></a>1 | bob-cli-fs.8.1.3--1 | completed | gpt-6-luna / codex | 2026-11-02T13:39:03.300728+00:00 → 2026-11-02T13:41:25.503166+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.8.1.3--1/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-fs.8.1.3--2 | completed | gpt-6-luna / codex | 2026-11-02T13:44:30.277764+00:00 → 2026-11-02T13:47:24.509160+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.8.1.3--2/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-fs.8.1.3--1 | completed | gpt-6-luna / codex | 2026-11-02T13:39:03.300728+00:00 → 2026-11-02T13:41:25.503166+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.8.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.8.1.3--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-fs.8.1.3--mon-0 | completed | gpt-6-luna / codex | 2026-11-02T13:41:12.681318+00:00 → 2026-11-02T13:43:01.875414+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | bob-cli-fs.8.1.3--plan | completed | gpt-6-luna / codex | 2026-11-02T13:17:52.615436+00:00 → 2026-11-02T13:35:54.128400+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-fs.8.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-fs.8.1.3--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-fs.8.1.3--mon | completed | gpt-6-luna / codex | 2026-11-02T13:35:41.092295+00:00 → 2026-11-02T13:38:08.816343+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-fs.8.1.3--mon/chat.md) |

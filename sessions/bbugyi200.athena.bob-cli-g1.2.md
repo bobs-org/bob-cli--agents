@@ -32,13 +32,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-g1.2--mon | failed | gpt-6-luna / codex | 2026-11-02T18:14:55.430598+00:00 → 2026-11-02T19:01:18.592757+00:00 | 0 | — | — |
-| <a id="member-4"></a>4 | bob-cli-g1.2--4 | completed | muse-spark-1.3-contributor / muse | 2026-11-02T19:36:19.125021+00:00 → 2026-11-02T19:46:10.294786+00:00 | 0 | — | — |
-| <a id="member-3"></a>3 | bob-cli-g1.2--3 | completed | gpt-6-luna / codex | 2026-11-02T19:26:33.137215+00:00 → 2026-11-02T19:29:43.226754+00:00 | 0 | — | — |
-| <a id="member-2"></a>2 | bob-cli-g1.2--2 | completed | gpt-6-luna / codex | 2026-11-02T19:17:23.301621+00:00 → 2026-11-02T19:22:46.779936+00:00 | 0 | — | — |
+| <a id="member-4"></a>4 | bob-cli-g1.2--4 | completed | muse-spark-1.3-contributor / muse | 2026-11-02T19:36:19.125021+00:00 → 2026-11-02T19:46:10.294786+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.2--4/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-g1.2--3 | completed | gpt-6-luna / codex | 2026-11-02T19:26:33.137215+00:00 → 2026-11-02T19:29:43.226754+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.2--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-g1.2--3/chat.md) |
+| <a id="member-2"></a>2 | bob-cli-g1.2--2 | completed | gpt-6-luna / codex | 2026-11-02T19:17:23.301621+00:00 → 2026-11-02T19:22:46.779936+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.2--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-g1.2--2/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-g1.2--plan | completed | gpt-6-luna / codex | 2026-11-02T17:59:38.260671+00:00 → 2026-11-02T18:15:01.438754+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-g1.2--plan/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-g1.2--mon-1 | failed | gpt-6-luna / codex | 2026-11-02T19:22:40.495068+00:00 → 2026-11-02T19:25:38.770218+00:00 | 0 | — | — |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-g1.2--mon-2 | failed | gpt-6-luna / codex | 2026-11-02T19:29:36.730846+00:00 → 2026-11-02T19:35:30.708634+00:00 | 0 | — | — |
-| <a id="member-1"></a>1 | bob-cli-g1.2--1 | completed | gpt-6-luna / codex | 2026-11-02T19:01:54.164551+00:00 → 2026-11-02T19:13:47.741201+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-g1.2--1 | completed | gpt-6-luna / codex | 2026-11-02T19:01:54.164551+00:00 → 2026-11-02T19:13:47.741201+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-g1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-g1.2--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-g1.2--mon-0 | failed | gpt-6-luna / codex | 2026-11-02T19:13:40.927876+00:00 → 2026-11-02T19:16:36.636382+00:00 | 0 | — | — |
 
 ## Neighbors

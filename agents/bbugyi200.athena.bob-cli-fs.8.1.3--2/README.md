@@ -14,6 +14,10 @@
 - Timing: 2026-11-02T13:44:30.277764+00:00 → 2026-11-02T13:47:24.509160+00:00
 - Commits: 0
 
+## Files
+
+[Prompt](prompt.md)
+
 ## Neighbors
 
 | Agent | Relation | State |
