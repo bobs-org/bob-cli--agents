@@ -30,4 +30,4 @@
 |---|---|---|
 | [bob-cli-gn.2](../bbugyi200.athena.bob-cli-gn.2/README.md) | bob-cli-gn hood | completed |
 | [bob-cli-gn.3](../bbugyi200.athena.bob-cli-gn.3/README.md) | bob-cli-gn hood | completed |
-| [bob-cli-gn.land](../bbugyi200.athena.bob-cli-gn.land/README.md) | bob-cli-gn hood | waiting |
+| [bob-cli-gn.land](../../sessions/bbugyi200.athena.bob-cli-gn.land.md) (session · 9) | bob-cli-gn hood | completed 6, failed 3 |
