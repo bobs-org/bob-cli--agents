@@ -11,7 +11,7 @@ flowchart TD
   n0["185--gate [completed]"]
   n1["185--plan [completed]"]
   n0 --> n1
-  n2["185--3 [active]"]
+  n2["185--3 [completed]"]
   n0 --> n2
   n3["185--1 [completed]"]
   n0 --> n3
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 185--gate | completed | opus / claude | 2026-11-04T19:03:12.251755+00:00 → 2026-11-04T19:03:59.363384+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.185--gate/chat.md) |
 | <a id="member-plan"></a>plan | 185--plan | completed | opus / claude | 2026-11-04T18:52:24.830660+00:00 → 2026-11-04T19:02:32.928376+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.185--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.185--plan/chat.md) |
-| <a id="member-3"></a>3 | 185--3 | active | gpt-6-luna / codex | 2026-11-04T20:09:57.194178+00:00 | [1](../agents/bbugyi200.athena.185--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.185--3/prompt.md) | — |
+| <a id="member-3"></a>3 | 185--3 | completed | gpt-6-luna / codex | 2026-11-04T20:09:57.194178+00:00 → 2026-11-04T20:40:24.730603+00:00 | [1](../agents/bbugyi200.athena.185--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.185--3/prompt.md) | [Chat](../agents/bbugyi200.athena.185--3/chat.md) |
 | <a id="member-1"></a>1 | 185--1 | completed | gpt-6-luna / codex | 2026-11-04T19:47:13.025089+00:00 → 2026-11-04T19:48:41.401171+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.185--1/prompt.md) | [Chat](../agents/bbugyi200.athena.185--1/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | 185--mon-1 | failed | gpt-6-luna / codex | 2026-11-04T19:57:29.034890+00:00 → 2026-11-04T20:09:08.270856+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.185--mon-1/chat.md) |
 | <a id="member-2"></a>2 | 185--2 | completed | gpt-6-luna / codex | 2026-11-04T19:53:53.660916+00:00 → 2026-11-04T19:58:21.953203+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.185--2/prompt.md) | [Chat](../agents/bbugyi200.athena.185--2/chat.md) |
