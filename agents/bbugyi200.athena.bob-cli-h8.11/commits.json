@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1ee80b75cc403d19bf67e35d1e4971e9"}
+{"commits":[{"committed_at":1793832168,"sha":"0e11f8b0e8c3974da3113fe15fd19fa3839c2368","subject":"fix(highlights): preserve fallback glyphs in generic ref PDFs"}],"schema_version":2,"source_run_id":"run-1ee80b75cc403d19bf67e35d1e4971e9"}

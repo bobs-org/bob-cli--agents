@@ -1,0 +1,8 @@
+- **PLAN:**
+  [202611/top_ten_bead_bundles.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202611/top_ten_bead_bundles.md)
+- **AGENTS:**
+  - [bbugyi200.athena.bob-cli-h8.11](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.athena.bob-cli-h8.11/README.md)
+
+#gh:gh_bobs-org__bob-cli %id(11, clan=bob-cli-h8, bead=bob-cli-h8.11) %model:@medium
+%auto %w(bob-cli-h8.6, for_epic=false) %w(bead=bob-cli-h8.6)
+#bd/work_phase_bead:bob-cli-h8.11

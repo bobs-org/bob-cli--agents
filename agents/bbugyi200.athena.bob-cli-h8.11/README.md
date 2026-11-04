@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-h8](../../users/bbugyi200/machines/athena/hoods/bob-cli-h8/README.md) / bob-cli-h8.11
 
-**Global name:** `bbugyi200.athena.bob-cli-h8.11` · **State:** waiting · **Source run:** `run-1ee80b75cc403d19bf67e35d1e4971e9`
+**Global name:** `bbugyi200.athena.bob-cli-h8.11` · **State:** completed · **Source run:** `run-1ee80b75cc403d19bf67e35d1e4971e9`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-h8
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-h8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-h8/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261104164115
-- Commits: 0
+- Timing: 2026-11-04T22:15:47.806284+00:00 → 2026-11-04T22:43:17.631341+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`0e11f8b`](https://github.com/bobs-org/bob-cli/commit/0e11f8b0e8c3974da3113fe15fd19fa3839c2368) | fix(highlights): preserve fallback glyphs in generic ref PDFs | 2026-11-04 17:42:48 EST |
 
 ## Neighbors
 
