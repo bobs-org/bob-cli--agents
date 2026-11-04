@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1793821832,"sha":"87eecb1a9e3ce7dd9616aacd117c062094066e2c","subject":"feat(capture): list only closed tasks under capture-complete -C for task_goto"}],"schema_version":2,"source_run_id":"run-5350ba068316d994e30e2c9c86dc5b6e"}
