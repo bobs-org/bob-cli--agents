@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["bob-cli-h8.5--mon [completed]"]
   n0 --> n3
-  n4["bob-cli-h8.5--5 [waiting]"]
+  n4["bob-cli-h8.5--5 [completed]"]
   n0 --> n4
   n5["bob-cli-h8.5--3 [completed]"]
   n0 --> n5
@@ -39,13 +39,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-4"></a>4 | bob-cli-h8.5--4 | completed | gpt-6-luna / codex | 2026-11-04T22:50:23.712636+00:00 → 2026-11-04T22:56:05.998620+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-h8.5--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-h8.5--4/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-h8.5--mon-0 | completed | gpt-6-luna / codex | 2026-11-04T22:27:31.037932+00:00 → 2026-11-04T22:29:54.648055+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-h8.5--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-h8.5--mon | completed | gpt-6-luna / codex | 2026-11-04T22:11:27.490112+00:00 → 2026-11-04T22:16:36.246756+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-h8.5--mon/chat.md) |
-| <a id="member-5"></a>5 | bob-cli-h8.5--5 | waiting | muse-spark-1.3-contributor / muse | 20261104183056 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-h8.5--5/prompt.md) | — |
+| <a id="member-5"></a>5 | bob-cli-h8.5--5 | completed | muse-spark-1.3-contributor / muse | 2026-11-04T23:42:29.256675+00:00 → 2026-11-04T23:50:39.003920+00:00 | [1](../agents/bbugyi200.athena.bob-cli-h8.5--5/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-h8.5--5/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-h8.5--5/chat.md) |
 | <a id="member-3"></a>3 | bob-cli-h8.5--3 | completed | gpt-6-luna / codex | 2026-11-04T22:37:12.694332+00:00 → 2026-11-04T22:47:57.223967+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-h8.5--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-h8.5--3/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | bob-cli-h8.5--mon-3 | failed | gpt-6-luna / codex | 2026-11-04T22:55:08.488514+00:00 → 2026-11-04T23:38:30.636241+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-h8.5--mon-3/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-h8.5--1 | completed | gpt-6-luna / codex | 2026-11-04T22:25:08.842954+00:00 → 2026-11-04T22:28:02.279368+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-h8.5--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-h8.5--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-h8.5--plan | completed | gpt-6-luna / codex | 2026-11-04T21:49:33.605718+00:00 → 2026-11-04T22:12:43.918719+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-h8.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-h8.5--plan/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-h8.5--2 | completed | gpt-6-luna / codex | 2026-11-04T22:31:21.726986+00:00 → 2026-11-04T22:34:52.847236+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-h8.5--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-h8.5--2/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-h8.5--mon-1 | completed | gpt-6-luna / codex | 2026-11-04T22:34:14.574260+00:00 → 2026-11-04T22:36:24.373029+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-h8.5--mon-1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 5 | bob-cli | [`20c58da`](https://github.com/bobs-org/bob-cli/commit/20c58da9d62d034036bd6cfb0c8ceb17cac0496c) | docs(agents): tell agents to watch exact-SHA macOS CI after pushes | 2026-11-04 18:49:38 EST |
 
 ## Neighbors
 
