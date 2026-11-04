@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #fork:185.f0 Can you now help me add the same type of expansion from `,` to `+` (in all cases where it is possible and desirable--use your best judgement here)? #plan %m:@xlarge
