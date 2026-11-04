@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-h8](../../users/bbugyi200/machines/athena/hoods/bob-cli-h8/README.md) / bob-cli-h8.2
 
-**Global name:** `bbugyi200.athena.bob-cli-h8.2` · **State:** active · **Source run:** `run-c1f95f7c92cd69336bb347da1d9ff317`
+**Global name:** `bbugyi200.athena.bob-cli-h8.2` · **State:** completed · **Source run:** `run-c1f95f7c92cd69336bb347da1d9ff317`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-h8
 
@@ -12,18 +12,24 @@
 - Epic: [bob-cli-h8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-h8/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-04T21:42:29.680435+00:00
-- Commits: 0
+- Timing: 2026-11-04T21:42:29.680435+00:00 → 2026-11-04T22:14:49.205875+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`d32e858`](https://github.com/bobs-org/bob-cli/commit/d32e858d581e5d2a4b7699dd622d0fb9cd518582) | feat(plugins)!: accept committed dirty deploys via inclusion proof | 2026-11-04 17:14:19 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-h8.1](../../sessions/bbugyi200.athena.bob-cli-h8.1.md) (session · 2) | bob-cli-h8 hood | active 1, completed 1 |
+| [bob-cli-h8.1](../../sessions/bbugyi200.athena.bob-cli-h8.1.md) (session · 3) | bob-cli-h8 hood | active 1, completed 1, failed 1 |
 | [bob-cli-h8.10](../bbugyi200.athena.bob-cli-h8.10/README.md) | bob-cli-h8 hood | waiting |
 | [bob-cli-h8.11](../bbugyi200.athena.bob-cli-h8.11/README.md) | bob-cli-h8 hood | waiting |
 | [bob-cli-h8.12](../bbugyi200.athena.bob-cli-h8.12/README.md) | bob-cli-h8 hood | waiting |
