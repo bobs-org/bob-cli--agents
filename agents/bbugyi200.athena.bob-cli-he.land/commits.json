@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-68ccd4e09c72cb2920e6799e68c8acdd"}
+{"commits":[{"committed_at":1793915895,"sha":"12e36842d60f193302532d0ee93ba7298d3b2e05","subject":"fix(capture)!: counted %c history commands must list the live clipboard first"}],"schema_version":2,"source_run_id":"run-68ccd4e09c72cb2920e6799e68c8acdd"}

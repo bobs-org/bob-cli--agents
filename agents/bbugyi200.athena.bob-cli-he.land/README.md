@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-he](../../users/bbugyi200/machines/athena/hoods/bob-cli-he/README.md) / bob-cli-he.land
 
-**Global name:** `bbugyi200.athena.bob-cli-he.land` · **State:** waiting · **Source run:** `run-68ccd4e09c72cb2920e6799e68c8acdd`
+**Global name:** `bbugyi200.athena.bob-cli-he.land` · **State:** completed · **Source run:** `run-68ccd4e09c72cb2920e6799e68c8acdd`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-he
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-he](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-he/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261105103304
-- Commits: 0
+- Timing: 2026-11-05T20:12:32.268970+00:00 → 2026-11-05T21:59:04.242610+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`12e3684`](https://github.com/bobs-org/bob-cli/commit/12e36842d60f193302532d0ee93ba7298d3b2e05) | fix(capture)!: counted %c history commands must list the live clipboard first | 2026-11-05 16:58:15 EST |
 
 ## Neighbors
 
@@ -29,4 +35,4 @@
 | [bob-cli-he.5](../bbugyi200.athena.bob-cli-he.5/README.md) | bob-cli-he hood | completed |
 | [bob-cli-he.6](../bbugyi200.athena.bob-cli-he.6/README.md) | bob-cli-he hood | completed |
 | [bob-cli-he.7](../bbugyi200.athena.bob-cli-he.7/README.md) | bob-cli-he hood | completed |
-| [bob-cli-he.8](../bbugyi200.athena.bob-cli-he.8/README.md) | bob-cli-he hood | waiting |
+| [bob-cli-he.8](../bbugyi200.athena.bob-cli-he.8/README.md) | bob-cli-he hood | completed |
