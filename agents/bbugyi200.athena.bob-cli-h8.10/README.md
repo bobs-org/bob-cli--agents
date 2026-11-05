@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-h8](../../users/bbugyi200/machines/athena/hoods/bob-cli-h8/README.md) / bob-cli-h8.10
 
-**Global name:** `bbugyi200.athena.bob-cli-h8.10` · **State:** waiting · **Source run:** `run-ab996d22a8660f9c920615ea870a0ddb`
+**Global name:** `bbugyi200.athena.bob-cli-h8.10` · **State:** completed · **Source run:** `run-ab996d22a8660f9c920615ea870a0ddb`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-h8
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-h8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-h8/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261104164117
-- Commits: 0
+- Timing: 2026-11-04T23:48:50.811314+00:00 → 2026-11-05T00:18:48.339686+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`a3aa214`](https://github.com/bobs-org/bob-cli/commit/a3aa2149bced74d8e98090a89e5d5d954deb8411) | feat(periods): rebuild brief Still open for ended periods | 2026-11-04 19:18:19 EST |
 
 ## Neighbors
 
