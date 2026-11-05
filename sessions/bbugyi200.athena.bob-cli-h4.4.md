@@ -55,5 +55,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-h4.2](../agents/bbugyi200.athena.bob-cli-h4.2/README.md) | bob-cli-h4 hood | completed |
 | [bob-cli-h4.3](../agents/bbugyi200.athena.bob-cli-h4.3/README.md) | bob-cli-h4 hood | completed |
 | [bob-cli-h4.5](../agents/bbugyi200.athena.bob-cli-h4.5/README.md) | bob-cli-h4 hood | completed |
-| [bob-cli-h4.6](../agents/bbugyi200.athena.bob-cli-h4.6/README.md) | bob-cli-h4 hood | waiting |
+| [bob-cli-h4.6](bbugyi200.athena.bob-cli-h4.6.md) (session · 15) | bob-cli-h4 hood | completed 9, failed 6 |
 | [bob-cli-h4.land](../agents/bbugyi200.athena.bob-cli-h4.land/README.md) | bob-cli-h4 hood | waiting |
