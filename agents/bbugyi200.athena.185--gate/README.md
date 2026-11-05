@@ -25,3 +25,4 @@
 | [185.f0.f0](../bbugyi200.athena.185.f0.f0/README.md) | descendant | active |
 | [185.f0.f1](../../sessions/bbugyi200.athena.185.f0.f1.md) (session · 3) | descendant | active 1, completed 2 |
 | [185.f0.f2](../../sessions/bbugyi200.athena.185.f0.f2.md) (session · 3) | descendant | completed 3 |
+| [185.f0.f2.f0](../../sessions/bbugyi200.athena.185.f0.f2.f0.md) (session · 2) | descendant | active 1, completed 1 |

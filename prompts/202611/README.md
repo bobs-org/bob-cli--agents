@@ -26,6 +26,7 @@
 | [17z.md](17z.md) | %queue(weight=1) #fork:17z--2 %model:gpt-6-luna@xhigh | - | [bbugyi200.athena.17z](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.17z.md) | 0 |
 | [181.md](181.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202611/ref_marker_capture_time.md][1] | - | [bbugyi200.athena.181](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.181.md) | 1 |
 | [182.md](182.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202611/mac_capture_backslash_goto.md][1] | - | [bbugyi200.athena.182](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.182.md) | 1 |
+| [185.f0.f1.md](185.f0.f1.md) | %wait(185.f0.f2) %model:@medium #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.185.f0.f1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.185.f0.f1.md) | 1 |
 | [185.f0.f2.md](185.f0.f2.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202611/backslash_hash_alias.md][1] | - | [bbugyi200.athena.185.f0.f2](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.185.f0.f2.md) | 1 |
 | [185.f0.md](185.f0.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202611/move_bullet_sigil_aliases.md][1] | - | [bbugyi200.athena.185.f0](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.185.f0.md) | 1 |
 | [185.md](185.md) | %queue(weight=1) #fork:185--2 %model:gpt-6-luna@xhigh | - | [bbugyi200.athena.185](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.185.md) | 0 |

@@ -37,3 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [185.f0.f0](../agents/bbugyi200.athena.185.f0.f0/README.md) | descendant | active |
 | [185.f0.f1](bbugyi200.athena.185.f0.f1.md) (session · 3) | descendant | active 1, completed 2 |
 | [185.f0.f2](bbugyi200.athena.185.f0.f2.md) (session · 3) | descendant | completed 3 |
+| [185.f0.f2.f0](bbugyi200.athena.185.f0.f2.f0.md) (session · 2) | descendant | active 1, completed 1 |
