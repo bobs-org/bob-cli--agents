@@ -42,3 +42,9 @@
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [18r.f0](../../sessions/bbugyi200.athena.18r.f0.md) (session · 5) | descendant | completed 5 |

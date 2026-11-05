@@ -67,3 +67,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 ```
 
 Values are truncated for display; see each member's agent meta.json for the full values.
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [18r.f0](bbugyi200.athena.18r.f0.md) (session · 5) | descendant | completed 5 |

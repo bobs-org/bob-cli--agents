@@ -22,3 +22,9 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | bob-cli | [`060d97e`](https://github.com/bobs-org/bob-cli/commit/060d97ed6919e2662da0952d9030766407bac5ff) | feat(capture): add relation dash rewrite aliases | 2026-11-05 16:12:36 EST |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [18r.f0](../../sessions/bbugyi200.athena.18r.f0.md) (session · 5) | descendant | completed 5 |
