@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7444d7687c449ff45d8f47e262025e25"}
+{"commits":[{"committed_at":1793906647,"sha":"dd3cfd8cb5d9a0fdba8b8e86c8985ee0f7c6570a","subject":"fix(capture): read the clipboard once per capture and bound clipboard commands"}],"schema_version":2,"source_run_id":"run-7444d7687c449ff45d8f47e262025e25"}
