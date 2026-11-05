@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5r.linker
 
-**Global name:** `bbugyi200.athena.research.5r.linker` · **State:** waiting · **Source run:** `run-50a0aeb19d3db57dbcd79d904df9858a`
+**Global name:** `bbugyi200.athena.research.5r.linker` · **State:** completed · **Source run:** `run-50a0aeb19d3db57dbcd79d904df9858a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261105090411
+- Timing: 2026-11-05T15:01:14.484864+00:00 → 2026-11-05T15:09:27.235569+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/percent\_c\_history\_agrees\_with\_live/percent\_c\_history\_agrees\_with\_live.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261105090411/percent… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/percent_c_history_agrees_with_live/percent_c_history_agrees_with_live.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261105090411/percent_c_history_agrees_with_live-436dd4fcac70.md
+  ref: file:explicit:127a887b95f0a16297aacada
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_22/sase/repos/research/202611/percent_c_history_agrees_with_live/percent_c_history_agrees_with_live.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
