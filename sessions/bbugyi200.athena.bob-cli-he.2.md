@@ -53,9 +53,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-he.1](../agents/bbugyi200.athena.bob-cli-he.1/README.md) | bob-cli-he hood | completed |
 | [bob-cli-he.3](../agents/bbugyi200.athena.bob-cli-he.3/README.md) | bob-cli-he hood | completed |
-| [bob-cli-he.4](bbugyi200.athena.bob-cli-he.4.md) (session · 2) | bob-cli-he hood | active 1, completed 1 |
+| [bob-cli-he.4](bbugyi200.athena.bob-cli-he.4.md) (session · 3) | bob-cli-he hood | completed 2, failed 1 |
 | [bob-cli-he.5](../agents/bbugyi200.athena.bob-cli-he.5/README.md) | bob-cli-he hood | completed |
 | [bob-cli-he.6](../agents/bbugyi200.athena.bob-cli-he.6/README.md) | bob-cli-he hood | completed |
-| [bob-cli-he.7](../agents/bbugyi200.athena.bob-cli-he.7/README.md) | bob-cli-he hood | waiting |
+| [bob-cli-he.7](../agents/bbugyi200.athena.bob-cli-he.7/README.md) | bob-cli-he hood | completed |
 | [bob-cli-he.8](../agents/bbugyi200.athena.bob-cli-he.8/README.md) | bob-cli-he hood | waiting |
 | [bob-cli-he.land](../agents/bbugyi200.athena.bob-cli-he.land/README.md) | bob-cli-he hood | waiting |
