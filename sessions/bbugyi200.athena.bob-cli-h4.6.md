@@ -68,4 +68,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-h4.3](../agents/bbugyi200.athena.bob-cli-h4.3/README.md) | bob-cli-h4 hood | completed |
 | [bob-cli-h4.4](bbugyi200.athena.bob-cli-h4.4.md) (session · 11) | bob-cli-h4 hood | completed 9, failed 2 |
 | [bob-cli-h4.5](../agents/bbugyi200.athena.bob-cli-h4.5/README.md) | bob-cli-h4 hood | completed |
-| [bob-cli-h4.land](bbugyi200.athena.bob-cli-h4.land.md) (session · 4) | bob-cli-h4 hood | active 3, completed 1 |
+| [bob-cli-h4.land](bbugyi200.athena.bob-cli-h4.land.md) (session · 4) | bob-cli-h4 hood | active 1, completed 3 |
