@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-he](../../users/bbugyi200/machines/athena/hoods/bob-cli-he/README.md) / bob-cli-he.3
 
-**Global name:** `bbugyi200.athena.bob-cli-he.3` · **State:** waiting · **Source run:** `run-e1350c9e1a9bbdc5cc14be82488dbfb1`
+**Global name:** `bbugyi200.athena.bob-cli-he.3` · **State:** completed · **Source run:** `run-e1350c9e1a9bbdc5cc14be82488dbfb1`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-he
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-he](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-he/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261105103258
-- Commits: 0
+- Timing: 2026-11-05T18:05:55.852559+00:00 → 2026-11-05T18:30:11.823733+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`89192e8`](https://github.com/bobs-org/bob-cli/commit/89192e8bada62cd46fc990b1ca9e78a469c68d37) | feat(capture): report clipboard history provider and entry ages | 2026-11-05 13:29:34 EST |
 
 ## Neighbors
 
