@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-hd
 
-**Global hood:** `bbugyi200.athena.bob-cli-hd` · **Runs:** 24 · **Sessions:** 4 · **States:** completed 17, failed 5, waiting 2
+**Global hood:** `bbugyi200.athena.bob-cli-hd` · **Runs:** 24 · **Sessions:** 4 · **States:** completed 18, failed 5, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bob-cli-hd.9](../../../../../../agents/bbugyi200.athena.bob-cli-hd.9/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261105102857 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hd.9/prompt.md) |
+| [bob-cli-hd.9](../../../../../../agents/bbugyi200.athena.bob-cli-hd.9/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-05T18:14:21.702414+00:00 → 2026-11-05T18:39:06.433908+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hd.9/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hd.9/chat.md) |
 | [bob-cli-hd.7--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-hd.7.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-05T17:35:25.537250+00:00 → 2026-11-05T17:37:51.517269+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hd.7--mon/chat.md) |
 | [bob-cli-hd.4--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-hd.4.md#member-plan) | completed | gpt-6-luna / codex | 2026-11-05T16:09:43.997903+00:00 → 2026-11-05T16:32:09.141202+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hd.4--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hd.4--plan/chat.md) |
 | [bob-cli-hd.4--2](../../../../../../sessions/bbugyi200.athena.bob-cli-hd.4.md#member-2) | completed | muse-spark-1.3-contributor / muse | 2026-11-05T16:53:16.685783+00:00 → 2026-11-05T17:00:32.140104+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hd.4--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hd.4--2/chat.md) |

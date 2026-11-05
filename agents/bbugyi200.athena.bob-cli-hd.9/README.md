@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-hd](../../users/bbugyi200/machines/athena/hoods/bob-cli-hd/README.md) / bob-cli-hd.9
 
-**Global name:** `bbugyi200.athena.bob-cli-hd.9` · **State:** waiting · **Source run:** `run-01dca42b3f6d1852bbca1242b115e043`
+**Global name:** `bbugyi200.athena.bob-cli-hd.9` · **State:** completed · **Source run:** `run-01dca42b3f6d1852bbca1242b115e043`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-hd
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-hd](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hd/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261105102857
-- Commits: 0
+- Timing: 2026-11-05T18:14:21.702414+00:00 → 2026-11-05T18:39:06.433908+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`58e9855`](https://github.com/bobs-org/bob-cli/commit/58e98558fb2c85c438ab866d992123531a90ed53) | docs(memory): link merged-Pomodoro strand to names-follow-types decision and regen glossary | 2026-11-05 13:38:12 EST |
 
 ## Neighbors
 
