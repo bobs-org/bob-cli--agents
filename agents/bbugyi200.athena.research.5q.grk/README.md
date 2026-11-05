@@ -41,9 +41,9 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.5q.cdx](../bbugyi200.athena.research.5q.cdx/README.md) | research.5q hood | completed |
-| [research.5q.cld](../bbugyi200.athena.research.5q.cld/README.md) | research.5q hood | active |
+| [research.5q.cld](../bbugyi200.athena.research.5q.cld/README.md) | research.5q hood | completed |
 | [research.5q.final](../bbugyi200.athena.research.5q.final/README.md) | research.5q hood | waiting |
-| [research.5q.gem](../bbugyi200.athena.research.5q.gem/README.md) | research.5q hood | active |
+| [research.5q.gem](../bbugyi200.athena.research.5q.gem/README.md) | research.5q hood | completed |
 | [research.5q.image](../bbugyi200.athena.research.5q.image/README.md) | research.5q hood | waiting |
 | [research.5q.linker](../bbugyi200.athena.research.5q.linker/README.md) | research.5q hood | waiting |
 | [research.5q.mus](../bbugyi200.athena.research.5q.mus/README.md) | research.5q hood | completed |
@@ -97,4 +97,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 349 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 353 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -37,5 +37,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [185](bbugyi200.athena.185.md) (session · 9) | ancestor | completed 6, failed 3 |
 | [185.f0.f0](../agents/bbugyi200.athena.185.f0.f0/README.md) | 185.f0 hood | active |
 | [185.f0.f2](bbugyi200.athena.185.f0.f2.md) (session · 3) | 185.f0 hood | completed 3 |
-| [185.f0.f2.f0](bbugyi200.athena.185.f0.f2.f0.md) (session · 5) | 185.f0 hood | active 1, completed 3, failed 1 |
-| [185.f0.f2.f0.f0](../agents/bbugyi200.athena.185.f0.f2.f0.f0/README.md) | 185.f0 hood | waiting |
+| [185.f0.f2.f0](bbugyi200.athena.185.f0.f2.f0.md) (session · 5) | 185.f0 hood | completed 4, failed 1 |
+| [185.f0.f2.f0.f0](bbugyi200.athena.185.f0.f2.f0.f0.md) (session · 3) | 185.f0 hood | completed 3 |

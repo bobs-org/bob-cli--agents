@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5q.gem
 
-**Global name:** `bbugyi200.athena.research.5q.gem` · **State:** active · **Source run:** `run-27b1a6526214324bbfc5bda4410b7df8`
+**Global name:** `bbugyi200.athena.research.5q.gem` · **State:** completed · **Source run:** `run-27b1a6526214324bbfc5bda4410b7df8`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-05T13:42:06.686338+00:00
+- Timing: 2026-11-05T13:42:06.686338+00:00 → 2026-11-05T14:01:46.693221+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/pomodoro\_task\_type\_alignment\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261105083801/pomodoro\_task\_type\_alignment\_\_gem-a88e448e3… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/pomodoro_task_type_alignment__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261105083801/pomodoro_task_type_alignment__gem-a88e448e34a4.md
+  ref: file:explicit:c55e8ced788cd2a1ee3bc5f1
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_33/sase/repos/research/202611/pomodoro_task_type_alignment__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.5q.cdx](../bbugyi200.athena.research.5q.cdx/README.md) | research.5q hood | completed |
-| [research.5q.cld](../bbugyi200.athena.research.5q.cld/README.md) | research.5q hood | active |
+| [research.5q.cld](../bbugyi200.athena.research.5q.cld/README.md) | research.5q hood | completed |
 | [research.5q.final](../bbugyi200.athena.research.5q.final/README.md) | research.5q hood | waiting |
 | [research.5q.grk](../bbugyi200.athena.research.5q.grk/README.md) | research.5q hood | completed |
 | [research.5q.image](../bbugyi200.athena.research.5q.image/README.md) | research.5q hood | waiting |
@@ -78,4 +97,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 349 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 353 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
