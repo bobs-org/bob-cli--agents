@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-h8` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-h8.7--gate [completed]"]
-  n1["bob-cli-h8.7--1 [completed]"]
+  n0["bob-cli-h8.7--plan [completed]"]
+  n1["bob-cli-h8.7--1 [active]"]
   n0 --> n1
-  n2["bob-cli-h8.7--plan [completed]"]
+  n2["bob-cli-h8.7--gate [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | bob-cli-h8.7--gate | completed | muse-spark-1.3-contributor / muse | 2026-11-04T22:28:36.797505+00:00 → 2026-11-04T22:31:45.152253+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-h8.7--gate/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-h8.7--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-04T22:35:20.835564+00:00 → 2026-11-04T22:43:38.748772+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-h8.7--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-h8.7--1/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-h8.7--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-04T22:06:56.983266+00:00 → 2026-11-04T22:28:38.460266+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-h8.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-h8.7--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-h8.7--plan | completed | gpt-6-astra / codex | 2026-11-05T21:59:57.309859+00:00 → 2026-11-05T22:16:11.792196+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-h8.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-h8.7--plan/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-h8.7--1 | active | gpt-6-astra / codex | 2026-11-05T22:40:15.722103+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-h8.7--1/prompt.md) | — |
+| <a id="member-gate"></a>gate | bob-cli-h8.7--gate | completed | gpt-6-astra / codex | 2026-11-05T22:16:09.138531+00:00 → 2026-11-05T22:38:11.750531+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-h8.7--gate/chat.md) |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-h8.10](../agents/bbugyi200.athena.bob-cli-h8.10/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.11](../agents/bbugyi200.athena.bob-cli-h8.11/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.12](bbugyi200.athena.bob-cli-h8.12.md) (session · 7) | bob-cli-h8 hood | completed 5, failed 2 |
-| [bob-cli-h8.13](../agents/bbugyi200.athena.bob-cli-h8.13/README.md) | bob-cli-h8 hood | waiting |
+| [bob-cli-h8.13](../agents/bbugyi200.athena.bob-cli-h8.13/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.2](../agents/bbugyi200.athena.bob-cli-h8.2/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.3](../agents/bbugyi200.athena.bob-cli-h8.3/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.4](../agents/bbugyi200.athena.bob-cli-h8.4/README.md) | bob-cli-h8 hood | completed |

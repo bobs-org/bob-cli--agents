@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli %m:gpt-6-astra #coder:~/.sase/plans/202611/close_selection_explicit_mode.md

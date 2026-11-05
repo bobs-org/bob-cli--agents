@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-h8](../../users/bbugyi200/machines/athena/hoods/bob-cli-h8/README.md) / bob-cli-h8.13
 
-**Global name:** `bbugyi200.athena.bob-cli-h8.13` · **State:** waiting · **Source run:** `run-5b18e899f7684c22fb603e3c7a4d8bfc`
+**Global name:** `bbugyi200.athena.bob-cli-h8.13` · **State:** completed · **Source run:** `run-5b18e899f7684c22fb603e3c7a4d8bfc`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-h8
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-h8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-h8/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261104164118
-- Commits: 0
+- Timing: 2026-11-05T21:57:11.845531+00:00 → 2026-11-05T22:42:02.521261+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`4fa96e1`](https://github.com/bobs-org/bob-cli/commit/4fa96e152bae8c00f765934ddb7624b0d6d031df) | docs(task-dependencies): document plugin consumption parity | 2026-11-05 17:41:03 EST |
 
 ## Neighbors
 
@@ -32,7 +38,7 @@
 | [bob-cli-h8.4](../bbugyi200.athena.bob-cli-h8.4/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.5](../../sessions/bbugyi200.athena.bob-cli-h8.5.md) (session · 11) | bob-cli-h8 hood | completed 9, failed 2 |
 | [bob-cli-h8.6](../bbugyi200.athena.bob-cli-h8.6/README.md) | bob-cli-h8 hood | completed |
-| [bob-cli-h8.7](../../sessions/bbugyi200.athena.bob-cli-h8.7.md) (session · 3) | bob-cli-h8 hood | completed 3 |
+| [bob-cli-h8.7](../../sessions/bbugyi200.athena.bob-cli-h8.7.md) (session · 3) | bob-cli-h8 hood | active 1, completed 2 |
 | [bob-cli-h8.8](../bbugyi200.athena.bob-cli-h8.8/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.9](../../sessions/bbugyi200.athena.bob-cli-h8.9.md) (session · 3) | bob-cli-h8 hood | completed 2, failed 1 |
 | [bob-cli-h8.land](../bbugyi200.athena.bob-cli-h8.land/README.md) | bob-cli-h8 hood | waiting |

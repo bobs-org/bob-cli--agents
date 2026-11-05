@@ -1,5 +1,5 @@
-#gh:gh_bobs-org__bob-cli
 %id(7, clan=bob-cli-h8, bead=bob-cli-h8.7)
-%model:@medium
+#gh:gh_bobs-org__bob-cli
+%m:gpt-6-astra 
 %auto
 #bd/work_phase_bead:bob-cli-h8.7

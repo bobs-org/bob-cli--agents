@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-h8](../../users/bbugyi200/machines/athena/hoods/bob-cli-h8/README.md) / [bob-cli-h8.7](../../sessions/bbugyi200.athena.bob-cli-h8.7.md) / bob-cli-h8.7--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-h8.7--plan` · **State:** completed · **Source run:** `run-829f1b524e47beb143b4da3f4448974c`
+**Global name:** `bbugyi200.athena.bob-cli-h8.7--plan` · **State:** completed · **Source run:** `run-ca7cf3b70d7aeaa019252905461c30bc`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-h8
 
 ## Summary
 
 - Bead: [bob-cli-h8.7](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-h8/bob-cli-h8.7.md)
-- Epic: [bob-cli-h8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-h8/README.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 2026-11-04T22:06:56.983266+00:00 → 2026-11-04T22:28:38.460266+00:00
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-11-05T21:59:57.309859+00:00 → 2026-11-05T22:16:11.792196+00:00
 - Commits: 0
 
 ## Files
@@ -27,7 +26,7 @@
 | [bob-cli-h8.10](../bbugyi200.athena.bob-cli-h8.10/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.11](../bbugyi200.athena.bob-cli-h8.11/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.12](../../sessions/bbugyi200.athena.bob-cli-h8.12.md) (session · 7) | bob-cli-h8 hood | completed 5, failed 2 |
-| [bob-cli-h8.13](../bbugyi200.athena.bob-cli-h8.13/README.md) | bob-cli-h8 hood | waiting |
+| [bob-cli-h8.13](../bbugyi200.athena.bob-cli-h8.13/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.2](../bbugyi200.athena.bob-cli-h8.2/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.3](../bbugyi200.athena.bob-cli-h8.3/README.md) | bob-cli-h8 hood | completed |
 | [bob-cli-h8.4](../bbugyi200.athena.bob-cli-h8.4/README.md) | bob-cli-h8 hood | completed |

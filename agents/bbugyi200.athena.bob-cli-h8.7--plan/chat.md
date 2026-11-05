@@ -1,14 +1,14 @@
 # Chat History - ace-run (bob-cli-h8.7--plan)
 
-- **TIMESTAMP:** 2026-11-04 17:28:37 EST
-- **MODEL:** muse/muse-spark-1.3-contributor
+- **TIMESTAMP:** 2026-11-05 17:16:11 EST
+- **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-h8.7--plan
 
 ## Prompt
 
-#gh:gh_bobs-org__bob-cli
 %id(7, clan=bob-cli-h8, bead=bob-cli-h8.7)
-%model:@medium
+#gh:gh_bobs-org__bob-cli
+%m:gpt-6-astra 
 %auto
 Can you complete the work for bead bob-cli-h8.7? The bead is already reserved for you and assigned to your agent
 name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
