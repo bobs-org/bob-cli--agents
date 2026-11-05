@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / 185
 
-**Global hood:** `bbugyi200.athena.185` · **Runs:** 21 · **Sessions:** 5 · **States:** active 3, completed 15, failed 3
+**Global hood:** `bbugyi200.athena.185` · **Runs:** 21 · **Sessions:** 5 · **States:** active 2, completed 16, failed 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -13,7 +13,7 @@
 | [185--3](../../../../../../sessions/bbugyi200.athena.185.md#member-3) | completed | gpt-6-luna / codex | 2026-11-04T20:09:57.194178+00:00 → 2026-11-04T20:40:24.730603+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.185--3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.185--3/chat.md) |
 | [185.f0--gate](../../../../../../sessions/bbugyi200.athena.185.f0.md#member-gate) | completed | opus / claude | 2026-11-04T20:53:32.562701+00:00 → 2026-11-04T20:55:08.265087+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.185.f0--gate/chat.md) |
 | [185--1](../../../../../../sessions/bbugyi200.athena.185.md#member-1) | completed | gpt-6-luna / codex | 2026-11-04T19:47:13.025089+00:00 → 2026-11-04T19:48:41.401171+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.185--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.185--1/chat.md) |
-| [185.f0.f1--code](../../../../../../sessions/bbugyi200.athena.185.f0.f1.md#member-code) | active | gpt-6-luna / codex | 20261104174036 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.185.f0.f1--code/prompt.md) |
+| [185.f0.f1--code](../../../../../../sessions/bbugyi200.athena.185.f0.f1.md#member-code) | completed | gpt-6-luna / codex | 2026-11-04T23:39:14.587473+00:00 → 2026-11-05T01:21:50.565200+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.185.f0.f1--code/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.185.f0.f1--code/chat.md) |
 | [185.f0.f2.f0--plan](../../../../../../sessions/bbugyi200.athena.185.f0.f2.f0.md#member-plan) | completed | opus / claude | 2026-11-04T23:48:31.146023+00:00 → 2026-11-05T00:02:37.065920+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.185.f0.f2.f0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.185.f0.f2.f0--plan/chat.md) |
 | [185.f0.f2--plan](../../../../../../sessions/bbugyi200.athena.185.f0.f2.md#member-plan) | completed | opus / claude | 2026-11-04T22:16:29.553441+00:00 → 2026-11-04T22:35:08.479257+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.185.f0.f2--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.185.f0.f2--plan/chat.md) |
 | [185--mon-1](../../../../../../sessions/bbugyi200.athena.185.md#member-mon-1) | failed | gpt-6-luna / codex | 2026-11-04T19:57:29.034890+00:00 → 2026-11-04T20:09:08.270856+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.185--mon-1/chat.md) |
