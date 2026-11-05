@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["bob-cli-hd.7--2 [completed]"]
   n0 --> n2
-  n3["bob-cli-hd.7--3 [active]"]
+  n3["bob-cli-hd.7--3 [completed]"]
   n0 --> n3
   n4["bob-cli-hd.7--plan [completed]"]
   n0 --> n4
@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | bob-cli-hd.7--mon | failed | gpt-6-luna / codex | 2026-11-05T17:35:25.537250+00:00 → 2026-11-05T17:37:51.517269+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-hd.7--mon/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-hd.7--mon-1 | failed | gpt-6-luna / codex | 2026-11-05T18:02:17.154209+00:00 → 2026-11-05T18:05:19.893168+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-hd.7--mon-1/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-hd.7--2 | completed | gpt-6-luna / codex | 2026-11-05T17:48:26.593161+00:00 → 2026-11-05T18:02:58.229541+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-hd.7--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-hd.7--2/chat.md) |
-| <a id="member-3"></a>3 | bob-cli-hd.7--3 | active | gpt-6-luna / codex | 2026-11-05T18:06:31.157789+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-hd.7--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-hd.7--3 | completed | gpt-6-luna / codex | 2026-11-05T18:06:31.157789+00:00 → 2026-11-05T18:10:33.337567+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-hd.7--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-hd.7--3/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-hd.7--plan | completed | gpt-6-luna / codex | 2026-11-05T17:01:30.115006+00:00 → 2026-11-05T17:35:59.443020+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-hd.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-hd.7--plan/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-hd.7--1 | completed | gpt-6-luna / codex | 2026-11-05T17:39:10.145009+00:00 → 2026-11-05T17:45:08.148456+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-hd.7--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-hd.7--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-hd.7--mon-0 | failed | gpt-6-luna / codex | 2026-11-05T17:44:17.297981+00:00 → 2026-11-05T17:47:52.216093+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-hd.7--mon-0/chat.md) |

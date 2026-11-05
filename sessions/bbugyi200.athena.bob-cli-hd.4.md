@@ -38,7 +38,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-hd.3](../agents/bbugyi200.athena.bob-cli-hd.3/README.md) | bob-cli-hd hood | completed |
 | [bob-cli-hd.5](../agents/bbugyi200.athena.bob-cli-hd.5/README.md) | bob-cli-hd hood | completed |
 | [bob-cli-hd.6](../agents/bbugyi200.athena.bob-cli-hd.6/README.md) | bob-cli-hd hood | completed |
-| [bob-cli-hd.7](bbugyi200.athena.bob-cli-hd.7.md) (session · 7) | bob-cli-hd hood | active 1, completed 3, failed 3 |
+| [bob-cli-hd.7](bbugyi200.athena.bob-cli-hd.7.md) (session · 7) | bob-cli-hd hood | completed 4, failed 3 |
 | [bob-cli-hd.8](bbugyi200.athena.bob-cli-hd.8.md) (session · 3) | bob-cli-hd hood | completed 2, failed 1 |
 | [bob-cli-hd.9](../agents/bbugyi200.athena.bob-cli-hd.9/README.md) | bob-cli-hd hood | waiting |
 | [bob-cli-hd.land](../agents/bbugyi200.athena.bob-cli-hd.land/README.md) | bob-cli-hd hood | waiting |
