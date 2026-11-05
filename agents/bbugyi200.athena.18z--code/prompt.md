@@ -1,0 +1,11 @@
+%model:@medium
+#gh:gh_bobs-org__bob-cli @plan:202611/doctl_login_script.md
+
+The above plan has been reviewed and approved. Implement it now.
+
+Reviewer decisions for this plan (final · reviewer via Telegram):
+- extra_scopes = refuse (planner default: refuse). Implement the "extra_scopes = refuse" branch; ignore "extra_scopes = warn". Context: "Should doctl_login refuse a token that grants more than recovery needs?".
+- runbook_pointer = yes (planner default: yes). Implement the "runbook_pointer = yes" branch; ignore "runbook_pointer = no". Context: "Should Apollo's recovery runbook tell you to run doctl_login instead of hand-running doctl auth init?".
+- memory_tailnet = no. Do not edit tailnet.md. Context: "Should the tailnet memory note say doctl_login sets up the token and agents may run it bare as a read-only check?".
+No other memory note may be edited.
+Implement only the branches selected above.
