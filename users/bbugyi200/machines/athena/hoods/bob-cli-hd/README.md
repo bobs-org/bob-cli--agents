@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-hd
 
-**Global hood:** `bbugyi200.athena.bob-cli-hd` · **Runs:** 16 · **Sessions:** 2 · **States:** active 1, completed 9, failed 1, waiting 5
+**Global hood:** `bbugyi200.athena.bob-cli-hd` · **Runs:** 16 · **Sessions:** 2 · **States:** completed 10, failed 1, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-hd.9](../../../../../../agents/bbugyi200.athena.bob-cli-hd.9/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261105102857 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hd.9/prompt.md) |
 | [bob-cli-hd.4--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-hd.4.md#member-plan) | completed | gpt-6-luna / codex | 2026-11-05T16:09:43.997903+00:00 → 2026-11-05T16:32:09.141202+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hd.4--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hd.4--plan/chat.md) |
-| [bob-cli-hd.4--2](../../../../../../sessions/bbugyi200.athena.bob-cli-hd.4.md#member-2) | active | muse-spark-1.3-contributor / muse | 2026-11-05T16:53:16.685783+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hd.4--2/prompt.md) |
+| [bob-cli-hd.4--2](../../../../../../sessions/bbugyi200.athena.bob-cli-hd.4.md#member-2) | completed | muse-spark-1.3-contributor / muse | 2026-11-05T16:53:16.685783+00:00 → 2026-11-05T17:00:32.140104+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hd.4--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hd.4--2/chat.md) |
 | [bob-cli-hd.land](../../../../../../agents/bbugyi200.athena.bob-cli-hd.land/README.md) | waiting | opus / claude | 20261105102858 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hd.land/prompt.md) |
 | [bob-cli-hd.4--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-hd.4.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-05T16:30:25.193406+00:00 → 2026-11-05T16:36:10.457103+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hd.4--mon/chat.md) |
 | [bob-cli-hd.1--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-hd.1.md#member-plan) | completed | gpt-6-luna / codex | 2026-11-05T15:30:39.673162+00:00 → 2026-11-05T15:43:21.237776+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hd.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hd.1--plan/chat.md) |
