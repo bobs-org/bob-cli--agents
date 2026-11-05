@@ -42,7 +42,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [research.5q.cdx](../bbugyi200.athena.research.5q.cdx/README.md) | research.5q hood | completed |
 | [research.5q.cld](../bbugyi200.athena.research.5q.cld/README.md) | research.5q hood | completed |
-| [research.5q.final](../bbugyi200.athena.research.5q.final/README.md) | research.5q hood | waiting |
+| [research.5q.final](../bbugyi200.athena.research.5q.final/README.md) | research.5q hood | completed |
 | [research.5q.grk](../bbugyi200.athena.research.5q.grk/README.md) | research.5q hood | completed |
 | [research.5q.image](../bbugyi200.athena.research.5q.image/README.md) | research.5q hood | waiting |
 | [research.5q.linker](../bbugyi200.athena.research.5q.linker/README.md) | research.5q hood | waiting |
