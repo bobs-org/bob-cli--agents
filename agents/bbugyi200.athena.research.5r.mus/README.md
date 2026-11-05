@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5r.mus
 
-**Global name:** `bbugyi200.athena.research.5r.mus` · **State:** active · **Source run:** `run-683463b0bfd68c6561dd78ac0149b579`
+**Global name:** `bbugyi200.athena.research.5r.mus` · **State:** completed · **Source run:** `run-683463b0bfd68c6561dd78ac0149b579`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261105090407
+- Timing: 2026-11-05T14:06:43.907895+00:00 → 2026-11-05T14:10:49.604061+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/clipboard\_c\_multi\_entry\_resilience\_\_mus.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261105090407/clipboard\_c\_multi\_entry\_resilience\_\_m… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/clipboard_c_multi_entry_resilience__mus.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261105090407/clipboard_c_multi_entry_resilience__mus-febd216a3d5f.md
+  ref: file:explicit:85816223bcf9f063ef084a25
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_31/sase/repos/research/202611/clipboard_c_multi_entry_resilience__mus.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,8 +42,11 @@
 |---|---|---|
 | [research.5r.cdx](../bbugyi200.athena.research.5r.cdx/README.md) | research.5r hood | active |
 | [research.5r.cld](../bbugyi200.athena.research.5r.cld/README.md) | research.5r hood | active |
+| [research.5r.final](../bbugyi200.athena.research.5r.final/README.md) | research.5r hood | waiting |
 | [research.5r.gem](../bbugyi200.athena.research.5r.gem/README.md) | research.5r hood | active |
 | [research.5r.grk](../bbugyi200.athena.research.5r.grk/README.md) | research.5r hood | active |
+| [research.5r.image](../bbugyi200.athena.research.5r.image/README.md) | research.5r hood | waiting |
+| [research.5r.linker](../bbugyi200.athena.research.5r.linker/README.md) | research.5r hood | waiting |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
