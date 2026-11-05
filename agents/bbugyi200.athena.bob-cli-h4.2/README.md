@@ -13,7 +13,7 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-11-04T20:02:28.126892+00:00 → 2026-11-04T21:09:15.166217+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Files
 
@@ -24,6 +24,7 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | bob-cli | [`decd465`](https://github.com/bobs-org/bob-cli/commit/decd465c2f2f0f2f1dbea7feb444e28c97a2751c) | feat(capture): emit transfer landing blocks | 2026-11-04 15:59:06 EST |
+| bob-cli | [`029b426`](https://github.com/bobs-org/bob-cli/commit/029b426601d6ef840e33cc24e1472b3a985ef7fe) | feat(capture): enrich merge and move records, serialize merge offers, fix copy | 2026-11-04 16:07:48 EST |
 
 ## Neighbors
 
@@ -32,6 +33,6 @@
 | [bob-cli-h4.1](../bbugyi200.athena.bob-cli-h4.1/README.md) | bob-cli-h4 hood | completed |
 | [bob-cli-h4.3](../bbugyi200.athena.bob-cli-h4.3/README.md) | bob-cli-h4 hood | completed |
 | [bob-cli-h4.4](../../sessions/bbugyi200.athena.bob-cli-h4.4.md) (session · 11) | bob-cli-h4 hood | completed 9, failed 2 |
-| [bob-cli-h4.5](../bbugyi200.athena.bob-cli-h4.5/README.md) | bob-cli-h4 hood | waiting |
+| [bob-cli-h4.5](../bbugyi200.athena.bob-cli-h4.5/README.md) | bob-cli-h4 hood | completed |
 | [bob-cli-h4.6](../bbugyi200.athena.bob-cli-h4.6/README.md) | bob-cli-h4 hood | waiting |
 | [bob-cli-h4.land](../bbugyi200.athena.bob-cli-h4.land/README.md) | bob-cli-h4 hood | waiting |
