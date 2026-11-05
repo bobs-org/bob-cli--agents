@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5q.cdx
 
-**Global name:** `bbugyi200.athena.research.5q.cdx` · **State:** active · **Source run:** `run-3ab33a3a31d7c57503791f3c3210279a`
+**Global name:** `bbugyi200.athena.research.5q.cdx` · **State:** completed · **Source run:** `run-3ab33a3a31d7c57503791f3c3210279a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-05T13:39:24.992496+00:00
+- Timing: 2026-11-05T13:39:24.992496+00:00 → 2026-11-05T13:54:03.778205+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/task\_pomodoro\_type\_agreement\_and\_repair\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261105083757/task\_pomodoro\_type\_agreement\_and… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/task_pomodoro_type_agreement_and_repair__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261105083757/task_pomodoro_type_agreement_and_repair__cdx-baaff90c30ac.md
+  ref: file:explicit:0fbe889993aad55128636f2d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_29/sase/repos/research/202611/task_pomodoro_type_agreement_and_repair__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.5q.cld](../bbugyi200.athena.research.5q.cld/README.md) | research.5q hood | active |
 | [research.5q.final](../bbugyi200.athena.research.5q.final/README.md) | research.5q hood | waiting |
 | [research.5q.gem](../bbugyi200.athena.research.5q.gem/README.md) | research.5q hood | active |
-| [research.5q.grk](../bbugyi200.athena.research.5q.grk/README.md) | research.5q hood | active |
+| [research.5q.grk](../bbugyi200.athena.research.5q.grk/README.md) | research.5q hood | completed |
 | [research.5q.image](../bbugyi200.athena.research.5q.image/README.md) | research.5q hood | waiting |
 | [research.5q.linker](../bbugyi200.athena.research.5q.linker/README.md) | research.5q hood | waiting |
 | [research.5q.mus](../bbugyi200.athena.research.5q.mus/README.md) | research.5q hood | completed |
