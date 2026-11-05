@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-hj](../../users/bbugyi200/machines/athena/hoods/bob-cli-hj/README.md) / bob-cli-hj.2
 
-**Global name:** `bbugyi200.athena.bob-cli-hj.2` · **State:** active · **Source run:** `run-370f53c9d7b8e5255a005b190d2077bb`
+**Global name:** `bbugyi200.athena.bob-cli-hj.2` · **State:** completed · **Source run:** `run-370f53c9d7b8e5255a005b190d2077bb`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-hj
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-hj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hj/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-05T21:14:16.164705+00:00
-- Commits: 0
+- Timing: 2026-11-05T21:14:16.164705+00:00 → 2026-11-05T21:59:52.648434+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`6e81677`](https://github.com/bobs-org/bob-cli/commit/6e816775f0252b6bd68af2900699e6bd537168fb) | feat(capture): segment suffix lexer, pins, spans, and teaching errors | 2026-11-05 16:59:22 EST |
 
 ## Neighbors
 

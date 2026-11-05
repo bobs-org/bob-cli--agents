@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-hj
 
-**Global hood:** `bbugyi200.athena.bob-cli-hj` · **Runs:** 7 · **Sessions:** 0 · **States:** active 1, completed 1, waiting 5
+**Global hood:** `bbugyi200.athena.bob-cli-hj` · **Runs:** 7 · **Sessions:** 0 · **States:** completed 2, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-hj.4](../../../../../../agents/bbugyi200.athena.bob-cli-hj.4/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261105143006 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.4/prompt.md) |
 | [bob-cli-hj.5](../../../../../../agents/bbugyi200.athena.bob-cli-hj.5/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261105143007 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.5/prompt.md) |
-| [bob-cli-hj.2](../../../../../../agents/bbugyi200.athena.bob-cli-hj.2/README.md) | active | muse-spark-1.3-contributor / muse | 2026-11-05T21:14:16.164705+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.2/prompt.md) |
+| [bob-cli-hj.2](../../../../../../agents/bbugyi200.athena.bob-cli-hj.2/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-05T21:14:16.164705+00:00 → 2026-11-05T21:59:52.648434+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hj.2/chat.md) |
 | [bob-cli-hj.6](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6/README.md) | waiting | gpt-6-luna / codex | 20261105143008 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6/prompt.md) |
 | [bob-cli-hj.land](../../../../../../agents/bbugyi200.athena.bob-cli-hj.land/README.md) | waiting | opus / claude | 20261105143009 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.land/prompt.md) |
 | [bob-cli-hj.3](../../../../../../agents/bbugyi200.athena.bob-cli-hj.3/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261105143005 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.3/prompt.md) |

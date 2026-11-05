@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-370f53c9d7b8e5255a005b190d2077bb"}
+{"commits":[{"committed_at":1793915962,"sha":"6e816775f0252b6bd68af2900699e6bd537168fb","subject":"feat(capture): segment suffix lexer, pins, spans, and teaching errors"}],"schema_version":2,"source_run_id":"run-370f53c9d7b8e5255a005b190d2077bb"}
