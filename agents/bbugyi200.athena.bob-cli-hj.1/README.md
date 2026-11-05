@@ -50,7 +50,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [bob-cli-hj.2](../bbugyi200.athena.bob-cli-hj.2/README.md) | bob-cli-hj hood | completed |
 | [bob-cli-hj.3](../bbugyi200.athena.bob-cli-hj.3/README.md) | bob-cli-hj hood | completed |
-| [bob-cli-hj.4](../bbugyi200.athena.bob-cli-hj.4/README.md) | bob-cli-hj hood | waiting |
-| [bob-cli-hj.5](../bbugyi200.athena.bob-cli-hj.5/README.md) | bob-cli-hj hood | waiting |
+| [bob-cli-hj.4](../bbugyi200.athena.bob-cli-hj.4/README.md) | bob-cli-hj hood | completed |
+| [bob-cli-hj.5](../bbugyi200.athena.bob-cli-hj.5/README.md) | bob-cli-hj hood | completed |
 | [bob-cli-hj.6](../bbugyi200.athena.bob-cli-hj.6/README.md) | bob-cli-hj hood | waiting |
 | [bob-cli-hj.land](../bbugyi200.athena.bob-cli-hj.land/README.md) | bob-cli-hj hood | waiting |

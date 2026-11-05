@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-14ac8b928a85bd6a6f75882a6486b3c2"}
+{"commits":[{"committed_at":1793922638,"sha":"35c2a426c3411a91e7825c64adf1121fe013e9ac","subject":"feat(capture): add past-Pomodoro segment picker, dash rewrite, and submit guards"}],"schema_version":2,"source_run_id":"run-14ac8b928a85bd6a6f75882a6486b3c2"}
