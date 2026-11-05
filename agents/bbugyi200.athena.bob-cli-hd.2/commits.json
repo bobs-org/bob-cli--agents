@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c7d405612face9a88597b900cec2c9d4"}
+{"commits":[{"committed_at":1793894905,"sha":"1f2b28b03b514a4d72ed313c146a78ef51bd271e","subject":"feat(task-types): shared agreement rule, close settle, and Rust ledger applier"}],"schema_version":2,"source_run_id":"run-c7d405612face9a88597b900cec2c9d4"}
