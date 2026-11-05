@@ -21,6 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.5q.linker.w0](../bbugyi200.athena.research.5q.linker.w0/README.md) | descendant | waiting |
 | [research.5q.cdx](../bbugyi200.athena.research.5q.cdx/README.md) | research.5q hood | completed |
 | [research.5q.cld](../bbugyi200.athena.research.5q.cld/README.md) | research.5q hood | completed |
 | [research.5q.final](../bbugyi200.athena.research.5q.final/README.md) | research.5q hood | completed |
@@ -78,4 +79,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 357 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 358 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
