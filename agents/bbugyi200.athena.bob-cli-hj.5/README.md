@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-hj.1](../bbugyi200.athena.bob-cli-hj.1/README.md) | bob-cli-hj hood | completed |
 | [bob-cli-hj.2](../bbugyi200.athena.bob-cli-hj.2/README.md) | bob-cli-hj hood | completed |
-| [bob-cli-hj.3](../bbugyi200.athena.bob-cli-hj.3/README.md) | bob-cli-hj hood | waiting |
+| [bob-cli-hj.3](../bbugyi200.athena.bob-cli-hj.3/README.md) | bob-cli-hj hood | completed |
 | [bob-cli-hj.4](../bbugyi200.athena.bob-cli-hj.4/README.md) | bob-cli-hj hood | waiting |
 | [bob-cli-hj.6](../bbugyi200.athena.bob-cli-hj.6/README.md) | bob-cli-hj hood | waiting |
 | [bob-cli-hj.land](../bbugyi200.athena.bob-cli-hj.land/README.md) | bob-cli-hj hood | waiting |

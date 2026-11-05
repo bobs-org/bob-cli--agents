@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7499f420558371e38dc3aeef1062f4d1"}
+{"commits":[{"committed_at":1793918563,"sha":"86554bf66551e6f44dd269295cfca19eba570a65","subject":"feat(capture): record pinned past-Pomodoro segments and ship grammar 14"}],"schema_version":2,"source_run_id":"run-7499f420558371e38dc3aeef1062f4d1"}
