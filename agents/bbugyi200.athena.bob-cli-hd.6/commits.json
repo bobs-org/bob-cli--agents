@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5765eb0b6e6b67ad37e69c1e27cef04e"}
+{"commits":[{"committed_at":1793902069,"sha":"bfd7b00570d4eaea7eb6a2ff8021b9a1186619c8","subject":"feat(capture)!: settle close names and retype tasks landing in created entries"}],"schema_version":2,"source_run_id":"run-5765eb0b6e6b67ad37e69c1e27cef04e"}

@@ -28,7 +28,7 @@
 | [bob-cli-hd.3](../bbugyi200.athena.bob-cli-hd.3/README.md) | bob-cli-hd hood | completed |
 | [bob-cli-hd.4](../../sessions/bbugyi200.athena.bob-cli-hd.4.md) (session · 5) | bob-cli-hd hood | completed 4, failed 1 |
 | [bob-cli-hd.5](../bbugyi200.athena.bob-cli-hd.5/README.md) | bob-cli-hd hood | completed |
-| [bob-cli-hd.6](../bbugyi200.athena.bob-cli-hd.6/README.md) | bob-cli-hd hood | waiting |
+| [bob-cli-hd.6](../bbugyi200.athena.bob-cli-hd.6/README.md) | bob-cli-hd hood | completed |
 | [bob-cli-hd.8](../../sessions/bbugyi200.athena.bob-cli-hd.8.md) (session · 3) | bob-cli-hd hood | completed 2, failed 1 |
 | [bob-cli-hd.9](../bbugyi200.athena.bob-cli-hd.9/README.md) | bob-cli-hd hood | waiting |
 | [bob-cli-hd.land](../bbugyi200.athena.bob-cli-hd.land/README.md) | bob-cli-hd hood | waiting |
