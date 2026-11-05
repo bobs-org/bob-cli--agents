@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5q.image
 
-**Global name:** `bbugyi200.athena.research.5q.image` · **State:** waiting · **Source run:** `run-6760e811714a0e72c75ef3cc6325cce1`
+**Global name:** `bbugyi200.athena.research.5q.image` · **State:** completed · **Source run:** `run-6760e811714a0e72c75ef3cc6325cce1`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261105083803
+- Timing: 2026-11-05T14:36:18.809750+00:00 → 2026-11-05T14:53:20.335553+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/pomodoro\_names\_follow\_task\_types/pomodoro\_names\_follow\_task\_types\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2026110508380… |
+| `diagrams` | {considered: 14, count: 1, manifest: 202611/pomodoro\_names\_follow\_task\_types/pomodoro\_names\_follow\_task\_types.diagrams.md, source\_ref: file:explicit:df9d3913517ab531eedbcc93, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/pomodoro_names_follow_task_types/pomodoro_names_follow_task_types_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261105083803/pomodoro_names_follow_task_types_infographic-aead619ee58f.png
+  ref: file:explicit:eea0691f03a8096078552571
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_28/sase/repos/research/202611/pomodoro_names_follow_task_types/pomodoro_names_follow_task_types_infographic.png
+- kind: markdown
+  label: diagrams:202611/pomodoro_names_follow_task_types/pomodoro_names_follow_task_types.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261105083803/pomodoro_names_follow_task_types.diagrams-26c145009e04.md
+  ref: file:explicit:0ba30b84996bb9244a9f7ae7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_28/sase/repos/research/202611/pomodoro_names_follow_task_types/pomodoro_names_follow_task_types.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 1
+manifest: 202611/pomodoro_names_follow_task_types/pomodoro_names_follow_task_types.diagrams.md
+source_ref: file:explicit:df9d3913517ab531eedbcc93
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
