@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5q.linker
 
-**Global name:** `bbugyi200.athena.research.5q.linker` · **State:** waiting · **Source run:** `run-acc74e2c9b1c36869ea3747151a68e62`
+**Global name:** `bbugyi200.athena.research.5q.linker` · **State:** completed · **Source run:** `run-acc74e2c9b1c36869ea3747151a68e62`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261105083804
+- Timing: 2026-11-05T14:55:59.568542+00:00 → 2026-11-05T15:05:11.029215+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/pomodoro\_names\_follow\_task\_types/pomodoro\_names\_follow\_task\_types.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261105083804/pomodoro\_na… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/pomodoro_names_follow_task_types/pomodoro_names_follow_task_types.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261105083804/pomodoro_names_follow_task_types-911f009c63d6.md
+  ref: file:explicit:0e584eb734bf251d1a584134
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_28/sase/repos/research/202611/pomodoro_names_follow_task_types/pomodoro_names_follow_task_types.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
