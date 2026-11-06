@@ -8,6 +8,7 @@
 
 ## Summary
 
+- Bead: [bob-cli-ex](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ex/README.md)
 - Model: sonnet
 - Provider: claude
 - Timing: 2026-11-01T00:36:58.150372+00:00
