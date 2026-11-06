@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-hl](../../users/bbugyi200/machines/athena/hoods/bob-cli-hl/README.md) / [bob-cli-hl.2](../../sessions/bbugyi200.athena.bob-cli-hl.2.md) / bob-cli-hl.2--code
 
-**Global name:** `bbugyi200.athena.bob-cli-hl.2--code` · **State:** active · **Source run:** `run-3879697ae3830ab607845660ca380ea5`
+**Global name:** `bbugyi200.athena.bob-cli-hl.2--code` · **State:** completed · **Source run:** `run-3879697ae3830ab607845660ca380ea5`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-hl
 
@@ -12,8 +12,18 @@
 - Epic: [bob-cli-hl](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hl/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-05T23:31:21.358363+00:00
-- Commits: 0
+- Timing: 2026-11-05T23:31:21.358363+00:00 → 2026-11-06T00:36:04.776313+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`53c1d1a`](https://github.com/bobs-org/bob-cli/commit/53c1d1ad4cbff2d8567718deb2175b887ebdb686) | feat(capture)!: complete merge-in grammar and teaching refusals | 2026-11-05 19:34:53 EST |
 
 ## Neighbors
 

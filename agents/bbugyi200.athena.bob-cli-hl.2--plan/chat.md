@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-hl.2--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_hl_2__plan-261105_180724.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_hl_2__code-261105_180724.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/capture_merge_in_grammar.md
 
 
