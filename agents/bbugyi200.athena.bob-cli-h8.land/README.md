@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-h8](../../users/bbugyi200/machines/athena/hoods/bob-cli-h8/README.md) / bob-cli-h8.land
 
-**Global name:** `bbugyi200.athena.bob-cli-h8.land` · **State:** waiting · **Source run:** `run-30da2328400feba5b38c711c7cbea465`
+**Global name:** `bbugyi200.athena.bob-cli-h8.land` · **State:** completed · **Source run:** `run-30da2328400feba5b38c711c7cbea465`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-h8
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-h8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-h8/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261104164119
+- Timing: 2026-11-05T23:49:31.519981+00:00 → 2026-11-06T00:59:31.515093+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
