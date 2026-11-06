@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1793658348,"sha":"6086791f76b2564e37bd282bd63ea5ef7d2a07a8","subject":"feat(freshness)!: bump freshness JSON to schema 15 with per-rung decay limits"}],"schema_version":2,"source_run_id":"run-53f33ddaa71edf1ed973c1f6c6999f96"}
