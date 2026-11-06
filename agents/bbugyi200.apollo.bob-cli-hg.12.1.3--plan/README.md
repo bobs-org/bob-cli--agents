@@ -29,7 +29,7 @@
 | [bob-cli-hg.12.1.4](../bbugyi200.apollo.bob-cli-hg.12.1.4/README.md) | bob-cli-hg.12.1 hood | completed |
 | [bob-cli-hg.12.1.5](../../sessions/bbugyi200.apollo.bob-cli-hg.12.1.5.md) (session · 5) | bob-cli-hg.12.1 hood | completed 4, failed 1 |
 | [bob-cli-hg.12.1.6](../bbugyi200.apollo.bob-cli-hg.12.1.6/README.md) | bob-cli-hg.12.1 hood | completed |
-| [bob-cli-hg.12.1.land](../bbugyi200.apollo.bob-cli-hg.12.1.land/README.md) | bob-cli-hg.12.1 hood | waiting |
+| [bob-cli-hg.12.1.land](../bbugyi200.apollo.bob-cli-hg.12.1.land/README.md) | bob-cli-hg.12.1 hood | completed |
 | [bob-cli-hg.1](../../sessions/bbugyi200.apollo.bob-cli-hg.1.md) (session · 3) | bob-cli-hg hood | completed 3 |
 | [bob-cli-hg.10](../../sessions/bbugyi200.apollo.bob-cli-hg.10.md) (session · 13) | bob-cli-hg hood | completed 11, failed 2 |
 | [bob-cli-hg.11](../../sessions/bbugyi200.apollo.bob-cli-hg.11.md) (session · 3) | bob-cli-hg hood | completed 2, failed 1 |
