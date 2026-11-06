@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1793590597,"sha":"2e49a561d08777b6ee8a130202f1bd0621670ef4","subject":"feat(gcal): parse event buffers from HTML-safe directive lines"}],"schema_version":2,"source_run_id":"run-dd68a21b49e4b92a039abf4af627cd2b"}
