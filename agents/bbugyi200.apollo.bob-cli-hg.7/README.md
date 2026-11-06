@@ -13,7 +13,7 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-11-06T11:59:51.892449+00:00 → 2026-11-06T14:59:55.855429+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 
 ## Files
 
@@ -24,6 +24,7 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | bob-cli | [`2a37f8c`](https://github.com/bobs-org/bob-cli/commit/2a37f8ce073d8e166590daec83412ad6e49671d8) | feat(gmail): add offline compose and reply notes | 2026-11-06 09:24:02 EST |
+| bob-cli | [`f075147`](https://github.com/bobs-org/bob-cli/commit/f075147f4bb928427a7b21501e863b3c99051b5e) | feat(gmail): swap Gmail URLs for labelled links, and backfill | 2026-11-06 09:57:47 EST |
 
 ## Neighbors
 

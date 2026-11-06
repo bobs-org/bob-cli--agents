@@ -42,6 +42,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | 3 | bob-cli | [`2a37f8c`](https://github.com/bobs-org/bob-cli/commit/2a37f8ce073d8e166590daec83412ad6e49671d8) | feat(gmail): add offline compose and reply notes | 2026-11-06 09:24:02 EST |
 | 3 | bob-cli | [`f075147`](https://github.com/bobs-org/bob-cli/commit/f075147f4bb928427a7b21501e863b3c99051b5e) | feat(gmail): swap Gmail URLs for labelled links, and backfill | 2026-11-06 09:57:47 EST |
 | 3 | bob-cli | [`e096004`](https://github.com/bobs-org/bob-cli/commit/e0960045bf86d88f7f2443b746a7ef48c4643245) | feat(gmail): link captured Gmail URLs without blocking capture | 2026-11-06 10:48:25 EST |
+| — | bob-cli | [`ec39e1a`](https://github.com/bobs-org/bob-cli/commit/ec39e1a00e0ac9339d832d22db956ade66731c47) | feat(gmail): pull label mail and import attachments | 2026-11-06 11:17:57 EST |
 
 ## Variables
 
