@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1793592140,"sha":"50a39221291b7a08b64efd0082582f2e4e9cf9f2","subject":"fix(capture): compose multi-note captures with relation closes and report the final parent"}],"schema_version":2,"source_run_id":"run-18d6fbc54b876b3c5a5231466d9ae7db"}
