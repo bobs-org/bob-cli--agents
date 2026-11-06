@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-hn](../../users/bbugyi200/machines/athena/hoods/bob-cli-hn/README.md) / bob-cli-hn.2
 
-**Global name:** `bbugyi200.athena.bob-cli-hn.2` · **State:** active · **Source run:** `run-b528401c9eda17ea991e371a40c18a93`
+**Global name:** `bbugyi200.athena.bob-cli-hn.2` · **State:** completed · **Source run:** `run-b528401c9eda17ea991e371a40c18a93`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-hn
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-hn](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hn/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-05T23:58:07.104048+00:00
-- Commits: 0
+- Timing: 2026-11-05T23:58:07.104048+00:00 → 2026-11-06T01:23:58.760675+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`53f9c2c`](https://github.com/bobs-org/bob-cli/commit/53f9c2c758653cb54fbb1fd4d4339d18ae23d459) | feat(capture): add staged offer close descriptors | 2026-11-05 20:19:35 EST |
 
 ## Neighbors
 
