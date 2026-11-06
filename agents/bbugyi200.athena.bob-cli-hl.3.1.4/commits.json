@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-94f62ac2c89f4a62409f96bbe17ba118"}
+{"commits":[{"committed_at":1793934599,"sha":"fbb6da46fdfff73a1b358e7087336806498a247c","subject":"feat(capture): complete merge-in feedback — pending context, copy, and stdin guard"}],"schema_version":2,"source_run_id":"run-94f62ac2c89f4a62409f96bbe17ba118"}
