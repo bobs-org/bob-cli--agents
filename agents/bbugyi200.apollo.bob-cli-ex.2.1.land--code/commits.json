@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1793544788,"sha":"f41123201f285887d63e1ed50802c7bd118e38d0","subject":"fix(capture): refuse route-less sealed offers and keep offer mode while incomplete"}],"schema_version":2,"source_run_id":"run-3d78d1e0190cb6ba70831721e7d9957e"}

@@ -1,0 +1,48 @@
+# Agent: bob-cli-ey.1--gate
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ey](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ey/README.md) / [bob-cli-ey.1](../../sessions/bbugyi200.apollo.bob-cli-ey.1.md) / bob-cli-ey.1--gate
+
+**Global name:** `bbugyi200.apollo.bob-cli-ey.1--gate` · **State:** active · **Source run:** `run-e2b857d711d1352ea702242e745f1e95`
+
+**Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ey
+
+## Summary
+
+- Bead: [bob-cli-ey.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ey/bob-cli-ey.1.md)
+- Epic: [bob-cli-ey](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ey/README.md)
+- Model: opus
+- Provider: claude
+- Timing: 2026-10-31T16:57:48.742423+00:00
+- Commits: 0
+
+## Files
+
+[Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-ey.1.1.1](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.1.md) (session · 21) | descendant | active 21 |
+| [bob-cli-ey.1.1.2](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.2.md) (session · 7) | descendant | active 7 |
+| [bob-cli-ey.1.1.3](../bbugyi200.apollo.bob-cli-ey.1.1.3/README.md) | descendant | active |
+| [bob-cli-ey.1.1.4](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.4.md) (session · 5) | descendant | active 5 |
+| [bob-cli-ey.1.1.5](../bbugyi200.apollo.bob-cli-ey.1.1.5/README.md) | descendant | active |
+| [bob-cli-ey.1.1.6](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.6.md) (session · 9) | descendant | active 9 |
+| [bob-cli-ey.1.1.land](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.land.md) (session · 3) | descendant | active 2, completed 1 |
+| [bob-cli-ey.2](../../sessions/bbugyi200.apollo.bob-cli-ey.2.md) (session · 9) | bob-cli-ey hood | active 7, completed 1, failed 1 |
+| [bob-cli-ey.3](../../sessions/bbugyi200.apollo.bob-cli-ey.3.md) (session · 3) | bob-cli-ey hood | active 3 |
+| [bob-cli-ey.3.1.1](../bbugyi200.apollo.bob-cli-ey.3.1.1/README.md) | bob-cli-ey hood | active |
+| [bob-cli-ey.3.1.2](../../sessions/bbugyi200.apollo.bob-cli-ey.3.1.2.md) (session · 21) | bob-cli-ey hood | active 21 |
+| [bob-cli-ey.3.1.3](../bbugyi200.apollo.bob-cli-ey.3.1.3/README.md) | bob-cli-ey hood | active |
+| [bob-cli-ey.3.1.4](../bbugyi200.apollo.bob-cli-ey.3.1.4/README.md) | bob-cli-ey hood | active |
+| [bob-cli-ey.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-ey.3.1.land.md) (session · 9) | bob-cli-ey hood | active 7, completed 2 |
+| [bob-cli-ey.4](../bbugyi200.apollo.bob-cli-ey.4/README.md) | bob-cli-ey hood | active |
+| [bob-cli-ey.5](../bbugyi200.apollo.bob-cli-ey.5/README.md) | bob-cli-ey hood | active |
+| [bob-cli-ey.6](../bbugyi200.apollo.bob-cli-ey.6/README.md) | bob-cli-ey hood | active |
+| [bob-cli-ey.7.1](../bbugyi200.apollo.bob-cli-ey.7.1/README.md) | bob-cli-ey hood | active |
+| [bob-cli-ey.7.2](../bbugyi200.apollo.bob-cli-ey.7.2/README.md) | bob-cli-ey hood | active |
+| [bob-cli-ey.7.3](../../sessions/bbugyi200.apollo.bob-cli-ey.7.3.md) (session · 5) | bob-cli-ey hood | active 5 |
+| [bob-cli-ey.7.4](../../sessions/bbugyi200.apollo.bob-cli-ey.7.4.md) (session · 25) | bob-cli-ey hood | active 13, completed 9, failed 3 |
+| [bob-cli-ey.7.land](../../sessions/bbugyi200.apollo.bob-cli-ey.7.land.md) (session · 5) | bob-cli-ey hood | active 3, completed 2 |
+| [bob-cli-ey.land](../../sessions/bbugyi200.apollo.bob-cli-ey.land.md) (session · 3) | bob-cli-ey hood | active 3 |
