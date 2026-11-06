@@ -12,10 +12,45 @@
 - Provider: codex
 - Timing: 20261028064535
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202610/cancel\_labels\_for\_task\_relations/cancel\_labels\_for\_task\_relations\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261028064535/canc… |
+| `diagrams` | {considered: 18, count: 2, manifest: 202610/cancel\_labels\_for\_task\_relations/cancel\_labels\_for\_task\_relations.diagrams.md, source\_ref: file:explicit:c2df973625489b7bb8aea6a3, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202610/cancel_labels_for_task_relations/cancel_labels_for_task_relations_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261028064535/cancel_labels_for_task_relations_infographic-b50596df3f65.png
+  ref: file:explicit:a8b081d58599e3f044ca66b7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/cancel_labels_for_task_relations/cancel_labels_for_task_relations_infographic.png
+- kind: markdown
+  label: diagrams:202610/cancel_labels_for_task_relations/cancel_labels_for_task_relations.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261028064535/cancel_labels_for_task_relations.diagrams-77b8af885c3f.md
+  ref: file:explicit:f185d80afd41e80f4bd13a39
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/cancel_labels_for_task_relations/cancel_labels_for_task_relations.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 18
+count: 2
+manifest: 202610/cancel_labels_for_task_relations/cancel_labels_for_task_relations.diagrams.md
+source_ref: file:explicit:c2df973625489b7bb8aea6a3
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +62,8 @@
 | [research.2r.gem](../bbugyi200.apollo.research.2r.gem/README.md) | research.2r hood | completed |
 | [research.2r.grk](../bbugyi200.apollo.research.2r.grk/README.md) | research.2r hood | completed |
 | [research.2r.linker](../bbugyi200.apollo.research.2r.linker/README.md) | research.2r hood | waiting |
-| [research.2r.linker.w0](../bbugyi200.apollo.research.2r.linker.w0/README.md) | research.2r hood | waiting |
+| [research.2r.linker.w0](../../sessions/bbugyi200.apollo.research.2r.linker.w0.md) (session · 3) | research.2r hood | active 1, completed 2 |
+| [research.2r.linker.w0.w0](../bbugyi200.apollo.research.2r.linker.w0.w0/README.md) | research.2r hood | active |
 | [research.2r.mus](../bbugyi200.apollo.research.2r.mus/README.md) | research.2r hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
@@ -79,4 +115,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 412 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 605 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

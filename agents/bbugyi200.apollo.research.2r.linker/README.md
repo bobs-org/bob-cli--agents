@@ -12,16 +12,36 @@
 - Provider: claude
 - Timing: 20261028064536
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/cancel\_labels\_for\_task\_relations/cancel\_labels\_for\_task\_relations.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261028064536/cancel\_labe… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/cancel_labels_for_task_relations/cancel_labels_for_task_relations.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261028064536/cancel_labels_for_task_relations-f6f738e5a231.md
+  ref: file:explicit:8e71d15e5c8e4ea69eea6006
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202610/cancel_labels_for_task_relations/cancel_labels_for_task_relations.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.2r.linker.w0](../bbugyi200.apollo.research.2r.linker.w0/README.md) | descendant | waiting |
+| [research.2r.linker.w0](../../sessions/bbugyi200.apollo.research.2r.linker.w0.md) (session · 3) | descendant | active 1, completed 2 |
+| [research.2r.linker.w0.w0](../bbugyi200.apollo.research.2r.linker.w0.w0/README.md) | descendant | active |
 | [research.2r.cdx](../bbugyi200.apollo.research.2r.cdx/README.md) | research.2r hood | completed |
 | [research.2r.cld](../bbugyi200.apollo.research.2r.cld/README.md) | research.2r hood | completed |
 | [research.2r.final](../bbugyi200.apollo.research.2r.final/README.md) | research.2r hood | active |
@@ -79,4 +99,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 412 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 605 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

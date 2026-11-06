@@ -12,10 +12,45 @@
 - Provider: codex
 - Timing: 20261028071009
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202610/task\_theme\_suggestions\_and\_overrides/task\_theme\_suggestions\_and\_overrides\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261028071… |
+| `diagrams` | {considered: 13, count: 1, manifest: 202610/task\_theme\_suggestions\_and\_overrides/task\_theme\_suggestions\_and\_overrides.diagrams.md, source\_ref: file:explicit:2783f2e194d16a4367c3a280, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202610/task_theme_suggestions_and_overrides/task_theme_suggestions_and_overrides_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261028071009/task_theme_suggestions_and_overrides_infographic-5f60ec15cf11.png
+  ref: file:explicit:614fabf8bb7e718928740415
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/task_theme_suggestions_and_overrides/task_theme_suggestions_and_overrides_infographic.png
+- kind: markdown
+  label: diagrams:202610/task_theme_suggestions_and_overrides/task_theme_suggestions_and_overrides.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261028071009/task_theme_suggestions_and_overrides.diagrams-53cb69a4a89b.md
+  ref: file:explicit:7070257e480497735e186e68
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/task_theme_suggestions_and_overrides/task_theme_suggestions_and_overrides.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 13
+count: 1
+manifest: 202610/task_theme_suggestions_and_overrides/task_theme_suggestions_and_overrides.diagrams.md
+source_ref: file:explicit:2783f2e194d16a4367c3a280
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +62,7 @@
 | [research.2s.gem](../bbugyi200.apollo.research.2s.gem/README.md) | research.2s hood | active |
 | [research.2s.grk](../bbugyi200.apollo.research.2s.grk/README.md) | research.2s hood | active |
 | [research.2s.linker](../bbugyi200.apollo.research.2s.linker/README.md) | research.2s hood | waiting |
+| [research.2s.linker.w0](../../sessions/bbugyi200.apollo.research.2s.linker.w0.md) (session · 3) | research.2s hood | active 1, completed 2 |
 | [research.2s.mus](../bbugyi200.apollo.research.2s.mus/README.md) | research.2s hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
@@ -78,4 +114,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 413 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 606 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

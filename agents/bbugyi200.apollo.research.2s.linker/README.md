@@ -12,15 +12,35 @@
 - Provider: claude
 - Timing: 20261028071010
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202610/task\_theme\_suggestions\_and\_overrides/task\_theme\_suggestions\_and\_overrides.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261028071010/tas… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202610/task_theme_suggestions_and_overrides/task_theme_suggestions_and_overrides.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261028071010/task_theme_suggestions_and_overrides-32ec326c5067.md
+  ref: file:explicit:b18a432664e04dc5eaa7c767
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202610/task_theme_suggestions_and_overrides/task_theme_suggestions_and_overrides.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.2s.linker.w0](../../sessions/bbugyi200.apollo.research.2s.linker.w0.md) (session · 3) | descendant | active 1, completed 2 |
 | [research.2s.cdx](../bbugyi200.apollo.research.2s.cdx/README.md) | research.2s hood | active |
 | [research.2s.cld](../bbugyi200.apollo.research.2s.cld/README.md) | research.2s hood | active |
 | [research.2s.final](../bbugyi200.apollo.research.2s.final/README.md) | research.2s hood | waiting |
@@ -78,4 +98,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 413 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 606 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
