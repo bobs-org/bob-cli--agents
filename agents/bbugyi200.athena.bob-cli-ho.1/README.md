@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ho](../../users/bbugyi200/machines/athena/hoods/bob-cli-ho/README.md) / bob-cli-ho.1
 
-**Global name:** `bbugyi200.athena.bob-cli-ho.1` · **State:** active · **Source run:** `run-69780162e33f12da67dacf43fbad6b23`
+**Global name:** `bbugyi200.athena.bob-cli-ho.1` · **State:** completed · **Source run:** `run-69780162e33f12da67dacf43fbad6b23`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ho
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ho](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ho/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-05T23:49:51.940678+00:00
-- Commits: 0
+- Timing: 2026-11-05T23:49:51.940678+00:00 → 2026-11-06T00:39:53.356443+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8eecf0c`](https://github.com/bobs-org/bob-cli/commit/8eecf0c4ba01712cb8a7807439c622c484f17630) | feat(freshness): order PRE and POST review stages | 2026-11-05 19:39:18 EST |
 
 ## Neighbors
 
