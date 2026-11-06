@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-11-06T17:48:38.136962+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/install\_all\_progress\_and\_whats\_new\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261106124759/install\_all\_progress\_and\_whats\_new\_\_c… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/install_all_progress_and_whats_new__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261106124759/install_all_progress_and_whats_new__cld-cf15c3de49b5.md
+  ref: file:explicit:f73fcf37001f1e6efd56fc6f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/install_all_progress_and_whats_new__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
