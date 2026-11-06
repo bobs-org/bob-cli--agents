@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3j.gem
 
-**Global name:** `bbugyi200.apollo.research.3j.gem` · **State:** active · **Source run:** `run-0013f4d6086855fcf5d9cfae90f33840`
+**Global name:** `bbugyi200.apollo.research.3j.gem` · **State:** completed · **Source run:** `run-0013f4d6086855fcf5d9cfae90f33840`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,21 +10,40 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-06T17:49:34.897037+00:00
+- Timing: 2026-11-06T17:49:34.897037+00:00 → 2026-11-06T18:01:19.504495+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/install\_all\_progress\_and\_commit\_ux\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261106124802/install\_all\_progress\_and\_commit\_ux\_\_g… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/install_all_progress_and_commit_ux__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261106124802/install_all_progress_and_commit_ux__gem-378b87097991.md
+  ref: file:explicit:8ed9514d49988dd4c57d2142
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202611/install_all_progress_and_commit_ux__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3j.cdx](../bbugyi200.apollo.research.3j.cdx/README.md) | research.3j hood | active |
+| [research.3j.cdx](../bbugyi200.apollo.research.3j.cdx/README.md) | research.3j hood | completed |
 | [research.3j.cld](../bbugyi200.apollo.research.3j.cld/README.md) | research.3j hood | active |
 | [research.3j.final](../bbugyi200.apollo.research.3j.final/README.md) | research.3j hood | waiting |
-| [research.3j.grk](../bbugyi200.apollo.research.3j.grk/README.md) | research.3j hood | active |
+| [research.3j.grk](../bbugyi200.apollo.research.3j.grk/README.md) | research.3j hood | completed |
 | [research.3j.image](../bbugyi200.apollo.research.3j.image/README.md) | research.3j hood | waiting |
 | [research.3j.linker](../bbugyi200.apollo.research.3j.linker/README.md) | research.3j hood | waiting |
 | [research.3j.mus](../bbugyi200.apollo.research.3j.mus/README.md) | research.3j hood | completed |
