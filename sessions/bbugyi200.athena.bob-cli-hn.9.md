@@ -52,4 +52,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-hn.6.1.land](bbugyi200.athena.bob-cli-hn.6.1.land.md) (session · 5) | bob-cli-hn hood | completed 4, failed 1 |
 | [bob-cli-hn.7](../agents/bbugyi200.athena.bob-cli-hn.7/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.8](../agents/bbugyi200.athena.bob-cli-hn.8/README.md) | bob-cli-hn hood | completed |
-| [bob-cli-hn.land](bbugyi200.athena.bob-cli-hn.land.md) (session · 3) | bob-cli-hn hood | active 2, completed 1 |
+| [bob-cli-hn.land](bbugyi200.athena.bob-cli-hn.land.md) (session · 11) | bob-cli-hn hood | completed 7, failed 4 |
