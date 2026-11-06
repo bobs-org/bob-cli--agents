@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-hg](../../users/bbugyi200/machines/apollo/hoods/bob-cli-hg/README.md) / bob-cli-hg.12.1.6
 
-**Global name:** `bbugyi200.apollo.bob-cli-hg.12.1.6` · **State:** waiting · **Source run:** `run-07d447f6d0f1e31e4c5fe7c285a9bb74`
+**Global name:** `bbugyi200.apollo.bob-cli-hg.12.1.6` · **State:** completed · **Source run:** `run-07d447f6d0f1e31e4c5fe7c285a9bb74`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-hg
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-hg.12.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hg/bob-cli-hg.12.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261106071337
-- Commits: 0
+- Timing: 2026-11-06T20:27:01.714259+00:00 → 2026-11-06T20:55:12.830297+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`ae624e2`](https://github.com/bobs-org/bob-cli/commit/ae624e2791aafc17d099cdf84244d7238787c625) | docs(gmail): document compose send flow and pin contract fixtures | 2026-11-06 15:54:12 EST |
 
 ## Neighbors
 
