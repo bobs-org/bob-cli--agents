@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me fix the `<alt+p>` Obsidian keymap as described by the alt_p_priority_contract.md file in the research sidecar repo? #plan %m:@xlarge
