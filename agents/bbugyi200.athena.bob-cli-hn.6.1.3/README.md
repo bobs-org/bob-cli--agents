@@ -27,7 +27,7 @@
 | [bob-cli-hn.6.1.1](../bbugyi200.athena.bob-cli-hn.6.1.1/README.md) | bob-cli-hn.6.1 hood | completed |
 | [bob-cli-hn.6.1.2](../../sessions/bbugyi200.athena.bob-cli-hn.6.1.2.md) (session · 7) | bob-cli-hn.6.1 hood | completed 4, failed 3 |
 | [bob-cli-hn.6.1.4](../../sessions/bbugyi200.athena.bob-cli-hn.6.1.4.md) (session · 5) | bob-cli-hn.6.1 hood | completed 3, failed 2 |
-| [bob-cli-hn.6.1.land](../../sessions/bbugyi200.athena.bob-cli-hn.6.1.land.md) (session · 3) | bob-cli-hn.6.1 hood | active 2, completed 1 |
+| [bob-cli-hn.6.1.land](../../sessions/bbugyi200.athena.bob-cli-hn.6.1.land.md) (session · 5) | bob-cli-hn.6.1 hood | completed 4, failed 1 |
 | [bob-cli-hn.1](../bbugyi200.athena.bob-cli-hn.1/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.2](../bbugyi200.athena.bob-cli-hn.2/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.3](../bbugyi200.athena.bob-cli-hn.3/README.md) | bob-cli-hn hood | completed |
