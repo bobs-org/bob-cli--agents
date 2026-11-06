@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-i0](../../users/bbugyi200/machines/athena/hoods/bob-cli-i0/README.md) / bob-cli-i0.4
 
-**Global name:** `bbugyi200.athena.bob-cli-i0.4` · **State:** waiting · **Source run:** `run-cc306f3f45a5d026ea678e586fdad1b7`
+**Global name:** `bbugyi200.athena.bob-cli-i0.4` · **State:** completed · **Source run:** `run-cc306f3f45a5d026ea678e586fdad1b7`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-i0
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-i0](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-i0/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261106151335
-- Commits: 0
+- Timing: 2026-11-06T20:59:17.157361+00:00 → 2026-11-06T21:10:40.078213+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`9ade2d6`](https://github.com/bobs-org/bob-cli/commit/9ade2d64ac64a5935512501890d550224f592940) | feat(install): pull everything first, print the digest, end with a signal | 2026-11-06 16:10:16 EST |
 
 ## Neighbors
 
