@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-hj
 
-**Global hood:** `bbugyi200.athena.bob-cli-hj` · **Runs:** 61 · **Sessions:** 1 · **States:** active 1, completed 39, failed 20, waiting 1
+**Global hood:** `bbugyi200.athena.bob-cli-hj` · **Runs:** 61 · **Sessions:** 1 · **States:** completed 41, failed 20
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -24,10 +24,10 @@
 | [bob-cli-hj.6--mon-g](../../../../../../sessions/bbugyi200.athena.bob-cli-hj.6.md#member-mon-g) | completed | gpt-6-luna / codex | 2026-11-06T06:35:07.765246+00:00 → 2026-11-06T06:39:19.597455+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--mon-g/chat.md) |
 | [bob-cli-hj.6--mon-0](../../../../../../sessions/bbugyi200.athena.bob-cli-hj.6.md#member-mon-0) | completed | gpt-6-luna / codex | 2026-11-06T00:50:34.038054+00:00 → 2026-11-06T00:54:44.028958+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--mon-0/chat.md) |
 | [bob-cli-hj.6--7](../../../../../../sessions/bbugyi200.athena.bob-cli-hj.6.md#member-7) | completed | gpt-6-luna / codex | 2026-11-06T02:52:31.049250+00:00 → 2026-11-06T02:57:17.270200+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--7/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--7/chat.md) |
-| [bob-cli-hj.land](../../../../../../agents/bbugyi200.athena.bob-cli-hj.land/README.md) | waiting | opus / claude | 20261105143009 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.land/prompt.md) |
+| [bob-cli-hj.land](../../../../../../agents/bbugyi200.athena.bob-cli-hj.land/README.md) | completed | opus / claude | 2026-11-06T12:00:08.405040+00:00 → 2026-11-06T12:50:26.050395+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.land/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hj.land/chat.md) |
 | [bob-cli-hj.6--n](../../../../../../sessions/bbugyi200.athena.bob-cli-hj.6.md#member-n) | completed | gpt-6-luna / codex | 2026-11-06T08:35:25.244839+00:00 → 2026-11-06T08:41:48.359222+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--n/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--n/chat.md) |
 | [bob-cli-hj.6--mon-8](../../../../../../sessions/bbugyi200.athena.bob-cli-hj.6.md#member-mon-8) | failed | gpt-6-luna / codex | 2026-11-06T03:19:12.463514+00:00 → 2026-11-06T03:38:26.724838+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--mon-8/chat.md) |
-| [bob-cli-hj.6--r](../../../../../../sessions/bbugyi200.athena.bob-cli-hj.6.md#member-r) | active | gpt-6-luna / codex | 2026-11-06T10:36:51.253948+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--r/prompt.md) |
+| [bob-cli-hj.6--r](../../../../../../sessions/bbugyi200.athena.bob-cli-hj.6.md#member-r) | completed | gpt-6-luna / codex | 2026-11-06T10:36:51.253948+00:00 → 2026-11-06T11:36:32.038207+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--r/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--r/chat.md) |
 | [bob-cli-hj.3](../../../../../../agents/bbugyi200.athena.bob-cli-hj.3/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-05T22:02:19.703209+00:00 → 2026-11-05T22:43:12.469616+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-hj.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hj.3/chat.md) |
 | [bob-cli-hj.6--mon-p](../../../../../../sessions/bbugyi200.athena.bob-cli-hj.6.md#member-mon-p) | failed | gpt-6-luna / codex | 2026-11-06T10:16:30.883083+00:00 → 2026-11-06T10:35:23.598464+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--mon-p/chat.md) |
 | [bob-cli-hj.6--mon-4](../../../../../../sessions/bbugyi200.athena.bob-cli-hj.6.md#member-mon-4) | completed | gpt-6-luna / codex | 2026-11-06T02:23:46.369230+00:00 → 2026-11-06T02:30:03.687742+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-hj.6--mon-4/chat.md) |
