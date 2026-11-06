@@ -32,7 +32,7 @@
 | [bob-cli-i0.2](../bbugyi200.athena.bob-cli-i0.2/README.md) | bob-cli-i0 hood | completed |
 | [bob-cli-i0.3](../bbugyi200.athena.bob-cli-i0.3/README.md) | bob-cli-i0 hood | completed |
 | [bob-cli-i0.4](../bbugyi200.athena.bob-cli-i0.4/README.md) | bob-cli-i0 hood | completed |
-| [bob-cli-i0.5](../bbugyi200.athena.bob-cli-i0.5/README.md) | bob-cli-i0 hood | waiting |
+| [bob-cli-i0.5](../bbugyi200.athena.bob-cli-i0.5/README.md) | bob-cli-i0 hood | completed |
 | [bob-cli-i0.6](../bbugyi200.athena.bob-cli-i0.6/README.md) | bob-cli-i0 hood | waiting |
 | [bob-cli-i0.7](../bbugyi200.athena.bob-cli-i0.7/README.md) | bob-cli-i0 hood | waiting |
 | [bob-cli-i0.land](../bbugyi200.athena.bob-cli-i0.land/README.md) | bob-cli-i0 hood | waiting |
