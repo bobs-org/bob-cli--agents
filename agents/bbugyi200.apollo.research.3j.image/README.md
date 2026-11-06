@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3j.image
 
-**Global name:** `bbugyi200.apollo.research.3j.image` · **State:** waiting · **Source run:** `run-4c525632ff930dab0ad776709151ad56`
+**Global name:** `bbugyi200.apollo.research.3j.image` · **State:** completed · **Source run:** `run-4c525632ff930dab0ad776709151ad56`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,52 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261106124804
+- Timing: 2026-11-06T19:20:38.828542+00:00 → 2026-11-06T19:30:46.517232+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/install\_all\_wait\_and\_whats\_new/install\_all\_wait\_and\_whats\_new\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261106124804/in… |
+| `diagrams` | {considered: 18, count: 2, manifest: 202611/install\_all\_wait\_and\_whats\_new/install\_all\_wait\_and\_whats\_new.diagrams.md, source\_ref: file:explicit:0244dc46fc7b4a3bfea5fe7e, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/install_all_wait_and_whats_new/install_all_wait_and_whats_new_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261106124804/install_all_wait_and_whats_new_infographic-814f2cef2418.png
+  ref: file:explicit:a759ad35112f903edcd2d064
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/install_all_wait_and_whats_new/install_all_wait_and_whats_new_infographic.png
+- kind: markdown
+  label: diagrams:202611/install_all_wait_and_whats_new/install_all_wait_and_whats_new.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261106124804/install_all_wait_and_whats_new.diagrams-2b62c0e4200b.md
+  ref: file:explicit:55366e203ea9b525066227cb
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/install_all_wait_and_whats_new/install_all_wait_and_whats_new.diagrams.md
+- kind: file
+  label: Infographic generation prompt
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261106124804/image-prompt-b6ed4bafa049.txt
+  ref: file:explicit:b88c7167d5eac115b2fb0b52
+  source_path: /tmp/install-visuals.NB24q9/image-prompt.txt
+```
+
+#### diagrams
+
+```yaml
+considered: 18
+count: 2
+manifest: 202611/install_all_wait_and_whats_new/install_all_wait_and_whats_new.diagrams.md
+source_ref: file:explicit:0244dc46fc7b4a3bfea5fe7e
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
