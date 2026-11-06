@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5s.linker
 
-**Global name:** `bbugyi200.athena.research.5s.linker` · **State:** waiting · **Source run:** `run-a2178d29ca43c23bb0f3a92e3f4cafb9`
+**Global name:** `bbugyi200.athena.research.5s.linker` · **State:** completed · **Source run:** `run-a2178d29ca43c23bb0f3a92e3f4cafb9`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261106073025
+- Timing: 2026-11-06T13:18:07.850944+00:00 → 2026-11-06T13:27:47.353108+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bob\_gmail\_everyday\_guide/bob\_gmail\_everyday\_guide.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261106073025/bob\_gmail\_everyday\_guide-82… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bob_gmail_everyday_guide/bob_gmail_everyday_guide.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261106073025/bob_gmail_everyday_guide-82161d830fbb.md
+  ref: file:explicit:71d0897c00b4db73f7149cc2
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_30/sase/repos/research/202611/bob_gmail_everyday_guide/bob_gmail_everyday_guide.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
