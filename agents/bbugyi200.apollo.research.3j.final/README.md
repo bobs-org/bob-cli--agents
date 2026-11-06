@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3j.final
 
-**Global name:** `bbugyi200.apollo.research.3j.final` · **State:** waiting · **Source run:** `run-08b96b13b0736df615c343fbc62a14d0`
+**Global name:** `bbugyi200.apollo.research.3j.final` · **State:** completed · **Source run:** `run-08b96b13b0736df615c343fbc62a14d0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261106124803
+- Timing: 2026-11-06T18:56:29.188665+00:00 → 2026-11-06T19:19:29.365914+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/install\_all\_wait\_and\_whats\_new/install\_all\_wait\_and\_whats\_new\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261106124803/install\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/install_all_wait_and_whats_new/install_all_wait_and_whats_new__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261106124803/install_all_wait_and_whats_new__final-5b1a8466ef7e.md
+  ref: file:explicit:0244dc46fc7b4a3bfea5fe7e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/install_all_wait_and_whats_new/install_all_wait_and_whats_new__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
