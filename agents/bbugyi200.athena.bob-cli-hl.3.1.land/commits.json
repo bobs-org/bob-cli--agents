@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6973f8b6807592cc99bcf779159b24b9"}
+{"commits":[{"committed_at":1793946929,"sha":"248a2bfa3b53e68d02e5f4976f76c75e3575add1","subject":"refactor(capture): share merge source eligibility with merge-in pending and picker"}],"schema_version":2,"source_run_id":"run-6973f8b6807592cc99bcf779159b24b9"}

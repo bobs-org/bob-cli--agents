@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-hl](../../users/bbugyi200/machines/athena/hoods/bob-cli-hl/README.md) / bob-cli-hl.3.1.land
 
-**Global name:** `bbugyi200.athena.bob-cli-hl.3.1.land` · **State:** waiting · **Source run:** `run-6973f8b6807592cc99bcf779159b24b9`
+**Global name:** `bbugyi200.athena.bob-cli-hl.3.1.land` · **State:** completed · **Source run:** `run-6973f8b6807592cc99bcf779159b24b9`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-hl
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-hl.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hl/bob-cli-hl.3.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261105195212
-- Commits: 0
+- Timing: 2026-11-06T06:02:14.567000+00:00 → 2026-11-06T06:36:15.345730+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`248a2bf`](https://github.com/bobs-org/bob-cli/commit/248a2bfa3b53e68d02e5f4976f76c75e3575add1) | refactor(capture): share merge source eligibility with merge-in pending and picker | 2026-11-06 01:35:29 EST |
 
 ## Neighbors
 
