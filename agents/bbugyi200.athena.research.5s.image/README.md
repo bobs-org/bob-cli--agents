@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5s.image
 
-**Global name:** `bbugyi200.athena.research.5s.image` · **State:** waiting · **Source run:** `run-e5703efc7c5dd02b35843edfe2694d12`
+**Global name:** `bbugyi200.athena.research.5s.image` · **State:** completed · **Source run:** `run-e5703efc7c5dd02b35843edfe2694d12`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261106073024
+- Timing: 2026-11-06T13:03:45.441341+00:00 → 2026-11-06T13:15:07.227003+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/bob\_gmail\_everyday\_guide/bob\_gmail\_everyday\_guide\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261106073024/bob\_gmail\_everyday\_g… |
+| `diagrams` | {considered: 20, count: 2, manifest: 202611/bob\_gmail\_everyday\_guide/bob\_gmail\_everyday\_guide.diagrams.md, source\_ref: file:explicit:92c4991c3af632502f9a332d, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/bob_gmail_everyday_guide/bob_gmail_everyday_guide_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261106073024/bob_gmail_everyday_guide_infographic-cae00f4376b3.png
+  ref: file:explicit:1925f5f3a7519f07cfc262f9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_30/sase/repos/research/202611/bob_gmail_everyday_guide/bob_gmail_everyday_guide_infographic.png
+- kind: markdown
+  label: diagrams:202611/bob_gmail_everyday_guide/bob_gmail_everyday_guide.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261106073024/bob_gmail_everyday_guide.diagrams-58c884ebc6bb.md
+  ref: file:explicit:44b767e8de5b495ab0c6ea3f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_30/sase/repos/research/202611/bob_gmail_everyday_guide/bob_gmail_everyday_guide.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 20
+count: 2
+manifest: 202611/bob_gmail_everyday_guide/bob_gmail_everyday_guide.diagrams.md
+source_ref: file:explicit:92c4991c3af632502f9a332d
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
