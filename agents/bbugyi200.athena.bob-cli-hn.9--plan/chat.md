@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-hn.9--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_hn_9__plan-261105_184400.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_hn_9__code-261105_184400.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/mac_pull_in_verdict_ui.md
 
 
