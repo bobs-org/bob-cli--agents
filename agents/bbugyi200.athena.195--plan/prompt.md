@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me complete the work remaining associated with the bob-cli-hn.6 epic bead (if any) and then close the bead? #plan %m:@xlarge
