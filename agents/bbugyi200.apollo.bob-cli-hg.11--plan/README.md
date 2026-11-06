@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-hg](../../users/bbugyi200/machines/apollo/hoods/bob-cli-hg/README.md) / [bob-cli-hg.11](../../sessions/bbugyi200.apollo.bob-cli-hg.11.md) / bob-cli-hg.11--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-hg.11--plan` · **State:** active · **Source run:** `run-1c9d096cc52674cebdcc141bc2b96e5c`
+**Global name:** `bbugyi200.apollo.bob-cli-hg.11--plan` · **State:** completed · **Source run:** `run-1c9d096cc52674cebdcc141bc2b96e5c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-hg
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-hg](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hg/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-06T15:50:54.712185+00:00
+- Timing: 2026-11-06T15:50:54.712185+00:00 → 2026-11-06T17:45:56.777676+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -29,7 +29,7 @@
 | [bob-cli-hg.12.1.1](../bbugyi200.apollo.bob-cli-hg.12.1.1/README.md) | bob-cli-hg hood | completed |
 | [bob-cli-hg.12.1.2](../bbugyi200.apollo.bob-cli-hg.12.1.2/README.md) | bob-cli-hg hood | completed |
 | [bob-cli-hg.12.1.3](../../sessions/bbugyi200.apollo.bob-cli-hg.12.1.3.md) (session · 7) | bob-cli-hg hood | completed 5, failed 2 |
-| [bob-cli-hg.12.1.4](../bbugyi200.apollo.bob-cli-hg.12.1.4/README.md) | bob-cli-hg hood | active |
+| [bob-cli-hg.12.1.4](../bbugyi200.apollo.bob-cli-hg.12.1.4/README.md) | bob-cli-hg hood | completed |
 | [bob-cli-hg.12.1.5](../bbugyi200.apollo.bob-cli-hg.12.1.5/README.md) | bob-cli-hg hood | waiting |
 | [bob-cli-hg.12.1.6](../bbugyi200.apollo.bob-cli-hg.12.1.6/README.md) | bob-cli-hg hood | waiting |
 | [bob-cli-hg.12.1.land](../bbugyi200.apollo.bob-cli-hg.12.1.land/README.md) | bob-cli-hg hood | waiting |

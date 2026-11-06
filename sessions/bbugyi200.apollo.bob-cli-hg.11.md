@@ -2,23 +2,26 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-hg](../users/bbugyi200/machines/apollo/hoods/bob-cli-hg/README.md) / bob-cli-hg.11
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-hg` · Members: 2 · Bead: [bob-cli-hg.11](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hg/bob-cli-hg.11.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-hg` · Members: 3 · Bead: [bob-cli-hg.11](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hg/bob-cli-hg.11.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-hg.11--mon [active]"]
-  n1["bob-cli-hg.11--plan [active]"]
+  n0["bob-cli-hg.11--1 [completed]"]
+  n1["bob-cli-hg.11--mon [failed]"]
   n0 --> n1
+  n2["bob-cli-hg.11--plan [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-hg.11--mon | active | muse-spark-1.3-contributor / muse | 2026-11-06T16:31:30.480325+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-hg.11--plan | active | muse-spark-1.3-contributor / muse | 2026-11-06T15:50:54.712185+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-hg.11--plan/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-hg.11--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-06T18:03:27.036889+00:00 → 2026-11-06T18:05:28.169118+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-hg.11--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-hg.11--1/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-hg.11--mon | failed | muse-spark-1.3-contributor / muse | 2026-11-06T16:31:30.480325+00:00 → 2026-11-06T18:03:28.292699+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-hg.11--mon/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-hg.11--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-06T15:50:54.712185+00:00 → 2026-11-06T17:45:56.777676+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-hg.11--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-hg.11--plan/chat.md) |
 
 ## Neighbors
 
@@ -30,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-hg.12.1.1](../agents/bbugyi200.apollo.bob-cli-hg.12.1.1/README.md) | bob-cli-hg hood | completed |
 | [bob-cli-hg.12.1.2](../agents/bbugyi200.apollo.bob-cli-hg.12.1.2/README.md) | bob-cli-hg hood | completed |
 | [bob-cli-hg.12.1.3](bbugyi200.apollo.bob-cli-hg.12.1.3.md) (session · 7) | bob-cli-hg hood | completed 5, failed 2 |
-| [bob-cli-hg.12.1.4](../agents/bbugyi200.apollo.bob-cli-hg.12.1.4/README.md) | bob-cli-hg hood | active |
+| [bob-cli-hg.12.1.4](../agents/bbugyi200.apollo.bob-cli-hg.12.1.4/README.md) | bob-cli-hg hood | completed |
 | [bob-cli-hg.12.1.5](../agents/bbugyi200.apollo.bob-cli-hg.12.1.5/README.md) | bob-cli-hg hood | waiting |
 | [bob-cli-hg.12.1.6](../agents/bbugyi200.apollo.bob-cli-hg.12.1.6/README.md) | bob-cli-hg hood | waiting |
 | [bob-cli-hg.12.1.land](../agents/bbugyi200.apollo.bob-cli-hg.12.1.land/README.md) | bob-cli-hg hood | waiting |

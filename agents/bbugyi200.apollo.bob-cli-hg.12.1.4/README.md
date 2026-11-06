@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-hg](../../users/bbugyi200/machines/apollo/hoods/bob-cli-hg/README.md) / bob-cli-hg.12.1.4
 
-**Global name:** `bbugyi200.apollo.bob-cli-hg.12.1.4` · **State:** active · **Source run:** `run-653b65906cd6efe662108ba4f5fb1033`
+**Global name:** `bbugyi200.apollo.bob-cli-hg.12.1.4` · **State:** completed · **Source run:** `run-653b65906cd6efe662108ba4f5fb1033`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-hg
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-hg.12.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hg/bob-cli-hg.12.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-06T17:43:51.809942+00:00
-- Commits: 0
+- Timing: 2026-11-06T17:43:51.809942+00:00 → 2026-11-06T18:38:22.941123+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8935148`](https://github.com/bobs-org/bob-cli/commit/8935148f6933c96f6e709bdb161d69bcc411573c) | feat(gmail): add durable send-recovery engine for compose drafts | 2026-11-06 13:37:00 EST |
 
 ## Neighbors
 
@@ -32,7 +38,7 @@
 | [bob-cli-hg.12.1.land](../bbugyi200.apollo.bob-cli-hg.12.1.land/README.md) | bob-cli-hg.12.1 hood | waiting |
 | [bob-cli-hg.1](../../sessions/bbugyi200.apollo.bob-cli-hg.1.md) (session · 3) | bob-cli-hg hood | completed 3 |
 | [bob-cli-hg.10](../../sessions/bbugyi200.apollo.bob-cli-hg.10.md) (session · 13) | bob-cli-hg hood | completed 11, failed 2 |
-| [bob-cli-hg.11](../../sessions/bbugyi200.apollo.bob-cli-hg.11.md) (session · 2) | bob-cli-hg hood | active 2 |
+| [bob-cli-hg.11](../../sessions/bbugyi200.apollo.bob-cli-hg.11.md) (session · 3) | bob-cli-hg hood | completed 2, failed 1 |
 | [bob-cli-hg.13](../bbugyi200.apollo.bob-cli-hg.13/README.md) | bob-cli-hg hood | waiting |
 | [bob-cli-hg.14](../../sessions/bbugyi200.apollo.bob-cli-hg.14.md) (session · 7) | bob-cli-hg hood | completed 4, failed 3 |
 | [bob-cli-hg.2](../bbugyi200.apollo.bob-cli-hg.2/README.md) | bob-cli-hg hood | completed |
