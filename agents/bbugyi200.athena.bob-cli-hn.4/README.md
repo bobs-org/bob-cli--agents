@@ -30,10 +30,10 @@
 | [bob-cli-hn.6](../../sessions/bbugyi200.athena.bob-cli-hn.6.md) (session · 3) | bob-cli-hn hood | active 1, completed 2 |
 | [bob-cli-hn.6.1.1](../bbugyi200.athena.bob-cli-hn.6.1.1/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.6.1.2](../../sessions/bbugyi200.athena.bob-cli-hn.6.1.2.md) (session · 7) | bob-cli-hn hood | completed 4, failed 3 |
-| [bob-cli-hn.6.1.3](../bbugyi200.athena.bob-cli-hn.6.1.3/README.md) | bob-cli-hn hood | waiting |
+| [bob-cli-hn.6.1.3](../bbugyi200.athena.bob-cli-hn.6.1.3/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.6.1.4](../bbugyi200.athena.bob-cli-hn.6.1.4/README.md) | bob-cli-hn hood | waiting |
 | [bob-cli-hn.6.1.land](../bbugyi200.athena.bob-cli-hn.6.1.land/README.md) | bob-cli-hn hood | waiting |
 | [bob-cli-hn.7](../bbugyi200.athena.bob-cli-hn.7/README.md) | bob-cli-hn hood | waiting |
 | [bob-cli-hn.8](../bbugyi200.athena.bob-cli-hn.8/README.md) | bob-cli-hn hood | completed |
-| [bob-cli-hn.9](../bbugyi200.athena.bob-cli-hn.9/README.md) | bob-cli-hn hood | waiting |
+| [bob-cli-hn.9](../../sessions/bbugyi200.athena.bob-cli-hn.9.md) (session · 3) | bob-cli-hn hood | active 2, completed 1 |
 | [bob-cli-hn.land](../bbugyi200.athena.bob-cli-hn.land/README.md) | bob-cli-hn hood | waiting |
