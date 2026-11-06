@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-hl.5](bbugyi200.athena.bob-cli-hl.5.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-hl.5.1.1](../agents/bbugyi200.athena.bob-cli-hl.5.1.1/README.md) | bob-cli-hl.5.1 hood | completed |
-| [bob-cli-hl.5.1.3](../agents/bbugyi200.athena.bob-cli-hl.5.1.3/README.md) | bob-cli-hl.5.1 hood | waiting |
+| [bob-cli-hl.5.1.3](../agents/bbugyi200.athena.bob-cli-hl.5.1.3/README.md) | bob-cli-hl.5.1 hood | completed |
 | [bob-cli-hl.5.1.4](../agents/bbugyi200.athena.bob-cli-hl.5.1.4/README.md) | bob-cli-hl.5.1 hood | waiting |
 | [bob-cli-hl.5.1.5](../agents/bbugyi200.athena.bob-cli-hl.5.1.5/README.md) | bob-cli-hl.5.1 hood | waiting |
 | [bob-cli-hl.5.1.land](../agents/bbugyi200.athena.bob-cli-hl.5.1.land/README.md) | bob-cli-hl.5.1 hood | waiting |
