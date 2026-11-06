@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0b0e8f518f621138a805c1461891f56a"}
+{"commits":[{"committed_at":1793933655,"sha":"efbe3470dd1eee15711d639e8f0ead022ff86d27","subject":"feat(capture): implement offer verdict surface with complete and cancel offers"}],"schema_version":2,"source_run_id":"run-0b0e8f518f621138a805c1461891f56a"}

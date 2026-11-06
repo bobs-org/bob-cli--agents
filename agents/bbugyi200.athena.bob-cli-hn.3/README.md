@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-hn](../../users/bbugyi200/machines/athena/hoods/bob-cli-hn/README.md) / bob-cli-hn.3
 
-**Global name:** `bbugyi200.athena.bob-cli-hn.3` · **State:** waiting · **Source run:** `run-0b0e8f518f621138a805c1461891f56a`
+**Global name:** `bbugyi200.athena.bob-cli-hn.3` · **State:** completed · **Source run:** `run-0b0e8f518f621138a805c1461891f56a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-hn
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-hn](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hn/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261105184355
-- Commits: 0
+- Timing: 2026-11-06T01:25:10.228226+00:00 → 2026-11-06T02:54:44.427137+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`efbe347`](https://github.com/bobs-org/bob-cli/commit/efbe3470dd1eee15711d639e8f0ead022ff86d27) | feat(capture): implement offer verdict surface with complete and cancel offers | 2026-11-05 21:54:15 EST |
 
 ## Neighbors
 
@@ -29,7 +35,7 @@
 | [bob-cli-hn.5](../bbugyi200.athena.bob-cli-hn.5/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.6](../../sessions/bbugyi200.athena.bob-cli-hn.6.md) (session · 3) | bob-cli-hn hood | active 1, completed 2 |
 | [bob-cli-hn.6.1.1](../bbugyi200.athena.bob-cli-hn.6.1.1/README.md) | bob-cli-hn hood | completed |
-| [bob-cli-hn.6.1.2](../bbugyi200.athena.bob-cli-hn.6.1.2/README.md) | bob-cli-hn hood | active |
+| [bob-cli-hn.6.1.2](../../sessions/bbugyi200.athena.bob-cli-hn.6.1.2.md) (session · 3) | bob-cli-hn hood | active 1, completed 1, failed 1 |
 | [bob-cli-hn.6.1.3](../bbugyi200.athena.bob-cli-hn.6.1.3/README.md) | bob-cli-hn hood | waiting |
 | [bob-cli-hn.6.1.4](../bbugyi200.athena.bob-cli-hn.6.1.4/README.md) | bob-cli-hn hood | waiting |
 | [bob-cli-hn.6.1.land](../bbugyi200.athena.bob-cli-hn.6.1.land/README.md) | bob-cli-hn hood | waiting |
