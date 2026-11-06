@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Is it possible to change the `<cmd+/>` keymap, which triggers the bob-mac-capture app's ref panel, to `<cmd+]>` safely (e.g. without likely conflicts)? #if_so_plan %m:@xlarge

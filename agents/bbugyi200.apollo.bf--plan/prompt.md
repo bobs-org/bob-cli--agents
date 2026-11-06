@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me make these toasts appear less frequently and disappear on their own after a few seconds? See the ~/tmp/screenshots/20261030_134807.png screenshot for context. #plan %m:@xlarge
