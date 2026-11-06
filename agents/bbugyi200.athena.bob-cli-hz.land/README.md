@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-hz.1](../../sessions/bbugyi200.athena.bob-cli-hz.1.md) (session · 3) | bob-cli-hz hood | active 1, completed 1, failed 1 |
+| [bob-cli-hz.1](../../sessions/bbugyi200.athena.bob-cli-hz.1.md) (session · 4) | bob-cli-hz hood | active 1, completed 2, failed 1 |
 | [bob-cli-hz.2](../../sessions/bbugyi200.athena.bob-cli-hz.2.md) (session · 3) | bob-cli-hz hood | completed 3 |
 | [bob-cli-hz.3](../bbugyi200.athena.bob-cli-hz.3/README.md) | bob-cli-hz hood | waiting |
 | [bob-cli-hz.4](../bbugyi200.athena.bob-cli-hz.4/README.md) | bob-cli-hz hood | waiting |
