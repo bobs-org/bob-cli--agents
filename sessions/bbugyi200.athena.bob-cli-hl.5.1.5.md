@@ -79,7 +79,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-hl.5.1.2](bbugyi200.athena.bob-cli-hl.5.1.2.md) (session · 3) | bob-cli-hl.5.1 hood | completed 2, failed 1 |
 | [bob-cli-hl.5.1.3](../agents/bbugyi200.athena.bob-cli-hl.5.1.3/README.md) | bob-cli-hl.5.1 hood | completed |
 | [bob-cli-hl.5.1.4](bbugyi200.athena.bob-cli-hl.5.1.4.md) (session · 9) | bob-cli-hl.5.1 hood | completed 5, failed 4 |
-| [bob-cli-hl.5.1.land](bbugyi200.athena.bob-cli-hl.5.1.land.md) (session · 3) | bob-cli-hl.5.1 hood | active 2, completed 1 |
+| [bob-cli-hl.5.1.land](bbugyi200.athena.bob-cli-hl.5.1.land.md) (session · 11) | bob-cli-hl.5.1 hood | completed 8, failed 3 |
 | [bob-cli-hl.1](../agents/bbugyi200.athena.bob-cli-hl.1/README.md) | bob-cli-hl hood | completed |
 | [bob-cli-hl.2](bbugyi200.athena.bob-cli-hl.2.md) (session · 3) | bob-cli-hl hood | completed 3 |
 | [bob-cli-hl.3](bbugyi200.athena.bob-cli-hl.3.md) (session · 3) | bob-cli-hl hood | active 1, completed 2 |
