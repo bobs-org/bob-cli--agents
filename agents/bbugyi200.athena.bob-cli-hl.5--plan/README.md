@@ -23,6 +23,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-hl.5.1.1](../bbugyi200.athena.bob-cli-hl.5.1.1/README.md) | descendant | completed |
+| [bob-cli-hl.5.1.2](../bbugyi200.athena.bob-cli-hl.5.1.2/README.md) | descendant | active |
+| [bob-cli-hl.5.1.3](../bbugyi200.athena.bob-cli-hl.5.1.3/README.md) | descendant | waiting |
+| [bob-cli-hl.5.1.4](../bbugyi200.athena.bob-cli-hl.5.1.4/README.md) | descendant | waiting |
+| [bob-cli-hl.5.1.5](../bbugyi200.athena.bob-cli-hl.5.1.5/README.md) | descendant | waiting |
+| [bob-cli-hl.5.1.land](../bbugyi200.athena.bob-cli-hl.5.1.land/README.md) | descendant | waiting |
 | [bob-cli-hl.1](../bbugyi200.athena.bob-cli-hl.1/README.md) | bob-cli-hl hood | completed |
 | [bob-cli-hl.2](../../sessions/bbugyi200.athena.bob-cli-hl.2.md) (session · 3) | bob-cli-hl hood | completed 3 |
 | [bob-cli-hl.3](../../sessions/bbugyi200.athena.bob-cli-hl.3.md) (session · 3) | bob-cli-hl hood | active 1, completed 2 |
