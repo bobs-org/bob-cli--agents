@@ -1,0 +1,30 @@
+# Agent: bob-cli-hn.6--mon
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-hn](../../users/bbugyi200/machines/athena/hoods/bob-cli-hn/README.md) / [bob-cli-hn.6](../../sessions/bbugyi200.athena.bob-cli-hn.6.md) / bob-cli-hn.6--mon
+
+**Global name:** `bbugyi200.athena.bob-cli-hn.6--mon` · **State:** active · **Source run:** `run-62d18c8df2d4fa1184d442cfa5a2d7c1`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-hn
+
+## Summary
+
+- Bead: [bob-cli-hn.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hn/bob-cli-hn.6.md)
+- Epic: [bob-cli-hn](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hn/README.md)
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-11-06T01:37:41.650464+00:00
+- Commits: 0
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-hn.1](../bbugyi200.athena.bob-cli-hn.1/README.md) | bob-cli-hn hood | completed |
+| [bob-cli-hn.2](../bbugyi200.athena.bob-cli-hn.2/README.md) | bob-cli-hn hood | completed |
+| [bob-cli-hn.3](../bbugyi200.athena.bob-cli-hn.3/README.md) | bob-cli-hn hood | waiting |
+| [bob-cli-hn.4](../bbugyi200.athena.bob-cli-hn.4/README.md) | bob-cli-hn hood | completed |
+| [bob-cli-hn.5](../bbugyi200.athena.bob-cli-hn.5/README.md) | bob-cli-hn hood | completed |
+| [bob-cli-hn.7](../bbugyi200.athena.bob-cli-hn.7/README.md) | bob-cli-hn hood | waiting |
+| [bob-cli-hn.8](../bbugyi200.athena.bob-cli-hn.8/README.md) | bob-cli-hn hood | waiting |
+| [bob-cli-hn.9](../bbugyi200.athena.bob-cli-hn.9/README.md) | bob-cli-hn hood | waiting |
+| [bob-cli-hn.land](../bbugyi200.athena.bob-cli-hn.land/README.md) | bob-cli-hn hood | waiting |
