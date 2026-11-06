@@ -50,6 +50,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-hn.4](../agents/bbugyi200.athena.bob-cli-hn.4/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.5](../agents/bbugyi200.athena.bob-cli-hn.5/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.7](../agents/bbugyi200.athena.bob-cli-hn.7/README.md) | bob-cli-hn hood | waiting |
-| [bob-cli-hn.8](../agents/bbugyi200.athena.bob-cli-hn.8/README.md) | bob-cli-hn hood | waiting |
+| [bob-cli-hn.8](../agents/bbugyi200.athena.bob-cli-hn.8/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.9](../agents/bbugyi200.athena.bob-cli-hn.9/README.md) | bob-cli-hn hood | waiting |
 | [bob-cli-hn.land](../agents/bbugyi200.athena.bob-cli-hn.land/README.md) | bob-cli-hn hood | waiting |
