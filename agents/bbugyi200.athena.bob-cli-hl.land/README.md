@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-hl](../../users/bbugyi200/machines/athena/hoods/bob-cli-hl/README.md) / bob-cli-hl.land
 
-**Global name:** `bbugyi200.athena.bob-cli-hl.land` · **State:** waiting · **Source run:** `run-4db2fbbc50294c9d360a8e0185124a28`
+**Global name:** `bbugyi200.athena.bob-cli-hl.land` · **State:** completed · **Source run:** `run-4db2fbbc50294c9d360a8e0185124a28`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-hl
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-hl](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hl/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261105180729
-- Commits: 0
+- Timing: 2026-11-06T21:04:29.302371+00:00 → 2026-11-06T21:31:54.394998+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e39e457`](https://github.com/bobs-org/bob-cli/commit/e39e457680f784cf1c3ea3837653881f5b223548) | refactor(capture): drop dead merge-in left-text helper | 2026-11-06 16:30:57 EST |
 
 ## Neighbors
 
