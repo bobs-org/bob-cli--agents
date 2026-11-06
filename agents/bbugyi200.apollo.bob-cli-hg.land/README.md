@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-hg](../../users/bbugyi200/machines/apollo/hoods/bob-cli-hg/README.md) / bob-cli-hg.land
 
-**Global name:** `bbugyi200.apollo.bob-cli-hg.land` · **State:** waiting · **Source run:** `run-d30c7c887b1d21b3e39c242c529fade4`
+**Global name:** `bbugyi200.apollo.bob-cli-hg.land` · **State:** completed · **Source run:** `run-d30c7c887b1d21b3e39c242c529fade4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-hg
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-hg](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-hg/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261105123937
-- Commits: 0
+- Timing: 2026-11-06T21:55:21.851413+00:00 → 2026-11-06T23:02:32.220830+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`17aae71`](https://github.com/bobs-org/bob-cli/commit/17aae714ce5bec3163fa88029082d8ba284d0e00) | fix(gmail): land the Gmail epic with sign-in hints, fresh guides, and no stale allowances | 2026-11-06 18:00:49 EST |
 
 ## Neighbors
 
