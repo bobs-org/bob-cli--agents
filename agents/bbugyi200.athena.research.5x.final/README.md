@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5x.final
 
-**Global name:** `bbugyi200.athena.research.5x.final` · **State:** waiting · **Source run:** `run-5f496b56492923c903f6d8dffe476355`
+**Global name:** `bbugyi200.athena.research.5x.final` · **State:** completed · **Source run:** `run-5f496b56492923c903f6d8dffe476355`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261107171606
+- Timing: 2026-11-07T22:38:07.647418+00:00 → 2026-11-07T22:59:55.843525+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/start\_timing\_later\_offset/start\_timing\_later\_offset\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261107171606/start\_timing\_later… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/start_timing_later_offset/start_timing_later_offset__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107171606/start_timing_later_offset__final-47744b8c87d7.md
+  ref: file:explicit:f469a74be2b6fb861ee4cb72
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/start_timing_later_offset/start_timing_later_offset__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +46,7 @@
 | [research.5x.grk](../bbugyi200.athena.research.5x.grk/README.md) | research.5x hood | completed |
 | [research.5x.image](../bbugyi200.athena.research.5x.image/README.md) | research.5x hood | waiting |
 | [research.5x.linker](../bbugyi200.athena.research.5x.linker/README.md) | research.5x hood | waiting |
+| [research.5x.linker.w0](../bbugyi200.athena.research.5x.linker.w0/README.md) | research.5x hood | waiting |
 | [research.5x.mus](../bbugyi200.athena.research.5x.mus/README.md) | research.5x hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
