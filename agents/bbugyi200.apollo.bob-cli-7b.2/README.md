@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bdfc8c3`](https://github.com/bobs-org/bob-cli/commit/bdfc8c3ee3edb5eef6f3ba0dddc12c36ef8095ec) | feat(capture): route toggle, ensure-next and link-then-close through shared link guard | 2026-10-13 10:14:59 EDT |
+| — | `bdfc8c3` | feat(capture): route toggle, ensure-next and link-then-close through shared link guard | 2026-10-13 10:14:59 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-7b.1](../../sessions/bbugyi200.apollo.bob-cli-7b.1.md) (session · 7) | bob-cli-7b hood | completed 4, failed 3 |
 | [bob-cli-7b.3](../bbugyi200.apollo.bob-cli-7b.3/README.md) | bob-cli-7b hood | completed |
 | [bob-cli-7b.4](../bbugyi200.apollo.bob-cli-7b.4/README.md) | bob-cli-7b hood | completed |
-| [bob-cli-7b.land](../../sessions/bbugyi200.apollo.bob-cli-7b.land.md) (session · 3) | bob-cli-7b hood | active 2, failed 1 |
+| [bob-cli-7b.land](../../sessions/bbugyi200.apollo.bob-cli-7b.land.md) (session · 3) | bob-cli-7b hood | active 1, completed 1, failed 1 |

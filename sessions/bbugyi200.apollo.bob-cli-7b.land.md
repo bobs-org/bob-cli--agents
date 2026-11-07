@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-7b` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-7b.land--gate [failed]"]
-  n1["bob-cli-7b.land--code [active]"]
+  n1["bob-cli-7b.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-7b.land--plan [active]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-7b.land--gate | failed | grok-4.7 / grok | 2026-10-13T14:59:27.823574+00:00 → 2026-10-13T14:59:40.152967+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-7b.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-7b.land--code | active | grok-4.6 / grok | 2026-10-13T14:59:58.234249+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-7b.land--code | completed | grok-4.6 / grok | 2026-10-13T14:59:58.234249+00:00 → 2026-10-13T15:11:22.066368+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | bob-cli-7b.land--plan | active | grok-4.7 / grok | 2026-10-13T14:49:22.006965+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-7b.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-7b.land--plan/chat.md) |
 
 ## Neighbors

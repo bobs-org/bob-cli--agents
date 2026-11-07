@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c80cbde`](https://github.com/bobs-org/bob-cli/commit/c80cbdeaf4c2bdf53d74b903e6a108c8d7a1a72f) | docs(memory): record capture dropping own blocking deps | 2026-10-13 10:37:23 EDT |
+| — | `c80cbde` | docs(memory): record capture dropping own blocking deps | 2026-10-13 10:37:23 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-7b.1](../../sessions/bbugyi200.apollo.bob-cli-7b.1.md) (session · 7) | bob-cli-7b hood | completed 4, failed 3 |
 | [bob-cli-7b.2](../bbugyi200.apollo.bob-cli-7b.2/README.md) | bob-cli-7b hood | completed |
 | [bob-cli-7b.3](../bbugyi200.apollo.bob-cli-7b.3/README.md) | bob-cli-7b hood | completed |
-| [bob-cli-7b.land](../../sessions/bbugyi200.apollo.bob-cli-7b.land.md) (session · 3) | bob-cli-7b hood | active 2, failed 1 |
+| [bob-cli-7b.land](../../sessions/bbugyi200.apollo.bob-cli-7b.land.md) (session · 3) | bob-cli-7b hood | active 1, completed 1, failed 1 |

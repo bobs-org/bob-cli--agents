@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | bob-cli | [`92515f1`](https://github.com/bobs-org/bob-cli/commit/92515f1bb8565fa7d6116e4581911b9f45e880bb) | feat(capture): support dependency-drop link gestures | 2026-10-13 09:24:19 EDT |
+| 3 | — | `92515f1` | feat(capture): support dependency-drop link gestures | 2026-10-13 09:24:19 EDT |
 
 ## Neighbors
 
@@ -48,4 +48,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-7b.2](../agents/bbugyi200.apollo.bob-cli-7b.2/README.md) | bob-cli-7b hood | completed |
 | [bob-cli-7b.3](../agents/bbugyi200.apollo.bob-cli-7b.3/README.md) | bob-cli-7b hood | completed |
 | [bob-cli-7b.4](../agents/bbugyi200.apollo.bob-cli-7b.4/README.md) | bob-cli-7b hood | completed |
-| [bob-cli-7b.land](bbugyi200.apollo.bob-cli-7b.land.md) (session · 3) | bob-cli-7b hood | active 2, failed 1 |
+| [bob-cli-7b.land](bbugyi200.apollo.bob-cli-7b.land.md) (session · 3) | bob-cli-7b hood | active 1, completed 1, failed 1 |
