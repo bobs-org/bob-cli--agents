@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3m.final
 
-**Global name:** `bbugyi200.apollo.research.3m.final` · **State:** waiting · **Source run:** `run-cdc376bcd9e40b0b89bba53b70271462`
+**Global name:** `bbugyi200.apollo.research.3m.final` · **State:** completed · **Source run:** `run-cdc376bcd9e40b0b89bba53b70271462`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261107150729
+- Timing: 2026-11-07T20:42:59.851397+00:00 → 2026-11-07T21:08:05.803698+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gmail\_sync\_reply\_watch/gmail\_sync\_reply\_watch\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261107150729/gmail\_sync\_reply\_watch\_\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gmail_sync_reply_watch/gmail_sync_reply_watch__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107150729/gmail_sync_reply_watch__final-94e6b16aae18.md
+  ref: file:explicit:943523b95fd36cb5fe2068e0
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/gmail_sync_reply_watch/gmail_sync_reply_watch__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
