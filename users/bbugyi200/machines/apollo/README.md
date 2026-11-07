@@ -151,14 +151,14 @@
 | [5j](hoods/5j/README.md) | 4 | 1 | completed 1, failed 3 |
 | [5k](hoods/5k/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
 | [5l](hoods/5l/README.md) | 8 | 2 | active 1, completed 4, failed 3 |
-| [5m](hoods/5m/README.md) | 4 | 1 | active 2, completed 1, failed 1 |
+| [5m](hoods/5m/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
 | [5n](hoods/5n/README.md) | 2 | 0 | completed 2 |
-| [5o](hoods/5o/README.md) | 5 | 1 | active 2, completed 2, failed 1 |
+| [5o](hoods/5o/README.md) | 5 | 1 | active 1, completed 3, failed 1 |
 | [5p](hoods/5p/README.md) | 1 | 0 | completed 1 |
 | [5q](hoods/5q/README.md) | 1 | 0 | active 1 |
-| [5t](hoods/5t/README.md) | 10 | 2 | active 1, completed 6, failed 3 |
-| [5u](hoods/5u/README.md) | 3 | 1 | active 2, failed 1 |
-| [5v](hoods/5v/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
+| [5t](hoods/5t/README.md) | 10 | 2 | completed 7, failed 3 |
+| [5u](hoods/5u/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [5v](hoods/5v/README.md) | 5 | 1 | completed 3, failed 2 |
 | [5w](hoods/5w/README.md) | 1 | 0 | completed 1 |
 | [5y](hoods/5y/README.md) | 3 | 0 | completed 3 |
 | [5z](hoods/5z/README.md) | 4 | 1 | completed 1, failed 3 |
