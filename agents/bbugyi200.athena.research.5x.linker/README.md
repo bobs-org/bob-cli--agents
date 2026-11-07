@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5x.linker
 
-**Global name:** `bbugyi200.athena.research.5x.linker` · **State:** waiting · **Source run:** `run-52a1cbe060f196a20040ed978f9cb608`
+**Global name:** `bbugyi200.athena.research.5x.linker` · **State:** completed · **Source run:** `run-52a1cbe060f196a20040ed978f9cb608`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261107171608
+- Timing: 2026-11-07T23:14:53.119082+00:00 → 2026-11-07T23:25:03.149330+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/start\_timing\_later\_offset/start\_timing\_later\_offset.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261107171608/start\_timing\_later\_offset… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/start_timing_later_offset/start_timing_later_offset.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107171608/start_timing_later_offset-f24c675dc1f9.md
+  ref: file:explicit:371abfae534d3b625da5df73
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/start_timing_later_offset/start_timing_later_offset.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

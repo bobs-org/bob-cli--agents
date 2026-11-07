@@ -583,7 +583,7 @@
 | [pv](hoods/pv/README.md) | 3 | 1 | active 2, completed 1 |
 | [qa](hoods/qa/README.md) | 3 | 1 | active 2, completed 1 |
 | [qz](hoods/qz/README.md) | 2 | 1 | active 1, completed 1 |
-| [research](hoods/research/README.md) | 502 | 29 | active 303, completed 155, failed 41, waiting 3 |
+| [research](hoods/research/README.md) | 502 | 29 | active 303, completed 156, failed 41, waiting 2 |
 | [research\_swarm](hoods/research_swarm/README.md) | 1 | 0 | completed 1 |
 | [s8](hoods/s8/README.md) | 1 | 0 | failed 1 |
 | [sase-51](hoods/sase-51/README.md) | 1 | 0 | completed 1 |
