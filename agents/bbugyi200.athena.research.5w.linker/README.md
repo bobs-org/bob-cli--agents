@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5w.linker
 
-**Global name:** `bbugyi200.athena.research.5w.linker` · **State:** waiting · **Source run:** `run-633bf87fb491102fe63c73191cc0e03d`
+**Global name:** `bbugyi200.athena.research.5w.linker` · **State:** completed · **Source run:** `run-633bf87fb491102fe63c73191cc0e03d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,17 +10,37 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261107103502
+- Timing: 2026-11-07T16:50:49.162397+00:00 → 2026-11-07T17:02:27.981253+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/crontab\_as\_code\_via\_chezmoi/crontab\_as\_code\_via\_chezmoi.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261107103502/crontab\_as\_code\_via\_c… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/crontab_as_code_via_chezmoi/crontab_as_code_via_chezmoi.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107103502/crontab_as_code_via_chezmoi-747f0d7db0ad.md
+  ref: file:explicit:445fd652fdec1c9399f479d0
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/crontab_as_code_via_chezmoi/crontab_as_code_via_chezmoi.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.5w.linker.w0](../bbugyi200.athena.research.5w.linker.w0/README.md) | descendant | active |
 | [research.5w.cdx](../bbugyi200.athena.research.5w.cdx/README.md) | research.5w hood | completed |
 | [research.5w.cld](../bbugyi200.athena.research.5w.cld/README.md) | research.5w hood | completed |
 | [research.5w.final](../bbugyi200.athena.research.5w.final/README.md) | research.5w hood | completed |
