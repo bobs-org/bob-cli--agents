@@ -40,4 +40,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [6w.w0](../../sessions/bbugyi200.apollo.6w.w0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [6w.w0](../../sessions/bbugyi200.apollo.6w.w0.md) (session · 3) | descendant | completed 2, failed 1 |
