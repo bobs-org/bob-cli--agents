@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6l](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6l/README.md) / [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) / bob-cli-6l.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-6l.land--code` · **State:** active · **Source run:** `run-876f4d0cc97d7612278b9cbf6d92515e`
+**Global name:** `bbugyi200.apollo.bob-cli-6l.land--code` · **State:** completed · **Source run:** `run-876f4d0cc97d7612278b9cbf6d92515e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6l
 
@@ -11,14 +11,14 @@
 - Bead: [bob-cli-6l](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6l/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-11T21:35:16.951573+00:00
+- Timing: 2026-10-11T21:35:16.951573+00:00 → 2026-10-11T22:01:48.430415+00:00
 - Commits: [1](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a55a22e`](https://github.com/bobs-org/bob-cli/commit/a55a22e83b0361ea90795dc22f1148b4f9152066) | feat(stats): land review-journal writer vectors R20–R24 | 2026-10-11 17:58:06 EDT |
+| — | `a55a22e` | feat(stats): land review-journal writer vectors R20–R24 | 2026-10-11 17:58:06 EDT |
 
 ## Neighbors
 

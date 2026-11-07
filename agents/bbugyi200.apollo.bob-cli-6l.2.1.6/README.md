@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f9324da`](https://github.com/bobs-org/bob-cli/commit/f9324da87f989be6388c4db3650f9bfc15c6f48e) | feat(stats): assemble compute, prove the schema, and document the engine | 2026-10-11 11:03:23 EDT |
+| — | `f9324da` | feat(stats): assemble compute, prove the schema, and document the engine | 2026-10-11 11:03:23 EDT |
 
 ## Neighbors
 
@@ -47,4 +47,4 @@
 | [bob-cli-6l.5.1.4](../../sessions/bbugyi200.apollo.bob-cli-6l.5.1.4.md) (session · 5) | bob-cli-6l hood | completed 3, failed 2 |
 | [bob-cli-6l.5.1.land](../bbugyi200.apollo.bob-cli-6l.5.1.land/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.6](../../sessions/bbugyi200.apollo.bob-cli-6l.6.md) (session · 3) | bob-cli-6l hood | completed 2, failed 1 |
-| [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 2, failed 1 |
+| [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 1, completed 1, failed 1 |

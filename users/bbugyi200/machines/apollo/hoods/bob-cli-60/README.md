@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-60
 
-**Global hood:** `bbugyi200.apollo.bob-cli-60` · **Runs:** 21 · **Sessions:** 2 · **States:** active 2, completed 10, failed 9
+**Global hood:** `bbugyi200.apollo.bob-cli-60` · **Runs:** 21 · **Sessions:** 2 · **States:** active 1, completed 11, failed 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -11,7 +11,7 @@
 | [bob-cli-60.2--6](../../../../../../sessions/bbugyi200.apollo.bob-cli-60.2.md#member-6) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T20:58:02.659504+00:00 → 2026-10-09T21:00:37.887819+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-60.2--6/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-60.2--6/prompt.md) |
 | [bob-cli-60.2--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-60.2.md#member-plan) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T18:30:28.654512+00:00 → 2026-10-09T18:39:05.151905+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-60.2--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-60.2--plan/prompt.md) |
 | [bob-cli-60.2--7](../../../../../../sessions/bbugyi200.apollo.bob-cli-60.2.md#member-7) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T21:04:57.230775+00:00 → 2026-10-09T21:07:47.313200+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-60.2--7/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-60.2--7/prompt.md) |
-| [bob-cli-60.land--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-60.land.md#member-code) | active | muse-spark-1.3-contributor / muse | 2026-10-09T21:24:29.357484+00:00 | 0 | — |
+| [bob-cli-60.land--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-60.land.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T21:24:29.357484+00:00 → 2026-10-09T21:38:42.647005+00:00 | 0 | — |
 | [bob-cli-60.2--mon-2](../../../../../../sessions/bbugyi200.apollo.bob-cli-60.2.md#member-mon-2) | failed | muse-spark-1.3-contributor / muse | 2026-10-09T19:49:38.659669+00:00 → 2026-10-09T20:10:52.879282+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-60.2--mon-2/chat.md) |
 | [bob-cli-60.2--3](../../../../../../sessions/bbugyi200.apollo.bob-cli-60.2.md#member-3) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T19:46:58.775857+00:00 → 2026-10-09T19:50:18.094576+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-60.2--3/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-60.2--3/prompt.md) |
 | [bob-cli-60.1](../../../../../../agents/bbugyi200.apollo.bob-cli-60.1/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T18:20:49.075410+00:00 → 2026-10-09T18:30:15.131654+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-60.1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-60.1/prompt.md) |

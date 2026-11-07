@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`625e973`](https://github.com/bobs-org/bob-cli/commit/625e973c43de2bd51b33f562af6e3cc50c90b6db) | fix(stats): land Daily Stats engine correctness for bob-cli-6l.2.1 | 2026-10-11 12:52:17 EDT |
+| — | `625e973` | fix(stats): land Daily Stats engine correctness for bob-cli-6l.2.1 | 2026-10-11 12:52:17 EDT |
 
 ## Neighbors
 
@@ -46,4 +46,4 @@
 | [bob-cli-6l.5.1.4](../../sessions/bbugyi200.apollo.bob-cli-6l.5.1.4.md) (session · 5) | bob-cli-6l hood | completed 3, failed 2 |
 | [bob-cli-6l.5.1.land](../bbugyi200.apollo.bob-cli-6l.5.1.land/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.6](../../sessions/bbugyi200.apollo.bob-cli-6l.6.md) (session · 3) | bob-cli-6l hood | completed 2, failed 1 |
-| [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 2, failed 1 |
+| [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 1, completed 1, failed 1 |

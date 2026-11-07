@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ab314c0`](https://github.com/bobs-org/bob-cli/commit/ab314c061da8da06ed1d821c2afa03979c30cb4c) | feat(stats): add schema-1 chart, daily\_points, checklist, and chore metadata | 2026-10-11 14:45:40 EDT |
+| — | `ab314c0` | feat(stats): add schema-1 chart, daily\_points, checklist, and chore metadata | 2026-10-11 14:45:40 EDT |
 
 ## Neighbors
 
@@ -48,4 +48,4 @@
 | [bob-cli-6l.3](../bbugyi200.apollo.bob-cli-6l.3/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.4](../bbugyi200.apollo.bob-cli-6l.4/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.6](../../sessions/bbugyi200.apollo.bob-cli-6l.6.md) (session · 3) | bob-cli-6l hood | completed 2, failed 1 |
-| [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 2, failed 1 |
+| [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 1, completed 1, failed 1 |

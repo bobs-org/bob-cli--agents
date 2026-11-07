@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-6l.land--gate [failed]"]
   n1["bob-cli-6l.land--plan [active]"]
   n0 --> n1
-  n2["bob-cli-6l.land--code [active]"]
+  n2["bob-cli-6l.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -21,13 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-6l.land--gate | failed | opus / claude | 2026-10-11T21:34:54.433717+00:00 → 2026-10-11T21:35:05.998709+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-6l.land--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-6l.land--plan | active | opus / claude | 2026-10-11T21:15:23.127211+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6l.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6l.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-6l.land--code | active | grok-4.6 / grok | 2026-10-11T21:35:16.951573+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-6l.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | bob-cli-6l.land--code | completed | grok-4.6 / grok | 2026-10-11T21:35:16.951573+00:00 → 2026-10-11T22:01:48.430415+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-6l.land--code/README.md#commits) | — | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`a55a22e`](https://github.com/bobs-org/bob-cli/commit/a55a22e83b0361ea90795dc22f1148b4f9152066) | feat(stats): land review-journal writer vectors R20–R24 | 2026-10-11 17:58:06 EDT |
+| code | — | `a55a22e` | feat(stats): land review-journal writer vectors R20–R24 | 2026-10-11 17:58:06 EDT |
 
 ## Neighbors
 

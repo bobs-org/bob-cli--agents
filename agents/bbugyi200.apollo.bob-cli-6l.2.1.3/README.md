@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7f14f5f`](https://github.com/bobs-org/bob-cli/commit/7f14f5fd47d80227adc7c376d1523e2933e881af) | feat(stats): implement range and series reporting | 2026-10-11 09:08:21 EDT |
+| — | `7f14f5f` | feat(stats): implement range and series reporting | 2026-10-11 09:08:21 EDT |
 
 ## Neighbors
 
@@ -47,4 +47,4 @@
 | [bob-cli-6l.5.1.4](../../sessions/bbugyi200.apollo.bob-cli-6l.5.1.4.md) (session · 5) | bob-cli-6l hood | completed 3, failed 2 |
 | [bob-cli-6l.5.1.land](../bbugyi200.apollo.bob-cli-6l.5.1.land/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.6](../../sessions/bbugyi200.apollo.bob-cli-6l.6.md) (session · 3) | bob-cli-6l hood | completed 2, failed 1 |
-| [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 2, failed 1 |
+| [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 1, completed 1, failed 1 |

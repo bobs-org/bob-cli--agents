@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f11ca41`](https://github.com/bobs-org/bob-cli/commit/f11ca415b6fefc329b776be081ee36fd041bcb1d) | docs(stats): cross-link CLI, Stats page, and review journal | 2026-10-11 17:13:06 EDT |
+| — | `f11ca41` | docs(stats): cross-link CLI, Stats page, and review journal | 2026-10-11 17:13:06 EDT |
 
 ## Neighbors
 
@@ -47,4 +47,4 @@
 | [bob-cli-6l.5.1.3](../bbugyi200.apollo.bob-cli-6l.5.1.3/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.5.1.4](../../sessions/bbugyi200.apollo.bob-cli-6l.5.1.4.md) (session · 5) | bob-cli-6l hood | completed 3, failed 2 |
 | [bob-cli-6l.5.1.land](../bbugyi200.apollo.bob-cli-6l.5.1.land/README.md) | bob-cli-6l hood | completed |
-| [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 2, failed 1 |
+| [bob-cli-6l.land](../../sessions/bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 1, completed 1, failed 1 |
