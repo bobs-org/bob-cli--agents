@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fbc4f43`](https://github.com/bobs-org/bob-cli/commit/fbc4f4399cf4aae1130218c9092d172dbf95b683) | feat(capture): execute whole-item !note:block-id completions | 2026-10-05 16:07:56 EDT |
+| — | `fbc4f43` | feat(capture): execute whole-item !note:block-id completions | 2026-10-05 16:07:56 EDT |
 
 ## Neighbors
 
@@ -38,5 +38,5 @@
 | [bob-cli-4i.7.2](../bbugyi200.apollo.bob-cli-4i.7.2/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.7.3](../bbugyi200.apollo.bob-cli-4i.7.3/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.7.4](../../sessions/bbugyi200.apollo.bob-cli-4i.7.4.md) (session · 5) | bob-cli-4i hood | completed 3, failed 2 |
-| [bob-cli-4i.7.land](../../sessions/bbugyi200.apollo.bob-cli-4i.7.land.md) (session · 3) | bob-cli-4i hood | active 2, failed 1 |
+| [bob-cli-4i.7.land](../../sessions/bbugyi200.apollo.bob-cli-4i.7.land.md) (session · 3) | bob-cli-4i hood | active 1, completed 1, failed 1 |
 | [bob-cli-4i.land](../../sessions/bbugyi200.apollo.bob-cli-4i.land.md) (session · 3) | bob-cli-4i hood | failed 3 |

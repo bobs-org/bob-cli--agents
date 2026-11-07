@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`756c4fc`](https://github.com/bobs-org/bob-cli/commit/756c4fc74959a644d8b90edab8502aea342320fc) | docs(walk): publish answering-advances-the-walk decision and update review docs | 2026-10-06 07:52:22 EDT |
+| — | `756c4fc` | docs(walk): publish answering-advances-the-walk decision and update review docs | 2026-10-06 07:52:22 EDT |
 
 ## Neighbors
 
@@ -33,5 +33,5 @@
 | [bob-cli-4l.2](../bbugyi200.apollo.bob-cli-4l.2/README.md) | bob-cli-4l hood | completed |
 | [bob-cli-4l.3](../bbugyi200.apollo.bob-cli-4l.3/README.md) | bob-cli-4l hood | completed |
 | [bob-cli-4l.4](../bbugyi200.apollo.bob-cli-4l.4/README.md) | bob-cli-4l hood | completed |
-| [bob-cli-4l.land](../../sessions/bbugyi200.apollo.bob-cli-4l.land.md) (session · 5) | bob-cli-4l hood | active 3, failed 2 |
+| [bob-cli-4l.land](../../sessions/bbugyi200.apollo.bob-cli-4l.land.md) (session · 5) | bob-cli-4l hood | active 2, completed 1, failed 2 |
 | [bob-cli-4l.land](../bbugyi200.apollo.bob-cli-4l.land/README.md) | bob-cli-4l hood | waiting |

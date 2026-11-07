@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`db1da70`](https://github.com/bobs-org/bob-cli/commit/db1da70db505d18ff21cd042de583e358ee4e09c) | feat(capture): task-complete strike/move ledger output with struck\_in and dropped | 2026-10-05 18:47:34 EDT |
+| — | `db1da70` | feat(capture): task-complete strike/move ledger output with struck\_in and dropped | 2026-10-05 18:47:34 EDT |
 
 ## Neighbors
 
@@ -32,7 +32,7 @@
 | [bob-cli-4i.7.1](../bbugyi200.apollo.bob-cli-4i.7.1/README.md) | bob-cli-4i.7 hood | completed |
 | [bob-cli-4i.7.2](../bbugyi200.apollo.bob-cli-4i.7.2/README.md) | bob-cli-4i.7 hood | completed |
 | [bob-cli-4i.7.4](../../sessions/bbugyi200.apollo.bob-cli-4i.7.4.md) (session · 5) | bob-cli-4i.7 hood | completed 3, failed 2 |
-| [bob-cli-4i.7.land](../../sessions/bbugyi200.apollo.bob-cli-4i.7.land.md) (session · 3) | bob-cli-4i.7 hood | active 2, failed 1 |
+| [bob-cli-4i.7.land](../../sessions/bbugyi200.apollo.bob-cli-4i.7.land.md) (session · 3) | bob-cli-4i.7 hood | active 1, completed 1, failed 1 |
 | [bob-cli-4i.1](../bbugyi200.apollo.bob-cli-4i.1/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.2](../bbugyi200.apollo.bob-cli-4i.2/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.3](../bbugyi200.apollo.bob-cli-4i.3/README.md) | bob-cli-4i hood | completed |

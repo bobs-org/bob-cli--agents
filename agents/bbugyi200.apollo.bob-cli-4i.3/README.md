@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`40e561f`](https://github.com/bobs-org/bob-cli/commit/40e561f850e17eb431570dff23b79b8015183f8b) | feat(capture): serve the task\_complete picker from capture-complete | 2026-10-05 16:06:03 EDT |
+| — | `40e561f` | feat(capture): serve the task\_complete picker from capture-complete | 2026-10-05 16:06:03 EDT |
 
 ## Neighbors
 
@@ -38,5 +38,5 @@
 | [bob-cli-4i.7.2](../bbugyi200.apollo.bob-cli-4i.7.2/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.7.3](../bbugyi200.apollo.bob-cli-4i.7.3/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.7.4](../../sessions/bbugyi200.apollo.bob-cli-4i.7.4.md) (session · 5) | bob-cli-4i hood | completed 3, failed 2 |
-| [bob-cli-4i.7.land](../../sessions/bbugyi200.apollo.bob-cli-4i.7.land.md) (session · 3) | bob-cli-4i hood | active 2, failed 1 |
+| [bob-cli-4i.7.land](../../sessions/bbugyi200.apollo.bob-cli-4i.7.land.md) (session · 3) | bob-cli-4i hood | active 1, completed 1, failed 1 |
 | [bob-cli-4i.land](../../sessions/bbugyi200.apollo.bob-cli-4i.land.md) (session · 3) | bob-cli-4i hood | failed 3 |

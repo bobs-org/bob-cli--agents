@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-4l
 
-**Global hood:** `bbugyi200.apollo.bob-cli-4l` · **Runs:** 11 · **Sessions:** 1 · **States:** active 3, completed 5, failed 2, waiting 1
+**Global hood:** `bbugyi200.apollo.bob-cli-4l` · **Runs:** 11 · **Sessions:** 1 · **States:** active 2, completed 6, failed 2, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -15,5 +15,5 @@
 | [bob-cli-4l.land--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-4l.land.md#member-plan) | active | opus / claude | 2026-10-06T12:00:51.570354+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-4l.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-4l.land--plan/prompt.md) |
 | [bob-cli-4l.5](../../../../../../agents/bbugyi200.apollo.bob-cli-4l.5/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-06T11:45:00.609895+00:00 → 2026-10-06T11:54:05.833872+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-4l.5/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-4l.5/prompt.md) |
 | [bob-cli-4l.land--gate](../../../../../../sessions/bbugyi200.apollo.bob-cli-4l.land.md#member-gate) | failed | opus / claude | 2026-10-06T12:12:38.883413+00:00 → 2026-10-06T12:12:42.084202+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-4l.land--gate/chat.md) |
-| [bob-cli-4l.land--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-4l.land.md#member-code) | active | muse-spark-1.3-contributor / muse | 2026-10-06T12:22:14.027433+00:00 | 0 | — |
+| [bob-cli-4l.land--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-4l.land.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-10-06T12:22:14.027433+00:00 → 2026-10-06T12:35:35.850279+00:00 | 0 | — |
 | [bob-cli-4l.3](../../../../../../agents/bbugyi200.apollo.bob-cli-4l.3/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-06T11:24:56.189126+00:00 → 2026-10-06T11:32:29.285382+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-4l.3/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-4l.3/prompt.md) |

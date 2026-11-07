@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7c8d854`](https://github.com/bobs-org/bob-cli/commit/7c8d854ec408a5afe9e8c6dd29d8e754fb754a06) | feat(task-complete): extract shared task-completion engine | 2026-10-05 15:35:46 EDT |
+| — | `7c8d854` | feat(task-complete): extract shared task-completion engine | 2026-10-05 15:35:46 EDT |
 
 ## Neighbors
 
@@ -38,5 +38,5 @@
 | [bob-cli-4i.7.2](../bbugyi200.apollo.bob-cli-4i.7.2/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.7.3](../bbugyi200.apollo.bob-cli-4i.7.3/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.7.4](../../sessions/bbugyi200.apollo.bob-cli-4i.7.4.md) (session · 5) | bob-cli-4i hood | completed 3, failed 2 |
-| [bob-cli-4i.7.land](../../sessions/bbugyi200.apollo.bob-cli-4i.7.land.md) (session · 3) | bob-cli-4i hood | active 2, failed 1 |
+| [bob-cli-4i.7.land](../../sessions/bbugyi200.apollo.bob-cli-4i.7.land.md) (session · 3) | bob-cli-4i hood | active 1, completed 1, failed 1 |
 | [bob-cli-4i.land](../../sessions/bbugyi200.apollo.bob-cli-4i.land.md) (session · 3) | bob-cli-4i hood | failed 3 |

@@ -54,5 +54,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-4i.7.2](../agents/bbugyi200.apollo.bob-cli-4i.7.2/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.7.3](../agents/bbugyi200.apollo.bob-cli-4i.7.3/README.md) | bob-cli-4i hood | completed |
 | [bob-cli-4i.7.4](bbugyi200.apollo.bob-cli-4i.7.4.md) (session · 5) | bob-cli-4i hood | completed 3, failed 2 |
-| [bob-cli-4i.7.land](bbugyi200.apollo.bob-cli-4i.7.land.md) (session · 3) | bob-cli-4i hood | active 2, failed 1 |
+| [bob-cli-4i.7.land](bbugyi200.apollo.bob-cli-4i.7.land.md) (session · 3) | bob-cli-4i hood | active 1, completed 1, failed 1 |
 | [bob-cli-4i.land](bbugyi200.apollo.bob-cli-4i.land.md) (session · 3) | bob-cli-4i hood | failed 3 |
