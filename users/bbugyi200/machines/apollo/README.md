@@ -181,10 +181,10 @@
 | [6l](hoods/6l/README.md) | 5 | 1 | completed 3, failed 2 |
 | [6m](hoods/6m/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [6n](hoods/6n/README.md) | 5 | 1 | completed 3, failed 2 |
-| [6o](hoods/6o/README.md) | 3 | 1 | active 2, failed 1 |
+| [6o](hoods/6o/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [6q](hoods/6q/README.md) | 1 | 0 | completed 1 |
-| [6v](hoods/6v/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [6w](hoods/6w/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
+| [6v](hoods/6v/README.md) | 3 | 1 | completed 2, failed 1 |
+| [6w](hoods/6w/README.md) | 4 | 1 | completed 3, failed 1 |
 | [6x](hoods/6x/README.md) | 1 | 0 | active 1 |
 | [6y](hoods/6y/README.md) | 1 | 0 | active 1 |
 | [6z](hoods/6z/README.md) | 5 | 1 | completed 2, failed 3 |
