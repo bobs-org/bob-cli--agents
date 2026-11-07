@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `5u` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["5u--code [active]"]
+  n0["5u--code [completed]"]
   n1["5u--plan [active]"]
   n0 --> n1
   n2["5u--gate [failed]"]
@@ -19,6 +19,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | 5u--code | active | muse-spark-1.3-contributor / muse | 2026-10-08T11:20:07.513893+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 5u--code | completed | muse-spark-1.3-contributor / muse | 2026-10-08T11:20:07.513893+00:00 → 2026-10-08T11:32:13.081119+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | 5u--plan | active | opus / claude | 2026-10-08T11:07:56.155366+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.5u--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.5u--plan/chat.md) |
 | <a id="member-gate"></a>gate | 5u--gate | failed | opus / claude | 2026-10-08T11:19:46.810996+00:00 → 2026-10-08T11:19:58.566880+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.5u--gate/chat.md) |

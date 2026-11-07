@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a869461`](https://github.com/bobs-org/bob-cli/commit/a8694613be69748eb37c2f37b5be34be7b8c374b) | docs(task-tag-marks): add authoritative contract with verbatim vectors and live-verification checklist | 2026-10-08 07:26:10 EDT |
+| — | `a869461` | docs(task-tag-marks): add authoritative contract with verbatim vectors and live-verification checklist | 2026-10-08 07:26:10 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [5t.f0](../../sessions/bbugyi200.apollo.5t.f0.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
+| [5t.f0](../../sessions/bbugyi200.apollo.5t.f0.md) (session · 5) | descendant | completed 3, failed 2 |
 | [5t.f1](../bbugyi200.apollo.5t.f1/README.md) | descendant | completed |
