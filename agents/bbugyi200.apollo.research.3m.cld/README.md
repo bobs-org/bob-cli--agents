@@ -21,9 +21,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3m.cdx](../bbugyi200.apollo.research.3m.cdx/README.md) | research.3m hood | active |
+| [research.3m.cdx](../bbugyi200.apollo.research.3m.cdx/README.md) | research.3m hood | completed |
 | [research.3m.final](../bbugyi200.apollo.research.3m.final/README.md) | research.3m hood | waiting |
-| [research.3m.gem](../bbugyi200.apollo.research.3m.gem/README.md) | research.3m hood | active |
+| [research.3m.gem](../bbugyi200.apollo.research.3m.gem/README.md) | research.3m hood | completed |
 | [research.3m.grk](../bbugyi200.apollo.research.3m.grk/README.md) | research.3m hood | active |
 | [research.3m.image](../bbugyi200.apollo.research.3m.image/README.md) | research.3m hood | waiting |
 | [research.3m.linker](../bbugyi200.apollo.research.3m.linker/README.md) | research.3m hood | waiting |
