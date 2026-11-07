@@ -55,7 +55,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.bob-cli.5\_711563.1](bbugyi200.athena.chop.refresh_docs.bob-cli.5_711563.1.md) (session · 7) | chop.refresh\_docs.bob-cli hood | completed 4, failed 3 |
 | [chop.refresh\_docs.bob-cli.5\_711563.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_711563.2/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.6\_015851.1](bbugyi200.athena.chop.refresh_docs.bob-cli.6_015851.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 3 |
-| [chop.refresh\_docs.bob-cli.6\_015851.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.6_015851.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
+| [chop.refresh\_docs.bob-cli.6\_015851.2](bbugyi200.athena.chop.refresh_docs.bob-cli.6_015851.2.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 3 |
 | [chop.refresh\_docs.bob-cli.6\_350410.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.6_350410.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.6\_350410.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.6_350410.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.6\_608623.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.6_608623.1/README.md) | chop.refresh\_docs.bob-cli hood | active |
