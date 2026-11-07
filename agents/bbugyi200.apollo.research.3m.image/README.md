@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3m.image
 
-**Global name:** `bbugyi200.apollo.research.3m.image` · **State:** waiting · **Source run:** `run-e506eb3b4ee03c511eb9ba1eb14a511a`
+**Global name:** `bbugyi200.apollo.research.3m.image` · **State:** completed · **Source run:** `run-e506eb3b4ee03c511eb9ba1eb14a511a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261107150730
+- Timing: 2026-11-07T21:09:26.435429+00:00 → 2026-11-07T21:17:44.807024+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/gmail\_sync\_reply\_watch/gmail\_sync\_reply\_watch\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261107150730/gmail\_sync\_reply\_watch\_i… |
+| `diagrams` | {considered: 14, count: 1, manifest: 202611/gmail\_sync\_reply\_watch/gmail\_sync\_reply\_watch.diagrams.md, source\_ref: research:202611/gmail\_sync\_reply\_watch/gmail\_sync\_reply\_watch\_\_final.md, status: rea… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/gmail_sync_reply_watch/gmail_sync_reply_watch_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107150730/gmail_sync_reply_watch_infographic-1fd231b7196d.png
+  ref: file:explicit:119114f75f806f2409b7c927
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/gmail_sync_reply_watch/gmail_sync_reply_watch_infographic.png
+- kind: markdown
+  label: diagrams:202611/gmail_sync_reply_watch/gmail_sync_reply_watch.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107150730/gmail_sync_reply_watch.diagrams-5b654e8f08b8.md
+  ref: file:explicit:7bd4d13c519b3b8f6e7fa194
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/gmail_sync_reply_watch/gmail_sync_reply_watch.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 1
+manifest: 202611/gmail_sync_reply_watch/gmail_sync_reply_watch.diagrams.md
+source_ref: research:202611/gmail_sync_reply_watch/gmail_sync_reply_watch__final.md
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
