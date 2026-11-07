@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / 6g
 
-**Global hood:** `bbugyi200.apollo.6g` · **Runs:** 22 · **Sessions:** 5 · **States:** active 2, completed 12, failed 8
+**Global hood:** `bbugyi200.apollo.6g` · **Runs:** 22 · **Sessions:** 5 · **States:** active 1, completed 13, failed 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -16,7 +16,7 @@
 | [6g.w1.w0--code](../../../../../../sessions/bbugyi200.apollo.6g.w1.w0.md#member-code) | completed | grok-4.6 / grok | 2026-10-10T17:40:32.753979+00:00 → 2026-10-10T17:54:15.898754+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.6g.w1.w0--code/chat.md) |
 | [6g.w1--mon](../../../../../../sessions/bbugyi200.apollo.6g.w1.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-10T17:51:46.097876+00:00 → 2026-10-10T17:57:26.247186+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.6g.w1--mon/chat.md) |
 | [6g.w1.w0.f0.w0--gate](../../../../../../sessions/bbugyi200.apollo.6g.w1.w0.f0.w0.md#member-gate) | failed | gpt-6.1-sol / codex | 2026-10-10T18:36:58.991364+00:00 → 2026-10-10T18:37:13.929792+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.6g.w1.w0.f0.w0--gate/chat.md) |
-| [6g.w1.w0.f0--1](../../../../../../sessions/bbugyi200.apollo.6g.w1.w0.f0.md#member-1) | active | muse-spark-1.3-contributor / muse | 2026-10-10T18:55:19.441634+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.6g.w1.w0.f0--1/prompt.md) |
+| [6g.w1.w0.f0--1](../../../../../../sessions/bbugyi200.apollo.6g.w1.w0.f0.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-10-10T18:55:19.441634+00:00 → 2026-10-10T19:00:11.124548+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.6g.w1.w0.f0--1/prompt.md) |
 | [6g.w1--2](../../../../../../sessions/bbugyi200.apollo.6g.w1.md#member-2) | completed | gpt-6-luna / codex | 2026-10-10T18:06:11.641788+00:00 → 2026-10-10T18:08:39.096498+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.6g.w1--2/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.6g.w1--2/prompt.md) |
 | [6g.w1.w0.f0--plan](../../../../../../sessions/bbugyi200.apollo.6g.w1.w0.f0.md#member-plan) | completed | gpt-6-astra / codex | 2026-10-10T18:26:31.265577+00:00 → 2026-10-10T18:50:22.166794+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.6g.w1.w0.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.6g.w1.w0.f0--plan/prompt.md) |
 | [6g.w1.w0.f0--code](../../../../../../sessions/bbugyi200.apollo.6g.w1.w0.f0.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-10-10T18:32:15.768812+00:00 → 2026-10-10T18:50:22.166794+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.6g.w1.w0.f0--code/chat.md) |

@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`44d2ed6`](https://github.com/bobs-org/bob-cli/commit/44d2ed6a235bcb6841383667c96773c3a9a1b8c3) | feat(capture): toggle block-ID separators in capture-rewrite | 2026-10-10 13:29:47 EDT |
+| code | — | `44d2ed6` | feat(capture): toggle block-ID separators in capture-rewrite | 2026-10-10 13:29:47 EDT |
 
 ## Neighbors
 
@@ -36,5 +36,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [6g.w0](../agents/bbugyi200.apollo.6g.w0/README.md) | descendant | active |
 | [6g.w1](bbugyi200.apollo.6g.w1.md) (session · 7) | descendant | completed 4, failed 3 |
 | [6g.w1.w0](bbugyi200.apollo.6g.w1.w0.md) (session · 3) | descendant | completed 2, failed 1 |
-| [6g.w1.w0.f0](bbugyi200.apollo.6g.w1.w0.f0.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
+| [6g.w1.w0.f0](bbugyi200.apollo.6g.w1.w0.f0.md) (session · 5) | descendant | completed 3, failed 2 |
 | [6g.w1.w0.f0.w0](bbugyi200.apollo.6g.w1.w0.f0.w0.md) (session · 3) | descendant | completed 2, failed 1 |

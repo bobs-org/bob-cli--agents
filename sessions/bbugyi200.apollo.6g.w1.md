@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`60297c2`](https://github.com/bobs-org/bob-cli/commit/60297c2621478beca362bc0e8b5abe32d92a9147) | feat(capture): add idle agenda budget output | 2026-10-10 14:07:07 EDT |
+| 2 | — | `60297c2` | feat(capture): add idle agenda budget output | 2026-10-10 14:07:07 EDT |
 
 ## Neighbors
 
@@ -47,6 +47,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [6g](bbugyi200.apollo.6g.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [6g.w1.w0](bbugyi200.apollo.6g.w1.w0.md) (session · 3) | descendant | completed 2, failed 1 |
-| [6g.w1.w0.f0](bbugyi200.apollo.6g.w1.w0.f0.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
+| [6g.w1.w0.f0](bbugyi200.apollo.6g.w1.w0.f0.md) (session · 5) | descendant | completed 3, failed 2 |
 | [6g.w1.w0.f0.w0](bbugyi200.apollo.6g.w1.w0.f0.w0.md) (session · 3) | descendant | completed 2, failed 1 |
 | [6g.w0](../agents/bbugyi200.apollo.6g.w0/README.md) | 6g hood | active |

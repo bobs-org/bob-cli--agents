@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6g](../../users/bbugyi200/machines/apollo/hoods/6g/README.md) / [6g.w1.w0.f0](../../sessions/bbugyi200.apollo.6g.w1.w0.f0.md) / 6g.w1.w0.f0--1
 
-**Global name:** `bbugyi200.apollo.6g.w1.w0.f0--1` · **State:** active · **Source run:** `run-9cfafaf0952428a1504cc08d24958447`
+**Global name:** `bbugyi200.apollo.6g.w1.w0.f0--1` · **State:** completed · **Source run:** `run-9cfafaf0952428a1504cc08d24958447`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 6g
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-10T18:55:19.441634+00:00
+- Timing: 2026-10-10T18:55:19.441634+00:00 → 2026-10-10T19:00:11.124548+00:00
 - Commits: 0
 
 ## Files

@@ -33,11 +33,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`b0afb10`](https://github.com/bobs-org/bob-cli/commit/b0afb103c862f4a8d051f347d27f8f678f326296) | docs(dashboard): document Review-badge count rule for NEW, ROTTEN, CROWDED | 2026-10-10 10:38:27 EDT |
+| 1 | — | `b0afb10` | docs(dashboard): document Review-badge count rule for NEW, ROTTEN, CROWDED | 2026-10-10 10:38:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [6c.w0](../agents/bbugyi200.apollo.6c.w0/README.md) | descendant | active |
-| [6c.w1](bbugyi200.apollo.6c.w1.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
+| [6c.w1](bbugyi200.apollo.6c.w1.md) (session · 5) | descendant | completed 3, failed 2 |

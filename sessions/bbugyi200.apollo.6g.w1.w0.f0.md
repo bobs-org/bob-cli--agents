@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `6g` · Members: 5
 ```mermaid
 flowchart TD
   n0["6g.w1.w0.f0--gate [failed]"]
-  n1["6g.w1.w0.f0--1 [active]"]
+  n1["6g.w1.w0.f0--1 [completed]"]
   n0 --> n1
   n2["6g.w1.w0.f0--plan [completed]"]
   n0 --> n2
@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 6g.w1.w0.f0--gate | failed | gpt-6-astra / codex | 2026-10-10T18:31:46.275639+00:00 → 2026-10-10T18:32:01.157304+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6g.w1.w0.f0--gate/chat.md) |
-| <a id="member-1"></a>1 | 6g.w1.w0.f0--1 | active | muse-spark-1.3-contributor / muse | 2026-10-10T18:55:19.441634+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.6g.w1.w0.f0--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 6g.w1.w0.f0--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-10T18:55:19.441634+00:00 → 2026-10-10T19:00:11.124548+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.6g.w1.w0.f0--1/prompt.md) | — |
 | <a id="member-plan"></a>plan | 6g.w1.w0.f0--plan | completed | gpt-6-astra / codex | 2026-10-10T18:26:31.265577+00:00 → 2026-10-10T18:50:22.166794+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.6g.w1.w0.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.6g.w1.w0.f0--plan/chat.md) |
 | <a id="member-code"></a>code | 6g.w1.w0.f0--code | completed | muse-spark-1.3-contributor / muse | 2026-10-10T18:32:15.768812+00:00 → 2026-10-10T18:50:22.166794+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6g.w1.w0.f0--code/chat.md) |
 | <a id="member-mon"></a>mon | 6g.w1.w0.f0--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-10T18:49:32.897855+00:00 → 2026-10-10T18:55:19.616600+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6g.w1.w0.f0--mon/chat.md) |
