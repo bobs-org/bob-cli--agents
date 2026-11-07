@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5w.final
 
-**Global name:** `bbugyi200.athena.research.5w.final` · **State:** waiting · **Source run:** `run-30495f6cbdf24b85410dfedaa53002ab`
+**Global name:** `bbugyi200.athena.research.5w.final` · **State:** completed · **Source run:** `run-30495f6cbdf24b85410dfedaa53002ab`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261107103500
+- Timing: 2026-11-07T16:09:05.121134+00:00 → 2026-11-07T16:30:14.474379+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/crontab\_as\_code\_via\_chezmoi/crontab\_as\_code\_via\_chezmoi\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261107103500/crontab\_as\_cod… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/crontab_as_code_via_chezmoi/crontab_as_code_via_chezmoi__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107103500/crontab_as_code_via_chezmoi__final-3fcbf9607062.md
+  ref: file:explicit:c3684d644e2d19c7f7ec0f00
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/crontab_as_code_via_chezmoi/crontab_as_code_via_chezmoi__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
