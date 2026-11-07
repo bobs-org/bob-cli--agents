@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5w.gem
 
-**Global name:** `bbugyi200.athena.research.5w.gem` · **State:** active · **Source run:** `run-b74ddd7ade22d0e42037010c64cec39d`
+**Global name:** `bbugyi200.athena.research.5w.gem` · **State:** completed · **Source run:** `run-b74ddd7ade22d0e42037010c64cec39d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,18 +10,37 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-07T15:42:21.101784+00:00
+- Timing: 2026-11-07T15:42:21.101784+00:00 → 2026-11-07T15:50:53.012326+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/chezmoi\_crontab\_management\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261107103459/chezmoi\_crontab\_management\_\_gem-d226fe62dc83.… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/chezmoi_crontab_management__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107103459/chezmoi_crontab_management__gem-d226fe62dc83.md
+  ref: file:explicit:03b585fdc4e1ee6fac0f64f8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/chezmoi_crontab_management__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5w.cdx](../bbugyi200.athena.research.5w.cdx/README.md) | research.5w hood | active |
+| [research.5w.cdx](../bbugyi200.athena.research.5w.cdx/README.md) | research.5w hood | completed |
 | [research.5w.cld](../bbugyi200.athena.research.5w.cld/README.md) | research.5w hood | active |
 | [research.5w.final](../bbugyi200.athena.research.5w.final/README.md) | research.5w hood | waiting |
 | [research.5w.grk](../bbugyi200.athena.research.5w.grk/README.md) | research.5w hood | active |
