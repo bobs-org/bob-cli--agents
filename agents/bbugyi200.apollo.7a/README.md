@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f36ea7c`](https://github.com/bobs-org/bob-cli/commit/f36ea7c3c94c141fdbeb41198589c1d0288cd12d) | chore: Add SDD prompt and plan for task\_dependency\_block\_ids | 2026-06-14 11:28:51 EDT |
+| — | `f36ea7c` | chore: Add SDD prompt and plan for task\_dependency\_block\_ids | 2026-06-14 11:28:51 EDT |
 
 ## Variables
 
@@ -46,4 +46,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [7a.f0](../../sessions/bbugyi200.apollo.7a.f0.md) (session · 3) | descendant | active 2, failed 1 |
+| [7a.f0](../../sessions/bbugyi200.apollo.7a.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |

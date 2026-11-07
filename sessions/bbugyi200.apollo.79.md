@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["79--mon [failed]"]
   n0 --> n5
-  n6["79--2 [active]"]
+  n6["79--2 [completed]"]
   n0 --> n6
 ```
 
@@ -33,10 +33,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | 79--1 | completed | gpt-6-luna / codex | 2026-10-13T12:13:14.238857+00:00 → 2026-10-13T12:16:33.476412+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.79--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.79--1/chat.md) |
 | <a id="member-gate"></a>gate | 79--gate | failed | opus / claude | 2026-10-13T12:07:00.877462+00:00 → 2026-10-13T12:07:13.023808+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.79--gate/chat.md) |
 | <a id="member-mon"></a>mon | 79--mon | failed | gpt-6-luna / codex | 2026-10-13T12:10:49.979073+00:00 → 2026-10-13T12:13:14.543190+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.79--mon/chat.md) |
-| <a id="member-2"></a>2 | 79--2 | active | gpt-6-luna / codex | 2026-10-13T12:23:22.198008+00:00 | [1](../agents/bbugyi200.apollo.79--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.79--2/prompt.md) | — |
+| <a id="member-2"></a>2 | 79--2 | completed | gpt-6-luna / codex | 2026-10-13T12:23:22.198008+00:00 → 2026-10-13T12:29:25.542186+00:00 | [1](../agents/bbugyi200.apollo.79--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.79--2/prompt.md) | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`1de9e03`](https://github.com/bobs-org/bob-cli/commit/1de9e036918de01098339ee5b07378231e6df465) | fix(lint): gate rustc warnings in checks | 2026-10-13 08:27:29 EDT |
+| 2 | — | `1de9e03` | fix(lint): gate rustc warnings in checks | 2026-10-13 08:27:29 EDT |
