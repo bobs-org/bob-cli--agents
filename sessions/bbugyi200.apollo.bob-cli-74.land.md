@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-74` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-74.land--plan [active]"]
-  n1["bob-cli-74.land--code [active]"]
+  n1["bob-cli-74.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-74.land--gate [failed]"]
   n0 --> n2
@@ -20,14 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-74.land--plan | active | opus / claude | 2026-10-13T05:53:09.217029+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-74.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-74.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-74.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-13T06:19:34.444177+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-74.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | bob-cli-74.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-13T06:19:34.444177+00:00 → 2026-10-13T06:51:21.869743+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-74.land--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-74.land--gate | failed | opus / claude | 2026-10-13T06:19:05.769091+00:00 → 2026-10-13T06:19:17.311090+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-74.land--gate/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`db03ce6`](https://github.com/bobs-org/bob-cli/commit/db03ce6d2f008a85b9bd72d899792e99a0be5ffd) | fix(pull-in): land project pull-in repairs R1-R4 with tests | 2026-10-13 02:48:13 EDT |
+| code | — | `db03ce6` | fix(pull-in): land project pull-in repairs R1-R4 with tests | 2026-10-13 02:48:13 EDT |
 
 ## Neighbors
 

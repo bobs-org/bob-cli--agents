@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b09612e`](https://github.com/bobs-org/bob-cli/commit/b09612ee99c0f977417da4bcab9c52c1518cc161) | fix(projects): gate hoist and Sub-projects placement | 2026-10-12 19:49:58 EDT |
+| — | `b09612e` | fix(projects): gate hoist and Sub-projects placement | 2026-10-12 19:49:58 EDT |
 
 ## Neighbors
 
@@ -43,7 +43,7 @@
 | [bob-cli-6u.18.7.6.2](../bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u.18 hood | completed |
 | [bob-cli-6u.18.7.6.3](../bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u.18 hood | completed |
 | [bob-cli-6u.18.7.6.4](../bbugyi200.apollo.bob-cli-6u.18.7.6.4/README.md) | bob-cli-6u.18 hood | completed |
-| [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u.18 hood | active 2, failed 1 |
+| [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u.18 hood | active 1, completed 1, failed 1 |
 | [bob-cli-6u.18.7.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.land.md) (session · 3) | bob-cli-6u.18 hood | failed 3 |
 | [bob-cli-6u.18.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.land.md) (session · 3) | bob-cli-6u.18 hood | failed 3 |
 | [bob-cli-6u.1](../bbugyi200.apollo.bob-cli-6u.1/README.md) | bob-cli-6u hood | completed |

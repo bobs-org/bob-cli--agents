@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6u](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6u/README.md) / [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) / bob-cli-6u.18.7.6.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-6u.18.7.6.land--code` · **State:** active · **Source run:** `run-0c87cb36c22a78d0b4eec766dcea8eb8`
+**Global name:** `bbugyi200.apollo.bob-cli-6u.18.7.6.land--code` · **State:** completed · **Source run:** `run-0c87cb36c22a78d0b4eec766dcea8eb8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6u
 
@@ -11,14 +11,14 @@
 - Bead: [bob-cli-6u.18.7.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6u/bob-cli-6u.18.7.6.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-13T03:06:20.555357+00:00
+- Timing: 2026-10-13T03:06:20.555357+00:00 → 2026-10-13T03:26:47.191464+00:00
 - Commits: [1](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`08d9e1f`](https://github.com/bobs-org/bob-cli/commit/08d9e1f054db96f2351e483d61547d6e36af395a) | test(capture): insert Depends-On after ^prj in fenced-index fixture | 2026-10-12 23:24:15 EDT |
+| — | `08d9e1f` | test(capture): insert Depends-On after ^prj in fenced-index fixture | 2026-10-12 23:24:15 EDT |
 
 ## Neighbors
 

@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-6u
 
-**Global hood:** `bbugyi200.apollo.bob-cli-6u` · **Runs:** 66 · **Sessions:** 11 · **States:** active 2, completed 43, failed 21
+**Global hood:** `bbugyi200.apollo.bob-cli-6u` · **Runs:** 66 · **Sessions:** 11 · **States:** active 1, completed 44, failed 21
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-6u.18.7.1--mon](../../../../../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.1.md#member-mon) | failed | gpt-6-luna / codex | 2026-10-13T00:55:53.707123+00:00 → 2026-10-13T01:02:21.646030+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.7.1--mon/chat.md) |
-| [bob-cli-6u.18.7.6.land--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md#member-code) | active | grok-4.6 / grok | 2026-10-13T03:06:20.555357+00:00 | 1 | — |
+| [bob-cli-6u.18.7.6.land--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md#member-code) | completed | grok-4.6 / grok | 2026-10-13T03:06:20.555357+00:00 → 2026-10-13T03:26:47.191464+00:00 | 1 | — |
 | [bob-cli-6u.18.7.6.4](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.4/README.md) | completed | gpt-6-luna / codex | 2026-10-13T02:39:19.242459+00:00 → 2026-10-13T02:46:59.921997+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.4/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.4/prompt.md) |
 | [bob-cli-6u.10](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.10/README.md) | completed | gpt-6-luna / codex | 2026-10-12T15:24:48.298569+00:00 → 2026-10-12T15:43:40.298188+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.10/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.10/prompt.md) |
 | [bob-cli-6u.3](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.3/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-12T14:54:22.378014+00:00 → 2026-10-12T15:24:31.710514+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.3/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-6u.3/prompt.md) |

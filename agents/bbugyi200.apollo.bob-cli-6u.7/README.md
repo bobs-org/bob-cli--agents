@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`13d183f`](https://github.com/bobs-org/bob-cli/commit/13d183ff74594ae691034c83ce43d2d5b21d3f80) | feat(task-complete): respect project blocking in close paths | 2026-10-12 11:50:31 EDT |
+| — | `13d183f` | feat(task-complete): respect project blocking in close paths | 2026-10-12 11:50:31 EDT |
 
 ## Neighbors
 
@@ -53,7 +53,7 @@
 | [bob-cli-6u.18.7.6.2](../bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.6.3](../bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.6.4](../bbugyi200.apollo.bob-cli-6u.18.7.6.4/README.md) | bob-cli-6u hood | completed |
-| [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u hood | active 2, failed 1 |
+| [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u hood | active 1, completed 1, failed 1 |
 | [bob-cli-6u.18.7.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.land.md) (session · 3) | bob-cli-6u hood | failed 3 |
 | [bob-cli-6u.18.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.land.md) (session · 3) | bob-cli-6u hood | failed 3 |
 | [bob-cli-6u.2](../../sessions/bbugyi200.apollo.bob-cli-6u.2.md) (session · 5) | bob-cli-6u hood | completed 3, failed 2 |

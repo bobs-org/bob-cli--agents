@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`178dc21`](https://github.com/bobs-org/bob-cli/commit/178dc21ce51e562f11a42d5e816b121d158a818e) | docs(task-deps): document nav-fixes for project blocking, reversal, and schedule writes | 2026-10-12 22:32:51 EDT |
+| — | `178dc21` | docs(task-deps): document nav-fixes for project blocking, reversal, and schedule writes | 2026-10-12 22:32:51 EDT |
 
 ## Neighbors
 
@@ -32,7 +32,7 @@
 | [bob-cli-6u.18.7.6.1](../bbugyi200.apollo.bob-cli-6u.18.7.6.1/README.md) | bob-cli-6u.18.7.6 hood | completed |
 | [bob-cli-6u.18.7.6.3](../bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u.18.7.6 hood | completed |
 | [bob-cli-6u.18.7.6.4](../bbugyi200.apollo.bob-cli-6u.18.7.6.4/README.md) | bob-cli-6u.18.7.6 hood | completed |
-| [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u.18.7.6 hood | active 2, failed 1 |
+| [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u.18.7.6 hood | active 1, completed 1, failed 1 |
 | [bob-cli-6u.18.7.1](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.1.md) (session · 5) | bob-cli-6u.18.7 hood | completed 3, failed 2 |
 | [bob-cli-6u.18.7.2](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.2.md) (session · 3) | bob-cli-6u.18.7 hood | completed 2, failed 1 |
 | [bob-cli-6u.18.7.3](../bbugyi200.apollo.bob-cli-6u.18.7.3/README.md) | bob-cli-6u.18.7 hood | completed |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`36f997b`](https://github.com/bobs-org/bob-cli/commit/36f997b1aad6d0757b83de36aff75f584718237d) | feat(capture): never link a Blocked task | 2026-10-12 16:52:38 EDT |
+| — | `36f997b` | feat(capture): never link a Blocked task | 2026-10-12 16:52:38 EDT |
 
 ## Neighbors
 
@@ -52,7 +52,7 @@
 | [bob-cli-6u.18.7.6.2](../bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.6.3](../bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.6.4](../bbugyi200.apollo.bob-cli-6u.18.7.6.4/README.md) | bob-cli-6u hood | completed |
-| [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u hood | active 2, failed 1 |
+| [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u hood | active 1, completed 1, failed 1 |
 | [bob-cli-6u.18.7.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.land.md) (session · 3) | bob-cli-6u hood | failed 3 |
 | [bob-cli-6u.18.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.land.md) (session · 3) | bob-cli-6u hood | failed 3 |
 | [bob-cli-6u.2](../../sessions/bbugyi200.apollo.bob-cli-6u.2.md) (session · 5) | bob-cli-6u hood | completed 3, failed 2 |

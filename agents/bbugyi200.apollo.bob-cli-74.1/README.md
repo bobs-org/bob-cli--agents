@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`eb03584`](https://github.com/bobs-org/bob-cli/commit/eb0358440bc6e1a2fe013343bde719ab19d72d18) | docs(contracts): reconcile task-dependency, project, capture, and status-hooks docs with sync surface predicate | 2026-10-12 23:49:47 EDT |
+| — | `eb03584` | docs(contracts): reconcile task-dependency, project, capture, and status-hooks docs with sync surface predicate | 2026-10-12 23:49:47 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-74.4](../bbugyi200.apollo.bob-cli-74.4/README.md) | bob-cli-74 hood | completed |
 | [bob-cli-74.5](../bbugyi200.apollo.bob-cli-74.5/README.md) | bob-cli-74 hood | completed |
 | [bob-cli-74.6](../bbugyi200.apollo.bob-cli-74.6/README.md) | bob-cli-74 hood | completed |
-| [bob-cli-74.land](../../sessions/bbugyi200.apollo.bob-cli-74.land.md) (session · 3) | bob-cli-74 hood | active 2, failed 1 |
+| [bob-cli-74.land](../../sessions/bbugyi200.apollo.bob-cli-74.land.md) (session · 3) | bob-cli-74 hood | active 1, completed 1, failed 1 |

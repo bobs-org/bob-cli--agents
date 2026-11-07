@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`d2836e0`](https://github.com/bobs-org/bob-cli/commit/d2836e0ed1a24be033ffb29772a6d4053390283f) | fix(projects): correct ^prj reconcile and sync behavior | 2026-10-12 21:18:03 EDT |
+| 2 | — | `d2836e0` | fix(projects): correct ^prj reconcile and sync behavior | 2026-10-12 21:18:03 EDT |
 
 ## Neighbors
 
@@ -47,7 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-6u.18.7.6.2](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u.18.7 hood | completed |
 | [bob-cli-6u.18.7.6.3](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u.18.7 hood | completed |
 | [bob-cli-6u.18.7.6.4](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.4/README.md) | bob-cli-6u.18.7 hood | completed |
-| [bob-cli-6u.18.7.6.land](bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u.18.7 hood | active 2, failed 1 |
+| [bob-cli-6u.18.7.6.land](bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u.18.7 hood | active 1, completed 1, failed 1 |
 | [bob-cli-6u.18.7.land](bbugyi200.apollo.bob-cli-6u.18.7.land.md) (session · 3) | bob-cli-6u.18.7 hood | failed 3 |
 | [bob-cli-6u.18.1](../agents/bbugyi200.apollo.bob-cli-6u.18.1/README.md) | bob-cli-6u.18 hood | completed |
 | [bob-cli-6u.18.2](../agents/bbugyi200.apollo.bob-cli-6u.18.2/README.md) | bob-cli-6u.18 hood | completed |

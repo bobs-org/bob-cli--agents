@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5fc27f0`](https://github.com/bobs-org/bob-cli/commit/5fc27f0818e7b677b3da3bff23253b0f0c5a8387) | feat(pull-in): shared sync surface predicate and Rust pull-in planner | 2026-10-13 00:34:48 EDT |
+| — | `5fc27f0` | feat(pull-in): shared sync surface predicate and Rust pull-in planner | 2026-10-13 00:34:48 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-74.4](../bbugyi200.apollo.bob-cli-74.4/README.md) | bob-cli-74 hood | completed |
 | [bob-cli-74.5](../bbugyi200.apollo.bob-cli-74.5/README.md) | bob-cli-74 hood | completed |
 | [bob-cli-74.6](../bbugyi200.apollo.bob-cli-74.6/README.md) | bob-cli-74 hood | completed |
-| [bob-cli-74.land](../../sessions/bbugyi200.apollo.bob-cli-74.land.md) (session · 3) | bob-cli-74 hood | active 2, failed 1 |
+| [bob-cli-74.land](../../sessions/bbugyi200.apollo.bob-cli-74.land.md) (session · 3) | bob-cli-74 hood | active 1, completed 1, failed 1 |

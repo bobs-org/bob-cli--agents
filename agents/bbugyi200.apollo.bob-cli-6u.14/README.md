@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e9acfdf`](https://github.com/bobs-org/bob-cli/commit/e9acfdf7264098425e6176ecb6b65afeeda7487a) | docs(projects): document line-based conversion behavior | 2026-10-12 16:04:13 EDT |
+| — | `e9acfdf` | docs(projects): document line-based conversion behavior | 2026-10-12 16:04:13 EDT |
 
 ## Neighbors
 
@@ -52,7 +52,7 @@
 | [bob-cli-6u.18.7.6.2](../bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.6.3](../bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.6.4](../bbugyi200.apollo.bob-cli-6u.18.7.6.4/README.md) | bob-cli-6u hood | completed |
-| [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u hood | active 2, failed 1 |
+| [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u hood | active 1, completed 1, failed 1 |
 | [bob-cli-6u.18.7.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.land.md) (session · 3) | bob-cli-6u hood | failed 3 |
 | [bob-cli-6u.18.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.land.md) (session · 3) | bob-cli-6u hood | failed 3 |
 | [bob-cli-6u.2](../../sessions/bbugyi200.apollo.bob-cli-6u.2.md) (session · 5) | bob-cli-6u hood | completed 3, failed 2 |

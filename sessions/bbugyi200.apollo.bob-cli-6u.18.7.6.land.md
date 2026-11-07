@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-6u` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-6u.18.7.6.land--code [active]"]
+  n0["bob-cli-6u.18.7.6.land--code [completed]"]
   n1["bob-cli-6u.18.7.6.land--plan [active]"]
   n0 --> n1
   n2["bob-cli-6u.18.7.6.land--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-6u.18.7.6.land--code | active | grok-4.6 / grok | 2026-10-13T03:06:20.555357+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | bob-cli-6u.18.7.6.land--code | completed | grok-4.6 / grok | 2026-10-13T03:06:20.555357+00:00 → 2026-10-13T03:26:47.191464+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.land--code/README.md#commits) | — | — |
 | <a id="member-plan"></a>plan | bob-cli-6u.18.7.6.land--plan | active | gpt-6.1-sol / codex | 2026-10-13T02:47:15.346543+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-6u.18.7.6.land--gate | failed | gpt-6.1-sol / codex | 2026-10-13T03:05:51.429669+00:00 → 2026-10-13T03:06:03.438824+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.land--gate/chat.md) |
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`08d9e1f`](https://github.com/bobs-org/bob-cli/commit/08d9e1f054db96f2351e483d61547d6e36af395a) | test(capture): insert Depends-On after ^prj in fenced-index fixture | 2026-10-12 23:24:15 EDT |
+| code | — | `08d9e1f` | test(capture): insert Depends-On after ^prj in fenced-index fixture | 2026-10-12 23:24:15 EDT |
 
 ## Neighbors
 

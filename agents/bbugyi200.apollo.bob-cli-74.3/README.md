@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`309e98a`](https://github.com/bobs-org/bob-cli/commit/309e98a92ed290f3893b4fcf4c9e58bb857d94b4) | feat(capture): surface project pull-ins on close | 2026-10-13 01:09:19 EDT |
+| — | `309e98a` | feat(capture): surface project pull-ins on close | 2026-10-13 01:09:19 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-74.4](../bbugyi200.apollo.bob-cli-74.4/README.md) | bob-cli-74 hood | completed |
 | [bob-cli-74.5](../bbugyi200.apollo.bob-cli-74.5/README.md) | bob-cli-74 hood | completed |
 | [bob-cli-74.6](../bbugyi200.apollo.bob-cli-74.6/README.md) | bob-cli-74 hood | completed |
-| [bob-cli-74.land](../../sessions/bbugyi200.apollo.bob-cli-74.land.md) (session · 3) | bob-cli-74 hood | active 2, failed 1 |
+| [bob-cli-74.land](../../sessions/bbugyi200.apollo.bob-cli-74.land.md) (session · 3) | bob-cli-74 hood | active 1, completed 1, failed 1 |
