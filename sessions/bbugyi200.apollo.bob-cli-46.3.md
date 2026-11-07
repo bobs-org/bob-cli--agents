@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`192e8b5`](https://github.com/bobs-org/bob-cli/commit/192e8b51157a7616ddeecf4161667b0c538699e6) | docs(cli): teach canonical task and pomodoro names | 2026-10-04 09:35:22 EDT |
+| 2 | — | `192e8b5` | docs(cli): teach canonical task and pomodoro names | 2026-10-04 09:35:22 EDT |
 
 ## Neighbors
 
@@ -42,4 +42,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-46.1](../agents/bbugyi200.apollo.bob-cli-46.1/README.md) | bob-cli-46 hood | completed |
 | [bob-cli-46.2](bbugyi200.apollo.bob-cli-46.2.md) (session · 7) | bob-cli-46 hood | completed 4, failed 3 |
 | [bob-cli-46.4](../agents/bbugyi200.apollo.bob-cli-46.4/README.md) | bob-cli-46 hood | completed |
-| [bob-cli-46.land](bbugyi200.apollo.bob-cli-46.land.md) (session · 3) | bob-cli-46 hood | active 2, failed 1 |
+| [bob-cli-46.land](bbugyi200.apollo.bob-cli-46.land.md) (session · 3) | bob-cli-46 hood | active 1, completed 1, failed 1 |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`192e8b5`](https://github.com/bobs-org/bob-cli/commit/192e8b51157a7616ddeecf4161667b0c538699e6) | docs(cli): teach canonical task and pomodoro names | 2026-10-04 09:35:22 EDT |
+| — | `192e8b5` | docs(cli): teach canonical task and pomodoro names | 2026-10-04 09:35:22 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [bob-cli-46.1](../bbugyi200.apollo.bob-cli-46.1/README.md) | bob-cli-46 hood | completed |
 | [bob-cli-46.2](../../sessions/bbugyi200.apollo.bob-cli-46.2.md) (session · 7) | bob-cli-46 hood | completed 4, failed 3 |
 | [bob-cli-46.4](../bbugyi200.apollo.bob-cli-46.4/README.md) | bob-cli-46 hood | completed |
-| [bob-cli-46.land](../../sessions/bbugyi200.apollo.bob-cli-46.land.md) (session · 3) | bob-cli-46 hood | active 2, failed 1 |
+| [bob-cli-46.land](../../sessions/bbugyi200.apollo.bob-cli-46.land.md) (session · 3) | bob-cli-46 hood | active 1, completed 1, failed 1 |

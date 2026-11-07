@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2b754c8`](https://github.com/bobs-org/bob-cli/commit/2b754c8181e3839fa7eedce959b5b3b2ba559c22) | docs(ready): advertise Task Card keys after October 19 | 2026-10-03 20:19:06 EDT |
+| — | `2b754c8` | docs(ready): advertise Task Card keys after October 19 | 2026-10-03 20:19:06 EDT |
 
 ## Neighbors
 
@@ -36,4 +36,4 @@
 | [bob-cli-42.5](../bbugyi200.apollo.bob-cli-42.5/README.md) | bob-cli-42 hood | completed |
 | [bob-cli-42.6](../bbugyi200.apollo.bob-cli-42.6/README.md) | bob-cli-42 hood | completed |
 | [bob-cli-42.7](../bbugyi200.apollo.bob-cli-42.7/README.md) | bob-cli-42 hood | completed |
-| [bob-cli-42.land](../../sessions/bbugyi200.apollo.bob-cli-42.land.md) (session · 3) | bob-cli-42 hood | active 2, failed 1 |
+| [bob-cli-42.land](../../sessions/bbugyi200.apollo.bob-cli-42.land.md) (session · 3) | bob-cli-42 hood | active 1, completed 1, failed 1 |

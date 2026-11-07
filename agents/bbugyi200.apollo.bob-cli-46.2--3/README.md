@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b13f96c`](https://github.com/bobs-org/bob-cli/commit/b13f96ccfbfdaac8c06e20c0b343f0f5cce7de60) | feat(cli): nest task and pomodoro command groups | 2026-10-04 08:56:02 EDT |
+| — | `b13f96c` | feat(cli): nest task and pomodoro command groups | 2026-10-04 08:56:02 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [bob-cli-46.1](../bbugyi200.apollo.bob-cli-46.1/README.md) | bob-cli-46 hood | completed |
 | [bob-cli-46.3](../../sessions/bbugyi200.apollo.bob-cli-46.3.md) (session · 5) | bob-cli-46 hood | completed 3, failed 2 |
 | [bob-cli-46.4](../bbugyi200.apollo.bob-cli-46.4/README.md) | bob-cli-46 hood | completed |
-| [bob-cli-46.land](../../sessions/bbugyi200.apollo.bob-cli-46.land.md) (session · 3) | bob-cli-46 hood | active 2, failed 1 |
+| [bob-cli-46.land](../../sessions/bbugyi200.apollo.bob-cli-46.land.md) (session · 3) | bob-cli-46 hood | active 1, completed 1, failed 1 |
