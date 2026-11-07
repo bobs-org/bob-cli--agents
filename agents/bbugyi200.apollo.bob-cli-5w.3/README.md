@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`eb6fa0d`](https://github.com/bobs-org/bob-cli/commit/eb6fa0d712475f350d44aa757d8b3092b66611c6) | feat(task-complete): add successor planner and wire into !note:id unblocking | 2026-10-09 13:32:35 EDT |
+| — | `eb6fa0d` | feat(task-complete): add successor planner and wire into !note:id unblocking | 2026-10-09 13:32:35 EDT |
 
 ## Neighbors
 
@@ -39,5 +39,5 @@
 | [bob-cli-5w.7](../bbugyi200.apollo.bob-cli-5w.7/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.8](../bbugyi200.apollo.bob-cli-5w.8/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.9](../bbugyi200.apollo.bob-cli-5w.9/README.md) | bob-cli-5w hood | completed |
-| [bob-cli-5w.land](../../sessions/bbugyi200.apollo.bob-cli-5w.land.md) (session · 3) | bob-cli-5w hood | active 2, failed 1 |
+| [bob-cli-5w.land](../../sessions/bbugyi200.apollo.bob-cli-5w.land.md) (session · 3) | bob-cli-5w hood | active 1, completed 1, failed 1 |
 | [bob-cli-5w.land](../bbugyi200.apollo.bob-cli-5w.land/README.md) | bob-cli-5w hood | waiting |

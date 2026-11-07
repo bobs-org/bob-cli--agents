@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-54.land--plan [active]"]
   n1["bob-cli-54.land--gate [failed]"]
   n0 --> n1
-  n2["bob-cli-54.land--code [active]"]
+  n2["bob-cli-54.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-54.land--plan | active | grok-4.7 / grok | 2026-10-07T14:06:58.935151+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-54.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-54.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-54.land--gate | failed | grok-4.7 / grok | 2026-10-07T14:27:30.137035+00:00 → 2026-10-07T14:27:39.403706+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-54.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-54.land--code | active | muse-spark-1.3-contributor / muse | 2026-10-07T14:27:47.392569+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-54.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-07T14:27:47.392569+00:00 → 2026-10-07T14:39:53.244281+00:00 | 0 | — | — |
 
 ## Neighbors
 

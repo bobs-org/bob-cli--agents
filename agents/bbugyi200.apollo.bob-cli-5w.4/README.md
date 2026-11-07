@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`02029a7`](https://github.com/bobs-org/bob-cli/commit/02029a736a2cbc693bb9e7de3445a19562c06019) | feat(capture): run recovery and successor linking inside Pomodoro closes | 2026-10-09 14:25:54 EDT |
+| — | `02029a7` | feat(capture): run recovery and successor linking inside Pomodoro closes | 2026-10-09 14:25:54 EDT |
 
 ## Neighbors
 
@@ -39,5 +39,5 @@
 | [bob-cli-5w.7](../bbugyi200.apollo.bob-cli-5w.7/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.8](../bbugyi200.apollo.bob-cli-5w.8/README.md) | bob-cli-5w hood | completed |
 | [bob-cli-5w.9](../bbugyi200.apollo.bob-cli-5w.9/README.md) | bob-cli-5w hood | completed |
-| [bob-cli-5w.land](../../sessions/bbugyi200.apollo.bob-cli-5w.land.md) (session · 3) | bob-cli-5w hood | active 2, failed 1 |
+| [bob-cli-5w.land](../../sessions/bbugyi200.apollo.bob-cli-5w.land.md) (session · 3) | bob-cli-5w hood | active 1, completed 1, failed 1 |
 | [bob-cli-5w.land](../bbugyi200.apollo.bob-cli-5w.land/README.md) | bob-cli-5w hood | waiting |

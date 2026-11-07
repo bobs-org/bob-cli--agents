@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-5w](../../users/bbugyi200/machines/apollo/hoods/bob-cli-5w/README.md) / [bob-cli-5w.land](../../sessions/bbugyi200.apollo.bob-cli-5w.land.md) / bob-cli-5w.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-5w.land--code` · **State:** active · **Source run:** `run-2dd30df8ea0d9600144dab49df46a01e`
+**Global name:** `bbugyi200.apollo.bob-cli-5w.land--code` · **State:** completed · **Source run:** `run-2dd30df8ea0d9600144dab49df46a01e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-5w
 
@@ -11,14 +11,14 @@
 - Bead: [bob-cli-5w](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5w/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-09T19:54:30.425115+00:00
+- Timing: 2026-10-09T19:54:30.425115+00:00 → 2026-10-09T21:01:59.679002+00:00
 - Commits: [1](#commits)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9b44dc6`](https://github.com/bobs-org/bob-cli/commit/9b44dc66b5887fef656969657335b85e7ff5549c) | fix(successors): repair landing blockers across capture engines | 2026-10-09 17:00:10 EDT |
+| — | `9b44dc6` | fix(successors): repair landing blockers across capture engines | 2026-10-09 17:00:10 EDT |
 
 ## Neighbors
 

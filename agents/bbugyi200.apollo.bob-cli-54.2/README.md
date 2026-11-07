@@ -25,4 +25,4 @@
 |---|---|---|
 | [bob-cli-54.1](../bbugyi200.apollo.bob-cli-54.1/README.md) | bob-cli-54 hood | completed |
 | [bob-cli-54.3](../bbugyi200.apollo.bob-cli-54.3/README.md) | bob-cli-54 hood | completed |
-| [bob-cli-54.land](../../sessions/bbugyi200.apollo.bob-cli-54.land.md) (session · 3) | bob-cli-54 hood | active 2, failed 1 |
+| [bob-cli-54.land](../../sessions/bbugyi200.apollo.bob-cli-54.land.md) (session · 3) | bob-cli-54 hood | active 1, completed 1, failed 1 |
