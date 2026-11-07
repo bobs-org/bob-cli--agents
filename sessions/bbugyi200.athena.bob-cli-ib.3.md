@@ -1,0 +1,35 @@
+# Session: bob-cli-ib.3
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-ib](../users/bbugyi200/machines/athena/hoods/bob-cli-ib/README.md) / bob-cli-ib.3
+
+Owner: `bbugyi200.athena` · Hood: `bob-cli-ib` · Members: 3 · Bead: [bob-cli-ib.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ib/bob-cli-ib.3.md)
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["bob-cli-ib.3--1 [active]"]
+  n1["bob-cli-ib.3--plan [completed]"]
+  n0 --> n1
+  n2["bob-cli-ib.3--mon [completed]"]
+  n0 --> n2
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-1"></a>1 | bob-cli-ib.3--1 | active | opus / claude | 20261107140254 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ib.3--1/prompt.md) | — |
+| <a id="member-plan"></a>plan | bob-cli-ib.3--plan | completed | opus / claude | 2026-11-07T18:30:36.556785+00:00 → 2026-11-07T19:02:24.340235+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ib.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ib.3--plan/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-ib.3--mon | completed | opus / claude | 2026-11-07T19:01:04.798392+00:00 → 2026-11-07T19:03:54.298222+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ib.3--mon/chat.md) |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-ib.1](../agents/bbugyi200.athena.bob-cli-ib.1/README.md) | bob-cli-ib hood | completed |
+| [bob-cli-ib.2](../agents/bbugyi200.athena.bob-cli-ib.2/README.md) | bob-cli-ib hood | completed |
+| [bob-cli-ib.4](../agents/bbugyi200.athena.bob-cli-ib.4/README.md) | bob-cli-ib hood | waiting |
+| [bob-cli-ib.5](../agents/bbugyi200.athena.bob-cli-ib.5/README.md) | bob-cli-ib hood | waiting |
+| [bob-cli-ib.6](../agents/bbugyi200.athena.bob-cli-ib.6/README.md) | bob-cli-ib hood | waiting |
+| [bob-cli-ib.land](../agents/bbugyi200.athena.bob-cli-ib.land/README.md) | bob-cli-ib hood | waiting |
