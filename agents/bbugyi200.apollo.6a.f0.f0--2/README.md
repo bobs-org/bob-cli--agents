@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6a](../../users/bbugyi200/machines/apollo/hoods/6a/README.md) / [6a.f0.f0](../../sessions/bbugyi200.apollo.6a.f0.f0.md) / 6a.f0.f0--2
 
-**Global name:** `bbugyi200.apollo.6a.f0.f0--2` · **State:** active · **Source run:** `run-bc488b0dcf8a72a3f9b3d581ae8bef87`
+**Global name:** `bbugyi200.apollo.6a.f0.f0--2` · **State:** completed · **Source run:** `run-bc488b0dcf8a72a3f9b3d581ae8bef87`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 6a
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-10T15:48:52.817640+00:00
+- Timing: 2026-10-10T15:48:52.817640+00:00 → 2026-10-10T16:10:16.677601+00:00
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8e6d946`](https://github.com/bobs-org/bob-cli/commit/8e6d946575ec1cbc87358e9320aa51cee8c268ee) | feat(gkeep): add offline open-task migration | 2026-10-10 12:07:39 EDT |
+| — | `8e6d946` | feat(gkeep): add offline open-task migration | 2026-10-10 12:07:39 EDT |
 
 ## Neighbors
 

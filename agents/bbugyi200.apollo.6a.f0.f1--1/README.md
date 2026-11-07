@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c8d0574`](https://github.com/bobs-org/bob-cli/commit/c8d05746ca4612e40b62db1bca0e2227b653d325) | feat(gkeep): track import history through vault Git allowlist | 2026-10-10 11:17:31 EDT |
+| — | `c8d0574` | feat(gkeep): track import history through vault Git allowlist | 2026-10-10 11:17:31 EDT |
 
 ## Neighbors
 
@@ -29,4 +29,4 @@
 |---|---|---|
 | [6a.f0](../../sessions/bbugyi200.apollo.6a.f0.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [6a](../../sessions/bbugyi200.apollo.6a.md) (session · 5) | ancestor | completed 3, failed 2 |
-| [6a.f0.f0](../../sessions/bbugyi200.apollo.6a.f0.f0.md) (session · 7) | 6a.f0 hood | active 1, completed 3, failed 3 |
+| [6a.f0.f0](../../sessions/bbugyi200.apollo.6a.f0.f0.md) (session · 7) | 6a.f0 hood | completed 4, failed 3 |

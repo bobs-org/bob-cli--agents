@@ -27,10 +27,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`5b1e5b5`](https://github.com/bobs-org/bob-cli/commit/5b1e5b5a11bdbe7fe3b3b55748962d15b6792f95) | docs(dashboard): document section warning policy | 2026-10-10 09:18:36 EDT |
+| code | — | `5b1e5b5` | docs(dashboard): document section warning policy | 2026-10-10 09:18:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [68.f0](bbugyi200.apollo.68.f0.md) (session · 3) | descendant | active 2, failed 1 |
+| [68.f0](bbugyi200.apollo.68.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |

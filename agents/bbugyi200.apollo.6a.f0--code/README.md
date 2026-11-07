@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bc303b1`](https://github.com/bobs-org/bob-cli/commit/bc303b14239fa43cb07b2d1f2cf41a00dbfadde8) | feat(gkeep): emit marker-free tasks with vault import history and offline migration | 2026-10-10 10:16:31 EDT |
+| — | `bc303b1` | feat(gkeep): emit marker-free tasks with vault import history and offline migration | 2026-10-10 10:16:31 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [6a](../../sessions/bbugyi200.apollo.6a.md) (session · 5) | ancestor | completed 3, failed 2 |
-| [6a.f0.f0](../../sessions/bbugyi200.apollo.6a.f0.f0.md) (session · 7) | descendant | active 1, completed 3, failed 3 |
+| [6a.f0.f0](../../sessions/bbugyi200.apollo.6a.f0.f0.md) (session · 7) | descendant | completed 4, failed 3 |
 | [6a.f0.f1](../../sessions/bbugyi200.apollo.6a.f0.f1.md) (session · 5) | descendant | completed 3, failed 2 |
