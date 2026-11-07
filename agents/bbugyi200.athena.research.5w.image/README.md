@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5w.image
 
-**Global name:** `bbugyi200.athena.research.5w.image` · **State:** waiting · **Source run:** `run-efa1eac9a1c71f692cee075b47a49a82`
+**Global name:** `bbugyi200.athena.research.5w.image` · **State:** completed · **Source run:** `run-efa1eac9a1c71f692cee075b47a49a82`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261107103501
+- Timing: 2026-11-07T16:34:41.927200+00:00 → 2026-11-07T16:46:04.065755+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/crontab\_as\_code\_via\_chezmoi/crontab\_as\_code\_via\_chezmoi\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261107103501/crontab\_as\_cod… |
+| `diagrams` | {considered: 18, count: 2, manifest: 202611/crontab\_as\_code\_via\_chezmoi/crontab\_as\_code\_via\_chezmoi.diagrams.md, source\_ref: file:explicit:c3684d644e2d19c7f7ec0f00, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/crontab_as_code_via_chezmoi/crontab_as_code_via_chezmoi_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107103501/crontab_as_code_via_chezmoi_infographic-f60084e689f3.png
+  ref: file:explicit:6298e04d0523bb885988e11e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/crontab_as_code_via_chezmoi/crontab_as_code_via_chezmoi_infographic.png
+- kind: markdown
+  label: diagrams:202611/crontab_as_code_via_chezmoi/crontab_as_code_via_chezmoi.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107103501/crontab_as_code_via_chezmoi.diagrams-6462d75cb87c.md
+  ref: file:explicit:f4256809c6d727baabcf5d1b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/crontab_as_code_via_chezmoi/crontab_as_code_via_chezmoi.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 18
+count: 2
+manifest: 202611/crontab_as_code_via_chezmoi/crontab_as_code_via_chezmoi.diagrams.md
+source_ref: file:explicit:c3684d644e2d19c7f7ec0f00
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
