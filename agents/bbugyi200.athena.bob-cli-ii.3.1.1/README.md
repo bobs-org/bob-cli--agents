@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ii](../../users/bbugyi200/machines/athena/hoods/bob-cli-ii/README.md) / bob-cli-ii.3.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-ii.3.1.1` · **State:** active · **Source run:** `run-ef4dfd41859be09491acb14e2bbdca79`
+**Global name:** `bbugyi200.athena.bob-cli-ii.3.1.1` · **State:** completed · **Source run:** `run-ef4dfd41859be09491acb14e2bbdca79`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ii
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ii.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ii/bob-cli-ii.3.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261107181450
-- Commits: 0
+- Timing: 2026-11-07T23:17:22.621126+00:00 → 2026-11-07T23:50:38.737420+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`343b4d8`](https://github.com/bobs-org/bob-cli/commit/343b4d8ff7e0be48e41a0dc980d2e8be815c3677) | feat(gmail): add sync enrollment fold, watching-task scan, and adoption decisions | 2026-11-07 18:49:30 EST |
 
 ## Neighbors
 

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-ii
 
-**Global hood:** `bbugyi200.athena.bob-cli-ii` · **Runs:** 16 · **Sessions:** 1 · **States:** active 2, completed 5, waiting 9
+**Global hood:** `bbugyi200.athena.bob-cli-ii` · **Runs:** 16 · **Sessions:** 1 · **States:** active 1, completed 6, waiting 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -21,4 +21,4 @@
 | [bob-cli-ii.3--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-ii.3.md#member-plan) | active | gpt-6-astra / codex | 2026-11-07T23:02:59.118206+00:00 → 2026-11-07T23:12:56.765459+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ii.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-ii.3--plan/chat.md) |
 | [bob-cli-ii.6](../../../../../../agents/bbugyi200.athena.bob-cli-ii.6/README.md) | completed | opus / claude | 2026-11-07T22:27:39.838120+00:00 → 2026-11-07T22:55:19.835615+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ii.6/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-ii.6/chat.md) |
 | [bob-cli-ii.1](../../../../../../agents/bbugyi200.athena.bob-cli-ii.1/README.md) | completed | opus / claude | 2026-11-07T22:27:17.337075+00:00 → 2026-11-07T23:00:44.180642+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ii.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-ii.1/chat.md) |
-| [bob-cli-ii.3.1.1](../../../../../../agents/bbugyi200.athena.bob-cli-ii.3.1.1/README.md) | active | opus / claude | 20261107181450 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ii.3.1.1/prompt.md) |
+| [bob-cli-ii.3.1.1](../../../../../../agents/bbugyi200.athena.bob-cli-ii.3.1.1/README.md) | completed | opus / claude | 2026-11-07T23:17:22.621126+00:00 → 2026-11-07T23:50:38.737420+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ii.3.1.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-ii.3.1.1/chat.md) |

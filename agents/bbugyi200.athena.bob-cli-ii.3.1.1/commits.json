@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ef4dfd41859be09491acb14e2bbdca79"}
+{"commits":[{"committed_at":1794095370,"sha":"343b4d8ff7e0be48e41a0dc980d2e8be815c3677","subject":"feat(gmail): add sync enrollment fold, watching-task scan, and adoption decisions"}],"schema_version":2,"source_run_id":"run-ef4dfd41859be09491acb14e2bbdca79"}
