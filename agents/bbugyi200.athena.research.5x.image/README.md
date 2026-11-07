@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5x.image
 
-**Global name:** `bbugyi200.athena.research.5x.image` · **State:** waiting · **Source run:** `run-95dfe71c5a5bef87f7ed7c0f92e0f76c`
+**Global name:** `bbugyi200.athena.research.5x.image` · **State:** completed · **Source run:** `run-95dfe71c5a5bef87f7ed7c0f92e0f76c`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261107171607
+- Timing: 2026-11-07T23:03:46.792314+00:00 → 2026-11-07T23:12:23.672599+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/start\_timing\_later\_offset/start\_timing\_later\_offset.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261107171607/start\_timing\_lat… |
+| `diagrams` | {considered: 13, count: 1, manifest: 202611/start\_timing\_later\_offset/start\_timing\_later\_offset.diagrams.md, source\_ref: file:explicit:f469a74be2b6fb861ee4cb72, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/start_timing_later_offset/start_timing_later_offset.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107171607/start_timing_later_offset.diagrams-e048feef7006.md
+  ref: file:explicit:5b36d46cc106ea38fc73e0ce
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/start_timing_later_offset/start_timing_later_offset.diagrams.md
+- kind: image
+  label: image:202611/start_timing_later_offset/start_timing_later_offset_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107171607/start_timing_later_offset_infographic-40fc78418d39.png
+  ref: file:explicit:5c3d1bf72de084eaf6b375d1
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/start_timing_later_offset/start_timing_later_offset_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 13
+count: 1
+manifest: 202611/start_timing_later_offset/start_timing_later_offset.diagrams.md
+source_ref: file:explicit:f469a74be2b6fb861ee4cb72
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
