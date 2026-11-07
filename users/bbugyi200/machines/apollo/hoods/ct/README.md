@@ -2,11 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / ct
 
-**Global hood:** `bbugyi200.apollo.ct` · **Runs:** 8 · **Sessions:** 2 · **States:** active 2, completed 6
+**Global hood:** `bbugyi200.apollo.ct` · **Runs:** 9 · **Sessions:** 2 · **States:** active 1, completed 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [ct.f0.f0.f1--gate](../../../../../../sessions/bbugyi200.apollo.ct.f0.f0.f1.md#member-gate) | active | opus / claude | 2026-11-07T09:44:59.443373+00:00 | 0 | — |
+| [ct.f0.f0.f1--gate](../../../../../../sessions/bbugyi200.apollo.ct.f0.f0.f1.md#member-gate) | completed | opus / claude | 2026-11-07T09:52:53.634870+00:00 → 2026-11-07T09:53:18.563358+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.ct.f0.f0.f1--gate/chat.md) |
+| [ct.f0.f0.f1--1](../../../../../../sessions/bbugyi200.apollo.ct.f0.f0.f1.md#member-1) | completed | opus / claude | 2026-11-07T09:54:03.324946+00:00 → 2026-11-07T10:31:09.861521+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.ct.f0.f0.f1--1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.ct.f0.f0.f1--1/chat.md) |
 | [ct.f0.f0.f0](../../../../../../agents/bbugyi200.apollo.ct.f0.f0.f0/README.md) | active | opus / claude | 2026-11-07T09:05:06.312539+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.ct.f0.f0.f0/prompt.md) |
 | [ct.f0.f0--1](../../../../../../sessions/bbugyi200.apollo.ct.f0.f0.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-11-07T08:57:43.565254+00:00 → 2026-11-07T09:00:37.497353+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.ct.f0.f0--1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.ct.f0.f0--1/chat.md) |
 | [ct.f0.f0--gate](../../../../../../sessions/bbugyi200.apollo.ct.f0.f0.md#member-gate) | completed | opus / claude | 2026-11-07T08:28:54.341529+00:00 → 2026-11-07T08:29:16.987146+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.ct.f0.f0--gate/chat.md) |
