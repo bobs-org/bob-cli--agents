@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.5w.grk
 
-**Global name:** `bbugyi200.athena.research.5w.grk` · **State:** active · **Source run:** `run-af61290db6e2d34ae95c9283ecab51a6`
+**Global name:** `bbugyi200.athena.research.5w.grk` · **State:** completed · **Source run:** `run-af61290db6e2d34ae95c9283ecab51a6`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-07T15:45:14.954850+00:00
+- Timing: 2026-11-07T15:45:14.954850+00:00 → 2026-11-07T15:55:58.504471+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/chezmoi\_managed\_crontab\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261107103457/chezmoi\_managed\_crontab\_\_grk-b2004e4db398.md, re… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/chezmoi_managed_crontab__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107103457/chezmoi_managed_crontab__grk-b2004e4db398.md
+  ref: file:explicit:66628b284b8b74f663b5c7d8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/chezmoi_managed_crontab__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.5w.cdx](../bbugyi200.athena.research.5w.cdx/README.md) | research.5w hood | completed |
-| [research.5w.cld](../bbugyi200.athena.research.5w.cld/README.md) | research.5w hood | active |
+| [research.5w.cld](../bbugyi200.athena.research.5w.cld/README.md) | research.5w hood | completed |
 | [research.5w.final](../bbugyi200.athena.research.5w.final/README.md) | research.5w hood | waiting |
 | [research.5w.gem](../bbugyi200.athena.research.5w.gem/README.md) | research.5w hood | completed |
 | [research.5w.image](../bbugyi200.athena.research.5w.image/README.md) | research.5w hood | waiting |
