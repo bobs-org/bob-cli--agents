@@ -2,25 +2,28 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-ib](../users/bbugyi200/machines/athena/hoods/bob-cli-ib/README.md) / bob-cli-ib.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-ib` · Members: 3 · Bead: [bob-cli-ib](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ib/README.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-ib` · Members: 4 · Bead: [bob-cli-ib](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ib/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ib.land--code [active]"]
-  n1["bob-cli-ib.land--plan [active]"]
+  n0["bob-cli-ib.land--code [completed]"]
+  n1["bob-cli-ib.land--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-ib.land--gate [completed]"]
+  n2["bob-cli-ib.land--mon [completed]"]
   n0 --> n2
+  n3["bob-cli-ib.land--gate [completed]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-ib.land--code | active | opus / claude | 2026-11-07T21:55:57.692321+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-ib.land--plan | active | opus / claude | 2026-11-07T21:06:56.084635+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ib.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-ib.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ib.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-ib.land--code | completed | opus / claude | 2026-11-07T21:55:57.692321+00:00 → 2026-11-07T22:15:44.487227+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ib.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ib.land--plan | completed | opus / claude | 2026-11-07T21:06:56.084635+00:00 → 2026-11-07T22:15:44.487227+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ib.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-ib.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ib.land--plan/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-ib.land--mon | completed | opus / claude | 2026-11-07T22:13:53.611810+00:00 → 2026-11-07T22:15:46.194836+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ib.land--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ib.land--gate | completed | opus / claude | 2026-11-07T21:54:00.182427+00:00 → 2026-11-07T21:55:25.422352+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ib.land--gate/chat.md) |
 
 ## Commits

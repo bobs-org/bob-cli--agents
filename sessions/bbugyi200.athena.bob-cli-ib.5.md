@@ -29,4 +29,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ib.3](bbugyi200.athena.bob-cli-ib.3.md) (session · 3) | bob-cli-ib hood | completed 3 |
 | [bob-cli-ib.4](bbugyi200.athena.bob-cli-ib.4.md) (session · 3) | bob-cli-ib hood | completed 3 |
 | [bob-cli-ib.6](bbugyi200.athena.bob-cli-ib.6.md) (session · 3) | bob-cli-ib hood | completed 2, failed 1 |
-| [bob-cli-ib.land](bbugyi200.athena.bob-cli-ib.land.md) (session · 3) | bob-cli-ib hood | active 2, completed 1 |
+| [bob-cli-ib.land](bbugyi200.athena.bob-cli-ib.land.md) (session · 4) | bob-cli-ib hood | completed 4 |
