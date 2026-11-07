@@ -166,21 +166,21 @@
 | [61](hoods/61/README.md) | 19 | 4 | active 2, completed 8, failed 9 |
 | [63](hoods/63/README.md) | 1 | 0 | completed 1 |
 | [64](hoods/64/README.md) | 1 | 0 | completed 1 |
-| [65](hoods/65/README.md) | 7 | 1 | active 1, completed 3, failed 3 |
-| [66](hoods/66/README.md) | 4 | 1 | active 2, completed 1, failed 1 |
-| [67](hoods/67/README.md) | 3 | 1 | active 2, failed 1 |
-| [68](hoods/68/README.md) | 6 | 2 | active 2, completed 2, failed 2 |
-| [6a](hoods/6a/README.md) | 20 | 4 | active 1, completed 11, failed 8 |
-| [6b](hoods/6b/README.md) | 4 | 1 | active 2, completed 1, failed 1 |
-| [6c](hoods/6c/README.md) | 11 | 2 | active 2, completed 5, failed 4 |
+| [65](hoods/65/README.md) | 7 | 1 | completed 4, failed 3 |
+| [66](hoods/66/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
+| [67](hoods/67/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [68](hoods/68/README.md) | 6 | 2 | active 1, completed 3, failed 2 |
+| [6a](hoods/6a/README.md) | 20 | 4 | completed 12, failed 8 |
+| [6b](hoods/6b/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
+| [6c](hoods/6c/README.md) | 11 | 2 | active 1, completed 6, failed 4 |
 | [6d](hoods/6d/README.md) | 1 | 0 | active 1 |
-| [6e](hoods/6e/README.md) | 3 | 1 | active 2, failed 1 |
-| [6g](hoods/6g/README.md) | 22 | 5 | active 2, completed 12, failed 8 |
-| [6i](hoods/6i/README.md) | 5 | 1 | active 2, completed 2, failed 1 |
-| [6j](hoods/6j/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
-| [6l](hoods/6l/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
-| [6m](hoods/6m/README.md) | 3 | 1 | active 2, failed 1 |
-| [6n](hoods/6n/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
+| [6e](hoods/6e/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [6g](hoods/6g/README.md) | 22 | 5 | active 1, completed 13, failed 8 |
+| [6i](hoods/6i/README.md) | 5 | 1 | active 1, completed 3, failed 1 |
+| [6j](hoods/6j/README.md) | 5 | 1 | completed 3, failed 2 |
+| [6l](hoods/6l/README.md) | 5 | 1 | completed 3, failed 2 |
+| [6m](hoods/6m/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [6n](hoods/6n/README.md) | 5 | 1 | completed 3, failed 2 |
 | [6o](hoods/6o/README.md) | 3 | 1 | active 2, failed 1 |
 | [6q](hoods/6q/README.md) | 1 | 0 | completed 1 |
 | [6v](hoods/6v/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
