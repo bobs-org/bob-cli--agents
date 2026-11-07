@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `6i` · Members: 3
 ```mermaid
 flowchart TD
   n0["6i--gate [failed]"]
-  n1["6i--code [active]"]
+  n1["6i--code [completed]"]
   n0 --> n1
   n2["6i--plan [active]"]
   n0 --> n2
@@ -20,14 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 6i--gate | failed | grok-4.7 / grok | 2026-10-10T19:13:14.049152+00:00 → 2026-10-10T19:13:28.670711+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6i--gate/chat.md) |
-| <a id="member-code"></a>code | 6i--code | active | muse-spark-1.3-contributor / muse | 2026-10-10T19:13:40.450304+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | 6i--code | completed | muse-spark-1.3-contributor / muse | 2026-10-10T19:13:40.450304+00:00 → 2026-10-10T19:41:52.664765+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | 6i--plan | active | grok-4.7 / grok | 2026-10-10T18:59:40.586013+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.6i--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.6i--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | bob-cli | [`6e1fd4f`](https://github.com/bobs-org/bob-cli/commit/6e1fd4fe82a022242d35eccfa1ef568b1bab769a) | feat: normalize Pomodoro session markers | 2026-07-12 08:47:34 EDT |
+| — | — | `6e1fd4f` | feat: normalize Pomodoro session markers | 2026-07-12 08:47:34 EDT |
 
 ## Neighbors
 
