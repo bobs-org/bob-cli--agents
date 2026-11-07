@@ -26,4 +26,4 @@
 | [bob-cli-hz.3](../../sessions/bbugyi200.athena.bob-cli-hz.3.md) (session · 11) | bob-cli-hz hood | completed 6, failed 5 |
 | [bob-cli-hz.4](../../sessions/bbugyi200.athena.bob-cli-hz.4.md) (session · 9) | bob-cli-hz hood | completed 7, failed 2 |
 | [bob-cli-hz.5](../bbugyi200.athena.bob-cli-hz.5/README.md) | bob-cli-hz hood | completed |
-| [bob-cli-hz.land](../../sessions/bbugyi200.athena.bob-cli-hz.land.md) (session · 4) | bob-cli-hz hood | active 3, completed 1 |
+| [bob-cli-hz.land](../../sessions/bbugyi200.athena.bob-cli-hz.land.md) (session · 4) | bob-cli-hz hood | active 1, completed 3 |
