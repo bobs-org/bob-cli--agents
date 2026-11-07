@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3m.grk
 
-**Global name:** `bbugyi200.apollo.research.3m.grk` · **State:** active · **Source run:** `run-9e984050280ee04592c8765d46ec3745`
+**Global name:** `bbugyi200.apollo.research.3m.grk` · **State:** completed · **Source run:** `run-9e984050280ee04592c8765d46ec3745`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-07T20:08:14.631169+00:00
+- Timing: 2026-11-07T20:08:14.631169+00:00 → 2026-11-07T20:34:04.011945+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gmail\_thread\_watch\_sync/gmail\_thread\_watch\_sync\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261107150726/gmail\_thread\_watch\_sync\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gmail_thread_watch_sync/gmail_thread_watch_sync__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261107150726/gmail_thread_watch_sync__grk-7fbbd553557f.md
+  ref: file:explicit:101db66a436550c39730ae54
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/gmail_thread_watch_sync/gmail_thread_watch_sync__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
