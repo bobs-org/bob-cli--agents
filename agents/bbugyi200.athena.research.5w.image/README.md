@@ -63,6 +63,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.5w.grk](../bbugyi200.athena.research.5w.grk/README.md) | research.5w hood | completed |
 | [research.5w.linker](../bbugyi200.athena.research.5w.linker/README.md) | research.5w hood | completed |
 | [research.5w.linker.w0](../bbugyi200.athena.research.5w.linker.w0/README.md) | research.5w hood | active |
+| [research.5w.linker.w1](../../sessions/bbugyi200.athena.research.5w.linker.w1.md) (session · 3) | research.5w hood | completed 3 |
 | [research.5w.mus](../bbugyi200.athena.research.5w.mus/README.md) | research.5w hood | completed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
@@ -114,4 +115,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | active |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | active |
-| … and 375 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 383 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
