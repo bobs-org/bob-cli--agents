@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.2.1.4
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.4` · **State:** waiting · **Source run:** `run-3a6a3fcf6f972a26e36d01274efa5d5e`
+**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.4` · **State:** completed · **Source run:** `run-3a6a3fcf6f972a26e36d01274efa5d5e`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ir.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.2.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261108111938
-- Commits: 0
+- Timing: 2026-11-08T17:47:16.747139+00:00 → 2026-11-08T18:23:50.951905+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`a8ccf5e`](https://github.com/bobs-org/bob-cli/commit/a8ccf5ed100eedab812b56093ae890d39a29b047) | feat(records): add side-effect-free creation planner | 2026-11-08 13:23:14 EST |
 
 ## Neighbors
 

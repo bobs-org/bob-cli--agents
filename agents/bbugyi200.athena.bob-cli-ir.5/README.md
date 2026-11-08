@@ -32,7 +32,7 @@
 | [bob-cli-ir.2.1.1](../bbugyi200.athena.bob-cli-ir.2.1.1/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.2.1.2](../bbugyi200.athena.bob-cli-ir.2.1.2/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.2.1.3](../bbugyi200.athena.bob-cli-ir.2.1.3/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.2.1.4](../bbugyi200.athena.bob-cli-ir.2.1.4/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.2.1.4](../bbugyi200.athena.bob-cli-ir.2.1.4/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.2.1.land](../bbugyi200.athena.bob-cli-ir.2.1.land/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.3](../bbugyi200.athena.bob-cli-ir.3/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.4](../bbugyi200.athena.bob-cli-ir.4/README.md) | bob-cli-ir hood | waiting |
