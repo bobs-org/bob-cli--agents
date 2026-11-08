@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3r.image
 
-**Global name:** `bbugyi200.apollo.research.3r.image` · **State:** waiting · **Source run:** `run-92540e42d5f9c0b99f0a779e7f66a74b`
+**Global name:** `bbugyi200.apollo.research.3r.image` · **State:** completed · **Source run:** `run-92540e42d5f9c0b99f0a779e7f66a74b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261108102854
+- Timing: 2026-11-08T16:09:19.758384+00:00 → 2026-11-08T16:18:20.685074+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/close\_outcome\_x\_s\_typing\_aliases/close\_outcome\_x\_s\_typing\_aliases\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108102854/clos… |
+| `diagrams` | {considered: 14, count: 1, manifest: 202611/close\_outcome\_x\_s\_typing\_aliases/close\_outcome\_x\_s\_typing\_aliases.diagrams.md, source\_ref: file:explicit:0086ad17f6eee39286c878eb, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/close_outcome_x_s_typing_aliases/close_outcome_x_s_typing_aliases_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108102854/close_outcome_x_s_typing_aliases_infographic-fcde30f54753.png
+  ref: file:explicit:8f4bc8758bbe1096b8778958
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/close_outcome_x_s_typing_aliases/close_outcome_x_s_typing_aliases_infographic.png
+- kind: markdown
+  label: diagrams:202611/close_outcome_x_s_typing_aliases/close_outcome_x_s_typing_aliases.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108102854/close_outcome_x_s_typing_aliases.diagrams-e3c4b505f280.md
+  ref: file:explicit:f8d687ea7f84c3f161609e47
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/close_outcome_x_s_typing_aliases/close_outcome_x_s_typing_aliases.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 1
+manifest: 202611/close_outcome_x_s_typing_aliases/close_outcome_x_s_typing_aliases.diagrams.md
+source_ref: file:explicit:0086ad17f6eee39286c878eb
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -79,4 +114,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 664 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
