@@ -23,9 +23,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-iq.1](../bbugyi200.apollo.bob-cli-iq.1/README.md) | bob-cli-iq hood | active |
+| [bob-cli-iq.1](../../sessions/bbugyi200.apollo.bob-cli-iq.1.md) (session · 2) | bob-cli-iq hood | completed 2 |
 | [bob-cli-iq.2](../bbugyi200.apollo.bob-cli-iq.2/README.md) | bob-cli-iq hood | completed |
-| [bob-cli-iq.3](../bbugyi200.apollo.bob-cli-iq.3/README.md) | bob-cli-iq hood | waiting |
+| [bob-cli-iq.3](../bbugyi200.apollo.bob-cli-iq.3/README.md) | bob-cli-iq hood | completed |
 | [bob-cli-iq.5](../bbugyi200.apollo.bob-cli-iq.5/README.md) | bob-cli-iq hood | waiting |
 | [bob-cli-iq.6](../bbugyi200.apollo.bob-cli-iq.6/README.md) | bob-cli-iq hood | waiting |
 | [bob-cli-iq.land](../bbugyi200.apollo.bob-cli-iq.land/README.md) | bob-cli-iq hood | waiting |
