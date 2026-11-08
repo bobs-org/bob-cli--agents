@@ -27,6 +27,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-iq.2](../agents/bbugyi200.apollo.bob-cli-iq.2/README.md) | bob-cli-iq hood | completed |
 | [bob-cli-iq.3](../agents/bbugyi200.apollo.bob-cli-iq.3/README.md) | bob-cli-iq hood | completed |
 | [bob-cli-iq.4](../agents/bbugyi200.apollo.bob-cli-iq.4/README.md) | bob-cli-iq hood | completed |
-| [bob-cli-iq.5](../agents/bbugyi200.apollo.bob-cli-iq.5/README.md) | bob-cli-iq hood | waiting |
+| [bob-cli-iq.5](../agents/bbugyi200.apollo.bob-cli-iq.5/README.md) | bob-cli-iq hood | completed |
 | [bob-cli-iq.6](../agents/bbugyi200.apollo.bob-cli-iq.6/README.md) | bob-cli-iq hood | completed |
 | [bob-cli-iq.land](../agents/bbugyi200.apollo.bob-cli-iq.land/README.md) | bob-cli-iq hood | waiting |

@@ -26,6 +26,6 @@
 | [bob-cli-iq.2](../bbugyi200.apollo.bob-cli-iq.2/README.md) | bob-cli-iq hood | completed |
 | [bob-cli-iq.3](../bbugyi200.apollo.bob-cli-iq.3/README.md) | bob-cli-iq hood | completed |
 | [bob-cli-iq.4](../bbugyi200.apollo.bob-cli-iq.4/README.md) | bob-cli-iq hood | completed |
-| [bob-cli-iq.5](../bbugyi200.apollo.bob-cli-iq.5/README.md) | bob-cli-iq hood | waiting |
+| [bob-cli-iq.5](../bbugyi200.apollo.bob-cli-iq.5/README.md) | bob-cli-iq hood | completed |
 | [bob-cli-iq.6](../bbugyi200.apollo.bob-cli-iq.6/README.md) | bob-cli-iq hood | completed |
 | [bob-cli-iq.land](../bbugyi200.apollo.bob-cli-iq.land/README.md) | bob-cli-iq hood | waiting |
