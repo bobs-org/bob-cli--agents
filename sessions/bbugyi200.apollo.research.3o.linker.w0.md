@@ -11,7 +11,7 @@ flowchart TD
   n0["research.3o.linker.w0--gate [completed]"]
   n1["research.3o.linker.w0--plan [completed]"]
   n0 --> n1
-  n2["research.3o.linker.w0--mon [active]"]
+  n2["research.3o.linker.w0--mon [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | research.3o.linker.w0--gate | completed | opus / claude | 2026-11-08T15:40:09.752377+00:00 → 2026-11-08T15:40:38.191700+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.3o.linker.w0--gate/chat.md) |
 | <a id="member-plan"></a>plan | research.3o.linker.w0--plan | completed | opus / claude | 2026-11-08T15:26:47.244525+00:00 → 2026-11-08T15:39:17.975435+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.research.3o.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.research.3o.linker.w0--plan/chat.md) |
-| <a id="member-mon"></a>mon | research.3o.linker.w0--mon | active | opus / claude | 2026-11-08T15:40:30.844168+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | research.3o.linker.w0--mon | completed | opus / claude | 2026-11-08T15:40:30.844168+00:00 → 2026-11-08T15:42:08.782997+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.3o.linker.w0--mon/chat.md) |
 
 ## Neighbors
 

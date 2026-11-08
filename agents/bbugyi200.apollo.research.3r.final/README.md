@@ -22,9 +22,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.3r.cdx](../bbugyi200.apollo.research.3r.cdx/README.md) | research.3r hood | completed |
-| [research.3r.cld](../bbugyi200.apollo.research.3r.cld/README.md) | research.3r hood | active |
-| [research.3r.gem](../bbugyi200.apollo.research.3r.gem/README.md) | research.3r hood | active |
-| [research.3r.grk](../bbugyi200.apollo.research.3r.grk/README.md) | research.3r hood | active |
+| [research.3r.cld](../bbugyi200.apollo.research.3r.cld/README.md) | research.3r hood | completed |
+| [research.3r.gem](../bbugyi200.apollo.research.3r.gem/README.md) | research.3r hood | completed |
+| [research.3r.grk](../bbugyi200.apollo.research.3r.grk/README.md) | research.3r hood | completed |
 | [research.3r.image](../bbugyi200.apollo.research.3r.image/README.md) | research.3r hood | waiting |
 | [research.3r.linker](../bbugyi200.apollo.research.3r.linker/README.md) | research.3r hood | waiting |
 | [research.3r.mus](../bbugyi200.apollo.research.3r.mus/README.md) | research.3r hood | completed |

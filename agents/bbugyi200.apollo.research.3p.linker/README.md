@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3p.linker
 
-**Global name:** `bbugyi200.apollo.research.3p.linker` · **State:** waiting · **Source run:** `run-7631221e12d39cc04cf4004e2f41f12a`
+**Global name:** `bbugyi200.apollo.research.3p.linker` · **State:** completed · **Source run:** `run-7631221e12d39cc04cf4004e2f41f12a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261108094413
+- Timing: 2026-11-08T15:35:16.757586+00:00 → 2026-11-08T15:45:42.406811+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/record\_type\_capture/record\_type\_capture.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108094413/record\_type\_capture-cf2ae1c86da8.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/record_type_capture/record_type_capture.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108094413/record_type_capture-cf2ae1c86da8.md
+  ref: file:explicit:ac0e38844f2d4fa3ab146380
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/record_type_capture/record_type_capture.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
