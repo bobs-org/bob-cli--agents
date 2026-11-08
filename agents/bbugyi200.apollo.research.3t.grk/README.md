@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3t.grk
 
-**Global name:** `bbugyi200.apollo.research.3t.grk` · **State:** active · **Source run:** `run-7367f3fe6b4aef03aa97b1b732861be4`
+**Global name:** `bbugyi200.apollo.research.3t.grk` · **State:** completed · **Source run:** `run-7367f3fe6b4aef03aa97b1b732861be4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-08T16:32:20.324025+00:00
+- Timing: 2026-11-08T16:32:20.324025+00:00 → 2026-11-08T16:55:26.561145+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/record\_notes\_as\_capture\_unlock\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108113126/record\_notes\_as\_capture\_unlock\_\_grk-489de… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/record_notes_as_capture_unlock__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108113126/record_notes_as_capture_unlock__grk-489de9caa842.md
+  ref: file:explicit:9c91925ba1267e8c0965f2ac
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202611/record_notes_as_capture_unlock__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -78,4 +97,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 673 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 674 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

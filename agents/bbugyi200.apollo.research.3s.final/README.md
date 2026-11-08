@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 20261108111357
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/sized\_pomodoro\_close/sized\_pomodoro\_close\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108111357/sized\_pomodoro\_close\_\_final-… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/sized_pomodoro_close/sized_pomodoro_close__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108111357/sized_pomodoro_close__final-eba0434a22ff.md
+  ref: file:explicit:e8e0129f255c05f3b3d7eb22
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/sized_pomodoro_close/sized_pomodoro_close__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +46,7 @@
 | [research.3s.grk](../bbugyi200.apollo.research.3s.grk/README.md) | research.3s hood | completed |
 | [research.3s.image](../bbugyi200.apollo.research.3s.image/README.md) | research.3s hood | waiting |
 | [research.3s.linker](../bbugyi200.apollo.research.3s.linker/README.md) | research.3s hood | waiting |
+| [research.3s.linker.w0](../bbugyi200.apollo.research.3s.linker.w0/README.md) | research.3s hood | waiting |
 | [research.3s.mus](../bbugyi200.apollo.research.3s.mus/README.md) | research.3s hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
