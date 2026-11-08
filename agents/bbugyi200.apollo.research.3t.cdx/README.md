@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-11-08T16:31:59.455266+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/record\_notes\_personal\_memory\_and\_practical\_payoffs\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108113123/record\_notes\_personal… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/record_notes_personal_memory_and_practical_payoffs__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108113123/record_notes_personal_memory_and_practical_payoffs__cdx-aeee43fc6799.md
+  ref: file:explicit:1a280c53079896a62364cfd5
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202611/record_notes_personal_memory_and_practical_payoffs__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.3t.cld](../bbugyi200.apollo.research.3t.cld/README.md) | research.3t hood | active |
 | [research.3t.final](../bbugyi200.apollo.research.3t.final/README.md) | research.3t hood | waiting |
-| [research.3t.gem](../bbugyi200.apollo.research.3t.gem/README.md) | research.3t hood | active |
+| [research.3t.gem](../bbugyi200.apollo.research.3t.gem/README.md) | research.3t hood | completed |
 | [research.3t.grk](../bbugyi200.apollo.research.3t.grk/README.md) | research.3t hood | active |
 | [research.3t.image](../bbugyi200.apollo.research.3t.image/README.md) | research.3t hood | active |
 | [research.3t.linker](../bbugyi200.apollo.research.3t.linker/README.md) | research.3t hood | waiting |
