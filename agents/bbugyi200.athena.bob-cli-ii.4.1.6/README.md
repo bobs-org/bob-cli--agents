@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ii](../../users/bbugyi200/machines/athena/hoods/bob-cli-ii/README.md) / bob-cli-ii.4.1.6
 
-**Global name:** `bbugyi200.athena.bob-cli-ii.4.1.6` · **State:** waiting · **Source run:** `run-9f31fc2c5839b7f469321519f0ab110d`
+**Global name:** `bbugyi200.athena.bob-cli-ii.4.1.6` · **State:** completed · **Source run:** `run-9f31fc2c5839b7f469321519f0ab110d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ii
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ii.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ii/bob-cli-ii.4.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261108120324
-- Commits: 0
+- Timing: 2026-11-08T20:44:16.433855+00:00 → 2026-11-08T20:57:28.664429+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`b252669`](https://github.com/bobs-org/bob-cli/commit/b252669b866bff0711483caa8bfd98708626788e) | docs(gmail): publish reply-watch contracts and tagged-hold decision | 2026-11-08 15:56:57 EST |
 
 ## Neighbors
 
