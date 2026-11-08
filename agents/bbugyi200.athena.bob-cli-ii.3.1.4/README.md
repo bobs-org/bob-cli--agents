@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ii](../../users/bbugyi200/machines/athena/hoods/bob-cli-ii/README.md) / bob-cli-ii.3.1.4
 
-**Global name:** `bbugyi200.athena.bob-cli-ii.3.1.4` · **State:** waiting · **Source run:** `run-c18db3ec7b6ff48e74967e9d5c10c4de`
+**Global name:** `bbugyi200.athena.bob-cli-ii.3.1.4` · **State:** completed · **Source run:** `run-c18db3ec7b6ff48e74967e9d5c10c4de`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ii
 
@@ -10,14 +10,20 @@
 
 - Bead: [bob-cli-ii.3.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ii/bob-cli-ii.3.1.4.md)
 - Epic: [bob-cli-ii.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ii/bob-cli-ii.3.1.md)
-- Model: opus
-- Provider: claude
-- Timing: 20261107181453
-- Commits: 0
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-11-08T02:07:29.982655+00:00 → 2026-11-08T03:08:05.571853+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`5df6b9d`](https://github.com/bobs-org/bob-cli/commit/5df6b9d5267e59087bd41a5b37fa1a210eb5dda6) | feat(gmail)!: file labelled threads by routing label as bob gmail sync | 2026-11-07 22:07:38 EST |
 
 ## Neighbors
 
