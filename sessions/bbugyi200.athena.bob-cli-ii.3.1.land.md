@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-ii` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ii.3.1.land--code [active]"]
+  n0["bob-cli-ii.3.1.land--code [completed]"]
   n1["bob-cli-ii.3.1.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-ii.3.1.land--plan [active]"]
+  n2["bob-cli-ii.3.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-ii.3.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-08T03:24:15.592475+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-ii.3.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-08T03:24:15.592475+00:00 → 2026-11-08T04:18:46.711684+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ii.3.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-ii.3.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ii.3.1.land--gate | completed | gpt-6-astra / codex | 2026-11-08T03:22:25.138755+00:00 → 2026-11-08T03:23:44.070438+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ii.3.1.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ii.3.1.land--plan | active | gpt-6-astra / codex | 2026-11-08T03:09:27.362006+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ii.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ii.3.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ii.3.1.land--plan | completed | gpt-6-astra / codex | 2026-11-08T03:09:27.362006+00:00 → 2026-11-08T04:18:46.711684+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ii.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ii.3.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`f904135`](https://github.com/bobs-org/bob-cli/commit/f9041354c191eb8bb781abc000821675f9bb7cdb) | fix(gmail): repair sync landing gaps for filing, coordination, reports, and recovery | 2026-11-07 23:18:09 EST |
 
 ## Neighbors
 
