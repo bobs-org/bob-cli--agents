@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.2.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.2` · **State:** waiting · **Source run:** `run-bc74fd3e493c0fc89089c3a26aed6229`
+**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.2` · **State:** completed · **Source run:** `run-bc74fd3e493c0fc89089c3a26aed6229`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ir.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.2.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261108111936
-- Commits: 0
+- Timing: 2026-11-08T16:54:32.921490+00:00 → 2026-11-08T17:46:47.257839+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`b9db700`](https://github.com/bobs-org/bob-cli/commit/b9db7007934c7ef97343ba998704934374cf8732) | feat(records): add lazy per-folder catalog index and suggestions | 2026-11-08 12:46:11 EST |
 
 ## Neighbors
 

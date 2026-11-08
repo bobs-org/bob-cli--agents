@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bc74fd3e493c0fc89089c3a26aed6229"}
+{"commits":[{"committed_at":1794159971,"sha":"b9db7007934c7ef97343ba998704934374cf8732","subject":"feat(records): add lazy per-folder catalog index and suggestions"}],"schema_version":2,"source_run_id":"run-bc74fd3e493c0fc89089c3a26aed6229"}
