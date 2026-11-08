@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / [bob-cli-ir.2.1.land](../../sessions/bbugyi200.athena.bob-cli-ir.2.1.land.md) / bob-cli-ir.2.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.land--code` · **State:** active · **Source run:** `run-ff5f5e0a5574348c96884385503523b2`
+**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.land--code` · **State:** completed · **Source run:** `run-ff5f5e0a5574348c96884385503523b2`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-ir.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.2.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-08T18:42:09.922379+00:00
-- Commits: 0
+- Timing: 2026-11-08T18:42:09.922379+00:00 → 2026-11-08T19:26:18.670730+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8ff0d8e`](https://github.com/bobs-org/bob-cli/commit/8ff0d8ed5a43b34977a6acaf4473159fe977e600) | feat(records): harden planning and byte-preserving updates | 2026-11-08 14:25:40 EST |
 
 ## Neighbors
 

@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-ir` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ir.2.1.land--plan [active]"]
+  n0["bob-cli-ir.2.1.land--plan [completed]"]
   n1["bob-cli-ir.2.1.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-ir.2.1.land--code [active]"]
+  n2["bob-cli-ir.2.1.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-ir.2.1.land--plan | active | gpt-6-astra / codex | 2026-11-08T18:24:25.249367+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.2.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ir.2.1.land--plan | completed | gpt-6-astra / codex | 2026-11-08T18:24:25.249367+00:00 → 2026-11-08T19:26:18.670730+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.2.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ir.2.1.land--gate | completed | gpt-6-astra / codex | 2026-11-08T18:40:37.275514+00:00 → 2026-11-08T18:41:38.634381+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ir.2.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-ir.2.1.land--code | active | gpt-6-luna / codex | 2026-11-08T18:42:09.922379+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-ir.2.1.land--code | completed | gpt-6-luna / codex | 2026-11-08T18:42:09.922379+00:00 → 2026-11-08T19:26:18.670730+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ir.2.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-ir.2.1.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`8ff0d8e`](https://github.com/bobs-org/bob-cli/commit/8ff0d8ed5a43b34977a6acaf4473159fe977e600) | feat(records): harden planning and byte-preserving updates | 2026-11-08 14:25:40 EST |
 
 ## Variables
 
