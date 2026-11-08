@@ -26,7 +26,9 @@
 | [bob-cli-ir.2.1.1](../bbugyi200.athena.bob-cli-ir.2.1.1/README.md) | descendant | active |
 | [bob-cli-ir.2.1.2](../bbugyi200.athena.bob-cli-ir.2.1.2/README.md) | descendant | waiting |
 | [bob-cli-ir.2.1.3](../bbugyi200.athena.bob-cli-ir.2.1.3/README.md) | descendant | waiting |
-| [bob-cli-ir.1](../bbugyi200.athena.bob-cli-ir.1/README.md) | bob-cli-ir hood | active |
+| [bob-cli-ir.2.1.4](../bbugyi200.athena.bob-cli-ir.2.1.4/README.md) | descendant | waiting |
+| [bob-cli-ir.2.1.land](../bbugyi200.athena.bob-cli-ir.2.1.land/README.md) | descendant | waiting |
+| [bob-cli-ir.1](../bbugyi200.athena.bob-cli-ir.1/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.10](../bbugyi200.athena.bob-cli-ir.10/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.11](../bbugyi200.athena.bob-cli-ir.11/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.12](../bbugyi200.athena.bob-cli-ir.12/README.md) | bob-cli-ir hood | waiting |
