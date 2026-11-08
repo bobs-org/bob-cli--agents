@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7c70ef5b22fcee96fdae52bd3efcba09"}
+{"commits":[{"committed_at":1794151785,"sha":"59ba11a6ab09cd7dba5b8a753f51d456348ed288","subject":"docs(gmail): document sync JSON, host-local state, and watch-only -l 0"}],"schema_version":2,"source_run_id":"run-7c70ef5b22fcee96fdae52bd3efcba09"}
