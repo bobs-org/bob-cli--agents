@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [w](../../users/bbugyi200/machines/apollo/hoods/w/README.md) / [w](../../sessions/bbugyi200.apollo.w.md) / w--code
 
-**Global name:** `bbugyi200.apollo.w--code` · **State:** active · **Source run:** `run-a62d9ebc15a4062fd8a1e003645b9506`
+**Global name:** `bbugyi200.apollo.w--code` · **State:** completed · **Source run:** `run-a62d9ebc15a4062fd8a1e003645b9506`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** w
 
@@ -10,7 +10,7 @@
 
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-09-13T23:16:31.766967+00:00
+- Timing: 2026-09-13T23:16:31.766967+00:00 → 2026-09-13T23:37:24.645177+00:00
 - Commits: 0
 
 ## Files

@@ -11,7 +11,7 @@ flowchart TD
   n0["w--plan [completed]"]
   n1["w--gate [failed]"]
   n0 --> n1
-  n2["w--code [active]"]
+  n2["w--code [completed]"]
   n0 --> n2
 ```
 
@@ -21,4 +21,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | w--plan | completed | opus / claude | 2026-09-13T22:27:14.747438+00:00 → 2026-09-13T22:40:23.958258+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.w--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.w--plan/chat.md) |
 | <a id="member-gate"></a>gate | w--gate | failed | opus / claude | 2026-09-13T22:42:09.079091+00:00 → 2026-09-13T23:16:27.169617+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.w--gate/chat.md) |
-| <a id="member-code"></a>code | w--code | active | sonnet / claude | 2026-09-13T23:16:31.766967+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.w--code/prompt.md) | — |
+| <a id="member-code"></a>code | w--code | completed | sonnet / claude | 2026-09-13T23:16:31.766967+00:00 → 2026-09-13T23:37:24.645177+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.w--code/prompt.md) | — |
