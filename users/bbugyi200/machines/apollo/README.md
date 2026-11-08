@@ -426,4 +426,4 @@
 | [sase-ia](hoods/sase-ia/README.md) | 1 | 0 | completed 1 |
 | [sase-sq](hoods/sase-sq/README.md) | 1 | 0 | completed 1 |
 | [ss](hoods/ss/README.md) | 1 | 0 | completed 1 |
-| [w](hoods/w/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [w](hoods/w/README.md) | 3 | 1 | completed 2, failed 1 |
