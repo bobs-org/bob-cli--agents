@@ -2,21 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.2.1.land
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.land` · **State:** waiting · **Source run:** `run-179df67b34ebc23fcd60a86e09c8eafe`
+**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.land` · **State:** completed · **Source run:** `run-f023a5602099336195b0d248b51024e9`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
 ## Summary
 
 - Bead: [bob-cli-ir.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.2.1.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 20261108111939
-- Commits: 0
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-08T22:47:09.088707+00:00 → 2026-11-08T23:16:11.684367+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`361974f`](https://github.com/bobs-org/bob-cli/commit/361974f48eef7e2ba1fdc8ad97a1916835a6d20b) | fix(records): map stemless titles to record\_title and document engine allowances | 2026-11-08 18:15:09 EST |
 
 ## Neighbors
 
