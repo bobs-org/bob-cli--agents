@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3s.image
 
-**Global name:** `bbugyi200.apollo.research.3s.image` · **State:** waiting · **Source run:** `run-0cb6fe109426703da38bdbcea1c058d8`
+**Global name:** `bbugyi200.apollo.research.3s.image` · **State:** completed · **Source run:** `run-0cb6fe109426703da38bdbcea1c058d8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261108111358
+- Timing: 2026-11-08T17:00:47.646118+00:00 → 2026-11-08T17:11:04.105563+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/sized\_pomodoro\_close/sized\_pomodoro\_close\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108111358/sized\_pomodoro\_close\_infogra… |
+| `diagrams` | {considered: 16, count: 1, manifest: 202611/sized\_pomodoro\_close/sized\_pomodoro\_close.diagrams.md, source\_ref: file:explicit:e8e0129f255c05f3b3d7eb22, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/sized_pomodoro_close/sized_pomodoro_close_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108111358/sized_pomodoro_close_infographic-b8d3840dbdd8.png
+  ref: file:explicit:87f02a74b318e6c5af95dfc6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/sized_pomodoro_close/sized_pomodoro_close_infographic.png
+- kind: markdown
+  label: diagrams:202611/sized_pomodoro_close/sized_pomodoro_close.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108111358/sized_pomodoro_close.diagrams-bd3d6e54ebd1.md
+  ref: file:explicit:ed151ab37eebb394482e6b98
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/sized_pomodoro_close/sized_pomodoro_close.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 16
+count: 1
+manifest: 202611/sized_pomodoro_close/sized_pomodoro_close.diagrams.md
+source_ref: file:explicit:e8e0129f255c05f3b3d7eb22
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
