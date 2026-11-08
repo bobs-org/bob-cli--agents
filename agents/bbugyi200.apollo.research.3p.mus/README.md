@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3p.mus
 
-**Global name:** `bbugyi200.apollo.research.3p.mus` · **State:** active · **Source run:** `run-1f3352855f687e410e2bbe639dbe27bc`
+**Global name:** `bbugyi200.apollo.research.3p.mus` · **State:** completed · **Source run:** `run-1f3352855f687e410e2bbe639dbe27bc`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-08T14:45:22.921978+00:00
+- Timing: 2026-11-08T14:45:22.921978+00:00 → 2026-11-08T14:50:55.909808+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/custom-note-type-capture\_\_mus.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108094409/custom-note-type-capture\_\_mus-ce68f94de142.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/custom-note-type-capture__mus.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108094409/custom-note-type-capture__mus-ce68f94de142.md
+  ref: file:explicit:c5059968d18158c01a93faa6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/custom-note-type-capture__mus.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
