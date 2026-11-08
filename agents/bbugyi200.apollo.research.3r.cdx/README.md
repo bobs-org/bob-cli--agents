@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-11-08T15:29:19.282629+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/capture\_close\_x\_s\_typing\_aliases\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108102847/capture\_close\_x\_s\_typing\_aliases\_\_cdx-5… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/capture_close_x_s_typing_aliases__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108102847/capture_close_x_s_typing_aliases__cdx-572a64029f94.md
+  ref: file:explicit:37531110875ae4d2d5d3683e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/capture_close_x_s_typing_aliases__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.3r.grk](../bbugyi200.apollo.research.3r.grk/README.md) | research.3r hood | active |
 | [research.3r.image](../bbugyi200.apollo.research.3r.image/README.md) | research.3r hood | waiting |
 | [research.3r.linker](../bbugyi200.apollo.research.3r.linker/README.md) | research.3r hood | waiting |
-| [research.3r.mus](../bbugyi200.apollo.research.3r.mus/README.md) | research.3r hood | active |
+| [research.3r.mus](../bbugyi200.apollo.research.3r.mus/README.md) | research.3r hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
