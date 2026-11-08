@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3p.image
 
-**Global name:** `bbugyi200.apollo.research.3p.image` · **State:** waiting · **Source run:** `run-e8444ed3e99f5b78f2c3a4646266e438`
+**Global name:** `bbugyi200.apollo.research.3p.image` · **State:** completed · **Source run:** `run-e8444ed3e99f5b78f2c3a4646266e438`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261108094412
+- Timing: 2026-11-08T15:25:26.896722+00:00 → 2026-11-08T15:35:05.189803+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/record\_type\_capture/record\_type\_capture.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108094412/record\_type\_capture.diagrams… |
+| `diagrams` | {considered: 20, count: 1, manifest: 202611/record\_type\_capture/record\_type\_capture.diagrams.md, source\_ref: file:explicit:895985de33020a764b47924d, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/record_type_capture/record_type_capture.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108094412/record_type_capture.diagrams-8de2e6942e2f.md
+  ref: file:explicit:e4bebd7f13932ca7d427a7a5
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/record_type_capture/record_type_capture.diagrams.md
+- kind: image
+  label: infographic:202611/record_type_capture/record_type_capture_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108094412/record_type_capture_infographic-a279496c9f2c.png
+  ref: file:explicit:a00856add19d46218d2d9104
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/record_type_capture/record_type_capture_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 20
+count: 1
+manifest: 202611/record_type_capture/record_type_capture.diagrams.md
+source_ref: file:explicit:895985de33020a764b47924d
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -78,4 +113,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 648 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 656 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
