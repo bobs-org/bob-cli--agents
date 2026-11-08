@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-ii` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ii.4--mon [active]"]
+  n0["bob-cli-ii.4--mon [completed]"]
   n1["bob-cli-ii.4--plan [active]"]
   n0 --> n1
   n2["bob-cli-ii.4--gate [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-ii.4--mon | active | gpt-6-astra / codex | 2026-11-08T17:01:24.380019+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-ii.4--mon | completed | gpt-6-astra / codex | 2026-11-08T17:01:24.380019+00:00 → 2026-11-08T17:04:05.048663+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ii.4--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-ii.4--plan | active | gpt-6-astra / codex | 2026-11-08T16:52:13.152664+00:00 → 2026-11-08T17:01:30.864396+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ii.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ii.4--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ii.4--gate | completed | gpt-6-astra / codex | 2026-11-08T17:00:49.048535+00:00 → 2026-11-08T17:01:25.746016+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ii.4--gate/chat.md) |
 
@@ -27,6 +27,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-ii.4.1.1](../agents/bbugyi200.athena.bob-cli-ii.4.1.1/README.md) | descendant | completed |
+| [bob-cli-ii.4.1.2](../agents/bbugyi200.athena.bob-cli-ii.4.1.2/README.md) | descendant | active |
+| [bob-cli-ii.4.1.3](../agents/bbugyi200.athena.bob-cli-ii.4.1.3/README.md) | descendant | waiting |
+| [bob-cli-ii.4.1.4](../agents/bbugyi200.athena.bob-cli-ii.4.1.4/README.md) | descendant | waiting |
+| [bob-cli-ii.4.1.5](../agents/bbugyi200.athena.bob-cli-ii.4.1.5/README.md) | descendant | waiting |
+| [bob-cli-ii.4.1.6](../agents/bbugyi200.athena.bob-cli-ii.4.1.6/README.md) | descendant | waiting |
+| [bob-cli-ii.4.1.land](../agents/bbugyi200.athena.bob-cli-ii.4.1.land/README.md) | descendant | waiting |
 | [bob-cli-ii.1](../agents/bbugyi200.athena.bob-cli-ii.1/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.2](../agents/bbugyi200.athena.bob-cli-ii.2/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.3](bbugyi200.athena.bob-cli-ii.3.md) (session · 3) | bob-cli-ii hood | active 1, completed 2 |

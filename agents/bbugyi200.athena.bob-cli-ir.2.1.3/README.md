@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.2.1.3
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.3` · **State:** waiting · **Source run:** `run-b671d978b61d7011b58ec6a551692418`
+**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.3` · **State:** completed · **Source run:** `run-b671d978b61d7011b58ec6a551692418`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ir.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261108111937
-- Commits: 0
+- Timing: 2026-11-08T16:54:50.490664+00:00 → 2026-11-08T17:33:33.425273+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`93c7c11`](https://github.com/bobs-org/bob-cli/commit/93c7c1145eeda40335a0c7002239ab3ae0221eff) | feat(records): add typed rendering and byte-preserving updates | 2026-11-08 12:32:57 EST |
 
 ## Neighbors
 

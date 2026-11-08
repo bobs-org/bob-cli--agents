@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b671d978b61d7011b58ec6a551692418"}
+{"commits":[{"committed_at":1794159177,"sha":"93c7c1145eeda40335a0c7002239ab3ae0221eff","subject":"feat(records): add typed rendering and byte-preserving updates"}],"schema_version":2,"source_run_id":"run-b671d978b61d7011b58ec6a551692418"}
