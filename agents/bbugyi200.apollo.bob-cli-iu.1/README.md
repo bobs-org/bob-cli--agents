@@ -29,5 +29,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-iu.2](../../sessions/bbugyi200.apollo.bob-cli-iu.2.md) (session · 2) | bob-cli-iu hood | active 2 |
+| [bob-cli-iu.2](../../sessions/bbugyi200.apollo.bob-cli-iu.2.md) (session · 3) | bob-cli-iu hood | completed 3 |
 | [bob-cli-iu.land](../bbugyi200.apollo.bob-cli-iu.land/README.md) | bob-cli-iu hood | waiting |
