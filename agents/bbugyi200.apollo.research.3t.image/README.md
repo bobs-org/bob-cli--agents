@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3t.image
 
-**Global name:** `bbugyi200.apollo.research.3t.image` · **State:** active · **Source run:** `run-dac7e340a4e55b4c99a4bb4b3a84707e`
+**Global name:** `bbugyi200.apollo.research.3t.image` · **State:** completed · **Source run:** `run-dac7e340a4e55b4c99a4bb4b3a84707e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,42 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261108113130
+- Timing: 2026-11-08T17:17:37.625570+00:00 → 2026-11-08T17:24:59.170725+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/record\_notes\_data\_unlock/record\_notes\_data\_unlock\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108113130/record\_notes\_data\_un… |
+| `diagrams` | {considered: 15, count: 0, reason: No additional figure adds explanatory structure beyond the report itself. outcome-gap: one sentence answers intent/effort/outcome; capture-changes: existing before/… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/record_notes_data_unlock/record_notes_data_unlock_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108113130/record_notes_data_unlock_infographic-6484cbadaafc.png
+  ref: file:explicit:8b88a6e633c6b749b8fd0c20
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/record_notes_data_unlock/record_notes_data_unlock_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 0
+reason: No additional figure adds explanatory structure beyond the report itself. outcome-gap: one sentence answers intent/effort/outcome; capture-changes: existing before/after table; remembered-context: existing six-kind table; payoff-readiness: existing prerequisites/status table; three-loops: existing Figure 1; agent-ownership: existing stream/draft/human-field table and guardrail list, no further protocol specified; disagreement-resolution: independent comparisons already tabulated; type-decision: existing Figure 2; fields-and-prose: one-sentence rule; six-week-test: numbered plan already includes phases and conditions; open-choices: independent questions with no mechanism; evidence-map: bibliography, not a mechanism; query-routing: short CLI list and query sentence already give every route; verdict-trigger: Now/Later list and fallback sentence already give every supported path; summary-history: one compact bullet explains overwrite and dated-note preservation. None rejected merely because the infographic covers it; none over the cap.
+source_ref: file:explicit:bbac21a772ec2bf1a25577bc
+status: none
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
