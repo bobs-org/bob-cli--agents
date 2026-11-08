@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-ii
 
-**Global hood:** `bbugyi200.athena.bob-cli-ii` · **Runs:** 29 · **Sessions:** 4 · **States:** active 3, completed 17, waiting 9
+**Global hood:** `bbugyi200.athena.bob-cli-ii` · **Runs:** 29 · **Sessions:** 4 · **States:** active 3, completed 18, waiting 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-ii.4.1.2](../../../../../../agents/bbugyi200.athena.bob-cli-ii.4.1.2/README.md) | active | gpt-6-luna / codex | 2026-11-08T17:34:09.108008+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ii.4.1.2/prompt.md) |
-| [bob-cli-ii.7](../../../../../../agents/bbugyi200.athena.bob-cli-ii.7/README.md) | waiting | grok-4.6 / grok | 20261107172355 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ii.7/prompt.md) |
+| [bob-cli-ii.7](../../../../../../agents/bbugyi200.athena.bob-cli-ii.7/README.md) | completed | grok-4.6 / grok | 2026-11-08T16:53:32.676757+00:00 → 2026-11-08T17:37:59.585263+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ii.7/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-ii.7/chat.md) |
 | [bob-cli-ii.3.1.2--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-ii.3.1.2.md#member-mon) | completed | muse-spark-1.3-contributor / muse | 2026-11-08T00:42:00.038440+00:00 → 2026-11-08T00:57:26.777328+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-ii.3.1.2--mon/chat.md) |
 | [bob-cli-ii.4.1.5](../../../../../../agents/bbugyi200.athena.bob-cli-ii.4.1.5/README.md) | waiting | grok-4.6 / grok | 20261108120323 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ii.4.1.5/prompt.md) |
 | [bob-cli-ii.3.1.2--1](../../../../../../sessions/bbugyi200.athena.bob-cli-ii.3.1.2.md#member-1) | completed | muse-spark-1.3-contributor / muse | 2026-11-08T00:59:25.468744+00:00 → 2026-11-08T01:09:53.281887+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ii.3.1.2--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-ii.3.1.2--1/chat.md) |
