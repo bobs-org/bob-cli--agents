@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3o.image
 
-**Global name:** `bbugyi200.apollo.research.3o.image` · **State:** waiting · **Source run:** `run-ec7c95fc360756f630145142dcb949be`
+**Global name:** `bbugyi200.apollo.research.3o.image` · **State:** completed · **Source run:** `run-ec7c95fc360756f630145142dcb949be`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,54 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261108092947
+- Timing: 2026-11-08T15:09:08.471380+00:00 → 2026-11-08T15:18:54.481273+00:00
 - Commits: 0
+- Variables: [3](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/highlights\_annotation\_page\_jump/highlights\_annotation\_page\_jump\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108092947/highli… |
+| `diagrams` | {considered: 16, count: 0, reason: C01 What does Cmd-Enter open on each kind of cursor line? The existing routing Mermaid already shows the branches.; C02 Why does the recommendation choose Hammerspo… |
+| `infographic` | {height: 1536, path: 202611/highlights\_annotation\_page\_jump/highlights\_annotation\_page\_jump\_infographic.png, ref: file:explicit:693bd99947f15948b86cb3c9, source\_ref: file:explicit:8ff1c2572f07e1ef817… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/highlights_annotation_page_jump/highlights_annotation_page_jump_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108092947/highlights_annotation_page_jump_infographic-7828949ae09f.png
+  ref: file:explicit:693bd99947f15948b86cb3c9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/highlights_annotation_page_jump/highlights_annotation_page_jump_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 16
+count: 0
+reason: C01 What does Cmd-Enter open on each kind of cursor line? The existing routing Mermaid already shows the branches.; C02 Why does the recommendation choose Hammerspoon over native Highlights links? The transport tables already compare identity, behavior and costs; drawing them would turn a table into a diagram.; C03 Why can v1 use caption numbers as physical PDF pages? The answer is two measured facts, not a mechanism; one sentence explains the current-library guarantee.; C04 When may a dangling bookmark safely recover its target? The existing routing figure already states literal target then unique-ID fallback; exactly one match wins is a single concise rule.; C05 Which PDF belongs to an archived annotation? One sentence fully specifies the two cases: source_pdf for live notes, annotated_pdf for archived notes.; C06 How does the proposed shortcut shorten the return-to-source loop? The before/after paragraph already gives the complete short linear chain and its one-key replacement; no branching or hidden dependency remains.; C07 How does the locator choose the right annotation piece and page? The numbered locator rules explicitly enumerate the order, branches and exceptions the diagram would draw.; C08 Who opens the PDF, jumps, and confirms the result? The existing cross-app sequence already shows those owners, ordering and success/failure paths.; C09 How does the jump survive Highlights restoring its old page? The Wait/Jump bullets already state the full scoped mechanism: two stable polls, jump, delayed check and one retry; another sequence would repeat that short list.; C10 How do the chip, rail, and shortcut agree on their target? One sentence answers it: all use the same resolver. A shared-resolver fan-out adds no decision or order.; C11 What happens to hints while a cross-note target is resolving? Show nothing until the asynchronous target resolves is a one-sentence state rule; additional invalidation or error states would be invented.; C12 What feedback appears before focus changes and when something fails? The existing sequence and toast situation table already cover ordering, outcomes and durations.; C13 In what order should the feature be validated and shipped? The phase list and acceptance matrix already express the order and checks. Drawing strict new dependencies would overstate the report.; C14 When should caption parsing gain a physical-page-index override? The first follow-up states the complete trigger and response in one sentence.; C15 Which design choices need Bryan's decision? The three open questions are a short list of independent choices, not a flow or dependency structure.; C16 Which source supports each finding? This is a bibliography; a new claim-by-source dependency graph would require mappings the list does not state.
+source_ref: file:explicit:8ff1c2572f07e1ef817cdbf8
+status: none
+```
+
+#### infographic
+
+```yaml
+height: 1536
+path: 202611/highlights_annotation_page_jump/highlights_annotation_page_jump_infographic.png
+ref: file:explicit:693bd99947f15948b86cb3c9
+source_ref: file:explicit:8ff1c2572f07e1ef817cdbf8
+status: ready
+width: 1024
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +69,7 @@
 | [research.3o.gem](../bbugyi200.apollo.research.3o.gem/README.md) | research.3o hood | completed |
 | [research.3o.grk](../bbugyi200.apollo.research.3o.grk/README.md) | research.3o hood | completed |
 | [research.3o.linker](../bbugyi200.apollo.research.3o.linker/README.md) | research.3o hood | waiting |
+| [research.3o.linker.w0](../bbugyi200.apollo.research.3o.linker.w0/README.md) | research.3o hood | waiting |
 | [research.3o.mus](../bbugyi200.apollo.research.3o.mus/README.md) | research.3o hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
@@ -78,4 +121,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 639 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 647 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
