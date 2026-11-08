@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.2.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.1` · **State:** active · **Source run:** `run-6e691e6bc4725b9ff568e4edd1ca1641`
+**Global name:** `bbugyi200.athena.bob-cli-ir.2.1.1` · **State:** completed · **Source run:** `run-6e691e6bc4725b9ff568e4edd1ca1641`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ir.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.2.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-08T16:20:58.573295+00:00
-- Commits: 0
+- Timing: 2026-11-08T16:20:58.573295+00:00 → 2026-11-08T16:53:03.930937+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`cd8a031`](https://github.com/bobs-org/bob-cli/commit/cd8a031f9bad5e5aee4ab88e3671e3d8afb9beb0) | feat(records): add schema validation and stem fixtures | 2026-11-08 11:52:23 EST |
 
 ## Neighbors
 

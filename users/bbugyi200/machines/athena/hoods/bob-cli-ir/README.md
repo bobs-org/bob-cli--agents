@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-ir
 
-**Global hood:** `bbugyi200.athena.bob-cli-ir` · **Runs:** 21 · **Sessions:** 1 · **States:** active 2, completed 3, waiting 16
+**Global hood:** `bbugyi200.athena.bob-cli-ir` · **Runs:** 21 · **Sessions:** 1 · **States:** active 1, completed 4, waiting 16
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -15,7 +15,7 @@
 | [bob-cli-ir.3](../../../../../../agents/bbugyi200.athena.bob-cli-ir.3/README.md) | waiting | gpt-6-luna / codex | 20261108110802 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ir.3/prompt.md) |
 | [bob-cli-ir.2.1.4](../../../../../../agents/bbugyi200.athena.bob-cli-ir.2.1.4/README.md) | waiting | gpt-6-luna / codex | 20261108111938 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ir.2.1.4/prompt.md) |
 | [bob-cli-ir.land](../../../../../../agents/bbugyi200.athena.bob-cli-ir.land/README.md) | waiting | opus / claude | 20261108110813 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ir.land/prompt.md) |
-| [bob-cli-ir.2.1.1](../../../../../../agents/bbugyi200.athena.bob-cli-ir.2.1.1/README.md) | active | gpt-6-luna / codex | 2026-11-08T16:20:58.573295+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ir.2.1.1/prompt.md) |
+| [bob-cli-ir.2.1.1](../../../../../../agents/bbugyi200.athena.bob-cli-ir.2.1.1/README.md) | completed | gpt-6-luna / codex | 2026-11-08T16:20:58.573295+00:00 → 2026-11-08T16:53:03.930937+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ir.2.1.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-ir.2.1.1/chat.md) |
 | [bob-cli-ir.6](../../../../../../agents/bbugyi200.athena.bob-cli-ir.6/README.md) | waiting | gpt-6-astra / codex | 20261108110805 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ir.6/prompt.md) |
 | [bob-cli-ir.10](../../../../../../agents/bbugyi200.athena.bob-cli-ir.10/README.md) | waiting | gpt-6-astra / codex | 20261108110806 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ir.10/prompt.md) |
 | [bob-cli-ir.8](../../../../../../agents/bbugyi200.athena.bob-cli-ir.8/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261108110809 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-ir.8/prompt.md) |

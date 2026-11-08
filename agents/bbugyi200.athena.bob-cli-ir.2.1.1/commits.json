@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6e691e6bc4725b9ff568e4edd1ca1641"}
+{"commits":[{"committed_at":1794156743,"sha":"cd8a031f9bad5e5aee4ab88e3671e3d8afb9beb0","subject":"feat(records): add schema validation and stem fixtures"}],"schema_version":2,"source_run_id":"run-6e691e6bc4725b9ff568e4edd1ca1641"}
