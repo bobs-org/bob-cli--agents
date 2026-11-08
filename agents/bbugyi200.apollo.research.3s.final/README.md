@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3s.final
 
-**Global name:** `bbugyi200.apollo.research.3s.final` · **State:** waiting · **Source run:** `run-faa10dc8be6c944121d394f471a883b4`
+**Global name:** `bbugyi200.apollo.research.3s.final` · **State:** completed · **Source run:** `run-faa10dc8be6c944121d394f471a883b4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261108111357
+- Timing: 2026-11-08T16:34:48.001497+00:00 → 2026-11-08T16:59:36.426090+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
