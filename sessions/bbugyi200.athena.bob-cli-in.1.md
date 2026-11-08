@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-in.2](../agents/bbugyi200.athena.bob-cli-in.2/README.md) | bob-cli-in hood | waiting |
+| [bob-cli-in.2](../agents/bbugyi200.athena.bob-cli-in.2/README.md) | bob-cli-in hood | completed |
 | [bob-cli-in.3](../agents/bbugyi200.athena.bob-cli-in.3/README.md) | bob-cli-in hood | waiting |
 | [bob-cli-in.4](../agents/bbugyi200.athena.bob-cli-in.4/README.md) | bob-cli-in hood | waiting |
 | [bob-cli-in.land](../agents/bbugyi200.athena.bob-cli-in.land/README.md) | bob-cli-in hood | waiting |
