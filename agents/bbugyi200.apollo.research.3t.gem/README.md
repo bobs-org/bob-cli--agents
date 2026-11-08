@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-11-08T16:33:00.859970+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/record\_notes\_unlock\_potential\_and\_use\_cases\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108113128/record\_notes\_unlock\_potentia… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/record_notes_unlock_potential_and_use_cases__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108113128/record_notes_unlock_potential_and_use_cases__gem-e4018e0a88ea.md
+  ref: file:explicit:449d23ffecad553383feb6b2
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_19/sase/repos/research/202611/record_notes_unlock_potential_and_use_cases__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.3t.grk](../bbugyi200.apollo.research.3t.grk/README.md) | research.3t hood | active |
 | [research.3t.image](../bbugyi200.apollo.research.3t.image/README.md) | research.3t hood | active |
 | [research.3t.linker](../bbugyi200.apollo.research.3t.linker/README.md) | research.3t hood | waiting |
-| [research.3t.mus](../bbugyi200.apollo.research.3t.mus/README.md) | research.3t hood | active |
+| [research.3t.mus](../bbugyi200.apollo.research.3t.mus/README.md) | research.3t hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |

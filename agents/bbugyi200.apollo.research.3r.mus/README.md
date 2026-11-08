@@ -47,7 +47,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.3r.grk](../bbugyi200.apollo.research.3r.grk/README.md) | research.3r hood | completed |
 | [research.3r.image](../bbugyi200.apollo.research.3r.image/README.md) | research.3r hood | completed |
 | [research.3r.linker](../bbugyi200.apollo.research.3r.linker/README.md) | research.3r hood | completed |
-| [research.3r.linker.w0](../bbugyi200.apollo.research.3r.linker.w0/README.md) | research.3r hood | waiting |
+| [research.3r.linker.w0](../../sessions/bbugyi200.apollo.research.3r.linker.w0.md) (session · 2) | research.3r hood | active 1, completed 1 |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
