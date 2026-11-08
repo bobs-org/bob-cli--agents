@@ -22,3 +22,9 @@
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | bob-cli | [`809c0fc`](https://github.com/bobs-org/bob-cli/commit/809c0fc728ecb88ad46441ecb387e704806da7b5) | feat(google): configure gog executable and config root | 2026-11-08 07:39:05 EST |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [cz.f0](../../sessions/bbugyi200.apollo.cz.f0.md) (session · 3) | descendant | completed 3 |

@@ -16,3 +16,9 @@
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [cz.f0](../../sessions/bbugyi200.apollo.cz.f0.md) (session · 3) | descendant | completed 3 |
