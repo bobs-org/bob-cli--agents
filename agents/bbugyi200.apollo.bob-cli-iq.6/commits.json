@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d6eb06df7f975f181161a47a1e516b70"}
+{"commits":[{"committed_at":1794155825,"sha":"c4d81e177158cdc165aeb34aa125771e1cde5d9f","subject":"docs(ref): declare generated annotation shapes as a Cmd+Enter client contract"}],"schema_version":2,"source_run_id":"run-d6eb06df7f975f181161a47a1e516b70"}
