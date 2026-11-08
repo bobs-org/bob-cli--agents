@@ -25,4 +25,4 @@
 | [bob-cli-im.1](../bbugyi200.athena.bob-cli-im.1/README.md) | bob-cli-im hood | completed |
 | [bob-cli-im.2](../bbugyi200.athena.bob-cli-im.2/README.md) | bob-cli-im hood | active |
 | [bob-cli-im.3](../bbugyi200.athena.bob-cli-im.3/README.md) | bob-cli-im hood | waiting |
-| [bob-cli-im.4](../bbugyi200.athena.bob-cli-im.4/README.md) | bob-cli-im hood | active |
+| [bob-cli-im.4](../bbugyi200.athena.bob-cli-im.4/README.md) | bob-cli-im hood | completed |
