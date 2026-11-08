@@ -10,8 +10,8 @@
 
 - Bead: [bob-cli-ii.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ii/bob-cli-ii.5.md)
 - Epic: [bob-cli-ii](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ii/README.md)
-- Model: opus
-- Provider: claude
+- Model: grok-4.6
+- Provider: grok
 - Timing: 20261107172356
 - Commits: 0
 
@@ -38,7 +38,7 @@
 | [bob-cli-ii.4.1.4](../bbugyi200.athena.bob-cli-ii.4.1.4/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.4.1.5](../bbugyi200.athena.bob-cli-ii.4.1.5/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.4.1.6](../bbugyi200.athena.bob-cli-ii.4.1.6/README.md) | bob-cli-ii hood | completed |
-| [bob-cli-ii.4.1.land](../../sessions/bbugyi200.athena.bob-cli-ii.4.1.land.md) (session · 3) | bob-cli-ii hood | active 2, completed 1 |
+| [bob-cli-ii.4.1.land](../../sessions/bbugyi200.athena.bob-cli-ii.4.1.land.md) (session · 5) | bob-cli-ii hood | completed 5 |
 | [bob-cli-ii.6](../bbugyi200.athena.bob-cli-ii.6/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.7](../bbugyi200.athena.bob-cli-ii.7/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.8](../bbugyi200.athena.bob-cli-ii.8/README.md) | bob-cli-ii hood | waiting |
