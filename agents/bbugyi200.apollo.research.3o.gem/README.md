@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3o.gem
 
-**Global name:** `bbugyi200.apollo.research.3o.gem` · **State:** active · **Source run:** `run-99656e77e1ec36ed28db93db66a8e3ad`
+**Global name:** `bbugyi200.apollo.research.3o.gem` · **State:** completed · **Source run:** `run-99656e77e1ec36ed28db93db66a8e3ad`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,18 +10,37 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-08T14:31:07.748044+00:00
+- Timing: 2026-11-08T14:31:07.748044+00:00 → 2026-11-08T14:42:21.913845+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/ref\_annotation\_highlights\_jump\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108092945/ref\_annotation\_highlights\_jump\_\_gem-acb07… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/ref_annotation_highlights_jump__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108092945/ref_annotation_highlights_jump__gem-acb072e661d7.md
+  ref: file:explicit:57eeb64795b5076244a25bf6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/ref_annotation_highlights_jump__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3o.cdx](../bbugyi200.apollo.research.3o.cdx/README.md) | research.3o hood | active |
+| [research.3o.cdx](../bbugyi200.apollo.research.3o.cdx/README.md) | research.3o hood | completed |
 | [research.3o.cld](../bbugyi200.apollo.research.3o.cld/README.md) | research.3o hood | active |
 | [research.3o.final](../bbugyi200.apollo.research.3o.final/README.md) | research.3o hood | waiting |
 | [research.3o.grk](../bbugyi200.apollo.research.3o.grk/README.md) | research.3o hood | active |
