@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-11-08T15:12:30.616697+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/capture\_x\_and\_s\_shorthand\_expansion\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108101055/capture\_x\_and\_s\_shorthand\_expansion\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/capture_x_and_s_shorthand_expansion__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108101055/capture_x_and_s_shorthand_expansion__gem-f47d9d7e55b2.md
+  ref: file:explicit:179db9d18cea3abab6c11428
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/capture_x_and_s_shorthand_expansion__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

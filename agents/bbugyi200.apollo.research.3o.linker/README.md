@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3o.linker
 
-**Global name:** `bbugyi200.apollo.research.3o.linker` · **State:** waiting · **Source run:** `run-830b091626161e632fc93be1bf31b11b`
+**Global name:** `bbugyi200.apollo.research.3o.linker` · **State:** completed · **Source run:** `run-830b091626161e632fc93be1bf31b11b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261108092948
+- Timing: 2026-11-08T15:19:08.527118+00:00 → 2026-11-08T15:26:37.862914+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/highlights\_annotation\_page\_jump/highlights\_annotation\_page\_jump.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108092948/highlights\_an… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/highlights_annotation_page_jump/highlights_annotation_page_jump.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108092948/highlights_annotation_page_jump-3cd34e84e16f.md
+  ref: file:explicit:9b87920af61a6b9d0190fe7d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/highlights_annotation_page_jump/highlights_annotation_page_jump.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
