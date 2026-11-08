@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3t.linker
 
-**Global name:** `bbugyi200.apollo.research.3t.linker` · **State:** waiting · **Source run:** `run-b30c12d6d122355bf7c0265145ee352c`
+**Global name:** `bbugyi200.apollo.research.3t.linker` · **State:** completed · **Source run:** `run-b30c12d6d122355bf7c0265145ee352c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261108113131
+- Timing: 2026-11-08T17:25:24.054656+00:00 → 2026-11-08T17:32:16.656542+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/record\_notes\_data\_unlock/record\_notes\_data\_unlock.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261108113131/record\_notes\_data\_unlock-d4… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/record_notes_data_unlock/record_notes_data_unlock.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261108113131/record_notes_data_unlock-d405a18f98c2.md
+  ref: file:explicit:93e7c0cf8a120b5913382cba
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/record_notes_data_unlock/record_notes_data_unlock.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
