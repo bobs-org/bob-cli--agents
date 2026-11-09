@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3w.final
 
-**Global name:** `bbugyi200.apollo.research.3w.final` · **State:** waiting · **Source run:** `run-5f37a72ec54981ea7d34ad1e0f71721a`
+**Global name:** `bbugyi200.apollo.research.3w.final` · **State:** completed · **Source run:** `run-5f37a72ec54981ea7d34ad1e0f71721a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261109092446
+- Timing: 2026-11-09T14:41:55.602130+00:00 → 2026-11-09T15:00:40.167177+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/done\_notes\_archiving/done\_notes\_archiving\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109092446/done\_notes\_archiving\_\_final-… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/done_notes_archiving/done_notes_archiving__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109092446/done_notes_archiving__final-4568825f19a6.md
+  ref: file:explicit:a85da8e93cf2e116d997f85e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/done_notes_archiving/done_notes_archiving__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

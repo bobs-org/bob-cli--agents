@@ -236,11 +236,11 @@
 | [ax](hoods/ax/README.md) | 5 | 1 | active 1, completed 4 |
 | [ay](hoods/ay/README.md) | 7 | 2 | active 3, completed 4 |
 | [az](hoods/az/README.md) | 3 | 1 | active 1, completed 2 |
-| [b1](hoods/b1/README.md) | 1 | 0 | active 1 |
-| [b2](hoods/b2/README.md) | 3 | 1 | active 1, completed 2 |
-| [b4](hoods/b4/README.md) | 6 | 1 | active 2, completed 4 |
-| [b5](hoods/b5/README.md) | 3 | 1 | active 1, completed 2 |
-| [b6](hoods/b6/README.md) | 3 | 1 | active 1, completed 2 |
+| [b1](hoods/b1/README.md) | 1 | 0 | dismissed 1 |
+| [b2](hoods/b2/README.md) | 3 | 1 | completed 2, dismissed 1 |
+| [b4](hoods/b4/README.md) | 6 | 1 | completed 4, dismissed 2 |
+| [b5](hoods/b5/README.md) | 3 | 1 | completed 2, dismissed 1 |
+| [b6](hoods/b6/README.md) | 3 | 1 | completed 2, dismissed 1 |
 | [b9](hoods/b9/README.md) | 3 | 1 | active 1, completed 2 |
 | [ba](hoods/ba/README.md) | 11 | 1 | active 1, completed 7, failed 3 |
 | [bb](hoods/bb/README.md) | 3 | 1 | active 1, completed 2 |
@@ -382,7 +382,7 @@
 | [bob-cli-iu](hoods/bob-cli-iu/README.md) | 13 | 2 | completed 11, failed 2 |
 | [bob-cli-ix](hoods/bob-cli-ix/README.md) | 16 | 4 | active 2, completed 13, failed 1 |
 | [bob-cli-j](hoods/bob-cli-j/README.md) | 2 | 0 | completed 2 |
-| [bob-cli-j0](hoods/bob-cli-j0/README.md) | 7 | 1 | active 2, completed 5 |
+| [bob-cli-j0](hoods/bob-cli-j0/README.md) | 7 | 1 | completed 7 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 1 | 0 | completed 1 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 1 | 0 | completed 1 |
 | [bob-cli-t](hoods/bob-cli-t/README.md) | 2 | 0 | completed 2 |
@@ -422,7 +422,7 @@
 | [home-2](hoods/home-2/README.md) | 6 | 0 | completed 6 |
 | [jr](hoods/jr/README.md) | 2 | 0 | completed 2 |
 | [m3](hoods/m3/README.md) | 1 | 0 | completed 1 |
-| [research](hoods/research/README.md) | 828 | 41 | active 592, completed 184, dismissed 1, failed 40, waiting 11 |
+| [research](hoods/research/README.md) | 828 | 41 | active 592, completed 185, dismissed 1, failed 40, waiting 10 |
 | [research\_swarm](hoods/research_swarm/README.md) | 1 | 0 | completed 1 |
 | [sase-51](hoods/sase-51/README.md) | 1 | 0 | completed 1 |
 | [sase-60](hoods/sase-60/README.md) | 1 | 0 | completed 1 |

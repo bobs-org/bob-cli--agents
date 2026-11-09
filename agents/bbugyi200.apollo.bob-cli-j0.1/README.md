@@ -26,4 +26,4 @@
 | [bob-cli-j0.2](../bbugyi200.apollo.bob-cli-j0.2/README.md) | bob-cli-j0 hood | completed |
 | [bob-cli-j0.3](../bbugyi200.apollo.bob-cli-j0.3/README.md) | bob-cli-j0 hood | completed |
 | [bob-cli-j0.4](../bbugyi200.apollo.bob-cli-j0.4/README.md) | bob-cli-j0 hood | completed |
-| [bob-cli-j0.land](../../sessions/bbugyi200.apollo.bob-cli-j0.land.md) (session · 3) | bob-cli-j0 hood | active 2, completed 1 |
+| [bob-cli-j0.land](../../sessions/bbugyi200.apollo.bob-cli-j0.land.md) (session · 3) | bob-cli-j0 hood | completed 3 |
