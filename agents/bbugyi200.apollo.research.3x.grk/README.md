@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3x.grk
 
-**Global name:** `bbugyi200.apollo.research.3x.grk` · **State:** active · **Source run:** `run-a60bc5f527b01892e48a0f29e7a96e83`
+**Global name:** `bbugyi200.apollo.research.3x.grk` · **State:** completed · **Source run:** `run-a60bc5f527b01892e48a0f29e7a96e83`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-09T15:28:32.154596+00:00
+- Timing: 2026-11-09T15:28:32.154596+00:00 → 2026-11-09T15:52:05.743295+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/notebook\_note\_type/notebook\_note\_type\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109102733/notebook\_note\_type\_\_grk-42fa977b22… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/notebook_note_type/notebook_note_type__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109102733/notebook_note_type__grk-42fa977b22c6.md
+  ref: file:explicit:14f771f8010785fcf2af3762
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/notebook_note_type/notebook_note_type__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
