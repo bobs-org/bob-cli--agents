@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3x.linker
 
-**Global name:** `bbugyi200.apollo.research.3x.linker` · **State:** waiting · **Source run:** `run-e0ca6b3649267eec5b0551588bbd433c`
+**Global name:** `bbugyi200.apollo.research.3x.linker` · **State:** completed · **Source run:** `run-e0ca6b3649267eec5b0551588bbd433c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261109102738
+- Timing: 2026-11-09T16:30:51.158534+00:00 → 2026-11-09T16:39:29.656308+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bob\_notebooks/bob\_notebooks.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109102738/bob\_notebooks-8aa6bf35647b.md, ref: file:explicit… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bob_notebooks/bob_notebooks.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109102738/bob_notebooks-8aa6bf35647b.md
+  ref: file:explicit:0d4c0f0b9ff95d6a181ea8a5
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/bob_notebooks/bob_notebooks.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -79,4 +98,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 706 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 707 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3y.final
 
-**Global name:** `bbugyi200.apollo.research.3y.final` · **State:** waiting · **Source run:** `run-abc18fcc570dd5ba05c22b447dfddd77`
+**Global name:** `bbugyi200.apollo.research.3y.final` · **State:** completed · **Source run:** `run-abc18fcc570dd5ba05c22b447dfddd77`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261109110052
+- Timing: 2026-11-09T16:22:24.592024+00:00 → 2026-11-09T16:41:46.155195+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/capture\_alias\_typing\_tips/capture\_alias\_typing\_tips\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109110052/capture\_alias\_typi… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/capture_alias_typing_tips/capture_alias_typing_tips__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109110052/capture_alias_typing_tips__final-be5bc81a2e89.md
+  ref: file:explicit:7d645c9c107d3389e2802068
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/capture_alias_typing_tips/capture_alias_typing_tips__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +46,7 @@
 | [research.3y.grk](../bbugyi200.apollo.research.3y.grk/README.md) | research.3y hood | completed |
 | [research.3y.image](../bbugyi200.apollo.research.3y.image/README.md) | research.3y hood | waiting |
 | [research.3y.linker](../bbugyi200.apollo.research.3y.linker/README.md) | research.3y hood | waiting |
+| [research.3y.linker.w0](../bbugyi200.apollo.research.3y.linker.w0/README.md) | research.3y hood | waiting |
 | [research.3y.mus](../bbugyi200.apollo.research.3y.mus/README.md) | research.3y hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
