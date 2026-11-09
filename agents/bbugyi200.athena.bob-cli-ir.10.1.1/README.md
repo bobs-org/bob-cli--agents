@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.10.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.10.1.1` · **State:** active · **Source run:** `run-1c99a1a427927c22273daac743dc3e64`
+**Global name:** `bbugyi200.athena.bob-cli-ir.10.1.1` · **State:** completed · **Source run:** `run-1c99a1a427927c22273daac743dc3e64`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ir.10.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.10.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-09T07:52:25.467564+00:00
-- Commits: 0
+- Timing: 2026-11-09T07:52:25.467564+00:00 → 2026-11-09T08:39:29.507199+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`5e49fa5`](https://github.com/bobs-org/bob-cli/commit/5e49fa5e5309347f4b9f6854b6dc5d4a67658d7c) | feat(capture): address named Record Card fields in complete | 2026-11-09 03:38:41 EST |
 
 ## Neighbors
 
