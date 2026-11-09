@@ -1,0 +1,62 @@
+# Agent: bob-cli-j5.2.1.land--plan
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-j5](../../users/bbugyi200/machines/athena/hoods/bob-cli-j5/README.md) / [bob-cli-j5.2.1.land](../../sessions/bbugyi200.athena.bob-cli-j5.2.1.land.md) / bob-cli-j5.2.1.land--plan
+
+**Global name:** `bbugyi200.athena.bob-cli-j5.2.1.land--plan` · **State:** active · **Source run:** `run-9d5f16df9b23834072178e1342bd8d8a`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-j5
+
+## Summary
+
+- Bead: [bob-cli-j5.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j5/bob-cli-j5.2.1.md)
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-11-09T20:12:10.417170+00:00
+- Commits: 0
+- Variables: [1](#variables)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-j5.2.1, kind: file, label: Guarded archive landing four-case fixture reproduction, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109122055/archive\_landing\_repro-a… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-j5.2.1
+  kind: file
+  label: Guarded archive landing four-case fixture reproduction
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109122055/archive_landing_repro-a9c84c4cfcd4.py
+  ref: file:explicit:32c5dd2c69f2b0a7b394a3d8
+  source_path: /tmp/archive_landing_repro.py
+- bead: bob-cli-j5.2.1
+  kind: file
+  label: Guarded archive landing fixture results on e802071f
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109122055/archive_landing_repro-9fd5b2a3c1cf.out
+  ref: file:explicit:822ae2f99cc5cbfc67be94e9
+  source_path: /tmp/archive_landing_repro.out
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-j5.2](../../sessions/bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-j5.2.1.1](../../sessions/bbugyi200.athena.bob-cli-j5.2.1.1.md) (session · 3) | bob-cli-j5.2.1 hood | completed 3 |
+| [bob-cli-j5.2.1.2](../bbugyi200.athena.bob-cli-j5.2.1.2/README.md) | bob-cli-j5.2.1 hood | completed |
+| [bob-cli-j5.2.1.3](../bbugyi200.athena.bob-cli-j5.2.1.3/README.md) | bob-cli-j5.2.1 hood | completed |
+| [bob-cli-j5.1](../bbugyi200.athena.bob-cli-j5.1/README.md) | bob-cli-j5 hood | completed |
+| [bob-cli-j5.3](../bbugyi200.athena.bob-cli-j5.3/README.md) | bob-cli-j5 hood | waiting |
+| [bob-cli-j5.4](../bbugyi200.athena.bob-cli-j5.4/README.md) | bob-cli-j5 hood | waiting |
+| [bob-cli-j5.5](../bbugyi200.athena.bob-cli-j5.5/README.md) | bob-cli-j5 hood | waiting |
+| [bob-cli-j5.6](../bbugyi200.athena.bob-cli-j5.6/README.md) | bob-cli-j5 hood | waiting |
+| [bob-cli-j5.7](../bbugyi200.athena.bob-cli-j5.7/README.md) | bob-cli-j5 hood | waiting |
+| [bob-cli-j5.8](../bbugyi200.athena.bob-cli-j5.8/README.md) | bob-cli-j5 hood | waiting |
+| [bob-cli-j5.land](../bbugyi200.athena.bob-cli-j5.land/README.md) | bob-cli-j5 hood | waiting |
