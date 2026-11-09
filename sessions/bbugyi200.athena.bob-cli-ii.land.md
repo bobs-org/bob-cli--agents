@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-ii` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ii.land--plan [active]"]
-  n1["bob-cli-ii.land--code [active]"]
+  n0["bob-cli-ii.land--plan [completed]"]
+  n1["bob-cli-ii.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-ii.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-ii.land--plan | active | opus / claude | 2026-11-09T00:05:59.695314+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ii.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ii.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-ii.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-09T00:40:16.648097+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-ii.land--plan | completed | opus / claude | 2026-11-09T00:05:59.695314+00:00 → 2026-11-09T01:14:32.495871+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ii.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ii.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-ii.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-09T00:40:16.648097+00:00 → 2026-11-09T01:14:32.495871+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ii.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-ii.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ii.land--gate | completed | opus / claude | 2026-11-09T00:39:08.233913+00:00 → 2026-11-09T00:39:47.441076+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ii.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`2872939`](https://github.com/bobs-org/bob-cli/commit/2872939751f7b9eb77177b353b1157142e71a81b) | fix(gmail): finish sync health repairs and land reply-watch epic | 2026-11-08 20:12:43 EST |
 
 ## Neighbors
 

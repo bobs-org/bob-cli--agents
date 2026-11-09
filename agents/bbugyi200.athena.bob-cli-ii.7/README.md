@@ -48,4 +48,4 @@
 | [bob-cli-ii.5](../../sessions/bbugyi200.athena.bob-cli-ii.5.md) (session · 3) | bob-cli-ii hood | completed 3 |
 | [bob-cli-ii.6](../bbugyi200.athena.bob-cli-ii.6/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.8](../../sessions/bbugyi200.athena.bob-cli-ii.8.md) (session · 3) | bob-cli-ii hood | completed 2, failed 1 |
-| [bob-cli-ii.land](../../sessions/bbugyi200.athena.bob-cli-ii.land.md) (session · 3) | bob-cli-ii hood | active 2, completed 1 |
+| [bob-cli-ii.land](../../sessions/bbugyi200.athena.bob-cli-ii.land.md) (session · 3) | bob-cli-ii hood | completed 3 |
