@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / [bob-cli-ir.10.1.land](../../sessions/bbugyi200.athena.bob-cli-ir.10.1.land.md) / bob-cli-ir.10.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.10.1.land--code` · **State:** active · **Source run:** `run-a468036a648cee018bcdce21cfc84cbc`
+**Global name:** `bbugyi200.athena.bob-cli-ir.10.1.land--code` · **State:** completed · **Source run:** `run-a468036a648cee018bcdce21cfc84cbc`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -11,8 +11,12 @@
 - Bead: [bob-cli-ir.10.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.10.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-09T12:32:03.181895+00:00
+- Timing: 2026-11-09T12:32:03.181895+00:00 → 2026-11-09T13:29:22.633072+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -51,5 +55,5 @@
 | [bob-cli-ir.7.1.5](../bbugyi200.athena.bob-cli-ir.7.1.5/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.land](../../sessions/bbugyi200.athena.bob-cli-ir.7.1.land.md) (session · 3) | bob-cli-ir hood | completed 3 |
 | [bob-cli-ir.8](../bbugyi200.athena.bob-cli-ir.8/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.9](../../sessions/bbugyi200.athena.bob-cli-ir.9.md) (session · 2) | bob-cli-ir hood | completed 1, failed 1 |
+| [bob-cli-ir.9](../../sessions/bbugyi200.athena.bob-cli-ir.9.md) (session · 5) | bob-cli-ir hood | completed 4, failed 1 |
 | [bob-cli-ir.land](../bbugyi200.athena.bob-cli-ir.land/README.md) | bob-cli-ir hood | waiting |
