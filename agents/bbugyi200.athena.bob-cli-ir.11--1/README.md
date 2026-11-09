@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / [bob-cli-ir.11](../../sessions/bbugyi200.athena.bob-cli-ir.11.md) / bob-cli-ir.11--1
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.11--1` · **State:** completed · **Source run:** `run-e8225ed5df9648dddaa6072f04e3a4a5`
+**Global name:** `bbugyi200.athena.bob-cli-ir.11--1` · **State:** completed · **Source run:** `run-e69d6917ac89ae612a28e8078b36d523`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -11,18 +11,12 @@
 - Bead: [bob-cli-ir.11](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.11.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-09T16:27:14.712470+00:00 → 2026-11-09T16:40:05.839032+00:00
-- Commits: [1](#commits)
+- Timing: 2026-11-09T17:45:10.393458+00:00 → 2026-11-09T17:48:04.572359+00:00
+- Commits: 0
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
-
-## Commits
-
-| Repo | Commit | Subject | Committed |
-|---|---|---|---|
-| bob-cli | [`84ff0bb`](https://github.com/bobs-org/bob-cli/commit/84ff0bb8ed9dd12bfc9dc5741319b30ccf26a93a) | feat(capture): add per-item record\_note summary to record JSON output | 2026-11-09 11:38:45 EST |
 
 ## Neighbors
 
