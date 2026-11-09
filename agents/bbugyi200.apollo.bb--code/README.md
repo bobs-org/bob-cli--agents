@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4eef0cf`](https://github.com/bobs-org/bob-cli/commit/4eef0cf08957a72b6248d589717072e4bcc41262) | docs(guides): name Command-\] as the Bob Refs alias | 2026-10-30 13:51:36 EDT |
+| — | `4eef0cf` | docs(guides): name Command-\] as the Bob Refs alias | 2026-10-30 13:51:36 EDT |

@@ -27,7 +27,7 @@ flowchart TD
   n0 --> n8
   n9["ba--2 [completed]"]
   n0 --> n9
-  n10["ba--plan [active]"]
+  n10["ba--plan [dismissed]"]
   n0 --> n10
 ```
 
@@ -45,13 +45,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-3"></a>3 | ba--3 | completed | gpt-6-luna / codex | 2026-10-30T18:14:59.883234+00:00 → 2026-10-30T18:16:44.732811+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.ba--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.ba--3/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | ba--mon-0 | failed | gpt-6-luna / codex | 2026-10-30T17:54:32.926048+00:00 → 2026-10-30T17:57:10.177789+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.ba--mon-0/chat.md) |
 | <a id="member-2"></a>2 | ba--2 | completed | gpt-6-luna / codex | 2026-10-30T17:57:09.873186+00:00 → 2026-10-30T17:58:50.824803+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.ba--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.ba--2/chat.md) |
-| <a id="member-plan"></a>plan | ba--plan | active | opus / claude | 2026-10-30T17:11:22.235439+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.ba--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.ba--plan/chat.md) |
+| <a id="member-plan"></a>plan | ba--plan | dismissed | opus / claude | 2026-10-30T13:11:22.235439 → 2026-10-30T13:27:09.281890 | 0 | [Prompt](../agents/bbugyi200.apollo.ba--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.ba--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 4 | bob-cli | [`a0f2edf`](https://github.com/bobs-org/bob-cli/commit/a0f2edfc934fd70eea99d723ffcf8c06e1c7d973) | docs(glossary): clarify review footer tier colors | 2026-10-30 14:25:33 EDT |
+| 4 | — | `a0f2edf` | docs(glossary): clarify review footer tier colors | 2026-10-30 14:25:33 EDT |
 
 ## Variables
 

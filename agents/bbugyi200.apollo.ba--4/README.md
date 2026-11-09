@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a0f2edf`](https://github.com/bobs-org/bob-cli/commit/a0f2edfc934fd70eea99d723ffcf8c06e1c7d973) | docs(glossary): clarify review footer tier colors | 2026-10-30 14:25:33 EDT |
+| — | `a0f2edf` | docs(glossary): clarify review footer tier colors | 2026-10-30 14:25:33 EDT |

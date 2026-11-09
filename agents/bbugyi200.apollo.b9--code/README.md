@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7414d3b`](https://github.com/bobs-org/bob-cli/commit/7414d3bc24043509fb0f5f8ab269fbd4239a72b1) | docs(freshness): note Alt+P sets P1 on tasks with no priority | 2026-10-30 13:01:05 EDT |
+| — | `7414d3b` | docs(freshness): note Alt+P sets P1 on tasks with no priority | 2026-10-30 13:01:05 EDT |

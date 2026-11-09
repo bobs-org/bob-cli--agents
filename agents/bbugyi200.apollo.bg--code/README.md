@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3f69021`](https://github.com/bobs-org/bob-cli/commit/3f69021a58cd8f767a9469203ed240477d9bee8b) | fix(gcal): keep a blank line under Events | 2026-10-30 14:51:06 EDT |
+| — | `3f69021` | fix(gcal): keep a blank line under Events | 2026-10-30 14:51:06 EDT |
