@@ -12,17 +12,36 @@
 - Provider: grok
 - Timing: 2026-11-09T14:25:36.960314+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/done\_notes\_task\_archive/done\_notes\_task\_archive\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109092443/done\_notes\_task\_archive\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/done_notes_task_archive/done_notes_task_archive__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109092443/done_notes_task_archive__grk-f321b19fcab1.md
+  ref: file:explicit:035d4520c1c6d52a590c3aa0
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/done_notes_task_archive/done_notes_task_archive__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3w.cdx](../bbugyi200.apollo.research.3w.cdx/README.md) | research.3w hood | active |
-| [research.3w.cld](../bbugyi200.apollo.research.3w.cld/README.md) | research.3w hood | active |
+| [research.3w.cdx](../bbugyi200.apollo.research.3w.cdx/README.md) | research.3w hood | completed |
+| [research.3w.cld](../bbugyi200.apollo.research.3w.cld/README.md) | research.3w hood | completed |
 | [research.3w.final](../bbugyi200.apollo.research.3w.final/README.md) | research.3w hood | waiting |
 | [research.3w.gem](../bbugyi200.apollo.research.3w.gem/README.md) | research.3w hood | active |
 | [research.3w.image](../bbugyi200.apollo.research.3w.image/README.md) | research.3w hood | waiting |
