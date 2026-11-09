@@ -12,18 +12,37 @@
 - Provider: claude
 - Timing: 2026-11-09T15:28:11.131339+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/notebook\_note\_type\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109102732/notebook\_note\_type\_\_cld-2b3a7ea18a9b.md, ref: file:ex… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/notebook_note_type__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109102732/notebook_note_type__cld-2b3a7ea18a9b.md
+  ref: file:explicit:3120f4e4497503124ab829eb
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/notebook_note_type__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3x.cdx](../bbugyi200.apollo.research.3x.cdx/README.md) | research.3x hood | active |
+| [research.3x.cdx](../bbugyi200.apollo.research.3x.cdx/README.md) | research.3x hood | completed |
 | [research.3x.final](../bbugyi200.apollo.research.3x.final/README.md) | research.3x hood | waiting |
-| [research.3x.gem](../bbugyi200.apollo.research.3x.gem/README.md) | research.3x hood | active |
+| [research.3x.gem](../bbugyi200.apollo.research.3x.gem/README.md) | research.3x hood | completed |
 | [research.3x.grk](../bbugyi200.apollo.research.3x.grk/README.md) | research.3x hood | active |
 | [research.3x.image](../bbugyi200.apollo.research.3x.image/README.md) | research.3x hood | waiting |
 | [research.3x.linker](../bbugyi200.apollo.research.3x.linker/README.md) | research.3x hood | waiting |

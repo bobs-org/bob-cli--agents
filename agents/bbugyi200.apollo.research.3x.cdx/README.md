@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3x.cdx
 
-**Global name:** `bbugyi200.apollo.research.3x.cdx` · **State:** active · **Source run:** `run-e0079fb1715de2477fa2c216bf9b5745`
+**Global name:** `bbugyi200.apollo.research.3x.cdx` · **State:** completed · **Source run:** `run-e0079fb1715de2477fa2c216bf9b5745`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-09T15:27:58.231449+00:00
+- Timing: 2026-11-09T15:27:58.231449+00:00 → 2026-11-09T15:44:22.418728+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/notebooks\_as\_context\_leaves\_capture\_compatibility\_and\_vault\_migration\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109102729/no… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/notebooks_as_context_leaves_capture_compatibility_and_vault_migration__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109102729/notebooks_as_context_leaves_capture_compatibility_and_vault_migration__cdx-091df5b76daf.md
+  ref: file:explicit:3d7306f6ea4d380ee3e04134
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/notebooks_as_context_leaves_capture_compatibility_and_vault_migration__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.3x.cld](../bbugyi200.apollo.research.3x.cld/README.md) | research.3x hood | active |
 | [research.3x.final](../bbugyi200.apollo.research.3x.final/README.md) | research.3x hood | waiting |
-| [research.3x.gem](../bbugyi200.apollo.research.3x.gem/README.md) | research.3x hood | active |
+| [research.3x.gem](../bbugyi200.apollo.research.3x.gem/README.md) | research.3x hood | completed |
 | [research.3x.grk](../bbugyi200.apollo.research.3x.grk/README.md) | research.3x hood | active |
 | [research.3x.image](../bbugyi200.apollo.research.3x.image/README.md) | research.3x hood | waiting |
 | [research.3x.linker](../bbugyi200.apollo.research.3x.linker/README.md) | research.3x hood | waiting |
