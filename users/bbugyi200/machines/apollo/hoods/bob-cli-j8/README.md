@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-j8
 
-**Global hood:** `bbugyi200.apollo.bob-cli-j8` · **Runs:** 32 · **Sessions:** 6 · **States:** active 3, completed 18, failed 1, waiting 10
+**Global hood:** `bbugyi200.apollo.bob-cli-j8` · **Runs:** 32 · **Sessions:** 6 · **States:** active 3, completed 19, failed 1, waiting 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bob-cli-j8.6.1.3](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.3/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261109151629 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.3/prompt.md) |
+| [bob-cli-j8.6.1.3](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.3/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-09T23:23:41.701184+00:00 → 2026-11-09T23:56:57.134825+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.3/chat.md) |
 | [bob-cli-j8.3--gate](../../../../../../sessions/bbugyi200.apollo.bob-cli-j8.3.md#member-gate) | completed | gpt-6-astra / codex | 2026-11-09T18:50:01.800093+00:00 → 2026-11-09T18:50:19.150604+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.3--gate/chat.md) |
 | [bob-cli-j8.2--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-j8.2.md#member-code) | completed | sonnet / claude | 2026-11-09T18:50:56.744089+00:00 → 2026-11-09T20:06:48.790261+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.2--code/chat.md) |
 | [bob-cli-j8.1--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-j8.1.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-11-09T17:20:55.302508+00:00 → 2026-11-09T18:42:30.561685+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.1--code/chat.md) |
