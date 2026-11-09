@@ -25,5 +25,5 @@
 |---|---|---|
 | [bob-cli-j0.1](../bbugyi200.apollo.bob-cli-j0.1/README.md) | bob-cli-j0 hood | completed |
 | [bob-cli-j0.2](../bbugyi200.apollo.bob-cli-j0.2/README.md) | bob-cli-j0 hood | completed |
-| [bob-cli-j0.4](../bbugyi200.apollo.bob-cli-j0.4/README.md) | bob-cli-j0 hood | active |
+| [bob-cli-j0.4](../bbugyi200.apollo.bob-cli-j0.4/README.md) | bob-cli-j0 hood | completed |
 | [bob-cli-j0.land](../bbugyi200.apollo.bob-cli-j0.land/README.md) | bob-cli-j0 hood | waiting |
