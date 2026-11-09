@@ -12,11 +12,17 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-11-09T12:32:03.181895+00:00 → 2026-11-09T13:29:22.633072+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c09e2bc`](https://github.com/bobs-org/bob-cli/commit/c09e2bcd6538e90c56030374900550a1d6053817) | fix(capture): agree Record Card completion with keyboard acceptance | 2026-11-09 08:28:34 EST |
 
 ## Neighbors
 
@@ -28,7 +34,7 @@
 | [bob-cli-ir.10.1.3](../bbugyi200.athena.bob-cli-ir.10.1.3/README.md) | bob-cli-ir.10.1 hood | completed |
 | [bob-cli-ir.10.1.4](../../sessions/bbugyi200.athena.bob-cli-ir.10.1.4.md) (session · 5) | bob-cli-ir.10.1 hood | completed 4, failed 1 |
 | [bob-cli-ir.1](../bbugyi200.athena.bob-cli-ir.1/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.11](../../sessions/bbugyi200.athena.bob-cli-ir.11.md) (session · 3) | bob-cli-ir hood | active 2, completed 1 |
+| [bob-cli-ir.11](../../sessions/bbugyi200.athena.bob-cli-ir.11.md) (session · 5) | bob-cli-ir hood | completed 4, failed 1 |
 | [bob-cli-ir.12](../bbugyi200.athena.bob-cli-ir.12/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.13](../bbugyi200.athena.bob-cli-ir.13/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.2](../../sessions/bbugyi200.athena.bob-cli-ir.2.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |

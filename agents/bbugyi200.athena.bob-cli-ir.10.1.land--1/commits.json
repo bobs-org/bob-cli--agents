@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a4588ea60a93f0f20748e203a39deabe"}
+{"commits":[{"committed_at":1794233410,"sha":"eded3b9ca680244939ec9c69a71dac7484e4b683","subject":"fix(capture): keep Record Return through last-field analysis"}],"schema_version":2,"source_run_id":"run-a4588ea60a93f0f20748e203a39deabe"}

@@ -29,6 +29,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-j4.1](bbugyi200.athena.bob-cli-j4.1.md) (session · 3) | bob-cli-j4 hood | completed 3 |
 | [bob-cli-j4.2](bbugyi200.athena.bob-cli-j4.2.md) (session · 3) | bob-cli-j4 hood | completed 3 |
-| [bob-cli-j4.4](../agents/bbugyi200.athena.bob-cli-j4.4/README.md) | bob-cli-j4 hood | waiting |
+| [bob-cli-j4.4](bbugyi200.athena.bob-cli-j4.4.md) (session · 3) | bob-cli-j4 hood | completed 3 |
 | [bob-cli-j4.5](../agents/bbugyi200.athena.bob-cli-j4.5/README.md) | bob-cli-j4 hood | waiting |
 | [bob-cli-j4.land](../agents/bbugyi200.athena.bob-cli-j4.land/README.md) | bob-cli-j4 hood | waiting |
