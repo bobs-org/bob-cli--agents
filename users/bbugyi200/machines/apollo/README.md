@@ -380,7 +380,7 @@
 | [bob-cli-iq](hoods/bob-cli-iq/README.md) | 10 | 2 | completed 9, waiting 1 |
 | [bob-cli-is](hoods/bob-cli-is/README.md) | 29 | 3 | completed 21, failed 8 |
 | [bob-cli-iu](hoods/bob-cli-iu/README.md) | 13 | 2 | completed 11, failed 2 |
-| [bob-cli-ix](hoods/bob-cli-ix/README.md) | 17 | 4 | completed 15, failed 2 |
+| [bob-cli-ix](hoods/bob-cli-ix/README.md) | 17 | 4 | active 2, completed 13, failed 2 |
 | [bob-cli-j](hoods/bob-cli-j/README.md) | 2 | 0 | completed 2 |
 | [bob-cli-j0](hoods/bob-cli-j0/README.md) | 7 | 1 | completed 7 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 1 | 0 | completed 1 |
@@ -422,7 +422,7 @@
 | [home-2](hoods/home-2/README.md) | 6 | 0 | completed 6 |
 | [jr](hoods/jr/README.md) | 2 | 0 | completed 2 |
 | [m3](hoods/m3/README.md) | 1 | 0 | completed 1 |
-| [research](hoods/research/README.md) | 845 | 41 | active 595, completed 194, dismissed 1, failed 40, waiting 15 |
+| [research](hoods/research/README.md) | 845 | 41 | active 593, completed 197, dismissed 1, failed 40, waiting 14 |
 | [research\_swarm](hoods/research_swarm/README.md) | 1 | 0 | completed 1 |
 | [sase-51](hoods/sase-51/README.md) | 1 | 0 | completed 1 |
 | [sase-60](hoods/sase-60/README.md) | 1 | 0 | completed 1 |

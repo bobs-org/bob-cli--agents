@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3x.final
 
-**Global name:** `bbugyi200.apollo.research.3x.final` · **State:** waiting · **Source run:** `run-777549494eb9acbd7bdb775a435c1eeb`
+**Global name:** `bbugyi200.apollo.research.3x.final` · **State:** completed · **Source run:** `run-777549494eb9acbd7bdb775a435c1eeb`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,27 +10,27 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261109102736
+- Timing: 2026-11-09T15:52:13.984996+00:00 → 2026-11-09T16:17:55.157781+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
 | Variable | Value |
 |---|---|
-| `artifacts` | \[{kind: markdown, label: research:202611/bob\_notebooks/bob\_notebooks\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109102736/bob\_notebooks\_\_final-5e92c0e3b8c3.md, ref:… |
+| `artifacts` | \[{kind: markdown, label: research:202611/bob\_notebooks/bob\_notebooks\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109102736/bob\_notebooks\_\_final-e4cfd5953aa8.md, ref:… |
 
 #### artifacts
 
 ```yaml
 - kind: markdown
   label: research:202611/bob_notebooks/bob_notebooks__final.md
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109102736/bob_notebooks__final-5e92c0e3b8c3.md
-  ref: file:explicit:686dde24657a873ec8bd6899
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109102736/bob_notebooks__final-e4cfd5953aa8.md
+  ref: file:explicit:b25b767069a2c080298bf2cf
   source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/bob_notebooks/bob_notebooks__final.md
 ```
 
