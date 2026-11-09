@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-j5](../../users/bbugyi200/machines/athena/hoods/bob-cli-j5/README.md) / [bob-cli-j5.2.1.land](../../sessions/bbugyi200.athena.bob-cli-j5.2.1.land.md) / bob-cli-j5.2.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-j5.2.1.land--code` · **State:** active · **Source run:** `run-aa2b1dbf5609f4f6f6d930721cb4de0b`
+**Global name:** `bbugyi200.athena.bob-cli-j5.2.1.land--code` · **State:** completed · **Source run:** `run-aa2b1dbf5609f4f6f6d930721cb4de0b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-j5
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-j5.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j5/bob-cli-j5.2.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-09T20:28:33.541420+00:00
-- Commits: 0
+- Timing: 2026-11-09T20:28:33.541420+00:00 → 2026-11-09T21:07:10.291469+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`2455d9d`](https://github.com/bobs-org/bob-cli/commit/2455d9dbcaaa67936cf9b1eaaa8e842cd409422b) | fix(archive): repair guarded landing validation | 2026-11-09 16:06:02 EST |
 
 ## Neighbors
 
