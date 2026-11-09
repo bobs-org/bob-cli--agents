@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-j8](../../users/bbugyi200/machines/apollo/hoods/bob-cli-j8/README.md) / bob-cli-j8.7
 
-**Global name:** `bbugyi200.apollo.bob-cli-j8.7` · **State:** waiting · **Source run:** `run-c055bf225e2516f7280fb39a302087f2`
+**Global name:** `bbugyi200.apollo.bob-cli-j8.7` · **State:** completed · **Source run:** `run-c055bf225e2516f7280fb39a302087f2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-j8
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-j8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j8/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20261109121216
+- Timing: 2026-11-09T20:06:59.189484+00:00 → 2026-11-09T20:32:25.388603+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

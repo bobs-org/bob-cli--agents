@@ -37,7 +37,7 @@
 | [bob-cli-j8.3.1.land](../bbugyi200.apollo.bob-cli-j8.3.1.land/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.4](../bbugyi200.apollo.bob-cli-j8.4/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.5](../bbugyi200.apollo.bob-cli-j8.5/README.md) | bob-cli-j8 hood | waiting |
-| [bob-cli-j8.7](../bbugyi200.apollo.bob-cli-j8.7/README.md) | bob-cli-j8 hood | waiting |
+| [bob-cli-j8.7](../bbugyi200.apollo.bob-cli-j8.7/README.md) | bob-cli-j8 hood | completed |
 | [bob-cli-j8.8](../bbugyi200.apollo.bob-cli-j8.8/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.9](../bbugyi200.apollo.bob-cli-j8.9/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.land](../bbugyi200.apollo.bob-cli-j8.land/README.md) | bob-cli-j8 hood | waiting |
