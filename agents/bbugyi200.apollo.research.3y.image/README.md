@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3y.image
 
-**Global name:** `bbugyi200.apollo.research.3y.image` · **State:** waiting · **Source run:** `run-9bda0372091901e6d61a07edc657b52f`
+**Global name:** `bbugyi200.apollo.research.3y.image` · **State:** completed · **Source run:** `run-9bda0372091901e6d61a07edc657b52f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261109110053
+- Timing: 2026-11-09T16:42:44.675614+00:00 → 2026-11-09T16:52:00.673031+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/capture\_alias\_typing\_tips/capture\_alias\_typing\_tips\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109110053/capture\_alias\_typi… |
+| `diagrams` | {considered: 17, count: 1, manifest: 202611/capture\_alias\_typing\_tips/capture\_alias\_typing\_tips.diagrams.md, source\_ref: file:explicit:7d645c9c107d3389e2802068, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/capture_alias_typing_tips/capture_alias_typing_tips_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109110053/capture_alias_typing_tips_infographic-b09e48405714.png
+  ref: file:explicit:48a472bd6c4197771fe5f025
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/capture_alias_typing_tips/capture_alias_typing_tips_infographic.png
+- kind: markdown
+  label: diagrams:202611/capture_alias_typing_tips/capture_alias_typing_tips.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109110053/capture_alias_typing_tips.diagrams-f33e91fcbb95.md
+  ref: file:explicit:567fcc15194fc0ce18f79bef
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/capture_alias_typing_tips/capture_alias_typing_tips.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 17
+count: 1
+manifest: 202611/capture_alias_typing_tips/capture_alias_typing_tips.diagrams.md
+source_ref: file:explicit:7d645c9c107d3389e2802068
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
