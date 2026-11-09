@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-ir` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ir.land--plan [active]"]
+  n0["bob-cli-ir.land--plan [completed]"]
   n1["bob-cli-ir.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-ir.land--code [active]"]
+  n2["bob-cli-ir.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-ir.land--plan | active | opus / claude | 2026-11-09T18:38:17.226778+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ir.land--plan | completed | opus / claude | 2026-11-09T18:38:17.226778+00:00 → 2026-11-09T19:46:20.576865+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ir.land--gate | completed | opus / claude | 2026-11-09T19:13:09.211886+00:00 → 2026-11-09T19:13:55.588332+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ir.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-ir.land--code | active | grok-4.6 / grok | 2026-11-09T19:14:30.187702+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-ir.land--code | completed | grok-4.6 / grok | 2026-11-09T19:14:30.187702+00:00 → 2026-11-09T19:46:20.576865+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ir.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-ir.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`d7b339d`](https://github.com/bobs-org/bob-cli/commit/d7b339d0c0f76fb35dc907d065bc684ea6738f26) | fix(records): insert a blank line before a new named update section | 2026-11-09 14:43:59 EST |
 
 ## Neighbors
 
