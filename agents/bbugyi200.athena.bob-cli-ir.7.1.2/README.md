@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.7.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.7.1.2` · **State:** waiting · **Source run:** `run-823e12616cdc13a63717e2301182e0b2`
+**Global name:** `bbugyi200.athena.bob-cli-ir.7.1.2` · **State:** completed · **Source run:** `run-823e12616cdc13a63717e2301182e0b2`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ir.7.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.7.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261109024850
-- Commits: 0
+- Timing: 2026-11-09T08:17:42.454028+00:00 → 2026-11-09T09:24:30.335295+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`1264176`](https://github.com/bobs-org/bob-cli/commit/126417682efc6774a8257e6abef6c638d6e24fb7) | feat(capture): parse existing record updates | 2026-11-09 04:19:04 EST |
 
 ## Neighbors
 
