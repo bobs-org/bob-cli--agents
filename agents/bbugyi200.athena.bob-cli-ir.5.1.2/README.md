@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.5.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.5.1.2` · **State:** waiting · **Source run:** `run-47069d69960716061614fc17a8d5b581`
+**Global name:** `bbugyi200.athena.bob-cli-ir.5.1.2` · **State:** completed · **Source run:** `run-47069d69960716061614fc17a8d5b581`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ir.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.5.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261108182734
-- Commits: 0
+- Timing: 2026-11-09T00:58:27.248602+00:00 → 2026-11-09T01:53:14.464770+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`4c97ed4`](https://github.com/bobs-org/bob-cli/commit/4c97ed416f3cc8fa066353a34d52d7757b845009) | feat(capture): resolve record metadata and expose targets | 2026-11-08 20:52:30 EST |
 
 ## Neighbors
 

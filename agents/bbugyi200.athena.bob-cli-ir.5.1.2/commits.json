@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-47069d69960716061614fc17a8d5b581"}
+{"commits":[{"committed_at":1794189150,"sha":"4c97ed416f3cc8fa066353a34d52d7757b845009","subject":"feat(capture): resolve record metadata and expose targets"}],"schema_version":2,"source_run_id":"run-47069d69960716061614fc17a8d5b581"}
