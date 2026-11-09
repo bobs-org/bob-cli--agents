@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.7.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.7.1.1` · **State:** active · **Source run:** `run-bf0966c9bfb628c61dc0619e12fb36f4`
+**Global name:** `bbugyi200.athena.bob-cli-ir.7.1.1` · **State:** completed · **Source run:** `run-bf0966c9bfb628c61dc0619e12fb36f4`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ir.7.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.7.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-09T07:49:46.516005+00:00
-- Commits: 0
+- Timing: 2026-11-09T07:49:46.516005+00:00 → 2026-11-09T08:17:16.193116+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8cc4a75`](https://github.com/bobs-org/bob-cli/commit/8cc4a754ef194cc89d6e0f5df66c5fc8d3e31378) | feat(records): add shared plan update target resolution over byte-preserving edit | 2026-11-09 03:16:39 EST |
 
 ## Neighbors
 
@@ -35,6 +41,7 @@
 | [bob-cli-ir.10.1.2](../bbugyi200.athena.bob-cli-ir.10.1.2/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.10.1.3](../bbugyi200.athena.bob-cli-ir.10.1.3/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.10.1.4](../bbugyi200.athena.bob-cli-ir.10.1.4/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.10.1.land](../bbugyi200.athena.bob-cli-ir.10.1.land/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.11](../bbugyi200.athena.bob-cli-ir.11/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.12](../bbugyi200.athena.bob-cli-ir.12/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.13](../bbugyi200.athena.bob-cli-ir.13/README.md) | bob-cli-ir hood | waiting |

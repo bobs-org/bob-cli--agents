@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ir.7.1.1](../bbugyi200.athena.bob-cli-ir.7.1.1/README.md) | descendant | active |
+| [bob-cli-ir.7.1.1](../bbugyi200.athena.bob-cli-ir.7.1.1/README.md) | descendant | completed |
 | [bob-cli-ir.7.1.2](../bbugyi200.athena.bob-cli-ir.7.1.2/README.md) | descendant | waiting |
 | [bob-cli-ir.7.1.3](../bbugyi200.athena.bob-cli-ir.7.1.3/README.md) | descendant | waiting |
 | [bob-cli-ir.7.1.4](../bbugyi200.athena.bob-cli-ir.7.1.4/README.md) | descendant | waiting |
@@ -35,6 +35,7 @@
 | [bob-cli-ir.10.1.2](../bbugyi200.athena.bob-cli-ir.10.1.2/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.10.1.3](../bbugyi200.athena.bob-cli-ir.10.1.3/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.10.1.4](../bbugyi200.athena.bob-cli-ir.10.1.4/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.10.1.land](../bbugyi200.athena.bob-cli-ir.10.1.land/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.11](../bbugyi200.athena.bob-cli-ir.11/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.12](../bbugyi200.athena.bob-cli-ir.12/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.13](../bbugyi200.athena.bob-cli-ir.13/README.md) | bob-cli-ir hood | waiting |
