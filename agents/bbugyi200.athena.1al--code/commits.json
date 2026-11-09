@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794253169,"sha":"93d67df48b53864b5ea43de90b71feec3386c72f","subject":"fix(install): start failure excerpts at the first real compiler error"}],"schema_version":2,"source_run_id":"run-d97a701cd0ae01fbf3b76246c4d70c3b"}
