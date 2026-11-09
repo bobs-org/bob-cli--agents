@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.3
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.3` · **State:** waiting · **Source run:** `run-3514e74e4c16303fc243d387b795a9be`
+**Global name:** `bbugyi200.athena.bob-cli-ir.3` · **State:** completed · **Source run:** `run-3514e74e4c16303fc243d387b795a9be`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ir](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261108110802
-- Commits: 0
+- Timing: 2026-11-08T23:16:13.447217+00:00 → 2026-11-09T00:04:59.952327+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`3e68a53`](https://github.com/bobs-org/bob-cli/commit/3e68a53acd5c75feaf4f26fb6dab206f2a1a84aa) | feat(records): add records CLI and docs | 2026-11-08 19:04:25 EST |
 
 ## Neighbors
 
@@ -36,7 +42,12 @@
 | [bob-cli-ir.2.1.land](../../sessions/bbugyi200.athena.bob-cli-ir.2.1.land.md) (session · 3) | bob-cli-ir hood | completed 3 |
 | [bob-cli-ir.2.1.land](../bbugyi200.athena.bob-cli-ir.2.1.land/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.4](../bbugyi200.athena.bob-cli-ir.4/README.md) | bob-cli-ir hood | waiting |
-| [bob-cli-ir.5](../../sessions/bbugyi200.athena.bob-cli-ir.5.md) (session · 3) | bob-cli-ir hood | active 2, completed 1 |
+| [bob-cli-ir.5](../../sessions/bbugyi200.athena.bob-cli-ir.5.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |
+| [bob-cli-ir.5.1.1](../bbugyi200.athena.bob-cli-ir.5.1.1/README.md) | bob-cli-ir hood | active |
+| [bob-cli-ir.5.1.2](../bbugyi200.athena.bob-cli-ir.5.1.2/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.5.1.3](../bbugyi200.athena.bob-cli-ir.5.1.3/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.5.1.4](../bbugyi200.athena.bob-cli-ir.5.1.4/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.5.1.land](../bbugyi200.athena.bob-cli-ir.5.1.land/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.6](../bbugyi200.athena.bob-cli-ir.6/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.7](../bbugyi200.athena.bob-cli-ir.7/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.8](../bbugyi200.athena.bob-cli-ir.8/README.md) | bob-cli-ir hood | waiting |

@@ -38,9 +38,14 @@
 | [bob-cli-ir.11](../bbugyi200.athena.bob-cli-ir.11/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.12](../bbugyi200.athena.bob-cli-ir.12/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.13](../bbugyi200.athena.bob-cli-ir.13/README.md) | bob-cli-ir hood | waiting |
-| [bob-cli-ir.3](../bbugyi200.athena.bob-cli-ir.3/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.3](../bbugyi200.athena.bob-cli-ir.3/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.4](../bbugyi200.athena.bob-cli-ir.4/README.md) | bob-cli-ir hood | waiting |
-| [bob-cli-ir.5](../../sessions/bbugyi200.athena.bob-cli-ir.5.md) (session · 3) | bob-cli-ir hood | active 2, completed 1 |
+| [bob-cli-ir.5](../../sessions/bbugyi200.athena.bob-cli-ir.5.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |
+| [bob-cli-ir.5.1.1](../bbugyi200.athena.bob-cli-ir.5.1.1/README.md) | bob-cli-ir hood | active |
+| [bob-cli-ir.5.1.2](../bbugyi200.athena.bob-cli-ir.5.1.2/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.5.1.3](../bbugyi200.athena.bob-cli-ir.5.1.3/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.5.1.4](../bbugyi200.athena.bob-cli-ir.5.1.4/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.5.1.land](../bbugyi200.athena.bob-cli-ir.5.1.land/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.6](../bbugyi200.athena.bob-cli-ir.6/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.7](../bbugyi200.athena.bob-cli-ir.7/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.8](../bbugyi200.athena.bob-cli-ir.8/README.md) | bob-cli-ir hood | waiting |
