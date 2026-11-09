@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-j9.1](../agents/bbugyi200.apollo.bob-cli-j9.1/README.md) | bob-cli-j9 hood | completed |
 | [bob-cli-j9.3](bbugyi200.apollo.bob-cli-j9.3.md) (session · 5) | bob-cli-j9 hood | completed 4, failed 1 |
 | [bob-cli-j9.4](../agents/bbugyi200.apollo.bob-cli-j9.4/README.md) | bob-cli-j9 hood | completed |
-| [bob-cli-j9.land](bbugyi200.apollo.bob-cli-j9.land.md) (session · 3) | bob-cli-j9 hood | active 2, completed 1 |
+| [bob-cli-j9.land](bbugyi200.apollo.bob-cli-j9.land.md) (session · 7) | bob-cli-j9 hood | completed 6, failed 1 |
