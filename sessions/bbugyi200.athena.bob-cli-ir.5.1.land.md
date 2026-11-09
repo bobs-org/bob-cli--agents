@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-ir` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ir.5.1.land--code [active]"]
+  n0["bob-cli-ir.5.1.land--code [completed]"]
   n1["bob-cli-ir.5.1.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-ir.5.1.land--plan [active]"]
+  n2["bob-cli-ir.5.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-ir.5.1.land--code | active | gpt-6-luna / codex | 2026-11-09T04:15:26.974699+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-ir.5.1.land--code | completed | gpt-6-luna / codex | 2026-11-09T04:15:26.974699+00:00 → 2026-11-09T05:32:05.372144+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ir.5.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-ir.5.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ir.5.1.land--gate | completed | gpt-6-astra / codex | 2026-11-09T04:14:25.604557+00:00 → 2026-11-09T04:14:56.887416+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ir.5.1.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ir.5.1.land--plan | active | gpt-6-astra / codex | 2026-11-09T04:00:14.728130+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.5.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.5.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ir.5.1.land--plan | completed | gpt-6-astra / codex | 2026-11-09T04:00:14.728130+00:00 → 2026-11-09T05:32:05.372144+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.5.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.5.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`80c9320`](https://github.com/bobs-org/bob-cli/commit/80c93209aa6857a178beba3ba293755198300848) | fix(capture)!: complete record claiming and preview contracts | 2026-11-09 00:30:51 EST |
 
 ## Neighbors
 

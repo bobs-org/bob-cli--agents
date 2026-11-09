@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / [bob-cli-ir.5.1.land](../../sessions/bbugyi200.athena.bob-cli-ir.5.1.land.md) / bob-cli-ir.5.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.5.1.land--code` · **State:** active · **Source run:** `run-305ac8bd4f13edf61d230bc71e826bb0`
+**Global name:** `bbugyi200.athena.bob-cli-ir.5.1.land--code` · **State:** completed · **Source run:** `run-305ac8bd4f13edf61d230bc71e826bb0`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-ir.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.5.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-09T04:15:26.974699+00:00
-- Commits: 0
+- Timing: 2026-11-09T04:15:26.974699+00:00 → 2026-11-09T05:32:05.372144+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`80c9320`](https://github.com/bobs-org/bob-cli/commit/80c93209aa6857a178beba3ba293755198300848) | fix(capture)!: complete record claiming and preview contracts | 2026-11-09 00:30:51 EST |
 
 ## Neighbors
 
