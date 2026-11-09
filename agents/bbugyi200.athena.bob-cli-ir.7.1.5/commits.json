@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-61b94be660c0c58b1026d61ee105f9a1"}
+{"commits":[{"committed_at":1794221103,"sha":"1c4939b9135043ed99019ce5886799487e0b202c","subject":"feat(records)!: add records update CLI with shell completion"}],"schema_version":2,"source_run_id":"run-61b94be660c0c58b1026d61ee105f9a1"}

@@ -71,7 +71,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-ir.7.1.2](../bbugyi200.athena.bob-cli-ir.7.1.2/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.3](../bbugyi200.athena.bob-cli-ir.7.1.3/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.4](../bbugyi200.athena.bob-cli-ir.7.1.4/README.md) | bob-cli-ir hood | waiting |
-| [bob-cli-ir.7.1.5](../bbugyi200.athena.bob-cli-ir.7.1.5/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.7.1.5](../bbugyi200.athena.bob-cli-ir.7.1.5/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.land](../bbugyi200.athena.bob-cli-ir.7.1.land/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.8](../bbugyi200.athena.bob-cli-ir.8/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.9](../bbugyi200.athena.bob-cli-ir.9/README.md) | bob-cli-ir hood | waiting |
