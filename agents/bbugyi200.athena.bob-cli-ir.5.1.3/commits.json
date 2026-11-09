@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-f2934e1d16e22066e7faf6edbda00eac"}
+{"commits":[{"committed_at":1794192545,"sha":"f2561f962f5f91392d9721e094ac71f31e6832b3","subject":"feat(capture): create record notes through the capture transaction"}],"schema_version":2,"source_run_id":"run-f2934e1d16e22066e7faf6edbda00eac"}
