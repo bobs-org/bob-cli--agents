@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / apollo
 
-**Project:** bob-cli · **Hoods:** 431 · **Runs:** 4077
+**Project:** bob-cli · **Hoods:** 431 · **Runs:** 4079
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -276,11 +276,11 @@
 | [bob-cli-2g](hoods/bob-cli-2g/README.md) | 10 | 1 | completed 1, dismissed 8, failed 1 |
 | [bob-cli-2h](hoods/bob-cli-2h/README.md) | 8 | 1 | completed 1, dismissed 7 |
 | [bob-cli-2k](hoods/bob-cli-2k/README.md) | 8 | 1 | completed 1, dismissed 7 |
-| [bob-cli-2n](hoods/bob-cli-2n/README.md) | 13 | 2 | active 12, completed 1 |
-| [bob-cli-2o](hoods/bob-cli-2o/README.md) | 24 | 3 | active 23, completed 1 |
-| [bob-cli-2p](hoods/bob-cli-2p/README.md) | 10 | 2 | active 9, completed 1 |
-| [bob-cli-2r](hoods/bob-cli-2r/README.md) | 9 | 2 | active 8, completed 1 |
-| [bob-cli-2s](hoods/bob-cli-2s/README.md) | 4 | 0 | active 4 |
+| [bob-cli-2n](hoods/bob-cli-2n/README.md) | 13 | 2 | completed 1, dismissed 12 |
+| [bob-cli-2o](hoods/bob-cli-2o/README.md) | 24 | 3 | completed 1, dismissed 23 |
+| [bob-cli-2p](hoods/bob-cli-2p/README.md) | 10 | 2 | completed 1, dismissed 9 |
+| [bob-cli-2r](hoods/bob-cli-2r/README.md) | 9 | 2 | completed 1, dismissed 8 |
+| [bob-cli-2s](hoods/bob-cli-2s/README.md) | 4 | 0 | dismissed 4 |
 | [bob-cli-2v](hoods/bob-cli-2v/README.md) | 10 | 2 | active 9, completed 1 |
 | [bob-cli-2w](hoods/bob-cli-2w/README.md) | 1 | 0 | completed 1 |
 | [bob-cli-2y](hoods/bob-cli-2y/README.md) | 19 | 2 | active 18, completed 1 |
@@ -384,7 +384,7 @@
 | [bob-cli-j](hoods/bob-cli-j/README.md) | 2 | 0 | completed 2 |
 | [bob-cli-j0](hoods/bob-cli-j0/README.md) | 7 | 1 | completed 7 |
 | [bob-cli-j8](hoods/bob-cli-j8/README.md) | 22 | 3 | active 4, completed 6, waiting 12 |
-| [bob-cli-j9](hoods/bob-cli-j9/README.md) | 8 | 2 | active 1, completed 4, failed 1, waiting 2 |
+| [bob-cli-j9](hoods/bob-cli-j9/README.md) | 10 | 2 | active 1, completed 5, failed 2, waiting 2 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 1 | 0 | completed 1 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 1 | 0 | completed 1 |
 | [bob-cli-t](hoods/bob-cli-t/README.md) | 2 | 0 | completed 2 |
