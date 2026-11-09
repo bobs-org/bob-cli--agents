@@ -58,7 +58,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ir.2.1.land](../agents/bbugyi200.athena.bob-cli-ir.2.1.land/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.3](../agents/bbugyi200.athena.bob-cli-ir.3/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.4](../agents/bbugyi200.athena.bob-cli-ir.4/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.6](bbugyi200.athena.bob-cli-ir.6.md) (session · 3) | bob-cli-ir hood | active 2, completed 1 |
+| [bob-cli-ir.6](bbugyi200.athena.bob-cli-ir.6.md) (session · 7) | bob-cli-ir hood | completed 6, failed 1 |
 | [bob-cli-ir.7](../agents/bbugyi200.athena.bob-cli-ir.7/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.8](../agents/bbugyi200.athena.bob-cli-ir.8/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.9](../agents/bbugyi200.athena.bob-cli-ir.9/README.md) | bob-cli-ir hood | waiting |
