@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b6ba7c3`](https://github.com/bobs-org/bob-cli/commit/b6ba7c3387675e9723e416acbbc0c08543137ca0) | docs(readme): document blocked display-only overlay field | 2026-10-09 07:25:33 EDT |
+| — | `b6ba7c3` | docs(readme): document blocked display-only overlay field | 2026-10-09 07:25:33 EDT |
 
 ## Neighbors
 
@@ -31,10 +31,10 @@
 |---|---|---|
 | [bob-cli-5s.1](../bbugyi200.apollo.bob-cli-5s.1/README.md) | bob-cli-5s hood | completed |
 | [bob-cli-5s.10.1](../bbugyi200.apollo.bob-cli-5s.10.1/README.md) | bob-cli-5s hood | completed |
-| [bob-cli-5s.10.2](../bbugyi200.apollo.bob-cli-5s.10.2/README.md) | bob-cli-5s hood | active |
-| [bob-cli-5s.10.3](../bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s hood | waiting |
-| [bob-cli-5s.10.4](../bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s hood | active |
-| [bob-cli-5s.10.land](../bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s hood | waiting |
+| [bob-cli-5s.10.2](../bbugyi200.apollo.bob-cli-5s.10.2/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.3](../bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.4](../bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.land](../bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s hood | dismissed |
 | [bob-cli-5s.2](../../sessions/bbugyi200.apollo.bob-cli-5s.2.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.3](../../sessions/bbugyi200.apollo.bob-cli-5s.3.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.4](../bbugyi200.apollo.bob-cli-5s.4/README.md) | bob-cli-5s hood | completed |

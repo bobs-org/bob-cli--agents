@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-55](../../users/bbugyi200/machines/apollo/hoods/bob-cli-55/README.md) / bob-cli-55.land
 
-**Global name:** `bbugyi200.apollo.bob-cli-55.land` · **State:** active · **Source run:** `run-490f9c8bd834c3caef0d49749f312546`
+**Global name:** `bbugyi200.apollo.bob-cli-55.land` · **State:** dismissed · **Source run:** `run-490f9c8bd834c3caef0d49749f312546`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-55
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-55](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-55/README.md)
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 2026-10-07T14:16:59.626280+00:00
+- Timing: 2026-10-07T10:16:59.626280 → 2026-10-07T10:30:26.616462
 - Commits: 0
 
 ## Files

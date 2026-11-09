@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`092e098`](https://github.com/bobs-org/bob-cli/commit/092e09811da83c7447bb101fd734b5d8f1c9edb5) | docs(memory): rename RETURNED lane to TICKLER and add review-footer term | 2026-10-07 10:15:48 EDT |
+| — | `092e098` | docs(memory): rename RETURNED lane to TICKLER and add review-footer term | 2026-10-07 10:15:48 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [bob-cli-55.1](../bbugyi200.apollo.bob-cli-55.1/README.md) | bob-cli-55 hood | completed |
 | [bob-cli-55.2](../bbugyi200.apollo.bob-cli-55.2/README.md) | bob-cli-55 hood | completed |
-| [bob-cli-55.land](../bbugyi200.apollo.bob-cli-55.land/README.md) | bob-cli-55 hood | active |
+| [bob-cli-55.land](../bbugyi200.apollo.bob-cli-55.land/README.md) | bob-cli-55 hood | dismissed |

@@ -23,16 +23,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b566ba4`](https://github.com/bobs-org/bob-cli/commit/b566ba4431b97df6405a75babe9d17899bae7eea) | fix(refs): polish blocked field, drop stray .build, finish ref.md contract | 2026-10-09 08:37:58 EDT |
+| — | `b566ba4` | fix(refs): polish blocked field, drop stray .build, finish ref.md contract | 2026-10-09 08:37:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-5s.10.2](../bbugyi200.apollo.bob-cli-5s.10.2/README.md) | bob-cli-5s.10 hood | active |
-| [bob-cli-5s.10.3](../bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s.10 hood | waiting |
-| [bob-cli-5s.10.4](../bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s.10 hood | active |
-| [bob-cli-5s.10.land](../bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s.10 hood | waiting |
+| [bob-cli-5s.10.2](../bbugyi200.apollo.bob-cli-5s.10.2/README.md) | bob-cli-5s.10 hood | dismissed |
+| [bob-cli-5s.10.3](../bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s.10 hood | dismissed |
+| [bob-cli-5s.10.4](../bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s.10 hood | dismissed |
+| [bob-cli-5s.10.land](../bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s.10 hood | dismissed |
 | [bob-cli-5s.1](../bbugyi200.apollo.bob-cli-5s.1/README.md) | bob-cli-5s hood | completed |
 | [bob-cli-5s.2](../../sessions/bbugyi200.apollo.bob-cli-5s.2.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.3](../../sessions/bbugyi200.apollo.bob-cli-5s.3.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |

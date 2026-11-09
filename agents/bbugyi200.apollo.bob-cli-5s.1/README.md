@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4c9cdbe`](https://github.com/bobs-org/bob-cli/commit/4c9cdbe583770f6fa487be18af6615f259e3bf01) | feat(refs): expose Blocked as always-present boolean on ref rows | 2026-10-08 20:18:06 EDT |
+| — | `4c9cdbe` | feat(refs): expose Blocked as always-present boolean on ref rows | 2026-10-08 20:18:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5s.10.1](../bbugyi200.apollo.bob-cli-5s.10.1/README.md) | bob-cli-5s hood | completed |
-| [bob-cli-5s.10.2](../bbugyi200.apollo.bob-cli-5s.10.2/README.md) | bob-cli-5s hood | active |
-| [bob-cli-5s.10.3](../bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s hood | waiting |
-| [bob-cli-5s.10.4](../bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s hood | active |
-| [bob-cli-5s.10.land](../bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s hood | waiting |
+| [bob-cli-5s.10.2](../bbugyi200.apollo.bob-cli-5s.10.2/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.3](../bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.4](../bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.land](../bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s hood | dismissed |
 | [bob-cli-5s.2](../../sessions/bbugyi200.apollo.bob-cli-5s.2.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.3](../../sessions/bbugyi200.apollo.bob-cli-5s.3.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.4](../bbugyi200.apollo.bob-cli-5s.4/README.md) | bob-cli-5s hood | completed |

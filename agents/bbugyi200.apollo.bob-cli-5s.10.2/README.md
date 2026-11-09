@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-5s](../../users/bbugyi200/machines/apollo/hoods/bob-cli-5s/README.md) / bob-cli-5s.10.2
 
-**Global name:** `bbugyi200.apollo.bob-cli-5s.10.2` · **State:** active · **Source run:** `run-4a9f9ba6ca5e7d98f453c51608085fba`
+**Global name:** `bbugyi200.apollo.bob-cli-5s.10.2` · **State:** dismissed · **Source run:** `run-4a9f9ba6ca5e7d98f453c51608085fba`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-5s
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-5s.10](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5s/bob-cli-5s.10.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-09T12:05:53.861020+00:00
+- Timing: 2026-10-09T08:05:53.861020 → 2026-10-09T08:54:36.806995
 - Commits: 0
 
 ## Files
@@ -24,9 +24,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5s.10.1](../bbugyi200.apollo.bob-cli-5s.10.1/README.md) | bob-cli-5s.10 hood | completed |
-| [bob-cli-5s.10.3](../bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s.10 hood | waiting |
-| [bob-cli-5s.10.4](../bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s.10 hood | active |
-| [bob-cli-5s.10.land](../bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s.10 hood | waiting |
+| [bob-cli-5s.10.3](../bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s.10 hood | dismissed |
+| [bob-cli-5s.10.4](../bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s.10 hood | dismissed |
+| [bob-cli-5s.10.land](../bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s.10 hood | dismissed |
 | [bob-cli-5s.1](../bbugyi200.apollo.bob-cli-5s.1/README.md) | bob-cli-5s hood | completed |
 | [bob-cli-5s.2](../../sessions/bbugyi200.apollo.bob-cli-5s.2.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.3](../../sessions/bbugyi200.apollo.bob-cli-5s.3.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |

@@ -25,4 +25,4 @@
 |---|---|---|
 | [bob-cli-55.1](../bbugyi200.apollo.bob-cli-55.1/README.md) | bob-cli-55 hood | completed |
 | [bob-cli-55.3](../bbugyi200.apollo.bob-cli-55.3/README.md) | bob-cli-55 hood | completed |
-| [bob-cli-55.land](../bbugyi200.apollo.bob-cli-55.land/README.md) | bob-cli-55 hood | active |
+| [bob-cli-55.land](../bbugyi200.apollo.bob-cli-55.land/README.md) | bob-cli-55 hood | dismissed |

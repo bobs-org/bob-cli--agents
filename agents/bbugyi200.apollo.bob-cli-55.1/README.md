@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e5d12ca`](https://github.com/bobs-org/bob-cli/commit/e5d12ca4407baca64a859f89402d2d245dea5582) | feat(freshness): rename Returned walk tier to Tickler, schema 10 | 2026-10-07 10:08:58 EDT |
+| — | `e5d12ca` | feat(freshness): rename Returned walk tier to Tickler, schema 10 | 2026-10-07 10:08:58 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [bob-cli-55.2](../bbugyi200.apollo.bob-cli-55.2/README.md) | bob-cli-55 hood | completed |
 | [bob-cli-55.3](../bbugyi200.apollo.bob-cli-55.3/README.md) | bob-cli-55 hood | completed |
-| [bob-cli-55.land](../bbugyi200.apollo.bob-cli-55.land/README.md) | bob-cli-55 hood | active |
+| [bob-cli-55.land](../bbugyi200.apollo.bob-cli-55.land/README.md) | bob-cli-55 hood | dismissed |

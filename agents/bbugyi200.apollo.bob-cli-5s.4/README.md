@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a4c69ff`](https://github.com/bobs-org/bob-cli/commit/a4c69ff8964d85d4340682af9e4a11d8253eb049) | chore(build): record Swift build cache from RefsCore verification | 2026-10-09 01:19:19 EDT |
+| — | `a4c69ff` | chore(build): record Swift build cache from RefsCore verification | 2026-10-09 01:19:19 EDT |
 
 ## Neighbors
 
@@ -31,10 +31,10 @@
 |---|---|---|
 | [bob-cli-5s.1](../bbugyi200.apollo.bob-cli-5s.1/README.md) | bob-cli-5s hood | completed |
 | [bob-cli-5s.10.1](../bbugyi200.apollo.bob-cli-5s.10.1/README.md) | bob-cli-5s hood | completed |
-| [bob-cli-5s.10.2](../bbugyi200.apollo.bob-cli-5s.10.2/README.md) | bob-cli-5s hood | active |
-| [bob-cli-5s.10.3](../bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s hood | waiting |
-| [bob-cli-5s.10.4](../bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s hood | active |
-| [bob-cli-5s.10.land](../bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s hood | waiting |
+| [bob-cli-5s.10.2](../bbugyi200.apollo.bob-cli-5s.10.2/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.3](../bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.4](../bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.land](../bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s hood | dismissed |
 | [bob-cli-5s.2](../../sessions/bbugyi200.apollo.bob-cli-5s.2.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.3](../../sessions/bbugyi200.apollo.bob-cli-5s.3.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.5](../../sessions/bbugyi200.apollo.bob-cli-5s.5.md) (session · 9) | bob-cli-5s hood | completed 5, failed 4 |

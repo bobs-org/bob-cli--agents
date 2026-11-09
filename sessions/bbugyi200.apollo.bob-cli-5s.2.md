@@ -29,10 +29,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-5s.1](../agents/bbugyi200.apollo.bob-cli-5s.1/README.md) | bob-cli-5s hood | completed |
 | [bob-cli-5s.10.1](../agents/bbugyi200.apollo.bob-cli-5s.10.1/README.md) | bob-cli-5s hood | completed |
-| [bob-cli-5s.10.2](../agents/bbugyi200.apollo.bob-cli-5s.10.2/README.md) | bob-cli-5s hood | active |
-| [bob-cli-5s.10.3](../agents/bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s hood | waiting |
-| [bob-cli-5s.10.4](../agents/bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s hood | active |
-| [bob-cli-5s.10.land](../agents/bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s hood | waiting |
+| [bob-cli-5s.10.2](../agents/bbugyi200.apollo.bob-cli-5s.10.2/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.3](../agents/bbugyi200.apollo.bob-cli-5s.10.3/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.4](../agents/bbugyi200.apollo.bob-cli-5s.10.4/README.md) | bob-cli-5s hood | dismissed |
+| [bob-cli-5s.10.land](../agents/bbugyi200.apollo.bob-cli-5s.10.land/README.md) | bob-cli-5s hood | dismissed |
 | [bob-cli-5s.3](bbugyi200.apollo.bob-cli-5s.3.md) (session · 3) | bob-cli-5s hood | completed 2, failed 1 |
 | [bob-cli-5s.4](../agents/bbugyi200.apollo.bob-cli-5s.4/README.md) | bob-cli-5s hood | completed |
 | [bob-cli-5s.5](bbugyi200.apollo.bob-cli-5s.5.md) (session · 9) | bob-cli-5s hood | completed 5, failed 4 |

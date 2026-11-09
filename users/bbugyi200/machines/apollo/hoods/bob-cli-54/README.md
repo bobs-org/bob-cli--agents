@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-54
 
-**Global hood:** `bbugyi200.apollo.bob-cli-54` · **Runs:** 6 · **Sessions:** 1 · **States:** active 1, completed 4, failed 1
+**Global hood:** `bbugyi200.apollo.bob-cli-54` · **Runs:** 6 · **Sessions:** 1 · **States:** completed 4, dismissed 1, failed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bob-cli-54.land--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-54.land.md#member-plan) | active | grok-4.7 / grok | 2026-10-07T14:06:58.935151+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-54.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-54.land--plan/prompt.md) |
+| [bob-cli-54.land--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-54.land.md#member-plan) | dismissed | grok-4.7 / grok | 2026-10-07T10:06:58.935151 → 2026-10-07T10:39:53.275870 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-54.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-54.land--plan/prompt.md) |
 | [bob-cli-54.3](../../../../../../agents/bbugyi200.apollo.bob-cli-54.3/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-07T13:46:18.417628+00:00 → 2026-10-07T14:06:24.929240+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-54.3/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-54.3/prompt.md) |
 | [bob-cli-54.2](../../../../../../agents/bbugyi200.apollo.bob-cli-54.2/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-07T13:35:20.250909+00:00 → 2026-10-07T13:46:02.905348+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-54.2/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-54.2/prompt.md) |
 | [bob-cli-54.1](../../../../../../agents/bbugyi200.apollo.bob-cli-54.1/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-07T13:23:02.706288+00:00 → 2026-10-07T13:34:52.633754+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-54.1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-54.1/prompt.md) |
