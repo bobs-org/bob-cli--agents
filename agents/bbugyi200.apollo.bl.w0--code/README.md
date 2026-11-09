@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c33fc08`](https://github.com/bobs-org/bob-cli/commit/c33fc08696456060704830ae4d281fa5a56eb622) | feat(gcal): refresh the Events stamp on every new-minute sync | 2026-10-31 10:38:00 EDT |
+| — | `c33fc08` | feat(gcal): refresh the Events stamp on every new-minute sync | 2026-10-31 10:38:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bl](../../sessions/bbugyi200.apollo.bl.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bl](../../sessions/bbugyi200.apollo.bl.md) (session · 3) | ancestor | completed 2, dismissed 1 |

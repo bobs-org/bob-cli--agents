@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5e2d085`](https://github.com/bobs-org/bob-cli/commit/5e2d0856f3539fb632d418c6c1da3761cc3655dd) | docs: Alt+N inbox routing and due-row walk advance (nav 2.63.0) | 2026-10-31 10:43:29 EDT |
+| — | `5e2d085` | docs: Alt+N inbox routing and due-row walk advance (nav 2.63.0) | 2026-10-31 10:43:29 EDT |

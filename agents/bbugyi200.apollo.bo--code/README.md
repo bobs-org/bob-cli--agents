@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`061824f`](https://github.com/bobs-org/bob-cli/commit/061824f8928be73e7756311a370fb508a05da1c5) | feat(pomodoro-homes): label home chips by root parent | 2026-10-31 11:23:18 EDT |
+| — | `061824f` | feat(pomodoro-homes): label home chips by root parent | 2026-10-31 11:23:18 EDT |

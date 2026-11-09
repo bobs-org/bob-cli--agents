@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e9c62ae`](https://github.com/bobs-org/bob-cli/commit/e9c62aeb9c89310b0337bc8c92083addca6bae31) | feat(gcal): link new Event Tasks under MEET by phase | 2026-10-30 22:25:55 EDT |
+| — | `e9c62ae` | feat(gcal): link new Event Tasks under MEET by phase | 2026-10-30 22:25:55 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bl.w0](../../sessions/bbugyi200.apollo.bl.w0.md) (session · 3) | descendant | active 1, completed 2 |
+| [bl.w0](../../sessions/bbugyi200.apollo.bl.w0.md) (session · 3) | descendant | completed 2, dismissed 1 |
