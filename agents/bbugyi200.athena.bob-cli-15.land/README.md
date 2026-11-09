@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-15](../../users/bbugyi200/machines/athena/hoods/bob-cli-15/README.md) / bob-cli-15.land
 
-**Global name:** `bbugyi200.athena.bob-cli-15.land` · **State:** waiting · **Source run:** `run-8fa664fd678b55d049fa91c217c6a204`
+**Global name:** `bbugyi200.athena.bob-cli-15.land` · **State:** dismissed · **Source run:** `run-8fa664fd678b55d049fa91c217c6a204`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-15
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-15](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-15/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20260826082037
+- Timing: 2026-08-26T08:20:37
 - Commits: 0
 
 ## Files
@@ -28,4 +28,4 @@
 | [bob-cli-15.4](../bbugyi200.athena.bob-cli-15.4/README.md) | bob-cli-15 hood | completed |
 | [bob-cli-15.5](../bbugyi200.athena.bob-cli-15.5/README.md) | bob-cli-15 hood | completed |
 | [bob-cli-15.6](../bbugyi200.athena.bob-cli-15.6/README.md) | bob-cli-15 hood | completed |
-| [bob-cli-15.7](../bbugyi200.athena.bob-cli-15.7/README.md) | bob-cli-15 hood | active |
+| [bob-cli-15.7](../bbugyi200.athena.bob-cli-15.7/README.md) | bob-cli-15 hood | dismissed |

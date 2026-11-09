@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-16](../../users/bbugyi200/machines/athena/hoods/bob-cli-16/README.md) / bob-cli-16.1
 
-**Global name:** `bbugyi200.athena.bob-cli-16.1` · **State:** active · **Source run:** `run-7a15e1c34adb0a68b6b327f248a01a7f`
+**Global name:** `bbugyi200.athena.bob-cli-16.1` · **State:** dismissed · **Source run:** `run-7a15e1c34adb0a68b6b327f248a01a7f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-16
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-16](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-16/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-26T14:05:24.977918+00:00
+- Timing: 2026-08-26T10:04:48
 - Commits: 0
 
 ## Files
@@ -23,6 +23,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-16.2](../bbugyi200.athena.bob-cli-16.2/README.md) | bob-cli-16 hood | active |
-| [bob-cli-16.3](../bbugyi200.athena.bob-cli-16.3/README.md) | bob-cli-16 hood | active |
-| [bob-cli-16.land](../bbugyi200.athena.bob-cli-16.land/README.md) | bob-cli-16 hood | active |
+| [bob-cli-16.2](../bbugyi200.athena.bob-cli-16.2/README.md) | bob-cli-16 hood | dismissed |
+| [bob-cli-16.3](../bbugyi200.athena.bob-cli-16.3/README.md) | bob-cli-16 hood | dismissed |
+| [bob-cli-16.land](../bbugyi200.athena.bob-cli-16.land/README.md) | bob-cli-16 hood | dismissed |
