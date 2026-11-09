@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-j8.3.1.1](../../sessions/bbugyi200.apollo.bob-cli-j8.3.1.1.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [bob-cli-j8.3.1.1](../../sessions/bbugyi200.apollo.bob-cli-j8.3.1.1.md) (session · 3) | descendant | completed 2, failed 1 |
 | [bob-cli-j8.3.1.2](../bbugyi200.apollo.bob-cli-j8.3.1.2/README.md) | descendant | waiting |
 | [bob-cli-j8.3.1.3](../bbugyi200.apollo.bob-cli-j8.3.1.3/README.md) | descendant | waiting |
 | [bob-cli-j8.3.1.4](../bbugyi200.apollo.bob-cli-j8.3.1.4/README.md) | descendant | waiting |
@@ -34,7 +34,7 @@
 | [bob-cli-j8.4](../bbugyi200.apollo.bob-cli-j8.4/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.5](../bbugyi200.apollo.bob-cli-j8.5/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.6](../../sessions/bbugyi200.apollo.bob-cli-j8.6.md) (session · 3) | bob-cli-j8 hood | active 1, completed 2 |
-| [bob-cli-j8.6.1.1](../bbugyi200.apollo.bob-cli-j8.6.1.1/README.md) | bob-cli-j8 hood | active |
+| [bob-cli-j8.6.1.1](../../sessions/bbugyi200.apollo.bob-cli-j8.6.1.1.md) (session · 2) | bob-cli-j8 hood | active 1, completed 1 |
 | [bob-cli-j8.6.1.2](../bbugyi200.apollo.bob-cli-j8.6.1.2/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.6.1.3](../bbugyi200.apollo.bob-cli-j8.6.1.3/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.6.1.land](../bbugyi200.apollo.bob-cli-j8.6.1.land/README.md) | bob-cli-j8 hood | active |
