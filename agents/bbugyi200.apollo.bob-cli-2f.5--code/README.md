@@ -23,21 +23,21 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2307179`](https://github.com/bobs-org/bob-cli/commit/2307179cd17439fc6bb2a14eecbc842189ab0199) | refactor(dataview): split query module into cohesive submodules | 2026-09-28 19:08:56 EDT |
+| — | `2307179` | refactor(dataview): split query module into cohesive submodules | 2026-09-28 19:08:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2f.1](../../sessions/bbugyi200.apollo.bob-cli-2f.1.md) (session · 3) | bob-cli-2f hood | active 2, completed 1 |
-| [bob-cli-2f.10](../../sessions/bbugyi200.apollo.bob-cli-2f.10.md) (session · 3) | bob-cli-2f hood | active 2, completed 1 |
-| [bob-cli-2f.2](../../sessions/bbugyi200.apollo.bob-cli-2f.2.md) (session · 3) | bob-cli-2f hood | active 2, completed 1 |
-| [bob-cli-2f.3](../../sessions/bbugyi200.apollo.bob-cli-2f.3.md) (session · 3) | bob-cli-2f hood | active 2, completed 1 |
+| [bob-cli-2f.1](../../sessions/bbugyi200.apollo.bob-cli-2f.1.md) (session · 3) | bob-cli-2f hood | completed 1, dismissed 2 |
+| [bob-cli-2f.10](../../sessions/bbugyi200.apollo.bob-cli-2f.10.md) (session · 3) | bob-cli-2f hood | completed 1, dismissed 2 |
+| [bob-cli-2f.2](../../sessions/bbugyi200.apollo.bob-cli-2f.2.md) (session · 3) | bob-cli-2f hood | completed 1, dismissed 2 |
+| [bob-cli-2f.3](../../sessions/bbugyi200.apollo.bob-cli-2f.3.md) (session · 3) | bob-cli-2f hood | completed 1, dismissed 2 |
 | [bob-cli-2f.3.w0](../bbugyi200.apollo.bob-cli-2f.3.w0/README.md) | bob-cli-2f hood | active |
-| [bob-cli-2f.3.w1](../../sessions/bbugyi200.apollo.bob-cli-2f.3.w1.md) (session · 3) | bob-cli-2f hood | active 1, failed 2 |
-| [bob-cli-2f.4](../../sessions/bbugyi200.apollo.bob-cli-2f.4.md) (session · 3) | bob-cli-2f hood | active 2, completed 1 |
-| [bob-cli-2f.6](../../sessions/bbugyi200.apollo.bob-cli-2f.6.md) (session · 3) | bob-cli-2f hood | active 2, completed 1 |
-| [bob-cli-2f.7](../../sessions/bbugyi200.apollo.bob-cli-2f.7.md) (session · 3) | bob-cli-2f hood | active 2, completed 1 |
-| [bob-cli-2f.8](../../sessions/bbugyi200.apollo.bob-cli-2f.8.md) (session · 3) | bob-cli-2f hood | active 2, completed 1 |
-| [bob-cli-2f.9](../../sessions/bbugyi200.apollo.bob-cli-2f.9.md) (session · 3) | bob-cli-2f hood | active 2, completed 1 |
-| [bob-cli-2f.land](../bbugyi200.apollo.bob-cli-2f.land/README.md) | bob-cli-2f hood | active |
+| [bob-cli-2f.3.w1](../../sessions/bbugyi200.apollo.bob-cli-2f.3.w1.md) (session · 3) | bob-cli-2f hood | dismissed 1, failed 2 |
+| [bob-cli-2f.4](../../sessions/bbugyi200.apollo.bob-cli-2f.4.md) (session · 3) | bob-cli-2f hood | completed 1, dismissed 2 |
+| [bob-cli-2f.6](../../sessions/bbugyi200.apollo.bob-cli-2f.6.md) (session · 3) | bob-cli-2f hood | completed 1, dismissed 2 |
+| [bob-cli-2f.7](../../sessions/bbugyi200.apollo.bob-cli-2f.7.md) (session · 3) | bob-cli-2f hood | completed 1, dismissed 2 |
+| [bob-cli-2f.8](../../sessions/bbugyi200.apollo.bob-cli-2f.8.md) (session · 3) | bob-cli-2f hood | completed 1, dismissed 2 |
+| [bob-cli-2f.9](../../sessions/bbugyi200.apollo.bob-cli-2f.9.md) (session · 3) | bob-cli-2f hood | completed 1, dismissed 2 |
+| [bob-cli-2f.land](../bbugyi200.apollo.bob-cli-2f.land/README.md) | bob-cli-2f hood | dismissed |

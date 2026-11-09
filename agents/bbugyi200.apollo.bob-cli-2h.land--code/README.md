@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ad8616e`](https://github.com/bobs-org/bob-cli/commit/ad8616eca05ff6c9decb91779df8d6f9e6af4174) | fix(capture): report Bob's real block-ID character rule for @route: | 2026-09-29 11:53:01 EDT |
+| — | `ad8616e` | fix(capture): report Bob's real block-ID character rule for @route: | 2026-09-29 11:53:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2h.1](../bbugyi200.apollo.bob-cli-2h.1/README.md) | bob-cli-2h hood | active |
-| [bob-cli-2h.2](../bbugyi200.apollo.bob-cli-2h.2/README.md) | bob-cli-2h hood | active |
-| [bob-cli-2h.3](../bbugyi200.apollo.bob-cli-2h.3/README.md) | bob-cli-2h hood | active |
-| [bob-cli-2h.4](../bbugyi200.apollo.bob-cli-2h.4/README.md) | bob-cli-2h hood | active |
-| [bob-cli-2h.5](../bbugyi200.apollo.bob-cli-2h.5/README.md) | bob-cli-2h hood | active |
+| [bob-cli-2h.1](../bbugyi200.apollo.bob-cli-2h.1/README.md) | bob-cli-2h hood | dismissed |
+| [bob-cli-2h.2](../bbugyi200.apollo.bob-cli-2h.2/README.md) | bob-cli-2h hood | dismissed |
+| [bob-cli-2h.3](../bbugyi200.apollo.bob-cli-2h.3/README.md) | bob-cli-2h hood | dismissed |
+| [bob-cli-2h.4](../bbugyi200.apollo.bob-cli-2h.4/README.md) | bob-cli-2h hood | dismissed |
+| [bob-cli-2h.5](../bbugyi200.apollo.bob-cli-2h.5/README.md) | bob-cli-2h hood | dismissed |

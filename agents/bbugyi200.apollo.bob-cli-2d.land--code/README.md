@@ -22,16 +22,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d0c1692`](https://github.com/bobs-org/bob-cli/commit/d0c1692c111f2691d35c53a402a38af62591b918) | fix(gkeep): land closeout defects for bob-cli-2d | 2026-09-28 15:53:07 EDT |
+| — | `d0c1692` | fix(gkeep): land closeout defects for bob-cli-2d | 2026-09-28 15:53:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2d.1](../bbugyi200.apollo.bob-cli-2d.1/README.md) | bob-cli-2d hood | active |
-| [bob-cli-2d.2](../bbugyi200.apollo.bob-cli-2d.2/README.md) | bob-cli-2d hood | active |
-| [bob-cli-2d.3](../bbugyi200.apollo.bob-cli-2d.3/README.md) | bob-cli-2d hood | active |
-| [bob-cli-2d.4](../bbugyi200.apollo.bob-cli-2d.4/README.md) | bob-cli-2d hood | active |
-| [bob-cli-2d.5](../bbugyi200.apollo.bob-cli-2d.5/README.md) | bob-cli-2d hood | active |
-| [bob-cli-2d.6](../bbugyi200.apollo.bob-cli-2d.6/README.md) | bob-cli-2d hood | active |
-| [bob-cli-2d.7](../bbugyi200.apollo.bob-cli-2d.7/README.md) | bob-cli-2d hood | active |
+| [bob-cli-2d.1](../bbugyi200.apollo.bob-cli-2d.1/README.md) | bob-cli-2d hood | dismissed |
+| [bob-cli-2d.2](../bbugyi200.apollo.bob-cli-2d.2/README.md) | bob-cli-2d hood | dismissed |
+| [bob-cli-2d.3](../bbugyi200.apollo.bob-cli-2d.3/README.md) | bob-cli-2d hood | dismissed |
+| [bob-cli-2d.4](../bbugyi200.apollo.bob-cli-2d.4/README.md) | bob-cli-2d hood | dismissed |
+| [bob-cli-2d.5](../bbugyi200.apollo.bob-cli-2d.5/README.md) | bob-cli-2d hood | dismissed |
+| [bob-cli-2d.6](../bbugyi200.apollo.bob-cli-2d.6/README.md) | bob-cli-2d hood | dismissed |
+| [bob-cli-2d.7](../bbugyi200.apollo.bob-cli-2d.7/README.md) | bob-cli-2d hood | dismissed |
