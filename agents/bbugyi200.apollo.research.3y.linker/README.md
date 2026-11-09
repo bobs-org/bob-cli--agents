@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3y.linker
 
-**Global name:** `bbugyi200.apollo.research.3y.linker` · **State:** waiting · **Source run:** `run-657625b9e2f43685c747adb62edb1514`
+**Global name:** `bbugyi200.apollo.research.3y.linker` · **State:** completed · **Source run:** `run-657625b9e2f43685c747adb62edb1514`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261109110054
+- Timing: 2026-11-09T16:52:09.310393+00:00 → 2026-11-09T16:59:59.915024+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/capture\_alias\_typing\_tips/capture\_alias\_typing\_tips.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109110054/capture\_alias\_typing\_tips… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/capture_alias_typing_tips/capture_alias_typing_tips.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109110054/capture_alias_typing_tips-fd041c783add.md
+  ref: file:explicit:8d209f7670ab061f45ce8fb3
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/capture_alias_typing_tips/capture_alias_typing_tips.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
