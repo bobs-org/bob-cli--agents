@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-29](../../users/bbugyi200/machines/apollo/hoods/bob-cli-29/README.md) / bob-cli-29.6.land
 
-**Global name:** `bbugyi200.apollo.bob-cli-29.6.land` · **State:** active · **Source run:** `run-71abe5de2ee94b3070800152140462b3`
+**Global name:** `bbugyi200.apollo.bob-cli-29.6.land` · **State:** dismissed · **Source run:** `run-71abe5de2ee94b3070800152140462b3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-29
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-29.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-29/bob-cli-29.6.md)
 - Model: gpt-6-sol
 - Provider: codex
-- Timing: 2026-09-28T14:13:40.169037+00:00
+- Timing: 2026-09-28T10:13:40.169037 → 2026-09-28T10:21:28.035111
 - Commits: 0
 
 ## Files
@@ -22,11 +22,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-29.6.1](../bbugyi200.apollo.bob-cli-29.6.1/README.md) | bob-cli-29.6 hood | active |
-| [bob-cli-29.6.2](../bbugyi200.apollo.bob-cli-29.6.2/README.md) | bob-cli-29.6 hood | active |
-| [bob-cli-29.1](../bbugyi200.apollo.bob-cli-29.1/README.md) | bob-cli-29 hood | active |
-| [bob-cli-29.2](../../sessions/bbugyi200.apollo.bob-cli-29.2.md) (session · 5) | bob-cli-29 hood | active 5 |
-| [bob-cli-29.3](../bbugyi200.apollo.bob-cli-29.3/README.md) | bob-cli-29 hood | active |
-| [bob-cli-29.4](../bbugyi200.apollo.bob-cli-29.4/README.md) | bob-cli-29 hood | active |
-| [bob-cli-29.5](../bbugyi200.apollo.bob-cli-29.5/README.md) | bob-cli-29 hood | active |
-| [bob-cli-29.land](../../sessions/bbugyi200.apollo.bob-cli-29.land.md) (session · 3) | bob-cli-29 hood | active 3 |
+| [bob-cli-29.6.1](../bbugyi200.apollo.bob-cli-29.6.1/README.md) | bob-cli-29.6 hood | dismissed |
+| [bob-cli-29.6.2](../bbugyi200.apollo.bob-cli-29.6.2/README.md) | bob-cli-29.6 hood | dismissed |
+| [bob-cli-29.1](../bbugyi200.apollo.bob-cli-29.1/README.md) | bob-cli-29 hood | dismissed |
+| [bob-cli-29.2](../../sessions/bbugyi200.apollo.bob-cli-29.2.md) (session · 5) | bob-cli-29 hood | dismissed 5 |
+| [bob-cli-29.3](../bbugyi200.apollo.bob-cli-29.3/README.md) | bob-cli-29 hood | dismissed |
+| [bob-cli-29.4](../bbugyi200.apollo.bob-cli-29.4/README.md) | bob-cli-29 hood | dismissed |
+| [bob-cli-29.5](../bbugyi200.apollo.bob-cli-29.5/README.md) | bob-cli-29 hood | dismissed |
+| [bob-cli-29.land](../../sessions/bbugyi200.apollo.bob-cli-29.land.md) (session · 3) | bob-cli-29 hood | dismissed 3 |

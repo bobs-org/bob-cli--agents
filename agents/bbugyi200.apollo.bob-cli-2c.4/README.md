@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-2c](../../users/bbugyi200/machines/apollo/hoods/bob-cli-2c/README.md) / bob-cli-2c.4
 
-**Global name:** `bbugyi200.apollo.bob-cli-2c.4` · **State:** active · **Source run:** `run-632e3678990b70ee09c2ff8fdb6a4c38`
+**Global name:** `bbugyi200.apollo.bob-cli-2c.4` · **State:** dismissed · **Source run:** `run-632e3678990b70ee09c2ff8fdb6a4c38`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-2c
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-2c](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-2c/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-28T17:15:56.767797+00:00
+- Timing: 2026-09-28T13:15:56.767797 → 2026-09-28T13:53:45.961621
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2c.1](../bbugyi200.apollo.bob-cli-2c.1/README.md) | bob-cli-2c hood | active |
-| [bob-cli-2c.2](../bbugyi200.apollo.bob-cli-2c.2/README.md) | bob-cli-2c hood | active |
-| [bob-cli-2c.3](../bbugyi200.apollo.bob-cli-2c.3/README.md) | bob-cli-2c hood | active |
-| [bob-cli-2c.land](../../sessions/bbugyi200.apollo.bob-cli-2c.land.md) (session · 5) | bob-cli-2c hood | active 3, completed 1, failed 1 |
+| [bob-cli-2c.1](../bbugyi200.apollo.bob-cli-2c.1/README.md) | bob-cli-2c hood | dismissed |
+| [bob-cli-2c.2](../bbugyi200.apollo.bob-cli-2c.2/README.md) | bob-cli-2c hood | dismissed |
+| [bob-cli-2c.3](../bbugyi200.apollo.bob-cli-2c.3/README.md) | bob-cli-2c hood | dismissed |
+| [bob-cli-2c.land](../../sessions/bbugyi200.apollo.bob-cli-2c.land.md) (session · 5) | bob-cli-2c hood | completed 1, dismissed 3, failed 1 |

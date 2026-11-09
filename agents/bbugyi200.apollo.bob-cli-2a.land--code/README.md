@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b10b45e`](https://github.com/bobs-org/bob-cli/commit/b10b45ec8eb91e66d2d121d7a10f688bc6fb0954) | docs(capture): fix shift example bare -- to --1 | 2026-09-28 12:03:36 EDT |
+| — | `b10b45e` | docs(capture): fix shift example bare -- to --1 | 2026-09-28 12:03:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2a.1](../bbugyi200.apollo.bob-cli-2a.1/README.md) | bob-cli-2a hood | active |
-| [bob-cli-2a.2](../bbugyi200.apollo.bob-cli-2a.2/README.md) | bob-cli-2a hood | active |
-| [bob-cli-2a.3](../bbugyi200.apollo.bob-cli-2a.3/README.md) | bob-cli-2a hood | active |
+| [bob-cli-2a.1](../bbugyi200.apollo.bob-cli-2a.1/README.md) | bob-cli-2a hood | dismissed |
+| [bob-cli-2a.2](../bbugyi200.apollo.bob-cli-2a.2/README.md) | bob-cli-2a hood | dismissed |
+| [bob-cli-2a.3](../bbugyi200.apollo.bob-cli-2a.3/README.md) | bob-cli-2a hood | dismissed |

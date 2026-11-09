@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2c.1](../bbugyi200.apollo.bob-cli-2c.1/README.md) | bob-cli-2c hood | active |
-| [bob-cli-2c.2](../bbugyi200.apollo.bob-cli-2c.2/README.md) | bob-cli-2c hood | active |
-| [bob-cli-2c.3](../bbugyi200.apollo.bob-cli-2c.3/README.md) | bob-cli-2c hood | active |
-| [bob-cli-2c.4](../bbugyi200.apollo.bob-cli-2c.4/README.md) | bob-cli-2c hood | active |
+| [bob-cli-2c.1](../bbugyi200.apollo.bob-cli-2c.1/README.md) | bob-cli-2c hood | dismissed |
+| [bob-cli-2c.2](../bbugyi200.apollo.bob-cli-2c.2/README.md) | bob-cli-2c hood | dismissed |
+| [bob-cli-2c.3](../bbugyi200.apollo.bob-cli-2c.3/README.md) | bob-cli-2c hood | dismissed |
+| [bob-cli-2c.4](../bbugyi200.apollo.bob-cli-2c.4/README.md) | bob-cli-2c hood | dismissed |

@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8487fe2`](https://github.com/bobs-org/bob-cli/commit/8487fe28dba27ad396b135a87c172b4b54a41a39) | fix(randomize): reject unrepresentable until offsets and priority rolls without wrapping | 2026-09-28 12:30:42 EDT |
+| — | `8487fe2` | fix(randomize): reject unrepresentable until offsets and priority rolls without wrapping | 2026-09-28 12:30:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2b.1](../bbugyi200.apollo.bob-cli-2b.1/README.md) | bob-cli-2b hood | active |
-| [bob-cli-2b.2](../bbugyi200.apollo.bob-cli-2b.2/README.md) | bob-cli-2b hood | active |
-| [bob-cli-2b.3](../bbugyi200.apollo.bob-cli-2b.3/README.md) | bob-cli-2b hood | active |
-| [bob-cli-2b.4](../bbugyi200.apollo.bob-cli-2b.4/README.md) | bob-cli-2b hood | active |
+| [bob-cli-2b.1](../bbugyi200.apollo.bob-cli-2b.1/README.md) | bob-cli-2b hood | dismissed |
+| [bob-cli-2b.2](../bbugyi200.apollo.bob-cli-2b.2/README.md) | bob-cli-2b hood | dismissed |
+| [bob-cli-2b.3](../bbugyi200.apollo.bob-cli-2b.3/README.md) | bob-cli-2b hood | dismissed |
+| [bob-cli-2b.4](../bbugyi200.apollo.bob-cli-2b.4/README.md) | bob-cli-2b hood | dismissed |
