@@ -57,7 +57,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-j5.4](../../sessions/bbugyi200.athena.bob-cli-j5.4.md) (session · 3) | bob-cli-j5 hood | active 1, completed 2 |
 | [bob-cli-j5.4.1.1](../bbugyi200.athena.bob-cli-j5.4.1.1/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.4.1.2](../../sessions/bbugyi200.athena.bob-cli-j5.4.1.2.md) (session · 3) | bob-cli-j5 hood | completed 3 |
-| [bob-cli-j5.4.1.3](../bbugyi200.athena.bob-cli-j5.4.1.3/README.md) | bob-cli-j5 hood | waiting |
+| [bob-cli-j5.4.1.3](../bbugyi200.athena.bob-cli-j5.4.1.3/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.4.1.4](../bbugyi200.athena.bob-cli-j5.4.1.4/README.md) | bob-cli-j5 hood | waiting |
 | [bob-cli-j5.4.1.5](../bbugyi200.athena.bob-cli-j5.4.1.5/README.md) | bob-cli-j5 hood | waiting |
 | [bob-cli-j5.4.1.land](../bbugyi200.athena.bob-cli-j5.4.1.land/README.md) | bob-cli-j5 hood | waiting |
