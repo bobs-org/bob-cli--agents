@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-30840ad53db268c72d1c7df24612b99b"}
+{"commits":[{"committed_at":1794218581,"sha":"9619605252da7e0a67c9172a12bd745c0561cbd1","subject":"feat(capture): write existing record updates transactionally"}],"schema_version":2,"source_run_id":"run-30840ad53db268c72d1c7df24612b99b"}
