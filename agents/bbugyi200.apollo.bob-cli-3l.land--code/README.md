@@ -22,11 +22,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a5224a3`](https://github.com/bobs-org/bob-cli/commit/a5224a3a54ad7f491c7b49530d91355ca2117bbd) | fix(capture): preserve positional Work Log origins for selection-mode unnumbered bullets | 2026-10-02 16:19:01 EDT |
+| — | `a5224a3` | fix(capture): preserve positional Work Log origins for selection-mode unnumbered bullets | 2026-10-02 16:19:01 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-3l.1](../bbugyi200.apollo.bob-cli-3l.1/README.md) | bob-cli-3l hood | active |
-| [bob-cli-3l.2](../bbugyi200.apollo.bob-cli-3l.2/README.md) | bob-cli-3l hood | active |
+| [bob-cli-3l.1](../bbugyi200.apollo.bob-cli-3l.1/README.md) | bob-cli-3l hood | dismissed |
+| [bob-cli-3l.2](../bbugyi200.apollo.bob-cli-3l.2/README.md) | bob-cli-3l hood | dismissed |
