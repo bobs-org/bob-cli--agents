@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3u.final
 
-**Global name:** `bbugyi200.apollo.research.3u.final` · **State:** waiting · **Source run:** `run-8d5a50439e9250894e96939efbe8aa2a`
+**Global name:** `bbugyi200.apollo.research.3u.final` · **State:** completed · **Source run:** `run-8d5a50439e9250894e96939efbe8aa2a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261109070559
+- Timing: 2026-11-09T12:23:03.101210+00:00 → 2026-11-09T12:46:39.897617+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/period\_review\_instructions\_v2/period\_review\_instructions\_v2\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109070559/period\_rev… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/period_review_instructions_v2/period_review_instructions_v2__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109070559/period_review_instructions_v2__final-f13538a7ede0.md
+  ref: file:explicit:cc9a761e79e2ff293c845944
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/period_review_instructions_v2/period_review_instructions_v2__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
