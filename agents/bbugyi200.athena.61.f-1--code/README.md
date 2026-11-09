@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5a22c43`](https://github.com/bobs-org/bob-cli/commit/5a22c435520b852e5be395c52d76e20dfccfa48f) | feat: retire completed task references as struck links | 2026-07-11 17:34:11 EDT |
+| — | `5a22c43` | feat: retire completed task references as struck links | 2026-07-11 17:34:11 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [61](../../sessions/bbugyi200.athena.61.md) (session · 2) | ancestor | active 1, completed 1 |
-| [61.f-0](../../sessions/bbugyi200.athena.61.f-0.md) (session · 2) | 61 hood | active 1, completed 1 |
-| [61.f-2](../../sessions/bbugyi200.athena.61.f-2.md) (session · 2) | 61 hood | active 1, completed 1 |
+| [61](../../sessions/bbugyi200.athena.61.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [61.f-0](../../sessions/bbugyi200.athena.61.f-0.md) (session · 2) | 61 hood | completed 1, dismissed 1 |
+| [61.f-2](../../sessions/bbugyi200.athena.61.f-2.md) (session · 2) | 61 hood | completed 1, dismissed 1 |

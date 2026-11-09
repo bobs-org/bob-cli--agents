@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `61` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["61.f-2 [active]"]
+  n0["61.f-2 [dismissed]"]
   n1["61.f-2--code [completed]"]
   n0 --> n1
 ```
@@ -17,13 +17,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 61.f-2 | active | gpt-5.6-sol / codex | 2026-07-11T21:35:00.485112+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.61.f-2/prompt.md) | [Chat](../agents/bbugyi200.athena.61.f-2/chat.md) |
+| <a id="member-root"></a>root | 61.f-2 | dismissed | gpt-5.6-sol / codex | 2026-07-11T17:35:00.485112 → 2026-07-11T17:49:43.481156 | 0 | [Prompt](../agents/bbugyi200.athena.61.f-2/prompt.md) | [Chat](../agents/bbugyi200.athena.61.f-2/chat.md) |
 | <a id="member-code"></a>code | 61.f-2--code | completed | gpt-5.6-sol / codex | 2026-07-11T21:39:57.208280+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.61.f-2--code/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [61](bbugyi200.athena.61.md) (session · 2) | ancestor | active 1, completed 1 |
-| [61.f-0](bbugyi200.athena.61.f-0.md) (session · 2) | 61 hood | active 1, completed 1 |
-| [61.f-1](bbugyi200.athena.61.f-1.md) (session · 2) | 61 hood | active 1, completed 1 |
+| [61](bbugyi200.athena.61.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [61.f-0](bbugyi200.athena.61.f-0.md) (session · 2) | 61 hood | completed 1, dismissed 1 |
+| [61.f-1](bbugyi200.athena.61.f-1.md) (session · 2) | 61 hood | completed 1, dismissed 1 |

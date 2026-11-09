@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `61` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["61.f-1 [active]"]
+  n0["61.f-1 [dismissed]"]
   n1["61.f-1--code [completed]"]
   n0 --> n1
 ```
@@ -17,19 +17,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 61.f-1 | active | gpt-5.6-sol / codex | 2026-07-11T21:14:49.587453+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.61.f-1/prompt.md) | [Chat](../agents/bbugyi200.athena.61.f-1/chat.md) |
+| <a id="member-root"></a>root | 61.f-1 | dismissed | gpt-5.6-sol / codex | 2026-07-11T17:14:49.587453 → 2026-07-11T17:34:50.490564 | 0 | [Prompt](../agents/bbugyi200.athena.61.f-1/prompt.md) | [Chat](../agents/bbugyi200.athena.61.f-1/chat.md) |
 | <a id="member-code"></a>code | 61.f-1--code | completed | gpt-5.6-sol / codex | 2026-07-11T21:20:10.348802+00:00 | [1](../agents/bbugyi200.athena.61.f-1--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.61.f-1--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`5a22c43`](https://github.com/bobs-org/bob-cli/commit/5a22c435520b852e5be395c52d76e20dfccfa48f) | feat: retire completed task references as struck links | 2026-07-11 17:34:11 EDT |
+| code | — | `5a22c43` | feat: retire completed task references as struck links | 2026-07-11 17:34:11 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [61](bbugyi200.athena.61.md) (session · 2) | ancestor | active 1, completed 1 |
-| [61.f-0](bbugyi200.athena.61.f-0.md) (session · 2) | 61 hood | active 1, completed 1 |
-| [61.f-2](bbugyi200.athena.61.f-2.md) (session · 2) | 61 hood | active 1, completed 1 |
+| [61](bbugyi200.athena.61.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [61.f-0](bbugyi200.athena.61.f-0.md) (session · 2) | 61 hood | completed 1, dismissed 1 |
+| [61.f-2](bbugyi200.athena.61.f-2.md) (session · 2) | 61 hood | completed 1, dismissed 1 |

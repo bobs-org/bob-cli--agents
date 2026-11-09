@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [61](../../users/bbugyi200/machines/athena/hoods/61/README.md) / [61.f-0](../../sessions/bbugyi200.athena.61.f-0.md) / 61.f-0
 
-**Global name:** `bbugyi200.athena.61.f-0` · **State:** active · **Source run:** `run-18fd3a59ba7f8a794ff7259b5c4060f3`
+**Global name:** `bbugyi200.athena.61.f-0` · **State:** dismissed · **Source run:** `run-18fd3a59ba7f8a794ff7259b5c4060f3`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 61
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-11T20:26:39.118250+00:00
+- Timing: 2026-07-11T16:26:39.118250 → 2026-07-11T17:14:43.479338
 - Commits: 0
 
 ## Files
@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [61](../../sessions/bbugyi200.athena.61.md) (session · 2) | ancestor | active 1, completed 1 |
-| [61.f-1](../../sessions/bbugyi200.athena.61.f-1.md) (session · 2) | 61 hood | active 1, completed 1 |
-| [61.f-2](../../sessions/bbugyi200.athena.61.f-2.md) (session · 2) | 61 hood | active 1, completed 1 |
+| [61](../../sessions/bbugyi200.athena.61.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [61.f-1](../../sessions/bbugyi200.athena.61.f-1.md) (session · 2) | 61 hood | completed 1, dismissed 1 |
+| [61.f-2](../../sessions/bbugyi200.athena.61.f-2.md) (session · 2) | 61 hood | completed 1, dismissed 1 |

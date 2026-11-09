@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2677dea`](https://github.com/bobs-org/bob-cli/commit/2677dea6c80297ab5ef4f48b1097f1d4542e4ef8) | feat(mark-next): follow transcluded task dependencies | 2026-07-11 16:25:56 EDT |
+| — | `2677dea` | feat(mark-next): follow transcluded task dependencies | 2026-07-11 16:25:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [61.f-0](../../sessions/bbugyi200.athena.61.f-0.md) (session · 2) | descendant | active 1, completed 1 |
-| [61.f-1](../../sessions/bbugyi200.athena.61.f-1.md) (session · 2) | descendant | active 1, completed 1 |
-| [61.f-2](../../sessions/bbugyi200.athena.61.f-2.md) (session · 2) | descendant | active 1, completed 1 |
+| [61.f-0](../../sessions/bbugyi200.athena.61.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [61.f-1](../../sessions/bbugyi200.athena.61.f-1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [61.f-2](../../sessions/bbugyi200.athena.61.f-2.md) (session · 2) | descendant | completed 1, dismissed 1 |
