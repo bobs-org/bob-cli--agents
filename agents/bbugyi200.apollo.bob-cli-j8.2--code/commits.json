@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-12956a6afa29b091e02366f285c1cd6d"}
+{"commits":[{"committed_at":1794254758,"sha":"55468bffc8f5bbbbb5f7b2440c8cfbd9f1d32452","subject":"feat(notebooks): generate Notebooks catalogs with sync, create, and a nightly step"}],"schema_version":2,"source_run_id":"run-12956a6afa29b091e02366f285c1cd6d"}

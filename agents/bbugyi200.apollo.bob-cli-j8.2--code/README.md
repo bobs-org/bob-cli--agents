@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-j8](../../users/bbugyi200/machines/apollo/hoods/bob-cli-j8/README.md) / [bob-cli-j8.2](../../sessions/bbugyi200.apollo.bob-cli-j8.2.md) / bob-cli-j8.2--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-j8.2--code` · **State:** active · **Source run:** `run-12956a6afa29b091e02366f285c1cd6d`
+**Global name:** `bbugyi200.apollo.bob-cli-j8.2--code` · **State:** completed · **Source run:** `run-12956a6afa29b091e02366f285c1cd6d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-j8
 
@@ -12,8 +12,18 @@
 - Epic: [bob-cli-j8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j8/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-11-09T18:50:56.744089+00:00
-- Commits: 0
+- Timing: 2026-11-09T18:50:56.744089+00:00 → 2026-11-09T20:06:48.790261+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`55468bf`](https://github.com/bobs-org/bob-cli/commit/55468bffc8f5bbbbb5f7b2440c8cfbd9f1d32452) | feat(notebooks): generate Notebooks catalogs with sync, create, and a nightly step | 2026-11-09 15:05:58 EST |
 
 ## Neighbors
 
@@ -22,7 +32,7 @@
 | [bob-cli-j8.1](../../sessions/bbugyi200.apollo.bob-cli-j8.1.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.10](../bbugyi200.apollo.bob-cli-j8.10/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.3](../../sessions/bbugyi200.apollo.bob-cli-j8.3.md) (session · 3) | bob-cli-j8 hood | active 1, completed 2 |
-| [bob-cli-j8.3.1.1](../bbugyi200.apollo.bob-cli-j8.3.1.1/README.md) | bob-cli-j8 hood | active |
+| [bob-cli-j8.3.1.1](../../sessions/bbugyi200.apollo.bob-cli-j8.3.1.1.md) (session · 3) | bob-cli-j8 hood | active 1, completed 1, failed 1 |
 | [bob-cli-j8.3.1.2](../bbugyi200.apollo.bob-cli-j8.3.1.2/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.3.1.3](../bbugyi200.apollo.bob-cli-j8.3.1.3/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.3.1.4](../bbugyi200.apollo.bob-cli-j8.3.1.4/README.md) | bob-cli-j8 hood | waiting |

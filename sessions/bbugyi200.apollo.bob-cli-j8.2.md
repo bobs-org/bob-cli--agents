@@ -8,8 +8,8 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-j8` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-j8.2--code [active]"]
-  n1["bob-cli-j8.2--plan [active]"]
+  n0["bob-cli-j8.2--code [completed]"]
+  n1["bob-cli-j8.2--plan [completed]"]
   n0 --> n1
   n2["bob-cli-j8.2--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-j8.2--code | active | sonnet / claude | 2026-11-09T18:50:56.744089+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-j8.2--plan | active | gpt-6-astra / codex | 2026-11-09T18:42:36.200645+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.2--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-j8.2--code | completed | sonnet / claude | 2026-11-09T18:50:56.744089+00:00 → 2026-11-09T20:06:48.790261+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-j8.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.2--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-j8.2--plan | completed | gpt-6-astra / codex | 2026-11-09T18:42:36.200645+00:00 → 2026-11-09T20:06:48.790261+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.2--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-j8.2--gate | completed | gpt-6-astra / codex | 2026-11-09T18:50:32.840198+00:00 → 2026-11-09T18:50:43.212172+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.2--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`55468bf`](https://github.com/bobs-org/bob-cli/commit/55468bffc8f5bbbbb5f7b2440c8cfbd9f1d32452) | feat(notebooks): generate Notebooks catalogs with sync, create, and a nightly step | 2026-11-09 15:05:58 EST |
 
 ## Neighbors
 
@@ -30,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-j8.1](bbugyi200.apollo.bob-cli-j8.1.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.10](../agents/bbugyi200.apollo.bob-cli-j8.10/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.3](bbugyi200.apollo.bob-cli-j8.3.md) (session · 3) | bob-cli-j8 hood | active 1, completed 2 |
-| [bob-cli-j8.3.1.1](../agents/bbugyi200.apollo.bob-cli-j8.3.1.1/README.md) | bob-cli-j8 hood | active |
+| [bob-cli-j8.3.1.1](bbugyi200.apollo.bob-cli-j8.3.1.1.md) (session · 3) | bob-cli-j8 hood | active 1, completed 1, failed 1 |
 | [bob-cli-j8.3.1.2](../agents/bbugyi200.apollo.bob-cli-j8.3.1.2/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.3.1.3](../agents/bbugyi200.apollo.bob-cli-j8.3.1.3/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.3.1.4](../agents/bbugyi200.apollo.bob-cli-j8.3.1.4/README.md) | bob-cli-j8 hood | waiting |
