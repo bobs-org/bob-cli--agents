@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-4l.land--gate-0 [failed]"]
   n1["bob-cli-4l.land--1 [active]"]
   n0 --> n1
-  n2["bob-cli-4l.land--plan [active]"]
+  n2["bob-cli-4l.land--plan [dismissed]"]
   n0 --> n2
   n3["bob-cli-4l.land--gate [failed]"]
   n0 --> n3
@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate-0"></a>gate-0 | bob-cli-4l.land--gate-0 | failed | opus / claude | 2026-10-06T12:22:02.402532+00:00 → 2026-10-06T12:22:10.682264+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-4l.land--gate-0/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-4l.land--1 | active | opus / claude | 2026-10-06T12:12:45.818486+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-4l.land--1/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-4l.land--plan | active | opus / claude | 2026-10-06T12:00:51.570354+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-4l.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-4l.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-4l.land--plan | dismissed | opus / claude | 2026-10-06T08:00:51.570354 → 2026-10-06T08:35:35.888881 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-4l.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-4l.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-4l.land--gate | failed | opus / claude | 2026-10-06T12:12:38.883413+00:00 → 2026-10-06T12:12:42.084202+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-4l.land--gate/chat.md) |
 | <a id="member-code"></a>code | bob-cli-4l.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-06T12:22:14.027433+00:00 → 2026-10-06T12:35:35.850279+00:00 | 0 | — | — |
 
