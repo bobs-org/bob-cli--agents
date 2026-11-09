@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3z.image
 
-**Global name:** `bbugyi200.apollo.research.3z.image` · **State:** waiting · **Source run:** `run-03af1fcf4fb002db2e2589427178872a`
+**Global name:** `bbugyi200.apollo.research.3z.image` · **State:** completed · **Source run:** `run-03af1fcf4fb002db2e2589427178872a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,42 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261109173950
+- Timing: 2026-11-09T23:23:50.233680+00:00 → 2026-11-09T23:31:30.513591+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/private\_notes\_for\_unowned\_gcal\_events/private\_notes\_for\_unowned\_gcal\_events\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/202611091… |
+| `diagrams` | {considered: 23, count: 0, reason: All report sections and five infographic panels were assessed, plus seven additional mechanisms. No candidate survives the non-duplication and relationship tests. S… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/private_notes_for_unowned_gcal_events/private_notes_for_unowned_gcal_events_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109173950/private_notes_for_unowned_gcal_events_infographic-6eb3a6910d43.png
+  ref: file:explicit:4c51b19d281ca568fece751c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/private_notes_for_unowned_gcal_events/private_notes_for_unowned_gcal_events_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 23
+count: 0
+reason: All report sections and five infographic panels were assessed, plus seven additional mechanisms. No candidate survives the non-duplication and relationship tests. S1 (Where does a note live before the Event Task exists?): Duplicates the report's existing private-note data-flow Mermaid figure. S2 (Which event classes benefit from private notes?): The three event classes and their present-day failures are already fully compared in a table. S3 (What does Bob control, and what does Google retain?): The requirement-adjustment table already states all of these ownership boundaries. S4 (Why choose layering over pre-touching or seeding once?): The verdict table already compares every alternative; arrows would invent a decision procedure. S5 (Which source wins for each field?): The precedence table already gives every field's ordered layers and reason/prose rules. S6 (How does sync respond to missing or corrupt notes?): The reliability table already states the corruption guard's full conjunction and response; do not turn it into a diagram. S7 (Why prefer a vault note over the alternatives?): The options table already states verdicts and reasons, with no additional dependency structure. S8 (What must ship before the feature is complete?): The phase table already gives the delivery order and work; a chart would be a short linear chain. S9 (How would phone-first RSVPing change the plan?): One conditional sentence answers it: frequent phone RSVPs move the Keep path earlier. S10 (How does saved intent become an Event Task?): Duplicates the report's existing data-flow Mermaid figure. S11 (Which evidence supports the recommendation?): This is a source list, not a stated evidence-dependency mechanism; arrows would add unsupported relationships. P1 (Why attach the note to the event before its task exists?): The existing data-flow figure and When a note lands table already show the timing relationship. P2 (How do before and after buffers change occupied time?): The prose gives the before/after rule in one sentence, and the console example supplies the exact occupied span. P3 (How does a private note combine with Google's fields?): The precedence table already expresses the complete field-by-field combination. P4 (What happens to a note after a reschedule, reset, or recreation?): The reliability table already gives each reschedule, reset, and recreation outcome. P5 (What ships now, next, and optionally for phones?): The implementation table and phone list already supply all phases and conditions. M1 (How does CLI text become canonical directive and reason lines?): The numbered normalization rules and examples already include every parsing branch this figure would draw. M2 (How are ambiguous event queries and unverified URLs handled?): The Selecting the event list item already supplies exact-ID validation, search fallback, and TTY/non-TTY branches. M3 (Why can a saved buffer update fail to reach an existing row?): One sentence already answers the question: a changed note applies only while the whole row is untouched. M4 (Which side parses input, previews, and writes the vault?): One paragraph directly assigns parsing, candidates, preview, and saving to bob; an exchange diagram would invent ordering. M5 (What happens when a phone note does not resolve uniquely?): The phone list already states both unique-match and ordinary-inbox fallback paths. M6 (How do concurrent host edits choose one saved note?): The fold list item already gives the full ordering tuple and append/clear rule; no further mechanism is stated. M7 (What remains active when description bullets are disabled?): One sentence answers it: bullets are hidden while directives still apply.
+source_ref: file:explicit:9d1262156a38614ec3edb606
+status: none
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +57,7 @@
 | [research.3z.gem](../bbugyi200.apollo.research.3z.gem/README.md) | research.3z hood | completed |
 | [research.3z.grk](../bbugyi200.apollo.research.3z.grk/README.md) | research.3z hood | completed |
 | [research.3z.linker](../bbugyi200.apollo.research.3z.linker/README.md) | research.3z hood | waiting |
+| [research.3z.linker.w0](../bbugyi200.apollo.research.3z.linker.w0/README.md) | research.3z hood | waiting |
 | [research.3z.mus](../bbugyi200.apollo.research.3z.mus/README.md) | research.3z hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
