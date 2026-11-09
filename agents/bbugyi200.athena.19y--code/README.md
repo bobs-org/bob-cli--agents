@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5ed31c1`](https://github.com/bobs-org/bob-cli/commit/5ed31c131ed4e26dfd9c7ff3f562bb0a1709730a) | docs(relations): document Ctrl+Enter for labelled relations | 2026-11-08 09:36:49 EST |
+| — | `5ed31c1` | docs(relations): document Ctrl+Enter for labelled relations | 2026-11-08 09:36:49 EST |
