@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0d3b3a6`](https://github.com/bobs-org/bob-cli/commit/0d3b3a654d0ea7ecda3f1a5368be66313a6fe688) | feat: prune duplicate open Pomodoro links | 2026-07-13 08:53:45 EDT |
+| — | `0d3b3a6` | feat: prune duplicate open Pomodoro links | 2026-07-13 08:53:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [7p](../../sessions/bbugyi200.athena.7p.md) (session · 2) | ancestor | active 1, completed 1 |
+| [7p](../../sessions/bbugyi200.athena.7p.md) (session · 2) | ancestor | completed 1, dismissed 1 |
