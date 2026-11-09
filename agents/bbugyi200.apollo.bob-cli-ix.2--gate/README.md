@@ -25,5 +25,5 @@
 |---|---|---|
 | [bob-cli-ix.1](../../sessions/bbugyi200.apollo.bob-cli-ix.1.md) (session · 5) | bob-cli-ix hood | completed 5 |
 | [bob-cli-ix.3](../bbugyi200.apollo.bob-cli-ix.3/README.md) | bob-cli-ix hood | completed |
-| [bob-cli-ix.4](../../sessions/bbugyi200.apollo.bob-cli-ix.4.md) (session · 3) | bob-cli-ix hood | active 1, completed 1, failed 1 |
+| [bob-cli-ix.4](../../sessions/bbugyi200.apollo.bob-cli-ix.4.md) (session · 4) | bob-cli-ix hood | completed 3, failed 1 |
 | [bob-cli-ix.land](../bbugyi200.apollo.bob-cli-ix.land/README.md) | bob-cli-ix hood | waiting |
