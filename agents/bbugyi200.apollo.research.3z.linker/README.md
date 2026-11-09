@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3z.linker
 
-**Global name:** `bbugyi200.apollo.research.3z.linker` · **State:** waiting · **Source run:** `run-5b4a8234f354b84be0d43f039aa34374`
+**Global name:** `bbugyi200.apollo.research.3z.linker` · **State:** completed · **Source run:** `run-5b4a8234f354b84be0d43f039aa34374`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261109173951
+- Timing: 2026-11-09T23:32:22.714091+00:00 → 2026-11-09T23:39:36.933053+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/private\_notes\_for\_unowned\_gcal\_events/private\_notes\_for\_unowned\_gcal\_events.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109173951/p… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/private_notes_for_unowned_gcal_events/private_notes_for_unowned_gcal_events.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109173951/private_notes_for_unowned_gcal_events-9c0d13ccda51.md
+  ref: file:explicit:5e95a079b5588daa61e7225b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/private_notes_for_unowned_gcal_events/private_notes_for_unowned_gcal_events.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
