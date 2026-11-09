@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `at` · Members: 2
 ```mermaid
 flowchart TD
   n0["at--code [completed]"]
-  n1["at [active]"]
+  n1["at [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | at--code | completed | gpt-5.6-sol / codex | 2026-07-16T20:09:40.813421+00:00 | [1](../agents/bbugyi200.athena.at--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.at--code/chat.md) |
-| <a id="member-root"></a>root | at | active | gpt-5.6-sol / codex | 2026-07-16T20:05:23.648666+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.at/prompt.md) | [Chat](../agents/bbugyi200.athena.at/chat.md) |
+| <a id="member-root"></a>root | at | dismissed | gpt-5.6-sol / codex | 2026-07-16T16:05:23.648666 → 2026-07-16T16:17:23.133469 | 0 | [Prompt](../agents/bbugyi200.athena.at/prompt.md) | [Chat](../agents/bbugyi200.athena.at/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`cf931a3`](https://github.com/bobs-org/bob-cli/commit/cf931a3829015e5cfa004b32c715334e4982ebc9) | feat(cli): rename task status command to task-status-hooks | 2026-07-16 16:16:53 EDT |
+| code | — | `cf931a3` | feat(cli): rename task status command to task-status-hooks | 2026-07-16 16:16:53 EDT |
