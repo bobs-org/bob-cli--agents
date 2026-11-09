@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-cad0bfe7ae4989e4c0c4e6a72d8ae3c4"}
+{"commits":[{"committed_at":1794228566,"sha":"135793bf355c18cf44788d0114c68549bcb0d9bb","subject":"feat(capture): close the running Pomodoro at a stated size"}],"schema_version":2,"source_run_id":"run-cad0bfe7ae4989e4c0c4e6a72d8ae3c4"}

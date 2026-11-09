@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ix](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ix/README.md) / [bob-cli-ix.2](../../sessions/bbugyi200.apollo.bob-cli-ix.2.md) / bob-cli-ix.2--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-ix.2--code` · **State:** active · **Source run:** `run-cad0bfe7ae4989e4c0c4e6a72d8ae3c4`
+**Global name:** `bbugyi200.apollo.bob-cli-ix.2--code` · **State:** completed · **Source run:** `run-cad0bfe7ae4989e4c0c4e6a72d8ae3c4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ix
 
@@ -12,8 +12,18 @@
 - Epic: [bob-cli-ix](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ix/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-09T12:02:57.514944+00:00
-- Commits: 0
+- Timing: 2026-11-09T12:02:57.514944+00:00 → 2026-11-09T12:50:16.811433+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`135793b`](https://github.com/bobs-org/bob-cli/commit/135793bf355c18cf44788d0114c68549bcb0d9bb) | feat(capture): close the running Pomodoro at a stated size | 2026-11-09 07:49:26 EST |
 
 ## Neighbors
 
