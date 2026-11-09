@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3u.grk
 
-**Global name:** `bbugyi200.apollo.research.3u.grk` · **State:** active · **Source run:** `run-70443b9bb016749dfa3b7170979f8f74`
+**Global name:** `bbugyi200.apollo.research.3u.grk` · **State:** completed · **Source run:** `run-70443b9bb016749dfa3b7170979f8f74`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-09T12:06:49.440025+00:00
+- Timing: 2026-11-09T12:06:49.440025+00:00 → 2026-11-09T12:22:08.483197+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/period\_note\_review\_instructions/period\_note\_review\_instructions\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109070556/period\_n… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/period_note_review_instructions/period_note_review_instructions__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109070556/period_note_review_instructions__grk-d441e0967e68.md
+  ref: file:explicit:f70488afb655b33b191eba5a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/period_note_review_instructions/period_note_review_instructions__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.3u.cdx](../bbugyi200.apollo.research.3u.cdx/README.md) | research.3u hood | completed |
-| [research.3u.cld](../bbugyi200.apollo.research.3u.cld/README.md) | research.3u hood | active |
+| [research.3u.cld](../bbugyi200.apollo.research.3u.cld/README.md) | research.3u hood | completed |
 | [research.3u.final](../bbugyi200.apollo.research.3u.final/README.md) | research.3u hood | waiting |
 | [research.3u.gem](../bbugyi200.apollo.research.3u.gem/README.md) | research.3u hood | completed |
 | [research.3u.image](../bbugyi200.apollo.research.3u.image/README.md) | research.3u hood | waiting |
