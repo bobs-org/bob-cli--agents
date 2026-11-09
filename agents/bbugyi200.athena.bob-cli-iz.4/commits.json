@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3078cece848a17b825ef5816fddc614f"}
+{"commits":[{"committed_at":1794235657,"sha":"97f0b8f19b75c90e81e875c87462ae65850956db","subject":"feat(gcal): add forced day reset"}],"schema_version":2,"source_run_id":"run-3078cece848a17b825ef5816fddc614f"}
