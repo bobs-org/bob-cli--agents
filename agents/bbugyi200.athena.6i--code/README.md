@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6e1fd4f`](https://github.com/bobs-org/bob-cli/commit/6e1fd4fe82a022242d35eccfa1ef568b1bab769a) | feat: normalize Pomodoro session markers | 2026-07-12 08:47:34 EDT |
+| — | `6e1fd4f` | feat: normalize Pomodoro session markers | 2026-07-12 08:47:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [6i.f-0](../../sessions/bbugyi200.athena.6i.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [6i.f-0](../../sessions/bbugyi200.athena.6i.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |

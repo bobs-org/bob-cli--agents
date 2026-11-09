@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `66` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["66.f-1 [active]"]
+  n0["66.f-1 [dismissed]"]
   n1["66.f-1--code [completed]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 66.f-1 | active | claude-fable-5 / claude | 2026-07-11T21:56:20.564425+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.66.f-1/prompt.md) | [Chat](../agents/bbugyi200.athena.66.f-1/chat.md) |
+| <a id="member-root"></a>root | 66.f-1 | dismissed | claude-fable-5 / claude | 2026-07-11T17:56:20.564425 → 2026-07-11T18:05:45.108470 | 0 | [Prompt](../agents/bbugyi200.athena.66.f-1/prompt.md) | [Chat](../agents/bbugyi200.athena.66.f-1/chat.md) |
 | <a id="member-code"></a>code | 66.f-1--code | completed | gpt-5.6-sol / codex | 2026-07-11T22:02:04.753326+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.66.f-1--code/chat.md) |
 
 ## Neighbors

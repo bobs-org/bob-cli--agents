@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`334f18b`](https://github.com/bobs-org/bob-cli/commit/334f18b8200bea940d056744e45ba46810445d90) | fix: preserve Pomodoro marker provenance | 2026-07-12 10:58:04 EDT |
+| — | `334f18b` | fix: preserve Pomodoro marker provenance | 2026-07-12 10:58:04 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [6i](../../sessions/bbugyi200.athena.6i.md) (session · 2) | ancestor | active 1, completed 1 |
+| [6i](../../sessions/bbugyi200.athena.6i.md) (session · 2) | ancestor | completed 1, dismissed 1 |

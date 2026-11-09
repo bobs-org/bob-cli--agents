@@ -17,10 +17,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8bcf9cd`](https://github.com/bobs-org/bob-cli/commit/8bcf9cd326dc5eb9123c50ca237a1f894c6fd272) | chore: Add SDD prompt and plan for obsidian\_alt\_t\_duplicate\_tab | 2026-06-13 06:58:56 EDT |
+| — | `8bcf9cd` | chore: Add SDD prompt and plan for obsidian\_alt\_t\_duplicate\_tab | 2026-06-13 06:58:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [66.f-1](../../sessions/bbugyi200.athena.66.f-1.md) (session · 2) | descendant | active 1, completed 1 |
+| [66.f-1](../../sessions/bbugyi200.athena.66.f-1.md) (session · 2) | descendant | completed 1, dismissed 1 |
