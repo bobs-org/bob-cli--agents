@@ -9,9 +9,9 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-is` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-is.land--gate [completed]"]
-  n1["bob-cli-is.land--code [active]"]
+  n1["bob-cli-is.land--code [completed]"]
   n0 --> n1
-  n2["bob-cli-is.land--plan [active]"]
+  n2["bob-cli-is.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-is.land--gate | completed | gpt-6-astra / codex | 2026-11-08T23:51:26.302278+00:00 → 2026-11-08T23:51:38.777784+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-is.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-is.land--code | active | grok-4.6 / grok | 2026-11-08T23:52:07.178133+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-is.land--plan | active | gpt-6-astra / codex | 2026-11-08T23:41:53.040125+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-is.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-is.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-is.land--code | completed | grok-4.6 / grok | 2026-11-08T23:52:07.178133+00:00 → 2026-11-09T00:45:49.225070+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-is.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-is.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-is.land--plan | completed | gpt-6-astra / codex | 2026-11-08T23:41:53.040125+00:00 → 2026-11-09T00:45:49.225070+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-is.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-is.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`274eeae`](https://github.com/bobs-org/bob-cli/commit/274eeae7e910526bd6b534a703f83759a5a1463d) | docs(capture): distinguish Mac xx/xs typing from grammar close | 2026-11-08 19:43:57 EST |
 
 ## Neighbors
 
