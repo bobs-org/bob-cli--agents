@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.10.1.4
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-ir` · Members: 4 · Bead: [bob-cli-ir.10.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.10.1.4.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-ir` · Members: 5 · Bead: [bob-cli-ir.10.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.10.1.4.md)
 
 ## Lineage
 
@@ -11,10 +11,12 @@ flowchart TD
   n0["bob-cli-ir.10.1.4--plan [completed]"]
   n1["bob-cli-ir.10.1.4--mon [failed]"]
   n0 --> n1
-  n2["bob-cli-ir.10.1.4--mon-0 [active]"]
+  n2["bob-cli-ir.10.1.4--mon-0 [completed]"]
   n0 --> n2
   n3["bob-cli-ir.10.1.4--1 [completed]"]
   n0 --> n3
+  n4["bob-cli-ir.10.1.4--2 [active]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -23,8 +25,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-ir.10.1.4--plan | completed | grok-4.6 / grok | 2026-11-09T10:13:40.962862+00:00 → 2026-11-09T11:07:12.512225+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.10.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.10.1.4--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-ir.10.1.4--mon | failed | grok-4.6 / grok | 2026-11-09T11:05:25.219183+00:00 → 2026-11-09T11:23:38.149587+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ir.10.1.4--mon/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | bob-cli-ir.10.1.4--mon-0 | active | grok-4.6 / grok | 2026-11-09T11:39:46.554005+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-ir.10.1.4--mon-0 | completed | grok-4.6 / grok | 2026-11-09T11:39:46.554005+00:00 → 2026-11-09T12:06:00.682186+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ir.10.1.4--mon-0/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-ir.10.1.4--1 | completed | grok-4.6 / grok | 2026-11-09T11:24:44.357426+00:00 → 2026-11-09T11:41:26.193224+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.10.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.10.1.4--1/chat.md) |
+| <a id="member-2"></a>2 | bob-cli-ir.10.1.4--2 | active | grok-4.6 / grok | 2026-11-09T12:07:51.306387+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.10.1.4--2/prompt.md) | — |
 
 ## Neighbors
 
@@ -61,7 +64,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ir.7.1.3](../agents/bbugyi200.athena.bob-cli-ir.7.1.3/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.4](../agents/bbugyi200.athena.bob-cli-ir.7.1.4/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.5](../agents/bbugyi200.athena.bob-cli-ir.7.1.5/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.7.1.land](bbugyi200.athena.bob-cli-ir.7.1.land.md) (session · 3) | bob-cli-ir hood | active 2, completed 1 |
+| [bob-cli-ir.7.1.land](bbugyi200.athena.bob-cli-ir.7.1.land.md) (session · 3) | bob-cli-ir hood | completed 3 |
 | [bob-cli-ir.8](../agents/bbugyi200.athena.bob-cli-ir.8/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.9](../agents/bbugyi200.athena.bob-cli-ir.9/README.md) | bob-cli-ir hood | waiting |
 | [bob-cli-ir.land](../agents/bbugyi200.athena.bob-cli-ir.land/README.md) | bob-cli-ir hood | waiting |
