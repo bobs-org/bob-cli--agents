@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** bob-cli · **Hoods:** 609 · **Runs:** 4949
+**Project:** bob-cli · **Hoods:** 609 · **Runs:** 4952
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -564,7 +564,7 @@
 | [bob-cli-ij](hoods/bob-cli-ij/README.md) | 4 | 0 | completed 4 |
 | [bob-cli-im](hoods/bob-cli-im/README.md) | 21 | 3 | completed 17, failed 4 |
 | [bob-cli-in](hoods/bob-cli-in/README.md) | 11 | 2 | completed 10, failed 1 |
-| [bob-cli-ir](hoods/bob-cli-ir/README.md) | 59 | 9 | active 5, completed 44, failed 2, waiting 8 |
+| [bob-cli-ir](hoods/bob-cli-ir/README.md) | 62 | 10 | active 7, completed 45, failed 3, waiting 7 |
 | [bob-cli-j](hoods/bob-cli-j/README.md) | 8 | 0 | active 7, waiting 1 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 3 | 0 | active 3 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 5 | 1 | active 4, completed 1 |
