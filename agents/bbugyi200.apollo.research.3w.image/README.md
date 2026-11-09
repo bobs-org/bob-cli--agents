@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3w.image
 
-**Global name:** `bbugyi200.apollo.research.3w.image` · **State:** waiting · **Source run:** `run-04bd2b4878bd7fdc5740c986a5fdd01e`
+**Global name:** `bbugyi200.apollo.research.3w.image` · **State:** completed · **Source run:** `run-04bd2b4878bd7fdc5740c986a5fdd01e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,52 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261109092447
+- Timing: 2026-11-09T15:01:39.022977+00:00 → 2026-11-09T15:14:46.145812+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/done\_notes\_archiving/done\_notes\_archiving\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109092447/done\_notes\_archiving\_i… |
+| `diagrams` | {considered: 14, count: 2, manifest: 202611/done\_notes\_archiving/done\_notes\_archiving.diagrams.md, source\_ref: file:explicit:a85da8e93cf2e116d997f85e, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/done_notes_archiving/done_notes_archiving_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109092447/done_notes_archiving_infographic-9bafd04aee94.png
+  ref: file:explicit:330bf68efa717609d754e8e6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/done_notes_archiving/done_notes_archiving_infographic.png
+- kind: markdown
+  label: diagrams:202611/done_notes_archiving/done_notes_archiving.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109092447/done_notes_archiving.diagrams-19db36a47723.md
+  ref: file:explicit:85844a63ee4a8a47d12709c4
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/done_notes_archiving/done_notes_archiving.diagrams.md
+- kind: file
+  label: image-prompt:done_notes_archiving
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109092447/infographic-prompts-066fd9b74f30.txt
+  ref: file:explicit:883cccbc7f5a5974363c880c
+  source_path: /tmp/doneviz.0p9AtL/infographic-prompts.txt
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 2
+manifest: 202611/done_notes_archiving/done_notes_archiving.diagrams.md
+source_ref: file:explicit:a85da8e93cf2e116d997f85e
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
