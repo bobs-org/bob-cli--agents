@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b87f0536d7fec0387b2dc3f6b57d09c1"}
+{"commits":[{"committed_at":1794247885,"sha":"4b59ae8170499ebc6328bc66f437af56802cfab5","subject":"feat(capture): prove sigil alias typing tips in capture-rewrite"}],"schema_version":2,"source_run_id":"run-b87f0536d7fec0387b2dc3f6b57d09c1"}
