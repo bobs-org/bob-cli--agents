@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`490e452`](https://github.com/bobs-org/bob-cli/commit/490e452eaf94a70b981a8a114758ae324e0ae0e2) | feat(capture): reinstate pomodoro block debug asserts and lock start-drop coverage | 2026-09-30 10:58:20 EDT |
+| — | `490e452` | feat(capture): reinstate pomodoro block debug asserts and lock start-drop coverage | 2026-09-30 10:58:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2r.1](../bbugyi200.apollo.bob-cli-2r.1/README.md) | bob-cli-2r hood | active |
-| [bob-cli-2r.2](../bbugyi200.apollo.bob-cli-2r.2/README.md) | bob-cli-2r hood | active |
-| [bob-cli-2r.3](../../sessions/bbugyi200.apollo.bob-cli-2r.3.md) (session · 3) | bob-cli-2r hood | active 3 |
-| [bob-cli-2r.4](../bbugyi200.apollo.bob-cli-2r.4/README.md) | bob-cli-2r hood | active |
+| [bob-cli-2r.1](../bbugyi200.apollo.bob-cli-2r.1/README.md) | bob-cli-2r hood | dismissed |
+| [bob-cli-2r.2](../bbugyi200.apollo.bob-cli-2r.2/README.md) | bob-cli-2r hood | dismissed |
+| [bob-cli-2r.3](../../sessions/bbugyi200.apollo.bob-cli-2r.3.md) (session · 3) | bob-cli-2r hood | dismissed 3 |
+| [bob-cli-2r.4](../bbugyi200.apollo.bob-cli-2r.4/README.md) | bob-cli-2r hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-2s](../../users/bbugyi200/machines/apollo/hoods/bob-cli-2s/README.md) / bob-cli-2s.3
 
-**Global name:** `bbugyi200.apollo.bob-cli-2s.3` · **State:** active · **Source run:** `run-22e76269b85b9840ee4d43bafa9c3049`
+**Global name:** `bbugyi200.apollo.bob-cli-2s.3` · **State:** dismissed · **Source run:** `run-22e76269b85b9840ee4d43bafa9c3049`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-2s
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-2s](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-2s/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-30T13:46:20.033012+00:00
+- Timing: 2026-09-30T09:46:20.033012 → 2026-09-30T10:39:02.097966
 - Commits: 0
 
 ## Files
@@ -23,6 +23,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2s.1](../bbugyi200.apollo.bob-cli-2s.1/README.md) | bob-cli-2s hood | active |
-| [bob-cli-2s.2](../bbugyi200.apollo.bob-cli-2s.2/README.md) | bob-cli-2s hood | active |
-| [bob-cli-2s.land](../bbugyi200.apollo.bob-cli-2s.land/README.md) | bob-cli-2s hood | active |
+| [bob-cli-2s.1](../bbugyi200.apollo.bob-cli-2s.1/README.md) | bob-cli-2s hood | dismissed |
+| [bob-cli-2s.2](../bbugyi200.apollo.bob-cli-2s.2/README.md) | bob-cli-2s hood | dismissed |
+| [bob-cli-2s.land](../bbugyi200.apollo.bob-cli-2s.land/README.md) | bob-cli-2s hood | dismissed |

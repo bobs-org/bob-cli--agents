@@ -22,15 +22,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d9e85c2`](https://github.com/bobs-org/bob-cli/commit/d9e85c25bdc80cffe309d17b6b6c160ff7dced51) | fix(capture): land epic bob-cli-2n project task links follow-ups | 2026-09-29 18:24:13 EDT |
+| — | `d9e85c2` | fix(capture): land epic bob-cli-2n project task links follow-ups | 2026-09-29 18:24:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2n.1](../bbugyi200.apollo.bob-cli-2n.1/README.md) | bob-cli-2n hood | active |
-| [bob-cli-2n.2](../bbugyi200.apollo.bob-cli-2n.2/README.md) | bob-cli-2n hood | active |
-| [bob-cli-2n.3](../bbugyi200.apollo.bob-cli-2n.3/README.md) | bob-cli-2n hood | active |
-| [bob-cli-2n.4](../bbugyi200.apollo.bob-cli-2n.4/README.md) | bob-cli-2n hood | active |
-| [bob-cli-2n.5](../bbugyi200.apollo.bob-cli-2n.5/README.md) | bob-cli-2n hood | active |
-| [bob-cli-2n.6](../../sessions/bbugyi200.apollo.bob-cli-2n.6.md) (session · 5) | bob-cli-2n hood | active 5 |
+| [bob-cli-2n.1](../bbugyi200.apollo.bob-cli-2n.1/README.md) | bob-cli-2n hood | dismissed |
+| [bob-cli-2n.2](../bbugyi200.apollo.bob-cli-2n.2/README.md) | bob-cli-2n hood | dismissed |
+| [bob-cli-2n.3](../bbugyi200.apollo.bob-cli-2n.3/README.md) | bob-cli-2n hood | dismissed |
+| [bob-cli-2n.4](../bbugyi200.apollo.bob-cli-2n.4/README.md) | bob-cli-2n hood | dismissed |
+| [bob-cli-2n.5](../bbugyi200.apollo.bob-cli-2n.5/README.md) | bob-cli-2n hood | dismissed |
+| [bob-cli-2n.6](../../sessions/bbugyi200.apollo.bob-cli-2n.6.md) (session · 5) | bob-cli-2n hood | dismissed 5 |

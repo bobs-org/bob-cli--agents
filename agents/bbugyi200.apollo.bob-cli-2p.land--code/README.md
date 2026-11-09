@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`090e3eb`](https://github.com/bobs-org/bob-cli/commit/090e3eb49ae8248c6d9e5ac9b2169ccd742a9365) | fix(capture): preview plan budget on again rows, fix named-start help and docs | 2026-09-29 21:32:24 EDT |
+| — | `090e3eb` | fix(capture): preview plan budget on again rows, fix named-start help and docs | 2026-09-29 21:32:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2p.1](../bbugyi200.apollo.bob-cli-2p.1/README.md) | bob-cli-2p hood | active |
-| [bob-cli-2p.2](../bbugyi200.apollo.bob-cli-2p.2/README.md) | bob-cli-2p hood | active |
-| [bob-cli-2p.3](../bbugyi200.apollo.bob-cli-2p.3/README.md) | bob-cli-2p hood | active |
-| [bob-cli-2p.4](../bbugyi200.apollo.bob-cli-2p.4/README.md) | bob-cli-2p hood | active |
-| [bob-cli-2p.5](../../sessions/bbugyi200.apollo.bob-cli-2p.5.md) (session · 3) | bob-cli-2p hood | active 3 |
+| [bob-cli-2p.1](../bbugyi200.apollo.bob-cli-2p.1/README.md) | bob-cli-2p hood | dismissed |
+| [bob-cli-2p.2](../bbugyi200.apollo.bob-cli-2p.2/README.md) | bob-cli-2p hood | dismissed |
+| [bob-cli-2p.3](../bbugyi200.apollo.bob-cli-2p.3/README.md) | bob-cli-2p hood | dismissed |
+| [bob-cli-2p.4](../bbugyi200.apollo.bob-cli-2p.4/README.md) | bob-cli-2p hood | dismissed |
+| [bob-cli-2p.5](../../sessions/bbugyi200.apollo.bob-cli-2p.5.md) (session · 3) | bob-cli-2p hood | dismissed 3 |
