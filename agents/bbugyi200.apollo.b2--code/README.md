@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`48253b7`](https://github.com/bobs-org/bob-cli/commit/48253b7f225620f2cde10c856f458c31cd6f58d3) | docs(freshness): document cycling review-group \[S / \]S jumps | 2026-10-29 02:39:01 EDT |
+| — | `48253b7` | docs(freshness): document cycling review-group \[S / \]S jumps | 2026-10-29 02:39:01 EDT |

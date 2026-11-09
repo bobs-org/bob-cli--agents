@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [b4.f0](../bbugyi200.apollo.b4.f0/README.md) | descendant | active |
+| [b4.f0](../bbugyi200.apollo.b4.f0/README.md) | descendant | dismissed |

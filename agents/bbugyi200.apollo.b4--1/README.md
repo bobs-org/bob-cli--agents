@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2631a1c`](https://github.com/bobs-org/bob-cli/commit/2631a1c9ef1f17ef0576342e5506cbb0036bd7db) | feat(capture): start template from trailing @@@ at any line end | 2026-10-29 18:48:58 EDT |
+| — | `2631a1c` | feat(capture): start template from trailing @@@ at any line end | 2026-10-29 18:48:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [b4.f0](../bbugyi200.apollo.b4.f0/README.md) | descendant | active |
+| [b4.f0](../bbugyi200.apollo.b4.f0/README.md) | descendant | dismissed |
