@@ -2,11 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-j4
 
-**Global hood:** `bbugyi200.athena.bob-cli-j4` · **Runs:** 14 · **Sessions:** 4 · **States:** completed 12, waiting 2
+**Global hood:** `bbugyi200.athena.bob-cli-j4` · **Runs:** 16 · **Sessions:** 5 · **States:** completed 15, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-j4.4--code](../../../../../../sessions/bbugyi200.athena.bob-cli-j4.4.md#member-code) | completed | sonnet / claude | 2026-11-09T16:38:25.327277+00:00 → 2026-11-09T16:39:41.772738+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j4.4--code/chat.md) |
+| [bob-cli-j4.5--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-j4.5.md#member-gate) | completed | opus / claude | 2026-11-09T16:48:14.867611+00:00 → 2026-11-09T16:48:51.023979+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j4.5--gate/chat.md) |
+| [bob-cli-j4.5--code](../../../../../../sessions/bbugyi200.athena.bob-cli-j4.5.md#member-code) | completed | gpt-6-luna / codex | 2026-11-09T16:49:42.147848+00:00 → 2026-11-09T16:52:53.687625+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j4.5--code/chat.md) |
 | [bob-cli-j4.land](../../../../../../agents/bbugyi200.athena.bob-cli-j4.land/README.md) | waiting | opus / claude | 20261109105011 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j4.land/prompt.md) |
 | [bob-cli-j4.1--code](../../../../../../sessions/bbugyi200.athena.bob-cli-j4.1.md#member-code) | completed | gpt-6-luna / codex | 2026-11-09T15:58:21.348009+00:00 → 2026-11-09T16:01:54.072724+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j4.1--code/chat.md) |
 | [bob-cli-j4.3--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-j4.3.md#member-gate) | completed | opus / claude | 2026-11-09T16:21:46.176265+00:00 → 2026-11-09T16:22:39.278633+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j4.3--gate/chat.md) |
@@ -19,4 +21,4 @@
 | [bob-cli-j4.4--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-j4.4.md#member-plan) | completed | opus / claude | 2026-11-09T16:27:54.753657+00:00 → 2026-11-09T16:39:41.772738+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j4.4--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j4.4--plan/chat.md) |
 | [bob-cli-j4.2--code](../../../../../../sessions/bbugyi200.athena.bob-cli-j4.2.md#member-code) | completed | grok-4.6 / grok | 2026-11-09T16:09:48.169279+00:00 → 2026-11-09T16:13:26.842014+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j4.2--code/chat.md) |
 | [bob-cli-j4.1--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-j4.1.md#member-gate) | completed | opus / claude | 2026-11-09T15:57:20.960710+00:00 → 2026-11-09T15:57:50.933410+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j4.1--gate/chat.md) |
-| [bob-cli-j4.5](../../../../../../agents/bbugyi200.athena.bob-cli-j4.5/README.md) | waiting | opus / claude | 20261109105010 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j4.5/prompt.md) |
+| [bob-cli-j4.5--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-j4.5.md#member-plan) | completed | opus / claude | 2026-11-09T16:41:59.669163+00:00 → 2026-11-09T16:52:53.687625+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j4.5--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j4.5--plan/chat.md) |
