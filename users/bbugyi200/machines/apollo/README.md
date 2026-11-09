@@ -296,7 +296,7 @@
 | [bob-cli-3g](hoods/bob-cli-3g/README.md) | 2 | 0 | completed 2 |
 | [bob-cli-3i](hoods/bob-cli-3i/README.md) | 1 | 0 | completed 1 |
 | [bob-cli-3j](hoods/bob-cli-3j/README.md) | 14 | 1 | dismissed 14 |
-| [bob-cli-3l](hoods/bob-cli-3l/README.md) | 5 | 1 | active 4, completed 1 |
+| [bob-cli-3l](hoods/bob-cli-3l/README.md) | 5 | 1 | completed 1, dismissed 4 |
 | [bob-cli-3n](hoods/bob-cli-3n/README.md) | 14 | 0 | completed 14 |
 | [bob-cli-3u](hoods/bob-cli-3u/README.md) | 6 | 0 | completed 6 |
 | [bob-cli-3v](hoods/bob-cli-3v/README.md) | 9 | 1 | completed 8, failed 1 |
