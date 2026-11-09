@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3z.grk
 
-**Global name:** `bbugyi200.apollo.research.3z.grk` · **State:** active · **Source run:** `run-611f55c7080479f3dbfcea1abc150206`
+**Global name:** `bbugyi200.apollo.research.3z.grk` · **State:** completed · **Source run:** `run-611f55c7080479f3dbfcea1abc150206`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-09T22:40:58.824351+00:00
+- Timing: 2026-11-09T22:40:58.824351+00:00 → 2026-11-09T22:57:51.169608+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gcal\_guest\_event\_overlays/gcal\_guest\_event\_overlays\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109173946/gcal\_guest\_event\_ove… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gcal_guest_event_overlays/gcal_guest_event_overlays__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109173946/gcal_guest_event_overlays__grk-9b705c865127.md
+  ref: file:explicit:6b42840c374142d2a2b9f8f8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/gcal_guest_event_overlays/gcal_guest_event_overlays__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

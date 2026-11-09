@@ -43,7 +43,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.3z.cdx](../bbugyi200.apollo.research.3z.cdx/README.md) | research.3z hood | completed |
 | [research.3z.cld](../bbugyi200.apollo.research.3z.cld/README.md) | research.3z hood | active |
 | [research.3z.final](../bbugyi200.apollo.research.3z.final/README.md) | research.3z hood | waiting |
-| [research.3z.grk](../bbugyi200.apollo.research.3z.grk/README.md) | research.3z hood | active |
+| [research.3z.grk](../bbugyi200.apollo.research.3z.grk/README.md) | research.3z hood | completed |
 | [research.3z.image](../bbugyi200.apollo.research.3z.image/README.md) | research.3z hood | waiting |
 | [research.3z.linker](../bbugyi200.apollo.research.3z.linker/README.md) | research.3z hood | waiting |
 | [research.3z.mus](../bbugyi200.apollo.research.3z.mus/README.md) | research.3z hood | completed |
