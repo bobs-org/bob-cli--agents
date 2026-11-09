@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-46525771ee755ba3c61ca66c7403a693"}
+{"commits":[{"committed_at":1794228018,"sha":"c28edbeeb9834ccb515d1d25716dbb3d86bb6b2d","subject":"feat(gcal): refuse to sync into a note Templater has not rendered"}],"schema_version":2,"source_run_id":"run-46525771ee755ba3c61ca66c7403a693"}
