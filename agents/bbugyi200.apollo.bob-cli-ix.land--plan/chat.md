@@ -1,42 +1,39 @@
 # Chat History - ace-run (bob-cli-ix.land--plan)
 
-- **TIMESTAMP:** 2026-11-09 09:05:42 EST
-- **MODEL:** codex/gpt-6-astra
+- **TIMESTAMP:** 2026-11-09 11:04:54 EST
+- **MODEL:** claude/opus
 - **AGENT:** bob-cli-ix.land--plan
 
-## Linked Chats
-
-- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_ix_land__plan-261109_052524.md`
-- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_ix_land__code-261109_052524.md`
-
-**Plan:** /home/bryan/.sase/plans/202611/sized_close_landing.md
+**Plan:** /home/bryan/.sase/plans/202611/sized_close_mac_ci_fix.md
 
 
 ## Proposed Plan Preview
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202611/sized_close_landing.md`
+**Plan file:** `/home/bryan/.sase/plans/202611/sized_close_mac_ci_fix.md`
 
-> - **PARENT:** [202611/sized_pomodoro_close.md](202611/sized_pomodoro_close.md)
 > - **BEAD:** bob-cli-ix
-> # Finish the sized-close contract and land bob-cli-ix
-> Complete the remaining acceptance gaps in `bob-cli-ix` and close that epic in this
-> coding turn. This is one bounded repair, not a new feature or another epic. There is no
-> later land agent waiting for this tale: its coder owns the closeout below.
-> ## Context and fixed decisions
-> Read `sase bead read bob-cli-ix -r "Need the landing audit and decisions"` and
-> `sase artifact read plan:202611/sized_pomodoro_close.md "Need the sized-close acceptance contract"`.
-> The four phases are closed; their implementation commits are bob-cli `070d2aac`,
+> # Turn bob-cli-ix's red Mac CI green and close the epic
+> ## Why
+> Epic `bob-cli-ix` (Nx: close the running Pomodoro at a stated size) landed every bob-cli
+> commit, and bob-cli's tests pass. But the Bob Mac Capture landing commit `b81302b`
+> ("feat(mac-capture): present sized closes with one chip and docs") is **red** on its
+> exact-SHA macOS CI run (GitHub Actions run 42640876363, job "macOS 26 SwiftPM"). All 10
+> failures are in tests that this epic added. The product code under
+> `Sources/CaptureCore/CapturePomodoroClosePresentation.swift` and
+> `Sources/BobMacCapture/CapturePanelController.swift` is correct. The tests are wrong.
 
 *See full plan file for details.*
 
 ## Prompt
 
+Host notice: bead `bob-cli-ix` was already closed (done, 2026-11-09T15:01:09Z) when this run started. This run is attached to it without reopening it, and a `CLOSED-BEAD LAUNCH:` note on the bead records the relaunch. First check whether the earlier work already landed (`git log --grep bob-cli-ix` and the bead's notes via `sase bead read bob-cli-ix`). If it did, verify it and finish without redoing it; closing the bead again is a safe no-op. If the work is genuinely unfinished, run `sase bead open bob-cli-ix` first and close it yourself with `sase bead close bob-cli-ix --note "<what you verified>"` when done (the finalizer will not close a reopened `open` bead). If the resolution is `canceled` or `superseded`, do not redo the work unless this prompt explicitly asks for it.
+
+%id(land, clan=bob-cli-ix, bead=bob-cli-ix)
 %auto
 #gh:gh_bobs-org__bob-cli
-%id(land, clan=bob-cli-ix, bead=bob-cli-ix)
-%model:@large
+%m:@xlarge 
 %w(bob-cli-ix.1,bob-cli-ix.2,bob-cli-ix.3,bob-cli-ix.4, for_epic=false)
 %w(bead=bob-cli-ix.1)
 %w(bead=bob-cli-ix.2)
@@ -112,26 +109,30 @@ and report it in your final response.
 
 ## Response
 
-I’ll review the epic, all child notes, and the implementation, then check for integration work from later commits. I’m using the SASE bead, memory-read, and finalizer skills for this landing.
+The Mac landing commit's exact-SHA CI run failed. I'm checking the failure.
 
+The epic's own Mac tests fail on CI (10 failures in the sized-close presentation and alias tests), so the work isn't finished. I'm looking at each failure.
 
-All four phases are closed. The notes contain two duplicate grammar-revision proposals, already addressed by advancing 21 → 22, and one unrelated help-fixture failure to triage. I’ll now check the exact-size behavior and Mac presentation against the approved plan.
+Status: the 10 Mac CI failures are test bugs in the epic's own tests (fixture/string mismatches and a wrong spawn expectation), not product bugs. I'm confirming that before planning the fix.
 
+Status: bob-cli's tests pass locally, and its CI on the current master commit is still running. The Mac CI failures need a small test-only fix. Checking the running CI jobs next.
 
-The approved choices are reflected in the code: sized closes stay at the front of a chain, and no decision-memory file was added. The later work mostly concerns records, calendar sync, and task-loss detection. I’m checking their shared parser paths; the help-fixture report belongs to the records epic.
+All earlier follow-up proposals were already triaged, and nothing new is pending. The one real gap is the red Mac CI on the epic's own tests, so I'm reopening the epic and planning a small fix.
 
+Staged the fix plan. Now submitting the turn's final declaration.
 
-I found unfinished Mac work from the approved plan: the card adds the size chip alongside the early/on-time chip instead of replacing it, lacks the requested accessibility sentence, and omits the docs and several fixture/test cases. I’ll use the SASE plan skill to prepare a bounded repair tale that includes this epic’s final closeout.
+The earlier landing missed one thing: the Mac CI is red on tests this epic added. I reopened `bob-cli-ix` and proposed a small fix plan. Approving it should finish the epic.
 
+**Already done and checked:**
+- All four bob-cli commits are on master, plus the earlier landing commit `2a0c258f`. The sized-close and help tests pass locally (108 passed). On current master, bob-cli's Linux test job, lint and package are green; its macOS test job was still running.
+- The plan file is already marked done, and `sase bead epic-symbols bob-cli-ix` lists nothing.
+- The three commits since the landing need no changes. The new Capture Alias glossary entry already describes `2xx` → `2x!` correctly.
+- Every proposed follow-up from the child beads was already handled in the earlier landing notes. There are no new ones.
 
-The Rust implementation passes the effective close time through all three entry points, but several promised tests are missing or too weak to prove their claims—especially meeting classification, task-outcome equivalence, and new-task closes. I routed the help-fixture issue to `bob-cli-ir`. The repair tale will cover the remaining epic work and finish the landing; there are currently no epic-symbol exemptions.
+**Why I reopened it:** the Mac landing commit `b81302b` failed its CI run (42640876363) with 10 failures, all in tests this epic added. The app code is correct; the tests are wrong:
+- **Three presentation tests:** they edit `pomodoro-close-sized-short.json` by searching for compact JSON text like `"closed_at":"0910"`. That fixture is pretty-printed, so nothing matched and each test ran against the unmodified fixture.
+- **`testSizedCloseAliasLeavesProseLiteral`:** its `2X` case expects a log of the call to bob. The app correctly never calls bob after an uppercase `X`, so the log file is never created and the test errors.
 
+**What's next:** I wrote and proposed the plan `sase_plan_sized_close_mac_ci_fix.md`, and it is waiting for your approval. It is test-only: the three tests edit the fixture as parsed JSON, the `2X` case asserts bob is never called, and the unused `2Xx` stub branch in fake-bob, its fixture file and its generator lines are removed. Before closing, the coder compiles on athena and the Mac, then runs `Scripts/macos-ci-check` to confirm the macOS CI is green. Then it closes `bob-cli-ix`, runs `just symvision`, and checks the plan file still says done. The epic has no parent bead.
 
-The medium repair tale passed validation and includes the epic close command, symbol cleanup, verification, and plan-status update. It also fixes the missing duration on equal-size Mac cards and two documentation ambiguities. I’ll now stage it for the requested approval handoff; the epic stays open until that work is complete.
-
-
-`bob-cli-ix` remains open. The audit found unfinished Mac presentation, accessibility, documentation, and execution-test coverage.
-
-Staged a validated medium repair tale that includes final epic closeout. Follow-ups were triaged; no stale epic-symbol entries were found. No source changes or test-suite runs this turn.
-
-The requested [sase_plan workflow](/home/bryan/.codex/skills/sase_plan/SKILL.md) requires “Submit the validated plan”; that approval handoff is staged.
+I made no code changes this turn, so nothing needed committing.

@@ -12,16 +12,35 @@
 - Provider: agy
 - Timing: 2026-11-09T16:02:08.785428+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/capture\_alias\_discovery\_hints\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109110051/capture\_alias\_discovery\_hints\_\_gem-629b670… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/capture_alias_discovery_hints__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109110051/capture_alias_discovery_hints__gem-629b67094abf.md
+  ref: file:explicit:d015cf1c161b98ca3e598c2f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/capture_alias_discovery_hints__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3y.cdx](../bbugyi200.apollo.research.3y.cdx/README.md) | research.3y hood | active |
+| [research.3y.cdx](../bbugyi200.apollo.research.3y.cdx/README.md) | research.3y hood | completed |
 | [research.3y.cld](../bbugyi200.apollo.research.3y.cld/README.md) | research.3y hood | active |
 | [research.3y.final](../bbugyi200.apollo.research.3y.final/README.md) | research.3y hood | waiting |
 | [research.3y.grk](../bbugyi200.apollo.research.3y.grk/README.md) | research.3y hood | active |
@@ -78,4 +97,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 706 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 707 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

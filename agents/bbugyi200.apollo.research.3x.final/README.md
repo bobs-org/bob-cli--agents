@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 20261109102736
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bob\_notebooks/bob\_notebooks\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109102736/bob\_notebooks\_\_final-5e92c0e3b8c3.md, ref:… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bob_notebooks/bob_notebooks__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109102736/bob_notebooks__final-5e92c0e3b8c3.md
+  ref: file:explicit:686dde24657a873ec8bd6899
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/bob_notebooks/bob_notebooks__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +46,7 @@
 | [research.3x.grk](../bbugyi200.apollo.research.3x.grk/README.md) | research.3x hood | completed |
 | [research.3x.image](../bbugyi200.apollo.research.3x.image/README.md) | research.3x hood | waiting |
 | [research.3x.linker](../bbugyi200.apollo.research.3x.linker/README.md) | research.3x hood | waiting |
+| [research.3x.linker.w0](../bbugyi200.apollo.research.3x.linker.w0/README.md) | research.3x hood | waiting |
 | [research.3x.mus](../bbugyi200.apollo.research.3x.mus/README.md) | research.3x hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |

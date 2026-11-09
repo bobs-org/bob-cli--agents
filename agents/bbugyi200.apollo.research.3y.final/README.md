@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.3y.cdx](../bbugyi200.apollo.research.3y.cdx/README.md) | research.3y hood | active |
+| [research.3y.cdx](../bbugyi200.apollo.research.3y.cdx/README.md) | research.3y hood | completed |
 | [research.3y.cld](../bbugyi200.apollo.research.3y.cld/README.md) | research.3y hood | active |
 | [research.3y.gem](../bbugyi200.apollo.research.3y.gem/README.md) | research.3y hood | active |
 | [research.3y.grk](../bbugyi200.apollo.research.3y.grk/README.md) | research.3y hood | active |
@@ -78,4 +78,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | active 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | active |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 706 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 707 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
