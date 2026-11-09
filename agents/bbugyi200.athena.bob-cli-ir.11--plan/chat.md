@@ -1,37 +1,37 @@
 # Chat History - ace-run (bob-cli-ir.11--plan)
 
-- **TIMESTAMP:** 2026-11-09 09:49:27 EST
-- **MODEL:** codex/gpt-6-astra
+- **TIMESTAMP:** 2026-11-09 12:08:09 EST
+- **MODEL:** claude/opus
 - **AGENT:** bob-cli-ir.11--plan
 
-**Plan:** /home/bryan/.sase/plans/202611/mac_record_preview.md
+**Plan:** /home/bryan/.sase/plans/202611/ir11_record_preview_ci_green.md
 
 
 ## Proposed Plan Preview
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202611/mac_record_preview.md`
+**Plan file:** `/home/bryan/.sase/plans/202611/ir11_record_preview_ci_green.md`
 
-> - **PARENT:** [202611/record_notes.md](202611/record_notes.md)
 > - **BEAD:** bob-cli-ir.11
-> # Mac new-record preview and success summary
-> Complete phase `bob-cli-ir.11` of `plan:202611/record_notes.md`. A complete record draft
-> must preview the note Bob will write as labeled properties and rendered body, offer the
-> exact Markdown in a disclosure, and report the record after successful capture. An
-> incomplete record refusal stays inline with Bob's ready-to-copy draft. Implement the
-> feature and verify it before closing only `bob-cli-ir.11`.
-> ## Scope and evidence
-> Read the assigned bead with
+> # Finish bob-cli-ir.11: get the record-preview Mac tests green on CI and close the phase
+> ## Where the phase stands
+> Every ir.11 deliverable has already landed, and none of it needs redoing:
+> - **bob-cli** `84ff0bb8`: per-item `record_note` summary in capture JSON, with tests and
+>   docs.
+> - **bob-mac-capture** `fe9ce15`: `CaptureRecordPreviewPresentation`,
+>   `RecordNotePreviewView`, the refusal card, `CapturePanelModel` and
+>   `NotificationService` wiring, fixtures, and tests. `90fa59d` (bob-cli-ix, the
+>   sized-close test fix) sits on top of it and is master HEAD.
 
 *See full plan file for details.*
 
 ## Prompt
 
+%id(11, clan=bob-cli-ir, bead=bob-cli-ir.11)
 %auto
 #gh:gh_bobs-org__bob-cli
-%id(11, clan=bob-cli-ir, bead=bob-cli-ir.11)
-%model:@large
+%m:@xlarge 
 %w(bob-cli-ir.10,bob-cli-ir.5, for_epic=false)
 %w(bead=bob-cli-ir.10)
 %w(bead=bob-cli-ir.5)
@@ -69,24 +69,47 @@ before making any file changes.
 
 ## Response
 
-I’ll read the bead, its notes, and the planning rules, then check what has landed before proposing a plan. I’m using the `sase_memory_read` and `sase_plan` skills.
+Checking where things stand: the earlier bob-cli and Mac work both landed (commits 84ff0bb8 and fe9ce15). What's left is the macOS CI verdict. I'm looking for it now.
 
+Now I'm waiting in the foreground for the master-HEAD run (90fa59d, which includes the ir.11 work). It should take about 15 more minutes.
 
-The bead has no earlier-work notes. Its two prerequisite phases are closed. I’m using `sase_repo` to inspect the Mac client and confirm what remains for the preview and success message.
+The master-HEAD run failed: `swift test` ran past its 15-minute limit and CI sampled xctest for a hang. I'm digging into which test stalled and whether the ir.11 suites are involved.
 
+I'm tracing why an explicit preview of a complete record draft never reaches `.ready` while the live path works. Reading `completePreview` now.
 
-The Record Card has landed, but the Mac client does not yet decode or render `note_files[]`. I also found that capture success JSON omits the record label, emoji, and note count used by the CLI. The plan will address that contract gap so the Mac can show an accurate summary without reading the vault.
+Enough context to plan. Reading the SASE size guidance as the plan skill requires.
 
+Last checks before writing the plan: the workflow file name, and whether anything else references the watchdog's 900s value.
 
-This looks bounded enough for one coding agent, so I’m writing a medium tale plan. It will cover the property sheet, exact Markdown disclosure, inline refusal, and success message, with macOS compilation, layout checks, and latency measurements required before closure.
+I have the root causes. Writing the plan now: a small tale with test-only fixes, a Mac compile check, a `macos-ci-check` gate, then closing ir.11.
 
+Validation passed. Before proposing, I'm recording the CI evidence as a note on the bead so the coder and land agent can see it.
 
-The plan passes validation with no warnings. I’m submitting it through SASE’s review handoff. The [`sase_plan` skill](/home/bryan/.codex/skills/sase_plan/SKILL.md) requires “finish through `/sase_final`” once the proposal is staged, so implementation will follow that handoff.
+The plan is staged. Finishing the turn through `/sase_final`.
 
+bob-cli-ir.11 is still open: the macOS tests for this phase fail on CI, so I didn't close it. I staged a small follow-up plan to fix them, and it was auto-approved because its one decision took the default.
 
-The proposal is staged. I’m using `sase_final` to complete the handoff; `bob-cli-ir.11` remains in progress.
+The earlier work all landed and doesn't need redoing:
+- **bob-cli** `84ff0bb8`: the per-item `record_note` summary in capture JSON.
+- **bob-mac-capture** `fe9ce15`: the record preview, refusal card, success line and notification wiring. `90fa59d` from bob-cli-ix sits on top as master HEAD.
 
+**Master CI for the Mac repo is red because of this phase's own tests.** The bead was open only for a macOS CI verdict, since Bryan canceled both earlier `macos-ci-check` runs. Those tests had never run anywhere: the Mac has no XCTest, so CI is the only place they run. Now that master CI has finished:
+- **Run 42657112529** (`90fa59d`): 4,493 tests, 4 failures, all in `CaptureRecordPreviewPanelTests`.
+- **Run 42656980197** (`fe9ce15`): the same two tests fail with the same timings, so they are not flaky. Its other failures came from the parent commit, and `90fa59d` fixed those.
+- Every other suite from this phase passed on CI, including the record design tests, preview presentation tests and notification tests.
 
-Validated and staged the implementation plan for `bob-cli-ir.11`. Existing prerequisite work is accounted for; implementation has not started, and the bead remains in progress.
+**Both failures are test bugs, not product bugs:**
+- **`testExplicitPreviewOfCompleteDraftIsReadyWithSummary`:** it waits for the preview to become ready, but only live previews set that state. An explicit `preview()` call fills the results list instead, so the wait can never succeed.
+- **`testDelayedStaleSuccessReplyNeverClobbersCurrentRefusal`:** the test makes two edits back to back with no delay between them. The second edit cancels the first before its dry run starts. The fake `bob` then sees a single call and returns the success fixture where the test expects a refusal.
 
-The [SASE planning skill](/home/bryan/.codex/skills/sase_plan/SKILL.md) requires “finish through `/sase_final`” after staging. That handoff is complete.
+**The `90fa59d` run also hit the 15-minute test watchdog**, at 15m09s; typical green runs take 11–12 minutes. The two failing tests waited about 27s before failing; without that, the run would have been only about 18s under the limit. So a slow runner could fail a run in which every test passes.
+
+**The staged plan** (`sase_plan_ir11_record_preview_ci_green.md`, size small):
+- Fix only the test file, `Tests/BobMacCaptureTests/CaptureRecordPreviewPanelTests.swift`.
+- Type-check it in a scratch copy on the Mac.
+- Run `Scripts/macos-ci-check` and require a fully green Test step. If only the watchdog fails, rerun once. If someone cancels the run, commit the fix anyway but leave the bead open.
+- Then check epic symbols and close bob-cli-ir.11, never the epic.
+
+**Decision for you:** the plan includes a `ci_watchdog` choice on raising the watchdog to 20 minutes. It defaulted to leaving it at 15, because that limit is repo-wide hang-detection policy outside this phase.
+
+I added a bead note with the CI run IDs and root causes. I changed no files, so there was nothing to commit this turn.

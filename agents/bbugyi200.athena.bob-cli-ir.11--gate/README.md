@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / [bob-cli-ir.11](../../sessions/bbugyi200.athena.bob-cli-ir.11.md) / bob-cli-ir.11--gate
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.11--gate` · **State:** completed · **Source run:** `run-d1a62871e5e98d7e77e2af43e3091da3`
+**Global name:** `bbugyi200.athena.bob-cli-ir.11--gate` · **State:** completed · **Source run:** `run-ab58ac3a9963e3e3c79271c8dc35299b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
 ## Summary
 
 - Bead: [bob-cli-ir.11](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.11.md)
-- Epic: [bob-cli-ir](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/README.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 2026-11-09T14:48:46.612341+00:00 → 2026-11-09T14:49:27.025344+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-09T17:07:35.323436+00:00 → 2026-11-09T17:08:08.582048+00:00
 - Commits: 0
 
 ## Files

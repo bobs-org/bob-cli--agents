@@ -1,16 +1,16 @@
 # Chat History - ace-run (bob-cli-ir.11--gate)
 
-- **TIMESTAMP:** 2026-11-09 09:49:27 EST
-- **MODEL:** codex/gpt-6-astra
+- **TIMESTAMP:** 2026-11-09 12:08:08 EST
+- **MODEL:** claude/opus
 - **AGENT:** bob-cli-ir.11--gate
 
 ## Prompt
 
-sase gate answer --id abf7a9bf-aeaf-45a1-be33-d6493157e7b4 --kind plan
+sase gate answer --id ce381e87-b008-41ae-97d7-d4216f696bc5 --kind plan
 
 ## Response
 
-# Tale ready for review: mac_record_preview.md
+# Tale ready for review: ir11_record_preview_ci_green.md
 
 Gate state: answered
 Reason: gate resolved automatically
@@ -19,8 +19,8 @@ Output tail:
 
 ```text
 $ commands/approve
-{"action": "approve", "commit_plan": false, "run_coder": true}
+{"action": "approve", "commit_plan": false, "decisions": {"ci_watchdog": "keep"}, "run_coder": true}
 $ commands/commit
-{"action": "approve", "commit_plan": true, "run_coder": false}
+{"action": "approve", "commit_plan": true, "decisions": {"ci_watchdog": "keep"}, "run_coder": false}
 ```
 

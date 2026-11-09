@@ -2,22 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / [bob-cli-ir.11](../../sessions/bbugyi200.athena.bob-cli-ir.11.md) / bob-cli-ir.11--mon
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.11--mon` · **State:** failed · **Source run:** `run-a5e009641eb55068d024ea13213e4c1e`
+**Global name:** `bbugyi200.athena.bob-cli-ir.11--mon` · **State:** active · **Source run:** `run-ccb0d4574e2c469e0c60960fdfc7c2e6`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
 ## Summary
 
 - Bead: [bob-cli-ir.11](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.11.md)
-- Epic: [bob-cli-ir](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-09T15:11:53.358382+00:00 → 2026-11-09T16:25:43.187183+00:00
+- Timing: 2026-11-09T17:17:41.692236+00:00
 - Commits: 0
-
-## Files
-
-[Chat](chat.md)
 
 ## Neighbors
 
