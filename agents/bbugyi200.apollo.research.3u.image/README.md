@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.3u.image
 
-**Global name:** `bbugyi200.apollo.research.3u.image` · **State:** waiting · **Source run:** `run-3d2c86c893b522506fd00255cc3e7a68`
+**Global name:** `bbugyi200.apollo.research.3u.image` · **State:** completed · **Source run:** `run-3d2c86c893b522506fd00255cc3e7a68`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261109070600
+- Timing: 2026-11-09T12:47:49.899433+00:00 → 2026-11-09T13:00:36.645792+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/period\_review\_instructions\_v2/period\_review\_instructions\_v2\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109070600/period\_rev… |
+| `diagrams` | {considered: 15, count: 1, manifest: 202611/period\_review\_instructions\_v2/period\_review\_instructions\_v2.diagrams.md, source\_ref: file:explicit:cc9a761e79e2ff293c845944, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/period_review_instructions_v2/period_review_instructions_v2_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109070600/period_review_instructions_v2_infographic-3a2e28f671be.png
+  ref: file:explicit:b73785acf0a4843c94cc2989
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/period_review_instructions_v2/period_review_instructions_v2_infographic.png
+- kind: markdown
+  label: diagrams:202611/period_review_instructions_v2/period_review_instructions_v2.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109070600/period_review_instructions_v2.diagrams-eba90561a0c0.md
+  ref: file:explicit:ec55ac16584dc2fe9e27b5f7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/period_review_instructions_v2/period_review_instructions_v2.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 1
+manifest: 202611/period_review_instructions_v2/period_review_instructions_v2.diagrams.md
+source_ref: file:explicit:cc9a761e79e2ff293c845944
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
