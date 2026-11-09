@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-3j` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-3j.land--gate [active]"]
-  n1["bob-cli-3j.land--mon [active]"]
+  n0["bob-cli-3j.land--gate [dismissed]"]
+  n1["bob-cli-3j.land--mon [dismissed]"]
   n0 --> n1
-  n2["bob-cli-3j.land--plan [active]"]
+  n2["bob-cli-3j.land--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,22 +19,22 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | bob-cli-3j.land--gate | active | opus / claude | 2026-10-02T18:26:10.044024+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-3j.land--gate/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-3j.land--mon | active | opus / claude | 2026-10-02T18:26:15.661716+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-3j.land--mon/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-3j.land--plan | active | opus / claude | 2026-10-02T18:04:05.341597+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-3j.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-3j.land--plan/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-3j.land--gate | dismissed | opus / claude | 2026-10-02T14:26:10.044024 → 2026-10-02T14:26:16 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-3j.land--gate/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-3j.land--mon | dismissed | opus / claude | 2026-10-02T14:26:15.661716 → 2026-10-02T14:29:40.551287 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-3j.land--mon/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-3j.land--plan | dismissed | opus / claude | 2026-10-02T14:04:05.341597 → 2026-10-02T14:26:20.396432 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-3j.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-3j.land--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-3j.1](../agents/bbugyi200.apollo.bob-cli-3j.1/README.md) | bob-cli-3j hood | active |
-| [bob-cli-3j.2](../agents/bbugyi200.apollo.bob-cli-3j.2/README.md) | bob-cli-3j hood | active |
-| [bob-cli-3j.3](../agents/bbugyi200.apollo.bob-cli-3j.3/README.md) | bob-cli-3j hood | active |
-| [bob-cli-3j.4](../agents/bbugyi200.apollo.bob-cli-3j.4/README.md) | bob-cli-3j hood | active |
-| [bob-cli-3j.5](../agents/bbugyi200.apollo.bob-cli-3j.5/README.md) | bob-cli-3j hood | active |
-| [bob-cli-3j.6](../agents/bbugyi200.apollo.bob-cli-3j.6/README.md) | bob-cli-3j hood | active |
-| [bob-cli-3j.7](../agents/bbugyi200.apollo.bob-cli-3j.7/README.md) | bob-cli-3j hood | active |
-| [bob-cli-3j.8](../agents/bbugyi200.apollo.bob-cli-3j.8/README.md) | bob-cli-3j hood | active |
-| [bob-cli-3j.9.1](../agents/bbugyi200.apollo.bob-cli-3j.9.1/README.md) | bob-cli-3j hood | active |
-| [bob-cli-3j.9.2](../agents/bbugyi200.apollo.bob-cli-3j.9.2/README.md) | bob-cli-3j hood | active |
-| [bob-cli-3j.9.land](../agents/bbugyi200.apollo.bob-cli-3j.9.land/README.md) | bob-cli-3j hood | active |
+| [bob-cli-3j.1](../agents/bbugyi200.apollo.bob-cli-3j.1/README.md) | bob-cli-3j hood | dismissed |
+| [bob-cli-3j.2](../agents/bbugyi200.apollo.bob-cli-3j.2/README.md) | bob-cli-3j hood | dismissed |
+| [bob-cli-3j.3](../agents/bbugyi200.apollo.bob-cli-3j.3/README.md) | bob-cli-3j hood | dismissed |
+| [bob-cli-3j.4](../agents/bbugyi200.apollo.bob-cli-3j.4/README.md) | bob-cli-3j hood | dismissed |
+| [bob-cli-3j.5](../agents/bbugyi200.apollo.bob-cli-3j.5/README.md) | bob-cli-3j hood | dismissed |
+| [bob-cli-3j.6](../agents/bbugyi200.apollo.bob-cli-3j.6/README.md) | bob-cli-3j hood | dismissed |
+| [bob-cli-3j.7](../agents/bbugyi200.apollo.bob-cli-3j.7/README.md) | bob-cli-3j hood | dismissed |
+| [bob-cli-3j.8](../agents/bbugyi200.apollo.bob-cli-3j.8/README.md) | bob-cli-3j hood | dismissed |
+| [bob-cli-3j.9.1](../agents/bbugyi200.apollo.bob-cli-3j.9.1/README.md) | bob-cli-3j hood | dismissed |
+| [bob-cli-3j.9.2](../agents/bbugyi200.apollo.bob-cli-3j.9.2/README.md) | bob-cli-3j hood | dismissed |
+| [bob-cli-3j.9.land](../agents/bbugyi200.apollo.bob-cli-3j.9.land/README.md) | bob-cli-3j hood | dismissed |
