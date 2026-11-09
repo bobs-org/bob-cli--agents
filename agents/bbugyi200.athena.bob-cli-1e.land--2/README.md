@@ -22,14 +22,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6be39a7`](https://github.com/bobs-org/bob-cli/commit/6be39a78458b0d4bf39773c6df14411e148d603d) | docs: correct how desktop Obsidian stores sync exclusions | 2026-08-27 09:31:02 EDT |
+| — | `6be39a7` | docs: correct how desktop Obsidian stores sync exclusions | 2026-08-27 09:31:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-1e.1](../../sessions/bbugyi200.athena.bob-cli-1e.1.md) (session · 2) | bob-cli-1e hood | active 1, completed 1 |
-| [bob-cli-1e.2](../bbugyi200.athena.bob-cli-1e.2/README.md) | bob-cli-1e hood | active |
-| [bob-cli-1e.3](../bbugyi200.athena.bob-cli-1e.3/README.md) | bob-cli-1e hood | active |
-| [bob-cli-1e.4](../../sessions/bbugyi200.athena.bob-cli-1e.4.md) (session · 2) | bob-cli-1e hood | active 1, completed 1 |
-| [bob-cli-1e.5](../bbugyi200.athena.bob-cli-1e.5/README.md) | bob-cli-1e hood | active |
+| [bob-cli-1e.1](../../sessions/bbugyi200.athena.bob-cli-1e.1.md) (session · 2) | bob-cli-1e hood | completed 1, dismissed 1 |
+| [bob-cli-1e.2](../bbugyi200.athena.bob-cli-1e.2/README.md) | bob-cli-1e hood | dismissed |
+| [bob-cli-1e.3](../bbugyi200.athena.bob-cli-1e.3/README.md) | bob-cli-1e hood | dismissed |
+| [bob-cli-1e.4](../../sessions/bbugyi200.athena.bob-cli-1e.4.md) (session · 2) | bob-cli-1e hood | completed 1, dismissed 1 |
+| [bob-cli-1e.5](../bbugyi200.athena.bob-cli-1e.5/README.md) | bob-cli-1e hood | dismissed |

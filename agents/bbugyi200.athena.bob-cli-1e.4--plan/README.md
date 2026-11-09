@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-1e](../../users/bbugyi200/machines/athena/hoods/bob-cli-1e/README.md) / [bob-cli-1e.4](../../sessions/bbugyi200.athena.bob-cli-1e.4.md) / bob-cli-1e.4--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-1e.4--plan` · **State:** active · **Source run:** `run-507043649cf9c4e5add0ede290babbc3`
+**Global name:** `bbugyi200.athena.bob-cli-1e.4--plan` · **State:** dismissed · **Source run:** `run-507043649cf9c4e5add0ede290babbc3`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-1e
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-1e](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-1e/README.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 2026-08-27T12:35:14.271476+00:00
+- Timing: 2026-08-27T08:14:20
 - Commits: 0
 
 ## Files
@@ -23,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-1e.1](../../sessions/bbugyi200.athena.bob-cli-1e.1.md) (session · 2) | bob-cli-1e hood | active 1, completed 1 |
-| [bob-cli-1e.2](../bbugyi200.athena.bob-cli-1e.2/README.md) | bob-cli-1e hood | active |
-| [bob-cli-1e.3](../bbugyi200.athena.bob-cli-1e.3/README.md) | bob-cli-1e hood | active |
-| [bob-cli-1e.5](../bbugyi200.athena.bob-cli-1e.5/README.md) | bob-cli-1e hood | active |
-| [bob-cli-1e.land](../../sessions/bbugyi200.athena.bob-cli-1e.land.md) (session · 3) | bob-cli-1e hood | active 2, completed 1 |
+| [bob-cli-1e.1](../../sessions/bbugyi200.athena.bob-cli-1e.1.md) (session · 2) | bob-cli-1e hood | completed 1, dismissed 1 |
+| [bob-cli-1e.2](../bbugyi200.athena.bob-cli-1e.2/README.md) | bob-cli-1e hood | dismissed |
+| [bob-cli-1e.3](../bbugyi200.athena.bob-cli-1e.3/README.md) | bob-cli-1e hood | dismissed |
+| [bob-cli-1e.5](../bbugyi200.athena.bob-cli-1e.5/README.md) | bob-cli-1e hood | dismissed |
+| [bob-cli-1e.land](../../sessions/bbugyi200.athena.bob-cli-1e.land.md) (session · 3) | bob-cli-1e hood | active 1, completed 1, dismissed 1 |

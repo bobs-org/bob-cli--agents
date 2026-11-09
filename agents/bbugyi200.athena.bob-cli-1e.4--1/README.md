@@ -23,8 +23,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-1e.1](../../sessions/bbugyi200.athena.bob-cli-1e.1.md) (session · 2) | bob-cli-1e hood | active 1, completed 1 |
-| [bob-cli-1e.2](../bbugyi200.athena.bob-cli-1e.2/README.md) | bob-cli-1e hood | active |
-| [bob-cli-1e.3](../bbugyi200.athena.bob-cli-1e.3/README.md) | bob-cli-1e hood | active |
-| [bob-cli-1e.5](../bbugyi200.athena.bob-cli-1e.5/README.md) | bob-cli-1e hood | active |
-| [bob-cli-1e.land](../../sessions/bbugyi200.athena.bob-cli-1e.land.md) (session · 3) | bob-cli-1e hood | active 2, completed 1 |
+| [bob-cli-1e.1](../../sessions/bbugyi200.athena.bob-cli-1e.1.md) (session · 2) | bob-cli-1e hood | completed 1, dismissed 1 |
+| [bob-cli-1e.2](../bbugyi200.athena.bob-cli-1e.2/README.md) | bob-cli-1e hood | dismissed |
+| [bob-cli-1e.3](../bbugyi200.athena.bob-cli-1e.3/README.md) | bob-cli-1e hood | dismissed |
+| [bob-cli-1e.5](../bbugyi200.athena.bob-cli-1e.5/README.md) | bob-cli-1e hood | dismissed |
+| [bob-cli-1e.land](../../sessions/bbugyi200.athena.bob-cli-1e.land.md) (session · 3) | bob-cli-1e hood | active 1, completed 1, dismissed 1 |
