@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a6124f7d633d9507a6fbf74987ef418d"}
+{"commits":[{"committed_at":1794255057,"sha":"e802071f8d39039a5ae7c8b191ec456ca8557db0","subject":"feat(archive): apply plans under the lock with dry-run preview and JSON report"}],"schema_version":2,"source_run_id":"run-a6124f7d633d9507a6fbf74987ef418d"}

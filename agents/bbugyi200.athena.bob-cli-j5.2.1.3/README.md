@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-j5](../../users/bbugyi200/machines/athena/hoods/bob-cli-j5/README.md) / bob-cli-j5.2.1.3
 
-**Global name:** `bbugyi200.athena.bob-cli-j5.2.1.3` · **State:** waiting · **Source run:** `run-a6124f7d633d9507a6fbf74987ef418d`
+**Global name:** `bbugyi200.athena.bob-cli-j5.2.1.3` · **State:** completed · **Source run:** `run-a6124f7d633d9507a6fbf74987ef418d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-j5
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-j5.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j5/bob-cli-j5.2.1.md)
 - Model: sonnet
 - Provider: claude
-- Timing: 20261109122054
-- Commits: 0
+- Timing: 2026-11-09T19:19:41.557129+00:00 → 2026-11-09T20:11:31.933814+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e802071`](https://github.com/bobs-org/bob-cli/commit/e802071f8d39039a5ae7c8b191ec456ca8557db0) | feat(archive): apply plans under the lock with dry-run preview and JSON report | 2026-11-09 15:10:57 EST |
 
 ## Neighbors
 
