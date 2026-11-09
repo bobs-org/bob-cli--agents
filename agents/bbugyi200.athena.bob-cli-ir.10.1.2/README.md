@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.10.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.10.1.2` · **State:** waiting · **Source run:** `run-1d5c80cd9af5ba396e8181bb05bd9257`
+**Global name:** `bbugyi200.athena.bob-cli-ir.10.1.2` · **State:** completed · **Source run:** `run-1d5c80cd9af5ba396e8181bb05bd9257`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-ir.10.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/bob-cli-ir.10.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261109025128
+- Timing: 2026-11-09T08:39:51.108611+00:00 → 2026-11-09T09:07:06.548002+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
