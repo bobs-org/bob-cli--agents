@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-j5
 
-**Global hood:** `bbugyi200.athena.bob-cli-j5` · **Runs:** 17 · **Sessions:** 2 · **States:** active 1, completed 6, waiting 10
+**Global hood:** `bbugyi200.athena.bob-cli-j5` · **Runs:** 17 · **Sessions:** 2 · **States:** active 1, completed 7, waiting 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-j5.4](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4/README.md) | waiting | gpt-6-astra / codex | 20261109110548 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4/prompt.md) |
-| [bob-cli-j5.2.1.2](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.2/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261109122053 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.2/prompt.md) |
+| [bob-cli-j5.2.1.2](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.2/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-09T18:12:19.413384+00:00 → 2026-11-09T19:18:50.037787+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.2/chat.md) |
 | [bob-cli-j5.8](../../../../../../agents/bbugyi200.athena.bob-cli-j5.8/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261109110552 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.8/prompt.md) |
 | [bob-cli-j5.5](../../../../../../agents/bbugyi200.athena.bob-cli-j5.5/README.md) | waiting | gpt-6-luna / codex | 20261109110549 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.5/prompt.md) |
 | [bob-cli-j5.2.1.1--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-j5.2.1.1.md#member-plan) | completed | grok-4.6 / grok | 2026-11-09T17:22:13.939227+00:00 → 2026-11-09T17:48:33.554353+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.1--plan/chat.md) |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-j5](../../users/bbugyi200/machines/athena/hoods/bob-cli-j5/README.md) / bob-cli-j5.2.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-j5.2.1.2` · **State:** waiting · **Source run:** `run-322e1b8969487e89be562459c46eea9d`
+**Global name:** `bbugyi200.athena.bob-cli-j5.2.1.2` · **State:** completed · **Source run:** `run-322e1b8969487e89be562459c46eea9d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-j5
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-j5.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j5/bob-cli-j5.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261109122053
-- Commits: 0
+- Timing: 2026-11-09T18:12:19.413384+00:00 → 2026-11-09T19:18:50.037787+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`37df0e5`](https://github.com/bobs-org/bob-cli/commit/37df0e52cf364c82bf5017ea8ee74d9443f66801) | feat(collect-done): snapshot inputs with exact replay and plan-wide refusal | 2026-11-09 14:18:18 EST |
 
 ## Neighbors
 
