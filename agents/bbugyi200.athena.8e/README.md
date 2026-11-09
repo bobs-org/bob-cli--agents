@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [8e](../../users/bbugyi200/machines/athena/hoods/8e/README.md) / [8e](../../sessions/bbugyi200.athena.8e.md) / 8e
 
-**Global name:** `bbugyi200.athena.8e` · **State:** active · **Source run:** `run-f1a970226cf3b6e0c12834958c5fd605`
+**Global name:** `bbugyi200.athena.8e` · **State:** dismissed · **Source run:** `run-f1a970226cf3b6e0c12834958c5fd605`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 8e
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-14T12:12:29.303018+00:00
+- Timing: 2026-07-14T08:12:29.303018 → 2026-07-14T08:22:01.766621
 - Commits: 0
 
 ## Files
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [8e.f0](../bbugyi200.athena.8e.f0/README.md) | descendant | active |
-| [8e.f1](../bbugyi200.athena.8e.f1/README.md) | descendant | active |
+| [8e.f0](../bbugyi200.athena.8e.f0/README.md) | descendant | dismissed |
+| [8e.f1](../bbugyi200.athena.8e.f1/README.md) | descendant | dismissed |
