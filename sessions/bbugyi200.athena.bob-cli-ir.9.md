@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-ir` · Members: 2 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ir.9--mon [active]"]
-  n1["bob-cli-ir.9--plan [active]"]
+  n0["bob-cli-ir.9--mon [failed]"]
+  n1["bob-cli-ir.9--plan [completed]"]
   n0 --> n1
 ```
 
@@ -17,8 +17,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-ir.9--mon | active | grok-4.6 / grok | 2026-11-09T12:41:43.309664+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-ir.9--plan | active | grok-4.6 / grok | 2026-11-09T12:07:32.932830+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.9--plan/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-ir.9--mon | failed | grok-4.6 / grok | 2026-11-09T12:41:43.309664+00:00 → 2026-11-09T12:49:05.861142+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ir.9--mon/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ir.9--plan | completed | grok-4.6 / grok | 2026-11-09T12:07:32.932830+00:00 → 2026-11-09T12:42:59.053434+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.9--plan/chat.md) |
 
 ## Neighbors
 
@@ -57,5 +57,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ir.7.1.4](../agents/bbugyi200.athena.bob-cli-ir.7.1.4/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.5](../agents/bbugyi200.athena.bob-cli-ir.7.1.5/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.land](bbugyi200.athena.bob-cli-ir.7.1.land.md) (session · 3) | bob-cli-ir hood | completed 3 |
-| [bob-cli-ir.8](../agents/bbugyi200.athena.bob-cli-ir.8/README.md) | bob-cli-ir hood | waiting |
+| [bob-cli-ir.8](../agents/bbugyi200.athena.bob-cli-ir.8/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.land](../agents/bbugyi200.athena.bob-cli-ir.land/README.md) | bob-cli-ir hood | waiting |

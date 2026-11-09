@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / bob-cli-ir.8
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.8` · **State:** waiting · **Source run:** `run-ae21dac9bdd535d5cfe22d844ed4cd73`
+**Global name:** `bbugyi200.athena.bob-cli-ir.8` · **State:** completed · **Source run:** `run-ae21dac9bdd535d5cfe22d844ed4cd73`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ir](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261108110809
-- Commits: 0
+- Timing: 2026-11-09T12:06:56.152048+00:00 → 2026-11-09T12:47:56.438244+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`44427b3`](https://github.com/bobs-org/bob-cli/commit/44427b30fab9705a7f0569d8588a1d9767d57d34) | feat(capture)!: show similar records in capture-related | 2026-11-09 07:47:09 EST |
 
 ## Neighbors
 
@@ -56,5 +62,5 @@
 | [bob-cli-ir.7.1.4](../bbugyi200.athena.bob-cli-ir.7.1.4/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.5](../bbugyi200.athena.bob-cli-ir.7.1.5/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.land](../../sessions/bbugyi200.athena.bob-cli-ir.7.1.land.md) (session · 3) | bob-cli-ir hood | completed 3 |
-| [bob-cli-ir.9](../../sessions/bbugyi200.athena.bob-cli-ir.9.md) (session · 2) | bob-cli-ir hood | active 2 |
+| [bob-cli-ir.9](../../sessions/bbugyi200.athena.bob-cli-ir.9.md) (session · 2) | bob-cli-ir hood | completed 1, failed 1 |
 | [bob-cli-ir.land](../bbugyi200.athena.bob-cli-ir.land/README.md) | bob-cli-ir hood | waiting |

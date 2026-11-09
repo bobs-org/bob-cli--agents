@@ -86,6 +86,6 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-ir.7.1.4](../agents/bbugyi200.athena.bob-cli-ir.7.1.4/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.5](../agents/bbugyi200.athena.bob-cli-ir.7.1.5/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.land](bbugyi200.athena.bob-cli-ir.7.1.land.md) (session · 3) | bob-cli-ir hood | completed 3 |
-| [bob-cli-ir.8](../agents/bbugyi200.athena.bob-cli-ir.8/README.md) | bob-cli-ir hood | waiting |
-| [bob-cli-ir.9](bbugyi200.athena.bob-cli-ir.9.md) (session · 2) | bob-cli-ir hood | active 2 |
+| [bob-cli-ir.8](../agents/bbugyi200.athena.bob-cli-ir.8/README.md) | bob-cli-ir hood | completed |
+| [bob-cli-ir.9](bbugyi200.athena.bob-cli-ir.9.md) (session · 2) | bob-cli-ir hood | completed 1, failed 1 |
 | [bob-cli-ir.land](../agents/bbugyi200.athena.bob-cli-ir.land/README.md) | bob-cli-ir hood | waiting |
