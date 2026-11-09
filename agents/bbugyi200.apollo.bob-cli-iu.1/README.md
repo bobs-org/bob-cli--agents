@@ -30,4 +30,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-iu.2](../../sessions/bbugyi200.apollo.bob-cli-iu.2.md) (session · 3) | bob-cli-iu hood | completed 3 |
-| [bob-cli-iu.land](../../sessions/bbugyi200.apollo.bob-cli-iu.land.md) (session · 3) | bob-cli-iu hood | active 2, completed 1 |
+| [bob-cli-iu.land](../../sessions/bbugyi200.apollo.bob-cli-iu.land.md) (session · 9) | bob-cli-iu hood | completed 7, failed 2 |
