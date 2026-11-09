@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e6b70be`](https://github.com/bobs-org/bob-cli/commit/e6b70be4c0c7ddbd06abbe5e567257f40e6d5bfd) | feat(capture)!: add counted clipboard history | 2026-07-15 19:21:22 EDT |
+| — | `e6b70be` | feat(capture)!: add counted clipboard history | 2026-07-15 19:21:22 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9r.f0](../../sessions/bbugyi200.athena.9r.f0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [9r](../../sessions/bbugyi200.athena.9r.md) (session · 2) | ancestor | active 1, completed 1 |
+| [9r.f0](../../sessions/bbugyi200.athena.9r.f0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [9r](../../sessions/bbugyi200.athena.9r.md) (session · 2) | ancestor | completed 1, dismissed 1 |

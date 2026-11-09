@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7a0bf99`](https://github.com/bobs-org/bob-cli/commit/7a0bf9935e6ccb4f49d05fbe019cbba44172c20a) | feat(capture)!: make clipboard headers opt-in | 2026-07-15 18:37:57 EDT |
+| — | `7a0bf99` | feat(capture)!: make clipboard headers opt-in | 2026-07-15 18:37:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9r](../../sessions/bbugyi200.athena.9r.md) (session · 2) | ancestor | active 1, completed 1 |
-| [9r.f0.f0](../../sessions/bbugyi200.athena.9r.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [9r](../../sessions/bbugyi200.athena.9r.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [9r.f0.f0](../../sessions/bbugyi200.athena.9r.f0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

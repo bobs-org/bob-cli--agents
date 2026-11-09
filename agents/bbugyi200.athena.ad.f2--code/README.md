@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bf21097`](https://github.com/bobs-org/bob-cli/commit/bf210971c13aa5060ecf145f7fbc7ecbbec40ccd) | feat(cli): recover task status dependency state | 2026-07-16 11:51:07 EDT |
+| — | `bf21097` | feat(cli): recover task status dependency state | 2026-07-16 11:51:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [ad](../../sessions/bbugyi200.athena.ad.md) (session · 2) | ancestor | active 1, completed 1 |
-| [ad.f0](../bbugyi200.athena.ad.f0/README.md) | ad hood | active |
-| [ad.f1](../bbugyi200.athena.ad.f1/README.md) | ad hood | waiting |
+| [ad](../../sessions/bbugyi200.athena.ad.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [ad.f0](../bbugyi200.athena.ad.f0/README.md) | ad hood | dismissed |
+| [ad.f1](../bbugyi200.athena.ad.f1/README.md) | ad hood | dismissed |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `9r` · Members: 2
 ```mermaid
 flowchart TD
   n0["9r.f0--code [completed]"]
-  n1["9r.f0 [active]"]
+  n1["9r.f0 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,17 +18,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 9r.f0--code | completed | gpt-5.6-sol / codex | 2026-07-15T22:29:05.250273+00:00 | [1](../agents/bbugyi200.athena.9r.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.9r.f0--code/chat.md) |
-| <a id="member-root"></a>root | 9r.f0 | active | gpt-5.6-sol / codex | 2026-07-15T22:26:21.916602+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.9r.f0/prompt.md) | [Chat](../agents/bbugyi200.athena.9r.f0/chat.md) |
+| <a id="member-root"></a>root | 9r.f0 | dismissed | gpt-5.6-sol / codex | 2026-07-15T18:26:21.916602 → 2026-07-15T18:38:11.187223 | 0 | [Prompt](../agents/bbugyi200.athena.9r.f0/prompt.md) | [Chat](../agents/bbugyi200.athena.9r.f0/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`7a0bf99`](https://github.com/bobs-org/bob-cli/commit/7a0bf9935e6ccb4f49d05fbe019cbba44172c20a) | feat(capture)!: make clipboard headers opt-in | 2026-07-15 18:37:57 EDT |
+| code | — | `7a0bf99` | feat(capture)!: make clipboard headers opt-in | 2026-07-15 18:37:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9r](bbugyi200.athena.9r.md) (session · 2) | ancestor | active 1, completed 1 |
-| [9r.f0.f0](bbugyi200.athena.9r.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [9r](bbugyi200.athena.9r.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [9r.f0.f0](bbugyi200.athena.9r.f0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

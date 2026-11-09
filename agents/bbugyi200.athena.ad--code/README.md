@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fc39562`](https://github.com/bobs-org/bob-cli/commit/fc39562c3d7dc5fb07501a5a139237df8fe9996f) | feat: reconcile dependency-blocked task statuses | 2026-07-16 11:17:03 EDT |
+| — | `fc39562` | feat: reconcile dependency-blocked task statuses | 2026-07-16 11:17:03 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [ad.f0](../bbugyi200.athena.ad.f0/README.md) | descendant | active |
-| [ad.f1](../bbugyi200.athena.ad.f1/README.md) | descendant | waiting |
-| [ad.f2](../../sessions/bbugyi200.athena.ad.f2.md) (session · 2) | descendant | active 1, completed 1 |
+| [ad.f0](../bbugyi200.athena.ad.f0/README.md) | descendant | dismissed |
+| [ad.f1](../bbugyi200.athena.ad.f1/README.md) | descendant | dismissed |
+| [ad.f2](../../sessions/bbugyi200.athena.ad.f2.md) (session · 2) | descendant | completed 1, dismissed 1 |
