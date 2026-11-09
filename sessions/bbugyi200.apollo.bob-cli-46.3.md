@@ -42,4 +42,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-46.1](../agents/bbugyi200.apollo.bob-cli-46.1/README.md) | bob-cli-46 hood | completed |
 | [bob-cli-46.2](bbugyi200.apollo.bob-cli-46.2.md) (session · 7) | bob-cli-46 hood | completed 4, failed 3 |
 | [bob-cli-46.4](../agents/bbugyi200.apollo.bob-cli-46.4/README.md) | bob-cli-46 hood | completed |
-| [bob-cli-46.land](bbugyi200.apollo.bob-cli-46.land.md) (session · 3) | bob-cli-46 hood | active 1, completed 1, failed 1 |
+| [bob-cli-46.land](bbugyi200.apollo.bob-cli-46.land.md) (session · 3) | bob-cli-46 hood | completed 1, dismissed 1, failed 1 |

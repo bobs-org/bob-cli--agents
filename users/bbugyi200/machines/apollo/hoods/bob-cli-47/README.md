@@ -2,13 +2,13 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-47
 
-**Global hood:** `bbugyi200.apollo.bob-cli-47` · **Runs:** 16 · **Sessions:** 5 · **States:** active 1, completed 10, failed 5
+**Global hood:** `bbugyi200.apollo.bob-cli-47` · **Runs:** 16 · **Sessions:** 5 · **States:** completed 10, dismissed 1, failed 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-47.1--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-47.1.md#member-code) | completed | gpt-6-luna / codex | 2026-10-04T11:22:08.322253+00:00 → 2026-10-04T11:44:58.391721+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-47.1--code/chat.md) |
 | [bob-cli-47.1--gate](../../../../../../sessions/bbugyi200.apollo.bob-cli-47.1.md#member-gate) | failed | gpt-6.1-sol / codex | 2026-10-04T11:21:52.763468+00:00 → 2026-10-04T11:22:01.472662+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-47.1--gate/chat.md) |
-| [bob-cli-47.land](../../../../../../agents/bbugyi200.apollo.bob-cli-47.land/README.md) | active | opus / claude | 2026-10-04T14:10:19.467357+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-47.land/prompt.md) |
+| [bob-cli-47.land](../../../../../../agents/bbugyi200.apollo.bob-cli-47.land/README.md) | dismissed | opus / claude | 2026-10-04T10:10:19.467357 → 2026-10-04T10:21:36.863971 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-47.land/prompt.md) |
 | [bob-cli-47.4--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-47.4.md#member-code) | completed | gpt-6-luna / codex | 2026-10-04T13:37:27.573111+00:00 → 2026-10-04T13:49:20.432774+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-47.4--code/chat.md) |
 | [bob-cli-47.5--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-47.5.md#member-code) | completed | grok-4.6 / grok | 2026-10-04T13:58:00.867969+00:00 → 2026-10-04T14:10:15.633201+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-47.5--code/chat.md) |
 | [bob-cli-47.4--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-47.4.md#member-plan) | completed | grok-4.7 / grok | 2026-10-04T13:23:13.653966+00:00 → 2026-10-04T13:49:20.432774+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-47.4--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-47.4--plan/prompt.md) |

@@ -28,4 +28,4 @@
 | [bob-cli-48.3](../../sessions/bbugyi200.apollo.bob-cli-48.3.md) (session · 3) | bob-cli-48 hood | completed 2, failed 1 |
 | [bob-cli-48.4](../bbugyi200.apollo.bob-cli-48.4/README.md) | bob-cli-48 hood | completed |
 | [bob-cli-48.6](../bbugyi200.apollo.bob-cli-48.6/README.md) | bob-cli-48 hood | completed |
-| [bob-cli-48.land](../bbugyi200.apollo.bob-cli-48.land/README.md) | bob-cli-48 hood | active |
+| [bob-cli-48.land](../bbugyi200.apollo.bob-cli-48.land/README.md) | bob-cli-48 hood | dismissed |

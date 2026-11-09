@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`f873b7b`](https://github.com/bobs-org/bob-cli/commit/f873b7b6d6d3d6ee4f8bed8d698e4f7969ae589b) | feat(freshness): add PRE/POST checklist tiers (schema 9) | 2026-10-04 09:53:01 EDT |
+| 1 | — | `f873b7b` | feat(freshness): add PRE/POST checklist tiers (schema 9) | 2026-10-04 09:53:01 EDT |
 
 ## Neighbors
 
@@ -38,4 +38,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-48.4](../agents/bbugyi200.apollo.bob-cli-48.4/README.md) | bob-cli-48 hood | completed |
 | [bob-cli-48.5](../agents/bbugyi200.apollo.bob-cli-48.5/README.md) | bob-cli-48 hood | completed |
 | [bob-cli-48.6](../agents/bbugyi200.apollo.bob-cli-48.6/README.md) | bob-cli-48 hood | completed |
-| [bob-cli-48.land](../agents/bbugyi200.apollo.bob-cli-48.land/README.md) | bob-cli-48 hood | active |
+| [bob-cli-48.land](../agents/bbugyi200.apollo.bob-cli-48.land/README.md) | bob-cli-48 hood | dismissed |

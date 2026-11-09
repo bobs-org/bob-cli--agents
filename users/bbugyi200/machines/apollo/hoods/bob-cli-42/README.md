@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-42
 
-**Global hood:** `bbugyi200.apollo.bob-cli-42` · **Runs:** 11 · **Sessions:** 1 · **States:** active 1, completed 9, failed 1
+**Global hood:** `bbugyi200.apollo.bob-cli-42` · **Runs:** 11 · **Sessions:** 1 · **States:** completed 9, dismissed 1, failed 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bob-cli-42.land--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-42.land.md#member-plan) | active | opus / claude | 2026-10-04T00:21:28.065478+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-42.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-42.land--plan/prompt.md) |
+| [bob-cli-42.land--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-42.land.md#member-plan) | dismissed | opus / claude | 2026-10-03T20:21:28.065478 → 2026-10-03T20:43:57.921731 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-42.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-42.land--plan/prompt.md) |
 | [bob-cli-42.4](../../../../../../agents/bbugyi200.apollo.bob-cli-42.4/README.md) | completed | gpt-6-luna / codex | 2026-10-03T21:33:39.980254+00:00 → 2026-10-03T22:37:42.486816+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-42.4/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-42.4/prompt.md) |
 | [bob-cli-42.3](../../../../../../agents/bbugyi200.apollo.bob-cli-42.3/README.md) | completed | grok-4.6 / grok | 2026-10-03T21:03:19.215894+00:00 → 2026-10-03T21:33:09.993145+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-42.3/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-42.3/prompt.md) |
 | [bob-cli-42.land--gate](../../../../../../sessions/bbugyi200.apollo.bob-cli-42.land.md#member-gate) | failed | opus / claude | 2026-10-04T00:36:32.325423+00:00 → 2026-10-04T00:36:40.294384+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-42.land--gate/chat.md) |

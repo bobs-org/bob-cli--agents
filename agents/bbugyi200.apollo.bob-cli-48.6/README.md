@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b1e8d30`](https://github.com/bobs-org/bob-cli/commit/b1e8d30e92270986672b8e7e89055f56e1382eeb) | docs(freshness): rewrite morning ritual for PRE/POST closeout | 2026-10-04 11:30:38 EDT |
+| — | `b1e8d30` | docs(freshness): rewrite morning ritual for PRE/POST closeout | 2026-10-04 11:30:38 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-48.3](../../sessions/bbugyi200.apollo.bob-cli-48.3.md) (session · 3) | bob-cli-48 hood | completed 2, failed 1 |
 | [bob-cli-48.4](../bbugyi200.apollo.bob-cli-48.4/README.md) | bob-cli-48 hood | completed |
 | [bob-cli-48.5](../bbugyi200.apollo.bob-cli-48.5/README.md) | bob-cli-48 hood | completed |
-| [bob-cli-48.land](../bbugyi200.apollo.bob-cli-48.land/README.md) | bob-cli-48 hood | active |
+| [bob-cli-48.land](../bbugyi200.apollo.bob-cli-48.land/README.md) | bob-cli-48 hood | dismissed |

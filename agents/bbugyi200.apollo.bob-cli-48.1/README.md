@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`354b5ae`](https://github.com/bobs-org/bob-cli/commit/354b5ae5e57beeb1d68f52ca3508dc6f21a1c4c4) | docs(freshness): remove trial gates and tag daily checklist chores | 2026-10-04 09:22:47 EDT |
+| — | `354b5ae` | docs(freshness): remove trial gates and tag daily checklist chores | 2026-10-04 09:22:47 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-48.4](../bbugyi200.apollo.bob-cli-48.4/README.md) | bob-cli-48 hood | completed |
 | [bob-cli-48.5](../bbugyi200.apollo.bob-cli-48.5/README.md) | bob-cli-48 hood | completed |
 | [bob-cli-48.6](../bbugyi200.apollo.bob-cli-48.6/README.md) | bob-cli-48 hood | completed |
-| [bob-cli-48.land](../bbugyi200.apollo.bob-cli-48.land/README.md) | bob-cli-48 hood | active |
+| [bob-cli-48.land](../bbugyi200.apollo.bob-cli-48.land/README.md) | bob-cli-48 hood | dismissed |
