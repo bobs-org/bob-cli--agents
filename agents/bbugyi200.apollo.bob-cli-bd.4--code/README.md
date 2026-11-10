@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9398c5b`](https://github.com/bobs-org/bob-cli/commit/9398c5bbcca27fce050e67e029bd5a02bc60fbeb) | feat(highlights): sectioned annotation rendering with stable IDs | 2026-10-24 10:43:22 EDT |
+| — | `9398c5b` | feat(highlights): sectioned annotation rendering with stable IDs | 2026-10-24 10:43:22 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-bd.1](../bbugyi200.apollo.bob-cli-bd.1/README.md) | bob-cli-bd hood | active |
-| [bob-cli-bd.2](../../sessions/bbugyi200.apollo.bob-cli-bd.2.md) (session · 5) | bob-cli-bd hood | active 5 |
-| [bob-cli-bd.3](../bbugyi200.apollo.bob-cli-bd.3/README.md) | bob-cli-bd hood | active |
-| [bob-cli-bd.5](../bbugyi200.apollo.bob-cli-bd.5/README.md) | bob-cli-bd hood | active |
-| [bob-cli-bd.6](../bbugyi200.apollo.bob-cli-bd.6/README.md) | bob-cli-bd hood | active |
-| [bob-cli-bd.7](../../sessions/bbugyi200.apollo.bob-cli-bd.7.md) (session · 7) | bob-cli-bd hood | active 7 |
-| [bob-cli-bd.8](../../sessions/bbugyi200.apollo.bob-cli-bd.8.md) (session · 3) | bob-cli-bd hood | active 2, completed 1 |
-| [bob-cli-bd.land](../../sessions/bbugyi200.apollo.bob-cli-bd.land.md) (session · 3) | bob-cli-bd hood | active 2, completed 1 |
+| [bob-cli-bd.1](../bbugyi200.apollo.bob-cli-bd.1/README.md) | bob-cli-bd hood | dismissed |
+| [bob-cli-bd.2](../../sessions/bbugyi200.apollo.bob-cli-bd.2.md) (session · 5) | bob-cli-bd hood | dismissed 5 |
+| [bob-cli-bd.3](../bbugyi200.apollo.bob-cli-bd.3/README.md) | bob-cli-bd hood | dismissed |
+| [bob-cli-bd.5](../bbugyi200.apollo.bob-cli-bd.5/README.md) | bob-cli-bd hood | dismissed |
+| [bob-cli-bd.6](../bbugyi200.apollo.bob-cli-bd.6/README.md) | bob-cli-bd hood | dismissed |
+| [bob-cli-bd.7](../../sessions/bbugyi200.apollo.bob-cli-bd.7.md) (session · 7) | bob-cli-bd hood | dismissed 7 |
+| [bob-cli-bd.8](../../sessions/bbugyi200.apollo.bob-cli-bd.8.md) (session · 3) | bob-cli-bd hood | completed 1, dismissed 2 |
+| [bob-cli-bd.land](../../sessions/bbugyi200.apollo.bob-cli-bd.land.md) (session · 3) | bob-cli-bd hood | completed 1, dismissed 2 |

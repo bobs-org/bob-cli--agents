@@ -25,13 +25,13 @@ flowchart TD
   n0 --> n7
   n8["bob-cli-bc.5--mon-0 [dismissed]"]
   n0 --> n8
-  n9["bob-cli-bc.5--2 [active]"]
+  n9["bob-cli-bc.5--2 [dismissed]"]
   n0 --> n9
-  n10["bob-cli-bc.5--mon-4 [active]"]
+  n10["bob-cli-bc.5--mon-4 [dismissed]"]
   n0 --> n10
-  n11["bob-cli-bc.5--6 [active]"]
+  n11["bob-cli-bc.5--6 [dismissed]"]
   n0 --> n11
-  n12["bob-cli-bc.5--mon-1 [active]"]
+  n12["bob-cli-bc.5--mon-1 [dismissed]"]
   n0 --> n12
 ```
 
@@ -48,10 +48,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-3"></a>3 | bob-cli-bc.5--3 | dismissed | gpt-6-luna / codex | 2026-10-24T10:51:24.344878 → 2026-10-24T10:59:36.236182 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-bc.5--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-bc.5--3/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-bc.5--mon-2 | dismissed | gpt-6-luna / codex | 2026-10-24T10:57:58.882114 → 2026-10-24T11:02:03.375636 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-bc.5--mon-2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-bc.5--mon-0 | dismissed | gpt-6-luna / codex | 2026-10-24T10:17:07.129157 → 2026-10-24T10:19:11.307222 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-bc.5--mon-0/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-bc.5--2 | active | gpt-6-luna / codex | 2026-10-24T14:20:41.387419+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-bc.5--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-bc.5--2/chat.md) |
-| <a id="member-mon-4"></a>mon-4 | bob-cli-bc.5--mon-4 | active | gpt-6-luna / codex | 2026-10-24T15:21:00.556149+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-bc.5--mon-4/chat.md) |
-| <a id="member-6"></a>6 | bob-cli-bc.5--6 | active | muse-spark-1.3-contributor / muse | 2026-10-24T15:28:57.383164+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-bc.5--6/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-bc.5--6/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-bc.5--6/chat.md) |
-| <a id="member-mon-1"></a>mon-1 | bob-cli-bc.5--mon-1 | active | gpt-6-luna / codex | 2026-10-24T14:43:43.972468+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-bc.5--mon-1/chat.md) |
+| <a id="member-2"></a>2 | bob-cli-bc.5--2 | dismissed | gpt-6-luna / codex | 2026-10-24T10:20:41.387419 → 2026-10-24T10:45:22.910789 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-bc.5--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-bc.5--2/chat.md) |
+| <a id="member-mon-4"></a>mon-4 | bob-cli-bc.5--mon-4 | dismissed | gpt-6-luna / codex | 2026-10-24T11:21:00.556149 → 2026-10-24T11:27:45.759114 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-bc.5--mon-4/chat.md) |
+| <a id="member-6"></a>6 | bob-cli-bc.5--6 | dismissed | muse-spark-1.3-contributor / muse | 2026-10-24T11:28:57.383164 → 2026-10-24T11:58:41.769883 | [1](../agents/bbugyi200.apollo.bob-cli-bc.5--6/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-bc.5--6/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-bc.5--6/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | bob-cli-bc.5--mon-1 | dismissed | gpt-6-luna / codex | 2026-10-24T10:43:43.972468 → 2026-10-24T10:50:08.541357 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-bc.5--mon-1/chat.md) |
 
 ## Commits
 
@@ -65,14 +65,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-bc.1](../agents/bbugyi200.apollo.bob-cli-bc.1/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.10](../agents/bbugyi200.apollo.bob-cli-bc.10/README.md) | bob-cli-bc hood | dismissed |
-| [bob-cli-bc.11](../agents/bbugyi200.apollo.bob-cli-bc.11/README.md) | bob-cli-bc hood | active |
-| [bob-cli-bc.12](../agents/bbugyi200.apollo.bob-cli-bc.12/README.md) | bob-cli-bc hood | active |
+| [bob-cli-bc.11](../agents/bbugyi200.apollo.bob-cli-bc.11/README.md) | bob-cli-bc hood | dismissed |
+| [bob-cli-bc.12](../agents/bbugyi200.apollo.bob-cli-bc.12/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.13](../agents/bbugyi200.apollo.bob-cli-bc.13/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.2](../agents/bbugyi200.apollo.bob-cli-bc.2/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.3](../agents/bbugyi200.apollo.bob-cli-bc.3/README.md) | bob-cli-bc hood | dismissed |
-| [bob-cli-bc.4](../agents/bbugyi200.apollo.bob-cli-bc.4/README.md) | bob-cli-bc hood | active |
+| [bob-cli-bc.4](../agents/bbugyi200.apollo.bob-cli-bc.4/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.6](../agents/bbugyi200.apollo.bob-cli-bc.6/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.7](bbugyi200.apollo.bob-cli-bc.7.md) (session · 3) | bob-cli-bc hood | dismissed 3 |
 | [bob-cli-bc.8](../agents/bbugyi200.apollo.bob-cli-bc.8/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.9](../agents/bbugyi200.apollo.bob-cli-bc.9/README.md) | bob-cli-bc hood | dismissed |
-| [bob-cli-bc.land](bbugyi200.apollo.bob-cli-bc.land.md) (session · 7) | bob-cli-bc hood | active 3, completed 1, dismissed 2, failed 1 |
+| [bob-cli-bc.land](bbugyi200.apollo.bob-cli-bc.land.md) (session · 7) | bob-cli-bc hood | completed 1, dismissed 5, failed 1 |

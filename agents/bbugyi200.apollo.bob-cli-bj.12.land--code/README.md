@@ -22,24 +22,24 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`303d8d2`](https://github.com/bobs-org/bob-cli/commit/303d8d248aae658feff47d7be9415b0e26c2929a) | fix(relations): constrain catalog sweep to owned files and older versions | 2026-10-24 20:56:48 EDT |
+| — | `303d8d2` | fix(relations): constrain catalog sweep to owned files and older versions | 2026-10-24 20:56:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-bj.12.1](../bbugyi200.apollo.bob-cli-bj.12.1/README.md) | bob-cli-bj.12 hood | active |
-| [bob-cli-bj.12.2](../bbugyi200.apollo.bob-cli-bj.12.2/README.md) | bob-cli-bj.12 hood | active |
-| [bob-cli-bj.12.3](../bbugyi200.apollo.bob-cli-bj.12.3/README.md) | bob-cli-bj.12 hood | active |
-| [bob-cli-bj.1](../../sessions/bbugyi200.apollo.bob-cli-bj.1.md) (session · 3) | bob-cli-bj hood | active 3 |
-| [bob-cli-bj.10](../bbugyi200.apollo.bob-cli-bj.10/README.md) | bob-cli-bj hood | active |
-| [bob-cli-bj.11](../bbugyi200.apollo.bob-cli-bj.11/README.md) | bob-cli-bj hood | active |
-| [bob-cli-bj.2](../bbugyi200.apollo.bob-cli-bj.2/README.md) | bob-cli-bj hood | active |
-| [bob-cli-bj.3](../bbugyi200.apollo.bob-cli-bj.3/README.md) | bob-cli-bj hood | active |
-| [bob-cli-bj.4](../bbugyi200.apollo.bob-cli-bj.4/README.md) | bob-cli-bj hood | active |
-| [bob-cli-bj.5](../bbugyi200.apollo.bob-cli-bj.5/README.md) | bob-cli-bj hood | active |
-| [bob-cli-bj.6](../bbugyi200.apollo.bob-cli-bj.6/README.md) | bob-cli-bj hood | active |
-| [bob-cli-bj.7](../bbugyi200.apollo.bob-cli-bj.7/README.md) | bob-cli-bj hood | active |
-| [bob-cli-bj.8](../bbugyi200.apollo.bob-cli-bj.8/README.md) | bob-cli-bj hood | active |
-| [bob-cli-bj.9](../bbugyi200.apollo.bob-cli-bj.9/README.md) | bob-cli-bj hood | active |
-| [bob-cli-bj.land](../../sessions/bbugyi200.apollo.bob-cli-bj.land.md) (session · 3) | bob-cli-bj hood | active 3 |
+| [bob-cli-bj.12.1](../bbugyi200.apollo.bob-cli-bj.12.1/README.md) | bob-cli-bj.12 hood | dismissed |
+| [bob-cli-bj.12.2](../bbugyi200.apollo.bob-cli-bj.12.2/README.md) | bob-cli-bj.12 hood | dismissed |
+| [bob-cli-bj.12.3](../bbugyi200.apollo.bob-cli-bj.12.3/README.md) | bob-cli-bj.12 hood | dismissed |
+| [bob-cli-bj.1](../../sessions/bbugyi200.apollo.bob-cli-bj.1.md) (session · 3) | bob-cli-bj hood | dismissed 3 |
+| [bob-cli-bj.10](../bbugyi200.apollo.bob-cli-bj.10/README.md) | bob-cli-bj hood | dismissed |
+| [bob-cli-bj.11](../bbugyi200.apollo.bob-cli-bj.11/README.md) | bob-cli-bj hood | dismissed |
+| [bob-cli-bj.2](../bbugyi200.apollo.bob-cli-bj.2/README.md) | bob-cli-bj hood | dismissed |
+| [bob-cli-bj.3](../bbugyi200.apollo.bob-cli-bj.3/README.md) | bob-cli-bj hood | dismissed |
+| [bob-cli-bj.4](../bbugyi200.apollo.bob-cli-bj.4/README.md) | bob-cli-bj hood | dismissed |
+| [bob-cli-bj.5](../bbugyi200.apollo.bob-cli-bj.5/README.md) | bob-cli-bj hood | dismissed |
+| [bob-cli-bj.6](../bbugyi200.apollo.bob-cli-bj.6/README.md) | bob-cli-bj hood | dismissed |
+| [bob-cli-bj.7](../bbugyi200.apollo.bob-cli-bj.7/README.md) | bob-cli-bj hood | dismissed |
+| [bob-cli-bj.8](../bbugyi200.apollo.bob-cli-bj.8/README.md) | bob-cli-bj hood | dismissed |
+| [bob-cli-bj.9](../bbugyi200.apollo.bob-cli-bj.9/README.md) | bob-cli-bj hood | dismissed |
+| [bob-cli-bj.land](../../sessions/bbugyi200.apollo.bob-cli-bj.land.md) (session · 3) | bob-cli-bj hood | dismissed 3 |

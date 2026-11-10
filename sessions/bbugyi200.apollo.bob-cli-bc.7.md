@@ -29,14 +29,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-bc.1](../agents/bbugyi200.apollo.bob-cli-bc.1/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.10](../agents/bbugyi200.apollo.bob-cli-bc.10/README.md) | bob-cli-bc hood | dismissed |
-| [bob-cli-bc.11](../agents/bbugyi200.apollo.bob-cli-bc.11/README.md) | bob-cli-bc hood | active |
-| [bob-cli-bc.12](../agents/bbugyi200.apollo.bob-cli-bc.12/README.md) | bob-cli-bc hood | active |
+| [bob-cli-bc.11](../agents/bbugyi200.apollo.bob-cli-bc.11/README.md) | bob-cli-bc hood | dismissed |
+| [bob-cli-bc.12](../agents/bbugyi200.apollo.bob-cli-bc.12/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.13](../agents/bbugyi200.apollo.bob-cli-bc.13/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.2](../agents/bbugyi200.apollo.bob-cli-bc.2/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.3](../agents/bbugyi200.apollo.bob-cli-bc.3/README.md) | bob-cli-bc hood | dismissed |
-| [bob-cli-bc.4](../agents/bbugyi200.apollo.bob-cli-bc.4/README.md) | bob-cli-bc hood | active |
-| [bob-cli-bc.5](bbugyi200.apollo.bob-cli-bc.5.md) (session · 13) | bob-cli-bc hood | active 4, dismissed 9 |
+| [bob-cli-bc.4](../agents/bbugyi200.apollo.bob-cli-bc.4/README.md) | bob-cli-bc hood | dismissed |
+| [bob-cli-bc.5](bbugyi200.apollo.bob-cli-bc.5.md) (session · 13) | bob-cli-bc hood | dismissed 13 |
 | [bob-cli-bc.6](../agents/bbugyi200.apollo.bob-cli-bc.6/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.8](../agents/bbugyi200.apollo.bob-cli-bc.8/README.md) | bob-cli-bc hood | dismissed |
 | [bob-cli-bc.9](../agents/bbugyi200.apollo.bob-cli-bc.9/README.md) | bob-cli-bc hood | dismissed |
-| [bob-cli-bc.land](bbugyi200.apollo.bob-cli-bc.land.md) (session · 7) | bob-cli-bc hood | active 3, completed 1, dismissed 2, failed 1 |
+| [bob-cli-bc.land](bbugyi200.apollo.bob-cli-bc.land.md) (session · 7) | bob-cli-bc hood | completed 1, dismissed 5, failed 1 |

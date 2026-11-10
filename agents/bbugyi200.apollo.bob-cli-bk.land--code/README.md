@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e5c7d0f`](https://github.com/bobs-org/bob-cli/commit/e5c7d0fcab0d256ae6a4ebe00e92092b73ffe179) | feat(capture): finish inbox routing with atomic snapshot and exact task identity | 2026-10-24 19:04:51 EDT |
+| — | `e5c7d0f` | feat(capture): finish inbox routing with atomic snapshot and exact task identity | 2026-10-24 19:04:51 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-bk.1](../bbugyi200.apollo.bob-cli-bk.1/README.md) | bob-cli-bk hood | active |
-| [bob-cli-bk.2](../bbugyi200.apollo.bob-cli-bk.2/README.md) | bob-cli-bk hood | active |
-| [bob-cli-bk.3](../bbugyi200.apollo.bob-cli-bk.3/README.md) | bob-cli-bk hood | active |
-| [bob-cli-bk.4](../../sessions/bbugyi200.apollo.bob-cli-bk.4.md) (session · 7) | bob-cli-bk hood | active 7 |
+| [bob-cli-bk.1](../bbugyi200.apollo.bob-cli-bk.1/README.md) | bob-cli-bk hood | dismissed |
+| [bob-cli-bk.2](../bbugyi200.apollo.bob-cli-bk.2/README.md) | bob-cli-bk hood | dismissed |
+| [bob-cli-bk.3](../bbugyi200.apollo.bob-cli-bk.3/README.md) | bob-cli-bk hood | dismissed |
+| [bob-cli-bk.4](../../sessions/bbugyi200.apollo.bob-cli-bk.4.md) (session · 7) | bob-cli-bk hood | dismissed 7 |
