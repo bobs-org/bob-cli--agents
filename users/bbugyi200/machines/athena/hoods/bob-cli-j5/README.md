@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-j5
 
-**Global hood:** `bbugyi200.athena.bob-cli-j5` · **Runs:** 29 · **Sessions:** 5 · **States:** active 2, completed 20, waiting 7
+**Global hood:** `bbugyi200.athena.bob-cli-j5` · **Runs:** 29 · **Sessions:** 5 · **States:** active 2, completed 21, waiting 6
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -21,7 +21,7 @@
 | [bob-cli-j5.2.1.1--1](../../../../../../sessions/bbugyi200.athena.bob-cli-j5.2.1.1.md#member-1) | completed | grok-4.6 / grok | 2026-11-09T17:56:03.931561+00:00 → 2026-11-09T18:11:33.801590+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.1--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.1--1/chat.md) |
 | [bob-cli-j5.4--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-j5.4.md#member-gate) | completed | gpt-6-astra / codex | 2026-11-09T21:43:43.847766+00:00 → 2026-11-09T21:44:29.658623+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4--gate/chat.md) |
 | [bob-cli-j5.6](../../../../../../agents/bbugyi200.athena.bob-cli-j5.6/README.md) | waiting | sonnet / claude | 20261109110550 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.6/prompt.md) |
-| [bob-cli-j5.4.1.5](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.5/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261109164624 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.5/prompt.md) |
+| [bob-cli-j5.4.1.5](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.5/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-10T00:04:06.691123+00:00 → 2026-11-10T00:50:51.379452+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.5/chat.md) |
 | [bob-cli-j5.7](../../../../../../agents/bbugyi200.athena.bob-cli-j5.7/README.md) | waiting | grok-4.6 / grok | 20261109110551 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.7/prompt.md) |
 | [bob-cli-j5.4.1.2--1](../../../../../../sessions/bbugyi200.athena.bob-cli-j5.4.1.2.md#member-1) | completed | grok-4.6 / grok | 2026-11-09T22:15:08.478506+00:00 → 2026-11-09T22:30:04.809272+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.2--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.2--1/chat.md) |
 | [bob-cli-j5.2.1.land--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-j5.2.1.land.md#member-plan) | completed | gpt-6-astra / codex | 2026-11-09T20:12:10.417170+00:00 → 2026-11-09T21:07:10.291469+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.land--plan/chat.md) |
