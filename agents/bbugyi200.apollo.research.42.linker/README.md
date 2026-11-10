@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.42.linker
 
-**Global name:** `bbugyi200.apollo.research.42.linker` · **State:** waiting · **Source run:** `run-2f8d3951d0f72f9370854d354fad0089`
+**Global name:** `bbugyi200.apollo.research.42.linker` · **State:** completed · **Source run:** `run-2f8d3951d0f72f9370854d354fad0089`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261110120619
+- Timing: 2026-11-10T17:47:55.723464+00:00 → 2026-11-10T17:55:29.322296+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/what\_to\_write\_in\_period\_notes/what\_to\_write\_in\_period\_notes.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261110120619/what\_to\_write\_in\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/what_to_write_in_period_notes/what_to_write_in_period_notes.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110120619/what_to_write_in_period_notes-8f014de55f9c.md
+  ref: file:explicit:8767b585ca643067853ef951
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/what_to_write_in_period_notes/what_to_write_in_period_notes.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
