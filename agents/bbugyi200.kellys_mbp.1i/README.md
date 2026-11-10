@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [kellys\_mbp](../../users/bbugyi200/machines/kellys_mbp/README.md) / [1i](../../users/bbugyi200/machines/kellys_mbp/hoods/1i/README.md) / 1i
 
-**Global name:** `bbugyi200.kellys_mbp.1i` · **State:** active · **Source run:** `run-acc1b7844924fd3fde8617235142140c`
+**Global name:** `bbugyi200.kellys_mbp.1i` · **State:** completed · **Source run:** `run-acc1b7844924fd3fde8617235142140c`
 
 **Owner:** `bbugyi200.kellys_mbp` · **Project:** bob-cli · **Hood:** 1i
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-10T19:00:24.115534+00:00
+- Timing: 2026-10-10T19:00:24.115534+00:00 → 2026-10-10T19:06:57.379966+00:00
 - Commits: [2](#commits)
 - Variables: [1](#variables)
 
@@ -22,8 +22,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4032c14`](https://github.com/bobs-org/bob-cli/commit/4032c14c497495ebd1b87a40f72813ddc1635577) | chore: Add SDD prompt and plan for highlights\_ref\_scan\_speedup | 2026-06-03 08:03:35 EDT |
-| bob-cli | [`9801c33`](https://github.com/bobs-org/bob-cli/commit/9801c333fd76d0edd44fcc1f3b5f3f29185c1f57) | feat: speed up highlights-ref scan with single-read PDFs and parallel planning | 2026-06-03 08:10:17 EDT |
+| — | `4032c14` | chore: Add SDD prompt and plan for highlights\_ref\_scan\_speedup | 2026-06-03 08:03:35 EDT |
+| — | `9801c33` | feat: speed up highlights-ref scan with single-read PDFs and parallel planning | 2026-06-03 08:10:17 EDT |
 
 ## Variables
 

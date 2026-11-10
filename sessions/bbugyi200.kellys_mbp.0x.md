@@ -9,7 +9,7 @@ Owner: `bbugyi200.kellys_mbp` · Hood: `0x` · Members: 3
 ```mermaid
 flowchart TD
   n0["0x--gate [failed]"]
-  n1["0x--code [active]"]
+  n1["0x--code [completed]"]
   n0 --> n1
   n2["0x--plan [completed]"]
   n0 --> n2
@@ -20,5 +20,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0x--gate | failed | gpt-5.6-sol / codex | 2026-09-18T19:22:27.917588+00:00 → 2026-09-18T19:22:37.161744+00:00 | 0 | — | [Chat](../agents/bbugyi200.kellys_mbp.0x--gate/chat.md) |
-| <a id="member-code"></a>code | 0x--code | active | grok-4.6 / grok | 2026-09-18T19:22:38.930647+00:00 | 0 | [Prompt](../agents/bbugyi200.kellys_mbp.0x--code/prompt.md) | — |
+| <a id="member-code"></a>code | 0x--code | completed | grok-4.6 / grok | 2026-09-18T19:22:38.930647+00:00 → 2026-09-18T19:54:12.604663+00:00 | 0 | [Prompt](../agents/bbugyi200.kellys_mbp.0x--code/prompt.md) | — |
 | <a id="member-plan"></a>plan | 0x--plan | completed | gpt-5.6-sol / codex | 2026-09-18T19:14:35.249837+00:00 → 2026-09-18T19:18:25.801739+00:00 | 0 | [Prompt](../agents/bbugyi200.kellys_mbp.0x--plan/prompt.md) | [Chat](../agents/bbugyi200.kellys_mbp.0x--plan/chat.md) |
