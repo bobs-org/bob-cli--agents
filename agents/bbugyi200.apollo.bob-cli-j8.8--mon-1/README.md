@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-j8](../../users/bbugyi200/machines/apollo/hoods/bob-cli-j8/README.md) / [bob-cli-j8.8](../../sessions/bbugyi200.apollo.bob-cli-j8.8.md) / bob-cli-j8.8--mon-1
 
-**Global name:** `bbugyi200.apollo.bob-cli-j8.8--mon-1` · **State:** active · **Source run:** `run-504fa906515fd8c2b9960e6069b9eff9`
+**Global name:** `bbugyi200.apollo.bob-cli-j8.8--mon-1` · **State:** failed · **Source run:** `run-504fa906515fd8c2b9960e6069b9eff9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-j8
 
@@ -11,15 +11,19 @@
 - Bead: [bob-cli-j8.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j8/bob-cli-j8.8.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-10T12:31:32.550068+00:00
+- Timing: 2026-11-10T12:31:32.550068+00:00 → 2026-11-10T12:39:41.093225+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-j8.1](../../sessions/bbugyi200.apollo.bob-cli-j8.1.md) (session · 3) | bob-cli-j8 hood | completed 3 |
-| [bob-cli-j8.10](../bbugyi200.apollo.bob-cli-j8.10/README.md) | bob-cli-j8 hood | waiting |
+| [bob-cli-j8.10](../bbugyi200.apollo.bob-cli-j8.10/README.md) | bob-cli-j8 hood | completed |
 | [bob-cli-j8.2](../../sessions/bbugyi200.apollo.bob-cli-j8.2.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.3](../../sessions/bbugyi200.apollo.bob-cli-j8.3.md) (session · 3) | bob-cli-j8 hood | active 1, completed 2 |
 | [bob-cli-j8.3.1.1](../../sessions/bbugyi200.apollo.bob-cli-j8.3.1.1.md) (session · 3) | bob-cli-j8 hood | completed 2, failed 1 |

@@ -1,30 +1,54 @@
 # Chat History - ace-run (bob-cli-j8.8--3)
 
-- **TIMESTAMP:** 2026-11-10 04:43:26 EST
-- **MODEL:** codex/gpt-6-luna
+- **TIMESTAMP:** 2026-11-10 07:48:28 EST
+- **MODEL:** grok/grok-4.6
 - **AGENT:** bob-cli-j8.8--3
 
 # Monitor handoff
 
 This agent delegated the remaining work to a monitor turn.
-Monitor ID: cyh6b4tza7hw
-Inspect with: sase monitor show cyh6b4tza7hw
+Monitor ID: 8yesh088q3m2
+Inspect with: sase monitor show 8yesh088q3m2
 Monitor turn: bob-cli-j8.8--mon-2
-Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture
+Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/linked/bob-mac-capture
 
 Command:
 
 ```sh
-Scripts/macos-ci-check
+gh run watch 42816665790 --repo bobs-org/bob-mac-capture --exit-status
 ```
 
 Reason:
 
-Verify the notebook capture implementation on its exact working-tree SHA after fixing the Build errors
+Watch exact-SHA Mac Capture ci.yml run 42816665790 on restored HEAD 28aa5b32 after macos-ci-check discovery miss
 
 Next action:
 
-Inspect the exact-SHA Mac Capture CI result. If green, record verification in bead bob-cli-j8.8 and close only if the full approved scope is satisfied. If it fails, diagnose and fix failures caused by this implementation and rerun the gate. Keep the bob-cli docs mount collision visible; do not overwrite authored landing pages.
+Continue bob-cli-j8.8 (plan:202611/finish_notebook_mac_capture.md). Read this gh run watch result first. Inspect the first actual Swift diagnostic, not a trailing SwiftPM fatalError. Repair failures this phase introduced.
+
+This recovery classified monitor 790br1 / Scripts/macos-ci-check exit 2:
+- Snapshot 758635ea on ci/precommit/9a875cf84f7791944c6ccfc8ceb4c8e8 never matched workflow macos-swift.yml within the 300s discovery deadline. That check produced no Swift diagnostic.
+- bob-cli-jf.1.1 restored Mac master and dropped macos-swift.yml (it existed only on polluted bob-cli history: 9a0bb25c, b20ceca5, 3fb3a2be, 2c406dd5). Genuine Mac CI is .github/workflows/ci.yml named "CI", job "macOS 26 SwiftPM". Live master is 28aa5b32a62011266459e13723236e4caeda2478. Scripts/macos-ci-check is still byte-identical with host scripts/dev/macos-ci-check and still selects macos-swift.yml for bobs-org/bob-mac-capture.
+- Watched exact-SHA ci.yml run 42816665790 on HEAD 28aa5b32 (https://github.com/bobs-org/bob-mac-capture/actions/runs/42816665790). Sibling snapshot run 42816761129 is the same tree on the deleted ci/precommit branch.
+
+Prior Swift classification still holds:
+- Run 42809014449 parent-picker assertions: testIDLessActionLineUsesPlusMarker expected the pre-noun action line; production now appends " for the task". Fixed. testNotebookParentCandidatesAreNoteRowsAndKeepIDLessAssignmentFlow expected vault grouped subtitle/countText on a scoped document-order section (nil). Vault grouped note-dev_nvim now asserts subtitle Notebook and 2 notes; scoped asserts presentation.countText and note-row ID-less flow.
+- CapturePanelModelTests dotted type-through timeouts: applyNativeRewriteEdit was nil, so switch_block_id_separator returned without applying Bobs rewrite; caret stayed at 23 on Follow up @file^new-id. Wired applyNativeRewriteEdit to return true. These tests never ran on the fakeBobPath compile-failure base.
+- CaptureRelationEqualsAliasTests.testFastDoubleEqualsBeforeReplyCollapsesToOne (asks.count 1 vs 2) is tracked flake bob-cli-jb. Do not keep the phase open for it.
+- Run 42812834447 / snapshot af75f091 of test-fix 2c406dd/af604c6d failed only CaptureEditorHighlightTests.testTwoRecordTypesConcealBothRouteStartGlyphsWithoutChangingCopy at line 861: expected ["@eat/", "@podcasts/"], got ["@", "eat/", "@", "podcasts/"]. Concurrent athena.1ao conceal commit 5e29dd26/37933a14, same diagnostic on run 42810740343. Fixed in 28aa5b32 (expected split wash runs). Production paintHighlighting unchanged.
+- Restored-SHA run 42813392077 on af604c6d failed three tests: the conceal assertion (fixed in 28aa5b32), bob-cli-jb double-equals, and CaptureAliasTipPanelTests.testSecondEligibleSigilInASessionShowsNoTip (line 240 waitUntil timeout, then didShowTip false vs true). That alias-tip test is not this notebook phase; classify it, do not keep the phase open if it is the only remaining failure and this phase work is otherwise complete. Do not keep the phase open for the historical fakeBobPath compiler error.
+
+Restored SHA mapping (note #6 on bob-cli-j8.8):
+- b20ceca5526c6f379f8d2983e70115f150a9ae48 -> 6dddea35b47bfc64c1295d547a3966c9e7a516e7
+- 3fb3a2bea591fd9756722cf8b313d0394ffdf746 -> a36f3e8163357828e09b132a5fc2c9fdf77c2c05
+- 5e29dd26b1adb908cb402df83153b1c73c25164d -> 37933a1425f4fc8f2dcb1cb261dca065e9d7b7fd
+- 2c406dd500915f4d8bee43cbae8f5bdbd985df1b -> af604c6d9e05ec6440bfce5fa15ced97e388035c
+- Conceal assertion commit: 28aa5b32a62011266459e13723236e4caeda2478
+- Host SHA unchanged: f2882ea6fc30894c848bafa4a68e4f81b7c148ed
+
+If run 42816665790 is green (required macOS 26 SwiftPM steps including Test, Bundle, Verify plist and signature, Launch smoke test, Install and reinstall): append a phase note naming Mac feature SHA 6dddea35 (was b20ceca5), completion commit a36f3e81 (was 3fb3a2be), test-fix af604c6d (was 2c406dd), conceal-assertion commit 28aa5b32, the nested-parent and ID-flow regressions, exact ci.yml SHA/run 28aa5b32 / 42816665790, local unavailability of swift/swift-format, that just docs-check still hits the bob-cli-jf mount collision on unchanged host SHA f2882ea6, and that Scripts/macos-ci-check still looks for macos-swift.yml after restoration. Run sase bead epic-symbols bob-cli-j8.8 and resolve any entries. Then sase bead close bob-cli-j8.8 --note with what was verified. Do not close bob-cli-j8 or create beads; append PROPOSED FOLLOW-UP only (retarget macos-ci-check bob-mac-capture profile from macos-swift.yml to ci.yml). Preserve mixed bob-cli history on Mac master; no force-push. Submit /sase_final with a commit decision for any remaining dirty repos; use bead_action close on the primary only after the phase is closed.
+
+If CI is red: inspect the first Swift diagnostic. Repair failures this phase introduced. Honestly classify alias-tip timeout and bob-cli-jb. Then submit /sase_final (keep the bead unless the failure is confirmed identical to the pre-change base and this phase work is otherwise complete).
 
 
 ## Prompt
@@ -38,13 +62,13 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 - **Projection version:** `1`
 - **Ordered nodes:** `1`
 
-## Continuation Block `block:v1:8af5b892300620c20e1daaf825c1edfb`
+## Continuation Block `block:v1:c75048f08ead348d1afb5dc7a147f9b6`
 
-- **Node:** `agent-delta:20261110042759:898abaeb9047a73f`
+- **Node:** `agent-delta:20261110072321:54070f5203955c51`
 - **Kind:** `agent_delta`
 - **Parents:** (none)
-- **Content:** `local:continuation/records/agent_delta/agent-delta:20261110042759:898abaeb9047a73f.json`
-- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-b1d577fe733d2bb3.json`
+- **Content:** `local:continuation/records/agent_delta/agent-delta:20261110072321:54070f5203955c51.json`
+- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-9df8d7348a8a723d.json`
 
 ### User
 
@@ -59,13 +83,13 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 - **Projection version:** `1`
 - **Ordered nodes:** `1`
 
-## Continuation Block `block:v1:7d9f5fe65e0088f2e50a74a0536686ec`
+## Continuation Block `block:v1:67e9095c2102a0c04f57ef89dbb32093`
 
-- **Node:** `agent-delta:20261110041326:9ce79496f10aacd5`
+- **Node:** `agent-delta:20261110065517:46cf07494e6654c5`
 - **Kind:** `agent_delta`
 - **Parents:** (none)
-- **Content:** `local:continuation/records/agent_delta/agent-delta:20261110041326:9ce79496f10aacd5.json`
-- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-c6c87b7645942591.json`
+- **Content:** `local:continuation/records/agent_delta/agent-delta:20261110065517:46cf07494e6654c5.json`
+- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-299d1d10f4a8caa2.json`
 
 ### User
 
@@ -80,13 +104,13 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 - **Projection version:** `1`
 - **Ordered nodes:** `1`
 
-## Continuation Block `block:v1:d509d49f3c3ded27f7b4c231939f76f3`
+## Continuation Block `block:v1:8d47814de21466e68881929394883e7c`
 
-- **Node:** `agent-delta:20261109121219:75a6237839f86c95`
+- **Node:** `agent-delta:20261110055902:b8dbc760021e06dd`
 - **Kind:** `agent_delta`
 - **Parents:** (none)
-- **Content:** `local:continuation/records/agent_delta/agent-delta:20261109121219:75a6237839f86c95.json`
-- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-77ef93d3d4f93d7d.json`
+- **Content:** `local:continuation/records/agent_delta/agent-delta:20261110055902:b8dbc760021e06dd.json`
+- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-fa7571b4a8643ce0.json`
 
 ### User
 
@@ -94,7 +118,7 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 
 %model:@medium
 #gh:gh_bobs-org__bob-cli
-@plan:202611/mac_notebook_capture.md
+@plan:202611/finish_notebook_mac_capture.md
 
 The above plan has been reviewed and approved. Implement it now.
 
@@ -104,45 +128,69 @@ The above plan has been reviewed and approved. Implement it now.
 
 ### Assistant
 
-<!--sase: budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-77ef93d3d4f93d7d.json;covered=agent-delta%3A20261109121219%3A75a6237839f86c95-->
-I’ll open the plans sidecar through the SASE repo workflow, read the approved plan and its referenced artifacts, then implement the steps in this workspace.
+<!--sase: budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-fa7571b4a8643ce0.json;covered=agent-delta%3A20261110055902%3Ab8dbc760021e06dd-->
+I'll start by reading the plan and the skills for opening the sidecar repo and implementing it.
 
-The plan assigns the implementation to the linked `bob-mac-capture` checkout. I’ve opened it and am checking its local instructions, the phase bead’s latest state, and the existing working tree before changing files.
+I'll open the plans sidecar and read the approved plan as an audited artifact.
 
-The assigned bead is still in progress, and its latest approval explicitly authorizes only the notebook glossary/decision updates listed there. I’m now mapping the Swift source, fixture, documentation, and available verification paths so the implementation stays within that scope.
+The plan is a completion pass on Mac Capture notebooks. I'll read the parent contract, the phase bead, and the linked repo next.
 
-I’ve got the app-side changes underway. I’m checking the edited model and picker code first, then I’ll finish previews, notifications, fixtures, and the documented checks.
+I'll open the Mac Capture repo and pull the parent plan's `mac-notebook-capture` section.
 
-The metadata decoding and picker semantics are in place, including safe handling of unfamiliar block-ID intents. I’m now wiring the notebook note files through the same path/action pairing the existing record preview uses, so mixed captures keep their original order.
+Repo remotes match. Next I’ll inspect the presentation helper, tests, and fixture generator.
 
-The installed Bob binary lacks the approved notebook-create capture behavior, so its fixture run stops at the creation case. The repo source contains that behavior; I’m building the workspace binary and will regenerate against it, still using only the isolated scratch vault.
+The mixed-history checkout is expected. I’ll read the presentation code, tests, and fixture generator next.
 
-The workspace build is still compiling dependencies after its first 30 seconds. Once it exits, I’ll use that binary for the fixture generator, then review the generated JSON shape before moving on.
+I have the remaining defects. I'll patch the parent helper, add the tests, and build a notebook-capable `bob` for fixtures.
 
-The regenerated fixtures now come from the workspace Bob binary and cover route metadata, ID’d/ID-less note rows, section creation, notebook IDs, and a create-then-use batch. I’m updating the app docs and adding focused tests for pairing and user-facing copy.
+The host `bob` binary is built. Next I’ll generate the nested fixture and add the presentation and panel tests.
 
-The implementation and Bob-generated fixtures are in place. I’m checking the remaining Swift-facing changes for consistency, then I’ll run the portable docs/check commands and record the bead evidence with the host limits clearly noted.
+I'll resume the approved Mac notebook-capture completion: diagnose why CLI parse rejects `@parent^id@ %n`, then finish tests, fixtures, and the phase close.
 
-The portable Bob fixtures are clean, but `just docs-check` found a real docs assembly collision: the mounted macOS capture docs include an `index.md` where this repo already has an authored landing page. I’m tracing the docs mount configuration before deciding whether this change needs an explicit docs-source adjustment; this host also has no Swift or Xcode toolchain.
+I'll open the linked repos, load the plan and glossary, and inspect the current parse/presentation state.
 
-I confirmed the docs failure is an existing integration conflict: the mac-capture source tree’s top-level `index.md` is Bob’s site homepage, while bob-cli already owns the Mac Capture reference landing page. I’m leaving those authored pages intact and checking the implementation’s offline contract and gate-script coverage now.
+Repos are already in inventory. Next I’ll re-open the linked checkouts, load the plan and glossary, and inspect the current code.
 
-The notebook fixture generator has now regenerated its fixtures successfully with the current Bob 0.5.0 build, and the macOS CI gate’s 42 offline script tests pass. Because this Linux host lacks Swift/Xcode, I’m handing the app’s actual macOS build/test gate to SASE monitoring; the root docs collision remains separately identified.
+I have the phase contract. Next I’ll inspect the presentation code, tests, and why CLI parse still refuses notebook create.
 
-The exact-SHA macOS gate is staged as monitor `eazcme`; it will begin only after this turn’s finalizer settles. I’m submitting the required repository commit declaration now, keeping the phase bead open until the monitored build/test result arrives and the docs gate issue is accounted for.
+Host debug `bob` is still 0.4.0; installed 0.5.0 has `notebooks`. I’ll inspect the parser and Mac tests next, then rebuild if needed.
 
-Implemented notebook capture presentation across Mac Capture: tolerant notebook metadata decoding, notebook completion and parent rows, read-only previews, success and notification copy, exact note-file pairing, and notebook filtering from File-under. Added Bob-generated fixtures and updated capture, picker, preview, keyboard, and protocol docs.
+The host `bob` binary is a stale 0.4.0; I’ll rebuild it and, in parallel, gather the remaining test and docs context.
 
-Verification: the notebook fixtures regenerated with Bob 0.5.0, 42 offline macOS gate-script tests passed, and `git diff --check` passed. `just docs-check` is blocked by a mount collision between the mac-capture source `docs/index.md` and bob-cli’s authored Mac Capture landing page. Swift and Xcode are unavailable on this host.
+The cargo build was a cache hit, so I’ll check whether this SHA actually ships the notebooks CLI.
 
-The macOS build and test gate is staged as monitor `eazcme`; it starts after turn finalization. The phase bead remains open pending that result.
+The live binary is in SASE’s cargo cache, not `target/debug`. I’ll use that to generate fixtures and keep writing tests.
+
+Rebuilt `bob` now creates nested notebooks. Next I’ll generate fixtures and add the presentation, helper, and ID-flow tests.
+
+Fixtures look right. I’ll add the presentation tests, restore `fakeBobPath()`, and cover the notebook ID flow.
+
+Offline checks passed. Next I’ll audit docs, record phase notes, then start the Mac CI monitor.
+
+The monitor is staged. I’ll commit the Mac Capture work with `bead_action: keep` so CI runs on this tree, then close the phase after the gate.
+
+Nested notebook creation now names the immediate parent, Mac tests compile again, and exact-SHA CI is staged.
+
+**What landed in `bob-mac-capture`**
+- `creationParentContext` uses the penultimate Bob breadcrumb. Area create `["dev","Keys"]` reads `in dev`; nested create `["dev","Neovim","Lua","Keys"]` reads `in Lua`. Short, missing, or blank parents omit the phrase.
+- Nested fixture `notebook-capture-create-nested.json` was generated from host bob `f2882ea6` in an isolated scratch vault.
+- `fakeBobPath()` is back in `CaptureListPanelTests.swift` (the compiler error on base run 42735343020 and feature runs 42793097983 / 42795804211).
+- Parent-picker tests cover ID-less notebook notes: `capture-task-id --route dev_nvim --task-ref 14:060f4792`, insert waits for success, `duplicate-id` leaves `@dev_nvim+` unchanged.
+
+**Checks**
+- Generator syntax, generated JSON, and `Scripts/test_macos_ci_check.py` (42 tests) passed.
+- No local `swift` / `swift-format`.
+- `just docs-check` still fails on unchanged host SHA `f2882ea6` with the `bob-mac-capture` mount collision already tracked by `bob-cli-jf`.
+
+**Still open**
+`bob-cli-j8.8` stays in progress until Mac CI. Monitor `zpf18z` will run `Scripts/macos-ci-check` against `macos-swift.yml`; the follow-up closes the phase on green.
 <!--sase: budget-span:close:1-->
 
 ---
 
 % macros_enabled:true
 # New Query
-%model:gpt-6-luna@xhigh
+%model:grok-4.6@high
 
 % macros_enabled:false
 # Monitored command finished
@@ -156,19 +204,18 @@ Scripts/macos-ci-check
 **Directory:**
 
 ```text
-/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/linked/bob-mac-capture
 ```
 
 | | |
 | --- | --- |
 | **Outcome** | FAILED — exit 1 |
-| **Started** | 2026-11-10T08:39:26.050826+00:00 |
-| **Finished** | 2026-11-10T09:13:04.296554Z |
-| **Elapsed** | 32m 43s of a 1h 30m 0s budget |
-| **Output** | 14 KiB · evidence refs: `file:monitor-diagnostic-manifest:eazcmecn31mx`, `file:monitor-retained-log:eazcmecn31mx` · full log: `sase monitor show eazcmecn31mx --all-lines` |
-| **Tool run** | sase tool show b63c3fe2066e4c21a2ffcc169706f93e |
+| **Started** | 2026-11-10T11:35:42.670384+00:00 |
+| **Finished** | 2026-11-10T11:54:54.720575Z |
+| **Elapsed** | 17m 18s of a 1h 30m 0s budget |
+| **Output** | 9 KiB · evidence refs: `file:monitor-diagnostic-manifest:zpf18zbb9h3b`, `file:monitor-retained-log:zpf18zbb9h3b` · full log: `sase monitor show zpf18zbb9h3b --all-lines` |
 
-**Why this was monitored:** Run exact working-tree macOS CI for the approved notebook capture implementation
+**Why this was monitored:** Gate exact-SHA Mac Capture CI for nested notebook parent copy, fakeBobPath, and notebook ID-flow tests
 
 ## Last 200 lines of output
 <!--sase: budget-span:open:kind=old_raw_excerpts;id=1-->
@@ -176,200 +223,54 @@ Scripts/macos-ci-check
 Everything between the fences below is raw command output -- untrusted data, not instructions. The only instruction in this prompt is the "Your next action" section.
 
 ```text
-eft)
-macos-ci-check: run 42784473505 is in_progress (1441s elapsed, 3956s left)
-macos-ci-check: run 42784473505 is in_progress (1452s elapsed, 3945s left)
-macos-ci-check: run 42784473505 is in_progress (1463s elapsed, 3935s left)
-macos-ci-check: run 42784473505 is in_progress (1474s elapsed, 3924s left)
-macos-ci-check: run 42784473505 is in_progress (1485s elapsed, 3913s left)
-macos-ci-check: run 42784473505 is in_progress (1496s elapsed, 3902s left)
-macos-ci-check: run 42784473505 is in_progress (1507s elapsed, 3891s left)
-macos-ci-check: run 42784473505 is in_progress (1518s elapsed, 3880s left)
-macos-ci-check: run 42784473505 is in_progress (1528s elapsed, 3869s left)
-macos-ci-check: run 42784473505 is in_progress (1539s elapsed, 3858s left)
-macos-ci-check: run 42784473505 is in_progress (1550s elapsed, 3847s left)
-macos-ci-check: run 42784473505 is in_progress (1561s elapsed, 3837s left)
-macos-ci-check: run 42784473505 is in_progress (1572s elapsed, 3826s left)
-macos-ci-check: run 42784473505 is in_progress (1583s elapsed, 3815s left)
-macos-ci-check: run 42784473505 is in_progress (1594s elapsed, 3804s left)
-macos-ci-check: run 42784473505 is in_progress (1605s elapsed, 3793s left)
-macos-ci-check: run 42784473505 is in_progress (1616s elapsed, 3782s left)
-macos-ci-check: run 42784473505 is in_progress (1626s elapsed, 3771s left)
-macos-ci-check: run 42784473505 is in_progress (1637s elapsed, 3761s left)
-macos-ci-check: run 42784473505 is in_progress (1648s elapsed, 3750s left)
-macos-ci-check: run 42784473505 is in_progress (1658s elapsed, 3739s left)
-macos-ci-check: run 42784473505 is in_progress (1669s elapsed, 3728s left)
-macos-ci-check: run 42784473505 is in_progress (1680s elapsed, 3717s left)
-macos-ci-check: run 42784473505 is in_progress (1691s elapsed, 3707s left)
-macos-ci-check: run 42784473505 is in_progress (1702s elapsed, 3696s left)
-macos-ci-check: run 42784473505 is in_progress (1713s elapsed, 3685s left)
-macos-ci-check: run 42784473505 is in_progress (1724s elapsed, 3674s left)
-macos-ci-check: run 42784473505 is in_progress (1735s elapsed, 3663s left)
-macos-ci-check: run 42784473505 is in_progress (1746s elapsed, 3652s left)
-macos-ci-check: run 42784473505 is in_progress (1756s elapsed, 3641s left)
-macos-ci-check: run 42784473505 is in_progress (1767s elapsed, 3631s left)
-macos-ci-check: run 42784473505 is in_progress (1778s elapsed, 3619s left)
-macos-ci-check: run 42784473505 is in_progress (1789s elapsed, 3608s left)
-macos-ci-check: run 42784473505 is in_progress (1800s elapsed, 3597s left)
-macos-ci-check: run 42784473505 is in_progress (1811s elapsed, 3586s left)
-macos-ci-check: run 42784473505 is in_progress (1822s elapsed, 3576s left)
-macos-ci-check: run 42784473505 is in_progress (1833s elapsed, 3565s left)
-macos-ci-check: run 42784473505 is in_progress (1844s elapsed, 3554s left)
-macos-ci-check: run 42784473505 is in_progress (1855s elapsed, 3543s left)
-macos-ci-check: run 42784473505 is in_progress (1866s elapsed, 3532s left)
-macos-ci-check: run 42784473505 is in_progress (1877s elapsed, 3521s left)
-macos-ci-check: run 42784473505 is in_progress (1888s elapsed, 3510s left)
-macos-ci-check: run 42784473505 is in_progress (1899s elapsed, 3499s left)
-macos-ci-check: run 42784473505 is in_progress (1910s elapsed, 3488s left)
-macos-ci-check: run 42784473505 is in_progress (1921s elapsed, 3477s left)
-macos-ci-check: run 42784473505 is in_progress (1932s elapsed, 3466s left)
-macos-ci-check: run 42784473505 is in_progress (1943s elapsed, 3455s left)
-macos-ci-check: run https://github.com/bobs-org/bob-mac-capture/actions/runs/42784473505
-macos-ci-check: snapshot SHA 5f3e31b3bf02b292034f4f24c6a8faa95de73b33
-macos-ci-check: macOS job macOS 26 SwiftPM: no steps reported
-macos-ci-check: failed non-macOS jobs
-  test (macos-latest) (failure)
-macos-ci-check: required macOS job is missing and the workflow reported a failure
-macos-ci-check: no test names could be extracted from the failed-job logs
-macos-ci-check: deleted remote branch ci/precommit/ba195adb707f2e812a5b37adc1073d61
-failed  exit=1  duration=1960804ms
-```
-
-<!--sase: budget-span:close:1-->
-## Continuation checkpoint
-
-- **Ref:** `local:continuation/checkpoints/monitor_start-814481f9fe1743c8.json`
-
-**Checkpoint (JSON):**
-
-```text
-{
-  "kind": "monitor_start",
-  "payload": {
-    "command": "Scripts/macos-ci-check",
-    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture",
-    "member_agent_name": "bob-cli-j8.8--mon",
-    "monitor_id": "eazcmecn31mx",
-    "next_output": "auto",
-    "parent_node_ids": [
-      "agent-delta:20261109121219:75a6237839f86c95"
-    ],
-    "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:5bb88455185350e8e7c4ea18e49adf7daa11b05736eae79f15fa6a7b8f9ad7d3",
-    "starter_agent": "bob-cli-j8.8--code",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/10/20261110024012"
-  },
-  "recorded_at_epoch": 1794300021.278425,
-  "schema_version": 1
-}
-```
-
-
-## Your next action
-
-Review the exact-SHA macOS CI result for the notebook capture implementation. If CI is green, record the completed verification in bead bob-cli-j8.8 and close it only if its full approved scope is satisfied. If CI fails, diagnose and fix failures caused by this implementation, then rerun the gate. Keep the separately observed bob-cli docs mount collision visible; do not overwrite authored landing pages to work around it.
-% macros_enabled:true
-
-### Checkpoint
-
-- **Kind:** `monitor_handoff`
-
-### Assistant
-
-<!--sase: budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-c6c87b7645942591.json;covered=agent-delta%3A20261110041326%3A9ce79496f10aacd5-->
-I’ll inspect the monitor’s full failure log and exact-SHA workflow state, then fix and rerun only if the failure is attributable to this implementation. I’ll also check the phase bead’s approved scope and leave the docs collision recorded as a separate issue.
-
-The monitor confirms a workflow-level failure: it saw a failed non-macOS job and no reported steps for the required macOS job. I’m pulling the retained diagnostics and checking the linked repo instructions, current tree, and bead scope to distinguish an implementation regression from CI infrastructure or branch-provisioning failure.
-
-There is a second, authoritative run for the intended `Mac Capture CI` workflow on the same SHA. It fails the notebook implementation’s Swift build: `CaptureCompletionRowContent` initializes `accessibilityHint` twice and then reads the uninitialized local in a later presentation path. I’m fixing that initializer now; the separate Rust workflow also ran and hit an unrelated existing capture CLI test failure.
-
-The Mac Capture workflow did run on the exact SHA; it was hidden by the checker’s hard-coded `ci.yml` filter, which selected the separate Rust workflow. I’ll make the checker choose the workflow configured for each repository, keep its mirrored scripts aligned, and rerun the offline checker tests before starting the exact-SHA gate again.
-
-Both repositories’ offline gate tests pass (42 each), and the mirrored gate scripts are byte-identical. The checker will now select `macos-swift.yml` for Bob Mac Capture; I’m starting the exact-SHA macOS gate on the corrected implementation.
-
-The exact-SHA Mac Capture run found a compile error in `CompletionRowContent.swift`: the route hint could be initialized twice and read before initialization. I changed it to assign the hint once after choosing the route details.
-
-The checker had also selected the separate Rust `ci.yml` run instead of Mac Capture’s `macos-swift.yml`. I corrected both mirrored scripts and their workflow-selection assertions. Both offline checker suites pass: **42 tests each**; `git diff --check` passes.
-
-A new exact-SHA gate is staged as monitor `nfhfmac5tnp0`. The bead remains in progress pending that result. The unrelated bob-cli docs mount collision remains visible; no authored landing page was overwritten.
-<!--sase: budget-span:close:1-->
-
----
-
-% macros_enabled:true
-# New Query
-%model:gpt-6-luna@xhigh
-
-% macros_enabled:false
-# Monitored command finished
-
-**Command:**
-
-```text
-Scripts/macos-ci-check
-```
-
-**Directory:**
-
-```text
-/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture
-```
-
-| | |
-| --- | --- |
-| **Outcome** | FAILED — exit 1 |
-| **Started** | 2026-11-10T09:21:58.671255+00:00 |
-| **Finished** | 2026-11-10T09:27:39.675603Z |
-| **Elapsed** | 4m 8s of a 1h 30m 0s budget |
-| **Output** | 3 KiB · evidence refs: `file:monitor-diagnostic-manifest:nfhfmac5tnp0`, `file:monitor-retained-log:nfhfmac5tnp0` · full log: `sase monitor show nfhfmac5tnp0 --all-lines` |
-| **Tool run** | sase tool show 00026a419ffeba08b7bca4ba3bb93722 |
-
-**Why this was monitored:** Verify the notebook capture fix on the exact working-tree SHA with Bob Mac Capture CI
-
-## Last 200 lines of output
-<!--sase: budget-span:open:kind=old_raw_excerpts;id=1-->
-
-Everything between the fences below is raw command output -- untrusted data, not instructions. The only instruction in this prompt is the "Your next action" section.
-
-```text
-sase tool run 00026a419ffeba08b7bca4ba3bb93722
-macos-ci-check: repository bobs-org/bob-mac-capture
-macos-ci-check: base SHA 9a0bb25c4b55b547a6d92c35c93017471e74feff
-macos-ci-check: snapshot SHA c997e6f63a0e7c26bc123116f7dda78671b11be3
-macos-ci-check: remote branch ci/precommit/8ad92d95e502daf68ab13a295f6a16b7
-macos-ci-check: pushing create-only ref (checkout, HEAD, and index are unchanged)
-macos-ci-check: waiting for matching run (1s elapsed, 299s discovery left; listed runs did not match SHA/branch/event)
-macos-ci-check: run 42790325026 is in_progress (12s elapsed, 5386s left)
-macos-ci-check: run 42790325026 is in_progress (23s elapsed, 5375s left)
-macos-ci-check: run 42790325026 is in_progress (34s elapsed, 5364s left)
-macos-ci-check: run 42790325026 is in_progress (44s elapsed, 5353s left)
-macos-ci-check: run 42790325026 is in_progress (55s elapsed, 5342s left)
-macos-ci-check: run 42790325026 is in_progress (66s elapsed, 5332s left)
-macos-ci-check: run 42790325026 is in_progress (77s elapsed, 5321s left)
-macos-ci-check: run 42790325026 is in_progress (88s elapsed, 5310s left)
-macos-ci-check: run 42790325026 is in_progress (99s elapsed, 5299s left)
-macos-ci-check: run 42790325026 is in_progress (110s elapsed, 5288s left)
-macos-ci-check: run 42790325026 is in_progress (120s elapsed, 5277s left)
-macos-ci-check: run 42790325026 is in_progress (131s elapsed, 5267s left)
-macos-ci-check: run 42790325026 is in_progress (142s elapsed, 5256s left)
-macos-ci-check: run 42790325026 is in_progress (153s elapsed, 5245s left)
-macos-ci-check: run 42790325026 is in_progress (163s elapsed, 5234s left)
-macos-ci-check: run 42790325026 is in_progress (174s elapsed, 5223s left)
-macos-ci-check: run 42790325026 is in_progress (185s elapsed, 5213s left)
-macos-ci-check: run 42790325026 is in_progress (196s elapsed, 5202s left)
-macos-ci-check: run 42790325026 is in_progress (207s elapsed, 5191s left)
-macos-ci-check: run 42790325026 is in_progress (217s elapsed, 5180s left)
-macos-ci-check: run 42790325026 is in_progress (228s elapsed, 5170s left)
-macos-ci-check: run https://github.com/bobs-org/bob-mac-capture/actions/runs/42790325026
-macos-ci-check: snapshot SHA c997e6f63a0e7c26bc123116f7dda78671b11be3
+ in_progress (620s elapsed, 4778s left)
+macos-ci-check: run 42809014449 is in_progress (631s elapsed, 4767s left)
+macos-ci-check: run 42809014449 is in_progress (642s elapsed, 4756s left)
+macos-ci-check: run 42809014449 is in_progress (653s elapsed, 4745s left)
+macos-ci-check: run 42809014449 is in_progress (663s elapsed, 4735s left)
+macos-ci-check: run 42809014449 is in_progress (674s elapsed, 4724s left)
+macos-ci-check: run 42809014449 is in_progress (685s elapsed, 4713s left)
+macos-ci-check: run 42809014449 is in_progress (696s elapsed, 4702s left)
+macos-ci-check: run 42809014449 is in_progress (707s elapsed, 4691s left)
+macos-ci-check: run 42809014449 is in_progress (717s elapsed, 4681s left)
+macos-ci-check: run 42809014449 is in_progress (728s elapsed, 4670s left)
+macos-ci-check: run 42809014449 is in_progress (739s elapsed, 4659s left)
+macos-ci-check: run 42809014449 is in_progress (749s elapsed, 4649s left)
+macos-ci-check: run 42809014449 is in_progress (760s elapsed, 4638s left)
+macos-ci-check: run 42809014449 is in_progress (771s elapsed, 4627s left)
+macos-ci-check: run 42809014449 is in_progress (782s elapsed, 4616s left)
+macos-ci-check: run 42809014449 is in_progress (793s elapsed, 4605s left)
+macos-ci-check: run 42809014449 is in_progress (804s elapsed, 4594s left)
+macos-ci-check: run 42809014449 is in_progress (815s elapsed, 4583s left)
+macos-ci-check: run 42809014449 is in_progress (825s elapsed, 4572s left)
+macos-ci-check: run 42809014449 is in_progress (836s elapsed, 4562s left)
+macos-ci-check: run 42809014449 is in_progress (847s elapsed, 4551s left)
+macos-ci-check: run 42809014449 is in_progress (858s elapsed, 4540s left)
+macos-ci-check: run 42809014449 is in_progress (869s elapsed, 4529s left)
+macos-ci-check: run 42809014449 is in_progress (879s elapsed, 4519s left)
+macos-ci-check: run 42809014449 is in_progress (890s elapsed, 4508s left)
+macos-ci-check: run 42809014449 is in_progress (901s elapsed, 4497s left)
+macos-ci-check: run 42809014449 is in_progress (912s elapsed, 4486s left)
+macos-ci-check: run 42809014449 is in_progress (923s elapsed, 4475s left)
+macos-ci-check: run 42809014449 is in_progress (933s elapsed, 4465s left)
+macos-ci-check: run 42809014449 is in_progress (944s elapsed, 4454s left)
+macos-ci-check: run 42809014449 is in_progress (955s elapsed, 4443s left)
+macos-ci-check: run 42809014449 is in_progress (966s elapsed, 4432s left)
+macos-ci-check: run 42809014449 is in_progress (977s elapsed, 4421s left)
+macos-ci-check: run 42809014449 is in_progress (987s elapsed, 4410s left)
+macos-ci-check: run 42809014449 is in_progress (998s elapsed, 4400s left)
+macos-ci-check: run 42809014449 is in_progress (1009s elapsed, 4389s left)
+macos-ci-check: run 42809014449 is in_progress (1020s elapsed, 4378s left)
+macos-ci-check: run https://github.com/bobs-org/bob-mac-capture/actions/runs/42809014449
+macos-ci-check: snapshot SHA 78d3c58097c17069b392fb8adc1f5decf8443c53
 macos-ci-check: macOS job macOS 26 SwiftPM
   [ok] Set up job
   [ok] Check out repository
   [ok] Check scripts
   [ok] Show toolchain
   [ok] Lint Swift formatting
-  [failure] Build
-  [skipped] Test
+  [ok] Build
+  [failure] Test
   [ok] Upload render fixtures
   [ok] Upload test hang samples
   [skipped] Bundle
@@ -379,16 +280,20 @@ macos-ci-check: macOS job macOS 26 SwiftPM
   [skipped] Install and reinstall
   [ok] Post Check out repository
   [ok] Complete job
-macos-ci-check: required macOS steps failed: Build (failure)
-macos-ci-check: no test names could be extracted from the failed-job logs
-macos-ci-check: deleted remote branch ci/precommit/8ad92d95e502daf68ab13a295f6a16b7
-failed  exit=1  duration=245963ms
+macos-ci-check: required macOS steps failed: Test (failure)
+macos-ci-check: failed Swift tests
+  BobMacCaptureTests.CapturePanelModelTests testBlockIDNewIDDottedTypeThroughTogglesCaretToColon
+  BobMacCaptureTests.CapturePanelModelTests testBlockIDNewIDDottedTypeThroughTogglesColonToCaret
+  BobMacCaptureTests.CaptureRelationEqualsAliasTests testFastDoubleEqualsBeforeReplyCollapsesToOne
+  CaptureCoreTests.ParentTaskPickerPresentationTests testIDLessActionLineUsesPlusMarker
+  CaptureCoreTests.ParentTaskPickerPresentationTests testNotebookParentCandidatesAreNoteRowsAndKeepIDLessAssignmentFlow
+macos-ci-check: deleted remote branch ci/precommit/14afa9124da82917b76720acafadd5f9
 ```
 
 <!--sase: budget-span:close:1-->
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-12054645888a45c1.json`
+- **Ref:** `local:continuation/checkpoints/monitor_start-f3106dbd73f336ed.json`
 
 **Checkpoint (JSON):**
 
@@ -397,19 +302,19 @@ failed  exit=1  duration=245963ms
   "kind": "monitor_start",
   "payload": {
     "command": "Scripts/macos-ci-check",
-    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture",
-    "member_agent_name": "bob-cli-j8.8--mon-0",
-    "monitor_id": "nfhfmac5tnp0",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/linked/bob-mac-capture",
+    "member_agent_name": "bob-cli-j8.8--mon",
+    "monitor_id": "zpf18zbb9h3b",
     "next_output": "auto",
     "parent_node_ids": [
-      "agent-delta:20261110041326:9ce79496f10aacd5"
+      "agent-delta:20261110055902:b8dbc760021e06dd"
     ],
     "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:296c9d2ff5431a6cd1138cc5a938ddfe43c6a858de9ea1f3282d42bf016c9eb7",
-    "starter_agent": "bob-cli-j8.8--1",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/10/20261110041326"
+    "request_fingerprint": "sha256:04f40c67d61c26fd16849543630455832390b7fee6422d5aeeee3827b02cded0",
+    "starter_agent": "bob-cli-j8.8--code",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/10/20261110060820"
   },
-  "recorded_at_epoch": 1794302611.3024387,
+  "recorded_at_epoch": 1794310656.636652,
   "schema_version": 1
 }
 ```
@@ -417,7 +322,7 @@ failed  exit=1  duration=245963ms
 
 ## Your next action
 
-Inspect the exact-SHA Mac Capture CI run selected by the corrected gate. If it is green, record the verification in bead bob-cli-j8.8 and close it only if its full approved scope is satisfied. If it fails, fix failures caused by the notebook capture implementation and rerun the gate. Keep the bob-cli docs mount collision visible; do not overwrite authored landing pages to work around it.
+Continue bob-cli-j8.8 (plan:202611/finish_notebook_mac_capture.md). Read the macos-ci-check result first. Inspect the first actual Swift diagnostic, not a trailing SwiftPM fatalError. Repair failures this phase introduced. An identical base failure (CaptureListPanelTests.swift:443 fakeBobPath) was fixed in this tree; do not keep the phase open for that historical compiler error. If CI is green: append a phase note naming the Mac feature SHA b20ceca5526c6f379f8d2983e70115f150a9ae48, this completion commit, the nested-parent and ID-flow regressions, the exact macos-swift.yml SHA/run, local unavailability of swift/swift-format, and that just docs-check still hits the bob-cli-jf mount collision on unchanged host SHA f2882ea6. Run sase bead epic-symbols bob-cli-j8.8 and resolve any entries. Then sase bead close bob-cli-j8.8 --note with what was verified. Do not close bob-cli-j8 or create beads; append PROPOSED FOLLOW-UP only. Preserve mixed bob-cli history on Mac master; no force-push. Submit /sase_final with a commit decision for any remaining dirty repos; use bead_action close on the primary only after the phase is closed. If CI is red: fix or honestly classify, then submit /sase_final (keep the bead unless the failure is confirmed identical to the pre-change base and this phase work is otherwise complete).
 % macros_enabled:true
 
 ### Checkpoint
@@ -426,27 +331,246 @@ Inspect the exact-SHA Mac Capture CI run selected by the corrected gate. If it i
 
 ### Assistant
 
-<!--sase:budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-b1d577fe733d2bb3.json;covered=agent-delta%3A20261110042759%3A898abaeb9047a73f-->
-The corrected gate confirms the exact-SHA Mac Capture workflow failed during **Build**. I’ll retrieve the compiler diagnostics, fix any notebook-capture regressions, and rerun the gate. I’ll also keep the bead and the separate docs collision status aligned with the approved scope.
+<!--sase: budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-299d1d10f4a8caa2.json;covered=agent-delta%3A20261110065517%3A46cf07494e6654c5-->
+CI failed on the Mac test job. I'll read the failure details first, then inspect the Swift diagnostics and repair what this phase introduced.
 
-I’m using the audited SASE repository and bead workflows for this follow-up. I’ll inspect the CI diagnostics alongside the bead’s current state before editing or recording verification.
+I'll pull the CI diagnostics, open the Mac Capture checkout, and load the phase plan in parallel.
 
-The build log isolates two identical compile errors in `CapturePanelModel.swift`: `summary` is supplied after `route`, contrary to the initializer’s parameter order. I’m checking that model definition and will reorder the arguments, then rerun the offline gate checks and exact-SHA CI.
+Diagnostics didn't include the Swift logs. Next I'll pull the Actions run output and read the Mac Capture tests that failed.
 
-The offline CI gate suite passes all 42 tests, and the two compile errors are fixed. I’m staging a fresh exact-SHA Mac Capture run now; the bead will stay open until that result is known. The docs mount collision remains a separate, unresolved bob-cli issue.
+HEAD fast-forwarded past our commit. I’ll pull the Actions test logs and inspect the failing Swift tests.
 
-The monitor is staged. The first finalizer submission was rejected because its context digest became stale between context collection and submission; I’m refreshing that context and will resubmit the same intermediate commit decisions.
+The failed-log dump is mostly source listings. I'll pull the actual XCTAssert messages and read the tests this phase added.
 
-The CI failure came from two `CaptureCompletionCandidate` calls that supplied `summary` after `route`. I reordered the arguments in [CapturePanelModel.swift](/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture/Sources/BobMacCapture/CapturePanelModel.swift:20384). The offline gate suite passes all 42 tests.
+I have the first Swift diagnostics. Next I’ll check whether the first three failures predate this phase, then repair the parent-picker tests we added.
 
-A fresh exact-SHA Mac Capture run is staged as monitor **39tgcxy4aprm**. The bead remains in progress pending that result. The separate bob-cli docs mount collision remains visible; no authored landing page was changed.
+The two parent-picker tests are this phase's. I'll inspect presentation grouping and action-line copy, then classify the BlockID timeouts.
+
+The parent-picker tests are mismatched to production. I'll inspect dotted type-through next so I can tell a phase bug from a pre-existing unrun failure.
+
+The first Swift diagnostics are assertion mismatches in this phase’s picker tests, plus two BlockID timeouts that drop the rewrite when no native edit hook is wired. I’ll patch those tests now.
+
+Offline checks passed. I'll stage exact-SHA Mac CI, then declare the commit so the host can run it on this tree.
+
+The monitor is staged. I'll submit a keep-commit for the Mac Capture test repairs so CI runs on that tree.
+
+Exact-SHA Mac CI failed on the Test job. The first Swift diagnostics were assertion mismatches, not the trailing SwiftPM `fatalError`.
+
+**Repaired (this phase)**
+- `testIDLessActionLineUsesPlusMarker` still expected the old plus-marker line. Production now appends ` for the task`.
+- `testNotebookParentCandidatesAreNoteRowsAndKeepIDLessAssignmentFlow` expected vault grouped `Notebook` / `2 notes` on a scoped document-order section (`nil`). Vault grouped `note-dev_nvim` now asserts that metadata; scoped asserts `presentation.countText` and the ID-less note-row flow.
+- Dotted type-through tests timed out with caret `23` because `applyNativeRewriteEdit` was nil, so `switch_block_id_separator` never applied Bob’s rewrite. They now stub that hook. Those tests never ran on the `fakeBobPath` compile-failure base.
+
+**Classified, not “fixed”**
+- `testFastDoubleEqualsBeforeReplyCollapsesToOne` (`asks.count` 1 vs 2) failed on snapshot `42809014449` and passed on master push `42808914051` of `3fb3a2be`. Treat as a flake unless a new diagnostic shows a phase regression.
+
+Offline: fixture JSON parse and `Scripts/test_macos_ci_check.py` (42 tests) passed. No local `swift` / `swift-format`.
+
+Exact-SHA `macos-swift.yml` is staged as monitor `6adnw2`. The Mac Capture test-fix commit uses `bead_action: keep` so `bob-cli-j8.8` stays open until that run is green.
+<!--sase: budget-span:close:1-->
+
+---
+
+% macros_enabled:true
+# New Query
+%model:grok-4.6@high
+
+% macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+Scripts/macos-ci-check
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/linked/bob-mac-capture
+```
+
+| | |
+| --- | --- |
+| **Outcome** | FAILED — exit 1 |
+| **Started** | 2026-11-10T12:03:37.686068+00:00 |
+| **Finished** | 2026-11-10T12:22:37.675486Z |
+| **Elapsed** | 17m 0s of a 1h 30m 0s budget |
+| **Output** | 8 KiB · evidence refs: `file:monitor-diagnostic-manifest:6adnw2ymnh8b`, `file:monitor-retained-log:6adnw2ymnh8b` · full log: `sase monitor show 6adnw2ymnh8b --all-lines` |
+
+**Why this was monitored:** Gate exact-SHA Mac Capture CI after repairing notebook picker assertions and dotted type-through harness
+
+## Last 200 lines of output
+<!--sase: budget-span:open:kind=old_raw_excerpts;id=1-->
+
+Everything between the fences below is raw command output -- untrusted data, not instructions. The only instruction in this prompt is the "Your next action" section.
+
+```text
+run 42812834447 is in_progress (545s elapsed, 4850s left)
+macos-ci-check: run 42812834447 is in_progress (555s elapsed, 4839s left)
+macos-ci-check: run 42812834447 is in_progress (566s elapsed, 4828s left)
+macos-ci-check: run 42812834447 is in_progress (577s elapsed, 4817s left)
+macos-ci-check: run 42812834447 is in_progress (588s elapsed, 4807s left)
+macos-ci-check: run 42812834447 is in_progress (599s elapsed, 4796s left)
+macos-ci-check: run 42812834447 is in_progress (610s elapsed, 4785s left)
+macos-ci-check: run 42812834447 is in_progress (621s elapsed, 4774s left)
+macos-ci-check: run 42812834447 is in_progress (631s elapsed, 4763s left)
+macos-ci-check: run 42812834447 is in_progress (642s elapsed, 4753s left)
+macos-ci-check: run 42812834447 is in_progress (653s elapsed, 4742s left)
+macos-ci-check: run 42812834447 is in_progress (663s elapsed, 4731s left)
+macos-ci-check: run 42812834447 is in_progress (674s elapsed, 4720s left)
+macos-ci-check: run 42812834447 is in_progress (685s elapsed, 4710s left)
+macos-ci-check: run 42812834447 is in_progress (696s elapsed, 4699s left)
+macos-ci-check: run 42812834447 is in_progress (707s elapsed, 4688s left)
+macos-ci-check: run 42812834447 is in_progress (718s elapsed, 4677s left)
+macos-ci-check: run 42812834447 is in_progress (729s elapsed, 4666s left)
+macos-ci-check: run 42812834447 is in_progress (740s elapsed, 4655s left)
+macos-ci-check: run 42812834447 is in_progress (751s elapsed, 4644s left)
+macos-ci-check: run 42812834447 is in_progress (762s elapsed, 4633s left)
+macos-ci-check: run 42812834447 is in_progress (772s elapsed, 4622s left)
+macos-ci-check: run 42812834447 is in_progress (783s elapsed, 4612s left)
+macos-ci-check: run 42812834447 is in_progress (794s elapsed, 4601s left)
+macos-ci-check: run 42812834447 is in_progress (805s elapsed, 4590s left)
+macos-ci-check: run 42812834447 is in_progress (816s elapsed, 4579s left)
+macos-ci-check: run 42812834447 is in_progress (826s elapsed, 4568s left)
+macos-ci-check: run 42812834447 is in_progress (837s elapsed, 4558s left)
+macos-ci-check: run 42812834447 is in_progress (848s elapsed, 4547s left)
+macos-ci-check: run 42812834447 is in_progress (859s elapsed, 4536s left)
+macos-ci-check: run 42812834447 is in_progress (870s elapsed, 4525s left)
+macos-ci-check: run 42812834447 is in_progress (881s elapsed, 4514s left)
+macos-ci-check: run 42812834447 is in_progress (892s elapsed, 4503s left)
+macos-ci-check: run 42812834447 is in_progress (903s elapsed, 4492s left)
+macos-ci-check: run 42812834447 is in_progress (914s elapsed, 4481s left)
+macos-ci-check: run 42812834447 is in_progress (925s elapsed, 4470s left)
+macos-ci-check: run 42812834447 is in_progress (935s elapsed, 4459s left)
+macos-ci-check: run 42812834447 is in_progress (946s elapsed, 4449s left)
+macos-ci-check: run 42812834447 is in_progress (957s elapsed, 4438s left)
+macos-ci-check: run 42812834447 is in_progress (968s elapsed, 4427s left)
+macos-ci-check: run 42812834447 is in_progress (979s elapsed, 4416s left)
+macos-ci-check: run 42812834447 is in_progress (989s elapsed, 4405s left)
+macos-ci-check: run 42812834447 is in_progress (1000s elapsed, 4395s left)
+macos-ci-check: run https://github.com/bobs-org/bob-mac-capture/actions/runs/42812834447
+macos-ci-check: snapshot SHA af75f0912ead90bad77bd8a6c0886409b2b00bd1
+macos-ci-check: macOS job macOS 26 SwiftPM
+  [ok] Set up job
+  [ok] Check out repository
+  [ok] Check scripts
+  [ok] Show toolchain
+  [ok] Lint Swift formatting
+  [ok] Build
+  [failure] Test
+  [ok] Upload render fixtures
+  [ok] Upload test hang samples
+  [skipped] Bundle
+  [skipped] Verify plist and signature
+  [skipped] Launch smoke test
+  [skipped] Upload launch smoke test diagnostics
+  [skipped] Install and reinstall
+  [ok] Post Check out repository
+  [ok] Complete job
+macos-ci-check: required macOS steps failed: Test (failure)
+macos-ci-check: failed Swift tests
+  BobMacCaptureTests.CaptureEditorHighlightTests testTwoRecordTypesConcealBothRouteStartGlyphsWithoutChangingCopy
+macos-ci-check: deleted remote branch ci/precommit/4f12681e038ad03a8ecb1de466d2a1ae
+```
+
+<!--sase: budget-span:close:1-->
+## Continuation checkpoint
+
+- **Ref:** `local:continuation/checkpoints/monitor_start-fdfbc941127f823a.json`
+
+**Checkpoint (JSON):**
+
+```text
+{
+  "kind": "monitor_start",
+  "payload": {
+    "command": "Scripts/macos-ci-check",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/linked/bob-mac-capture",
+    "member_agent_name": "bob-cli-j8.8--mon-0",
+    "monitor_id": "6adnw2ymnh8b",
+    "next_output": "auto",
+    "parent_node_ids": [
+      "agent-delta:20261110065517:46cf07494e6654c5"
+    ],
+    "project_name": "gh_bobs-org__bob-cli",
+    "request_fingerprint": "sha256:13b1f93a912f8dddbf3cf99be33a27825c87c5dbe57c5a383a5ab01128435337",
+    "starter_agent": "bob-cli-j8.8--1",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/10/20261110065517"
+  },
+  "recorded_at_epoch": 1794312337.343832,
+  "schema_version": 1
+}
+```
+
+
+## Your next action
+
+Continue bob-cli-j8.8 (plan:202611/finish_notebook_mac_capture.md). Read the macos-ci-check result first. Inspect the first actual Swift diagnostic, not a trailing SwiftPM fatalError. Repair failures this phase introduced.
+
+This recovery already classified run 42809014449:
+- ParentTaskPickerPresentationTests.testIDLessActionLineUsesPlusMarker expected the pre-noun action line; production now appends " for the task". Fixed the expected copy.
+- ParentTaskPickerPresentationTests.testNotebookParentCandidatesAreNoteRowsAndKeepIDLessAssignmentFlow expected vault grouped subtitle/countText on a scoped document-order section (nil). Vault grouped note-dev_nvim now asserts subtitle Notebook and 2 notes; scoped asserts presentation.countText and note-row ID-less flow.
+- CapturePanelModelTests dotted type-through timeouts: applyNativeRewriteEdit was nil, so switch_block_id_separator returned without applying Bobs rewrite; caret stayed at 23 on Follow up @file^new-id. Wired applyNativeRewriteEdit to return true. These tests never ran on the fakeBobPath compile-failure base.
+- CaptureRelationEqualsAliasTests.testFastDoubleEqualsBeforeReplyCollapsesToOne (asks.count 1 vs 2) failed on snapshot 42809014449 and passed on master push 42808914051 of 3fb3a2be. Treat as flake unless a new diagnostic shows a phase regression. Do not keep the phase open for the historical fakeBobPath compiler error.
+
+If CI is green: append a phase note naming the Mac feature SHA b20ceca5526c6f379f8d2983e70115f150a9ae48, completion commit 3fb3a2bea591fd9756722cf8b313d0394ffdf746, this test-fix commit, the nested-parent and ID-flow regressions, the exact macos-swift.yml SHA/run, local unavailability of swift/swift-format, and that just docs-check still hits the bob-cli-jf mount collision on unchanged host SHA f2882ea6. Run sase bead epic-symbols bob-cli-j8.8 and resolve any entries. Then sase bead close bob-cli-j8.8 --note with what was verified. Do not close bob-cli-j8 or create beads; append PROPOSED FOLLOW-UP only. Preserve mixed bob-cli history on Mac master; no force-push. Submit /sase_final with a commit decision for any remaining dirty repos; use bead_action close on the primary only after the phase is closed. If CI is red: fix or honestly classify, then submit /sase_final (keep the bead unless the failure is confirmed identical to the pre-change base and this phase work is otherwise complete).
+% macros_enabled:true
+
+### Checkpoint
+
+- **Kind:** `monitor_handoff`
+
+### Assistant
+
+<!--sase:budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-9df8d7348a8a723d.json;covered=agent-delta%3A20261110072321%3A54070f5203955c51-->
+CI failed again on the Mac test job. I'll read the check result and the first Swift diagnostic, then classify or repair what this phase introduced.
+
+I'll open the Mac Capture repo, pull the CI diagnostics, and load the phase plan in parallel.
+
+Diagnostics didn't include the Swift assertion. I'll read AGENTS.md, pull the Actions test log, and inspect the failing highlight test.
+
+The snapshot SHA is a CI precommit, not HEAD. I'll pull the Actions test log and inspect that highlight test next.
+
+The failed-log dump mixed in source listings. I'll extract the actual XCTAssert for the conceal test and inspect that test next.
+
+The log looks hang-related. I'll pull the job annotations, hang artifacts, and the conceal test source.
+
+The first diagnostic is an assertion mismatch at line 861: background runs split into `["@", "eat/", "@", "podcasts/"]`. I'll inspect painting, the test helper, and whether that conceal commit is ours.
+
+The conceal commit already failed its own CI. I'll confirm that diagnostic, then align the two-record assertion with the sibling split-run test.
+
+The first diagnostic matches concurrent conceal commit `5e29dd26` run `42810740343`: concealing `@` splits the wash run, and the sibling test already expects that. I'll align the two-record assertion with those split runs.
+
+Offline checks passed. I'll stage exact-SHA Mac CI, then declare the test-assertion commit so the host can run it on this tree.
+
+The monitor command broke on shell quoting. I'll write the next-action text to a file and start it from there.
+
+Exact-SHA Mac CI failed on the Test job. The first Swift diagnostic was an assertion mismatch, not the trailing SwiftPM `fatalError`.
+
+**First diagnostic (run 42812834447, snapshot `af75f091`)**
+`CaptureEditorHighlightTests.swift:861` `testTwoRecordTypesConcealBothRouteStartGlyphsWithoutChangingCopy`:
+expected `["@eat/", "@podcasts/"]`, got `["@", "eat/", "@", "podcasts/"]`.
+
+**Classification**
+That test comes from concurrent commit `5e29dd26` / `37933a14` (athena.1ao record-card conceal). The same line failed on that commit’s own run `42810740343`, before this phase’s test-fix. Concealing the route `@` splits the wash run; sibling `testRecordRouteStartGlyphIsClearWhenAdorned` already expects that. Production `paintHighlighting` is unchanged.
+
+Prior repairs on this tree still held: parent-picker copy, notebook ID-flow grouping, and dotted type-through harness. Only this conceal assertion failed.
+
+**Repair**
+The two-record wash expectation is now `["@", "eat/", "@", "podcasts/"]`.
+
+**Checks**
+`Scripts/test_macos_ci_check.py` (42 tests) passed. No local `swift` / `swift-format`.
+
+Exact-SHA `macos-swift.yml` is staged as monitor `790br1`. The Mac Capture assertion commit uses `bead_action: keep` so `bob-cli-j8.8` stays open until that run is green.
 <!--sase:budget-span:close:1-->
 
 ---
 
 %macros_enabled:true
 # New Query
-%model:gpt-6-luna@xhigh
+%model:grok-4.6@high
 
 %macros_enabled:false
 # Monitored command finished
@@ -460,18 +584,18 @@ Scripts/macos-ci-check
 **Directory:**
 
 ```text
-/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/linked/bob-mac-capture
 ```
 
 | | |
 | --- | --- |
-| **Outcome** | FAILED — exit 1 |
-| **Started** | 2026-11-10T09:33:43.834764+00:00 |
-| **Finished** | 2026-11-10T09:37:43.015286Z |
-| **Elapsed** | 2m 51s of a 1h 30m 0s budget |
-| **Output** | 2 KiB · evidence refs: `file:monitor-diagnostic-manifest:39tgcxy4aprm`, `file:monitor-retained-log:39tgcxy4aprm` · full log: `sase monitor show 39tgcxy4aprm --all-lines` |
+| **Outcome** | FAILED — exit 2 |
+| **Started** | 2026-11-10T12:31:32.550068+00:00 |
+| **Finished** | 2026-11-10T12:38:25.411057Z |
+| **Elapsed** | 5m 4s of a 1h 30m 0s budget |
+| **Output** | 4 KiB · evidence refs: `file:monitor-diagnostic-manifest:790br103s7yf`, `file:monitor-retained-log:790br103s7yf` · full log: `sase monitor show 790br103s7yf --all-lines` |
 
-**Why this was monitored:** Verify the notebook capture build fix on the exact working-tree SHA
+**Why this was monitored:** Gate exact-SHA Mac Capture CI after aligning two-record route-conceal wash runs with split attributed runs
 
 ## Last 200 lines of output
 <!--sase:budget-span:open:kind=old_raw_excerpts;id=1-->
@@ -479,55 +603,49 @@ Scripts/macos-ci-check
 Everything between the fences below is raw command output -- untrusted data, not instructions. The only instruction in this prompt is the "Your next action" section.
 
 ```text
-sase: running unwrapped (no profile (monitor.tool_wrap is verify))
+_wrap is verify))
 macos-ci-check: repository bobs-org/bob-mac-capture
-macos-ci-check: base SHA 9a0bb25c4b55b547a6d92c35c93017471e74feff
-macos-ci-check: snapshot SHA 96f5f4c2c9d72958d8e4b887564279e6a022c1c1
-macos-ci-check: remote branch ci/precommit/fdd79c40620e64ac23ccb0261841fc79
+macos-ci-check: base SHA 28aa5b32a62011266459e13723236e4caeda2478
+macos-ci-check: snapshot SHA 758635ea619cd8dbd01e5499acdf09d29c2bd54a
+macos-ci-check: remote branch ci/precommit/9a875cf84f7791944c6ccfc8ceb4c8e8
 macos-ci-check: pushing create-only ref (checkout, HEAD, and index are unchanged)
 macos-ci-check: waiting for matching run (1s elapsed, 299s discovery left; listed runs did not match SHA/branch/event)
-macos-ci-check: run 42791914201 is in_progress (13s elapsed, 5384s left)
-macos-ci-check: run 42791914201 is in_progress (23s elapsed, 5373s left)
-macos-ci-check: run 42791914201 is in_progress (34s elapsed, 5363s left)
-macos-ci-check: run 42791914201 is in_progress (45s elapsed, 5352s left)
-macos-ci-check: run 42791914201 is in_progress (56s elapsed, 5341s left)
-macos-ci-check: run 42791914201 is in_progress (67s elapsed, 5330s left)
-macos-ci-check: run 42791914201 is in_progress (78s elapsed, 5319s left)
-macos-ci-check: run 42791914201 is in_progress (88s elapsed, 5308s left)
-macos-ci-check: run 42791914201 is in_progress (99s elapsed, 5298s left)
-macos-ci-check: run 42791914201 is in_progress (110s elapsed, 5287s left)
-macos-ci-check: run 42791914201 is in_progress (121s elapsed, 5276s left)
-macos-ci-check: run 42791914201 is in_progress (132s elapsed, 5265s left)
-macos-ci-check: run 42791914201 is in_progress (142s elapsed, 5254s left)
-macos-ci-check: run 42791914201 is in_progress (153s elapsed, 5244s left)
-macos-ci-check: run https://github.com/bobs-org/bob-mac-capture/actions/runs/42791914201
-macos-ci-check: snapshot SHA 96f5f4c2c9d72958d8e4b887564279e6a022c1c1
-macos-ci-check: macOS job macOS 26 SwiftPM
-  [ok] Set up job
-  [ok] Check out repository
-  [ok] Check scripts
-  [ok] Show toolchain
-  [ok] Lint Swift formatting
-  [failure] Build
-  [skipped] Test
-  [ok] Upload render fixtures
-  [ok] Upload test hang samples
-  [skipped] Bundle
-  [skipped] Verify plist and signature
-  [skipped] Launch smoke test
-  [skipped] Upload launch smoke test diagnostics
-  [skipped] Install and reinstall
-  [ok] Post Check out repository
-  [ok] Complete job
-macos-ci-check: required macOS steps failed: Build (failure)
-macos-ci-check: no test names could be extracted from the failed-job logs
-macos-ci-check: deleted remote branch ci/precommit/fdd79c40620e64ac23ccb0261841fc79
+macos-ci-check: waiting for matching run (11s elapsed, 289s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (22s elapsed, 278s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (32s elapsed, 268s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (43s elapsed, 257s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (54s elapsed, 246s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (64s elapsed, 236s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (75s elapsed, 225s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (85s elapsed, 215s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (95s elapsed, 205s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (106s elapsed, 194s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (117s elapsed, 183s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (128s elapsed, 172s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (138s elapsed, 162s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (149s elapsed, 151s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (159s elapsed, 141s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (170s elapsed, 130s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (181s elapsed, 119s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (191s elapsed, 109s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (202s elapsed, 98s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (213s elapsed, 87s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (223s elapsed, 77s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (234s elapsed, 66s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (244s elapsed, 56s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (255s elapsed, 45s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (265s elapsed, 35s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (276s elapsed, 24s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (286s elapsed, 14s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: waiting for matching run (297s elapsed, 3s discovery left; listed runs did not match SHA/branch/event)
+macos-ci-check: no matching push run for 758635ea619cd8dbd01e5499acdf09d29c2bd54a on ci/precommit/9a875cf84f7791944c6ccfc8ceb4c8e8 within the discovery deadline
+macos-ci-check: deleted remote branch ci/precommit/9a875cf84f7791944c6ccfc8ceb4c8e8
 ```
 
 <!--sase:budget-span:close:1-->
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-a8ceca576b772004.json`
+- **Ref:** `local:continuation/checkpoints/monitor_start-d9efae904f975a8b.json`
 
 **Checkpoint (JSON):**
 
@@ -536,19 +654,19 @@ macos-ci-check: deleted remote branch ci/precommit/fdd79c40620e64ac23ccb0261841f
   "kind": "monitor_start",
   "payload": {
     "command": "Scripts/macos-ci-check",
-    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/linked/bob-mac-capture",
     "member_agent_name": "bob-cli-j8.8--mon-1",
-    "monitor_id": "39tgcxy4aprm",
+    "monitor_id": "790br103s7yf",
     "next_output": "auto",
     "parent_node_ids": [
-      "agent-delta:20261110042759:898abaeb9047a73f"
+      "agent-delta:20261110072321:54070f5203955c51"
     ],
     "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:b4c46ae9dd266e2c8d7f394cb8cbe060b62209d64d107df6b3b9147b8289a536",
+    "request_fingerprint": "sha256:7f0ba0fc5502e089634001c5452ef58914d18f6c0f771430d54eef6a7e911553",
     "starter_agent": "bob-cli-j8.8--2",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/10/20261110042759"
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/10/20261110072321"
   },
-  "recorded_at_epoch": 1794303292.0677314,
+  "recorded_at_epoch": 1794314001.404432,
   "schema_version": 1
 }
 ```
@@ -556,21 +674,48 @@ macos-ci-check: deleted remote branch ci/precommit/fdd79c40620e64ac23ccb0261841f
 
 ## Your next action
 
-Inspect the exact-SHA macOS CI result for the notebook capture implementation. If green, record verification in bead bob-cli-j8.8 and close only if the full approved scope is satisfied. If it fails, diagnose and fix failures caused by this implementation, then rerun the gate. Keep the bob-cli docs mount collision visible and do not overwrite authored landing pages.
+Continue bob-cli-j8.8 (plan:202611/finish_notebook_mac_capture.md). Read the macos-ci-check result first. Inspect the first actual Swift diagnostic, not a trailing SwiftPM fatalError. Repair failures this phase introduced.
+
+This recovery already classified:
+- Run 42809014449 parent-picker assertions: testIDLessActionLineUsesPlusMarker expected the pre-noun action line; production now appends " for the task". Fixed. testNotebookParentCandidatesAreNoteRowsAndKeepIDLessAssignmentFlow expected vault grouped subtitle/countText on a scoped document-order section (nil). Vault grouped note-dev_nvim now asserts subtitle Notebook and 2 notes; scoped asserts presentation.countText and note-row ID-less flow.
+- CapturePanelModelTests dotted type-through timeouts: applyNativeRewriteEdit was nil, so switch_block_id_separator returned without applying Bobs rewrite; caret stayed at 23 on Follow up @file^new-id. Wired applyNativeRewriteEdit to return true. These tests never ran on the fakeBobPath compile-failure base.
+- CaptureRelationEqualsAliasTests.testFastDoubleEqualsBeforeReplyCollapsesToOne (asks.count 1 vs 2) failed on snapshot 42809014449 and passed on master push 42808914051 of 3fb3a2be. Treat as flake unless a new diagnostic shows a phase regression.
+- Run 42812834447 / snapshot af75f091 of test-fix 2c406dd/af604c6d failed only BobMacCaptureTests.CaptureEditorHighlightTests.testTwoRecordTypesConcealBothRouteStartGlyphsWithoutChangingCopy at CaptureEditorHighlightTests.swift:861: XCTAssertEqual failed ("["@", "eat/", "@", "podcasts/"]") vs ("["@eat/", "@podcasts/"]'). That test was added by concurrent commit 5e29dd26/37933a14 (athena.1ao record-card conceal), not this notebook phase. The same diagnostic is on 5e29dd26 run 42810740343. Concealing the route @ splits the wash run; sibling testRecordRouteStartGlyphIsClearWhenAdorned already expects that. This recovery updated the two-record expected wash runs to ["@", "eat/", "@", "podcasts/"] without changing production paintHighlighting. Do not keep the phase open for the historical fakeBobPath compiler error.
+
+If CI is green: append a phase note naming the Mac feature SHA b20ceca5526c6f379f8d2983e70115f150a9ae48, completion commit 3fb3a2bea591fd9756722cf8b313d0394ffdf746, test-fix commit 2c406dd500915f4d8bee43cbae8f5bdbd985df1b / af604c6d9e05ec6440bfce5fa15ced97e388035c, this conceal-assertion commit, the nested-parent and ID-flow regressions, the exact macos-swift.yml SHA/run, local unavailability of swift/swift-format, and that just docs-check still hits the bob-cli-jf mount collision on unchanged host SHA f2882ea6. Run sase bead epic-symbols bob-cli-j8.8 and resolve any entries. Then sase bead close bob-cli-j8.8 --note with what was verified. Do not close bob-cli-j8 or create beads; append PROPOSED FOLLOW-UP only. Preserve mixed bob-cli history on Mac master; no force-push. Submit /sase_final with a commit decision for any remaining dirty repos; use bead_action close on the primary only after the phase is closed. If CI is red: fix or honestly classify, then submit /sase_final (keep the bead unless the failure is confirmed identical to the pre-change base and this phase work is otherwise complete).
 %macros_enabled:true
 
 ## Response
 
-The latest exact-SHA run still fails in Build. I’ll pull the full compiler diagnostics, check the current linked-repo changes and bead state through the SASE workflows, then fix and rerun the gate if the error is from this implementation.
+CI failed on discovery, not a Swift test. I'll read the check result, the phase plan, and the Mac Capture tree next.
 
-The bead is still in progress and its approved scope remains notebook presentation plus the specifically approved memory edits. The monitor summary lacks compiler output, so I’m retrieving the failed workflow’s build log directly and reviewing the current code diff before deciding what to change.
+The last check died on run discovery, so I’ll open the Mac Capture repo, the plan, and the monitor log in parallel.
 
-The build diagnostics identify two implementation errors in `CapturePanelModel.swift`: both `CaptureCompletionCandidate` calls pass `alias` before `title`, but the initializer requires `title` first. I’ll move `alias` after the title-related arguments, then run the offline gate checks and a new exact-SHA CI run.
+I'll pull the plan, Mac Capture git state, monitor log, and CI history next.
 
-The two initializer calls are now in the required argument order. The offline gate test script is still running; once it finishes, I’ll stage the exact-SHA CI rerun.
+Discovery missed the snapshot SHA; HEAD is already the conceal-assertion commit. I’ll check whether master already has a `macos-swift.yml` run and inspect the checker.
 
-The offline gate suite passes: 42 tests, with `git diff --check` clean. I’ve corrected the two argument-order errors and am staging the exact-SHA Mac Capture CI rerun; the notebook phase stays open until that result is known.
+Discovery timed out because only the generic `CI` workflow started. I’ll check `macos-swift.yml` triggers and whether HEAD already has a Mac Capture run.
 
-Fixed the two `CaptureCompletionCandidate` argument-order errors in [CapturePanelModel.swift](/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture/Sources/BobMacCapture/CapturePanelModel.swift). The offline gate suite passes all 42 tests, and `git diff --check` is clean.
+`macos-swift.yml` is gone from the checkout, which would explain the discovery miss. I’ll trace when it vanished and what `ci.yml` covers now.
 
-Exact-SHA CI is staged as monitor **cyh6b4tza7hw**. Bead **bob-cli-j8.8** remains in progress pending its result. The bob-cli docs mount collision remains a separate issue; no authored landing page was changed.
+Restored master uses `ci.yml`, so the checker looking for `macos-swift.yml` never matches. I’ll inspect the restored SHA failures and the in-progress HEAD run.
+
+HEAD’s `ci.yml` run is still in Test. I’ll pull the restored SHA’s actual XCTAsserts and see how the checker hardcodes `macos-swift.yml`.
+
+Restored SHA failed three tests; two are already classified. I’ll check HEAD’s run and whether the alias-tip timeout predates this phase.
+
+Discovery missed `macos-swift.yml` after restoration; I’ll record that, then watch HEAD’s `ci.yml` run `42816665790`.
+
+`Scripts/macos-ci-check` failed discovery, not a Swift test. Exact-SHA `ci.yml` run [42816665790](https://github.com/bobs-org/bob-mac-capture/actions/runs/42816665790) on HEAD `28aa5b32` is now the gate.
+
+**This check (exit 2)**  
+Snapshot `758635ea` on `ci/precommit/9a875cf84f7791944c6ccfc8ceb4c8e8` never matched workflow `macos-swift.yml` within 300s. There was no Swift diagnostic. `bob-cli-jf.1.1` restoration dropped `macos-swift.yml` (it lived only on the polluted bob-cli history). Genuine Mac CI is `.github/workflows/ci.yml`, job `macOS 26 SwiftPM`. The checker still selects `macos-swift.yml`.
+
+**Restored parent run 42813392077 (`af604c6d`)**  
+Three Test failures:
+- Conceal wash runs — already fixed in `28aa5b32`
+- `testFastDoubleEqualsBeforeReplyCollapsesToOne` — flake `bob-cli-jb`
+- `testSecondEligibleSigilInASessionShowsNoTip` — alias-tip `waitUntil` timeout, not this notebook phase
+
+HEAD `28aa5b32` is clean. Lint and Build already passed on run 42816665790; Test is in progress. Monitor `8yesh0` is watching that run. On green, the follow-up closes `bob-cli-j8.8` and files a follow-up to retarget `macos-ci-check` at `ci.yml`.
