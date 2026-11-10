@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-iz](../../users/bbugyi200/machines/athena/hoods/bob-cli-iz/README.md) / bob-cli-iz.5
 
-**Global name:** `bbugyi200.athena.bob-cli-iz.5` · **State:** waiting · **Source run:** `run-7b51a5d256853e8ab813973d8382d255`
+**Global name:** `bbugyi200.athena.bob-cli-iz.5` · **State:** completed · **Source run:** `run-7b51a5d256853e8ab813973d8382d255`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-iz
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-iz](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-iz/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261109071427
-- Commits: 0
+- Timing: 2026-11-09T14:49:57.280846+00:00 → 2026-11-10T01:23:30.304821+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`9a0bb25`](https://github.com/bobs-org/bob-cli/commit/9a0bb25c4b55b547a6d92c35c93017471e74feff) | feat(gcal)!: hold replaced Events sections | 2026-11-09 20:22:17 EST |
 
 ## Neighbors
 
