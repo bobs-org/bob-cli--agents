@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`89a02a4`](https://github.com/bobs-org/bob-cli/commit/89a02a4fa0fea7ed7bd4e5c8061fec4ad592de32) | chore: consolidate Obsidian vs Notion research | 2026-06-12 07:58:06 EDT |
+| — | `89a02a4` | chore: consolidate Obsidian vs Notion research | 2026-06-12 07:58:06 EDT |
 
 ## Neighbors
 
@@ -38,7 +38,7 @@
 | [research.00.grk](../bbugyi200.apollo.research.00.grk/README.md) | research hood | active |
 | [research.00.image](../bbugyi200.apollo.research.00.image/README.md) | research hood | active |
 | [research.00.linker](../bbugyi200.apollo.research.00.linker/README.md) | research hood | active |
-| [research.00.mus](../bbugyi200.apollo.research.00.mus/README.md) | research hood | active |
+| [research.00.mus](../bbugyi200.apollo.research.00.mus/README.md) | research hood | dismissed |
 | [research.01.cdx](../bbugyi200.apollo.research.01.cdx/README.md) | research hood | active |
 | [research.01.cld](../bbugyi200.apollo.research.01.cld/README.md) | research hood | active |
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | active |
@@ -51,7 +51,7 @@
 | [research.03.cdx](../bbugyi200.apollo.research.03.cdx/README.md) | research hood | active |
 | [research.03.cld](../bbugyi200.apollo.research.03.cld/README.md) | research hood | active |
 | [research.03.final](../bbugyi200.apollo.research.03.final/README.md) | research hood | active |
-| [research.03.gem](../bbugyi200.apollo.research.03.gem/README.md) | research hood | active |
+| [research.03.gem](../bbugyi200.apollo.research.03.gem/README.md) | research hood | dismissed |
 | [research.03.grk](../bbugyi200.apollo.research.03.grk/README.md) | research hood | active |
 | [research.03.image](../bbugyi200.apollo.research.03.image/README.md) | research hood | active |
 | [research.03.linker](../bbugyi200.apollo.research.03.linker/README.md) | research hood | active |

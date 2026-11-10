@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`17d00e0`](https://github.com/bobs-org/bob-cli/commit/17d00e00654b21b5349723c3bfb5d7343d953608) | chore: Add research memo on PDF/Athena/Dataview/Highlights tasks roadmap | 2026-06-04 19:31:32 EDT |
+| — | `17d00e0` | chore: Add research memo on PDF/Athena/Dataview/Highlights tasks roadmap | 2026-06-04 19:31:32 EDT |
 
 ## Neighbors
 
@@ -35,7 +35,7 @@
 | [research.00.grk](../bbugyi200.apollo.research.00.grk/README.md) | research hood | active |
 | [research.00.image](../bbugyi200.apollo.research.00.image/README.md) | research hood | active |
 | [research.00.linker](../bbugyi200.apollo.research.00.linker/README.md) | research hood | active |
-| [research.00.mus](../bbugyi200.apollo.research.00.mus/README.md) | research hood | active |
+| [research.00.mus](../bbugyi200.apollo.research.00.mus/README.md) | research hood | dismissed |
 | [research.01.cdx](../bbugyi200.apollo.research.01.cdx/README.md) | research hood | active |
 | [research.01.cld](../bbugyi200.apollo.research.01.cld/README.md) | research hood | active |
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | active |
@@ -48,7 +48,7 @@
 | [research.03.cdx](../bbugyi200.apollo.research.03.cdx/README.md) | research hood | active |
 | [research.03.cld](../bbugyi200.apollo.research.03.cld/README.md) | research hood | active |
 | [research.03.final](../bbugyi200.apollo.research.03.final/README.md) | research hood | active |
-| [research.03.gem](../bbugyi200.apollo.research.03.gem/README.md) | research hood | active |
+| [research.03.gem](../bbugyi200.apollo.research.03.gem/README.md) | research hood | dismissed |
 | [research.03.grk](../bbugyi200.apollo.research.03.grk/README.md) | research hood | active |
 | [research.03.image](../bbugyi200.apollo.research.03.image/README.md) | research hood | active |
 | [research.03.linker](../bbugyi200.apollo.research.03.linker/README.md) | research hood | active |

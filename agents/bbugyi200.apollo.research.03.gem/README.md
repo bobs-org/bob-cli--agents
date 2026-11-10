@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.03.gem
 
-**Global name:** `bbugyi200.apollo.research.03.gem` · **State:** active · **Source run:** `run-095c2d1329b84e583d5af1bdee92e3f3`
+**Global name:** `bbugyi200.apollo.research.03.gem` · **State:** dismissed · **Source run:** `run-095c2d1329b84e583d5af1bdee92e3f3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-10-03T13:19:36.086174+00:00
+- Timing: 2026-10-03T09:19:36.086174 → 2026-10-03T09:27:25.994710
 - Commits: 0
 
 ## Files
@@ -41,7 +41,7 @@
 | [research.00.grk](../bbugyi200.apollo.research.00.grk/README.md) | research hood | active |
 | [research.00.image](../bbugyi200.apollo.research.00.image/README.md) | research hood | active |
 | [research.00.linker](../bbugyi200.apollo.research.00.linker/README.md) | research hood | active |
-| [research.00.mus](../bbugyi200.apollo.research.00.mus/README.md) | research hood | active |
+| [research.00.mus](../bbugyi200.apollo.research.00.mus/README.md) | research hood | dismissed |
 | [research.01.cdx](../bbugyi200.apollo.research.01.cdx/README.md) | research hood | active |
 | [research.01.cld](../bbugyi200.apollo.research.01.cld/README.md) | research hood | active |
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | active |

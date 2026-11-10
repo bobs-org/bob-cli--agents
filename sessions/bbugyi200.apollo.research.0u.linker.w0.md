@@ -41,7 +41,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.00.grk](../agents/bbugyi200.apollo.research.00.grk/README.md) | research hood | active |
 | [research.00.image](../agents/bbugyi200.apollo.research.00.image/README.md) | research hood | active |
 | [research.00.linker](../agents/bbugyi200.apollo.research.00.linker/README.md) | research hood | active |
-| [research.00.mus](../agents/bbugyi200.apollo.research.00.mus/README.md) | research hood | active |
+| [research.00.mus](../agents/bbugyi200.apollo.research.00.mus/README.md) | research hood | dismissed |
 | [research.01.cdx](../agents/bbugyi200.apollo.research.01.cdx/README.md) | research hood | active |
 | [research.01.cld](../agents/bbugyi200.apollo.research.01.cld/README.md) | research hood | active |
 | [research.01.final](../agents/bbugyi200.apollo.research.01.final/README.md) | research hood | active |
@@ -54,7 +54,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [research.03.cdx](../agents/bbugyi200.apollo.research.03.cdx/README.md) | research hood | active |
 | [research.03.cld](../agents/bbugyi200.apollo.research.03.cld/README.md) | research hood | active |
 | [research.03.final](../agents/bbugyi200.apollo.research.03.final/README.md) | research hood | active |
-| [research.03.gem](../agents/bbugyi200.apollo.research.03.gem/README.md) | research hood | active |
+| [research.03.gem](../agents/bbugyi200.apollo.research.03.gem/README.md) | research hood | dismissed |
 | [research.03.grk](../agents/bbugyi200.apollo.research.03.grk/README.md) | research hood | active |
 | [research.03.image](../agents/bbugyi200.apollo.research.03.image/README.md) | research hood | active |
 | [research.03.linker](../agents/bbugyi200.apollo.research.03.linker/README.md) | research hood | active |
