@@ -9,9 +9,9 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-j8` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-j8.3.1.land--gate [completed]"]
-  n1["bob-cli-j8.3.1.land--code [active]"]
+  n1["bob-cli-j8.3.1.land--code [completed]"]
   n0 --> n1
-  n2["bob-cli-j8.3.1.land--plan [active]"]
+  n2["bob-cli-j8.3.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,34 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-j8.3.1.land--gate | completed | gpt-6-astra / codex | 2026-11-10T01:48:32.418769+00:00 → 2026-11-10T01:48:43.722579+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.3.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-j8.3.1.land--code | active | gpt-6-luna / codex | 2026-11-10T01:49:09.642743+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-j8.3.1.land--plan | active | gpt-6-astra / codex | 2026-11-10T01:34:05.656058+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.3.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-j8.3.1.land--code | completed | gpt-6-luna / codex | 2026-11-10T01:49:09.642743+00:00 → 2026-11-10T03:39:32.149177+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-j8.3.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.3.1.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-j8.3.1.land--plan | completed | gpt-6-astra / codex | 2026-11-10T01:34:05.656058+00:00 → 2026-11-10T03:39:32.149177+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.3.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`843642f`](https://github.com/bobs-org/bob-cli/commit/843642f9fc34e0edf60b126751bb221d2fe6283c) | feat(capture)!: repair notebook capture landing | 2026-11-09 22:37:58 EST |
+
+## Variables
+
+| Role | Variable | Value |
+|---|---|---|
+| code | `artifacts` | \[{bead: bob-cli-j5, kind: markdown, label: Task merge custom archive path reproduction, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109204850/sase-task-merge-repro-de51947185a1… |
+
+#### artifacts
+
+**Role:** `code`
+
+```yaml
+- bead: bob-cli-j5
+  kind: markdown
+  label: Task merge custom archive path reproduction
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109204850/sase-task-merge-repro-de51947185a1.md
+  ref: file:explicit:82c6a707ddd506f8b0f9d403
+```
+
+Values are truncated for display; see each member's agent meta.json for the full values.
 
 ## Neighbors
 

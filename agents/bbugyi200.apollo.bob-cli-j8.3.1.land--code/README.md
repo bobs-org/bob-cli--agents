@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-j8](../../users/bbugyi200/machines/apollo/hoods/bob-cli-j8/README.md) / [bob-cli-j8.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-j8.3.1.land.md) / bob-cli-j8.3.1.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-j8.3.1.land--code` · **State:** active · **Source run:** `run-30bb47b4aeb5429ffc4995f27427ab19`
+**Global name:** `bbugyi200.apollo.bob-cli-j8.3.1.land--code` · **State:** completed · **Source run:** `run-30bb47b4aeb5429ffc4995f27427ab19`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-j8
 
@@ -11,8 +11,37 @@
 - Bead: [bob-cli-j8.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j8/bob-cli-j8.3.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-10T01:49:09.642743+00:00
-- Commits: 0
+- Timing: 2026-11-10T01:49:09.642743+00:00 → 2026-11-10T03:39:32.149177+00:00
+- Commits: [1](#commits)
+- Variables: [1](#variables)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`843642f`](https://github.com/bobs-org/bob-cli/commit/843642f9fc34e0edf60b126751bb221d2fe6283c) | feat(capture)!: repair notebook capture landing | 2026-11-09 22:37:58 EST |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-j5, kind: markdown, label: Task merge custom archive path reproduction, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109204850/sase-task-merge-repro-de51947185a1… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-j5
+  kind: markdown
+  label: Task merge custom archive path reproduction
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109204850/sase-task-merge-repro-de51947185a1.md
+  ref: file:explicit:82c6a707ddd506f8b0f9d403
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
