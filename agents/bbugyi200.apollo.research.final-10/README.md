@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `c83e204` | chore: consolidate Bob PDF workflow research | 2026-06-04 19:45:40 EDT |
+| bob-cli | [`c83e204`](https://github.com/bobs-org/bob-cli/commit/c83e204ad3a0cada2e78842becf70afaceb8c483) | chore: consolidate Bob PDF workflow research | 2026-06-04 19:45:40 EDT |
 
 ## Neighbors
 
