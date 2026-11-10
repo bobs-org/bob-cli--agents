@@ -330,11 +330,11 @@
 | [bob-cli-7c](hoods/bob-cli-7c/README.md) | 23 | 4 | completed 11, dismissed 4, failed 7, waiting 1 |
 | [bob-cli-8](hoods/bob-cli-8/README.md) | 5 | 0 | completed 5 |
 | [bob-cli-9](hoods/bob-cli-9/README.md) | 8 | 0 | completed 8 |
-| [bob-cli-ab](hoods/bob-cli-ab/README.md) | 22 | 4 | active 18, completed 2, dismissed 1, failed 1 |
-| [bob-cli-ac](hoods/bob-cli-ac/README.md) | 29 | 4 | active 28, completed 1 |
-| [bob-cli-ak](hoods/bob-cli-ak/README.md) | 10 | 3 | active 9, completed 1 |
-| [bob-cli-am](hoods/bob-cli-am/README.md) | 15 | 1 | active 15 |
-| [bob-cli-bc](hoods/bob-cli-bc/README.md) | 34 | 3 | active 32, completed 1, failed 1 |
+| [bob-cli-ab](hoods/bob-cli-ab/README.md) | 22 | 4 | active 2, completed 2, dismissed 17, failed 1 |
+| [bob-cli-ac](hoods/bob-cli-ac/README.md) | 29 | 4 | completed 1, dismissed 28 |
+| [bob-cli-ak](hoods/bob-cli-ak/README.md) | 10 | 3 | completed 1, dismissed 9 |
+| [bob-cli-am](hoods/bob-cli-am/README.md) | 15 | 1 | dismissed 15 |
+| [bob-cli-bc](hoods/bob-cli-bc/README.md) | 34 | 3 | active 10, completed 1, dismissed 22, failed 1 |
 | [bob-cli-bd](hoods/bob-cli-bd/README.md) | 25 | 5 | active 22, completed 3 |
 | [bob-cli-bj](hoods/bob-cli-bj/README.md) | 22 | 3 | active 21, completed 1 |
 | [bob-cli-bk](hoods/bob-cli-bk/README.md) | 13 | 2 | active 12, completed 1 |
