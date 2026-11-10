@@ -29,7 +29,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ji.2](../bbugyi200.apollo.bob-cli-ji.2/README.md) | bob-cli-ji hood | active |
+| [bob-cli-ji.2](../bbugyi200.apollo.bob-cli-ji.2/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.3](../bbugyi200.apollo.bob-cli-ji.3/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.4](../bbugyi200.apollo.bob-cli-ji.4/README.md) | bob-cli-ji hood | waiting |
 | [bob-cli-ji.5](../bbugyi200.apollo.bob-cli-ji.5/README.md) | bob-cli-ji hood | waiting |

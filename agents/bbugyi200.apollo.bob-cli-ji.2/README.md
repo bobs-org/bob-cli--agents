@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ji](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ji/README.md) / bob-cli-ji.2
 
-**Global name:** `bbugyi200.apollo.bob-cli-ji.2` · **State:** active · **Source run:** `run-356b4f6cea061c8b68b5387e41ce0814`
+**Global name:** `bbugyi200.apollo.bob-cli-ji.2` · **State:** completed · **Source run:** `run-356b4f6cea061c8b68b5387e41ce0814`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ji
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ji](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ji/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-10T11:49:00.107512+00:00
-- Commits: 0
+- Timing: 2026-11-10T11:49:00.107512+00:00 → 2026-11-10T13:12:37.173404+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`a2809a1`](https://github.com/bobs-org/bob-cli/commit/a2809a1dc48db0d2ac384f44d3e5fce7c8635715) | feat(gcal): add bob gcal note selection and read-only modes | 2026-11-10 08:11:11 EST |
 
 ## Neighbors
 
