@@ -46,14 +46,14 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.3c.gem](../bbugyi200.apollo.research.3c.gem/README.md) | research.3c hood | active |
 | [research.3c.image](../bbugyi200.apollo.research.3c.image/README.md) | research.3c hood | dismissed |
 | [research.3c.linker](../bbugyi200.apollo.research.3c.linker/README.md) | research.3c hood | dismissed |
-| [research.3c.linker.w0](../../sessions/bbugyi200.apollo.research.3c.linker.w0.md) (session · 3) | research.3c hood | active 1, completed 2 |
-| [research.3c.mus](../bbugyi200.apollo.research.3c.mus/README.md) | research.3c hood | active |
+| [research.3c.linker.w0](../../sessions/bbugyi200.apollo.research.3c.linker.w0.md) (session · 3) | research.3c hood | completed 2, dismissed 1 |
+| [research.3c.mus](../bbugyi200.apollo.research.3c.mus/README.md) | research.3c hood | dismissed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
 | [research.0.final.f1](../bbugyi200.apollo.research.0.final.f1/README.md) | research hood | completed |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
-| [research.00.cdx](../bbugyi200.apollo.research.00.cdx/README.md) | research hood | active |
+| [research.00.cdx](../bbugyi200.apollo.research.00.cdx/README.md) | research hood | dismissed |
 | [research.00.cld](../bbugyi200.apollo.research.00.cld/README.md) | research hood | active |
 | [research.00.final](../bbugyi200.apollo.research.00.final/README.md) | research hood | active |
 | [research.00.gem](../bbugyi200.apollo.research.00.gem/README.md) | research hood | dismissed |
@@ -92,7 +92,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.05.cld](../bbugyi200.apollo.research.05.cld/README.md) | research hood | active |
 | [research.05.final](../bbugyi200.apollo.research.05.final/README.md) | research hood | active |
 | [research.05.gem](../bbugyi200.apollo.research.05.gem/README.md) | research hood | dismissed |
-| [research.05.grk](../bbugyi200.apollo.research.05.grk/README.md) | research hood | active |
+| [research.05.grk](../bbugyi200.apollo.research.05.grk/README.md) | research hood | dismissed |
 | [research.05.image](../bbugyi200.apollo.research.05.image/README.md) | research hood | active |
 | [research.05.linker](../bbugyi200.apollo.research.05.linker/README.md) | research hood | dismissed |
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |

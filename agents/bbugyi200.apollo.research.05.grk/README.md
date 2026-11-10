@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.05.grk
 
-**Global name:** `bbugyi200.apollo.research.05.grk` · **State:** active · **Source run:** `run-6a3620fcfce8be18e6ce28a66ce9db1a`
+**Global name:** `bbugyi200.apollo.research.05.grk` · **State:** dismissed · **Source run:** `run-6a3620fcfce8be18e6ce28a66ce9db1a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-10-03T19:24:51.226234+00:00
+- Timing: 2026-10-03T15:24:51.226234 → 2026-10-03T15:36:17.602151
 - Commits: 0
 
 ## Files
@@ -34,7 +34,7 @@
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
 | [research.0.final.f1](../bbugyi200.apollo.research.0.final.f1/README.md) | research hood | completed |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
-| [research.00.cdx](../bbugyi200.apollo.research.00.cdx/README.md) | research hood | active |
+| [research.00.cdx](../bbugyi200.apollo.research.00.cdx/README.md) | research hood | dismissed |
 | [research.00.cld](../bbugyi200.apollo.research.00.cld/README.md) | research hood | active |
 | [research.00.final](../bbugyi200.apollo.research.00.final/README.md) | research hood | active |
 | [research.00.gem](../bbugyi200.apollo.research.00.gem/README.md) | research hood | dismissed |

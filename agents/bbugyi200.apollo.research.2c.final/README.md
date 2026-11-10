@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.2c.final
 
-**Global name:** `bbugyi200.apollo.research.2c.final` · **State:** active · **Source run:** `run-56dd38357701e01dfd6b3d5e04193ba8`
+**Global name:** `bbugyi200.apollo.research.2c.final` · **State:** dismissed · **Source run:** `run-56dd38357701e01dfd6b3d5e04193ba8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-24T10:38:19.793025+00:00
+- Timing: 2026-10-24T06:38:19.793025 → 2026-10-24T07:01:20.154277
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -41,11 +41,11 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.2c.cdx](../bbugyi200.apollo.research.2c.cdx/README.md) | research.2c hood | active |
-| [research.2c.cld](../bbugyi200.apollo.research.2c.cld/README.md) | research.2c hood | active |
+| [research.2c.cld](../bbugyi200.apollo.research.2c.cld/README.md) | research.2c hood | dismissed |
 | [research.2c.gem](../bbugyi200.apollo.research.2c.gem/README.md) | research.2c hood | dismissed |
-| [research.2c.grk](../bbugyi200.apollo.research.2c.grk/README.md) | research.2c hood | active |
-| [research.2c.image](../bbugyi200.apollo.research.2c.image/README.md) | research.2c hood | active |
-| [research.2c.linker](../bbugyi200.apollo.research.2c.linker/README.md) | research.2c hood | active |
+| [research.2c.grk](../bbugyi200.apollo.research.2c.grk/README.md) | research.2c hood | dismissed |
+| [research.2c.image](../bbugyi200.apollo.research.2c.image/README.md) | research.2c hood | dismissed |
+| [research.2c.linker](../bbugyi200.apollo.research.2c.linker/README.md) | research.2c hood | dismissed |
 | [research.2c.linker.w0](../bbugyi200.apollo.research.2c.linker.w0/README.md) | research.2c hood | active |
 | [research.2c.linker.w1](../../sessions/bbugyi200.apollo.research.2c.linker.w1.md) (session · 3) | research.2c hood | active 1, failed 2 |
 | [research.2c.mus](../bbugyi200.apollo.research.2c.mus/README.md) | research.2c hood | dismissed |
@@ -54,7 +54,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
 | [research.0.final.f1](../bbugyi200.apollo.research.0.final.f1/README.md) | research hood | completed |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
-| [research.00.cdx](../bbugyi200.apollo.research.00.cdx/README.md) | research hood | active |
+| [research.00.cdx](../bbugyi200.apollo.research.00.cdx/README.md) | research hood | dismissed |
 | [research.00.cld](../bbugyi200.apollo.research.00.cld/README.md) | research hood | active |
 | [research.00.final](../bbugyi200.apollo.research.00.final/README.md) | research hood | active |
 | [research.00.gem](../bbugyi200.apollo.research.00.gem/README.md) | research hood | dismissed |
@@ -93,7 +93,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.05.cld](../bbugyi200.apollo.research.05.cld/README.md) | research hood | active |
 | [research.05.final](../bbugyi200.apollo.research.05.final/README.md) | research hood | active |
 | [research.05.gem](../bbugyi200.apollo.research.05.gem/README.md) | research hood | dismissed |
-| [research.05.grk](../bbugyi200.apollo.research.05.grk/README.md) | research hood | active |
+| [research.05.grk](../bbugyi200.apollo.research.05.grk/README.md) | research hood | dismissed |
 | [research.05.image](../bbugyi200.apollo.research.05.image/README.md) | research hood | active |
 | [research.05.linker](../bbugyi200.apollo.research.05.linker/README.md) | research hood | dismissed |
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |

@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`25224d4`](https://github.com/bobs-org/bob-cli/commit/25224d454e74398dcc8f2c27f6e030cdcca69923) | chore: Add SDD prompt and plan for bob\_capture\_command | 2026-06-15 16:20:57 EDT |
-| bob-cli | [`c4c0dfd`](https://github.com/bobs-org/bob-cli/commit/c4c0dfd8ad5f27785293894869623cdc13c37c75) | feat: add native capture command | 2026-06-15 16:35:07 EDT |
+| — | `25224d4` | chore: Add SDD prompt and plan for bob\_capture\_command | 2026-06-15 16:20:57 EDT |
+| — | `c4c0dfd` | feat: add native capture command | 2026-06-15 16:35:07 EDT |
 
 ## Neighbors
 
@@ -37,7 +37,7 @@
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
 | [research.0.final.f1](../bbugyi200.apollo.research.0.final.f1/README.md) | research hood | completed |
 | [research.0.image](../bbugyi200.apollo.research.0.image/README.md) | research hood | completed |
-| [research.00.cdx](../bbugyi200.apollo.research.00.cdx/README.md) | research hood | active |
+| [research.00.cdx](../bbugyi200.apollo.research.00.cdx/README.md) | research hood | dismissed |
 | [research.00.cld](../bbugyi200.apollo.research.00.cld/README.md) | research hood | active |
 | [research.00.final](../bbugyi200.apollo.research.00.final/README.md) | research hood | active |
 | [research.00.gem](../bbugyi200.apollo.research.00.gem/README.md) | research hood | dismissed |
@@ -76,7 +76,7 @@
 | [research.05.cld](../bbugyi200.apollo.research.05.cld/README.md) | research hood | active |
 | [research.05.final](../bbugyi200.apollo.research.05.final/README.md) | research hood | active |
 | [research.05.gem](../bbugyi200.apollo.research.05.gem/README.md) | research hood | dismissed |
-| [research.05.grk](../bbugyi200.apollo.research.05.grk/README.md) | research hood | active |
+| [research.05.grk](../bbugyi200.apollo.research.05.grk/README.md) | research hood | dismissed |
 | [research.05.image](../bbugyi200.apollo.research.05.image/README.md) | research hood | active |
 | [research.05.linker](../bbugyi200.apollo.research.05.linker/README.md) | research hood | dismissed |
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
