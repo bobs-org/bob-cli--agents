@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ji](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ji/README.md) / [bob-cli-ji.7](../../sessions/bbugyi200.apollo.bob-cli-ji.7.md) / bob-cli-ji.7--mon
 
-**Global name:** `bbugyi200.apollo.bob-cli-ji.7--mon` · **State:** active · **Source run:** `run-1c2bd4f712e39a3a9b0859926697944b`
+**Global name:** `bbugyi200.apollo.bob-cli-ji.7--mon` · **State:** completed · **Source run:** `run-1c2bd4f712e39a3a9b0859926697944b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ji
 
@@ -12,13 +12,24 @@
 - Epic: [bob-cli-ji](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ji/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-10T15:29:37.421263+00:00
+- Timing: 2026-11-10T15:29:37.421263+00:00 → 2026-11-10T15:31:35.518191+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-ji.7.1.1](../bbugyi200.apollo.bob-cli-ji.7.1.1/README.md) | descendant | completed |
+| [bob-cli-ji.7.1.2](../bbugyi200.apollo.bob-cli-ji.7.1.2/README.md) | descendant | active |
+| [bob-cli-ji.7.1.3](../bbugyi200.apollo.bob-cli-ji.7.1.3/README.md) | descendant | active |
+| [bob-cli-ji.7.1.4](../bbugyi200.apollo.bob-cli-ji.7.1.4/README.md) | descendant | waiting |
+| [bob-cli-ji.7.1.5](../bbugyi200.apollo.bob-cli-ji.7.1.5/README.md) | descendant | waiting |
+| [bob-cli-ji.7.1.6](../bbugyi200.apollo.bob-cli-ji.7.1.6/README.md) | descendant | waiting |
+| [bob-cli-ji.7.1.land](../bbugyi200.apollo.bob-cli-ji.7.1.land/README.md) | descendant | waiting |
 | [bob-cli-ji.1](../bbugyi200.apollo.bob-cli-ji.1/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.2](../bbugyi200.apollo.bob-cli-ji.2/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.3](../bbugyi200.apollo.bob-cli-ji.3/README.md) | bob-cli-ji hood | completed |

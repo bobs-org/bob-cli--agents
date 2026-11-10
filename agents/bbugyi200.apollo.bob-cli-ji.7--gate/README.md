@@ -23,6 +23,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-ji.7.1.1](../bbugyi200.apollo.bob-cli-ji.7.1.1/README.md) | descendant | completed |
+| [bob-cli-ji.7.1.2](../bbugyi200.apollo.bob-cli-ji.7.1.2/README.md) | descendant | active |
+| [bob-cli-ji.7.1.3](../bbugyi200.apollo.bob-cli-ji.7.1.3/README.md) | descendant | active |
+| [bob-cli-ji.7.1.4](../bbugyi200.apollo.bob-cli-ji.7.1.4/README.md) | descendant | waiting |
+| [bob-cli-ji.7.1.5](../bbugyi200.apollo.bob-cli-ji.7.1.5/README.md) | descendant | waiting |
+| [bob-cli-ji.7.1.6](../bbugyi200.apollo.bob-cli-ji.7.1.6/README.md) | descendant | waiting |
+| [bob-cli-ji.7.1.land](../bbugyi200.apollo.bob-cli-ji.7.1.land/README.md) | descendant | waiting |
 | [bob-cli-ji.1](../bbugyi200.apollo.bob-cli-ji.1/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.2](../bbugyi200.apollo.bob-cli-ji.2/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.3](../bbugyi200.apollo.bob-cli-ji.3/README.md) | bob-cli-ji hood | completed |
