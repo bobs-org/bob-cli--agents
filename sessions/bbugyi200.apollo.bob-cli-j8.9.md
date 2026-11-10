@@ -96,4 +96,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-j8.6.1.land](bbugyi200.apollo.bob-cli-j8.6.1.land.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.7](../agents/bbugyi200.apollo.bob-cli-j8.7/README.md) | bob-cli-j8 hood | completed |
 | [bob-cli-j8.8](bbugyi200.apollo.bob-cli-j8.8.md) (session · 11) | bob-cli-j8 hood | completed 8, failed 3 |
-| [bob-cli-j8.land](../agents/bbugyi200.apollo.bob-cli-j8.land/README.md) | bob-cli-j8 hood | waiting |
+| [bob-cli-j8.land](bbugyi200.apollo.bob-cli-j8.land.md) (session · 3) | bob-cli-j8 hood | active 2, completed 1 |
