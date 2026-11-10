@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `251469b` | docs: Add research on de-duplicating dash.md Tasks queries | 2026-07-09 12:37:57 EDT |
+| bob-cli | [`251469b`](https://github.com/bobs-org/bob-cli/commit/251469b153b6e47ac13bbb256414471deca51fd5) | docs: Add research on de-duplicating dash.md Tasks queries | 2026-07-09 12:37:57 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 741 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 749 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

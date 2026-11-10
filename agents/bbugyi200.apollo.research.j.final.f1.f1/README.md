@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `21ab5ed` | chore: Add SDD prompt and plan for hammerspoon\_capture\_delegation | 2026-06-15 16:50:55 EDT |
-| — | `3c40d92` | chore: Mark SDD plan done | 2026-06-15 16:56:36 EDT |
+| bob-cli | [`21ab5ed`](https://github.com/bobs-org/bob-cli/commit/21ab5eda91cf1370e68b3a88a5cde32d059aa915) | chore: Add SDD prompt and plan for hammerspoon\_capture\_delegation | 2026-06-15 16:50:55 EDT |
+| bob-cli | [`3c40d92`](https://github.com/bobs-org/bob-cli/commit/3c40d92275c31203ae21426986287119cffaa9b7) | chore: Mark SDD plan done | 2026-06-15 16:56:36 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 733 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 741 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

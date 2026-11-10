@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `25eda38` | docs: consolidate Obsidian Vim surround research | 2026-06-18 13:15:12 EDT |
+| bob-cli | [`25eda38`](https://github.com/bobs-org/bob-cli/commit/25eda387825a2aad6d8873c2bf0545bc3449d7fd) | docs: consolidate Obsidian Vim surround research | 2026-06-18 13:15:12 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 738 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 746 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

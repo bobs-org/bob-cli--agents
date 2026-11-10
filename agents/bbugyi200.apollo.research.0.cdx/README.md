@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `2083477` | chore: add Obsidian property value research | 2026-06-09 08:39:02 EDT |
+| bob-cli | [`2083477`](https://github.com/bobs-org/bob-cli/commit/2083477c30f5c1f99b23e2a78f4fd2bffdd24e46) | chore: add Obsidian property value research | 2026-06-09 08:39:02 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.06.gem](../bbugyi200.apollo.research.06.gem/README.md) | research hood | active |
 | [research.06.grk](../bbugyi200.apollo.research.06.grk/README.md) | research hood | active |
 | [research.06.image](../bbugyi200.apollo.research.06.image/README.md) | research hood | active |
-| … and 737 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 745 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

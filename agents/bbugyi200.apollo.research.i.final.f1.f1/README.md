@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `21edba9` | chore: Add SDD prompt and plan for revert\_embed\_fallback\_add\_ctrl\_keymaps | 2026-06-15 16:12:56 EDT |
-| — | `b063fdf` | chore: Mark SDD plan done | 2026-06-15 16:46:08 EDT |
+| bob-cli | [`21edba9`](https://github.com/bobs-org/bob-cli/commit/21edba95fb5730d82c08f2172bade2c0ddfb0339) | chore: Add SDD prompt and plan for revert\_embed\_fallback\_add\_ctrl\_keymaps | 2026-06-15 16:12:56 EDT |
+| bob-cli | [`b063fdf`](https://github.com/bobs-org/bob-cli/commit/b063fdf78a4089a3703664fe12052cd40d48118a) | chore: Mark SDD plan done | 2026-06-15 16:46:08 EDT |
 
 ## Neighbors
 
@@ -82,4 +82,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 733 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 741 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

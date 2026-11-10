@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `94ce4aa` | chore: add Obsidian vs Notion tradeoffs research | 2026-06-12 07:53:24 EDT |
+| bob-cli | [`94ce4aa`](https://github.com/bobs-org/bob-cli/commit/94ce4aa057b22976e15a2db4db9bcc98bc6c1add) | chore: add Obsidian vs Notion tradeoffs research | 2026-06-12 07:53:24 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 738 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 746 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

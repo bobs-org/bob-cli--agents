@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `4289f08` | docs(research): Add Obsidian vim-surround keymaps research | 2026-06-18 12:59:58 EDT |
+| bob-cli | [`4289f08`](https://github.com/bobs-org/bob-cli/commit/4289f08be50f16f3a242b83f0732b0dbce41124d) | docs(research): Add Obsidian vim-surround keymaps research | 2026-06-18 12:59:58 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 738 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 746 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

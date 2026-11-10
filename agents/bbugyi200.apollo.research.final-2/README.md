@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `ab27f78` | chore: consolidate Dataview CLI research | 2026-06-03 12:17:01 EDT |
+| bob-cli | [`ab27f78`](https://github.com/bobs-org/bob-cli/commit/ab27f78fefbe898f21723457ff4e4f3bec3835a0) | chore: consolidate Dataview CLI research | 2026-06-03 12:17:01 EDT |
 
 ## Neighbors
 
@@ -74,4 +74,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 740 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 748 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
