@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`42abfa7`](https://github.com/bobs-org/bob-cli/commit/42abfa705a445647395fedea1691d885f53722b5) | feat(ref): add annotation-backed link recataloging (bob-cli-ct.3) | 2026-10-26 21:36:08 EDT |
+| 2 | — | `42abfa7` | feat(ref): add annotation-backed link recataloging (bob-cli-ct.3) | 2026-10-26 21:36:08 EDT |
 
 ## Variables
 
@@ -78,4 +78,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-ct.2](bbugyi200.athena.bob-cli-ct.2.md) (session · 3) | bob-cli-ct hood | completed 2, failed 1 |
 | [bob-cli-ct.4](../agents/bbugyi200.athena.bob-cli-ct.4/README.md) | bob-cli-ct hood | completed |
 | [bob-cli-ct.5](../agents/bbugyi200.athena.bob-cli-ct.5/README.md) | bob-cli-ct hood | completed |
-| [bob-cli-ct.land](../agents/bbugyi200.athena.bob-cli-ct.land/README.md) | bob-cli-ct hood | active |
+| [bob-cli-ct.land](../agents/bbugyi200.athena.bob-cli-ct.land/README.md) | bob-cli-ct hood | dismissed |

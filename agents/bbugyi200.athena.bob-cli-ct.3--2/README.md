@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`42abfa7`](https://github.com/bobs-org/bob-cli/commit/42abfa705a445647395fedea1691d885f53722b5) | feat(ref): add annotation-backed link recataloging (bob-cli-ct.3) | 2026-10-26 21:36:08 EDT |
+| — | `42abfa7` | feat(ref): add annotation-backed link recataloging (bob-cli-ct.3) | 2026-10-26 21:36:08 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-ct.2](../../sessions/bbugyi200.athena.bob-cli-ct.2.md) (session · 3) | bob-cli-ct hood | completed 2, failed 1 |
 | [bob-cli-ct.4](../bbugyi200.athena.bob-cli-ct.4/README.md) | bob-cli-ct hood | completed |
 | [bob-cli-ct.5](../bbugyi200.athena.bob-cli-ct.5/README.md) | bob-cli-ct hood | completed |
-| [bob-cli-ct.land](../bbugyi200.athena.bob-cli-ct.land/README.md) | bob-cli-ct hood | active |
+| [bob-cli-ct.land](../bbugyi200.athena.bob-cli-ct.land/README.md) | bob-cli-ct hood | dismissed |

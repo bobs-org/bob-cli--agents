@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`82716a6`](https://github.com/bobs-org/bob-cli/commit/82716a6444e15457cbf432fd08636e2dcce0ea86) | feat(ref): add bob ref links read surface | 2026-10-26 16:53:14 EDT |
+| 1 | — | `82716a6` | feat(ref): add bob ref links read surface | 2026-10-26 16:53:14 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ct.3](bbugyi200.athena.bob-cli-ct.3.md) (session · 5) | bob-cli-ct hood | completed 3, failed 2 |
 | [bob-cli-ct.4](../agents/bbugyi200.athena.bob-cli-ct.4/README.md) | bob-cli-ct hood | completed |
 | [bob-cli-ct.5](../agents/bbugyi200.athena.bob-cli-ct.5/README.md) | bob-cli-ct hood | completed |
-| [bob-cli-ct.land](../agents/bbugyi200.athena.bob-cli-ct.land/README.md) | bob-cli-ct hood | active |
+| [bob-cli-ct.land](../agents/bbugyi200.athena.bob-cli-ct.land/README.md) | bob-cli-ct hood | dismissed |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3a13ec6`](https://github.com/bobs-org/bob-cli/commit/3a13ec6f53ec78382dc225207bf822da5567df3a) | fix(ref): keep birth source\_markdown pointer on newborn notes | 2026-10-27 08:04:53 EDT |
+| — | `3a13ec6` | fix(ref): keep birth source\_markdown pointer on newborn notes | 2026-10-27 08:04:53 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [bob-cli-d2.2](../../sessions/bbugyi200.athena.bob-cli-d2.2.md) (session · 5) | bob-cli-d2 hood | completed 3, failed 2 |
 | [bob-cli-d2.3](../bbugyi200.athena.bob-cli-d2.3/README.md) | bob-cli-d2 hood | completed |
-| [bob-cli-d2.land](../../sessions/bbugyi200.athena.bob-cli-d2.land.md) (session · 5) | bob-cli-d2 hood | active 1, completed 2, failed 2 |
+| [bob-cli-d2.land](../../sessions/bbugyi200.athena.bob-cli-d2.land.md) (session · 5) | bob-cli-d2 hood | completed 2, dismissed 1, failed 2 |

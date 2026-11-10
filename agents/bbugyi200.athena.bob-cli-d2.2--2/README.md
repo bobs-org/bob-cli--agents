@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d38bef5`](https://github.com/bobs-org/bob-cli/commit/d38bef590c065b2bfef67745b0e83ce350707498) | feat(ref): adopt orphan saved source stores | 2026-10-27 08:32:19 EDT |
+| — | `d38bef5` | feat(ref): adopt orphan saved source stores | 2026-10-27 08:32:19 EDT |
 
 ## Neighbors
 
@@ -30,4 +30,4 @@
 |---|---|---|
 | [bob-cli-d2.1](../bbugyi200.athena.bob-cli-d2.1/README.md) | bob-cli-d2 hood | completed |
 | [bob-cli-d2.3](../bbugyi200.athena.bob-cli-d2.3/README.md) | bob-cli-d2 hood | completed |
-| [bob-cli-d2.land](../../sessions/bbugyi200.athena.bob-cli-d2.land.md) (session · 5) | bob-cli-d2 hood | active 1, completed 2, failed 2 |
+| [bob-cli-d2.land](../../sessions/bbugyi200.athena.bob-cli-d2.land.md) (session · 5) | bob-cli-d2 hood | completed 2, dismissed 1, failed 2 |

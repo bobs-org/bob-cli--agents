@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`96793fd`](https://github.com/bobs-org/bob-cli/commit/96793fdac1309f1fc8c0cada42211222eef6d8b7) | feat(highlights-ref): record URI link catalog with anchor pages in code.json | 2026-10-26 16:03:47 EDT |
+| — | `96793fd` | feat(highlights-ref): record URI link catalog with anchor pages in code.json | 2026-10-26 16:03:47 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-ct.3](../../sessions/bbugyi200.athena.bob-cli-ct.3.md) (session · 5) | bob-cli-ct hood | completed 3, failed 2 |
 | [bob-cli-ct.4](../bbugyi200.athena.bob-cli-ct.4/README.md) | bob-cli-ct hood | completed |
 | [bob-cli-ct.5](../bbugyi200.athena.bob-cli-ct.5/README.md) | bob-cli-ct hood | completed |
-| [bob-cli-ct.land](../bbugyi200.athena.bob-cli-ct.land/README.md) | bob-cli-ct hood | active |
+| [bob-cli-ct.land](../bbugyi200.athena.bob-cli-ct.land/README.md) | bob-cli-ct hood | dismissed |
