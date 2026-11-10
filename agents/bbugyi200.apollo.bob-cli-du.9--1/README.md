@@ -25,7 +25,7 @@
 | [bob-cli-du.1](../bbugyi200.apollo.bob-cli-du.1/README.md) | bob-cli-du hood | active |
 | [bob-cli-du.2](../../sessions/bbugyi200.apollo.bob-cli-du.2.md) (session · 3) | bob-cli-du hood | active 2, completed 1 |
 | [bob-cli-du.2.1.1](../bbugyi200.apollo.bob-cli-du.2.1.1/README.md) | bob-cli-du hood | active |
-| [bob-cli-du.2.1.2](../bbugyi200.apollo.bob-cli-du.2.1.2/README.md) | bob-cli-du hood | active |
+| [bob-cli-du.2.1.2](../bbugyi200.apollo.bob-cli-du.2.1.2/README.md) | bob-cli-du hood | dismissed |
 | [bob-cli-du.2.1.3](../../sessions/bbugyi200.apollo.bob-cli-du.2.1.3.md) (session · 3) | bob-cli-du hood | active 2, completed 1 |
 | [bob-cli-du.2.1.4](../bbugyi200.apollo.bob-cli-du.2.1.4/README.md) | bob-cli-du hood | active |
 | [bob-cli-du.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-du.2.1.land.md) (session · 3) | bob-cli-du hood | active 1, completed 2 |

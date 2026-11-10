@@ -22,17 +22,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b8d5529`](https://github.com/bobs-org/bob-cli/commit/b8d5529742330811a412d1364ea47eda1be8d5ef) | fix(capture): align cancel-label output with §17 CL6/CL7 | 2026-10-28 14:25:21 EDT |
+| — | `b8d5529` | fix(capture): align cancel-label output with §17 CL6/CL7 | 2026-10-28 14:25:21 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-dl.1](../../sessions/bbugyi200.apollo.bob-cli-dl.1.md) (session · 3) | bob-cli-dl hood | active 2, completed 1 |
-| [bob-cli-dl.2](../../sessions/bbugyi200.apollo.bob-cli-dl.2.md) (session · 7) | bob-cli-dl hood | active 3, completed 3, failed 1 |
-| [bob-cli-dl.3](../bbugyi200.apollo.bob-cli-dl.3/README.md) | bob-cli-dl hood | active |
-| [bob-cli-dl.4](../bbugyi200.apollo.bob-cli-dl.4/README.md) | bob-cli-dl hood | active |
-| [bob-cli-dl.5](../../sessions/bbugyi200.apollo.bob-cli-dl.5.md) (session · 3) | bob-cli-dl hood | active 1, completed 2 |
-| [bob-cli-dl.6](../../sessions/bbugyi200.apollo.bob-cli-dl.6.md) (session · 3) | bob-cli-dl hood | active 2, completed 1 |
-| [bob-cli-dl.7](../bbugyi200.apollo.bob-cli-dl.7/README.md) | bob-cli-dl hood | active |
-| [bob-cli-dl.8](../bbugyi200.apollo.bob-cli-dl.8/README.md) | bob-cli-dl hood | active |
+| [bob-cli-dl.1](../../sessions/bbugyi200.apollo.bob-cli-dl.1.md) (session · 3) | bob-cli-dl hood | completed 1, dismissed 2 |
+| [bob-cli-dl.2](../../sessions/bbugyi200.apollo.bob-cli-dl.2.md) (session · 7) | bob-cli-dl hood | completed 3, dismissed 3, failed 1 |
+| [bob-cli-dl.3](../bbugyi200.apollo.bob-cli-dl.3/README.md) | bob-cli-dl hood | dismissed |
+| [bob-cli-dl.4](../bbugyi200.apollo.bob-cli-dl.4/README.md) | bob-cli-dl hood | dismissed |
+| [bob-cli-dl.5](../../sessions/bbugyi200.apollo.bob-cli-dl.5.md) (session · 3) | bob-cli-dl hood | completed 2, dismissed 1 |
+| [bob-cli-dl.6](../../sessions/bbugyi200.apollo.bob-cli-dl.6.md) (session · 3) | bob-cli-dl hood | completed 1, dismissed 2 |
+| [bob-cli-dl.7](../bbugyi200.apollo.bob-cli-dl.7/README.md) | bob-cli-dl hood | dismissed |
+| [bob-cli-dl.8](../bbugyi200.apollo.bob-cli-dl.8/README.md) | bob-cli-dl hood | dismissed |

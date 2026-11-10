@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`87b6e60`](https://github.com/bobs-org/bob-cli/commit/87b6e608912bdf1c9b37e9fdbe411e9ca3974d46) | feat(capture): add relations\_complete acceptance tests and update docs | 2026-10-28 18:02:36 EDT |
+| — | `87b6e60` | feat(capture): add relations\_complete acceptance tests and update docs | 2026-10-28 18:02:36 EDT |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 |---|---|---|
 | [bob-cli-du.2](../../sessions/bbugyi200.apollo.bob-cli-du.2.md) (session · 3) | ancestor | active 2, completed 1 |
 | [bob-cli-du.2.1.1](../bbugyi200.apollo.bob-cli-du.2.1.1/README.md) | bob-cli-du.2.1 hood | active |
-| [bob-cli-du.2.1.2](../bbugyi200.apollo.bob-cli-du.2.1.2/README.md) | bob-cli-du.2.1 hood | active |
+| [bob-cli-du.2.1.2](../bbugyi200.apollo.bob-cli-du.2.1.2/README.md) | bob-cli-du.2.1 hood | dismissed |
 | [bob-cli-du.2.1.3](../../sessions/bbugyi200.apollo.bob-cli-du.2.1.3.md) (session · 3) | bob-cli-du.2.1 hood | active 2, completed 1 |
 | [bob-cli-du.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-du.2.1.land.md) (session · 3) | bob-cli-du.2.1 hood | active 1, completed 2 |
 | [bob-cli-du.1](../bbugyi200.apollo.bob-cli-du.1/README.md) | bob-cli-du hood | active |

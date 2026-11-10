@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6dea005`](https://github.com/bobs-org/bob-cli/commit/6dea005804abd61702ea5355d5999571dbd644aa) | feat(web-ref): multi-URL collections save one source and catalog | 2026-10-27 13:04:50 EDT |
+| — | `6dea005` | feat(web-ref): multi-URL collections save one source and catalog | 2026-10-27 13:04:50 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-d3.2](../bbugyi200.apollo.bob-cli-d3.2/README.md) | bob-cli-d3 hood | completed |
 | [bob-cli-d3.4](../bbugyi200.apollo.bob-cli-d3.4/README.md) | bob-cli-d3 hood | completed |
 | [bob-cli-d3.5](../bbugyi200.apollo.bob-cli-d3.5/README.md) | bob-cli-d3 hood | completed |
-| [bob-cli-d3.land](../bbugyi200.apollo.bob-cli-d3.land/README.md) | bob-cli-d3 hood | active |
+| [bob-cli-d3.land](../bbugyi200.apollo.bob-cli-d3.land/README.md) | bob-cli-d3 hood | dismissed |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d1f445c`](https://github.com/bobs-org/bob-cli/commit/d1f445cafc5b95a1181cf38f5ab7254ed49af872) | feat(capture): land complete-label closeout with edge grouping, scoped warnings, and acceptance | 2026-10-28 19:35:21 EDT |
+| — | `d1f445c` | feat(capture): land complete-label closeout with edge grouping, scoped warnings, and acceptance | 2026-10-28 19:35:21 EDT |
 
 ## Neighbors
 
@@ -30,7 +30,7 @@
 |---|---|---|
 | [bob-cli-du.2](../../sessions/bbugyi200.apollo.bob-cli-du.2.md) (session · 3) | ancestor | active 2, completed 1 |
 | [bob-cli-du.2.1.1](../bbugyi200.apollo.bob-cli-du.2.1.1/README.md) | bob-cli-du.2.1 hood | active |
-| [bob-cli-du.2.1.2](../bbugyi200.apollo.bob-cli-du.2.1.2/README.md) | bob-cli-du.2.1 hood | active |
+| [bob-cli-du.2.1.2](../bbugyi200.apollo.bob-cli-du.2.1.2/README.md) | bob-cli-du.2.1 hood | dismissed |
 | [bob-cli-du.2.1.3](../../sessions/bbugyi200.apollo.bob-cli-du.2.1.3.md) (session · 3) | bob-cli-du.2.1 hood | active 2, completed 1 |
 | [bob-cli-du.2.1.4](../bbugyi200.apollo.bob-cli-du.2.1.4/README.md) | bob-cli-du.2.1 hood | active |
 | [bob-cli-du.1](../bbugyi200.apollo.bob-cli-du.1/README.md) | bob-cli-du hood | active |

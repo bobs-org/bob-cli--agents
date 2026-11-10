@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a32a32f`](https://github.com/bobs-org/bob-cli/commit/a32a32fbe081506316174cb45333531055dffc50) | feat(relations): add complete-label policy and verdicts | 2026-10-28 15:49:37 EDT |
+| — | `a32a32f` | feat(relations): add complete-label policy and verdicts | 2026-10-28 15:49:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-du.2](../../sessions/bbugyi200.apollo.bob-cli-du.2.md) (session · 3) | ancestor | active 2, completed 1 |
-| [bob-cli-du.2.1.2](../bbugyi200.apollo.bob-cli-du.2.1.2/README.md) | bob-cli-du.2.1 hood | active |
+| [bob-cli-du.2.1.2](../bbugyi200.apollo.bob-cli-du.2.1.2/README.md) | bob-cli-du.2.1 hood | dismissed |
 | [bob-cli-du.2.1.3](../../sessions/bbugyi200.apollo.bob-cli-du.2.1.3.md) (session · 3) | bob-cli-du.2.1 hood | active 2, completed 1 |
 | [bob-cli-du.2.1.4](../bbugyi200.apollo.bob-cli-du.2.1.4/README.md) | bob-cli-du.2.1 hood | active |
 | [bob-cli-du.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-du.2.1.land.md) (session · 3) | bob-cli-du.2.1 hood | active 1, completed 2 |

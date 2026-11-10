@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bab568f`](https://github.com/bobs-org/bob-cli/commit/bab568fc200aec3785acab3021f55942dcb8d1f5) | feat(ref): stage web overwrite sources instead of clearing | 2026-10-27 13:39:03 EDT |
+| — | `bab568f` | feat(ref): stage web overwrite sources instead of clearing | 2026-10-27 13:39:03 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-d3.2](../bbugyi200.apollo.bob-cli-d3.2/README.md) | bob-cli-d3 hood | completed |
 | [bob-cli-d3.3](../bbugyi200.apollo.bob-cli-d3.3/README.md) | bob-cli-d3 hood | completed |
 | [bob-cli-d3.5](../bbugyi200.apollo.bob-cli-d3.5/README.md) | bob-cli-d3 hood | completed |
-| [bob-cli-d3.land](../bbugyi200.apollo.bob-cli-d3.land/README.md) | bob-cli-d3 hood | active |
+| [bob-cli-d3.land](../bbugyi200.apollo.bob-cli-d3.land/README.md) | bob-cli-d3 hood | dismissed |

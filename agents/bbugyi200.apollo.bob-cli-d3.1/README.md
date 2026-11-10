@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f8dc405`](https://github.com/bobs-org/bob-cli/commit/f8dc405b9a318496dab8c8f3e0f7e91226ecff7b) | feat(web-clip): emit saved source views and code anchors | 2026-10-27 11:41:00 EDT |
+| — | `f8dc405` | feat(web-clip): emit saved source views and code anchors | 2026-10-27 11:41:00 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-d3.3](../bbugyi200.apollo.bob-cli-d3.3/README.md) | bob-cli-d3 hood | completed |
 | [bob-cli-d3.4](../bbugyi200.apollo.bob-cli-d3.4/README.md) | bob-cli-d3 hood | completed |
 | [bob-cli-d3.5](../bbugyi200.apollo.bob-cli-d3.5/README.md) | bob-cli-d3 hood | completed |
-| [bob-cli-d3.land](../bbugyi200.apollo.bob-cli-d3.land/README.md) | bob-cli-d3 hood | active |
+| [bob-cli-d3.land](../bbugyi200.apollo.bob-cli-d3.land/README.md) | bob-cli-d3 hood | dismissed |

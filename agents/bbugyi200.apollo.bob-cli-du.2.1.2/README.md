@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-du](../../users/bbugyi200/machines/apollo/hoods/bob-cli-du/README.md) / bob-cli-du.2.1.2
 
-**Global name:** `bbugyi200.apollo.bob-cli-du.2.1.2` · **State:** active · **Source run:** `run-11873d344ccee76b2c14b479e73c1be6`
+**Global name:** `bbugyi200.apollo.bob-cli-du.2.1.2` · **State:** dismissed · **Source run:** `run-11873d344ccee76b2c14b479e73c1be6`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-du
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-du.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-du/bob-cli-du.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-28T19:53:27.168077+00:00
+- Timing: 2026-10-28T15:53:27.168077 → 2026-10-28T16:27:30.641705
 - Commits: [1](#commits)
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4c55a59`](https://github.com/bobs-org/bob-cli/commit/4c55a595bfd6e6b025c4e053e3a16628a29e1d3b) | refactor(capture): extract shared task-complete completion path | 2026-10-28 16:24:52 EDT |
+| — | `4c55a59` | refactor(capture): extract shared task-complete completion path | 2026-10-28 16:24:52 EDT |
 
 ## Neighbors
 

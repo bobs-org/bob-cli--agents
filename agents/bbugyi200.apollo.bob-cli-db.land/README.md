@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-db](../../users/bbugyi200/machines/apollo/hoods/bob-cli-db/README.md) / bob-cli-db.land
 
-**Global name:** `bbugyi200.apollo.bob-cli-db.land` · **State:** active · **Source run:** `run-a957f2d5a79c9d868c9260a6a29e8e3f`
+**Global name:** `bbugyi200.apollo.bob-cli-db.land` · **State:** dismissed · **Source run:** `run-a957f2d5a79c9d868c9260a6a29e8e3f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-db
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-db](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-db/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-28T10:27:47.446966+00:00
+- Timing: 2026-10-28T06:27:47.446966 → 2026-10-28T06:52:11.770350
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`50f6c91`](https://github.com/bobs-org/bob-cli/commit/50f6c91bc03029dc8cf0e449d8380c107d2183ff) | refactor(themes): share raw-line splice verification between rename and split | 2026-10-28 06:49:01 EDT |
+| — | `50f6c91` | refactor(themes): share raw-line splice verification between rename and split | 2026-10-28 06:49:01 EDT |
 
 ## Neighbors
 

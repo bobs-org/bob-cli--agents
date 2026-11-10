@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a6a359b`](https://github.com/bobs-org/bob-cli/commit/a6a359b8c62c318cb82a98286cdfc72cd35c47c8) | feat(themes): add per-entry split and skip re-adopted rename reports | 2026-10-27 17:48:27 EDT |
+| — | `a6a359b` | feat(themes): add per-entry split and skip re-adopted rename reports | 2026-10-27 17:48:27 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 |---|---|---|
 | [bob-cli-db.2](../bbugyi200.apollo.bob-cli-db.2/README.md) | bob-cli-db hood | completed |
 | [bob-cli-db.land](../../sessions/bbugyi200.apollo.bob-cli-db.land.md) (session · 3) | bob-cli-db hood | active 2, failed 1 |
-| [bob-cli-db.land](../bbugyi200.apollo.bob-cli-db.land/README.md) | bob-cli-db hood | active |
+| [bob-cli-db.land](../bbugyi200.apollo.bob-cli-db.land/README.md) | bob-cli-db hood | dismissed |

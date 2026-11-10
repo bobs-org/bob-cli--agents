@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0a896a4`](https://github.com/bobs-org/bob-cli/commit/0a896a45c6df23ab048c144a56a342e47276c45d) | fix(themes): preserve split bytes, complete completion, and order journal re-adoption | 2026-10-27 18:56:33 EDT |
+| — | `0a896a4` | fix(themes): preserve split bytes, complete completion, and order journal re-adoption | 2026-10-27 18:56:33 EDT |
 
 ## Neighbors
 
