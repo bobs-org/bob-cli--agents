@@ -34,3 +34,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | 1 | bob-cli | [`8728fe2`](https://github.com/bobs-org/bob-cli/commit/8728fe2821821b078b95bf95dace78717721cb79) | feat(capture): toggle block ID separators with glued dot | 2026-11-09 19:05:37 EST |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [1am.f0](bbugyi200.athena.1am.f0.md) (session · 7) | descendant | completed 6, failed 1 |

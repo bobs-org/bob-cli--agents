@@ -16,3 +16,9 @@
 ## Files
 
 [Chat](chat.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [1am.f0](../../sessions/bbugyi200.athena.1am.f0.md) (session · 7) | descendant | completed 6, failed 1 |
