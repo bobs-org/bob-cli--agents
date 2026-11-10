@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-87` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-87.3.1.land--plan [active]"]
+  n0["bob-cli-87.3.1.land--plan [dismissed]"]
   n1["bob-cli-87.3.1.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-87.3.1.land--gate [active]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-87.3.1.land--plan | active | gpt-6-astra / codex | 2026-10-16T17:46:29.346123+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.3.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-87.3.1.land--plan | dismissed | gpt-6-astra / codex | 2026-10-16T13:46:29.346123 → 2026-10-16T14:32:09.226232 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-87.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-87.3.1.land--plan/chat.md) |
 | <a id="member-code"></a>code | bob-cli-87.3.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-16T18:01:58.195177+00:00 → 2026-10-16T18:32:09.165024+00:00 | [1](../agents/bbugyi200.athena.bob-cli-87.3.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-87.3.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-87.3.1.land--gate | active | gpt-6-astra / codex | 2026-10-16T18:00:51.579270+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-87.3.1.land--gate/chat.md) |
 
@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`16c4640`](https://github.com/bobs-org/bob-cli/commit/16c4640a6135e193de504b83532b12ad1a933d00) | fix(snapshot): finish Bob projection landing repairs | 2026-10-16 14:29:15 EDT |
+| code | — | `16c4640` | fix(snapshot): finish Bob projection landing repairs | 2026-10-16 14:29:15 EDT |
 
 ## Variables
 
@@ -54,14 +54,14 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-87.3](bbugyi200.athena.bob-cli-87.3.md) (session · 3) | ancestor | active 3 |
-| [bob-cli-87.3.1.1](../agents/bbugyi200.athena.bob-cli-87.3.1.1/README.md) | bob-cli-87.3.1 hood | active |
+| [bob-cli-87.3](bbugyi200.athena.bob-cli-87.3.md) (session · 3) | ancestor | dismissed 3 |
+| [bob-cli-87.3.1.1](../agents/bbugyi200.athena.bob-cli-87.3.1.1/README.md) | bob-cli-87.3.1 hood | dismissed |
 | [bob-cli-87.3.1.2](../agents/bbugyi200.athena.bob-cli-87.3.1.2/README.md) | bob-cli-87.3.1 hood | active |
-| [bob-cli-87.3.1.3](bbugyi200.athena.bob-cli-87.3.1.3.md) (session · 5) | bob-cli-87.3.1 hood | active 5 |
-| [bob-cli-87.1](../agents/bbugyi200.athena.bob-cli-87.1/README.md) | bob-cli-87 hood | active |
+| [bob-cli-87.3.1.3](bbugyi200.athena.bob-cli-87.3.1.3.md) (session · 5) | bob-cli-87.3.1 hood | active 3, dismissed 2 |
+| [bob-cli-87.1](../agents/bbugyi200.athena.bob-cli-87.1/README.md) | bob-cli-87 hood | dismissed |
 | [bob-cli-87.10](../agents/bbugyi200.athena.bob-cli-87.10/README.md) | bob-cli-87 hood | active |
-| [bob-cli-87.11](bbugyi200.athena.bob-cli-87.11.md) (session · 7) | bob-cli-87 hood | active 7 |
-| [bob-cli-87.12](bbugyi200.athena.bob-cli-87.12.md) (session · 8) | bob-cli-87 hood | active 1, completed 2, failed 5 |
+| [bob-cli-87.11](bbugyi200.athena.bob-cli-87.11.md) (session · 7) | bob-cli-87 hood | active 3, dismissed 4 |
+| [bob-cli-87.12](bbugyi200.athena.bob-cli-87.12.md) (session · 8) | bob-cli-87 hood | completed 2, dismissed 1, failed 5 |
 | [bob-cli-87.12](../agents/bbugyi200.athena.bob-cli-87.12/README.md) | bob-cli-87 hood | waiting |
 | [bob-cli-87.12--3--1](../agents/bbugyi200.athena.bob-cli-87.12--3--1/README.md) | bob-cli-87 hood | active |
 | [bob-cli-87.12--3--2](../agents/bbugyi200.athena.bob-cli-87.12--3--2/README.md) | bob-cli-87 hood | active |
@@ -78,17 +78,17 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-87.13.2](bbugyi200.athena.bob-cli-87.13.2.md) (session · 9) | bob-cli-87 hood | completed 5, failed 4 |
 | [bob-cli-87.13.3](bbugyi200.athena.bob-cli-87.13.3.md) (session · 3) | bob-cli-87 hood | completed 2, failed 1 |
 | [bob-cli-87.13.4](bbugyi200.athena.bob-cli-87.13.4.md) (session · 37) | bob-cli-87 hood | completed 19, failed 18 |
-| [bob-cli-87.13.land](bbugyi200.athena.bob-cli-87.13.land.md) (session · 5) | bob-cli-87 hood | active 1, completed 2, failed 2 |
-| [bob-cli-87.2](bbugyi200.athena.bob-cli-87.2.md) (session · 3) | bob-cli-87 hood | active 3 |
-| [bob-cli-87.2.1.1](bbugyi200.athena.bob-cli-87.2.1.1.md) (session · 9) | bob-cli-87 hood | active 9 |
+| [bob-cli-87.13.land](bbugyi200.athena.bob-cli-87.13.land.md) (session · 5) | bob-cli-87 hood | completed 2, dismissed 1, failed 2 |
+| [bob-cli-87.2](bbugyi200.athena.bob-cli-87.2.md) (session · 3) | bob-cli-87 hood | dismissed 3 |
+| [bob-cli-87.2.1.1](bbugyi200.athena.bob-cli-87.2.1.1.md) (session · 9) | bob-cli-87 hood | active 4, dismissed 5 |
 | [bob-cli-87.2.1.2](../agents/bbugyi200.athena.bob-cli-87.2.1.2/README.md) | bob-cli-87 hood | active |
-| [bob-cli-87.2.1.3](../agents/bbugyi200.athena.bob-cli-87.2.1.3/README.md) | bob-cli-87 hood | active |
-| [bob-cli-87.2.1.4](bbugyi200.athena.bob-cli-87.2.1.4.md) (session · 7) | bob-cli-87 hood | active 7 |
-| [bob-cli-87.2.1.land](bbugyi200.athena.bob-cli-87.2.1.land.md) (session · 5) | bob-cli-87 hood | active 3, completed 1, failed 1 |
+| [bob-cli-87.2.1.3](../agents/bbugyi200.athena.bob-cli-87.2.1.3/README.md) | bob-cli-87 hood | dismissed |
+| [bob-cli-87.2.1.4](bbugyi200.athena.bob-cli-87.2.1.4.md) (session · 7) | bob-cli-87 hood | dismissed 7 |
+| [bob-cli-87.2.1.land](bbugyi200.athena.bob-cli-87.2.1.land.md) (session · 5) | bob-cli-87 hood | active 1, completed 1, dismissed 2, failed 1 |
 | [bob-cli-87.4](bbugyi200.athena.bob-cli-87.4.md) (session · 3) | bob-cli-87 hood | active 2, completed 1 |
-| [bob-cli-87.5](bbugyi200.athena.bob-cli-87.5.md) (session · 7) | bob-cli-87 hood | active 5, completed 1, failed 1 |
-| [bob-cli-87.6](../agents/bbugyi200.athena.bob-cli-87.6/README.md) | bob-cli-87 hood | active |
-| [bob-cli-87.7](bbugyi200.athena.bob-cli-87.7.md) (session · 3) | bob-cli-87 hood | active 3 |
-| [bob-cli-87.8](bbugyi200.athena.bob-cli-87.8.md) (session · 3) | bob-cli-87 hood | active 3 |
+| [bob-cli-87.5](bbugyi200.athena.bob-cli-87.5.md) (session · 7) | bob-cli-87 hood | active 1, completed 1, dismissed 4, failed 1 |
+| [bob-cli-87.6](../agents/bbugyi200.athena.bob-cli-87.6/README.md) | bob-cli-87 hood | dismissed |
+| [bob-cli-87.7](bbugyi200.athena.bob-cli-87.7.md) (session · 3) | bob-cli-87 hood | active 1, dismissed 2 |
+| [bob-cli-87.8](bbugyi200.athena.bob-cli-87.8.md) (session · 3) | bob-cli-87 hood | dismissed 3 |
 | [bob-cli-87.9](../agents/bbugyi200.athena.bob-cli-87.9/README.md) | bob-cli-87 hood | active |
-| [bob-cli-87.land](bbugyi200.athena.bob-cli-87.land.md) (session · 3) | bob-cli-87 hood | active 3 |
+| [bob-cli-87.land](bbugyi200.athena.bob-cli-87.land.md) (session · 3) | bob-cli-87 hood | active 2, dismissed 1 |
