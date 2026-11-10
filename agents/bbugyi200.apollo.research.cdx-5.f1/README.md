@@ -17,9 +17,9 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8b4f8c3`](https://github.com/bobs-org/bob-cli/commit/8b4f8c3b639c1c5b913852b36d15197841370489) | chore: Add SDD prompt and plan for dataview\_native\_parity | 2026-06-03 16:28:03 EDT |
-| bob-cli | [`8290b95`](https://github.com/bobs-org/bob-cli/commit/8290b951a7e69d0ce433626f9823d9b11b3ffc51) | chore: create native dataview parity epic beads | 2026-06-03 16:31:50 EDT |
-| bob-cli | [`80ec9b9`](https://github.com/bobs-org/bob-cli/commit/80ec9b97b9539d9c590d54281a2ab5c18e2f18a1) | chore: sync bead database after dataview parity kickoff | 2026-06-03 16:34:28 EDT |
+| — | `8b4f8c3` | chore: Add SDD prompt and plan for dataview\_native\_parity | 2026-06-03 16:28:03 EDT |
+| — | `8290b95` | chore: create native dataview parity epic beads | 2026-06-03 16:31:50 EDT |
+| — | `80ec9b9` | chore: sync bead database after dataview parity kickoff | 2026-06-03 16:34:28 EDT |
 
 ## Neighbors
 
@@ -39,10 +39,10 @@
 | [research.00.image](../bbugyi200.apollo.research.00.image/README.md) | research hood | dismissed |
 | [research.00.linker](../bbugyi200.apollo.research.00.linker/README.md) | research hood | dismissed |
 | [research.00.mus](../bbugyi200.apollo.research.00.mus/README.md) | research hood | dismissed |
-| [research.01.cdx](../bbugyi200.apollo.research.01.cdx/README.md) | research hood | active |
+| [research.01.cdx](../bbugyi200.apollo.research.01.cdx/README.md) | research hood | dismissed |
 | [research.01.cld](../bbugyi200.apollo.research.01.cld/README.md) | research hood | dismissed |
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | dismissed |
-| [research.01.gem](../bbugyi200.apollo.research.01.gem/README.md) | research hood | active |
+| [research.01.gem](../bbugyi200.apollo.research.01.gem/README.md) | research hood | dismissed |
 | [research.01.grk](../bbugyi200.apollo.research.01.grk/README.md) | research hood | dismissed |
 | [research.01.image](../bbugyi200.apollo.research.01.image/README.md) | research hood | dismissed |
 | [research.01.linker](../bbugyi200.apollo.research.01.linker/README.md) | research hood | dismissed |
@@ -56,7 +56,7 @@
 | [research.03.image](../bbugyi200.apollo.research.03.image/README.md) | research hood | dismissed |
 | [research.03.linker](../bbugyi200.apollo.research.03.linker/README.md) | research hood | dismissed |
 | [research.03.mus](../bbugyi200.apollo.research.03.mus/README.md) | research hood | dismissed |
-| [research.04.audio](../bbugyi200.apollo.research.04.audio/README.md) | research hood | active |
+| [research.04.audio](../bbugyi200.apollo.research.04.audio/README.md) | research hood | dismissed |
 | [research.04.cdx](../bbugyi200.apollo.research.04.cdx/README.md) | research hood | dismissed |
 | [research.04.cld](../bbugyi200.apollo.research.04.cld/README.md) | research hood | dismissed |
 | [research.04.final](../bbugyi200.apollo.research.04.final/README.md) | research hood | dismissed |
@@ -66,7 +66,7 @@
 | [research.04.linker](../bbugyi200.apollo.research.04.linker/README.md) | research hood | dismissed |
 | [research.04.mus](../bbugyi200.apollo.research.04.mus/README.md) | research hood | dismissed |
 | [research.05.audio](../bbugyi200.apollo.research.05.audio/README.md) | research hood | dismissed |
-| [research.05.cdx](../bbugyi200.apollo.research.05.cdx/README.md) | research hood | active |
+| [research.05.cdx](../bbugyi200.apollo.research.05.cdx/README.md) | research hood | dismissed |
 | [research.05.cld](../bbugyi200.apollo.research.05.cld/README.md) | research hood | dismissed |
 | [research.05.final](../bbugyi200.apollo.research.05.final/README.md) | research hood | dismissed |
 | [research.05.gem](../bbugyi200.apollo.research.05.gem/README.md) | research hood | dismissed |
