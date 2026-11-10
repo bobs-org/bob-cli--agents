@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ji](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ji/README.md) / bob-cli-ji.5
 
-**Global name:** `bbugyi200.apollo.bob-cli-ji.5` · **State:** waiting · **Source run:** `run-4fcdeb9456679cbeec48c32538ab31b3`
+**Global name:** `bbugyi200.apollo.bob-cli-ji.5` · **State:** completed · **Source run:** `run-4fcdeb9456679cbeec48c32538ab31b3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ji
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ji](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ji/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261110060033
-- Commits: 0
+- Timing: 2026-11-10T14:57:32.675354+00:00 → 2026-11-10T15:24:37.286894+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c8934b9`](https://github.com/bobs-org/bob-cli/commit/c8934b93af196e36b08a480aac36df5b336dcda6) | feat(gcal): edit and adopt private event notes | 2026-11-10 10:24:00 EST |
 
 ## Neighbors
 
