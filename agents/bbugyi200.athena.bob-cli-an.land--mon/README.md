@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / [bob-cli-an.land](../../sessions/bbugyi200.athena.bob-cli-an.land.md) / bob-cli-an.land--mon
 
-**Global name:** `bbugyi200.athena.bob-cli-an.land--mon` · **State:** active · **Source run:** `run-a255fb85a21a5bad1ce6e58d02471d92`
+**Global name:** `bbugyi200.athena.bob-cli-an.land--mon` · **State:** dismissed · **Source run:** `run-a255fb85a21a5bad1ce6e58d02471d92`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-an](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-23T16:41:05.438244+00:00
+- Timing: 2026-10-23T12:41:05.438244 → 2026-10-23T12:44:08.704803
 - Commits: 0
 
 ## Files
@@ -22,51 +22,51 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-an.1](../../sessions/bbugyi200.athena.bob-cli-an.1.md) (session · 7) | bob-cli-an hood | active 1, dismissed 6 |
-| [bob-cli-an.2](../../sessions/bbugyi200.athena.bob-cli-an.2.md) (session · 7) | bob-cli-an hood | active 5, dismissed 2 |
+| [bob-cli-an.1](../../sessions/bbugyi200.athena.bob-cli-an.1.md) (session · 7) | bob-cli-an hood | dismissed 7 |
+| [bob-cli-an.2](../../sessions/bbugyi200.athena.bob-cli-an.2.md) (session · 7) | bob-cli-an hood | active 2, dismissed 5 |
 | [bob-cli-an.3](../../sessions/bbugyi200.athena.bob-cli-an.3.md) (session · 6) | bob-cli-an hood | completed 1, dismissed 3, failed 2 |
-| [bob-cli-an.4](../bbugyi200.athena.bob-cli-an.4/README.md) | bob-cli-an hood | active |
-| [bob-cli-an.5](../bbugyi200.athena.bob-cli-an.5/README.md) | bob-cli-an hood | active |
+| [bob-cli-an.4](../bbugyi200.athena.bob-cli-an.4/README.md) | bob-cli-an hood | dismissed |
+| [bob-cli-an.5](../bbugyi200.athena.bob-cli-an.5/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.1.md) (session · 3) | bob-cli-an hood | active 2, dismissed 1 |
-| [bob-cli-an.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.2.md) (session · 7) | bob-cli-an hood | active 5, dismissed 2 |
+| [bob-cli-an.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.2.md) (session · 7) | bob-cli-an hood | active 2, dismissed 5 |
 | [bob-cli-an.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.3.md) (session · 3) | bob-cli-an hood | active 1, dismissed 2 |
 | [bob-cli-an.6.4](../../sessions/bbugyi200.athena.bob-cli-an.6.4.md) (session · 3) | bob-cli-an hood | active 2, dismissed 1 |
-| [bob-cli-an.6.5](../../sessions/bbugyi200.athena.bob-cli-an.6.5.md) (session · 3) | bob-cli-an hood | active 2, dismissed 1 |
+| [bob-cli-an.6.5](../../sessions/bbugyi200.athena.bob-cli-an.6.5.md) (session · 3) | bob-cli-an hood | active 1, dismissed 2 |
 | [bob-cli-an.6.6.1](../bbugyi200.athena.bob-cli-an.6.6.1/README.md) | bob-cli-an hood | dismissed |
-| [bob-cli-an.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.2.md) (session · 3) | bob-cli-an hood | active 2, dismissed 1 |
-| [bob-cli-an.6.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.3.md) (session · 5) | bob-cli-an hood | active 3, dismissed 2 |
-| [bob-cli-an.6.6.4](../bbugyi200.athena.bob-cli-an.6.6.4/README.md) | bob-cli-an hood | active |
+| [bob-cli-an.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.2.md) (session · 3) | bob-cli-an hood | active 1, dismissed 2 |
+| [bob-cli-an.6.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.3.md) (session · 5) | bob-cli-an hood | active 1, dismissed 4 |
+| [bob-cli-an.6.6.4](../bbugyi200.athena.bob-cli-an.6.6.4/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.5](../bbugyi200.athena.bob-cli-an.6.6.5/README.md) | bob-cli-an hood | dismissed |
-| [bob-cli-an.6.6.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.1.md) (session · 3) | bob-cli-an hood | active 3 |
-| [bob-cli-an.6.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.2.md) (session · 3) | bob-cli-an hood | active 1, dismissed 2 |
+| [bob-cli-an.6.6.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.1.md) (session · 3) | bob-cli-an hood | active 2, dismissed 1 |
+| [bob-cli-an.6.6.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.2.md) (session · 3) | bob-cli-an hood | dismissed 3 |
 | [bob-cli-an.6.6.6.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.3.md) (session · 3) | bob-cli-an hood | active 2, dismissed 1 |
 | [bob-cli-an.6.6.6.4](../bbugyi200.athena.bob-cli-an.6.6.6.4/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.1/README.md) | bob-cli-an hood | dismissed |
-| [bob-cli-an.6.6.6.5.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.2.md) (session · 3) | bob-cli-an hood | active 1, completed 1, dismissed 1 |
+| [bob-cli-an.6.6.6.5.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.2.md) (session · 3) | bob-cli-an hood | completed 1, dismissed 2 |
 | [bob-cli-an.6.6.6.5.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.3/README.md) | bob-cli-an hood | active |
 | [bob-cli-an.6.6.6.5.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.4/README.md) | bob-cli-an hood | active |
-| [bob-cli-an.6.6.6.5.5](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.5.md) (session · 5) | bob-cli-an hood | active 4, dismissed 1 |
+| [bob-cli-an.6.6.6.5.5](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.5.md) (session · 5) | bob-cli-an hood | active 3, dismissed 2 |
 | [bob-cli-an.6.6.6.5.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.1/README.md) | bob-cli-an hood | active |
 | [bob-cli-an.6.6.6.5.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.2.md) (session · 3) | bob-cli-an hood | active 1, completed 1, dismissed 1 |
 | [bob-cli-an.6.6.6.5.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.3/README.md) | bob-cli-an hood | active |
-| [bob-cli-an.6.6.6.5.6.4](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.4.md) (session · 13) | bob-cli-an hood | active 4, completed 1, dismissed 7, failed 1 |
+| [bob-cli-an.6.6.6.5.6.4](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.4.md) (session · 13) | bob-cli-an hood | active 2, completed 1, dismissed 9, failed 1 |
 | [bob-cli-an.6.6.6.5.6.5.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.1/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.6.5.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.2/README.md) | bob-cli-an hood | active |
-| [bob-cli-an.6.6.6.5.6.5.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.3.md) (session · 5) | bob-cli-an hood | active 4, dismissed 1 |
+| [bob-cli-an.6.6.6.5.6.5.3](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.3.md) (session · 5) | bob-cli-an hood | dismissed 5 |
 | [bob-cli-an.6.6.6.5.6.5.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.4/README.md) | bob-cli-an hood | active |
 | [bob-cli-an.6.6.6.5.6.5.5.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.1/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.6.5.5.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.2/README.md) | bob-cli-an hood | dismissed |
-| [bob-cli-an.6.6.6.5.6.5.5.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.3/README.md) | bob-cli-an hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.3/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.6.5.5.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.4/README.md) | bob-cli-an hood | dismissed |
-| [bob-cli-an.6.6.6.5.6.5.5.5](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.5/README.md) | bob-cli-an hood | active |
-| [bob-cli-an.6.6.6.5.6.5.5.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.1/README.md) | bob-cli-an hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.5](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.5/README.md) | bob-cli-an hood | dismissed |
+| [bob-cli-an.6.6.6.5.6.5.5.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.1/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.2/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.3/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.4/README.md) | bob-cli-an hood | active |
 | [bob-cli-an.6.6.6.5.6.5.5.6.5](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.5/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.1/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.2](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.2/README.md) | bob-cli-an hood | active |
-| [bob-cli-an.6.6.6.5.6.5.5.6.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.3/README.md) | bob-cli-an hood | active |
+| [bob-cli-an.6.6.6.5.6.5.5.6.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.3/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.4/README.md) | bob-cli-an hood | active |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.5](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.5/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.6.5.5.6.6.6.1](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.5.5.6.6.6.1.md) (session · 5) | bob-cli-an hood | active 2, dismissed 3 |
