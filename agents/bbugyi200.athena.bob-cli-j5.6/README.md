@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-j5](../../users/bbugyi200/machines/athena/hoods/bob-cli-j5/README.md) / bob-cli-j5.6
 
-**Global name:** `bbugyi200.athena.bob-cli-j5.6` · **State:** waiting · **Source run:** `run-874081bbe2210658f919902f6e0cdfe4`
+**Global name:** `bbugyi200.athena.bob-cli-j5.6` · **State:** completed · **Source run:** `run-874081bbe2210658f919902f6e0cdfe4`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-j5
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-j5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j5/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261109110550
-- Commits: 0
+- Timing: 2026-11-10T03:20:18.230916+00:00 → 2026-11-10T04:34:40.525865+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e5b0898`](https://github.com/bobs-org/bob-cli/commit/e5b0898e51670d39fe99fb959495ac7d12e37d3f) | feat(task-restore): add bob task restore over the task-move engine | 2026-11-09 23:34:10 EST |
 
 ## Neighbors
 

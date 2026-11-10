@@ -43,7 +43,7 @@
 | [bob-cli-j5.2.1.land](../../sessions/bbugyi200.athena.bob-cli-j5.2.1.land.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.3](../bbugyi200.athena.bob-cli-j5.3/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.5](../bbugyi200.athena.bob-cli-j5.5/README.md) | bob-cli-j5 hood | waiting |
-| [bob-cli-j5.6](../bbugyi200.athena.bob-cli-j5.6/README.md) | bob-cli-j5 hood | waiting |
+| [bob-cli-j5.6](../bbugyi200.athena.bob-cli-j5.6/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.7](../bbugyi200.athena.bob-cli-j5.7/README.md) | bob-cli-j5 hood | waiting |
 | [bob-cli-j5.8](../bbugyi200.athena.bob-cli-j5.8/README.md) | bob-cli-j5 hood | waiting |
 | [bob-cli-j5.land](../bbugyi200.athena.bob-cli-j5.land/README.md) | bob-cli-j5 hood | waiting |
