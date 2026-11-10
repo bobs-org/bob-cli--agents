@@ -50,6 +50,7 @@
 | [1ag.md](1ag.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202611/capture_alias_glossary_term.md][1] | - | [bbugyi200.athena.1ag](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.1ag.md) | 1 |
 | [1ak.md](1ak.md) | %model:@small #gh:gh_bobs-org__bob-cli [@plan:202611/hourly_gmail_sync_cron.md][1] | - | [bbugyi200.athena.1ak](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.1ak.md) | 1 |
 | [1al.md](1al.md) | %model:@medium #gh:gh_bobs-org__bob-cli [@plan:202611/mac_add_to_build_fix.md][1] | - | [bbugyi200.athena.1al](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.1al.md) | 1 |
+| [1am.f0.f1.md](1am.f0.f1.md) | %queue(weight=1) #fork:1am.f0.f1--code %model:muse-spark-1.3-contributor@high | - | [bbugyi200.athena.1am.f0.f1](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.1am.f0.f1.md) | 0 |
 | [1am.f0.md](1am.f0.md) | %queue(weight=1) #fork:1am.f0--1 %model:gpt-6-luna@high | - | [bbugyi200.athena.1am.f0](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.1am.f0.md) | 0 |
 | [1am.md](1am.md) | %queue(weight=1) #fork:1am--code %model:gpt-6-luna@xhigh | - | [bbugyi200.athena.1am](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.1am.md) | 0 |
 | [1ao.md](1ao.md) | %model:@medium #gh:gh_bobs-org__bob-cli | - | [bbugyi200.athena.1ao](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.1ao.md) | 1 |

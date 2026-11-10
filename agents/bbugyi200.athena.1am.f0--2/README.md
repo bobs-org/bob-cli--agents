@@ -28,3 +28,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [1am](../../sessions/bbugyi200.athena.1am.md) (session · 5) | ancestor | completed 4, failed 1 |
+| [1am.f0.f0](../bbugyi200.athena.1am.f0.f0/README.md) | descendant | active |
+| [1am.f0.f1](../../sessions/bbugyi200.athena.1am.f0.f1.md) (session · 5) | descendant | completed 4, failed 1 |
