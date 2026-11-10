@@ -49,6 +49,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-j5.3](../agents/bbugyi200.athena.bob-cli-j5.3/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.5](../agents/bbugyi200.athena.bob-cli-j5.5/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.6](../agents/bbugyi200.athena.bob-cli-j5.6/README.md) | bob-cli-j5 hood | completed |
-| [bob-cli-j5.7](../agents/bbugyi200.athena.bob-cli-j5.7/README.md) | bob-cli-j5 hood | waiting |
+| [bob-cli-j5.7](bbugyi200.athena.bob-cli-j5.7.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.8](../agents/bbugyi200.athena.bob-cli-j5.8/README.md) | bob-cli-j5 hood | waiting |
 | [bob-cli-j5.land](../agents/bbugyi200.athena.bob-cli-j5.land/README.md) | bob-cli-j5 hood | waiting |
