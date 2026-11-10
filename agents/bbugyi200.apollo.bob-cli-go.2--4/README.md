@@ -22,32 +22,32 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`aac3947`](https://github.com/bobs-org/bob-cli/commit/aac3947c7f415b7037fdb7e10fa5e0322df4ade3) | feat(task-move): shared transplant API, children classifier, drawer ensure, task locator | 2026-11-03 18:04:52 EST |
+| — | `aac3947` | feat(task-move): shared transplant API, children classifier, drawer ensure, task locator | 2026-11-03 18:04:52 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-go.1](../bbugyi200.apollo.bob-cli-go.1/README.md) | bob-cli-go hood | active |
-| [bob-cli-go.10](../../sessions/bbugyi200.apollo.bob-cli-go.10.md) (session · 3) | bob-cli-go hood | active 3 |
+| [bob-cli-go.1](../bbugyi200.apollo.bob-cli-go.1/README.md) | bob-cli-go hood | dismissed |
+| [bob-cli-go.10](../../sessions/bbugyi200.apollo.bob-cli-go.10.md) (session · 3) | bob-cli-go hood | active 1, dismissed 2 |
 | [bob-cli-go.10.1.1](../bbugyi200.apollo.bob-cli-go.10.1.1/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.10.1.2](../bbugyi200.apollo.bob-cli-go.10.1.2/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.10.1.3](../bbugyi200.apollo.bob-cli-go.10.1.3/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.10.1.4](../../sessions/bbugyi200.apollo.bob-cli-go.10.1.4.md) (session · 3) | bob-cli-go hood | active 3 |
 | [bob-cli-go.10.1.5](../bbugyi200.apollo.bob-cli-go.10.1.5/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.10.1.land](../bbugyi200.apollo.bob-cli-go.10.1.land/README.md) | bob-cli-go hood | active |
-| [bob-cli-go.11](../bbugyi200.apollo.bob-cli-go.11/README.md) | bob-cli-go hood | active |
-| [bob-cli-go.12](../../sessions/bbugyi200.apollo.bob-cli-go.12.md) (session · 5) | bob-cli-go hood | active 5 |
-| [bob-cli-go.13](../bbugyi200.apollo.bob-cli-go.13/README.md) | bob-cli-go hood | active |
-| [bob-cli-go.3](../../sessions/bbugyi200.apollo.bob-cli-go.3.md) (session · 15) | bob-cli-go hood | active 15 |
-| [bob-cli-go.4](../../sessions/bbugyi200.apollo.bob-cli-go.4.md) (session · 3) | bob-cli-go hood | active 3 |
+| [bob-cli-go.11](../bbugyi200.apollo.bob-cli-go.11/README.md) | bob-cli-go hood | dismissed |
+| [bob-cli-go.12](../../sessions/bbugyi200.apollo.bob-cli-go.12.md) (session · 5) | bob-cli-go hood | active 1, dismissed 4 |
+| [bob-cli-go.13](../bbugyi200.apollo.bob-cli-go.13/README.md) | bob-cli-go hood | dismissed |
+| [bob-cli-go.3](../../sessions/bbugyi200.apollo.bob-cli-go.3.md) (session · 15) | bob-cli-go hood | dismissed 15 |
+| [bob-cli-go.4](../../sessions/bbugyi200.apollo.bob-cli-go.4.md) (session · 3) | bob-cli-go hood | active 1, dismissed 2 |
 | [bob-cli-go.4.1.1](../../sessions/bbugyi200.apollo.bob-cli-go.4.1.1.md) (session · 5) | bob-cli-go hood | active 5 |
 | [bob-cli-go.4.1.2](../bbugyi200.apollo.bob-cli-go.4.1.2/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.4.1.3](../../sessions/bbugyi200.apollo.bob-cli-go.4.1.3.md) (session · 9) | bob-cli-go hood | active 9 |
 | [bob-cli-go.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-go.4.1.land.md) (session · 5) | bob-cli-go hood | active 3, completed 1, failed 1 |
-| [bob-cli-go.5](../bbugyi200.apollo.bob-cli-go.5/README.md) | bob-cli-go hood | active |
-| [bob-cli-go.6](../bbugyi200.apollo.bob-cli-go.6/README.md) | bob-cli-go hood | active |
-| [bob-cli-go.7](../bbugyi200.apollo.bob-cli-go.7/README.md) | bob-cli-go hood | active |
-| [bob-cli-go.8](../bbugyi200.apollo.bob-cli-go.8/README.md) | bob-cli-go hood | active |
-| [bob-cli-go.9](../bbugyi200.apollo.bob-cli-go.9/README.md) | bob-cli-go hood | active |
-| [bob-cli-go.land](../../sessions/bbugyi200.apollo.bob-cli-go.land.md) (session · 7) | bob-cli-go hood | active 5, completed 1, failed 1 |
+| [bob-cli-go.5](../bbugyi200.apollo.bob-cli-go.5/README.md) | bob-cli-go hood | dismissed |
+| [bob-cli-go.6](../bbugyi200.apollo.bob-cli-go.6/README.md) | bob-cli-go hood | dismissed |
+| [bob-cli-go.7](../bbugyi200.apollo.bob-cli-go.7/README.md) | bob-cli-go hood | dismissed |
+| [bob-cli-go.8](../bbugyi200.apollo.bob-cli-go.8/README.md) | bob-cli-go hood | dismissed |
+| [bob-cli-go.9](../bbugyi200.apollo.bob-cli-go.9/README.md) | bob-cli-go hood | dismissed |
+| [bob-cli-go.land](../../sessions/bbugyi200.apollo.bob-cli-go.land.md) (session · 7) | bob-cli-go hood | active 1, completed 1, dismissed 4, failed 1 |
