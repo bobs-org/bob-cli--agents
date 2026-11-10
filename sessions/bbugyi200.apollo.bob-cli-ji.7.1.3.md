@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ji.7.1.4](bbugyi200.apollo.bob-cli-ji.7.1.4.md) (session · 15) | bob-cli-ji.7.1 hood | completed 9, failed 6 |
 | [bob-cli-ji.7.1.5](bbugyi200.apollo.bob-cli-ji.7.1.5.md) (session · 5) | bob-cli-ji.7.1 hood | completed 3, failed 2 |
 | [bob-cli-ji.7.1.6](../agents/bbugyi200.apollo.bob-cli-ji.7.1.6/README.md) | bob-cli-ji.7.1 hood | completed |
-| [bob-cli-ji.7.1.land](bbugyi200.apollo.bob-cli-ji.7.1.land.md) (session · 3) | bob-cli-ji.7.1 hood | active 2, completed 1 |
+| [bob-cli-ji.7.1.land](bbugyi200.apollo.bob-cli-ji.7.1.land.md) (session · 6) | bob-cli-ji.7.1 hood | active 1, completed 4, failed 1 |
 | [bob-cli-ji.1](../agents/bbugyi200.apollo.bob-cli-ji.1/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.2](../agents/bbugyi200.apollo.bob-cli-ji.2/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.3](../agents/bbugyi200.apollo.bob-cli-ji.3/README.md) | bob-cli-ji hood | completed |
