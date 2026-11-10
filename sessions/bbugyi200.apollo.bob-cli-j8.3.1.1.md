@@ -51,4 +51,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-j8.7](../agents/bbugyi200.apollo.bob-cli-j8.7/README.md) | bob-cli-j8 hood | completed |
 | [bob-cli-j8.8](bbugyi200.apollo.bob-cli-j8.8.md) (session · 11) | bob-cli-j8 hood | completed 8, failed 3 |
 | [bob-cli-j8.9](bbugyi200.apollo.bob-cli-j8.9.md) (session · 11) | bob-cli-j8 hood | completed 10, failed 1 |
-| [bob-cli-j8.land](bbugyi200.apollo.bob-cli-j8.land.md) (session · 3) | bob-cli-j8 hood | active 2, completed 1 |
+| [bob-cli-j8.land](bbugyi200.apollo.bob-cli-j8.land.md) (session · 3) | bob-cli-j8 hood | completed 3 |

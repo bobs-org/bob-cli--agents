@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-j8.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_j8_land__plan-261109_121221.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_j8_land__code-261109_121221.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/land_notebooks_epic.md
 
 

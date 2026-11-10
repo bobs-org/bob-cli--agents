@@ -9,9 +9,9 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-j8` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-j8.land--gate [completed]"]
-  n1["bob-cli-j8.land--plan [active]"]
+  n1["bob-cli-j8.land--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-j8.land--code [active]"]
+  n2["bob-cli-j8.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-j8.land--gate | completed | opus / claude | 2026-11-10T14:09:01.763426+00:00 → 2026-11-10T14:09:15.843070+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-j8.land--plan | active | opus / claude | 2026-11-10T13:53:18.133613+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-j8.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-10T14:09:40.464678+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-j8.land--plan | completed | opus / claude | 2026-11-10T13:53:18.133613+00:00 → 2026-11-10T16:03:47.385304+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-j8.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-10T14:09:40.464678+00:00 → 2026-11-10T16:03:47.385304+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-j8.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`891fa3e`](https://github.com/bobs-org/bob-cli/commit/891fa3e49198e75ea05df11b842bc426bad6e9e3) | feat(notebooks)!: land marker-free catalogs, checker fix, and CI retarget | 2026-11-10 11:00:23 EST |
 
 ## Neighbors
 
