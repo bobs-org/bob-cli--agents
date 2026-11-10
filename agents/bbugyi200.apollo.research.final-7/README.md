@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `0dab046` | chore: consolidate Obsidian research notes | 2026-06-04 14:43:28 EDT |
+| bob-cli | [`0dab046`](https://github.com/bobs-org/bob-cli/commit/0dab0460bf15c241d15cb08dfded31dd4adcd153) | chore: consolidate Obsidian research notes | 2026-06-04 14:43:28 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 749 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 757 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

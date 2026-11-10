@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `5f00fae` | chore: Add SDD prompt and plan for metadata\_menu\_property\_suggestions | 2026-06-09 09:56:37 EDT |
+| bob-cli | [`5f00fae`](https://github.com/bobs-org/bob-cli/commit/5f00fae9c0233df97a6e02adfb2c7eb07403fd90) | chore: Add SDD prompt and plan for metadata\_menu\_property\_suggestions | 2026-06-09 09:56:37 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.06.gem](../bbugyi200.apollo.research.06.gem/README.md) | research hood | dismissed |
 | [research.06.grk](../bbugyi200.apollo.research.06.grk/README.md) | research hood | dismissed |
 | [research.06.image](../bbugyi200.apollo.research.06.image/README.md) | research hood | dismissed |
-| … and 745 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 753 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

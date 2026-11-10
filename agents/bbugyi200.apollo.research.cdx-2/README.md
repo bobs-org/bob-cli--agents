@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `50da7a7` | chore: Update Dataview CLI research | 2026-06-03 12:10:11 EDT |
+| bob-cli | [`50da7a7`](https://github.com/bobs-org/bob-cli/commit/50da7a777a32a07e62c21ba531ad1fc3bff5ae91) | chore: Update Dataview CLI research | 2026-06-03 12:10:11 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 749 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 757 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

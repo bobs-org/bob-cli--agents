@@ -17,9 +17,9 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `44cd117` | chore: Add SDD prompt and plan for bob\_plugins\_repo | 2026-06-20 11:00:34 EDT |
-| — | `415a37c` | chore(sdd): create bob plugins epic beads | 2026-06-20 11:03:18 EDT |
-| — | `eebad25` | chore(sdd): update bead db after bob-cli-8 launch | 2026-06-20 11:04:46 EDT |
+| bob-cli | [`44cd117`](https://github.com/bobs-org/bob-cli/commit/44cd1174de8674dd3c343b3eeb5f44bd98fdc3f8) | chore: Add SDD prompt and plan for bob\_plugins\_repo | 2026-06-20 11:00:34 EDT |
+| bob-cli | [`415a37c`](https://github.com/bobs-org/bob-cli/commit/415a37c66fba5b1020dcb3ea130cab27a84bfe77) | chore(sdd): create bob plugins epic beads | 2026-06-20 11:03:18 EDT |
+| bob-cli | [`eebad25`](https://github.com/bobs-org/bob-cli/commit/eebad25ea023f72e6b5f6d9507319d944ed4720c) | chore(sdd): update bead db after bob-cli-8 launch | 2026-06-20 11:04:46 EDT |
 
 ## Neighbors
 
@@ -79,4 +79,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 745 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 753 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

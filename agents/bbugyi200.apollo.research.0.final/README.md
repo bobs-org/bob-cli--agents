@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `34e68f5` | chore: consolidate Obsidian property enum research | 2026-06-09 09:06:13 EDT |
+| bob-cli | [`34e68f5`](https://github.com/bobs-org/bob-cli/commit/34e68f59247ef967d1d25457c8805258b5a7c286) | chore: consolidate Obsidian property enum research | 2026-06-09 09:06:13 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.06.gem](../bbugyi200.apollo.research.06.gem/README.md) | research hood | dismissed |
 | [research.06.grk](../bbugyi200.apollo.research.06.grk/README.md) | research hood | dismissed |
 | [research.06.image](../bbugyi200.apollo.research.06.image/README.md) | research hood | dismissed |
-| … and 745 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 753 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

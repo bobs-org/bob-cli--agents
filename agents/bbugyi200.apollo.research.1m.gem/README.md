@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `e696d92` | docs(research): investigate highlights tab switcher filter for bob-mac-capture | 2026-10-15 16:46:02 EDT |
+| bob-cli | [`e696d92`](https://github.com/bobs-org/bob-cli/commit/e696d9281f19615509deac97d3c59ebd066d3148) | docs(research): investigate highlights tab switcher filter for bob-mac-capture | 2026-10-15 16:46:02 EDT |
 
 ## Variables
 
@@ -103,4 +103,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 742 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 750 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
