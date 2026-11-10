@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-j8](../../users/bbugyi200/machines/apollo/hoods/bob-cli-j8/README.md) / [bob-cli-j8.8](../../sessions/bbugyi200.apollo.bob-cli-j8.8.md) / bob-cli-j8.8--1
 
-**Global name:** `bbugyi200.apollo.bob-cli-j8.8--1` · **State:** completed · **Source run:** `run-a7e18bd75b0c00e647185f3f7e175c8b`
+**Global name:** `bbugyi200.apollo.bob-cli-j8.8--1` · **State:** completed · **Source run:** `run-5404b04c254bf6d91efe554c3e8e9e33`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-j8
 
 ## Summary
 
 - Bead: [bob-cli-j8.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j8/bob-cli-j8.8.md)
-- Model: gpt-6-luna
-- Provider: codex
-- Timing: 2026-11-10T09:14:20.395691+00:00 → 2026-11-10T09:23:33.053149+00:00
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-11-10T11:56:18.356946+00:00 → 2026-11-10T12:05:42.965874+00:00
 - Commits: 0
 
 ## Files
