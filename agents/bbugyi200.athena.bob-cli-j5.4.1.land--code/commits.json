@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d8126492e8b9e1584141b7616192d2d6"}
+{"commits":[{"committed_at":1794281051,"sha":"d65be1ce02b66f9a08c6a31049990aa74cccca65","subject":"perf(archive): cache pair facts for read-only consumers"}],"schema_version":2,"source_run_id":"run-d8126492e8b9e1584141b7616192d2d6"}

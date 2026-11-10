@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-j5.4.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_j5_4_1_land__plan-261109_164625.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_j5_4_1_land__code-261109_164625.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/archive_pair_census_perf_and_land.md
 
 
