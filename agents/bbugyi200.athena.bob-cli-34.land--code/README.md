@@ -22,8 +22,8 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-34.1](../bbugyi200.athena.bob-cli-34.1/README.md) | bob-cli-34 hood | active |
-| [bob-cli-34.2](../bbugyi200.athena.bob-cli-34.2/README.md) | bob-cli-34 hood | active |
-| [bob-cli-34.3](../bbugyi200.athena.bob-cli-34.3/README.md) | bob-cli-34 hood | active |
-| [bob-cli-34.4](../bbugyi200.athena.bob-cli-34.4/README.md) | bob-cli-34 hood | active |
-| [bob-cli-34.5](../bbugyi200.athena.bob-cli-34.5/README.md) | bob-cli-34 hood | active |
+| [bob-cli-34.1](../bbugyi200.athena.bob-cli-34.1/README.md) | bob-cli-34 hood | dismissed |
+| [bob-cli-34.2](../bbugyi200.athena.bob-cli-34.2/README.md) | bob-cli-34 hood | dismissed |
+| [bob-cli-34.3](../bbugyi200.athena.bob-cli-34.3/README.md) | bob-cli-34 hood | dismissed |
+| [bob-cli-34.4](../bbugyi200.athena.bob-cli-34.4/README.md) | bob-cli-34 hood | dismissed |
+| [bob-cli-34.5](../bbugyi200.athena.bob-cli-34.5/README.md) | bob-cli-34 hood | dismissed |

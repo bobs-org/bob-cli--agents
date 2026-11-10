@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8d9a229`](https://github.com/bobs-org/bob-cli/commit/8d9a2292f2f2c82e6b3a8a953780e8b31daf8d84) | docs(plan): correct daily bob-plan block to the four-chip contract | 2026-10-01 15:14:23 EDT |
+| — | `8d9a229` | docs(plan): correct daily bob-plan block to the four-chip contract | 2026-10-01 15:14:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-3b.1](../bbugyi200.athena.bob-cli-3b.1/README.md) | bob-cli-3b hood | active |
-| [bob-cli-3b.2](../bbugyi200.athena.bob-cli-3b.2/README.md) | bob-cli-3b hood | active |
-| [bob-cli-3b.3](../bbugyi200.athena.bob-cli-3b.3/README.md) | bob-cli-3b hood | active |
+| [bob-cli-3b.1](../bbugyi200.athena.bob-cli-3b.1/README.md) | bob-cli-3b hood | dismissed |
+| [bob-cli-3b.2](../bbugyi200.athena.bob-cli-3b.2/README.md) | bob-cli-3b hood | dismissed |
+| [bob-cli-3b.3](../bbugyi200.athena.bob-cli-3b.3/README.md) | bob-cli-3b hood | dismissed |
