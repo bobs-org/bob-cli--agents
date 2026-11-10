@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-j5` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-j5.land--code [active]"]
-  n1["bob-cli-j5.land--plan [active]"]
+  n0["bob-cli-j5.land--code [completed]"]
+  n1["bob-cli-j5.land--plan [completed]"]
   n0 --> n1
   n2["bob-cli-j5.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-j5.land--code | active | gpt-6-luna / codex | 2026-11-10T06:57:11.722286+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-j5.land--plan | active | opus / claude | 2026-11-10T06:19:52.146633+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-j5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-j5.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-j5.land--code | completed | gpt-6-luna / codex | 2026-11-10T06:57:11.722286+00:00 → 2026-11-10T07:35:17.700325+00:00 | [1](../agents/bbugyi200.athena.bob-cli-j5.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-j5.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-j5.land--plan | completed | opus / claude | 2026-11-10T06:19:52.146633+00:00 → 2026-11-10T07:35:17.700325+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-j5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-j5.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-j5.land--gate | completed | opus / claude | 2026-11-10T06:56:10.599327+00:00 → 2026-11-10T06:56:36.246531+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-j5.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`63ce765`](https://github.com/bobs-org/bob-cli/commit/63ce7653ad655251d2d44c2e48140dc135ca1565) | feat(archive)!: finish configurable keep-window behavior | 2026-11-10 02:34:09 EST |
 
 ## Neighbors
 

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-j5](../../users/bbugyi200/machines/athena/hoods/bob-cli-j5/README.md) / [bob-cli-j5.land](../../sessions/bbugyi200.athena.bob-cli-j5.land.md) / bob-cli-j5.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-j5.land--code` · **State:** active · **Source run:** `run-8203f86919a604de61bc5b9d9a68cd74`
+**Global name:** `bbugyi200.athena.bob-cli-j5.land--code` · **State:** completed · **Source run:** `run-8203f86919a604de61bc5b9d9a68cd74`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-j5
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-j5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j5/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-10T06:57:11.722286+00:00
-- Commits: 0
+- Timing: 2026-11-10T06:57:11.722286+00:00 → 2026-11-10T07:35:17.700325+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`63ce765`](https://github.com/bobs-org/bob-cli/commit/63ce7653ad655251d2d44c2e48140dc135ca1565) | feat(archive)!: finish configurable keep-window behavior | 2026-11-10 02:34:09 EST |
 
 ## Neighbors
 

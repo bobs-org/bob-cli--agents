@@ -45,4 +45,4 @@
 | [bob-cli-j5.6](../bbugyi200.athena.bob-cli-j5.6/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.7](../../sessions/bbugyi200.athena.bob-cli-j5.7.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.8](../bbugyi200.athena.bob-cli-j5.8/README.md) | bob-cli-j5 hood | completed |
-| [bob-cli-j5.land](../../sessions/bbugyi200.athena.bob-cli-j5.land.md) (session · 3) | bob-cli-j5 hood | active 2, completed 1 |
+| [bob-cli-j5.land](../../sessions/bbugyi200.athena.bob-cli-j5.land.md) (session · 3) | bob-cli-j5 hood | completed 3 |
