@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-js](../../users/bbugyi200/machines/apollo/hoods/bob-cli-js/README.md) / bob-cli-js.3
 
-**Global name:** `bbugyi200.apollo.bob-cli-js.3` · **State:** active · **Source run:** `run-32e4436040e6c4ad798fc4ba5ee42d12`
+**Global name:** `bbugyi200.apollo.bob-cli-js.3` · **State:** completed · **Source run:** `run-32e4436040e6c4ad798fc4ba5ee42d12`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-js
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-js](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-js/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-10T17:40:18.874018+00:00
-- Commits: 0
+- Timing: 2026-11-10T17:40:18.874018+00:00 → 2026-11-10T18:20:26.491887+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`a985918`](https://github.com/bobs-org/bob-cli/commit/a985918614f5cd959fe6f22bf2302020c8c26613) | feat(periods): emit charts, stacks, and display\_short on show | 2026-11-10 13:19:19 EST |
 
 ## Neighbors
 

@@ -25,6 +25,6 @@
 |---|---|---|
 | [bob-cli-js.1](../../sessions/bbugyi200.apollo.bob-cli-js.1.md) (session · 3) | bob-cli-js hood | completed 2, failed 1 |
 | [bob-cli-js.2](../bbugyi200.apollo.bob-cli-js.2/README.md) | bob-cli-js hood | completed |
-| [bob-cli-js.3](../bbugyi200.apollo.bob-cli-js.3/README.md) | bob-cli-js hood | active |
+| [bob-cli-js.3](../bbugyi200.apollo.bob-cli-js.3/README.md) | bob-cli-js hood | completed |
 | [bob-cli-js.4](../bbugyi200.apollo.bob-cli-js.4/README.md) | bob-cli-js hood | waiting |
 | [bob-cli-js.land](../bbugyi200.apollo.bob-cli-js.land/README.md) | bob-cli-js hood | waiting |
