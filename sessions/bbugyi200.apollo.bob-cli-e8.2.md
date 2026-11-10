@@ -35,7 +35,7 @@ flowchart TD
   n0 --> n12
   n13["bob-cli-e8.2--7 [dismissed]"]
   n0 --> n13
-  n14["bob-cli-e8.2--5 [active]"]
+  n14["bob-cli-e8.2--5 [dismissed]"]
   n0 --> n14
 ```
 
@@ -57,7 +57,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-2"></a>mon-2 | bob-cli-e8.2--mon-2 | dismissed | gpt-6-luna / codex | 2026-10-29T19:13:30.082044 → 2026-10-29T19:24:31.668269 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-e8.2--mon-2/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-e8.2--1 | dismissed | gpt-6-luna / codex | 2026-10-29T18:24:48.492065 → 2026-10-29T18:28:25.127017 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-e8.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-e8.2--1/chat.md) |
 | <a id="member-7"></a>7 | bob-cli-e8.2--7 | dismissed | gpt-6-luna / codex | 2026-10-29T20:01:01.466807 → 2026-10-29T20:07:16.293167 | [1](../agents/bbugyi200.apollo.bob-cli-e8.2--7/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-e8.2--7/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-e8.2--7/chat.md) |
-| <a id="member-5"></a>5 | bob-cli-e8.2--5 | active | gpt-6-luna / codex | 2026-10-29T23:48:19.514788+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-e8.2--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-e8.2--5/chat.md) |
+| <a id="member-5"></a>5 | bob-cli-e8.2--5 | dismissed | gpt-6-luna / codex | 2026-10-29T19:48:19.514788 → 2026-10-29T19:51:17.155937 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-e8.2--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-e8.2--5/chat.md) |
 
 ## Commits
 
@@ -72,7 +72,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-e8.1](../agents/bbugyi200.apollo.bob-cli-e8.1/README.md) | bob-cli-e8 hood | dismissed |
 | [bob-cli-e8.3](../agents/bbugyi200.apollo.bob-cli-e8.3/README.md) | bob-cli-e8 hood | dismissed |
 | [bob-cli-e8.4](../agents/bbugyi200.apollo.bob-cli-e8.4/README.md) | bob-cli-e8 hood | dismissed |
-| [bob-cli-e8.5](../agents/bbugyi200.apollo.bob-cli-e8.5/README.md) | bob-cli-e8 hood | active |
+| [bob-cli-e8.5](../agents/bbugyi200.apollo.bob-cli-e8.5/README.md) | bob-cli-e8 hood | dismissed |
 | [bob-cli-e8.6](../agents/bbugyi200.apollo.bob-cli-e8.6/README.md) | bob-cli-e8 hood | dismissed |
 | [bob-cli-e8.7](../agents/bbugyi200.apollo.bob-cli-e8.7/README.md) | bob-cli-e8 hood | dismissed |
 | [bob-cli-e8.8](../agents/bbugyi200.apollo.bob-cli-e8.8/README.md) | bob-cli-e8 hood | dismissed |

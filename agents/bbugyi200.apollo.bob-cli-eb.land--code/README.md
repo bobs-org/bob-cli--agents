@@ -22,9 +22,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-eb.1](../../sessions/bbugyi200.apollo.bob-cli-eb.1.md) (session · 3) | bob-cli-eb hood | active 3 |
-| [bob-cli-eb.2](../bbugyi200.apollo.bob-cli-eb.2/README.md) | bob-cli-eb hood | active |
-| [bob-cli-eb.3](../../sessions/bbugyi200.apollo.bob-cli-eb.3.md) (session · 3) | bob-cli-eb hood | active 3 |
-| [bob-cli-eb.4](../../sessions/bbugyi200.apollo.bob-cli-eb.4.md) (session · 9) | bob-cli-eb hood | active 9 |
-| [bob-cli-eb.5](../bbugyi200.apollo.bob-cli-eb.5/README.md) | bob-cli-eb hood | active |
-| [bob-cli-eb.6](../../sessions/bbugyi200.apollo.bob-cli-eb.6.md) (session · 7) | bob-cli-eb hood | active 7 |
+| [bob-cli-eb.1](../../sessions/bbugyi200.apollo.bob-cli-eb.1.md) (session · 3) | bob-cli-eb hood | dismissed 3 |
+| [bob-cli-eb.2](../bbugyi200.apollo.bob-cli-eb.2/README.md) | bob-cli-eb hood | dismissed |
+| [bob-cli-eb.3](../../sessions/bbugyi200.apollo.bob-cli-eb.3.md) (session · 3) | bob-cli-eb hood | dismissed 3 |
+| [bob-cli-eb.4](../../sessions/bbugyi200.apollo.bob-cli-eb.4.md) (session · 9) | bob-cli-eb hood | dismissed 9 |
+| [bob-cli-eb.5](../bbugyi200.apollo.bob-cli-eb.5/README.md) | bob-cli-eb hood | dismissed |
+| [bob-cli-eb.6](../../sessions/bbugyi200.apollo.bob-cli-eb.6.md) (session · 7) | bob-cli-eb hood | dismissed 7 |

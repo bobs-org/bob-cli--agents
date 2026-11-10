@@ -27,11 +27,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`c7e1f62`](https://github.com/bobs-org/bob-cli/commit/c7e1f62a4e79cbeeb8210d4e751c9e40ed78f70c) | docs(capture): fix stale @route+id# completion help after #\<type\> | 2026-10-31 10:23:28 EDT |
+| code | — | `c7e1f62` | docs(capture): fix stale @route+id# completion help after #\<type\> | 2026-10-31 10:23:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ep.1](bbugyi200.apollo.bob-cli-ep.1.md) (session · 9) | bob-cli-ep hood | active 7, completed 2 |
-| [bob-cli-ep.2](../agents/bbugyi200.apollo.bob-cli-ep.2/README.md) | bob-cli-ep hood | active |
+| [bob-cli-ep.1](bbugyi200.apollo.bob-cli-ep.1.md) (session · 9) | bob-cli-ep hood | active 3, completed 2, dismissed 4 |
+| [bob-cli-ep.2](../agents/bbugyi200.apollo.bob-cli-ep.2/README.md) | bob-cli-ep hood | dismissed |

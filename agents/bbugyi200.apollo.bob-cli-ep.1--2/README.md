@@ -22,5 +22,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ep.2](../bbugyi200.apollo.bob-cli-ep.2/README.md) | bob-cli-ep hood | active |
+| [bob-cli-ep.2](../bbugyi200.apollo.bob-cli-ep.2/README.md) | bob-cli-ep hood | dismissed |
 | [bob-cli-ep.land](../../sessions/bbugyi200.apollo.bob-cli-ep.land.md) (session · 3) | bob-cli-ep hood | active 2, completed 1 |

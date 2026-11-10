@@ -22,11 +22,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ee.1](../../sessions/bbugyi200.apollo.bob-cli-ee.1.md) (session · 3) | ancestor | active 3 |
-| [bob-cli-ee.1.1.1](../bbugyi200.apollo.bob-cli-ee.1.1.1/README.md) | bob-cli-ee.1.1 hood | active |
-| [bob-cli-ee.1.1.2](../bbugyi200.apollo.bob-cli-ee.1.1.2/README.md) | bob-cli-ee.1.1 hood | active |
-| [bob-cli-ee.1.1.3](../bbugyi200.apollo.bob-cli-ee.1.1.3/README.md) | bob-cli-ee.1.1 hood | active |
-| [bob-cli-ee.2](../bbugyi200.apollo.bob-cli-ee.2/README.md) | bob-cli-ee hood | active |
-| [bob-cli-ee.3](../../sessions/bbugyi200.apollo.bob-cli-ee.3.md) (session · 13) | bob-cli-ee hood | active 13 |
-| [bob-cli-ee.4](../../sessions/bbugyi200.apollo.bob-cli-ee.4.md) (session · 3) | bob-cli-ee hood | active 2, completed 1 |
-| [bob-cli-ee.land](../../sessions/bbugyi200.apollo.bob-cli-ee.land.md) (session · 3) | bob-cli-ee hood | active 2, completed 1 |
+| [bob-cli-ee.1](../../sessions/bbugyi200.apollo.bob-cli-ee.1.md) (session · 3) | ancestor | dismissed 3 |
+| [bob-cli-ee.1.1.1](../bbugyi200.apollo.bob-cli-ee.1.1.1/README.md) | bob-cli-ee.1.1 hood | dismissed |
+| [bob-cli-ee.1.1.2](../bbugyi200.apollo.bob-cli-ee.1.1.2/README.md) | bob-cli-ee.1.1 hood | dismissed |
+| [bob-cli-ee.1.1.3](../bbugyi200.apollo.bob-cli-ee.1.1.3/README.md) | bob-cli-ee.1.1 hood | dismissed |
+| [bob-cli-ee.2](../bbugyi200.apollo.bob-cli-ee.2/README.md) | bob-cli-ee hood | dismissed |
+| [bob-cli-ee.3](../../sessions/bbugyi200.apollo.bob-cli-ee.3.md) (session · 13) | bob-cli-ee hood | dismissed 13 |
+| [bob-cli-ee.4](../../sessions/bbugyi200.apollo.bob-cli-ee.4.md) (session · 3) | bob-cli-ee hood | completed 1, dismissed 2 |
+| [bob-cli-ee.land](../../sessions/bbugyi200.apollo.bob-cli-ee.land.md) (session · 3) | bob-cli-ee hood | completed 1, dismissed 2 |

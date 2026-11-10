@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ea](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ea/README.md) / [bob-cli-ea.5](../../sessions/bbugyi200.apollo.bob-cli-ea.5.md) / bob-cli-ea.5--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-ea.5--plan` · **State:** active · **Source run:** `run-29dddf13644f541feb042db798fdeb28`
+**Global name:** `bbugyi200.apollo.bob-cli-ea.5--plan` · **State:** dismissed · **Source run:** `run-29dddf13644f541feb042db798fdeb28`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ea
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-ea](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ea/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-30T03:32:17.920232+00:00
+- Timing: 2026-10-29T23:32:17.920232 → 2026-10-29T23:46:05.188228
 - Commits: 0
 
 ## Files
@@ -23,12 +23,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ea.1](../../sessions/bbugyi200.apollo.bob-cli-ea.1.md) (session · 7) | bob-cli-ea hood | active 7 |
-| [bob-cli-ea.2](../../sessions/bbugyi200.apollo.bob-cli-ea.2.md) (session · 9) | bob-cli-ea hood | active 9 |
-| [bob-cli-ea.3](../bbugyi200.apollo.bob-cli-ea.3/README.md) | bob-cli-ea hood | active |
-| [bob-cli-ea.4](../../sessions/bbugyi200.apollo.bob-cli-ea.4.md) (session · 7) | bob-cli-ea hood | active 7 |
-| [bob-cli-ea.6](../bbugyi200.apollo.bob-cli-ea.6/README.md) | bob-cli-ea hood | active |
-| [bob-cli-ea.7](../bbugyi200.apollo.bob-cli-ea.7/README.md) | bob-cli-ea hood | active |
-| [bob-cli-ea.8](../bbugyi200.apollo.bob-cli-ea.8/README.md) | bob-cli-ea hood | active |
-| [bob-cli-ea.9](../bbugyi200.apollo.bob-cli-ea.9/README.md) | bob-cli-ea hood | active |
-| [bob-cli-ea.land](../bbugyi200.apollo.bob-cli-ea.land/README.md) | bob-cli-ea hood | active |
+| [bob-cli-ea.1](../../sessions/bbugyi200.apollo.bob-cli-ea.1.md) (session · 7) | bob-cli-ea hood | dismissed 7 |
+| [bob-cli-ea.2](../../sessions/bbugyi200.apollo.bob-cli-ea.2.md) (session · 9) | bob-cli-ea hood | dismissed 9 |
+| [bob-cli-ea.3](../bbugyi200.apollo.bob-cli-ea.3/README.md) | bob-cli-ea hood | dismissed |
+| [bob-cli-ea.4](../../sessions/bbugyi200.apollo.bob-cli-ea.4.md) (session · 7) | bob-cli-ea hood | dismissed 7 |
+| [bob-cli-ea.6](../bbugyi200.apollo.bob-cli-ea.6/README.md) | bob-cli-ea hood | dismissed |
+| [bob-cli-ea.7](../bbugyi200.apollo.bob-cli-ea.7/README.md) | bob-cli-ea hood | dismissed |
+| [bob-cli-ea.8](../bbugyi200.apollo.bob-cli-ea.8/README.md) | bob-cli-ea hood | dismissed |
+| [bob-cli-ea.9](../bbugyi200.apollo.bob-cli-ea.9/README.md) | bob-cli-ea hood | dismissed |
+| [bob-cli-ea.land](../bbugyi200.apollo.bob-cli-ea.land/README.md) | bob-cli-ea hood | dismissed |

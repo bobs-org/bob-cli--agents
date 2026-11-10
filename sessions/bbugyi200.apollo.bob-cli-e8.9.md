@@ -46,10 +46,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-e8.1](../agents/bbugyi200.apollo.bob-cli-e8.1/README.md) | bob-cli-e8 hood | dismissed |
-| [bob-cli-e8.2](bbugyi200.apollo.bob-cli-e8.2.md) (session · 15) | bob-cli-e8 hood | active 1, dismissed 14 |
+| [bob-cli-e8.2](bbugyi200.apollo.bob-cli-e8.2.md) (session · 15) | bob-cli-e8 hood | dismissed 15 |
 | [bob-cli-e8.3](../agents/bbugyi200.apollo.bob-cli-e8.3/README.md) | bob-cli-e8 hood | dismissed |
 | [bob-cli-e8.4](../agents/bbugyi200.apollo.bob-cli-e8.4/README.md) | bob-cli-e8 hood | dismissed |
-| [bob-cli-e8.5](../agents/bbugyi200.apollo.bob-cli-e8.5/README.md) | bob-cli-e8 hood | active |
+| [bob-cli-e8.5](../agents/bbugyi200.apollo.bob-cli-e8.5/README.md) | bob-cli-e8 hood | dismissed |
 | [bob-cli-e8.6](../agents/bbugyi200.apollo.bob-cli-e8.6/README.md) | bob-cli-e8 hood | dismissed |
 | [bob-cli-e8.7](../agents/bbugyi200.apollo.bob-cli-e8.7/README.md) | bob-cli-e8 hood | dismissed |
 | [bob-cli-e8.8](../agents/bbugyi200.apollo.bob-cli-e8.8/README.md) | bob-cli-e8 hood | dismissed |

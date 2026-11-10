@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-e8
 
-**Global hood:** `bbugyi200.apollo.bob-cli-e8` · **Runs:** 30 · **Sessions:** 2 · **States:** active 2, dismissed 28
+**Global hood:** `bbugyi200.apollo.bob-cli-e8` · **Runs:** 30 · **Sessions:** 2 · **States:** dismissed 30
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -34,5 +34,5 @@
 | [bob-cli-e8.9--1](../../../../../../sessions/bbugyi200.apollo.bob-cli-e8.9.md#member-1) | dismissed | gpt-6-luna / codex | 2026-10-30T09:50:30.885232 → 2026-10-30T09:52:20.218316 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.9--1/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.9--1/prompt.md) |
 | [bob-cli-e8.2--7](../../../../../../sessions/bbugyi200.apollo.bob-cli-e8.2.md#member-7) | dismissed | gpt-6-luna / codex | 2026-10-29T20:01:01.466807 → 2026-10-29T20:07:16.293167 | 1 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.2--7/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.2--7/prompt.md) |
 | [bob-cli-e8.9--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-e8.9.md#member-plan) | dismissed | gpt-6-luna / codex | 2026-10-30T09:43:40.215811 → 2026-10-30T09:48:00.975614 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.9--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.9--plan/prompt.md) |
-| [bob-cli-e8.5](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.5/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-29T22:13:46.690425+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.5/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.5/prompt.md) |
-| [bob-cli-e8.2--5](../../../../../../sessions/bbugyi200.apollo.bob-cli-e8.2.md#member-5) | active | gpt-6-luna / codex | 2026-10-29T23:48:19.514788+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.2--5/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.2--5/prompt.md) |
+| [bob-cli-e8.5](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.5/README.md) | dismissed | muse-spark-1.3-contributor / muse | 2026-10-29T18:13:46.690425 → 2026-10-29T18:45:58.413853 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.5/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.5/prompt.md) |
+| [bob-cli-e8.2--5](../../../../../../sessions/bbugyi200.apollo.bob-cli-e8.2.md#member-5) | dismissed | gpt-6-luna / codex | 2026-10-29T19:48:19.514788 → 2026-10-29T19:51:17.155937 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.2--5/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-e8.2--5/prompt.md) |

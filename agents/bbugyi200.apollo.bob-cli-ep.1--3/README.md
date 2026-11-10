@@ -22,11 +22,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d1dd23e`](https://github.com/bobs-org/bob-cli/commit/d1dd23e26711a9d80d9591c9ae6c1fd0eeaa5ec8) | fix(capture): finish attached #\<type\> forms, refusal hints, and docs | 2026-10-31 09:13:37 EDT |
+| — | `d1dd23e` | fix(capture): finish attached #\<type\> forms, refusal hints, and docs | 2026-10-31 09:13:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ep.2](../bbugyi200.apollo.bob-cli-ep.2/README.md) | bob-cli-ep hood | active |
+| [bob-cli-ep.2](../bbugyi200.apollo.bob-cli-ep.2/README.md) | bob-cli-ep hood | dismissed |
 | [bob-cli-ep.land](../../sessions/bbugyi200.apollo.bob-cli-ep.land.md) (session · 3) | bob-cli-ep hood | active 2, completed 1 |
