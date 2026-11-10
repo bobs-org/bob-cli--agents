@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6a4be02`](https://github.com/bobs-org/bob-cli/commit/6a4be0276cc904afb320d8e2e27bf1a096be2e02) | chore: Add research on running Dataview queries from the CLI | 2026-06-03 12:02:50 EDT |
+| — | `6a4be02` | chore: Add research on running Dataview queries from the CLI | 2026-06-03 12:02:50 EDT |
 
 ## Neighbors
 
@@ -40,7 +40,7 @@
 | [research.01.cld](../bbugyi200.apollo.research.01.cld/README.md) | research hood | dismissed |
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | dismissed |
 | [research.01.gem](../bbugyi200.apollo.research.01.gem/README.md) | research hood | active |
-| [research.01.grk](../bbugyi200.apollo.research.01.grk/README.md) | research hood | active |
+| [research.01.grk](../bbugyi200.apollo.research.01.grk/README.md) | research hood | dismissed |
 | [research.01.image](../bbugyi200.apollo.research.01.image/README.md) | research hood | active |
 | [research.01.linker](../bbugyi200.apollo.research.01.linker/README.md) | research hood | active |
 | [research.01.mus](../bbugyi200.apollo.research.01.mus/README.md) | research hood | dismissed |
@@ -61,10 +61,10 @@
 | [research.04.grk](../bbugyi200.apollo.research.04.grk/README.md) | research hood | active |
 | [research.04.image](../bbugyi200.apollo.research.04.image/README.md) | research hood | active |
 | [research.04.linker](../bbugyi200.apollo.research.04.linker/README.md) | research hood | dismissed |
-| [research.04.mus](../bbugyi200.apollo.research.04.mus/README.md) | research hood | active |
+| [research.04.mus](../bbugyi200.apollo.research.04.mus/README.md) | research hood | dismissed |
 | [research.05.audio](../bbugyi200.apollo.research.05.audio/README.md) | research hood | active |
 | [research.05.cdx](../bbugyi200.apollo.research.05.cdx/README.md) | research hood | active |
-| [research.05.cld](../bbugyi200.apollo.research.05.cld/README.md) | research hood | active |
+| [research.05.cld](../bbugyi200.apollo.research.05.cld/README.md) | research hood | dismissed |
 | [research.05.final](../bbugyi200.apollo.research.05.final/README.md) | research hood | active |
 | [research.05.gem](../bbugyi200.apollo.research.05.gem/README.md) | research hood | dismissed |
 | [research.05.grk](../bbugyi200.apollo.research.05.grk/README.md) | research hood | dismissed |

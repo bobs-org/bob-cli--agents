@@ -21,10 +21,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.07.audio](../bbugyi200.apollo.research.07.audio/README.md) | research.07 hood | active |
+| [research.07.audio](../bbugyi200.apollo.research.07.audio/README.md) | research.07 hood | dismissed |
 | [research.07.cdx](../bbugyi200.apollo.research.07.cdx/README.md) | research.07 hood | active |
 | [research.07.cld](../bbugyi200.apollo.research.07.cld/README.md) | research.07 hood | active |
-| [research.07.final](../bbugyi200.apollo.research.07.final/README.md) | research.07 hood | active |
+| [research.07.final](../bbugyi200.apollo.research.07.final/README.md) | research.07 hood | dismissed |
 | [research.07.gem](../bbugyi200.apollo.research.07.gem/README.md) | research.07 hood | dismissed |
 | [research.07.image](../bbugyi200.apollo.research.07.image/README.md) | research.07 hood | dismissed |
 | [research.07.linker](../bbugyi200.apollo.research.07.linker/README.md) | research.07 hood | active |
@@ -47,7 +47,7 @@
 | [research.01.cld](../bbugyi200.apollo.research.01.cld/README.md) | research hood | dismissed |
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | dismissed |
 | [research.01.gem](../bbugyi200.apollo.research.01.gem/README.md) | research hood | active |
-| [research.01.grk](../bbugyi200.apollo.research.01.grk/README.md) | research hood | active |
+| [research.01.grk](../bbugyi200.apollo.research.01.grk/README.md) | research hood | dismissed |
 | [research.01.image](../bbugyi200.apollo.research.01.image/README.md) | research hood | active |
 | [research.01.linker](../bbugyi200.apollo.research.01.linker/README.md) | research hood | active |
 | [research.01.mus](../bbugyi200.apollo.research.01.mus/README.md) | research hood | dismissed |
@@ -68,10 +68,10 @@
 | [research.04.grk](../bbugyi200.apollo.research.04.grk/README.md) | research hood | active |
 | [research.04.image](../bbugyi200.apollo.research.04.image/README.md) | research hood | active |
 | [research.04.linker](../bbugyi200.apollo.research.04.linker/README.md) | research hood | dismissed |
-| [research.04.mus](../bbugyi200.apollo.research.04.mus/README.md) | research hood | active |
+| [research.04.mus](../bbugyi200.apollo.research.04.mus/README.md) | research hood | dismissed |
 | [research.05.audio](../bbugyi200.apollo.research.05.audio/README.md) | research hood | active |
 | [research.05.cdx](../bbugyi200.apollo.research.05.cdx/README.md) | research hood | active |
-| [research.05.cld](../bbugyi200.apollo.research.05.cld/README.md) | research hood | active |
+| [research.05.cld](../bbugyi200.apollo.research.05.cld/README.md) | research hood | dismissed |
 | [research.05.final](../bbugyi200.apollo.research.05.final/README.md) | research hood | active |
 | [research.05.gem](../bbugyi200.apollo.research.05.gem/README.md) | research hood | dismissed |
 | [research.05.grk](../bbugyi200.apollo.research.05.grk/README.md) | research hood | dismissed |

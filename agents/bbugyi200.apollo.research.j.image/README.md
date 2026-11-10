@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.j.image
 
-**Global name:** `bbugyi200.apollo.research.j.image` · **State:** active · **Source run:** `run-7b15c54dcd72c2cc8468142df92505c8`
+**Global name:** `bbugyi200.apollo.research.j.image` · **State:** dismissed · **Source run:** `run-7b15c54dcd72c2cc8468142df92505c8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-09-28T14:10:08.584119+00:00
+- Timing: 2026-09-28T10:10:08.584119 → 2026-09-28T10:16:50.490419
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`cbda790`](https://github.com/bobs-org/bob-cli/commit/cbda79051422eac7d51c49eac2d7c782fb37f4fc) | docs: add QuickAdd capture infographic | 2026-06-15 16:02:14 EDT |
+| — | `cbda790` | docs: add QuickAdd capture infographic | 2026-06-15 16:02:14 EDT |
 
 ## Neighbors
 
@@ -52,7 +52,7 @@
 | [research.01.cld](../bbugyi200.apollo.research.01.cld/README.md) | research hood | dismissed |
 | [research.01.final](../bbugyi200.apollo.research.01.final/README.md) | research hood | dismissed |
 | [research.01.gem](../bbugyi200.apollo.research.01.gem/README.md) | research hood | active |
-| [research.01.grk](../bbugyi200.apollo.research.01.grk/README.md) | research hood | active |
+| [research.01.grk](../bbugyi200.apollo.research.01.grk/README.md) | research hood | dismissed |
 | [research.01.image](../bbugyi200.apollo.research.01.image/README.md) | research hood | active |
 | [research.01.linker](../bbugyi200.apollo.research.01.linker/README.md) | research hood | active |
 | [research.01.mus](../bbugyi200.apollo.research.01.mus/README.md) | research hood | dismissed |
@@ -73,10 +73,10 @@
 | [research.04.grk](../bbugyi200.apollo.research.04.grk/README.md) | research hood | active |
 | [research.04.image](../bbugyi200.apollo.research.04.image/README.md) | research hood | active |
 | [research.04.linker](../bbugyi200.apollo.research.04.linker/README.md) | research hood | dismissed |
-| [research.04.mus](../bbugyi200.apollo.research.04.mus/README.md) | research hood | active |
+| [research.04.mus](../bbugyi200.apollo.research.04.mus/README.md) | research hood | dismissed |
 | [research.05.audio](../bbugyi200.apollo.research.05.audio/README.md) | research hood | active |
 | [research.05.cdx](../bbugyi200.apollo.research.05.cdx/README.md) | research hood | active |
-| [research.05.cld](../bbugyi200.apollo.research.05.cld/README.md) | research hood | active |
+| [research.05.cld](../bbugyi200.apollo.research.05.cld/README.md) | research hood | dismissed |
 | [research.05.final](../bbugyi200.apollo.research.05.final/README.md) | research hood | active |
 | [research.05.gem](../bbugyi200.apollo.research.05.gem/README.md) | research hood | dismissed |
 | [research.05.grk](../bbugyi200.apollo.research.05.grk/README.md) | research hood | dismissed |
