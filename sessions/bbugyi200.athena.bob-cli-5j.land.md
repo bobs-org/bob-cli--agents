@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-5j` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-5j.land--gate [failed]"]
-  n1["bob-cli-5j.land--plan [active]"]
+  n1["bob-cli-5j.land--plan [dismissed]"]
   n0 --> n1
   n2["bob-cli-5j.land--code [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-5j.land--gate | failed | gpt-6.1-sol / codex | 2026-10-07T20:31:26.497586+00:00 → 2026-10-07T20:32:36.308278+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-5j.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-5j.land--plan | active | gpt-6.1-sol / codex | 2026-10-07T20:10:28.446398+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5j.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-5j.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-5j.land--plan | dismissed | gpt-6.1-sol / codex | 2026-10-07T16:10:28.446398 → 2026-10-07T17:01:45.662840 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-5j.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-5j.land--plan/chat.md) |
 | <a id="member-code"></a>code | bob-cli-5j.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-07T20:32:45.450268+00:00 → 2026-10-07T21:01:45.577241+00:00 | [1](../agents/bbugyi200.athena.bob-cli-5j.land--code/README.md#commits) | — | — |
 
 ## Commits
