@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f11a9f8`](https://github.com/bobs-org/bob-cli/commit/f11a9f81256a10ee812e47c3a203797262e9c381) | docs(plan): update plan surfaces to freshness namespace v4 for tiered walk | 2026-10-01 20:33:20 EDT |
+| — | `f11a9f8` | docs(plan): update plan surfaces to freshness namespace v4 for tiered walk | 2026-10-01 20:33:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-3g.1](../bbugyi200.athena.bob-cli-3g.1/README.md) | bob-cli-3g hood | active |
-| [bob-cli-3g.2](../bbugyi200.athena.bob-cli-3g.2/README.md) | bob-cli-3g hood | active |
-| [bob-cli-3g.3](../bbugyi200.athena.bob-cli-3g.3/README.md) | bob-cli-3g hood | active |
-| [bob-cli-3g.4](../bbugyi200.athena.bob-cli-3g.4/README.md) | bob-cli-3g hood | active |
+| [bob-cli-3g.1](../bbugyi200.athena.bob-cli-3g.1/README.md) | bob-cli-3g hood | dismissed |
+| [bob-cli-3g.2](../bbugyi200.athena.bob-cli-3g.2/README.md) | bob-cli-3g hood | dismissed |
+| [bob-cli-3g.3](../bbugyi200.athena.bob-cli-3g.3/README.md) | bob-cli-3g hood | dismissed |
+| [bob-cli-3g.4](../bbugyi200.athena.bob-cli-3g.4/README.md) | bob-cli-3g hood | dismissed |

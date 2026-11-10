@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0791fb6`](https://github.com/bobs-org/bob-cli/commit/0791fb6ae5d1767110854a9481c6501af8613246) | fix(capture): preserve first-touch order in task block output | 2026-10-02 11:46:35 EDT |
+| — | `0791fb6` | fix(capture): preserve first-touch order in task block output | 2026-10-02 11:46:35 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-3i.1](../bbugyi200.athena.bob-cli-3i.1/README.md) | bob-cli-3i hood | active |
-| [bob-cli-3i.2](../../sessions/bbugyi200.athena.bob-cli-3i.2.md) (session · 3) | bob-cli-3i hood | active 3 |
-| [bob-cli-3i.3](../../sessions/bbugyi200.athena.bob-cli-3i.3.md) (session · 3) | bob-cli-3i hood | active 3 |
+| [bob-cli-3i.1](../bbugyi200.athena.bob-cli-3i.1/README.md) | bob-cli-3i hood | dismissed |
+| [bob-cli-3i.2](../../sessions/bbugyi200.athena.bob-cli-3i.2.md) (session · 3) | bob-cli-3i hood | dismissed 3 |
+| [bob-cli-3i.3](../../sessions/bbugyi200.athena.bob-cli-3i.3.md) (session · 3) | bob-cli-3i hood | dismissed 3 |
