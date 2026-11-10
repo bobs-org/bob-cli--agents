@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1f91e85`](https://github.com/bobs-org/bob-cli/commit/1f91e85301bcc2e32b2deb508145295460a24f91) | docs(freshness): describe off-walk Alt+P footer hints | 2026-11-04 18:21:22 EST |
+| — | `1f91e85` | docs(freshness): describe off-walk Alt+P footer hints | 2026-11-04 18:21:22 EST |

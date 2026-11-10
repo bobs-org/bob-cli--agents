@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`38df2d3`](https://github.com/bobs-org/bob-cli/commit/38df2d394c1768c0a5d15e7899661b73210f0e96) | docs(task-relations): prompt missing block IDs before merge preview | 2026-11-05 09:28:28 EST |
+| — | `38df2d3` | docs(task-relations): prompt missing block IDs before merge preview | 2026-11-05 09:28:28 EST |
