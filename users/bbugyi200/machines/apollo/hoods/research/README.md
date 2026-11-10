@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 869 · **Sessions:** 44 · **States:** active 595, completed 222, dismissed 1, failed 40, waiting 11
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 869 · **Sessions:** 44 · **States:** active 594, completed 223, dismissed 1, failed 40, waiting 11
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -132,7 +132,7 @@
 | [research.16.final](../../../../../../agents/bbugyi200.apollo.research.16.final/README.md) | active | opus / claude | 20261014074326 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.16.final/prompt.md) |
 | [research.3o.mus](../../../../../../agents/bbugyi200.apollo.research.3o.mus/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-08T14:30:52.553966+00:00 → 2026-11-08T14:35:07.469401+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.3o.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.3o.mus/chat.md) |
 | [research.0u.final](../../../../../../agents/bbugyi200.apollo.research.0u.final/README.md) | active | opus / claude | 2026-10-11T09:50:00.147834+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.0u.final/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.0u.final/chat.md) |
-| [research.40.cld](../../../../../../agents/bbugyi200.apollo.research.40.cld/README.md) | active | opus / claude | 2026-11-10T12:19:12.898805+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.40.cld/prompt.md) |
+| [research.40.cld](../../../../../../agents/bbugyi200.apollo.research.40.cld/README.md) | completed | opus / claude | 2026-11-10T12:19:12.898805+00:00 → 2026-11-10T12:29:39.553877+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.40.cld/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.40.cld/chat.md) |
 | [research.38.cld](../../../../../../agents/bbugyi200.apollo.research.38.cld/README.md) | active | opus / claude | 2026-11-04T14:37:23.259802+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.38.cld/prompt.md) |
 | [research.38.final](../../../../../../agents/bbugyi200.apollo.research.38.final/README.md) | active | opus / claude | 2026-11-04T15:00:34.148165+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.38.final/prompt.md) |
 | [research.3r.mus](../../../../../../agents/bbugyi200.apollo.research.3r.mus/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-08T15:30:00.286509+00:00 → 2026-11-08T15:37:48.732987+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.3r.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.3r.mus/chat.md) |

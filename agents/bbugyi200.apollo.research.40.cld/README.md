@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.40.cld
 
-**Global name:** `bbugyi200.apollo.research.40.cld` · **State:** active · **Source run:** `run-22b5433220d326f02823d08209979e37`
+**Global name:** `bbugyi200.apollo.research.40.cld` · **State:** completed · **Source run:** `run-22b5433220d326f02823d08209979e37`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-10T12:19:12.898805+00:00
+- Timing: 2026-11-10T12:19:12.898805+00:00 → 2026-11-10T12:29:39.553877+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/private\_event\_notes\_guide\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261110071830/private\_event\_notes\_guide\_\_cld-fd108c82f69e.md… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/private_event_notes_guide__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110071830/private_event_notes_guide__cld-fd108c82f69e.md
+  ref: file:explicit:bfb7836d4099cfc55b0b2a9a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/private_event_notes_guide__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
