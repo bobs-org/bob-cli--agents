@@ -575,7 +575,7 @@
 | [bob-cli-iz](hoods/bob-cli-iz/README.md) | 8 | 1 | completed 8 |
 | [bob-cli-j](hoods/bob-cli-j/README.md) | 8 | 0 | active 7, waiting 1 |
 | [bob-cli-j4](hoods/bob-cli-j4/README.md) | 16 | 5 | completed 16 |
-| [bob-cli-j5](hoods/bob-cli-j5/README.md) | 33 | 7 | active 2, completed 29, waiting 2 |
+| [bob-cli-j5](hoods/bob-cli-j5/README.md) | 33 | 7 | active 2, completed 30, waiting 1 |
 | [bob-cli-j6](hoods/bob-cli-j6/README.md) | 11 | 2 | completed 8, failed 3 |
 | [bob-cli-je](hoods/bob-cli-je/README.md) | 10 | 2 | completed 8, failed 2 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 3 | 0 | active 3 |
