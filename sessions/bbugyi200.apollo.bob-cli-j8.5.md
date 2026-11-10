@@ -9,9 +9,9 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-j8` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-j8.5--gate [completed]"]
-  n1["bob-cli-j8.5--plan [active]"]
+  n1["bob-cli-j8.5--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-j8.5--code [active]"]
+  n2["bob-cli-j8.5--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-j8.5--gate | completed | gpt-6-astra / codex | 2026-11-10T05:28:34.904293+00:00 → 2026-11-10T05:28:45.273471+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.5--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-j8.5--plan | active | gpt-6-astra / codex | 2026-11-10T05:21:41.052238+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.5--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.5--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-j8.5--code | active | muse-spark-1.3-contributor / muse | 2026-11-10T05:29:07.028703+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-j8.5--plan | completed | gpt-6-astra / codex | 2026-11-10T05:21:41.052238+00:00 → 2026-11-10T07:31:50.028647+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.5--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.5--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-j8.5--code | completed | muse-spark-1.3-contributor / muse | 2026-11-10T05:29:07.028703+00:00 → 2026-11-10T07:31:50.028647+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-j8.5--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.5--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`93cf930`](https://github.com/bobs-org/bob-cli/commit/93cf930ca2a8221bdbe4b1dad602ef49669f3f18) | feat(capture)!: complete notebook capture assistance | 2026-11-10 02:30:29 EST |
 
 ## Neighbors
 
