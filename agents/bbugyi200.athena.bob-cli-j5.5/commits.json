@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-5402ffc8cd08ce97c9a75231dae9cf4c"}
+{"commits":[{"committed_at":1794287023,"sha":"15a79998ebee433dd2bd3dc76b1e3dc4c5ba0ab1","subject":"feat(archive)!: keep window and group archived closures by month"}],"schema_version":2,"source_run_id":"run-5402ffc8cd08ce97c9a75231dae9cf4c"}
