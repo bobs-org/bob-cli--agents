@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`084a285`](https://github.com/bobs-org/bob-cli/commit/084a2852b121a153852a5c045b3b5ac5385ea89c) | feat(themes): scope Recent to configured themes and warn on unconfigured names | 2026-10-28 09:49:09 EDT |
+| — | `084a285` | feat(themes): scope Recent to configured themes and warn on unconfigured names | 2026-10-28 09:49:09 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-dk.3](../bbugyi200.athena.bob-cli-dk.3/README.md) | bob-cli-dk hood | completed |
 | [bob-cli-dk.4](../bbugyi200.athena.bob-cli-dk.4/README.md) | bob-cli-dk hood | completed |
 | [bob-cli-dk.5](../bbugyi200.athena.bob-cli-dk.5/README.md) | bob-cli-dk hood | completed |
-| [bob-cli-dk.land](../bbugyi200.athena.bob-cli-dk.land/README.md) | bob-cli-dk hood | active |
+| [bob-cli-dk.land](../bbugyi200.athena.bob-cli-dk.land/README.md) | bob-cli-dk hood | dismissed |

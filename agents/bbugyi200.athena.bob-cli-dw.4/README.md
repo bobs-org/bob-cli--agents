@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3281de1`](https://github.com/bobs-org/bob-cli/commit/3281de1fc2efe47dc987db741772e7436e959805) | test(capture-related): relax paired perf ceiling | 2026-10-28 15:50:07 EDT |
+| — | `3281de1` | test(capture-related): relax paired perf ceiling | 2026-10-28 15:50:07 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-dw.2](../bbugyi200.athena.bob-cli-dw.2/README.md) | bob-cli-dw hood | completed |
 | [bob-cli-dw.3](../../sessions/bbugyi200.athena.bob-cli-dw.3.md) (session · 3) | bob-cli-dw hood | completed 2, failed 1 |
 | [bob-cli-dw.5](../../sessions/bbugyi200.athena.bob-cli-dw.5.md) (session · 3) | bob-cli-dw hood | completed 2, failed 1 |
-| [bob-cli-dw.land](../bbugyi200.athena.bob-cli-dw.land/README.md) | bob-cli-dw hood | active |
+| [bob-cli-dw.land](../bbugyi200.athena.bob-cli-dw.land/README.md) | bob-cli-dw hood | dismissed |

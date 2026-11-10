@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e998ee4`](https://github.com/bobs-org/bob-cli/commit/e998ee4e649b7673c47f57fd599113ead51e583c) | docs(projects): distinguish cancel-row prune from reconcile cleanup | 2026-10-28 16:06:15 EDT |
+| — | `e998ee4` | docs(projects): distinguish cancel-row prune from reconcile cleanup | 2026-10-28 16:06:15 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-dw.2](../bbugyi200.athena.bob-cli-dw.2/README.md) | bob-cli-dw hood | completed |
 | [bob-cli-dw.3](../../sessions/bbugyi200.athena.bob-cli-dw.3.md) (session · 3) | bob-cli-dw hood | completed 2, failed 1 |
 | [bob-cli-dw.4](../bbugyi200.athena.bob-cli-dw.4/README.md) | bob-cli-dw hood | completed |
-| [bob-cli-dw.land](../bbugyi200.athena.bob-cli-dw.land/README.md) | bob-cli-dw hood | active |
+| [bob-cli-dw.land](../bbugyi200.athena.bob-cli-dw.land/README.md) | bob-cli-dw hood | dismissed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-dk](../../users/bbugyi200/machines/athena/hoods/bob-cli-dk/README.md) / bob-cli-dk.land
 
-**Global name:** `bbugyi200.athena.bob-cli-dk.land` · **State:** active · **Source run:** `run-8bd797b4e7c348862757c8dbb3291aaa`
+**Global name:** `bbugyi200.athena.bob-cli-dk.land` · **State:** dismissed · **Source run:** `run-8bd797b4e7c348862757c8dbb3291aaa`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-dk
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-dk](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-dk/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-28T14:39:47.593450+00:00
+- Timing: 2026-10-28T10:39:47.593450 → 2026-10-28T11:01:11.008799
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8852f7b`](https://github.com/bobs-org/bob-cli/commit/8852f7bfa1394b001152e477bfa16a1ea7de5b11) | fix(themes): set config\_warning in the test-only Catalog::for\_suggest | 2026-10-28 10:57:52 EDT |
+| — | `8852f7b` | fix(themes): set config\_warning in the test-only Catalog::for\_suggest | 2026-10-28 10:57:52 EDT |
 
 ## Neighbors
 

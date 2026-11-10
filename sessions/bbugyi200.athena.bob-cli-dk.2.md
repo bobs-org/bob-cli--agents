@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`084a285`](https://github.com/bobs-org/bob-cli/commit/084a2852b121a153852a5c045b3b5ac5385ea89c) | feat(themes): scope Recent to configured themes and warn on unconfigured names | 2026-10-28 09:49:09 EDT |
+| 2 | — | `084a285` | feat(themes): scope Recent to configured themes and warn on unconfigured names | 2026-10-28 09:49:09 EDT |
 
 ## Neighbors
 
@@ -43,4 +43,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-dk.3](../agents/bbugyi200.athena.bob-cli-dk.3/README.md) | bob-cli-dk hood | completed |
 | [bob-cli-dk.4](../agents/bbugyi200.athena.bob-cli-dk.4/README.md) | bob-cli-dk hood | completed |
 | [bob-cli-dk.5](../agents/bbugyi200.athena.bob-cli-dk.5/README.md) | bob-cli-dk hood | completed |
-| [bob-cli-dk.land](../agents/bbugyi200.athena.bob-cli-dk.land/README.md) | bob-cli-dk hood | active |
+| [bob-cli-dk.land](../agents/bbugyi200.athena.bob-cli-dk.land/README.md) | bob-cli-dk hood | dismissed |

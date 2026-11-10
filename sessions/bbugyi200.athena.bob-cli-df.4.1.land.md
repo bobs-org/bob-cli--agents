@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-df` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-df.4.1.land--gate [dismissed]"]
-  n1["bob-cli-df.4.1.land--plan [active]"]
+  n1["bob-cli-df.4.1.land--plan [dismissed]"]
   n0 --> n1
   n2["bob-cli-df.4.1.land--code [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-df.4.1.land--gate | dismissed | gpt-6-astra / codex | 2026-10-27T23:57:52.862323 → 2026-10-27T23:58:31 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-df.4.1.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-df.4.1.land--plan | active | gpt-6-astra / codex | 2026-10-28T03:41:37.196302+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-df.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-df.4.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-df.4.1.land--plan | dismissed | gpt-6-astra / codex | 2026-10-27T23:41:37.196302 → 2026-10-28T00:43:01.674901 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-df.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-df.4.1.land--plan/chat.md) |
 | <a id="member-code"></a>code | bob-cli-df.4.1.land--code | completed | grok-4.6 / grok | 2026-10-28T03:59:29.028412+00:00 → 2026-10-28T04:43:01.649158+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-df.4.1.land--code/chat.md) |
 
 ## Variables
@@ -48,17 +48,17 @@ Values are truncated for display; see each member's agent meta.json for the full
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-df.4](bbugyi200.athena.bob-cli-df.4.md) (session · 3) | ancestor | failed 3 |
-| [bob-cli-df.4.1.1](bbugyi200.athena.bob-cli-df.4.1.1.md) (session · 3) | bob-cli-df.4.1 hood | active 1, dismissed 2 |
-| [bob-cli-df.4.1.2](bbugyi200.athena.bob-cli-df.4.1.2.md) (session · 3) | bob-cli-df.4.1 hood | active 2, dismissed 1 |
+| [bob-cli-df.4.1.1](bbugyi200.athena.bob-cli-df.4.1.1.md) (session · 3) | bob-cli-df.4.1 hood | dismissed 3 |
+| [bob-cli-df.4.1.2](bbugyi200.athena.bob-cli-df.4.1.2.md) (session · 3) | bob-cli-df.4.1 hood | dismissed 3 |
 | [bob-cli-df.4.1.3](../agents/bbugyi200.athena.bob-cli-df.4.1.3/README.md) | bob-cli-df.4.1 hood | dismissed |
-| [bob-cli-df.4.1.4](bbugyi200.athena.bob-cli-df.4.1.4.md) (session · 3) | bob-cli-df.4.1 hood | active 1, dismissed 2 |
+| [bob-cli-df.4.1.4](bbugyi200.athena.bob-cli-df.4.1.4.md) (session · 3) | bob-cli-df.4.1 hood | dismissed 3 |
 | [bob-cli-df.1](../agents/bbugyi200.athena.bob-cli-df.1/README.md) | bob-cli-df hood | completed |
 | [bob-cli-df.2](bbugyi200.athena.bob-cli-df.2.md) (session · 3) | bob-cli-df hood | failed 3 |
-| [bob-cli-df.2.1.1](../agents/bbugyi200.athena.bob-cli-df.2.1.1/README.md) | bob-cli-df hood | active |
-| [bob-cli-df.2.1.2](../agents/bbugyi200.athena.bob-cli-df.2.1.2/README.md) | bob-cli-df hood | active |
-| [bob-cli-df.2.1.3](bbugyi200.athena.bob-cli-df.2.1.3.md) (session · 9) | bob-cli-df hood | active 5, dismissed 4 |
-| [bob-cli-df.2.1.4.1](bbugyi200.athena.bob-cli-df.2.1.4.1.md) (session · 11) | bob-cli-df hood | active 8, dismissed 3 |
-| [bob-cli-df.2.1.4.2](bbugyi200.athena.bob-cli-df.2.1.4.2.md) (session · 3) | bob-cli-df hood | active 2, dismissed 1 |
+| [bob-cli-df.2.1.1](../agents/bbugyi200.athena.bob-cli-df.2.1.1/README.md) | bob-cli-df hood | dismissed |
+| [bob-cli-df.2.1.2](../agents/bbugyi200.athena.bob-cli-df.2.1.2/README.md) | bob-cli-df hood | dismissed |
+| [bob-cli-df.2.1.3](bbugyi200.athena.bob-cli-df.2.1.3.md) (session · 9) | bob-cli-df hood | dismissed 9 |
+| [bob-cli-df.2.1.4.1](bbugyi200.athena.bob-cli-df.2.1.4.1.md) (session · 11) | bob-cli-df hood | dismissed 11 |
+| [bob-cli-df.2.1.4.2](bbugyi200.athena.bob-cli-df.2.1.4.2.md) (session · 3) | bob-cli-df hood | dismissed 3 |
 | [bob-cli-df.2.1.4.3.1](../agents/bbugyi200.athena.bob-cli-df.2.1.4.3.1/README.md) | bob-cli-df hood | completed |
 | [bob-cli-df.2.1.4.3.2](bbugyi200.athena.bob-cli-df.2.1.4.3.2.md) (session · 5) | bob-cli-df hood | completed 3, failed 2 |
 | [bob-cli-df.2.1.4.3.3.1](bbugyi200.athena.bob-cli-df.2.1.4.3.3.1.md) (session · 7) | bob-cli-df hood | completed 4, failed 3 |
@@ -66,7 +66,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-df.2.1.4.3.3.land](bbugyi200.athena.bob-cli-df.2.1.4.3.3.land.md) (session · 7) | bob-cli-df hood | completed 4, failed 3 |
 | [bob-cli-df.2.1.4.3.3.land](../agents/bbugyi200.athena.bob-cli-df.2.1.4.3.3.land/README.md) | bob-cli-df hood | waiting |
 | [bob-cli-df.2.1.4.3.land](../agents/bbugyi200.athena.bob-cli-df.2.1.4.3.land/README.md) | bob-cli-df hood | completed |
-| [bob-cli-df.2.1.4.land](bbugyi200.athena.bob-cli-df.2.1.4.land.md) (session · 3) | bob-cli-df hood | active 2, dismissed 1 |
-| [bob-cli-df.2.1.land](bbugyi200.athena.bob-cli-df.2.1.land.md) (session · 3) | bob-cli-df hood | active 2, dismissed 1 |
+| [bob-cli-df.2.1.4.land](bbugyi200.athena.bob-cli-df.2.1.4.land.md) (session · 3) | bob-cli-df hood | dismissed 3 |
+| [bob-cli-df.2.1.land](bbugyi200.athena.bob-cli-df.2.1.land.md) (session · 3) | bob-cli-df hood | dismissed 3 |
 | [bob-cli-df.3](../agents/bbugyi200.athena.bob-cli-df.3/README.md) | bob-cli-df hood | completed |
 | [bob-cli-df.land](bbugyi200.athena.bob-cli-df.land.md) (session · 5) | bob-cli-df hood | failed 5 |

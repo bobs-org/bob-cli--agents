@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`e998ee4`](https://github.com/bobs-org/bob-cli/commit/e998ee4e649b7673c47f57fd599113ead51e583c) | docs(projects): distinguish cancel-row prune from reconcile cleanup | 2026-10-28 16:06:15 EDT |
+| 1 | — | `e998ee4` | docs(projects): distinguish cancel-row prune from reconcile cleanup | 2026-10-28 16:06:15 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-dw.2](../agents/bbugyi200.athena.bob-cli-dw.2/README.md) | bob-cli-dw hood | completed |
 | [bob-cli-dw.3](bbugyi200.athena.bob-cli-dw.3.md) (session · 3) | bob-cli-dw hood | completed 2, failed 1 |
 | [bob-cli-dw.4](../agents/bbugyi200.athena.bob-cli-dw.4/README.md) | bob-cli-dw hood | completed |
-| [bob-cli-dw.land](../agents/bbugyi200.athena.bob-cli-dw.land/README.md) | bob-cli-dw hood | active |
+| [bob-cli-dw.land](../agents/bbugyi200.athena.bob-cli-dw.land/README.md) | bob-cli-dw hood | dismissed |

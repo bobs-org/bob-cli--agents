@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ec018a5`](https://github.com/bobs-org/bob-cli/commit/ec018a5bcf5f7f9e48a52f81a40de7050145be70) | feat(themes): configured themes vocabulary, config-first hue rule, and catalog reports | 2026-10-28 08:19:13 EDT |
+| — | `ec018a5` | feat(themes): configured themes vocabulary, config-first hue rule, and catalog reports | 2026-10-28 08:19:13 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-dk.3](../bbugyi200.athena.bob-cli-dk.3/README.md) | bob-cli-dk hood | completed |
 | [bob-cli-dk.4](../bbugyi200.athena.bob-cli-dk.4/README.md) | bob-cli-dk hood | completed |
 | [bob-cli-dk.5](../bbugyi200.athena.bob-cli-dk.5/README.md) | bob-cli-dk hood | completed |
-| [bob-cli-dk.land](../bbugyi200.athena.bob-cli-dk.land/README.md) | bob-cli-dk hood | active |
+| [bob-cli-dk.land](../bbugyi200.athena.bob-cli-dk.land/README.md) | bob-cli-dk hood | dismissed |
