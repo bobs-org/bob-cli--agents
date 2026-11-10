@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.41.cdx
 
-**Global name:** `bbugyi200.apollo.research.41.cdx` · **State:** active · **Source run:** `run-e9628366a91937ac259dcc9f3fdaf494`
+**Global name:** `bbugyi200.apollo.research.41.cdx` · **State:** completed · **Source run:** `run-e9628366a91937ac259dcc9f3fdaf494`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-10T15:00:01.455316+00:00
+- Timing: 2026-11-10T15:00:01.455316+00:00 → 2026-11-10T15:16:05.486527+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/period\_stats\_strips\_type\_timeline\_and\_root\_ranking\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261110095915/period\_stats\_strips\_t… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/period_stats_strips_type_timeline_and_root_ranking__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110095915/period_stats_strips_type_timeline_and_root_ranking__cdx-30e699cd5ed5.md
+  ref: file:explicit:aad6f05fed03894549ed75ed
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/period_stats_strips_type_timeline_and_root_ranking__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,8 +42,8 @@
 |---|---|---|
 | [research.41.cld](../bbugyi200.apollo.research.41.cld/README.md) | research.41 hood | active |
 | [research.41.final](../bbugyi200.apollo.research.41.final/README.md) | research.41 hood | waiting |
-| [research.41.gem](../bbugyi200.apollo.research.41.gem/README.md) | research.41 hood | active |
-| [research.41.grk](../bbugyi200.apollo.research.41.grk/README.md) | research.41 hood | active |
+| [research.41.gem](../bbugyi200.apollo.research.41.gem/README.md) | research.41 hood | completed |
+| [research.41.grk](../bbugyi200.apollo.research.41.grk/README.md) | research.41 hood | completed |
 | [research.41.image](../bbugyi200.apollo.research.41.image/README.md) | research.41 hood | waiting |
 | [research.41.linker](../bbugyi200.apollo.research.41.linker/README.md) | research.41 hood | waiting |
 | [research.41.mus](../bbugyi200.apollo.research.41.mus/README.md) | research.41 hood | completed |
