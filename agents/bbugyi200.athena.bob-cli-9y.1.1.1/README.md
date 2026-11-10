@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bfca341`](https://github.com/bobs-org/bob-cli/commit/bfca3419c3f5c4caa9a609c6e4f64a2dc6a86111) | feat(task-move): add snapshot-only task-move planner | 2026-10-19 17:10:56 EDT |
+| — | `bfca341` | feat(task-move): add snapshot-only task-move planner | 2026-10-19 17:10:56 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-9y.1.1.land](../../sessions/bbugyi200.athena.bob-cli-9y.1.1.land.md) (session · 3) | bob-cli-9y.1.1 hood | completed 2, failed 1 |
 | [bob-cli-9y.2](../bbugyi200.athena.bob-cli-9y.2/README.md) | bob-cli-9y hood | completed |
 | [bob-cli-9y.3](../bbugyi200.athena.bob-cli-9y.3/README.md) | bob-cli-9y hood | completed |
-| [bob-cli-9y.land](../bbugyi200.athena.bob-cli-9y.land/README.md) | bob-cli-9y hood | active |
+| [bob-cli-9y.land](../bbugyi200.athena.bob-cli-9y.land/README.md) | bob-cli-9y hood | dismissed |

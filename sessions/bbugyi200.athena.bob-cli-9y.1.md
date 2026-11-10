@@ -32,4 +32,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-9y.1.1.land](bbugyi200.athena.bob-cli-9y.1.1.land.md) (session · 3) | descendant | completed 2, failed 1 |
 | [bob-cli-9y.2](../agents/bbugyi200.athena.bob-cli-9y.2/README.md) | bob-cli-9y hood | completed |
 | [bob-cli-9y.3](../agents/bbugyi200.athena.bob-cli-9y.3/README.md) | bob-cli-9y hood | completed |
-| [bob-cli-9y.land](../agents/bbugyi200.athena.bob-cli-9y.land/README.md) | bob-cli-9y hood | active |
+| [bob-cli-9y.land](../agents/bbugyi200.athena.bob-cli-9y.land/README.md) | bob-cli-9y hood | dismissed |

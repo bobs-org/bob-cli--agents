@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`24f4395`](https://github.com/bobs-org/bob-cli/commit/24f43958e8b9ba5d05b5210298a8ac8ad2bf26f5) | fix(task-move): repair landing gaps for selectors, identities, and sync | 2026-10-19 19:26:33 EDT |
+| — | `24f4395` | fix(task-move): repair landing gaps for selectors, identities, and sync | 2026-10-19 19:26:33 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-9y.1.1.2](../../sessions/bbugyi200.athena.bob-cli-9y.1.1.2.md) (session · 7) | bob-cli-9y.1.1 hood | completed 4, failed 3 |
 | [bob-cli-9y.2](../bbugyi200.athena.bob-cli-9y.2/README.md) | bob-cli-9y hood | completed |
 | [bob-cli-9y.3](../bbugyi200.athena.bob-cli-9y.3/README.md) | bob-cli-9y hood | completed |
-| [bob-cli-9y.land](../bbugyi200.athena.bob-cli-9y.land/README.md) | bob-cli-9y hood | active |
+| [bob-cli-9y.land](../bbugyi200.athena.bob-cli-9y.land/README.md) | bob-cli-9y hood | dismissed |

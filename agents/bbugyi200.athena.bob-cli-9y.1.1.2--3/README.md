@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8b0f378`](https://github.com/bobs-org/bob-cli/commit/8b0f3782b0eeb994adce908f78876ea943cd9bdc) | feat(task-move): expose guarded task move command | 2026-10-19 18:17:11 EDT |
+| — | `8b0f378` | feat(task-move): expose guarded task move command | 2026-10-19 18:17:11 EDT |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-9y.1.1.land](../../sessions/bbugyi200.athena.bob-cli-9y.1.1.land.md) (session · 3) | bob-cli-9y.1.1 hood | completed 2, failed 1 |
 | [bob-cli-9y.2](../bbugyi200.athena.bob-cli-9y.2/README.md) | bob-cli-9y hood | completed |
 | [bob-cli-9y.3](../bbugyi200.athena.bob-cli-9y.3/README.md) | bob-cli-9y hood | completed |
-| [bob-cli-9y.land](../bbugyi200.athena.bob-cli-9y.land/README.md) | bob-cli-9y hood | active |
+| [bob-cli-9y.land](../bbugyi200.athena.bob-cli-9y.land/README.md) | bob-cli-9y hood | dismissed |

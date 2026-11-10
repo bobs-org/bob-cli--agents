@@ -41,4 +41,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-a7.1](../agents/bbugyi200.athena.bob-cli-a7.1/README.md) | bob-cli-a7 hood | completed |
 | [bob-cli-a7.3](../agents/bbugyi200.athena.bob-cli-a7.3/README.md) | bob-cli-a7 hood | completed |
-| [bob-cli-a7.land](bbugyi200.athena.bob-cli-a7.land.md) (session · 3) | bob-cli-a7 hood | active 1, completed 1, failed 1 |
+| [bob-cli-a7.land](bbugyi200.athena.bob-cli-a7.land.md) (session · 3) | bob-cli-a7 hood | completed 1, dismissed 1, failed 1 |
