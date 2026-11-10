@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-7b](../../users/bbugyi200/machines/apollo/hoods/bob-cli-7b/README.md) / [bob-cli-7b.land](../../sessions/bbugyi200.apollo.bob-cli-7b.land.md) / bob-cli-7b.land--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-7b.land--plan` · **State:** active · **Source run:** `run-a809d6ed36f648e1fe6533a27d1cec28`
+**Global name:** `bbugyi200.apollo.bob-cli-7b.land--plan` · **State:** dismissed · **Source run:** `run-a809d6ed36f648e1fe6533a27d1cec28`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-7b
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-7b](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-7b/README.md)
 - Model: grok-4.7
 - Provider: grok
-- Timing: 2026-10-13T14:49:22.006965+00:00
+- Timing: 2026-10-13T10:49:22.006965 → 2026-10-13T11:11:22.112556
 - Commits: 0
 
 ## Files

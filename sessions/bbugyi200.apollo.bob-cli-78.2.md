@@ -9,9 +9,9 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-78` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-78.2--plan [dismissed]"]
-  n1["bob-cli-78.2--mon [active]"]
+  n1["bob-cli-78.2--mon [dismissed]"]
   n0 --> n1
-  n2["bob-cli-78.2--1 [active]"]
+  n2["bob-cli-78.2--1 [dismissed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-78.2--plan | dismissed | gpt-6-luna / codex | 2026-10-13T03:27:03.197495 → 2026-10-13T04:05:05.019529 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-78.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-78.2--plan/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-78.2--mon | active | gpt-6-luna / codex | 2026-10-13T08:04:28.586879+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-78.2--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-78.2--1 | active | gpt-6-luna / codex | 2026-10-13T08:16:06.794278+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-78.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-78.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-78.2--1/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-78.2--mon | dismissed | gpt-6-luna / codex | 2026-10-13T04:04:28.586879 → 2026-10-13T04:14:58.154559 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-78.2--mon/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-78.2--1 | dismissed | gpt-6-luna / codex | 2026-10-13T04:16:06.794278 → 2026-10-13T04:55:15.751191 | [1](../agents/bbugyi200.apollo.bob-cli-78.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-78.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-78.2--1/chat.md) |
 
 ## Commits
 
@@ -39,6 +39,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-78.5](../agents/bbugyi200.apollo.bob-cli-78.5/README.md) | bob-cli-78 hood | dismissed |
 | [bob-cli-78.6](../agents/bbugyi200.apollo.bob-cli-78.6/README.md) | bob-cli-78 hood | active |
 | [bob-cli-78.7](../agents/bbugyi200.apollo.bob-cli-78.7/README.md) | bob-cli-78 hood | dismissed |
-| [bob-cli-78.8](bbugyi200.apollo.bob-cli-78.8.md) (session · 3) | bob-cli-78 hood | active 1, dismissed 2 |
+| [bob-cli-78.8](bbugyi200.apollo.bob-cli-78.8.md) (session · 3) | bob-cli-78 hood | dismissed 3 |
 | [bob-cli-78.land](bbugyi200.apollo.bob-cli-78.land.md) (session · 7) | bob-cli-78 hood | active 1, completed 1, dismissed 4, failed 1 |
 | [bob-cli-78.land](../agents/bbugyi200.apollo.bob-cli-78.land/README.md) | bob-cli-78 hood | dismissed |

@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["bob-cli-7c.2--mon [failed]"]
   n0 --> n4
-  n5["bob-cli-7c.2--2 [active]"]
+  n5["bob-cli-7c.2--2 [dismissed]"]
   n0 --> n5
   n6["bob-cli-7c.2--code [completed]"]
   n0 --> n6
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | bob-cli-7c.2--mon-0 | failed | grok-4.6 / grok | 2026-10-13T15:57:19.077892+00:00 → 2026-10-13T16:01:58.376404+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-7c.2--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-7c.2--plan | completed | grok-4.7 / grok | 2026-10-13T14:38:16.382920+00:00 → 2026-10-13T15:37:44.854082+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-7c.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-7c.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-7c.2--mon | failed | grok-4.6 / grok | 2026-10-13T15:36:56.561080+00:00 → 2026-10-13T15:41:11.562347+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-7c.2--mon/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-7c.2--2 | active | grok-4.6 / grok | 2026-10-13T16:01:59.038822+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-7c.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-7c.2--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-7c.2--2 | dismissed | grok-4.6 / grok | 2026-10-13T12:01:59.038822 → 2026-10-13T12:10:01.472603 | [1](../agents/bbugyi200.apollo.bob-cli-7c.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-7c.2--2/prompt.md) | — |
 | <a id="member-code"></a>code | bob-cli-7c.2--code | completed | grok-4.6 / grok | 2026-10-13T14:49:25.864070+00:00 → 2026-10-13T15:37:44.854082+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-7c.2--code/chat.md) |
 
 ## Commits
@@ -46,10 +46,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-7c.1](bbugyi200.apollo.bob-cli-7c.1.md) (session · 3) | bob-cli-7c hood | completed 2, failed 1 |
-| [bob-cli-7c.3](../agents/bbugyi200.apollo.bob-cli-7c.3/README.md) | bob-cli-7c hood | waiting |
+| [bob-cli-7c.3](../agents/bbugyi200.apollo.bob-cli-7c.3/README.md) | bob-cli-7c hood | dismissed |
 | [bob-cli-7c.4](bbugyi200.apollo.bob-cli-7c.4.md) (session · 3) | bob-cli-7c hood | completed 2, failed 1 |
 | [bob-cli-7c.5](bbugyi200.apollo.bob-cli-7c.5.md) (session · 5) | bob-cli-7c hood | completed 3, failed 2 |
 | [bob-cli-7c.6](../agents/bbugyi200.apollo.bob-cli-7c.6/README.md) | bob-cli-7c hood | completed |
 | [bob-cli-7c.7](../agents/bbugyi200.apollo.bob-cli-7c.7/README.md) | bob-cli-7c hood | waiting |
-| [bob-cli-7c.8](../agents/bbugyi200.apollo.bob-cli-7c.8/README.md) | bob-cli-7c hood | waiting |
-| [bob-cli-7c.land](../agents/bbugyi200.apollo.bob-cli-7c.land/README.md) | bob-cli-7c hood | waiting |
+| [bob-cli-7c.8](../agents/bbugyi200.apollo.bob-cli-7c.8/README.md) | bob-cli-7c hood | dismissed |
+| [bob-cli-7c.land](../agents/bbugyi200.apollo.bob-cli-7c.land/README.md) | bob-cli-7c hood | dismissed |
