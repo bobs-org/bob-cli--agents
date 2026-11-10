@@ -84,7 +84,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-j8.3.1.2](../bbugyi200.apollo.bob-cli-j8.3.1.2/README.md) | bob-cli-j8 hood | completed |
 | [bob-cli-j8.3.1.3](../bbugyi200.apollo.bob-cli-j8.3.1.3/README.md) | bob-cli-j8 hood | completed |
 | [bob-cli-j8.3.1.4](../bbugyi200.apollo.bob-cli-j8.3.1.4/README.md) | bob-cli-j8 hood | completed |
-| [bob-cli-j8.3.1.land](../bbugyi200.apollo.bob-cli-j8.3.1.land/README.md) | bob-cli-j8 hood | waiting |
+| [bob-cli-j8.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-j8.3.1.land.md) (session · 3) | bob-cli-j8 hood | active 2, completed 1 |
 | [bob-cli-j8.4](../bbugyi200.apollo.bob-cli-j8.4/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.5](../bbugyi200.apollo.bob-cli-j8.5/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.7](../bbugyi200.apollo.bob-cli-j8.7/README.md) | bob-cli-j8 hood | completed |
