@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.40.image
 
-**Global name:** `bbugyi200.apollo.research.40.image` · **State:** waiting · **Source run:** `run-2cf80822798f0c542bfdbe30534e557b`
+**Global name:** `bbugyi200.apollo.research.40.image` · **State:** completed · **Source run:** `run-2cf80822798f0c542bfdbe30534e557b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,61 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261110071835
+- Timing: 2026-11-10T12:51:43.898000+00:00 → 2026-11-10T13:00:45.754294+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/private\_event\_notes\_how\_to/private\_event\_notes\_how\_to\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261110071835/private\_ev… |
+| `diagrams` | {considered: 19, count: 0, reason: "C01 — Can this guide be published at the research snapshot? Rejected: the shipped/in-progress table and publication checklist already express the status and gate.\\… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/private_event_notes_how_to/private_event_notes_how_to_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110071835/private_event_notes_how_to_infographic-bc182fc547f5.png
+  ref: file:explicit:a1f72a733c9989129663fce9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/private_event_notes_how_to/private_event_notes_how_to_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 19
+count: 0
+reason: |
+  C01 — Can this guide be published at the research snapshot? Rejected: the shipped/in-progress table and publication checklist already express the status and gate.
+  C02 — What stays private in Bob, and what remains Google's? Rejected: two short statements completely describe private storage and Google ownership; a diagram adds no missing mechanism.
+  C03 — What do I need before writing a note? Rejected: the prerequisite list already names everything needed; no source-supported dependency arrows between its items.
+  C04 — How do I prevent the shell from dropping or splitting my note? Rejected: the quoting callout and disagreement-table row explicitly show both failure cases and the remedy.
+  C05 — How do the signs change the time reserved around a meeting? Rejected: the time rail, grammar table, and sign callout already show the before/after relationship.
+  C06 — Which note wins, and what does clearing one date reveal? Rejected: the scope/clear paragraphs form a short precedence chain, and the full root order is already in the verdict table.
+  C07 — When does a saved note reach its Event Task? Rejected: the existing Mermaid diagram and status table already express every landing branch.
+  C08 — Which task parts can a later note still update after manual edits? Rejected: the compact manual-edit rule in accuracy item 5 already enumerates the shared time/title/badges condition and independent root/bullet protections; the scoped buffer/clock gate is fully explained in one sentence. A larger diagram would only expand that short rule into boxes.
+  C09 — How do I select, save, clear, and undo a note on the Mac? Rejected: the mode entry and key list already state the interaction; a full state lifecycle would invent transitions not supplied in the report.
+  C10 — How can my planning lines survive organizer updates? Rejected: one paragraph and one command completely explain copying vulnerable description lines into private notes; only a short linear chain remains.
+  C11 — Which phone path can add routing, and which can add full notes? Rejected: SSH for notes versus colour for routing is a two-option prose comparison, with no deeper branching supported.
+  C12 — What should I do when the expected row or text is missing? Rejected: the symptom/remedy table already shows each condition and response.
+  C13 — Where do I read the detailed rules next? Rejected: the related-reading list is not a dependency graph; source does not support ordering its links.
+  C14 — How does the guide teach the workflow? Rejected: the rationale list explains editorial choices; it is not a mechanism needing spatial relationships.
+  C15 — Which disputed instructions should an editor keep? Rejected: the comparison table already records all alternatives and verdicts.
+  C16 — Which inputs are eligible, rejected, hidden, or precisely selected? Rejected: eligibility, grammar, selector, visibility and output rules are already explicit compact lists or single-sentence distinctions; a combined diagram would conflate separate questions. Scoped views remain repetitions of those short rules.
+  C17 — Which details belong in reference documentation? Rejected: the excluded-detail list already names what goes in reference documentation.
+  C18 — What evidence supports the recommendations? Rejected: the evidence list names sources and checks but supplies no source-supported causal or dependency graph.
+  C19 — Where does a buffer reason end and plain prose begin? Rejected: the reason paragraph and normalization-table row already specify both terminators and the semicolon exception; no additional branching would be clarified.
+source_ref: file:explicit:abe57e976ceb87998b6fdc0a
+status: none
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
