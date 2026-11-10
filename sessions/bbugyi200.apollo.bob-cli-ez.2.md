@@ -9,9 +9,9 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-ez` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-ez.2--mon [dismissed]"]
-  n1["bob-cli-ez.2--plan [active]"]
+  n1["bob-cli-ez.2--plan [dismissed]"]
   n0 --> n1
-  n2["bob-cli-ez.2--1 [active]"]
+  n2["bob-cli-ez.2--1 [dismissed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-ez.2--mon | dismissed | grok-4.6 / grok | 2026-10-31T14:02:39.441511 → 2026-10-31T14:10:09.309475 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ez.2--mon/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ez.2--plan | active | grok-4.6 / grok | 2026-10-31T17:34:09.452332+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ez.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ez.2--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-ez.2--1 | active | grok-4.6 / grok | 2026-10-31T18:11:24.818219+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ez.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ez.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ez.2--1/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ez.2--plan | dismissed | grok-4.6 / grok | 2026-10-31T13:34:09.452332 → 2026-10-31T14:02:47.828261 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ez.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ez.2--plan/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-ez.2--1 | dismissed | grok-4.6 / grok | 2026-10-31T14:11:24.818219 → 2026-10-31T14:28:41.694830 | [1](../agents/bbugyi200.apollo.bob-cli-ez.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ez.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ez.2--1/chat.md) |
 
 ## Commits
 
@@ -34,8 +34,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-ez.1](../agents/bbugyi200.apollo.bob-cli-ez.1/README.md) | bob-cli-ez hood | dismissed |
-| [bob-cli-ez.3](../agents/bbugyi200.apollo.bob-cli-ez.3/README.md) | bob-cli-ez hood | active |
+| [bob-cli-ez.3](../agents/bbugyi200.apollo.bob-cli-ez.3/README.md) | bob-cli-ez hood | dismissed |
 | [bob-cli-ez.4](../agents/bbugyi200.apollo.bob-cli-ez.4/README.md) | bob-cli-ez hood | dismissed |
-| [bob-cli-ez.5](../agents/bbugyi200.apollo.bob-cli-ez.5/README.md) | bob-cli-ez hood | active |
-| [bob-cli-ez.6](../agents/bbugyi200.apollo.bob-cli-ez.6/README.md) | bob-cli-ez hood | active |
+| [bob-cli-ez.5](../agents/bbugyi200.apollo.bob-cli-ez.5/README.md) | bob-cli-ez hood | dismissed |
+| [bob-cli-ez.6](../agents/bbugyi200.apollo.bob-cli-ez.6/README.md) | bob-cli-ez hood | dismissed |
 | [bob-cli-ez.land](bbugyi200.apollo.bob-cli-ez.land.md) (session · 3) | bob-cli-ez hood | completed 1, dismissed 2 |

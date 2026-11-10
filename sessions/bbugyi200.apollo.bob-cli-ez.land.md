@@ -28,8 +28,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-ez.1](../agents/bbugyi200.apollo.bob-cli-ez.1/README.md) | bob-cli-ez hood | dismissed |
-| [bob-cli-ez.2](bbugyi200.apollo.bob-cli-ez.2.md) (session · 3) | bob-cli-ez hood | active 2, dismissed 1 |
-| [bob-cli-ez.3](../agents/bbugyi200.apollo.bob-cli-ez.3/README.md) | bob-cli-ez hood | active |
+| [bob-cli-ez.2](bbugyi200.apollo.bob-cli-ez.2.md) (session · 3) | bob-cli-ez hood | dismissed 3 |
+| [bob-cli-ez.3](../agents/bbugyi200.apollo.bob-cli-ez.3/README.md) | bob-cli-ez hood | dismissed |
 | [bob-cli-ez.4](../agents/bbugyi200.apollo.bob-cli-ez.4/README.md) | bob-cli-ez hood | dismissed |
-| [bob-cli-ez.5](../agents/bbugyi200.apollo.bob-cli-ez.5/README.md) | bob-cli-ez hood | active |
-| [bob-cli-ez.6](../agents/bbugyi200.apollo.bob-cli-ez.6/README.md) | bob-cli-ez hood | active |
+| [bob-cli-ez.5](../agents/bbugyi200.apollo.bob-cli-ez.5/README.md) | bob-cli-ez hood | dismissed |
+| [bob-cli-ez.6](../agents/bbugyi200.apollo.bob-cli-ez.6/README.md) | bob-cli-ez hood | dismissed |
