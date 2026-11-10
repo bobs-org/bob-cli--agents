@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `b529908` | docs: research QuickAdd task capture migration | 2026-06-15 15:51:03 EDT |
+| bob-cli | [`b529908`](https://github.com/bobs-org/bob-cli/commit/b529908a0d62d1fb2a732d70e4d1a1a2dd356401) | docs: research QuickAdd task capture migration | 2026-06-15 15:51:03 EDT |
 
 ## Neighbors
 
@@ -85,4 +85,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 749 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 750 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

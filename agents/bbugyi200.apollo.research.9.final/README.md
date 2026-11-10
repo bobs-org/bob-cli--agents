@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `89a02a4` | chore: consolidate Obsidian vs Notion research | 2026-06-12 07:58:06 EDT |
+| bob-cli | [`89a02a4`](https://github.com/bobs-org/bob-cli/commit/89a02a4fa0fea7ed7bd4e5c8061fec4ad592de32) | chore: consolidate Obsidian vs Notion research | 2026-06-12 07:58:06 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 754 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 755 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

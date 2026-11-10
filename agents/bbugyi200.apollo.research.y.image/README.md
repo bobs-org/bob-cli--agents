@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `099ad2a` | docs: add Bob Obsidian plugins infographic | 2026-06-20 10:33:14 EDT |
+| bob-cli | [`099ad2a`](https://github.com/bobs-org/bob-cli/commit/099ad2aa061ae74c1a91a2aac22444635a8b228a) | docs: add Bob Obsidian plugins infographic | 2026-06-20 10:33:14 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 753 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 754 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

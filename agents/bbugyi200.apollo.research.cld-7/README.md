@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `f59d041` | chore: Add research on Obsidian usage improvements | 2026-06-04 14:34:50 EDT |
+| bob-cli | [`f59d041`](https://github.com/bobs-org/bob-cli/commit/f59d0418e2ff8352aa0ae30427635ade70637dbb) | chore: Add research on Obsidian usage improvements | 2026-06-04 14:34:50 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 757 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 758 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

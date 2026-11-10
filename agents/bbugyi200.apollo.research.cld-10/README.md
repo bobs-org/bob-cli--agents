@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `17d00e0` | chore: Add research memo on PDF/Athena/Dataview/Highlights tasks roadmap | 2026-06-04 19:31:32 EDT |
+| bob-cli | [`17d00e0`](https://github.com/bobs-org/bob-cli/commit/17d00e00654b21b5349723c3bfb5d7343d953608) | chore: Add research memo on PDF/Athena/Dataview/Highlights tasks roadmap | 2026-06-04 19:31:32 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | active |
-| … and 757 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 758 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
