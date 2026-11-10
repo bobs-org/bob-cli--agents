@@ -22,12 +22,12 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-e8.1](../bbugyi200.apollo.bob-cli-e8.1/README.md) | bob-cli-e8 hood | active |
-| [bob-cli-e8.3](../bbugyi200.apollo.bob-cli-e8.3/README.md) | bob-cli-e8 hood | active |
-| [bob-cli-e8.4](../bbugyi200.apollo.bob-cli-e8.4/README.md) | bob-cli-e8 hood | active |
+| [bob-cli-e8.1](../bbugyi200.apollo.bob-cli-e8.1/README.md) | bob-cli-e8 hood | dismissed |
+| [bob-cli-e8.3](../bbugyi200.apollo.bob-cli-e8.3/README.md) | bob-cli-e8 hood | dismissed |
+| [bob-cli-e8.4](../bbugyi200.apollo.bob-cli-e8.4/README.md) | bob-cli-e8 hood | dismissed |
 | [bob-cli-e8.5](../bbugyi200.apollo.bob-cli-e8.5/README.md) | bob-cli-e8 hood | active |
-| [bob-cli-e8.6](../bbugyi200.apollo.bob-cli-e8.6/README.md) | bob-cli-e8 hood | active |
-| [bob-cli-e8.7](../bbugyi200.apollo.bob-cli-e8.7/README.md) | bob-cli-e8 hood | active |
-| [bob-cli-e8.8](../bbugyi200.apollo.bob-cli-e8.8/README.md) | bob-cli-e8 hood | active |
-| [bob-cli-e8.9](../../sessions/bbugyi200.apollo.bob-cli-e8.9.md) (session · 7) | bob-cli-e8 hood | active 7 |
-| [bob-cli-e8.land](../bbugyi200.apollo.bob-cli-e8.land/README.md) | bob-cli-e8 hood | active |
+| [bob-cli-e8.6](../bbugyi200.apollo.bob-cli-e8.6/README.md) | bob-cli-e8 hood | dismissed |
+| [bob-cli-e8.7](../bbugyi200.apollo.bob-cli-e8.7/README.md) | bob-cli-e8 hood | dismissed |
+| [bob-cli-e8.8](../bbugyi200.apollo.bob-cli-e8.8/README.md) | bob-cli-e8 hood | dismissed |
+| [bob-cli-e8.9](../../sessions/bbugyi200.apollo.bob-cli-e8.9.md) (session · 7) | bob-cli-e8 hood | dismissed 7 |
+| [bob-cli-e8.land](../bbugyi200.apollo.bob-cli-e8.land/README.md) | bob-cli-e8 hood | dismissed |
