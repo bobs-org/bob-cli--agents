@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-js.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_js_land__plan-261110_115011.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_js_land__code-261110_115011.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/period_strip_landing_fixes.md
 
 

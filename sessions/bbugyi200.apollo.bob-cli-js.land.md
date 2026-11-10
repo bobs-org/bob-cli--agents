@@ -8,8 +8,8 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-js` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-js.land--plan [active]"]
-  n1["bob-cli-js.land--code [active]"]
+  n0["bob-cli-js.land--plan [completed]"]
+  n1["bob-cli-js.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-js.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-js.land--plan | active | opus / claude | 2026-11-10T19:53:59.712601+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-js.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-js.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-js.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-10T20:21:10.367440+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-js.land--plan | completed | opus / claude | 2026-11-10T19:53:59.712601+00:00 → 2026-11-10T20:50:58.250957+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-js.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-js.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-js.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-10T20:21:10.367440+00:00 → 2026-11-10T20:50:58.250957+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-js.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-js.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-js.land--gate | completed | opus / claude | 2026-11-10T20:20:21.416199+00:00 → 2026-11-10T20:20:37.583413+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-js.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`991e270`](https://github.com/bobs-org/bob-cli/commit/991e270e4eae5d6f979c8cae902b90a0174cf9c6) | docs(stats): record period strip geometry, fills, and budgets beside Controls | 2026-11-10 15:49:00 EST |
 
 ## Neighbors
 
