@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["bob-cli-ab.3--0 [dismissed]"]
   n0 --> n2
-  n3["bob-cli-ab.3--gate [active]"]
+  n3["bob-cli-ab.3--gate [dismissed]"]
   n0 --> n3
   n4["bob-cli-ab.3--2 [completed]"]
   n0 --> n4
@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-gate-0"></a>gate-0 | bob-cli-ab.3--gate-0 | failed | muse-spark-1.3-contributor / muse | 2026-10-21T00:53:14.223607+00:00 → 2026-10-21T00:53:23.673256+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ab.3--gate-0/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-ab.3--1 | active | muse-spark-1.3-contributor / muse | 2026-10-21T00:41:21.583515+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ab.3--1/chat.md) |
 | <a id="member-0"></a>0 | bob-cli-ab.3--0 | dismissed | muse-spark-1.3-contributor / muse | 2026-10-20T20:20:39.704951 → 2026-10-20T20:59:28.330781 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ab.3--0/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ab.3--0/chat.md) |
-| <a id="member-gate"></a>gate | bob-cli-ab.3--gate | active | muse-spark-1.3-contributor / muse | 2026-10-21T00:41:00.495139+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ab.3--gate/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-ab.3--gate | dismissed | muse-spark-1.3-contributor / muse | 2026-10-20T20:41:00.495139 → 2026-10-20T20:41:10 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ab.3--gate/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-ab.3--2 | completed | gpt-6-luna / codex | 2026-10-21T00:53:33.090994+00:00 → 2026-10-21T00:59:28.294791+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ab.3--2/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-ab.3--plan | active | muse-spark-1.3-contributor / muse | 2026-10-21T00:20:39.704951+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ab.3--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ab.3--plan/chat.md) |
 
@@ -93,11 +93,11 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ab.1](../agents/bbugyi200.apollo.bob-cli-ab.1/README.md) | bob-cli-ab hood | active |
-| [bob-cli-ab.2](bbugyi200.apollo.bob-cli-ab.2.md) (session · 5) | bob-cli-ab hood | active 5 |
-| [bob-cli-ab.4](bbugyi200.apollo.bob-cli-ab.4.md) (session · 3) | bob-cli-ab hood | active 3 |
-| [bob-cli-ab.5](../agents/bbugyi200.apollo.bob-cli-ab.5/README.md) | bob-cli-ab hood | active |
-| [bob-cli-ab.6](../agents/bbugyi200.apollo.bob-cli-ab.6/README.md) | bob-cli-ab hood | active |
-| [bob-cli-ab.7](../agents/bbugyi200.apollo.bob-cli-ab.7/README.md) | bob-cli-ab hood | active |
-| [bob-cli-ab.8](../agents/bbugyi200.apollo.bob-cli-ab.8/README.md) | bob-cli-ab hood | active |
-| [bob-cli-ab.land](bbugyi200.apollo.bob-cli-ab.land.md) (session · 3) | bob-cli-ab hood | active 2, completed 1 |
+| [bob-cli-ab.1](../agents/bbugyi200.apollo.bob-cli-ab.1/README.md) | bob-cli-ab hood | dismissed |
+| [bob-cli-ab.2](bbugyi200.apollo.bob-cli-ab.2.md) (session · 5) | bob-cli-ab hood | dismissed 5 |
+| [bob-cli-ab.4](bbugyi200.apollo.bob-cli-ab.4.md) (session · 3) | bob-cli-ab hood | dismissed 3 |
+| [bob-cli-ab.5](../agents/bbugyi200.apollo.bob-cli-ab.5/README.md) | bob-cli-ab hood | dismissed |
+| [bob-cli-ab.6](../agents/bbugyi200.apollo.bob-cli-ab.6/README.md) | bob-cli-ab hood | dismissed |
+| [bob-cli-ab.7](../agents/bbugyi200.apollo.bob-cli-ab.7/README.md) | bob-cli-ab hood | dismissed |
+| [bob-cli-ab.8](../agents/bbugyi200.apollo.bob-cli-ab.8/README.md) | bob-cli-ab hood | dismissed |
+| [bob-cli-ab.land](bbugyi200.apollo.bob-cli-ab.land.md) (session · 3) | bob-cli-ab hood | completed 1, dismissed 2 |

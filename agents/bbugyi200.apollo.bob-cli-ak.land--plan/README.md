@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ak](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ak/README.md) / [bob-cli-ak.land](../../sessions/bbugyi200.apollo.bob-cli-ak.land.md) / bob-cli-ak.land--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-ak.land--plan` · **State:** active · **Source run:** `run-4ffa63b8cb3d3cfccd6cc1631ae438f7`
+**Global name:** `bbugyi200.apollo.bob-cli-ak.land--plan` · **State:** dismissed · **Source run:** `run-4ffa63b8cb3d3cfccd6cc1631ae438f7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ak
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-ak](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ak/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-21T14:26:32.759767+00:00
+- Timing: 2026-10-21T10:26:32.759767 → 2026-10-21T10:58:02.765746
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -54,6 +54,6 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ak.1](../../sessions/bbugyi200.apollo.bob-cli-ak.1.md) (session · 3) | bob-cli-ak hood | active 3 |
-| [bob-cli-ak.2](../bbugyi200.apollo.bob-cli-ak.2/README.md) | bob-cli-ak hood | active |
-| [bob-cli-ak.3](../../sessions/bbugyi200.apollo.bob-cli-ak.3.md) (session · 3) | bob-cli-ak hood | active 3 |
+| [bob-cli-ak.1](../../sessions/bbugyi200.apollo.bob-cli-ak.1.md) (session · 3) | bob-cli-ak hood | dismissed 3 |
+| [bob-cli-ak.2](../bbugyi200.apollo.bob-cli-ak.2/README.md) | bob-cli-ak hood | dismissed |
+| [bob-cli-ak.3](../../sessions/bbugyi200.apollo.bob-cli-ak.3.md) (session · 3) | bob-cli-ak hood | dismissed 3 |

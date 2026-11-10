@@ -47,11 +47,11 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ab.1](../bbugyi200.apollo.bob-cli-ab.1/README.md) | bob-cli-ab hood | active |
-| [bob-cli-ab.2](../../sessions/bbugyi200.apollo.bob-cli-ab.2.md) (session · 5) | bob-cli-ab hood | active 5 |
-| [bob-cli-ab.4](../../sessions/bbugyi200.apollo.bob-cli-ab.4.md) (session · 3) | bob-cli-ab hood | active 3 |
-| [bob-cli-ab.5](../bbugyi200.apollo.bob-cli-ab.5/README.md) | bob-cli-ab hood | active |
-| [bob-cli-ab.6](../bbugyi200.apollo.bob-cli-ab.6/README.md) | bob-cli-ab hood | active |
-| [bob-cli-ab.7](../bbugyi200.apollo.bob-cli-ab.7/README.md) | bob-cli-ab hood | active |
-| [bob-cli-ab.8](../bbugyi200.apollo.bob-cli-ab.8/README.md) | bob-cli-ab hood | active |
-| [bob-cli-ab.land](../../sessions/bbugyi200.apollo.bob-cli-ab.land.md) (session · 3) | bob-cli-ab hood | active 2, completed 1 |
+| [bob-cli-ab.1](../bbugyi200.apollo.bob-cli-ab.1/README.md) | bob-cli-ab hood | dismissed |
+| [bob-cli-ab.2](../../sessions/bbugyi200.apollo.bob-cli-ab.2.md) (session · 5) | bob-cli-ab hood | dismissed 5 |
+| [bob-cli-ab.4](../../sessions/bbugyi200.apollo.bob-cli-ab.4.md) (session · 3) | bob-cli-ab hood | dismissed 3 |
+| [bob-cli-ab.5](../bbugyi200.apollo.bob-cli-ab.5/README.md) | bob-cli-ab hood | dismissed |
+| [bob-cli-ab.6](../bbugyi200.apollo.bob-cli-ab.6/README.md) | bob-cli-ab hood | dismissed |
+| [bob-cli-ab.7](../bbugyi200.apollo.bob-cli-ab.7/README.md) | bob-cli-ab hood | dismissed |
+| [bob-cli-ab.8](../bbugyi200.apollo.bob-cli-ab.8/README.md) | bob-cli-ab hood | dismissed |
+| [bob-cli-ab.land](../../sessions/bbugyi200.apollo.bob-cli-ab.land.md) (session · 3) | bob-cli-ab hood | completed 1, dismissed 2 |

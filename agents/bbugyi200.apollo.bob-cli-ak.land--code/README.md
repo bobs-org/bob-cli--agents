@@ -22,12 +22,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`55470e6`](https://github.com/bobs-org/bob-cli/commit/55470e65cd25db0880253ebdffc1238c1a19959a) | docs(date-marks): clarify recurrence validation vectors | 2026-10-21 10:54:58 EDT |
+| — | `55470e6` | docs(date-marks): clarify recurrence validation vectors | 2026-10-21 10:54:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ak.1](../../sessions/bbugyi200.apollo.bob-cli-ak.1.md) (session · 3) | bob-cli-ak hood | active 3 |
-| [bob-cli-ak.2](../bbugyi200.apollo.bob-cli-ak.2/README.md) | bob-cli-ak hood | active |
-| [bob-cli-ak.3](../../sessions/bbugyi200.apollo.bob-cli-ak.3.md) (session · 3) | bob-cli-ak hood | active 3 |
+| [bob-cli-ak.1](../../sessions/bbugyi200.apollo.bob-cli-ak.1.md) (session · 3) | bob-cli-ak hood | dismissed 3 |
+| [bob-cli-ak.2](../bbugyi200.apollo.bob-cli-ak.2/README.md) | bob-cli-ak hood | dismissed |
+| [bob-cli-ak.3](../../sessions/bbugyi200.apollo.bob-cli-ak.3.md) (session · 3) | bob-cli-ak hood | dismissed 3 |
