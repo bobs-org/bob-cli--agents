@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-9d](../../users/bbugyi200/machines/athena/hoods/bob-cli-9d/README.md) / [bob-cli-9d.land](../../sessions/bbugyi200.athena.bob-cli-9d.land.md) / bob-cli-9d.land--1
 
-**Global name:** `bbugyi200.athena.bob-cli-9d.land--1` · **State:** active · **Source run:** `run-37ed9a62ca0a932b20b4f9ed9d535f08`
+**Global name:** `bbugyi200.athena.bob-cli-9d.land--1` · **State:** dismissed · **Source run:** `run-37ed9a62ca0a932b20b4f9ed9d535f08`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-9d
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-9d](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-9d/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-18T21:10:46.550764+00:00
+- Timing: 2026-10-18T17:10:46.550764 → 2026-10-18T17:25:08.977983
 - Commits: 0
 
 ## Files

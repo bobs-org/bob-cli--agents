@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`de78e98`](https://github.com/bobs-org/bob-cli/commit/de78e982011b3424aa3d18f62aeb797daa0ba643) | feat(ref): add reliable added\_at timestamps | 2026-10-18 16:23:07 EDT |
+| — | `de78e98` | feat(ref): add reliable added\_at timestamps | 2026-10-18 16:23:07 EDT |
 
 ## Neighbors
 
@@ -30,4 +30,4 @@
 |---|---|---|
 | [bob-cli-9d.2](../bbugyi200.athena.bob-cli-9d.2/README.md) | bob-cli-9d hood | completed |
 | [bob-cli-9d.3](../bbugyi200.athena.bob-cli-9d.3/README.md) | bob-cli-9d hood | completed |
-| [bob-cli-9d.land](../../sessions/bbugyi200.athena.bob-cli-9d.land.md) (session · 5) | bob-cli-9d hood | active 1, completed 2, failed 2 |
+| [bob-cli-9d.land](../../sessions/bbugyi200.athena.bob-cli-9d.land.md) (session · 5) | bob-cli-9d hood | completed 2, dismissed 1, failed 2 |
