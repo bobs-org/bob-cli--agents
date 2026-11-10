@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-iz.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_iz_land__plan-261109_071428.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_iz_land__code-261109_071428.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/gcal_replaced_events_shared_detector.md
 
 
