@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-jf](../../users/bbugyi200/machines/athena/hoods/bob-cli-jf/README.md) / [bob-cli-jf.1.1](../../sessions/bbugyi200.athena.bob-cli-jf.1.1.md) / bob-cli-jf.1.1--2
 
-**Global name:** `bbugyi200.athena.bob-cli-jf.1.1--2` · **State:** active · **Source run:** `run-44218a0a19549da87b152db5bf57b0c9`
+**Global name:** `bbugyi200.athena.bob-cli-jf.1.1--2` · **State:** completed · **Source run:** `run-44218a0a19549da87b152db5bf57b0c9`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-jf
 
@@ -11,13 +11,13 @@
 - Bead: [bob-cli-jf.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-jf/bob-cli-jf.1.1.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-10T12:35:22.050584+00:00
+- Timing: 2026-11-10T12:35:22.050584+00:00 → 2026-11-10T12:41:26.942331+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -44,4 +44,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [bob-cli-jf](../../sessions/bbugyi200.athena.bob-cli-jf.md) (session · 3) | ancestor | completed 3 |
 | [bob-cli-jf.1.2](../bbugyi200.athena.bob-cli-jf.1.2/README.md) | bob-cli-jf.1 hood | completed |
-| [bob-cli-jf.1.land](../bbugyi200.athena.bob-cli-jf.1.land/README.md) | bob-cli-jf.1 hood | waiting |
+| [bob-cli-jf.1.land](../bbugyi200.athena.bob-cli-jf.1.land/README.md) | bob-cli-jf.1 hood | completed |

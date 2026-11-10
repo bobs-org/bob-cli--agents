@@ -24,4 +24,4 @@
 |---|---|---|
 | [bob-cli-jf](../../sessions/bbugyi200.athena.bob-cli-jf.md) (session · 3) | ancestor | completed 3 |
 | [bob-cli-jf.1.2](../bbugyi200.athena.bob-cli-jf.1.2/README.md) | bob-cli-jf.1 hood | completed |
-| [bob-cli-jf.1.land](../bbugyi200.athena.bob-cli-jf.1.land/README.md) | bob-cli-jf.1 hood | waiting |
+| [bob-cli-jf.1.land](../bbugyi200.athena.bob-cli-jf.1.land/README.md) | bob-cli-jf.1 hood | completed |
