@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ji](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ji/README.md) / [bob-cli-ji.7.1.3](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.3.md) / bob-cli-ji.7.1.3--1
 
-**Global name:** `bbugyi200.apollo.bob-cli-ji.7.1.3--1` · **State:** active · **Source run:** `run-6527843b5990f12473b6eb8b5043fd8e`
+**Global name:** `bbugyi200.apollo.bob-cli-ji.7.1.3--1` · **State:** completed · **Source run:** `run-6527843b5990f12473b6eb8b5043fd8e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ji
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-ji.7.1.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ji/bob-cli-ji.7.1.3.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-10T16:53:15.110762+00:00
+- Timing: 2026-11-10T16:53:15.110762+00:00 → 2026-11-10T16:57:57.602492+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -24,8 +24,8 @@
 |---|---|---|
 | [bob-cli-ji.7](../../sessions/bbugyi200.apollo.bob-cli-ji.7.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-ji.7.1.1](../bbugyi200.apollo.bob-cli-ji.7.1.1/README.md) | bob-cli-ji.7.1 hood | completed |
-| [bob-cli-ji.7.1.2](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.2.md) (session · 2) | bob-cli-ji.7.1 hood | active 1, completed 1 |
-| [bob-cli-ji.7.1.4](../bbugyi200.apollo.bob-cli-ji.7.1.4/README.md) | bob-cli-ji.7.1 hood | waiting |
+| [bob-cli-ji.7.1.2](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.2.md) (session · 3) | bob-cli-ji.7.1 hood | completed 2, failed 1 |
+| [bob-cli-ji.7.1.4](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.4.md) (session · 10) | bob-cli-ji.7.1 hood | active 1, completed 6, failed 3 |
 | [bob-cli-ji.7.1.5](../bbugyi200.apollo.bob-cli-ji.7.1.5/README.md) | bob-cli-ji.7.1 hood | waiting |
 | [bob-cli-ji.7.1.6](../bbugyi200.apollo.bob-cli-ji.7.1.6/README.md) | bob-cli-ji.7.1 hood | waiting |
 | [bob-cli-ji.7.1.land](../bbugyi200.apollo.bob-cli-ji.7.1.land/README.md) | bob-cli-ji.7.1 hood | waiting |
