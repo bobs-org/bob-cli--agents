@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-28.1](../bbugyi200.athena.bob-cli-28.1/README.md) | bob-cli-28 hood | active |
-| [bob-cli-28.2](../bbugyi200.athena.bob-cli-28.2/README.md) | bob-cli-28 hood | active |
-| [bob-cli-28.3](../bbugyi200.athena.bob-cli-28.3/README.md) | bob-cli-28 hood | active |
-| [bob-cli-28.4](../bbugyi200.athena.bob-cli-28.4/README.md) | bob-cli-28 hood | active |
+| [bob-cli-28.1](../bbugyi200.athena.bob-cli-28.1/README.md) | bob-cli-28 hood | dismissed |
+| [bob-cli-28.2](../bbugyi200.athena.bob-cli-28.2/README.md) | bob-cli-28 hood | dismissed |
+| [bob-cli-28.3](../bbugyi200.athena.bob-cli-28.3/README.md) | bob-cli-28 hood | dismissed |
+| [bob-cli-28.4](../bbugyi200.athena.bob-cli-28.4/README.md) | bob-cli-28 hood | dismissed |

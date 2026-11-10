@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-28.1](../agents/bbugyi200.athena.bob-cli-28.1/README.md) | bob-cli-28 hood | active |
-| [bob-cli-28.2](../agents/bbugyi200.athena.bob-cli-28.2/README.md) | bob-cli-28 hood | active |
-| [bob-cli-28.3](../agents/bbugyi200.athena.bob-cli-28.3/README.md) | bob-cli-28 hood | active |
-| [bob-cli-28.4](../agents/bbugyi200.athena.bob-cli-28.4/README.md) | bob-cli-28 hood | active |
+| [bob-cli-28.1](../agents/bbugyi200.athena.bob-cli-28.1/README.md) | bob-cli-28 hood | dismissed |
+| [bob-cli-28.2](../agents/bbugyi200.athena.bob-cli-28.2/README.md) | bob-cli-28 hood | dismissed |
+| [bob-cli-28.3](../agents/bbugyi200.athena.bob-cli-28.3/README.md) | bob-cli-28 hood | dismissed |
+| [bob-cli-28.4](../agents/bbugyi200.athena.bob-cli-28.4/README.md) | bob-cli-28 hood | dismissed |
