@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [ct.f0.f0.f0](../bbugyi200.apollo.ct.f0.f0.f0/README.md) | descendant | active |
+| [ct.f0.f0.f0](../bbugyi200.apollo.ct.f0.f0.f0/README.md) | descendant | dismissed |
 | [ct.f0.f0.f1](../../sessions/bbugyi200.apollo.ct.f0.f0.f1.md) (session · 3) | descendant | completed 3 |

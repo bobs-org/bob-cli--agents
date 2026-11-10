@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [cm](../../users/bbugyi200/machines/apollo/hoods/cm/README.md) / cm
 
-**Global name:** `bbugyi200.apollo.cm` · **State:** active · **Source run:** `run-9ad140850041ced1abb4f9c38792ca3a`
+**Global name:** `bbugyi200.apollo.cm` · **State:** dismissed · **Source run:** `run-9ad140850041ced1abb4f9c38792ca3a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** cm
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-05T15:49:17.941202+00:00
+- Timing: 2026-11-05T10:49:17.941202 → 2026-11-05T10:53:27.097742
 - Commits: 0
 - Variables: [1](#variables)
 

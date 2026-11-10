@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2e91d45`](https://github.com/bobs-org/bob-cli/commit/2e91d45b01026b243466fb08d7d6a92527693dd3) | feat(capture-pomodoros): report max\_task\_link\_count for x= close lists | 2026-11-05 10:47:15 EST |
+| — | `2e91d45` | feat(capture-pomodoros): report max\_task\_link\_count for x= close lists | 2026-11-05 10:47:15 EST |

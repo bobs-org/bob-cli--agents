@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`dbd30ec`](https://github.com/bobs-org/bob-cli/commit/dbd30ec0a15e6b6c0d923dd8e127e31cd8528faa) | fix(gmail): read back gog 0.47.1 drafts and reply to your own sent mail | 2026-11-07 05:30:58 EST |
+| — | `dbd30ec` | fix(gmail): read back gog 0.47.1 drafts and reply to your own sent mail | 2026-11-07 05:30:58 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [ct.f0.f0](../../sessions/bbugyi200.apollo.ct.f0.f0.md) (session · 5) | ancestor | completed 5 |
-| [ct.f0.f0.f0](../bbugyi200.apollo.ct.f0.f0.f0/README.md) | ct.f0.f0 hood | active |
+| [ct.f0.f0.f0](../bbugyi200.apollo.ct.f0.f0.f0/README.md) | ct.f0.f0 hood | dismissed |

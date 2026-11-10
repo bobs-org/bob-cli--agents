@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [ct.f0.f0](../../sessions/bbugyi200.apollo.ct.f0.f0.md) (session · 5) | ancestor | completed 5 |
-| [ct.f0.f0.f0](../bbugyi200.apollo.ct.f0.f0.f0/README.md) | ct.f0.f0 hood | active |
+| [ct.f0.f0.f0](../bbugyi200.apollo.ct.f0.f0.f0/README.md) | ct.f0.f0 hood | dismissed |

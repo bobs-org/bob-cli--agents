@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ce81e2a`](https://github.com/bobs-org/bob-cli/commit/ce81e2a57535c99e132295d8f2601511c92aa112) | fix(gmail): add compose to a read-only grant and parse empty headers | 2026-11-07 04:44:30 EST |
+| — | `ce81e2a` | fix(gmail): add compose to a read-only grant and parse empty headers | 2026-11-07 04:44:30 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [ct.f0.f0](../../sessions/bbugyi200.apollo.ct.f0.f0.md) (session · 5) | ancestor | completed 5 |
-| [ct.f0.f0.f0](../bbugyi200.apollo.ct.f0.f0.f0/README.md) | ct.f0.f0 hood | active |
+| [ct.f0.f0.f0](../bbugyi200.apollo.ct.f0.f0.f0/README.md) | ct.f0.f0 hood | dismissed |

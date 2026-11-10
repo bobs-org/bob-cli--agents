@@ -27,12 +27,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 0 | bob-cli | [`ce81e2a`](https://github.com/bobs-org/bob-cli/commit/ce81e2a57535c99e132295d8f2601511c92aa112) | fix(gmail): add compose to a read-only grant and parse empty headers | 2026-11-07 04:44:30 EST |
-| 1 | bob-cli | [`dbd30ec`](https://github.com/bobs-org/bob-cli/commit/dbd30ec0a15e6b6c0d923dd8e127e31cd8528faa) | fix(gmail): read back gog 0.47.1 drafts and reply to your own sent mail | 2026-11-07 05:30:58 EST |
+| 0 | — | `ce81e2a` | fix(gmail): add compose to a read-only grant and parse empty headers | 2026-11-07 04:44:30 EST |
+| 1 | — | `dbd30ec` | fix(gmail): read back gog 0.47.1 drafts and reply to your own sent mail | 2026-11-07 05:30:58 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [ct.f0.f0](bbugyi200.apollo.ct.f0.f0.md) (session · 5) | ancestor | completed 5 |
-| [ct.f0.f0.f0](../agents/bbugyi200.apollo.ct.f0.f0.f0/README.md) | ct.f0.f0 hood | active |
+| [ct.f0.f0.f0](../agents/bbugyi200.apollo.ct.f0.f0.f0/README.md) | ct.f0.f0 hood | dismissed |
