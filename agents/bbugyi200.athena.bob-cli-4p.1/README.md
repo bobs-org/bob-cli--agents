@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c2aec57`](https://github.com/bobs-org/bob-cli/commit/c2aec5703ce28e437881b1ce4633e9a8e706e5c0) | docs(projects): add Priority marks contract with conformance vectors | 2026-10-06 14:09:27 EDT |
+| — | `c2aec57` | docs(projects): add Priority marks contract with conformance vectors | 2026-10-06 14:09:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-4p.2](../bbugyi200.athena.bob-cli-4p.2/README.md) | bob-cli-4p hood | completed |
-| [bob-cli-4p.land](../bbugyi200.athena.bob-cli-4p.land/README.md) | bob-cli-4p hood | active |
+| [bob-cli-4p.land](../bbugyi200.athena.bob-cli-4p.land/README.md) | bob-cli-4p hood | dismissed |

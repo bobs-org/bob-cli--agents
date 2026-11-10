@@ -34,4 +34,4 @@
 | [bob-cli-4s.4](../bbugyi200.athena.bob-cli-4s.4/README.md) | bob-cli-4s hood | completed |
 | [bob-cli-4s.5](../bbugyi200.athena.bob-cli-4s.5/README.md) | bob-cli-4s hood | completed |
 | [bob-cli-4s.6](../../sessions/bbugyi200.athena.bob-cli-4s.6.md) (session · 3) | bob-cli-4s hood | completed 2, failed 1 |
-| [bob-cli-4s.land](../../sessions/bbugyi200.athena.bob-cli-4s.land.md) (session · 3) | bob-cli-4s hood | active 1, completed 1, failed 1 |
+| [bob-cli-4s.land](../../sessions/bbugyi200.athena.bob-cli-4s.land.md) (session · 3) | bob-cli-4s hood | completed 1, dismissed 1, failed 1 |

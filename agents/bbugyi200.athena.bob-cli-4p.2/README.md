@@ -23,11 +23,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ce54258`](https://github.com/bobs-org/bob-cli/commit/ce54258121bd567344f603311a4792299cd05185) | docs(projects): record Task Card and notice reuse of priority marks | 2026-10-06 14:24:41 EDT |
+| — | `ce54258` | docs(projects): record Task Card and notice reuse of priority marks | 2026-10-06 14:24:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-4p.1](../bbugyi200.athena.bob-cli-4p.1/README.md) | bob-cli-4p hood | completed |
-| [bob-cli-4p.land](../bbugyi200.athena.bob-cli-4p.land/README.md) | bob-cli-4p hood | active |
+| [bob-cli-4p.land](../bbugyi200.athena.bob-cli-4p.land/README.md) | bob-cli-4p hood | dismissed |
