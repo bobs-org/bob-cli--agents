@@ -22,8 +22,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.42.cdx](../bbugyi200.apollo.research.42.cdx/README.md) | research.42 hood | completed |
-| [research.42.cld](../bbugyi200.apollo.research.42.cld/README.md) | research.42 hood | active |
-| [research.42.gem](../bbugyi200.apollo.research.42.gem/README.md) | research.42 hood | active |
+| [research.42.cld](../bbugyi200.apollo.research.42.cld/README.md) | research.42 hood | completed |
+| [research.42.gem](../bbugyi200.apollo.research.42.gem/README.md) | research.42 hood | completed |
 | [research.42.grk](../bbugyi200.apollo.research.42.grk/README.md) | research.42 hood | active |
 | [research.42.image](../bbugyi200.apollo.research.42.image/README.md) | research.42 hood | waiting |
 | [research.42.linker](../bbugyi200.apollo.research.42.linker/README.md) | research.42 hood | waiting |

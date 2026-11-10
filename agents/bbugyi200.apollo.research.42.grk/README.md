@@ -12,19 +12,38 @@
 - Provider: grok
 - Timing: 2026-11-10T17:07:12.671986+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/writing\_period\_intentions\_outcomes/writing\_period\_intentions\_outcomes\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261110120614/wr… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/writing_period_intentions_outcomes/writing_period_intentions_outcomes__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110120614/writing_period_intentions_outcomes__grk-74c2dc124b5a.md
+  ref: file:explicit:54c86458d3e9d2369784333c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/writing_period_intentions_outcomes/writing_period_intentions_outcomes__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.42.cdx](../bbugyi200.apollo.research.42.cdx/README.md) | research.42 hood | completed |
-| [research.42.cld](../bbugyi200.apollo.research.42.cld/README.md) | research.42 hood | active |
+| [research.42.cld](../bbugyi200.apollo.research.42.cld/README.md) | research.42 hood | completed |
 | [research.42.final](../bbugyi200.apollo.research.42.final/README.md) | research.42 hood | waiting |
-| [research.42.gem](../bbugyi200.apollo.research.42.gem/README.md) | research.42 hood | active |
+| [research.42.gem](../bbugyi200.apollo.research.42.gem/README.md) | research.42 hood | completed |
 | [research.42.image](../bbugyi200.apollo.research.42.image/README.md) | research.42 hood | waiting |
 | [research.42.linker](../bbugyi200.apollo.research.42.linker/README.md) | research.42 hood | waiting |
 | [research.42.mus](../bbugyi200.apollo.research.42.mus/README.md) | research.42 hood | completed |

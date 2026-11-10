@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.42.cld
 
-**Global name:** `bbugyi200.apollo.research.42.cld` · **State:** active · **Source run:** `run-2544ab1d7c2ff03553701576c581a25d`
+**Global name:** `bbugyi200.apollo.research.42.cld` · **State:** completed · **Source run:** `run-2544ab1d7c2ff03553701576c581a25d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-10T17:06:57.081867+00:00
+- Timing: 2026-11-10T17:06:57.081867+00:00 → 2026-11-10T17:20:39.366573+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/period\_note\_intentions\_and\_outcomes\_guide\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261110120613/period\_note\_intentions\_and\_out… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/period_note_intentions_and_outcomes_guide__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110120613/period_note_intentions_and_outcomes_guide__cld-99e7d55feff0.md
+  ref: file:explicit:06b7439fcfa239ef9ea428ef
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/period_note_intentions_and_outcomes_guide__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.42.cdx](../bbugyi200.apollo.research.42.cdx/README.md) | research.42 hood | completed |
 | [research.42.final](../bbugyi200.apollo.research.42.final/README.md) | research.42 hood | waiting |
-| [research.42.gem](../bbugyi200.apollo.research.42.gem/README.md) | research.42 hood | active |
+| [research.42.gem](../bbugyi200.apollo.research.42.gem/README.md) | research.42 hood | completed |
 | [research.42.grk](../bbugyi200.apollo.research.42.grk/README.md) | research.42 hood | active |
 | [research.42.image](../bbugyi200.apollo.research.42.image/README.md) | research.42 hood | waiting |
 | [research.42.linker](../bbugyi200.apollo.research.42.linker/README.md) | research.42 hood | waiting |
