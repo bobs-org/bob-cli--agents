@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-j8.4--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_j8_4__plan-261109_121214.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_j8_4__code-261109_121214.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/notebook_capture_creation.md
 
 

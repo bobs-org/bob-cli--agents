@@ -8,8 +8,8 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-j8` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-j8.4--code [active]"]
-  n1["bob-cli-j8.4--plan [active]"]
+  n0["bob-cli-j8.4--code [completed]"]
+  n1["bob-cli-j8.4--plan [completed]"]
   n0 --> n1
   n2["bob-cli-j8.4--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-j8.4--code | active | grok-4.6 / grok | 2026-11-10T03:45:49.128892+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-j8.4--plan | active | gpt-6-astra / codex | 2026-11-10T03:36:27.446126+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.4--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.4--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-j8.4--code | completed | grok-4.6 / grok | 2026-11-10T03:45:49.128892+00:00 → 2026-11-10T05:21:12.020521+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-j8.4--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.4--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-j8.4--plan | completed | gpt-6-astra / codex | 2026-11-10T03:36:27.446126+00:00 → 2026-11-10T05:21:12.020521+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.4--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.4--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-j8.4--gate | completed | gpt-6-astra / codex | 2026-11-10T03:45:11.778617+00:00 → 2026-11-10T03:45:26.451408+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.4--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`ab021e2`](https://github.com/bobs-org/bob-cli/commit/ab021e2db09c3776d737e9380a236f823bcb42b4) | feat(capture)!: create notebooks from sealed @parent^id@ %n drafts | 2026-11-10 00:20:18 EST |
 
 ## Neighbors
 
@@ -44,5 +50,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-j8.6.1.land](bbugyi200.apollo.bob-cli-j8.6.1.land.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.7](../agents/bbugyi200.apollo.bob-cli-j8.7/README.md) | bob-cli-j8 hood | completed |
 | [bob-cli-j8.8](../agents/bbugyi200.apollo.bob-cli-j8.8/README.md) | bob-cli-j8 hood | waiting |
-| [bob-cli-j8.9](bbugyi200.apollo.bob-cli-j8.9.md) (session · 4) | bob-cli-j8 hood | active 1, completed 3 |
+| [bob-cli-j8.9](bbugyi200.apollo.bob-cli-j8.9.md) (session · 6) | bob-cli-j8 hood | active 1, completed 5 |
 | [bob-cli-j8.land](../agents/bbugyi200.apollo.bob-cli-j8.land/README.md) | bob-cli-j8 hood | waiting |
