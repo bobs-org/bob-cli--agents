@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`57af3ea`](https://github.com/bobs-org/bob-cli/commit/57af3ead752da458c1dcc8b66c71396e46b2092c) | feat(gmail): add confirmed send and note finalization | 2026-11-06 15:25:30 EST |
+| — | `57af3ea` | feat(gmail): add confirmed send and note finalization | 2026-11-06 15:25:30 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-hg.12](../../sessions/bbugyi200.apollo.bob-cli-hg.12.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-hg.12](../../sessions/bbugyi200.apollo.bob-cli-hg.12.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-hg.12.1.1](../bbugyi200.apollo.bob-cli-hg.12.1.1/README.md) | bob-cli-hg.12.1 hood | completed |
 | [bob-cli-hg.12.1.2](../bbugyi200.apollo.bob-cli-hg.12.1.2/README.md) | bob-cli-hg.12.1 hood | completed |
 | [bob-cli-hg.12.1.3](../../sessions/bbugyi200.apollo.bob-cli-hg.12.1.3.md) (session · 7) | bob-cli-hg.12.1 hood | completed 5, failed 2 |
@@ -41,15 +41,15 @@
 | [bob-cli-hg.13](../bbugyi200.apollo.bob-cli-hg.13/README.md) | bob-cli-hg hood | completed |
 | [bob-cli-hg.14](../../sessions/bbugyi200.apollo.bob-cli-hg.14.md) (session · 7) | bob-cli-hg hood | completed 4, failed 3 |
 | [bob-cli-hg.2](../bbugyi200.apollo.bob-cli-hg.2/README.md) | bob-cli-hg hood | completed |
-| [bob-cli-hg.3](../../sessions/bbugyi200.apollo.bob-cli-hg.3.md) (session · 3) | bob-cli-hg hood | active 1, completed 2 |
-| [bob-cli-hg.3.1.1](../bbugyi200.apollo.bob-cli-hg.3.1.1/README.md) | bob-cli-hg hood | active |
-| [bob-cli-hg.3.1.2](../bbugyi200.apollo.bob-cli-hg.3.1.2/README.md) | bob-cli-hg hood | active |
-| [bob-cli-hg.3.1.3](../bbugyi200.apollo.bob-cli-hg.3.1.3/README.md) | bob-cli-hg hood | active |
-| [bob-cli-hg.3.1.4](../bbugyi200.apollo.bob-cli-hg.3.1.4/README.md) | bob-cli-hg hood | active |
-| [bob-cli-hg.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-hg.3.1.land.md) (session · 3) | bob-cli-hg hood | active 2, completed 1 |
+| [bob-cli-hg.3](../../sessions/bbugyi200.apollo.bob-cli-hg.3.md) (session · 3) | bob-cli-hg hood | completed 2, dismissed 1 |
+| [bob-cli-hg.3.1.1](../bbugyi200.apollo.bob-cli-hg.3.1.1/README.md) | bob-cli-hg hood | dismissed |
+| [bob-cli-hg.3.1.2](../bbugyi200.apollo.bob-cli-hg.3.1.2/README.md) | bob-cli-hg hood | dismissed |
+| [bob-cli-hg.3.1.3](../bbugyi200.apollo.bob-cli-hg.3.1.3/README.md) | bob-cli-hg hood | dismissed |
+| [bob-cli-hg.3.1.4](../bbugyi200.apollo.bob-cli-hg.3.1.4/README.md) | bob-cli-hg hood | dismissed |
+| [bob-cli-hg.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-hg.3.1.land.md) (session · 3) | bob-cli-hg hood | completed 1, dismissed 2 |
 | [bob-cli-hg.4](../bbugyi200.apollo.bob-cli-hg.4/README.md) | bob-cli-hg hood | completed |
 | [bob-cli-hg.5](../bbugyi200.apollo.bob-cli-hg.5/README.md) | bob-cli-hg hood | completed |
-| [bob-cli-hg.6](../../sessions/bbugyi200.apollo.bob-cli-hg.6.md) (session · 3) | bob-cli-hg hood | active 1, completed 2 |
+| [bob-cli-hg.6](../../sessions/bbugyi200.apollo.bob-cli-hg.6.md) (session · 3) | bob-cli-hg hood | completed 2, dismissed 1 |
 | [bob-cli-hg.6.1.1](../../sessions/bbugyi200.apollo.bob-cli-hg.6.1.1.md) (session · 3) | bob-cli-hg hood | completed 2, failed 1 |
 | [bob-cli-hg.6.1.2](../bbugyi200.apollo.bob-cli-hg.6.1.2/README.md) | bob-cli-hg hood | completed |
 | [bob-cli-hg.6.1.3](../bbugyi200.apollo.bob-cli-hg.6.1.3/README.md) | bob-cli-hg hood | completed |
