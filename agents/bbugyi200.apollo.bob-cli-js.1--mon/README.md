@@ -26,5 +26,5 @@
 | [bob-cli-js.2](../bbugyi200.apollo.bob-cli-js.2/README.md) | bob-cli-js hood | completed |
 | [bob-cli-js.3](../bbugyi200.apollo.bob-cli-js.3/README.md) | bob-cli-js hood | completed |
 | [bob-cli-js.4](../../sessions/bbugyi200.apollo.bob-cli-js.4.md) (session · 7) | bob-cli-js hood | completed 4, failed 3 |
-| [bob-cli-js.5](../bbugyi200.apollo.bob-cli-js.5/README.md) | bob-cli-js hood | waiting |
+| [bob-cli-js.5](../bbugyi200.apollo.bob-cli-js.5/README.md) | bob-cli-js hood | completed |
 | [bob-cli-js.land](../bbugyi200.apollo.bob-cli-js.land/README.md) | bob-cli-js hood | waiting |

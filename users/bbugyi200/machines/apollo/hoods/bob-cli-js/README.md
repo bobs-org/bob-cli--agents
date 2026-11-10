@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-js
 
-**Global hood:** `bbugyi200.apollo.bob-cli-js` · **Runs:** 14 · **Sessions:** 2 · **States:** completed 8, failed 4, waiting 2
+**Global hood:** `bbugyi200.apollo.bob-cli-js` · **Runs:** 14 · **Sessions:** 2 · **States:** completed 9, failed 4, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bob-cli-js.5](../../../../../../agents/bbugyi200.apollo.bob-cli-js.5/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261110115010 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-js.5/prompt.md) |
+| [bob-cli-js.5](../../../../../../agents/bbugyi200.apollo.bob-cli-js.5/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-10T19:22:02.837239+00:00 → 2026-11-10T19:53:52.978141+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-js.5/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-js.5/chat.md) |
 | [bob-cli-js.4--mon-0](../../../../../../sessions/bbugyi200.apollo.bob-cli-js.4.md#member-mon-0) | failed | gpt-6-luna / codex | 2026-11-10T19:02:02.406879+00:00 → 2026-11-10T19:05:22.059330+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-js.4--mon-0/chat.md) |
 | [bob-cli-js.4--3](../../../../../../sessions/bbugyi200.apollo.bob-cli-js.4.md#member-3) | completed | gpt-6-luna / codex | 2026-11-10T19:10:16.160342+00:00 → 2026-11-10T19:21:52.144758+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-js.4--3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-js.4--3/chat.md) |
 | [bob-cli-js.3](../../../../../../agents/bbugyi200.apollo.bob-cli-js.3/README.md) | completed | grok-4.6 / grok | 2026-11-10T17:40:18.874018+00:00 → 2026-11-10T18:20:26.491887+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-js.3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-js.3/chat.md) |

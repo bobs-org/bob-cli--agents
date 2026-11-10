@@ -48,5 +48,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-js.1](bbugyi200.apollo.bob-cli-js.1.md) (session · 3) | bob-cli-js hood | completed 2, failed 1 |
 | [bob-cli-js.2](../agents/bbugyi200.apollo.bob-cli-js.2/README.md) | bob-cli-js hood | completed |
 | [bob-cli-js.3](../agents/bbugyi200.apollo.bob-cli-js.3/README.md) | bob-cli-js hood | completed |
-| [bob-cli-js.5](../agents/bbugyi200.apollo.bob-cli-js.5/README.md) | bob-cli-js hood | waiting |
+| [bob-cli-js.5](../agents/bbugyi200.apollo.bob-cli-js.5/README.md) | bob-cli-js hood | completed |
 | [bob-cli-js.land](../agents/bbugyi200.apollo.bob-cli-js.land/README.md) | bob-cli-js hood | waiting |
