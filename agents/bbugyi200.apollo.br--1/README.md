@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e69128e`](https://github.com/bobs-org/bob-cli/commit/e69128e87039dc26ad06fef0725b7d320d4d20e4) | feat(gcal): reroute unedited Event Task roots when Google's route changes | 2026-10-31 13:08:47 EDT |
+| — | `e69128e` | feat(gcal): reroute unedited Event Task roots when Google's route changes | 2026-10-31 13:08:47 EDT |
