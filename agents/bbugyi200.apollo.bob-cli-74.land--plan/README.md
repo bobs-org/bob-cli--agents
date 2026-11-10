@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-74](../../users/bbugyi200/machines/apollo/hoods/bob-cli-74/README.md) / [bob-cli-74.land](../../sessions/bbugyi200.apollo.bob-cli-74.land.md) / bob-cli-74.land--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-74.land--plan` · **State:** active · **Source run:** `run-205b20898ad066b9f1b8e2d76e8f8460`
+**Global name:** `bbugyi200.apollo.bob-cli-74.land--plan` · **State:** dismissed · **Source run:** `run-205b20898ad066b9f1b8e2d76e8f8460`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-74
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-74](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-74/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-13T05:53:09.217029+00:00
+- Timing: 2026-10-13T01:53:09.217029 → 2026-10-13T02:51:21.908354
 - Commits: 0
 
 ## Files

@@ -22,18 +22,18 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`96bf514`](https://github.com/bobs-org/bob-cli/commit/96bf514e6dc1d4535704bde59c4159ca9b50aa9d) | feat(projects): reconcile inherited sub-project blocking | 2026-10-13 04:53:27 EDT |
+| — | `96bf514` | feat(projects): reconcile inherited sub-project blocking | 2026-10-13 04:53:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-78.1](../bbugyi200.apollo.bob-cli-78.1/README.md) | bob-cli-78 hood | active |
-| [bob-cli-78.3](../bbugyi200.apollo.bob-cli-78.3/README.md) | bob-cli-78 hood | active |
-| [bob-cli-78.4](../bbugyi200.apollo.bob-cli-78.4/README.md) | bob-cli-78 hood | active |
-| [bob-cli-78.5](../bbugyi200.apollo.bob-cli-78.5/README.md) | bob-cli-78 hood | active |
+| [bob-cli-78.1](../bbugyi200.apollo.bob-cli-78.1/README.md) | bob-cli-78 hood | dismissed |
+| [bob-cli-78.3](../bbugyi200.apollo.bob-cli-78.3/README.md) | bob-cli-78 hood | dismissed |
+| [bob-cli-78.4](../bbugyi200.apollo.bob-cli-78.4/README.md) | bob-cli-78 hood | dismissed |
+| [bob-cli-78.5](../bbugyi200.apollo.bob-cli-78.5/README.md) | bob-cli-78 hood | dismissed |
 | [bob-cli-78.6](../bbugyi200.apollo.bob-cli-78.6/README.md) | bob-cli-78 hood | active |
-| [bob-cli-78.7](../bbugyi200.apollo.bob-cli-78.7/README.md) | bob-cli-78 hood | active |
-| [bob-cli-78.8](../../sessions/bbugyi200.apollo.bob-cli-78.8.md) (session · 3) | bob-cli-78 hood | active 3 |
-| [bob-cli-78.land](../../sessions/bbugyi200.apollo.bob-cli-78.land.md) (session · 7) | bob-cli-78 hood | active 5, completed 1, failed 1 |
-| [bob-cli-78.land](../bbugyi200.apollo.bob-cli-78.land/README.md) | bob-cli-78 hood | waiting |
+| [bob-cli-78.7](../bbugyi200.apollo.bob-cli-78.7/README.md) | bob-cli-78 hood | dismissed |
+| [bob-cli-78.8](../../sessions/bbugyi200.apollo.bob-cli-78.8.md) (session · 3) | bob-cli-78 hood | active 1, dismissed 2 |
+| [bob-cli-78.land](../../sessions/bbugyi200.apollo.bob-cli-78.land.md) (session · 7) | bob-cli-78 hood | active 1, completed 1, dismissed 4, failed 1 |
+| [bob-cli-78.land](../bbugyi200.apollo.bob-cli-78.land/README.md) | bob-cli-78 hood | dismissed |

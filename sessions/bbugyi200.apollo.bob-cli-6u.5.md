@@ -57,7 +57,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-6u.18.7.6.2](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.2/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.6.3](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.3/README.md) | bob-cli-6u hood | completed |
 | [bob-cli-6u.18.7.6.4](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.4/README.md) | bob-cli-6u hood | completed |
-| [bob-cli-6u.18.7.6.land](bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u hood | active 1, completed 1, failed 1 |
+| [bob-cli-6u.18.7.6.land](bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) (session · 3) | bob-cli-6u hood | completed 1, dismissed 1, failed 1 |
 | [bob-cli-6u.18.7.land](bbugyi200.apollo.bob-cli-6u.18.7.land.md) (session · 3) | bob-cli-6u hood | failed 3 |
 | [bob-cli-6u.18.land](bbugyi200.apollo.bob-cli-6u.18.land.md) (session · 3) | bob-cli-6u hood | failed 3 |
 | [bob-cli-6u.2](bbugyi200.apollo.bob-cli-6u.2.md) (session · 5) | bob-cli-6u hood | completed 3, failed 2 |

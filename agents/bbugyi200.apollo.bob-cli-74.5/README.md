@@ -28,4 +28,4 @@
 | [bob-cli-74.3](../bbugyi200.apollo.bob-cli-74.3/README.md) | bob-cli-74 hood | completed |
 | [bob-cli-74.4](../bbugyi200.apollo.bob-cli-74.4/README.md) | bob-cli-74 hood | completed |
 | [bob-cli-74.6](../bbugyi200.apollo.bob-cli-74.6/README.md) | bob-cli-74 hood | completed |
-| [bob-cli-74.land](../../sessions/bbugyi200.apollo.bob-cli-74.land.md) (session · 3) | bob-cli-74 hood | active 1, completed 1, failed 1 |
+| [bob-cli-74.land](../../sessions/bbugyi200.apollo.bob-cli-74.land.md) (session · 3) | bob-cli-74 hood | completed 1, dismissed 1, failed 1 |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-6u` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-6u.18.7.6.land--code [completed]"]
-  n1["bob-cli-6u.18.7.6.land--plan [active]"]
+  n1["bob-cli-6u.18.7.6.land--plan [dismissed]"]
   n0 --> n1
   n2["bob-cli-6u.18.7.6.land--gate [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | bob-cli-6u.18.7.6.land--code | completed | grok-4.6 / grok | 2026-10-13T03:06:20.555357+00:00 → 2026-10-13T03:26:47.191464+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.land--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | bob-cli-6u.18.7.6.land--plan | active | gpt-6.1-sol / codex | 2026-10-13T02:47:15.346543+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-6u.18.7.6.land--plan | dismissed | gpt-6.1-sol / codex | 2026-10-12T22:47:15.346543 → 2026-10-12T23:26:47.231195 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-6u.18.7.6.land--gate | failed | gpt-6.1-sol / codex | 2026-10-13T03:05:51.429669+00:00 → 2026-10-13T03:06:03.438824+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-6u.18.7.6.land--gate/chat.md) |
 
 ## Commits

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-6u](../../users/bbugyi200/machines/apollo/hoods/bob-cli-6u/README.md) / [bob-cli-6u.18.7.6.land](../../sessions/bbugyi200.apollo.bob-cli-6u.18.7.6.land.md) / bob-cli-6u.18.7.6.land--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-6u.18.7.6.land--plan` · **State:** active · **Source run:** `run-406f3442319d820f5fcbc5f061a230df`
+**Global name:** `bbugyi200.apollo.bob-cli-6u.18.7.6.land--plan` · **State:** dismissed · **Source run:** `run-406f3442319d820f5fcbc5f061a230df`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-6u
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-6u.18.7.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-6u/bob-cli-6u.18.7.6.md)
 - Model: gpt-6.1-sol
 - Provider: codex
-- Timing: 2026-10-13T02:47:15.346543+00:00
+- Timing: 2026-10-12T22:47:15.346543 → 2026-10-12T23:26:47.231195
 - Commits: 0
 
 ## Files
