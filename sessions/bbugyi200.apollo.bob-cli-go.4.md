@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-go.4--mon [dismissed]"]
   n1["bob-cli-go.4--plan [dismissed]"]
   n0 --> n1
-  n2["bob-cli-go.4--gate [active]"]
+  n2["bob-cli-go.4--gate [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-go.4--mon | dismissed | gpt-6-astra / codex | 2026-11-03T18:14:46.865491 → 2026-11-03T18:16:40.254579 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-go.4--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-go.4--plan | dismissed | gpt-6-astra / codex | 2026-11-03T18:06:30.038537 → 2026-11-03T18:14:57.060874 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-go.4--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-go.4--plan/chat.md) |
-| <a id="member-gate"></a>gate | bob-cli-go.4--gate | active | gpt-6-astra / codex | 2026-11-03T23:14:28.297899+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-go.4--gate/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-go.4--gate | dismissed | gpt-6-astra / codex | 2026-11-03T18:14:28.297899 → 2026-11-03T18:14:48 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-go.4--gate/chat.md) |
 
 ## Neighbors
 
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-go.4.1.3](bbugyi200.apollo.bob-cli-go.4.1.3.md) (session · 9) | descendant | active 9 |
 | [bob-cli-go.4.1.land](bbugyi200.apollo.bob-cli-go.4.1.land.md) (session · 5) | descendant | active 3, completed 1, failed 1 |
 | [bob-cli-go.1](../agents/bbugyi200.apollo.bob-cli-go.1/README.md) | bob-cli-go hood | dismissed |
-| [bob-cli-go.10](bbugyi200.apollo.bob-cli-go.10.md) (session · 3) | bob-cli-go hood | active 1, dismissed 2 |
+| [bob-cli-go.10](bbugyi200.apollo.bob-cli-go.10.md) (session · 3) | bob-cli-go hood | dismissed 3 |
 | [bob-cli-go.10.1.1](../agents/bbugyi200.apollo.bob-cli-go.10.1.1/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.10.1.2](../agents/bbugyi200.apollo.bob-cli-go.10.1.2/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.10.1.3](../agents/bbugyi200.apollo.bob-cli-go.10.1.3/README.md) | bob-cli-go hood | active |
@@ -40,13 +40,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-go.10.1.5](../agents/bbugyi200.apollo.bob-cli-go.10.1.5/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.10.1.land](../agents/bbugyi200.apollo.bob-cli-go.10.1.land/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.11](../agents/bbugyi200.apollo.bob-cli-go.11/README.md) | bob-cli-go hood | dismissed |
-| [bob-cli-go.12](bbugyi200.apollo.bob-cli-go.12.md) (session · 5) | bob-cli-go hood | active 1, dismissed 4 |
+| [bob-cli-go.12](bbugyi200.apollo.bob-cli-go.12.md) (session · 5) | bob-cli-go hood | dismissed 5 |
 | [bob-cli-go.13](../agents/bbugyi200.apollo.bob-cli-go.13/README.md) | bob-cli-go hood | dismissed |
-| [bob-cli-go.2](bbugyi200.apollo.bob-cli-go.2.md) (session · 9) | bob-cli-go hood | active 2, dismissed 7 |
+| [bob-cli-go.2](bbugyi200.apollo.bob-cli-go.2.md) (session · 9) | bob-cli-go hood | dismissed 9 |
 | [bob-cli-go.3](bbugyi200.apollo.bob-cli-go.3.md) (session · 15) | bob-cli-go hood | dismissed 15 |
 | [bob-cli-go.5](../agents/bbugyi200.apollo.bob-cli-go.5/README.md) | bob-cli-go hood | dismissed |
 | [bob-cli-go.6](../agents/bbugyi200.apollo.bob-cli-go.6/README.md) | bob-cli-go hood | dismissed |
 | [bob-cli-go.7](../agents/bbugyi200.apollo.bob-cli-go.7/README.md) | bob-cli-go hood | dismissed |
 | [bob-cli-go.8](../agents/bbugyi200.apollo.bob-cli-go.8/README.md) | bob-cli-go hood | dismissed |
 | [bob-cli-go.9](../agents/bbugyi200.apollo.bob-cli-go.9/README.md) | bob-cli-go hood | dismissed |
-| [bob-cli-go.land](bbugyi200.apollo.bob-cli-go.land.md) (session · 7) | bob-cli-go hood | active 1, completed 1, dismissed 4, failed 1 |
+| [bob-cli-go.land](bbugyi200.apollo.bob-cli-go.land.md) (session · 7) | bob-cli-go hood | completed 1, dismissed 5, failed 1 |

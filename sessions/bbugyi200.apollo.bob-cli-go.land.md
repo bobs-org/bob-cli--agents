@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["bob-cli-go.land--1 [dismissed]"]
   n0 --> n5
-  n6["bob-cli-go.land--2 [active]"]
+  n6["bob-cli-go.land--2 [dismissed]"]
   n0 --> n6
 ```
 
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-code"></a>code | bob-cli-go.land--code | completed | gpt-6-luna / codex | 2026-11-04T17:55:57.946926+00:00 → 2026-11-04T18:30:04.140200+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-go.land--code/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-go.land--plan | dismissed | opus / claude | 2026-11-04T12:29:50.277996 → 2026-11-04T13:30:04.555506 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-go.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-go.land--plan/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-go.land--1 | dismissed | gpt-6-luna / codex | 2026-11-04T13:32:23.050517 → 2026-11-04T13:42:50.947237 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-go.land--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-go.land--1/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-go.land--2 | active | gpt-6-luna / codex | 2026-11-04T18:56:53.882896+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-go.land--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-go.land--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-go.land--2/chat.md) |
+| <a id="member-2"></a>2 | bob-cli-go.land--2 | dismissed | gpt-6-luna / codex | 2026-11-04T13:56:53.882896 → 2026-11-04T14:23:27.836753 | [1](../agents/bbugyi200.apollo.bob-cli-go.land--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-go.land--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-go.land--2/chat.md) |
 
 ## Commits
 
@@ -46,7 +46,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-go.1](../agents/bbugyi200.apollo.bob-cli-go.1/README.md) | bob-cli-go hood | dismissed |
-| [bob-cli-go.10](bbugyi200.apollo.bob-cli-go.10.md) (session · 3) | bob-cli-go hood | active 1, dismissed 2 |
+| [bob-cli-go.10](bbugyi200.apollo.bob-cli-go.10.md) (session · 3) | bob-cli-go hood | dismissed 3 |
 | [bob-cli-go.10.1.1](../agents/bbugyi200.apollo.bob-cli-go.10.1.1/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.10.1.2](../agents/bbugyi200.apollo.bob-cli-go.10.1.2/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.10.1.3](../agents/bbugyi200.apollo.bob-cli-go.10.1.3/README.md) | bob-cli-go hood | active |
@@ -54,11 +54,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-go.10.1.5](../agents/bbugyi200.apollo.bob-cli-go.10.1.5/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.10.1.land](../agents/bbugyi200.apollo.bob-cli-go.10.1.land/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.11](../agents/bbugyi200.apollo.bob-cli-go.11/README.md) | bob-cli-go hood | dismissed |
-| [bob-cli-go.12](bbugyi200.apollo.bob-cli-go.12.md) (session · 5) | bob-cli-go hood | active 1, dismissed 4 |
+| [bob-cli-go.12](bbugyi200.apollo.bob-cli-go.12.md) (session · 5) | bob-cli-go hood | dismissed 5 |
 | [bob-cli-go.13](../agents/bbugyi200.apollo.bob-cli-go.13/README.md) | bob-cli-go hood | dismissed |
-| [bob-cli-go.2](bbugyi200.apollo.bob-cli-go.2.md) (session · 9) | bob-cli-go hood | active 2, dismissed 7 |
+| [bob-cli-go.2](bbugyi200.apollo.bob-cli-go.2.md) (session · 9) | bob-cli-go hood | dismissed 9 |
 | [bob-cli-go.3](bbugyi200.apollo.bob-cli-go.3.md) (session · 15) | bob-cli-go hood | dismissed 15 |
-| [bob-cli-go.4](bbugyi200.apollo.bob-cli-go.4.md) (session · 3) | bob-cli-go hood | active 1, dismissed 2 |
+| [bob-cli-go.4](bbugyi200.apollo.bob-cli-go.4.md) (session · 3) | bob-cli-go hood | dismissed 3 |
 | [bob-cli-go.4.1.1](bbugyi200.apollo.bob-cli-go.4.1.1.md) (session · 5) | bob-cli-go hood | active 5 |
 | [bob-cli-go.4.1.2](../agents/bbugyi200.apollo.bob-cli-go.4.1.2/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.4.1.3](bbugyi200.apollo.bob-cli-go.4.1.3.md) (session · 9) | bob-cli-go hood | active 9 |

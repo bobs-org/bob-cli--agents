@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ce8f53b`](https://github.com/bobs-org/bob-cli/commit/ce8f53b187701003446ad65b350510374b2c161e) | feat(capture)!: record past Pomodoro grammar (x= lexer, capture-parse, refusal) | 2026-11-04 12:57:37 EST |
+| — | `ce8f53b` | feat(capture)!: record past Pomodoro grammar (x= lexer, capture-parse, refusal) | 2026-11-04 12:57:37 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-h2.2](../bbugyi200.apollo.bob-cli-h2.2/README.md) | bob-cli-h2 hood | active |
-| [bob-cli-h2.3](../../sessions/bbugyi200.apollo.bob-cli-h2.3.md) (session · 3) | bob-cli-h2 hood | active 2, completed 1 |
-| [bob-cli-h2.4](../bbugyi200.apollo.bob-cli-h2.4/README.md) | bob-cli-h2 hood | active |
-| [bob-cli-h2.5](../bbugyi200.apollo.bob-cli-h2.5/README.md) | bob-cli-h2 hood | active |
-| [bob-cli-h2.6](../../sessions/bbugyi200.apollo.bob-cli-h2.6.md) (session · 3) | bob-cli-h2 hood | active 2, completed 1 |
-| [bob-cli-h2.land](../bbugyi200.apollo.bob-cli-h2.land/README.md) | bob-cli-h2 hood | active |
+| [bob-cli-h2.2](../bbugyi200.apollo.bob-cli-h2.2/README.md) | bob-cli-h2 hood | dismissed |
+| [bob-cli-h2.3](../../sessions/bbugyi200.apollo.bob-cli-h2.3.md) (session · 3) | bob-cli-h2 hood | completed 1, dismissed 2 |
+| [bob-cli-h2.4](../bbugyi200.apollo.bob-cli-h2.4/README.md) | bob-cli-h2 hood | dismissed |
+| [bob-cli-h2.5](../bbugyi200.apollo.bob-cli-h2.5/README.md) | bob-cli-h2 hood | dismissed |
+| [bob-cli-h2.6](../../sessions/bbugyi200.apollo.bob-cli-h2.6.md) (session · 3) | bob-cli-h2 hood | completed 1, dismissed 2 |
+| [bob-cli-h2.land](../bbugyi200.apollo.bob-cli-h2.land/README.md) | bob-cli-h2 hood | dismissed |

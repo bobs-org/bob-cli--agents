@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-go](../../users/bbugyi200/machines/apollo/hoods/bob-cli-go/README.md) / [bob-cli-go.10](../../sessions/bbugyi200.apollo.bob-cli-go.10.md) / bob-cli-go.10--gate
 
-**Global name:** `bbugyi200.apollo.bob-cli-go.10--gate` · **State:** active · **Source run:** `run-e83d04ff988613fe9624241e6fac5137`
+**Global name:** `bbugyi200.apollo.bob-cli-go.10--gate` · **State:** dismissed · **Source run:** `run-e83d04ff988613fe9624241e6fac5137`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-go
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-go](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-go/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-04T06:50:20.439388+00:00
+- Timing: 2026-11-04T01:50:20.439388 → 2026-11-04T01:50:37
 - Commits: 0
 
 ## Files
@@ -31,11 +31,11 @@
 | [bob-cli-go.10.1.land](../bbugyi200.apollo.bob-cli-go.10.1.land/README.md) | descendant | active |
 | [bob-cli-go.1](../bbugyi200.apollo.bob-cli-go.1/README.md) | bob-cli-go hood | dismissed |
 | [bob-cli-go.11](../bbugyi200.apollo.bob-cli-go.11/README.md) | bob-cli-go hood | dismissed |
-| [bob-cli-go.12](../../sessions/bbugyi200.apollo.bob-cli-go.12.md) (session · 5) | bob-cli-go hood | active 1, dismissed 4 |
+| [bob-cli-go.12](../../sessions/bbugyi200.apollo.bob-cli-go.12.md) (session · 5) | bob-cli-go hood | dismissed 5 |
 | [bob-cli-go.13](../bbugyi200.apollo.bob-cli-go.13/README.md) | bob-cli-go hood | dismissed |
-| [bob-cli-go.2](../../sessions/bbugyi200.apollo.bob-cli-go.2.md) (session · 9) | bob-cli-go hood | active 2, dismissed 7 |
+| [bob-cli-go.2](../../sessions/bbugyi200.apollo.bob-cli-go.2.md) (session · 9) | bob-cli-go hood | dismissed 9 |
 | [bob-cli-go.3](../../sessions/bbugyi200.apollo.bob-cli-go.3.md) (session · 15) | bob-cli-go hood | dismissed 15 |
-| [bob-cli-go.4](../../sessions/bbugyi200.apollo.bob-cli-go.4.md) (session · 3) | bob-cli-go hood | active 1, dismissed 2 |
+| [bob-cli-go.4](../../sessions/bbugyi200.apollo.bob-cli-go.4.md) (session · 3) | bob-cli-go hood | dismissed 3 |
 | [bob-cli-go.4.1.1](../../sessions/bbugyi200.apollo.bob-cli-go.4.1.1.md) (session · 5) | bob-cli-go hood | active 5 |
 | [bob-cli-go.4.1.2](../bbugyi200.apollo.bob-cli-go.4.1.2/README.md) | bob-cli-go hood | active |
 | [bob-cli-go.4.1.3](../../sessions/bbugyi200.apollo.bob-cli-go.4.1.3.md) (session · 9) | bob-cli-go hood | active 9 |
@@ -45,4 +45,4 @@
 | [bob-cli-go.7](../bbugyi200.apollo.bob-cli-go.7/README.md) | bob-cli-go hood | dismissed |
 | [bob-cli-go.8](../bbugyi200.apollo.bob-cli-go.8/README.md) | bob-cli-go hood | dismissed |
 | [bob-cli-go.9](../bbugyi200.apollo.bob-cli-go.9/README.md) | bob-cli-go hood | dismissed |
-| [bob-cli-go.land](../../sessions/bbugyi200.apollo.bob-cli-go.land.md) (session · 7) | bob-cli-go hood | active 1, completed 1, dismissed 4, failed 1 |
+| [bob-cli-go.land](../../sessions/bbugyi200.apollo.bob-cli-go.land.md) (session · 7) | bob-cli-go hood | completed 1, dismissed 5, failed 1 |

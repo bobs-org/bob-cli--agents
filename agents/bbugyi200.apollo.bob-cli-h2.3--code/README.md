@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ed12f3d`](https://github.com/bobs-org/bob-cli/commit/ed12f3d4f38f7fb80a560a44fd2f46e63ded36e8) | feat(capture)!: execute past Pomodoro stacks with explicit-entry record engine | 2026-11-04 14:32:05 EST |
+| — | `ed12f3d` | feat(capture)!: execute past Pomodoro stacks with explicit-entry record engine | 2026-11-04 14:32:05 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-h2.1](../../sessions/bbugyi200.apollo.bob-cli-h2.1.md) (session · 3) | bob-cli-h2 hood | active 2, completed 1 |
-| [bob-cli-h2.2](../bbugyi200.apollo.bob-cli-h2.2/README.md) | bob-cli-h2 hood | active |
-| [bob-cli-h2.4](../bbugyi200.apollo.bob-cli-h2.4/README.md) | bob-cli-h2 hood | active |
-| [bob-cli-h2.5](../bbugyi200.apollo.bob-cli-h2.5/README.md) | bob-cli-h2 hood | active |
-| [bob-cli-h2.6](../../sessions/bbugyi200.apollo.bob-cli-h2.6.md) (session · 3) | bob-cli-h2 hood | active 2, completed 1 |
-| [bob-cli-h2.land](../bbugyi200.apollo.bob-cli-h2.land/README.md) | bob-cli-h2 hood | active |
+| [bob-cli-h2.1](../../sessions/bbugyi200.apollo.bob-cli-h2.1.md) (session · 3) | bob-cli-h2 hood | completed 1, dismissed 2 |
+| [bob-cli-h2.2](../bbugyi200.apollo.bob-cli-h2.2/README.md) | bob-cli-h2 hood | dismissed |
+| [bob-cli-h2.4](../bbugyi200.apollo.bob-cli-h2.4/README.md) | bob-cli-h2 hood | dismissed |
+| [bob-cli-h2.5](../bbugyi200.apollo.bob-cli-h2.5/README.md) | bob-cli-h2 hood | dismissed |
+| [bob-cli-h2.6](../../sessions/bbugyi200.apollo.bob-cli-h2.6.md) (session · 3) | bob-cli-h2 hood | completed 1, dismissed 2 |
+| [bob-cli-h2.land](../bbugyi200.apollo.bob-cli-h2.land/README.md) | bob-cli-h2 hood | dismissed |
