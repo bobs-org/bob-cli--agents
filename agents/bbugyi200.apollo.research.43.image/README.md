@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.43.image
 
-**Global name:** `bbugyi200.apollo.research.43.image` · **State:** waiting · **Source run:** `run-03efeeb045c643d9a107db1500020c38`
+**Global name:** `bbugyi200.apollo.research.43.image` · **State:** completed · **Source run:** `run-03efeeb045c643d9a107db1500020c38`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261110143521
+- Timing: 2026-11-10T20:18:49.332303+00:00 → 2026-11-10T20:28:58.983496+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/album\_and\_record\_notes/album\_and\_record\_notes\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261110143521/album\_and\_record\_notes\_i… |
+| `diagrams` | {considered: 18, count: 2, manifest: 202611/album\_and\_record\_notes/album\_and\_record\_notes.diagrams.md, source\_ref: file:explicit:b84ec905a16b3a8b753d081d, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/album_and_record_notes/album_and_record_notes_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110143521/album_and_record_notes_infographic-87e4b99968fe.png
+  ref: file:explicit:87333a0b7f9b1813155a0074
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/album_and_record_notes/album_and_record_notes_infographic.png
+- kind: markdown
+  label: diagrams:202611/album_and_record_notes/album_and_record_notes.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110143521/album_and_record_notes.diagrams-06389c4b67d7.md
+  ref: file:explicit:d0e2d52101b31df71aafa882
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/album_and_record_notes/album_and_record_notes.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 18
+count: 2
+manifest: 202611/album_and_record_notes/album_and_record_notes.diagrams.md
+source_ref: file:explicit:b84ec905a16b3a8b753d081d
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
