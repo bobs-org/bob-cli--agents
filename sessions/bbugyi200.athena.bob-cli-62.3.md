@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`b1512d6`](https://github.com/bobs-org/bob-cli/commit/b1512d64a76bd2a6bf9096afa0e080aef02a1e21) | feat(highlights-ref): connect scan entrypoints with shared locator index and residence follow-ups | 2026-10-09 17:41:43 EDT |
+| 2 | — | `b1512d6` | feat(highlights-ref): connect scan entrypoints with shared locator index and residence follow-ups | 2026-10-09 17:41:43 EDT |
 
 ## Neighbors
 
@@ -42,4 +42,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-62.1](../agents/bbugyi200.athena.bob-cli-62.1/README.md) | bob-cli-62 hood | completed |
 | [bob-cli-62.2](../agents/bbugyi200.athena.bob-cli-62.2/README.md) | bob-cli-62 hood | completed |
 | [bob-cli-62.4](bbugyi200.athena.bob-cli-62.4.md) (session · 3) | bob-cli-62 hood | completed 2, failed 1 |
-| [bob-cli-62.land](bbugyi200.athena.bob-cli-62.land.md) (session · 5) | bob-cli-62 hood | active 1, completed 2, failed 2 |
+| [bob-cli-62.land](bbugyi200.athena.bob-cli-62.land.md) (session · 5) | bob-cli-62 hood | completed 2, dismissed 1, failed 2 |

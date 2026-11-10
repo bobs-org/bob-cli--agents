@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-7d](../../users/bbugyi200/machines/athena/hoods/bob-cli-7d/README.md) / bob-cli-7d.land
 
-**Global name:** `bbugyi200.athena.bob-cli-7d.land` · **State:** active · **Source run:** `run-b5aea108c8759aa170f670df4bb63171`
+**Global name:** `bbugyi200.athena.bob-cli-7d.land` · **State:** dismissed · **Source run:** `run-b5aea108c8759aa170f670df4bb63171`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-7d
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-7d](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-7d/README.md)
 - Model: grok-4.7
 - Provider: grok
-- Timing: 2026-10-13T15:05:43.032267+00:00
+- Timing: 2026-10-13T11:05:43.032267 → 2026-10-13T11:22:47.584870
 - Commits: 0
 
 ## Files

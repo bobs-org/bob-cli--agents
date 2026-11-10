@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4bfacc3`](https://github.com/bobs-org/bob-cli/commit/4bfacc320cab9995a09351a56ce2ab434da4d6a8) | feat(highlights-ref): execute v2 reading-task writes with guarded cross-file edits | 2026-10-09 16:33:06 EDT |
+| — | `4bfacc3` | feat(highlights-ref): execute v2 reading-task writes with guarded cross-file edits | 2026-10-09 16:33:06 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-62.1](../bbugyi200.athena.bob-cli-62.1/README.md) | bob-cli-62 hood | completed |
 | [bob-cli-62.3](../../sessions/bbugyi200.athena.bob-cli-62.3.md) (session · 5) | bob-cli-62 hood | completed 3, failed 2 |
 | [bob-cli-62.4](../../sessions/bbugyi200.athena.bob-cli-62.4.md) (session · 3) | bob-cli-62 hood | completed 2, failed 1 |
-| [bob-cli-62.land](../../sessions/bbugyi200.athena.bob-cli-62.land.md) (session · 5) | bob-cli-62 hood | active 1, completed 2, failed 2 |
+| [bob-cli-62.land](../../sessions/bbugyi200.athena.bob-cli-62.land.md) (session · 5) | bob-cli-62 hood | completed 2, dismissed 1, failed 2 |

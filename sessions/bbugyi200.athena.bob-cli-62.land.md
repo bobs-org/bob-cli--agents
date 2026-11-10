@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-62` · Members: 5 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-62.land--1 [active]"]
+  n0["bob-cli-62.land--1 [dismissed]"]
   n1["bob-cli-62.land--gate [failed]"]
   n0 --> n1
   n2["bob-cli-62.land--code [completed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-62.land--1 | active | muse-spark-1.3-contributor / muse | 2026-10-09T23:00:56.355877+00:00 | [1](../agents/bbugyi200.athena.bob-cli-62.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-62.land--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-62.land--1 | dismissed | muse-spark-1.3-contributor / muse | 2026-10-09T19:00:56.355877 → 2026-10-09T19:07:26.613421 | [1](../agents/bbugyi200.athena.bob-cli-62.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-62.land--1/prompt.md) | — |
 | <a id="member-gate"></a>gate | bob-cli-62.land--gate | failed | gpt-6.1-sol / codex | 2026-10-09T22:42:40.005459+00:00 → 2026-10-09T22:43:36.947733+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-62.land--gate/chat.md) |
 | <a id="member-code"></a>code | bob-cli-62.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-09T22:43:44.271230+00:00 → 2026-10-09T22:57:09.410663+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-62.land--code/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-62.land--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-09T22:55:42.788809+00:00 → 2026-10-09T22:59:41.771852+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-62.land--mon/chat.md) |
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`7e838c8`](https://github.com/bobs-org/bob-cli/commit/7e838c80fe5761cc606a1a39280f90e20040b327) | fix(ref-sync): repair v2 acceptance seams and land bob-cli-62 | 2026-10-09 19:04:55 EDT |
+| 1 | — | `7e838c8` | fix(ref-sync): repair v2 acceptance seams and land bob-cli-62 | 2026-10-09 19:04:55 EDT |
 
 ## Neighbors
 

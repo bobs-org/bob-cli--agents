@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8c938cf`](https://github.com/bobs-org/bob-cli/commit/8c938cfb2a126e2bc92185f7d278153b2ef7dfab) | feat(highlights-ref): add vault-free v2 reading-plan seam | 2026-10-09 16:11:07 EDT |
+| — | `8c938cf` | feat(highlights-ref): add vault-free v2 reading-plan seam | 2026-10-09 16:11:07 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-62.2](../bbugyi200.athena.bob-cli-62.2/README.md) | bob-cli-62 hood | completed |
 | [bob-cli-62.3](../../sessions/bbugyi200.athena.bob-cli-62.3.md) (session · 5) | bob-cli-62 hood | completed 3, failed 2 |
 | [bob-cli-62.4](../../sessions/bbugyi200.athena.bob-cli-62.4.md) (session · 3) | bob-cli-62 hood | completed 2, failed 1 |
-| [bob-cli-62.land](../../sessions/bbugyi200.athena.bob-cli-62.land.md) (session · 5) | bob-cli-62 hood | active 1, completed 2, failed 2 |
+| [bob-cli-62.land](../../sessions/bbugyi200.athena.bob-cli-62.land.md) (session · 5) | bob-cli-62 hood | completed 2, dismissed 1, failed 2 |

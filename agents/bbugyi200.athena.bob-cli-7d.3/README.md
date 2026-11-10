@@ -26,4 +26,4 @@
 | [bob-cli-7d.1](../bbugyi200.athena.bob-cli-7d.1/README.md) | bob-cli-7d hood | completed |
 | [bob-cli-7d.2](../bbugyi200.athena.bob-cli-7d.2/README.md) | bob-cli-7d hood | completed |
 | [bob-cli-7d.4](../bbugyi200.athena.bob-cli-7d.4/README.md) | bob-cli-7d hood | completed |
-| [bob-cli-7d.land](../bbugyi200.athena.bob-cli-7d.land/README.md) | bob-cli-7d hood | active |
+| [bob-cli-7d.land](../bbugyi200.athena.bob-cli-7d.land/README.md) | bob-cli-7d hood | dismissed |

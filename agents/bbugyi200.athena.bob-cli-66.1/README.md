@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6562b71`](https://github.com/bobs-org/bob-cli/commit/6562b71410672b9a32c790cd8215152d3fbe7eec) | feat(agenda): add -t/--tasks resolved agenda to bob capture-pomodoros | 2026-10-09 18:23:54 EDT |
+| — | `6562b71` | feat(agenda): add -t/--tasks resolved agenda to bob capture-pomodoros | 2026-10-09 18:23:54 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@
 | [bob-cli-66.5](../../sessions/bbugyi200.athena.bob-cli-66.5.md) (session · 9) | bob-cli-66 hood | completed 5, failed 4 |
 | [bob-cli-66.6](../../sessions/bbugyi200.athena.bob-cli-66.6.md) (session · 3) | bob-cli-66 hood | completed 2, failed 1 |
 | [bob-cli-66.7](../bbugyi200.athena.bob-cli-66.7/README.md) | bob-cli-66 hood | completed |
-| [bob-cli-66.land](../../sessions/bbugyi200.athena.bob-cli-66.land.md) (session · 15) | bob-cli-66 hood | active 1, completed 7, failed 7 |
+| [bob-cli-66.land](../../sessions/bbugyi200.athena.bob-cli-66.land.md) (session · 15) | bob-cli-66 hood | completed 7, dismissed 1, failed 7 |

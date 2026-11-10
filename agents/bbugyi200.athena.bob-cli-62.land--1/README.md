@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-62](../../users/bbugyi200/machines/athena/hoods/bob-cli-62/README.md) / [bob-cli-62.land](../../sessions/bbugyi200.athena.bob-cli-62.land.md) / bob-cli-62.land--1
 
-**Global name:** `bbugyi200.athena.bob-cli-62.land--1` · **State:** active · **Source run:** `run-141321d7790da141e2736f08003370fa`
+**Global name:** `bbugyi200.athena.bob-cli-62.land--1` · **State:** dismissed · **Source run:** `run-141321d7790da141e2736f08003370fa`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-62
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-62](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-62/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-09T23:00:56.355877+00:00
+- Timing: 2026-10-09T19:00:56.355877 → 2026-10-09T19:07:26.613421
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7e838c8`](https://github.com/bobs-org/bob-cli/commit/7e838c80fe5761cc606a1a39280f90e20040b327) | fix(ref-sync): repair v2 acceptance seams and land bob-cli-62 | 2026-10-09 19:04:55 EDT |
+| — | `7e838c8` | fix(ref-sync): repair v2 acceptance seams and land bob-cli-62 | 2026-10-09 19:04:55 EDT |
 
 ## Neighbors
 

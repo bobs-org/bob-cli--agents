@@ -31,7 +31,7 @@ flowchart TD
   n0 --> n10
   n11["bob-cli-66.land--1 [completed]"]
   n0 --> n11
-  n12["bob-cli-66.land--6 [active]"]
+  n12["bob-cli-66.land--6 [dismissed]"]
   n0 --> n12
   n13["bob-cli-66.land--3 [completed]"]
   n0 --> n13
@@ -55,7 +55,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-4"></a>mon-4 | bob-cli-66.land--mon-4 | failed | muse-spark-1.3-contributor / muse | 2026-10-10T04:08:57.848197+00:00 → 2026-10-10T04:13:13.647716+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-66.land--mon-4/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-66.land--2 | completed | muse-spark-1.3-contributor / muse | 2026-10-10T03:05:09.534663+00:00 → 2026-10-10T03:15:36.869239+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-66.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-66.land--2/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-66.land--1 | completed | muse-spark-1.3-contributor / muse | 2026-10-10T02:41:00.869077+00:00 → 2026-10-10T02:59:28.852470+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-66.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-66.land--1/chat.md) |
-| <a id="member-6"></a>6 | bob-cli-66.land--6 | active | muse-spark-1.3-contributor / muse | 2026-10-10T04:13:59.959559+00:00 | [1](../agents/bbugyi200.athena.bob-cli-66.land--6/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-66.land--6/prompt.md) | — |
+| <a id="member-6"></a>6 | bob-cli-66.land--6 | dismissed | muse-spark-1.3-contributor / muse | 2026-10-10T00:13:59.959559 → 2026-10-10T00:28:15.224841 | [1](../agents/bbugyi200.athena.bob-cli-66.land--6/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-66.land--6/prompt.md) | — |
 | <a id="member-3"></a>3 | bob-cli-66.land--3 | completed | muse-spark-1.3-contributor / muse | 2026-10-10T03:20:21.903541+00:00 → 2026-10-10T03:26:12.384300+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-66.land--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-66.land--3/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-66.land--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-10T02:35:42.272891+00:00 → 2026-10-10T02:40:26.456912+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-66.land--mon/chat.md) |
 
@@ -63,7 +63,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 6 | bob-cli | [`0f8ff5a`](https://github.com/bobs-org/bob-cli/commit/0f8ff5ac74f246207bf1c27cafe043194948b33c) | feat(agenda): idle capture agenda Part A fixes A1-A6 with null-key goldens | 2026-10-10 00:24:58 EDT |
+| 6 | — | `0f8ff5a` | feat(agenda): idle capture agenda Part A fixes A1-A6 with null-key goldens | 2026-10-10 00:24:58 EDT |
 
 ## Neighbors
 

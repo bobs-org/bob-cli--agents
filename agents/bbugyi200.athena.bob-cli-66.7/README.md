@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`817fd2b`](https://github.com/bobs-org/bob-cli/commit/817fd2b47b1b8d7314ee8e9528193ef0f58b387d) | docs(decisions): record idle agenda caching, folding, and eye-line policy | 2026-10-09 21:38:35 EDT |
+| — | `817fd2b` | docs(decisions): record idle agenda caching, folding, and eye-line policy | 2026-10-09 21:38:35 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@
 | [bob-cli-66.4](../bbugyi200.athena.bob-cli-66.4/README.md) | bob-cli-66 hood | completed |
 | [bob-cli-66.5](../../sessions/bbugyi200.athena.bob-cli-66.5.md) (session · 9) | bob-cli-66 hood | completed 5, failed 4 |
 | [bob-cli-66.6](../../sessions/bbugyi200.athena.bob-cli-66.6.md) (session · 3) | bob-cli-66 hood | completed 2, failed 1 |
-| [bob-cli-66.land](../../sessions/bbugyi200.athena.bob-cli-66.land.md) (session · 15) | bob-cli-66 hood | active 1, completed 7, failed 7 |
+| [bob-cli-66.land](../../sessions/bbugyi200.athena.bob-cli-66.land.md) (session · 15) | bob-cli-66 hood | completed 7, dismissed 1, failed 7 |

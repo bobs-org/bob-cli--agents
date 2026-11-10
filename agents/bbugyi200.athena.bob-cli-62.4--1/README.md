@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`61e5c47`](https://github.com/bobs-org/bob-cli/commit/61e5c47e511192d91b5a424da904424cb1aadc84) | docs(ref-sync): finish reports, documentation, and acceptance verification | 2026-10-09 18:26:59 EDT |
+| — | `61e5c47` | docs(ref-sync): finish reports, documentation, and acceptance verification | 2026-10-09 18:26:59 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [bob-cli-62.1](../bbugyi200.athena.bob-cli-62.1/README.md) | bob-cli-62 hood | completed |
 | [bob-cli-62.2](../bbugyi200.athena.bob-cli-62.2/README.md) | bob-cli-62 hood | completed |
 | [bob-cli-62.3](../../sessions/bbugyi200.athena.bob-cli-62.3.md) (session · 5) | bob-cli-62 hood | completed 3, failed 2 |
-| [bob-cli-62.land](../../sessions/bbugyi200.athena.bob-cli-62.land.md) (session · 5) | bob-cli-62 hood | active 1, completed 2, failed 2 |
+| [bob-cli-62.land](../../sessions/bbugyi200.athena.bob-cli-62.land.md) (session · 5) | bob-cli-62 hood | completed 2, dismissed 1, failed 2 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-66](../../users/bbugyi200/machines/athena/hoods/bob-cli-66/README.md) / [bob-cli-66.land](../../sessions/bbugyi200.athena.bob-cli-66.land.md) / bob-cli-66.land--6
 
-**Global name:** `bbugyi200.athena.bob-cli-66.land--6` · **State:** active · **Source run:** `run-c61829397a9b8756db1fa4d42b22737e`
+**Global name:** `bbugyi200.athena.bob-cli-66.land--6` · **State:** dismissed · **Source run:** `run-c61829397a9b8756db1fa4d42b22737e`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-66
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-66](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-66/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-10T04:13:59.959559+00:00
+- Timing: 2026-10-10T00:13:59.959559 → 2026-10-10T00:28:15.224841
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0f8ff5a`](https://github.com/bobs-org/bob-cli/commit/0f8ff5ac74f246207bf1c27cafe043194948b33c) | feat(agenda): idle capture agenda Part A fixes A1-A6 with null-key goldens | 2026-10-10 00:24:58 EDT |
+| — | `0f8ff5a` | feat(agenda): idle capture agenda Part A fixes A1-A6 with null-key goldens | 2026-10-10 00:24:58 EDT |
 
 ## Neighbors
 

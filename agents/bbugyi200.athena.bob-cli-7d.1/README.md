@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f2f2fd0`](https://github.com/bobs-org/bob-cli/commit/f2f2fd037f3cec857374af1c34fe37e137ef3052) | feat(capture): whole-draft /query Go To grammar, candidates, docs, and digest vectors | 2026-10-13 10:13:42 EDT |
+| — | `f2f2fd0` | feat(capture): whole-draft /query Go To grammar, candidates, docs, and digest vectors | 2026-10-13 10:13:42 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-7d.2](../bbugyi200.athena.bob-cli-7d.2/README.md) | bob-cli-7d hood | completed |
 | [bob-cli-7d.3](../bbugyi200.athena.bob-cli-7d.3/README.md) | bob-cli-7d hood | completed |
 | [bob-cli-7d.4](../bbugyi200.athena.bob-cli-7d.4/README.md) | bob-cli-7d hood | completed |
-| [bob-cli-7d.land](../bbugyi200.athena.bob-cli-7d.land/README.md) | bob-cli-7d hood | active |
+| [bob-cli-7d.land](../bbugyi200.athena.bob-cli-7d.land/README.md) | bob-cli-7d hood | dismissed |
