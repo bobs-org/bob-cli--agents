@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.41.image
 
-**Global name:** `bbugyi200.apollo.research.41.image` · **State:** waiting · **Source run:** `run-1f89a17a4029228cce35683275bf9e50`
+**Global name:** `bbugyi200.apollo.research.41.image` · **State:** completed · **Source run:** `run-1f89a17a4029228cce35683275bf9e50`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261110095924
+- Timing: 2026-11-10T15:48:00.712508+00:00 → 2026-11-10T15:57:09.755164+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/period\_strip\_two\_chart\_redesign/period\_strip\_two\_chart\_redesign\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261110095924/period… |
+| `diagrams` | {considered: 19, count: 1, manifest: 202611/period\_strip\_two\_chart\_redesign/period\_strip\_two\_chart\_redesign.diagrams.md, source\_ref: file:explicit:88d09bd22c98420fe5a84578, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/period_strip_two_chart_redesign/period_strip_two_chart_redesign_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110095924/period_strip_two_chart_redesign_infographic-cf40bc668f1d.png
+  ref: file:explicit:f4744f5a16fbe6509d3ab46c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/period_strip_two_chart_redesign/period_strip_two_chart_redesign_infographic.png
+- kind: markdown
+  label: diagrams:202611/period_strip_two_chart_redesign/period_strip_two_chart_redesign.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110095924/period_strip_two_chart_redesign.diagrams-6917727a417c.md
+  ref: file:explicit:8ef6a2e6733c5bbe51c0eb59
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/period_strip_two_chart_redesign/period_strip_two_chart_redesign.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 19
+count: 1
+manifest: 202611/period_strip_two_chart_redesign/period_strip_two_chart_redesign.diagrams.md
+source_ref: file:explicit:88d09bd22c98420fe5a84578
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +62,7 @@
 | [research.41.gem](../bbugyi200.apollo.research.41.gem/README.md) | research.41 hood | completed |
 | [research.41.grk](../bbugyi200.apollo.research.41.grk/README.md) | research.41 hood | completed |
 | [research.41.linker](../bbugyi200.apollo.research.41.linker/README.md) | research.41 hood | waiting |
+| [research.41.linker.w0](../bbugyi200.apollo.research.41.linker.w0/README.md) | research.41 hood | waiting |
 | [research.41.mus](../bbugyi200.apollo.research.41.mus/README.md) | research.41 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
