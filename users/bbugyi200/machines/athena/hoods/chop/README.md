@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / chop
 
-**Global hood:** `bbugyi200.athena.chop` · **Runs:** 61 · **Sessions:** 7 · **States:** active 29, completed 20, failed 8, waiting 4
+**Global hood:** `bbugyi200.athena.chop` · **Runs:** 61 · **Sessions:** 7 · **States:** active 29, completed 21, failed 8, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -10,7 +10,7 @@
 | [chop.refresh\_docs.bob-cli.6\_015851.1--mon](../../../../../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.6_015851.1.md#member-mon) | completed | gpt-6-astra / codex | 2026-11-07T01:14:52.837887+00:00 → 2026-11-07T01:19:40.302458+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.6_015851.1--mon/chat.md) |
 | [chop.refresh\_docs.bob-cli.5\_711563.1--mon-1](../../../../../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.5_711563.1.md#member-mon-1) | failed | gpt-6-astra / codex | 2026-11-02T04:11:27.632208+00:00 → 2026-11-02T04:15:04.928893+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_711563.1--mon-1/chat.md) |
 | [chop.refresh\_docs.bob-cli.7\_214221.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.7_214221.1/README.md) | active | gpt-6-astra / codex | 2026-10-31T22:09:43.574367+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.7_214221.1/prompt.md) |
-| [chop.refresh\_docs.bob-cli.8\_350117.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_350117.2/README.md) | waiting | gpt-6-astra / codex | 20261109060042 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_350117.2/prompt.md) |
+| [chop.refresh\_docs.bob-cli.8\_350117.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_350117.2/README.md) | completed | gpt-6-astra / codex | 2026-11-10T05:42:42.299137+00:00 → 2026-11-10T05:51:59.543100+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_350117.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_350117.2/chat.md) |
 | [chop.refresh\_docs.bob-cli.8\_638105.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_638105.2/README.md) | active | gpt-6-astra / codex | 2026-10-18T12:56:11.725786+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_638105.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_638105.2/chat.md) |
 | [chop.refresh\_docs.bob-cli.8\_406070.1](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_406070.1/README.md) | active | grok-4.7 / grok | 2026-10-13T11:53:48.603537+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_406070.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_406070.1/chat.md) |
 | [chop.refresh\_docs.bob-cli.8\_302405.2](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_302405.2/README.md) | active | grok-4.7 / grok | 2026-10-08T07:55:59.445953+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_302405.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_302405.2/chat.md) |

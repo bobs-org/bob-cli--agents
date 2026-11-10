@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.bob-cli.8\_350117.2
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.8_350117.2` · **State:** waiting · **Source run:** `run-0a955138ed9dd18a18ec4436687704ed`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.8_350117.2` · **State:** completed · **Source run:** `run-0a955138ed9dd18a18ec4436687704ed`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** chop
 
@@ -10,12 +10,18 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261109060042
-- Commits: 0
+- Timing: 2026-11-10T05:42:42.299137+00:00 → 2026-11-10T05:51:59.543100+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`4a0206e`](https://github.com/bobs-org/bob-cli/commit/4a0206ece427ef8398dec6bf7f94cf2a1867865d) | docs: verify refreshed capture and archive descriptions | 2026-11-10 00:51:39 EST |
 
 ## Neighbors
 
