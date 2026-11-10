@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.41.linker
 
-**Global name:** `bbugyi200.apollo.research.41.linker` · **State:** waiting · **Source run:** `run-e7661e85e63098860635e716e1633a76`
+**Global name:** `bbugyi200.apollo.research.41.linker` · **State:** completed · **Source run:** `run-e7661e85e63098860635e716e1633a76`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261110095925
+- Timing: 2026-11-10T15:57:58.128091+00:00 → 2026-11-10T16:05:02.942761+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/period\_strip\_two\_chart\_redesign/period\_strip\_two\_chart\_redesign.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261110095925/period\_strip\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/period_strip_two_chart_redesign/period_strip_two_chart_redesign.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110095925/period_strip_two_chart_redesign-7c254010a899.md
+  ref: file:explicit:7db8fa570c16a35616f54407
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/period_strip_two_chart_redesign/period_strip_two_chart_redesign.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
