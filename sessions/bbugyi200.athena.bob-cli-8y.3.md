@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`58c9614`](https://github.com/bobs-org/bob-cli/commit/58c9614401350666609e9dbc67d5b95f8aa5b0d9) | feat(highlights-ref): render mermaid diagrams through the clip adapter | 2026-10-17 21:56:04 EDT |
+| 2 | — | `58c9614` | feat(highlights-ref): render mermaid diagrams through the clip adapter | 2026-10-17 21:56:04 EDT |
 
 ## Neighbors
 
@@ -42,4 +42,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-8y.1](bbugyi200.athena.bob-cli-8y.1.md) (session · 9) | bob-cli-8y hood | completed 5, failed 4 |
 | [bob-cli-8y.2](bbugyi200.athena.bob-cli-8y.2.md) (session · 5) | bob-cli-8y hood | completed 3, failed 2 |
 | [bob-cli-8y.4](../agents/bbugyi200.athena.bob-cli-8y.4/README.md) | bob-cli-8y hood | completed |
-| [bob-cli-8y.land](bbugyi200.athena.bob-cli-8y.land.md) (session · 5) | bob-cli-8y hood | active 1, completed 2, failed 2 |
+| [bob-cli-8y.land](bbugyi200.athena.bob-cli-8y.land.md) (session · 5) | bob-cli-8y hood | completed 2, dismissed 1, failed 2 |

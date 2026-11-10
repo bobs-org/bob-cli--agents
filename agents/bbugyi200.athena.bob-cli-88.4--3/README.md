@@ -31,4 +31,4 @@
 | [bob-cli-88.1](../bbugyi200.athena.bob-cli-88.1/README.md) | bob-cli-88 hood | completed |
 | [bob-cli-88.2](../bbugyi200.athena.bob-cli-88.2/README.md) | bob-cli-88 hood | completed |
 | [bob-cli-88.3](../bbugyi200.athena.bob-cli-88.3/README.md) | bob-cli-88 hood | completed |
-| [bob-cli-88.land](../../sessions/bbugyi200.athena.bob-cli-88.land.md) (session · 3) | bob-cli-88 hood | active 1, completed 1, failed 1 |
+| [bob-cli-88.land](../../sessions/bbugyi200.athena.bob-cli-88.land.md) (session · 3) | bob-cli-88 hood | completed 1, dismissed 1, failed 1 |

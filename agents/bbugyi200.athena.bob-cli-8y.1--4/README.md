@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`54670b4`](https://github.com/bobs-org/bob-cli/commit/54670b4535e3328f5ec1e54c574ff4e7ac8925de) | feat(web-clip): add offline Mermaid diagram rendering | 2026-10-17 20:34:41 EDT |
+| — | `54670b4` | feat(web-clip): add offline Mermaid diagram rendering | 2026-10-17 20:34:41 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [bob-cli-8y.2](../../sessions/bbugyi200.athena.bob-cli-8y.2.md) (session · 5) | bob-cli-8y hood | completed 3, failed 2 |
 | [bob-cli-8y.3](../../sessions/bbugyi200.athena.bob-cli-8y.3.md) (session · 5) | bob-cli-8y hood | completed 3, failed 2 |
 | [bob-cli-8y.4](../bbugyi200.athena.bob-cli-8y.4/README.md) | bob-cli-8y hood | completed |
-| [bob-cli-8y.land](../../sessions/bbugyi200.athena.bob-cli-8y.land.md) (session · 5) | bob-cli-8y hood | active 1, completed 2, failed 2 |
+| [bob-cli-8y.land](../../sessions/bbugyi200.athena.bob-cli-8y.land.md) (session · 5) | bob-cli-8y hood | completed 2, dismissed 1, failed 2 |

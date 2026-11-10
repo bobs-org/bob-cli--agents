@@ -28,4 +28,4 @@
 | [bob-cli-8x.3](../bbugyi200.athena.bob-cli-8x.3/README.md) | bob-cli-8x hood | completed |
 | [bob-cli-8x.4](../bbugyi200.athena.bob-cli-8x.4/README.md) | bob-cli-8x hood | completed |
 | [bob-cli-8x.6](../bbugyi200.athena.bob-cli-8x.6/README.md) | bob-cli-8x hood | completed |
-| [bob-cli-8x.land](../../sessions/bbugyi200.athena.bob-cli-8x.land.md) (session · 3) | bob-cli-8x hood | active 1, completed 1, failed 1 |
+| [bob-cli-8x.land](../../sessions/bbugyi200.athena.bob-cli-8x.land.md) (session · 3) | bob-cli-8x hood | completed 1, dismissed 1, failed 1 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-8y](../../users/bbugyi200/machines/athena/hoods/bob-cli-8y/README.md) / [bob-cli-8y.land](../../sessions/bbugyi200.athena.bob-cli-8y.land.md) / bob-cli-8y.land--1
 
-**Global name:** `bbugyi200.athena.bob-cli-8y.land--1` · **State:** active · **Source run:** `run-a26b8ea762480ad06bb1ecefee14df4a`
+**Global name:** `bbugyi200.athena.bob-cli-8y.land--1` · **State:** dismissed · **Source run:** `run-a26b8ea762480ad06bb1ecefee14df4a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-8y
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-8y](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-8y/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-18T02:54:35.917186+00:00
+- Timing: 2026-10-17T22:54:35.917186 → 2026-10-17T23:03:55.255588
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fd3f400`](https://github.com/bobs-org/bob-cli/commit/fd3f400b142ab667ca4ba885ebe5a8d2ea9976c1) | fix(highlights): repair Mermaid landing edge cases | 2026-10-17 23:01:19 EDT |
+| — | `fd3f400` | fix(highlights): repair Mermaid landing edge cases | 2026-10-17 23:01:19 EDT |
 
 ## Neighbors
 

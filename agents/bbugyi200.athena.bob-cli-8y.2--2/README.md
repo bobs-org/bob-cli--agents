@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ad036f9`](https://github.com/bobs-org/bob-cli/commit/ad036f9b530b0d735f0d1079e59e718233b437b8) | feat(highlights-ref): add mermaid diagram collect and swap filters | 2026-10-17 21:01:59 EDT |
+| — | `ad036f9` | feat(highlights-ref): add mermaid diagram collect and swap filters | 2026-10-17 21:01:59 EDT |
 
 ## Neighbors
 
@@ -31,4 +31,4 @@
 | [bob-cli-8y.1](../../sessions/bbugyi200.athena.bob-cli-8y.1.md) (session · 9) | bob-cli-8y hood | completed 5, failed 4 |
 | [bob-cli-8y.3](../../sessions/bbugyi200.athena.bob-cli-8y.3.md) (session · 5) | bob-cli-8y hood | completed 3, failed 2 |
 | [bob-cli-8y.4](../bbugyi200.athena.bob-cli-8y.4/README.md) | bob-cli-8y hood | completed |
-| [bob-cli-8y.land](../../sessions/bbugyi200.athena.bob-cli-8y.land.md) (session · 5) | bob-cli-8y hood | active 1, completed 2, failed 2 |
+| [bob-cli-8y.land](../../sessions/bbugyi200.athena.bob-cli-8y.land.md) (session · 5) | bob-cli-8y hood | completed 2, dismissed 1, failed 2 |

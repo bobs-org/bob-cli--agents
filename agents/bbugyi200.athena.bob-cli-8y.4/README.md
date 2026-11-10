@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`99b2ac4`](https://github.com/bobs-org/bob-cli/commit/99b2ac4085705d021d332bee440d52897364cd17) | feat(highlights): finish Mermaid diagram acceptance | 2026-10-17 22:19:05 EDT |
+| — | `99b2ac4` | feat(highlights): finish Mermaid diagram acceptance | 2026-10-17 22:19:05 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-8y.1](../../sessions/bbugyi200.athena.bob-cli-8y.1.md) (session · 9) | bob-cli-8y hood | completed 5, failed 4 |
 | [bob-cli-8y.2](../../sessions/bbugyi200.athena.bob-cli-8y.2.md) (session · 5) | bob-cli-8y hood | completed 3, failed 2 |
 | [bob-cli-8y.3](../../sessions/bbugyi200.athena.bob-cli-8y.3.md) (session · 5) | bob-cli-8y hood | completed 3, failed 2 |
-| [bob-cli-8y.land](../../sessions/bbugyi200.athena.bob-cli-8y.land.md) (session · 5) | bob-cli-8y hood | active 1, completed 2, failed 2 |
+| [bob-cli-8y.land](../../sessions/bbugyi200.athena.bob-cli-8y.land.md) (session · 5) | bob-cli-8y hood | completed 2, dismissed 1, failed 2 |

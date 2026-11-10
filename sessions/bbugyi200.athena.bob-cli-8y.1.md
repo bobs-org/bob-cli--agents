@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 4 | bob-cli | [`54670b4`](https://github.com/bobs-org/bob-cli/commit/54670b4535e3328f5ec1e54c574ff4e7ac8925de) | feat(web-clip): add offline Mermaid diagram rendering | 2026-10-17 20:34:41 EDT |
+| 4 | — | `54670b4` | feat(web-clip): add offline Mermaid diagram rendering | 2026-10-17 20:34:41 EDT |
 
 ## Neighbors
 
@@ -54,4 +54,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-8y.2](bbugyi200.athena.bob-cli-8y.2.md) (session · 5) | bob-cli-8y hood | completed 3, failed 2 |
 | [bob-cli-8y.3](bbugyi200.athena.bob-cli-8y.3.md) (session · 5) | bob-cli-8y hood | completed 3, failed 2 |
 | [bob-cli-8y.4](../agents/bbugyi200.athena.bob-cli-8y.4/README.md) | bob-cli-8y hood | completed |
-| [bob-cli-8y.land](bbugyi200.athena.bob-cli-8y.land.md) (session · 5) | bob-cli-8y hood | active 1, completed 2, failed 2 |
+| [bob-cli-8y.land](bbugyi200.athena.bob-cli-8y.land.md) (session · 5) | bob-cli-8y hood | completed 2, dismissed 1, failed 2 |
