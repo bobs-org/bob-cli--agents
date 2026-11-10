@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ji](../users/bbugyi200/machines/apollo/hoods/bob-cli-ji/README.md) / bob-cli-ji.7.1.4
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-ji` · Members: 14 · Bead: [bob-cli-ji.7.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ji/bob-cli-ji.7.1.4.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-ji` · Members: 15 · Bead: [bob-cli-ji.7.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ji/bob-cli-ji.7.1.4.md)
 
 ## Lineage
 
@@ -31,10 +31,12 @@ flowchart TD
   n0 --> n10
   n11["bob-cli-ji.7.1.4--2 [completed]"]
   n0 --> n11
-  n12["bob-cli-ji.7.1.4--mon-5 [active]"]
+  n12["bob-cli-ji.7.1.4--7 [completed]"]
   n0 --> n12
-  n13["bob-cli-ji.7.1.4--1 [completed]"]
+  n13["bob-cli-ji.7.1.4--mon-5 [failed]"]
   n0 --> n13
+  n14["bob-cli-ji.7.1.4--1 [completed]"]
+  n0 --> n14
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -53,7 +55,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-3"></a>mon-3 | bob-cli-ji.7.1.4--mon-3 | failed | grok-4.6 / grok | 2026-11-10T18:52:44.077946+00:00 → 2026-11-10T19:05:37.344079+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.4--mon-3/chat.md) |
 | <a id="member-6"></a>6 | bob-cli-ji.7.1.4--6 | completed | grok-4.6 / grok | 2026-11-10T19:32:27.841418+00:00 → 2026-11-10T19:41:04.712630+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.4--6/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.4--6/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-ji.7.1.4--2 | completed | gpt-6-luna / codex | 2026-11-10T18:15:54.068264+00:00 → 2026-11-10T18:21:27.218351+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.4--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.4--2/chat.md) |
-| <a id="member-mon-5"></a>mon-5 | bob-cli-ji.7.1.4--mon-5 | active | grok-4.6 / grok | 2026-11-10T19:39:11.017770+00:00 | 0 | — | — |
+| <a id="member-7"></a>7 | bob-cli-ji.7.1.4--7 | completed | grok-4.6 / grok | 2026-11-10T20:03:11.892696+00:00 → 2026-11-10T20:08:14.203764+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.4--7/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.4--7/chat.md) |
+| <a id="member-mon-5"></a>mon-5 | bob-cli-ji.7.1.4--mon-5 | failed | grok-4.6 / grok | 2026-11-10T19:39:11.017770+00:00 → 2026-11-10T20:03:04.975575+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.4--mon-5/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-ji.7.1.4--1 | completed | gpt-6-luna / codex | 2026-11-10T18:03:16.900338+00:00 → 2026-11-10T18:07:05.540405+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.4--1/chat.md) |
 
 ## Neighbors
@@ -64,7 +67,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ji.7.1.1](../agents/bbugyi200.apollo.bob-cli-ji.7.1.1/README.md) | bob-cli-ji.7.1 hood | completed |
 | [bob-cli-ji.7.1.2](bbugyi200.apollo.bob-cli-ji.7.1.2.md) (session · 3) | bob-cli-ji.7.1 hood | completed 2, failed 1 |
 | [bob-cli-ji.7.1.3](bbugyi200.apollo.bob-cli-ji.7.1.3.md) (session · 3) | bob-cli-ji.7.1 hood | completed 2, failed 1 |
-| [bob-cli-ji.7.1.5](../agents/bbugyi200.apollo.bob-cli-ji.7.1.5/README.md) | bob-cli-ji.7.1 hood | waiting |
+| [bob-cli-ji.7.1.5](bbugyi200.apollo.bob-cli-ji.7.1.5.md) (session · 2) | bob-cli-ji.7.1 hood | active 1, completed 1 |
 | [bob-cli-ji.7.1.6](../agents/bbugyi200.apollo.bob-cli-ji.7.1.6/README.md) | bob-cli-ji.7.1 hood | waiting |
 | [bob-cli-ji.7.1.land](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land/README.md) | bob-cli-ji.7.1 hood | waiting |
 | [bob-cli-ji.1](../agents/bbugyi200.apollo.bob-cli-ji.1/README.md) | bob-cli-ji hood | completed |
