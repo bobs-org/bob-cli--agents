@@ -9,9 +9,9 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-ep` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-ep.land--code [completed]"]
-  n1["bob-cli-ep.land--gate [active]"]
+  n1["bob-cli-ep.land--gate [dismissed]"]
   n0 --> n1
-  n2["bob-cli-ep.land--plan [active]"]
+  n2["bob-cli-ep.land--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | bob-cli-ep.land--code | completed | sonnet / claude | 2026-10-31T14:05:59.808066+00:00 → 2026-10-31T14:25:15.161355+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ep.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ep.land--code/chat.md) |
-| <a id="member-gate"></a>gate | bob-cli-ep.land--gate | active | opus / claude | 2026-10-31T14:05:14.860321+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ep.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ep.land--plan | active | opus / claude | 2026-10-31T13:49:30.499527+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ep.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ep.land--plan/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-ep.land--gate | dismissed | opus / claude | 2026-10-31T10:05:14.860321 → 2026-10-31T10:05:34 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ep.land--gate/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ep.land--plan | dismissed | opus / claude | 2026-10-31T09:49:30.499527 → 2026-10-31T10:25:15.568790 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ep.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ep.land--plan/chat.md) |
 
 ## Commits
 
@@ -33,5 +33,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ep.1](bbugyi200.apollo.bob-cli-ep.1.md) (session · 9) | bob-cli-ep hood | active 3, completed 2, dismissed 4 |
+| [bob-cli-ep.1](bbugyi200.apollo.bob-cli-ep.1.md) (session · 9) | bob-cli-ep hood | completed 2, dismissed 7 |
 | [bob-cli-ep.2](../agents/bbugyi200.apollo.bob-cli-ep.2/README.md) | bob-cli-ep hood | dismissed |

@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-ex` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ex.2--plan [active]"]
-  n1["bob-cli-ex.2--mon [active]"]
+  n0["bob-cli-ex.2--plan [dismissed]"]
+  n1["bob-cli-ex.2--mon [dismissed]"]
   n0 --> n1
-  n2["bob-cli-ex.2--gate [active]"]
+  n2["bob-cli-ex.2--gate [dismissed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-ex.2--plan | active | gpt-6-astra / codex | 2026-10-31T17:49:25.215863+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ex.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ex.2--plan/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-ex.2--mon | active | gpt-6-astra / codex | 2026-10-31T17:56:33.173948+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ex.2--mon/chat.md) |
-| <a id="member-gate"></a>gate | bob-cli-ex.2--gate | active | gpt-6-astra / codex | 2026-10-31T17:56:19.113730+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ex.2--gate/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ex.2--plan | dismissed | gpt-6-astra / codex | 2026-10-31T13:49:25.215863 → 2026-10-31T13:56:41.886696 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ex.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ex.2--plan/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-ex.2--mon | dismissed | gpt-6-astra / codex | 2026-10-31T13:56:33.173948 → 2026-10-31T13:58:12.009305 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ex.2--mon/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-ex.2--gate | dismissed | gpt-6-astra / codex | 2026-10-31T13:56:19.113730 → 2026-10-31T13:56:35 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ex.2--gate/chat.md) |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ex.2.1.2](../agents/bbugyi200.apollo.bob-cli-ex.2.1.2/README.md) | descendant | active |
 | [bob-cli-ex.2.1.3](../agents/bbugyi200.apollo.bob-cli-ex.2.1.3/README.md) | descendant | active |
 | [bob-cli-ex.2.1.land](bbugyi200.apollo.bob-cli-ex.2.1.land.md) (session · 3) | descendant | active 2, completed 1 |
-| [bob-cli-ex.1](../agents/bbugyi200.apollo.bob-cli-ex.1/README.md) | bob-cli-ex hood | active |
-| [bob-cli-ex.3](../agents/bbugyi200.apollo.bob-cli-ex.3/README.md) | bob-cli-ex hood | active |
-| [bob-cli-ex.4](bbugyi200.apollo.bob-cli-ex.4.md) (session · 13) | bob-cli-ex hood | active 13 |
-| [bob-cli-ex.land](bbugyi200.apollo.bob-cli-ex.land.md) (session · 7) | bob-cli-ex hood | active 5, completed 1, failed 1 |
+| [bob-cli-ex.1](../agents/bbugyi200.apollo.bob-cli-ex.1/README.md) | bob-cli-ex hood | dismissed |
+| [bob-cli-ex.3](../agents/bbugyi200.apollo.bob-cli-ex.3/README.md) | bob-cli-ex hood | dismissed |
+| [bob-cli-ex.4](bbugyi200.apollo.bob-cli-ex.4.md) (session · 13) | bob-cli-ex hood | dismissed 13 |
+| [bob-cli-ex.land](bbugyi200.apollo.bob-cli-ex.land.md) (session · 7) | bob-cli-ex hood | completed 1, dismissed 5, failed 1 |

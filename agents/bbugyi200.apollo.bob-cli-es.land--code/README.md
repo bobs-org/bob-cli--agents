@@ -22,11 +22,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`45b8346`](https://github.com/bobs-org/bob-cli/commit/45b8346ddbf0d21c698bdf52ce9f8731c4f631de) | fix(gcal): repair Events stamp spacing and finish landing | 2026-10-30 20:33:02 EDT |
+| — | `45b8346` | fix(gcal): repair Events stamp spacing and finish landing | 2026-10-30 20:33:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-es.1](../../sessions/bbugyi200.apollo.bob-cli-es.1.md) (session · 3) | bob-cli-es hood | active 3 |
-| [bob-cli-es.2](../bbugyi200.apollo.bob-cli-es.2/README.md) | bob-cli-es hood | active |
+| [bob-cli-es.1](../../sessions/bbugyi200.apollo.bob-cli-es.1.md) (session · 3) | bob-cli-es hood | dismissed 3 |
+| [bob-cli-es.2](../bbugyi200.apollo.bob-cli-es.2/README.md) | bob-cli-es hood | dismissed |

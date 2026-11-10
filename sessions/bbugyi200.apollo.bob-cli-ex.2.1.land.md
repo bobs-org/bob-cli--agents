@@ -27,18 +27,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | bob-cli | [`42dd92b`](https://github.com/bobs-org/bob-cli/commit/42dd92bc66193dfc3ad16fc6ff0b9813d51c92c9) | fix(capture): finish project-offer landing repairs for bob-cli-ex.2.1 | 2026-10-31 17:52:51 EDT |
-| code | bob-cli | [`f411232`](https://github.com/bobs-org/bob-cli/commit/f41123201f285887d63e1ed50802c7bd118e38d0) | fix(capture): refuse route-less sealed offers and keep offer mode while incomplete | 2026-11-01 09:53:08 EST |
+| — | — | `42dd92b` | fix(capture): finish project-offer landing repairs for bob-cli-ex.2.1 | 2026-10-31 17:52:51 EDT |
+| code | — | `f411232` | fix(capture): refuse route-less sealed offers and keep offer mode while incomplete | 2026-11-01 09:53:08 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ex.2](bbugyi200.apollo.bob-cli-ex.2.md) (session · 3) | ancestor | active 3 |
+| [bob-cli-ex.2](bbugyi200.apollo.bob-cli-ex.2.md) (session · 3) | ancestor | dismissed 3 |
 | [bob-cli-ex.2.1.1](../agents/bbugyi200.apollo.bob-cli-ex.2.1.1/README.md) | bob-cli-ex.2.1 hood | active |
 | [bob-cli-ex.2.1.2](../agents/bbugyi200.apollo.bob-cli-ex.2.1.2/README.md) | bob-cli-ex.2.1 hood | active |
 | [bob-cli-ex.2.1.3](../agents/bbugyi200.apollo.bob-cli-ex.2.1.3/README.md) | bob-cli-ex.2.1 hood | active |
-| [bob-cli-ex.1](../agents/bbugyi200.apollo.bob-cli-ex.1/README.md) | bob-cli-ex hood | active |
-| [bob-cli-ex.3](../agents/bbugyi200.apollo.bob-cli-ex.3/README.md) | bob-cli-ex hood | active |
-| [bob-cli-ex.4](bbugyi200.apollo.bob-cli-ex.4.md) (session · 13) | bob-cli-ex hood | active 13 |
-| [bob-cli-ex.land](bbugyi200.apollo.bob-cli-ex.land.md) (session · 7) | bob-cli-ex hood | active 5, completed 1, failed 1 |
+| [bob-cli-ex.1](../agents/bbugyi200.apollo.bob-cli-ex.1/README.md) | bob-cli-ex hood | dismissed |
+| [bob-cli-ex.3](../agents/bbugyi200.apollo.bob-cli-ex.3/README.md) | bob-cli-ex hood | dismissed |
+| [bob-cli-ex.4](bbugyi200.apollo.bob-cli-ex.4.md) (session · 13) | bob-cli-ex hood | dismissed 13 |
+| [bob-cli-ex.land](bbugyi200.apollo.bob-cli-ex.land.md) (session · 7) | bob-cli-ex hood | completed 1, dismissed 5, failed 1 |

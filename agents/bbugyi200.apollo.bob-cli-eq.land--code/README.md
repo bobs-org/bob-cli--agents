@@ -22,10 +22,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-eq.1](../bbugyi200.apollo.bob-cli-eq.1/README.md) | bob-cli-eq hood | active |
-| [bob-cli-eq.2](../bbugyi200.apollo.bob-cli-eq.2/README.md) | bob-cli-eq hood | active |
-| [bob-cli-eq.3](../bbugyi200.apollo.bob-cli-eq.3/README.md) | bob-cli-eq hood | active |
-| [bob-cli-eq.4](../bbugyi200.apollo.bob-cli-eq.4/README.md) | bob-cli-eq hood | active |
-| [bob-cli-eq.5](../bbugyi200.apollo.bob-cli-eq.5/README.md) | bob-cli-eq hood | active |
-| [bob-cli-eq.6](../../sessions/bbugyi200.apollo.bob-cli-eq.6.md) (session · 3) | bob-cli-eq hood | active 3 |
-| [bob-cli-eq.7](../bbugyi200.apollo.bob-cli-eq.7/README.md) | bob-cli-eq hood | active |
+| [bob-cli-eq.1](../bbugyi200.apollo.bob-cli-eq.1/README.md) | bob-cli-eq hood | dismissed |
+| [bob-cli-eq.2](../bbugyi200.apollo.bob-cli-eq.2/README.md) | bob-cli-eq hood | dismissed |
+| [bob-cli-eq.3](../bbugyi200.apollo.bob-cli-eq.3/README.md) | bob-cli-eq hood | dismissed |
+| [bob-cli-eq.4](../bbugyi200.apollo.bob-cli-eq.4/README.md) | bob-cli-eq hood | dismissed |
+| [bob-cli-eq.5](../bbugyi200.apollo.bob-cli-eq.5/README.md) | bob-cli-eq hood | dismissed |
+| [bob-cli-eq.6](../../sessions/bbugyi200.apollo.bob-cli-eq.6.md) (session · 3) | bob-cli-eq hood | dismissed 3 |
+| [bob-cli-eq.7](../bbugyi200.apollo.bob-cli-eq.7/README.md) | bob-cli-eq hood | dismissed |

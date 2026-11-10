@@ -8,8 +8,8 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-es` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-es.land--plan [active]"]
-  n1["bob-cli-es.land--gate [active]"]
+  n0["bob-cli-es.land--plan [dismissed]"]
+  n1["bob-cli-es.land--gate [dismissed]"]
   n0 --> n1
   n2["bob-cli-es.land--code [completed]"]
   n0 --> n2
@@ -19,15 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-es.land--plan | active | gpt-6-astra / codex | 2026-10-30T23:51:15.978428+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-es.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-es.land--plan/chat.md) |
-| <a id="member-gate"></a>gate | bob-cli-es.land--gate | active | gpt-6-astra / codex | 2026-10-31T00:01:13.494744+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-es.land--gate/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-es.land--plan | dismissed | gpt-6-astra / codex | 2026-10-30T19:51:15.978428 → 2026-10-30T20:34:04.401220 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-es.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-es.land--plan/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-es.land--gate | dismissed | gpt-6-astra / codex | 2026-10-30T20:01:13.494744 → 2026-10-30T20:01:23 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-es.land--gate/chat.md) |
 | <a id="member-code"></a>code | bob-cli-es.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-31T00:01:39.138953+00:00 → 2026-10-31T00:34:04.082049+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-es.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-es.land--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`45b8346`](https://github.com/bobs-org/bob-cli/commit/45b8346ddbf0d21c698bdf52ce9f8731c4f631de) | fix(gcal): repair Events stamp spacing and finish landing | 2026-10-30 20:33:02 EDT |
+| code | — | `45b8346` | fix(gcal): repair Events stamp spacing and finish landing | 2026-10-30 20:33:02 EDT |
 
 ## Variables
 
@@ -58,5 +58,5 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-es.1](bbugyi200.apollo.bob-cli-es.1.md) (session · 3) | bob-cli-es hood | active 3 |
-| [bob-cli-es.2](../agents/bbugyi200.apollo.bob-cli-es.2/README.md) | bob-cli-es hood | active |
+| [bob-cli-es.1](bbugyi200.apollo.bob-cli-es.1.md) (session · 3) | bob-cli-es hood | dismissed 3 |
+| [bob-cli-es.2](../agents/bbugyi200.apollo.bob-cli-es.2/README.md) | bob-cli-es hood | dismissed |

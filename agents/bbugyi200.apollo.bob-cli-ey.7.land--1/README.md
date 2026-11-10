@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`12078cc`](https://github.com/bobs-org/bob-cli/commit/12078cc59ffdf66155dc3a519f711fb99b4be20f) | fix(capture): retype ID-less picker refs, bare-marker existing subject, near-duplicate override | 2026-11-01 09:21:54 EST |
+| — | `12078cc` | fix(capture): retype ID-less picker refs, bare-marker existing subject, near-duplicate override | 2026-11-01 09:21:54 EST |
 
 ## Neighbors
 
@@ -32,22 +32,22 @@
 | [bob-cli-ey.7.2](../bbugyi200.apollo.bob-cli-ey.7.2/README.md) | bob-cli-ey.7 hood | active |
 | [bob-cli-ey.7.3](../../sessions/bbugyi200.apollo.bob-cli-ey.7.3.md) (session · 5) | bob-cli-ey.7 hood | active 5 |
 | [bob-cli-ey.7.4](../../sessions/bbugyi200.apollo.bob-cli-ey.7.4.md) (session · 25) | bob-cli-ey.7 hood | active 13, completed 9, failed 3 |
-| [bob-cli-ey.1](../../sessions/bbugyi200.apollo.bob-cli-ey.1.md) (session · 3) | bob-cli-ey hood | active 3 |
-| [bob-cli-ey.1.1.1](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.1.md) (session · 21) | bob-cli-ey hood | active 21 |
-| [bob-cli-ey.1.1.2](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.2.md) (session · 7) | bob-cli-ey hood | active 7 |
+| [bob-cli-ey.1](../../sessions/bbugyi200.apollo.bob-cli-ey.1.md) (session · 3) | bob-cli-ey hood | active 2, dismissed 1 |
+| [bob-cli-ey.1.1.1](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.1.md) (session · 21) | bob-cli-ey hood | active 13, dismissed 8 |
+| [bob-cli-ey.1.1.2](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.2.md) (session · 7) | bob-cli-ey hood | active 5, dismissed 2 |
 | [bob-cli-ey.1.1.3](../bbugyi200.apollo.bob-cli-ey.1.1.3/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.1.1.4](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.4.md) (session · 5) | bob-cli-ey hood | active 5 |
-| [bob-cli-ey.1.1.5](../bbugyi200.apollo.bob-cli-ey.1.1.5/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.1.1.6](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.6.md) (session · 9) | bob-cli-ey hood | active 9 |
+| [bob-cli-ey.1.1.4](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.4.md) (session · 5) | bob-cli-ey hood | active 4, dismissed 1 |
+| [bob-cli-ey.1.1.5](../bbugyi200.apollo.bob-cli-ey.1.1.5/README.md) | bob-cli-ey hood | dismissed |
+| [bob-cli-ey.1.1.6](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.6.md) (session · 9) | bob-cli-ey hood | active 4, dismissed 5 |
 | [bob-cli-ey.1.1.land](../../sessions/bbugyi200.apollo.bob-cli-ey.1.1.land.md) (session · 3) | bob-cli-ey hood | active 2, completed 1 |
-| [bob-cli-ey.2](../../sessions/bbugyi200.apollo.bob-cli-ey.2.md) (session · 9) | bob-cli-ey hood | active 7, completed 1, failed 1 |
-| [bob-cli-ey.3](../../sessions/bbugyi200.apollo.bob-cli-ey.3.md) (session · 3) | bob-cli-ey hood | active 3 |
+| [bob-cli-ey.2](../../sessions/bbugyi200.apollo.bob-cli-ey.2.md) (session · 9) | bob-cli-ey hood | active 5, completed 1, dismissed 2, failed 1 |
+| [bob-cli-ey.3](../../sessions/bbugyi200.apollo.bob-cli-ey.3.md) (session · 3) | bob-cli-ey hood | active 2, dismissed 1 |
 | [bob-cli-ey.3.1.1](../bbugyi200.apollo.bob-cli-ey.3.1.1/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.3.1.2](../../sessions/bbugyi200.apollo.bob-cli-ey.3.1.2.md) (session · 21) | bob-cli-ey hood | active 21 |
+| [bob-cli-ey.3.1.2](../../sessions/bbugyi200.apollo.bob-cli-ey.3.1.2.md) (session · 21) | bob-cli-ey hood | active 15, dismissed 6 |
 | [bob-cli-ey.3.1.3](../bbugyi200.apollo.bob-cli-ey.3.1.3/README.md) | bob-cli-ey hood | active |
 | [bob-cli-ey.3.1.4](../bbugyi200.apollo.bob-cli-ey.3.1.4/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-ey.3.1.land.md) (session · 9) | bob-cli-ey hood | active 7, completed 2 |
+| [bob-cli-ey.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-ey.3.1.land.md) (session · 9) | bob-cli-ey hood | active 6, completed 2, dismissed 1 |
 | [bob-cli-ey.4](../bbugyi200.apollo.bob-cli-ey.4/README.md) | bob-cli-ey hood | active |
 | [bob-cli-ey.5](../bbugyi200.apollo.bob-cli-ey.5/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.6](../bbugyi200.apollo.bob-cli-ey.6/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.land](../../sessions/bbugyi200.apollo.bob-cli-ey.land.md) (session · 3) | bob-cli-ey hood | active 3 |
+| [bob-cli-ey.6](../bbugyi200.apollo.bob-cli-ey.6/README.md) | bob-cli-ey hood | dismissed |
+| [bob-cli-ey.land](../../sessions/bbugyi200.apollo.bob-cli-ey.land.md) (session · 3) | bob-cli-ey hood | active 2, dismissed 1 |

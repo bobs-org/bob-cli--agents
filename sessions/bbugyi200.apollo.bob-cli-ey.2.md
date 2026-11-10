@@ -11,9 +11,9 @@ flowchart TD
   n0["bob-cli-ey.2--code [completed]"]
   n1["bob-cli-ey.2--mon [failed]"]
   n0 --> n1
-  n2["bob-cli-ey.2--mon-1 [active]"]
+  n2["bob-cli-ey.2--mon-1 [dismissed]"]
   n0 --> n2
-  n3["bob-cli-ey.2--2 [active]"]
+  n3["bob-cli-ey.2--2 [dismissed]"]
   n0 --> n3
   n4["bob-cli-ey.2--1 [active]"]
   n0 --> n4
@@ -33,8 +33,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | bob-cli-ey.2--code | completed | muse-spark-1.3-contributor / muse | 2026-11-01T03:33:35.558362+00:00 → 2026-11-01T05:31:49.604421+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.2--code/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-ey.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-11-01T05:31:40.248653+00:00 → 2026-11-01T05:33:12.082987+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.2--mon/chat.md) |
-| <a id="member-mon-1"></a>mon-1 | bob-cli-ey.2--mon-1 | active | muse-spark-1.3-contributor / muse | 2026-11-01T07:14:53.543422+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.2--mon-1/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-ey.2--2 | active | muse-spark-1.3-contributor / muse | 2026-11-01T06:30:03.972544+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ey.2--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.2--2/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | bob-cli-ey.2--mon-1 | dismissed | muse-spark-1.3-contributor / muse | 2026-11-01T02:14:53.543422 → 2026-11-01T02:15:13.520022 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.2--mon-1/chat.md) |
+| <a id="member-2"></a>2 | bob-cli-ey.2--2 | dismissed | muse-spark-1.3-contributor / muse | 2026-11-01T01:30:03.972544 → 2026-11-01T02:15:07.890796 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ey.2--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.2--2/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-ey.2--1 | active | muse-spark-1.3-contributor / muse | 2026-11-01T05:33:11.694982+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ey.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.2--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-ey.2--plan | active | gpt-6-astra / codex | 2026-11-01T03:26:20.208330+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ey.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.2--plan/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-ey.2--mon-0 | active | muse-spark-1.3-contributor / muse | 2026-11-01T06:23:54.602285+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.2--mon-0/chat.md) |
@@ -45,32 +45,32 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | bob-cli | [`e660c8d`](https://github.com/bobs-org/bob-cli/commit/e660c8d8844df3542f701a4b83cd1fc6826bf5f3) | feat(capture)!: glued #drawer capture with exact matching, on-demand creation, drawer menu, and capture-drawers | 2026-11-01 02:44:01 EST |
+| 3 | — | `e660c8d` | feat(capture)!: glued #drawer capture with exact matching, on-demand creation, drawer menu, and capture-drawers | 2026-11-01 02:44:01 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ey.1](bbugyi200.apollo.bob-cli-ey.1.md) (session · 3) | bob-cli-ey hood | active 3 |
-| [bob-cli-ey.1.1.1](bbugyi200.apollo.bob-cli-ey.1.1.1.md) (session · 21) | bob-cli-ey hood | active 21 |
-| [bob-cli-ey.1.1.2](bbugyi200.apollo.bob-cli-ey.1.1.2.md) (session · 7) | bob-cli-ey hood | active 7 |
+| [bob-cli-ey.1](bbugyi200.apollo.bob-cli-ey.1.md) (session · 3) | bob-cli-ey hood | active 2, dismissed 1 |
+| [bob-cli-ey.1.1.1](bbugyi200.apollo.bob-cli-ey.1.1.1.md) (session · 21) | bob-cli-ey hood | active 13, dismissed 8 |
+| [bob-cli-ey.1.1.2](bbugyi200.apollo.bob-cli-ey.1.1.2.md) (session · 7) | bob-cli-ey hood | active 5, dismissed 2 |
 | [bob-cli-ey.1.1.3](../agents/bbugyi200.apollo.bob-cli-ey.1.1.3/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.1.1.4](bbugyi200.apollo.bob-cli-ey.1.1.4.md) (session · 5) | bob-cli-ey hood | active 5 |
-| [bob-cli-ey.1.1.5](../agents/bbugyi200.apollo.bob-cli-ey.1.1.5/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.1.1.6](bbugyi200.apollo.bob-cli-ey.1.1.6.md) (session · 9) | bob-cli-ey hood | active 9 |
+| [bob-cli-ey.1.1.4](bbugyi200.apollo.bob-cli-ey.1.1.4.md) (session · 5) | bob-cli-ey hood | active 4, dismissed 1 |
+| [bob-cli-ey.1.1.5](../agents/bbugyi200.apollo.bob-cli-ey.1.1.5/README.md) | bob-cli-ey hood | dismissed |
+| [bob-cli-ey.1.1.6](bbugyi200.apollo.bob-cli-ey.1.1.6.md) (session · 9) | bob-cli-ey hood | active 4, dismissed 5 |
 | [bob-cli-ey.1.1.land](bbugyi200.apollo.bob-cli-ey.1.1.land.md) (session · 3) | bob-cli-ey hood | active 2, completed 1 |
-| [bob-cli-ey.3](bbugyi200.apollo.bob-cli-ey.3.md) (session · 3) | bob-cli-ey hood | active 3 |
+| [bob-cli-ey.3](bbugyi200.apollo.bob-cli-ey.3.md) (session · 3) | bob-cli-ey hood | active 2, dismissed 1 |
 | [bob-cli-ey.3.1.1](../agents/bbugyi200.apollo.bob-cli-ey.3.1.1/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.3.1.2](bbugyi200.apollo.bob-cli-ey.3.1.2.md) (session · 21) | bob-cli-ey hood | active 21 |
+| [bob-cli-ey.3.1.2](bbugyi200.apollo.bob-cli-ey.3.1.2.md) (session · 21) | bob-cli-ey hood | active 15, dismissed 6 |
 | [bob-cli-ey.3.1.3](../agents/bbugyi200.apollo.bob-cli-ey.3.1.3/README.md) | bob-cli-ey hood | active |
 | [bob-cli-ey.3.1.4](../agents/bbugyi200.apollo.bob-cli-ey.3.1.4/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.3.1.land](bbugyi200.apollo.bob-cli-ey.3.1.land.md) (session · 9) | bob-cli-ey hood | active 7, completed 2 |
+| [bob-cli-ey.3.1.land](bbugyi200.apollo.bob-cli-ey.3.1.land.md) (session · 9) | bob-cli-ey hood | active 6, completed 2, dismissed 1 |
 | [bob-cli-ey.4](../agents/bbugyi200.apollo.bob-cli-ey.4/README.md) | bob-cli-ey hood | active |
 | [bob-cli-ey.5](../agents/bbugyi200.apollo.bob-cli-ey.5/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.6](../agents/bbugyi200.apollo.bob-cli-ey.6/README.md) | bob-cli-ey hood | active |
+| [bob-cli-ey.6](../agents/bbugyi200.apollo.bob-cli-ey.6/README.md) | bob-cli-ey hood | dismissed |
 | [bob-cli-ey.7.1](../agents/bbugyi200.apollo.bob-cli-ey.7.1/README.md) | bob-cli-ey hood | active |
 | [bob-cli-ey.7.2](../agents/bbugyi200.apollo.bob-cli-ey.7.2/README.md) | bob-cli-ey hood | active |
 | [bob-cli-ey.7.3](bbugyi200.apollo.bob-cli-ey.7.3.md) (session · 5) | bob-cli-ey hood | active 5 |
 | [bob-cli-ey.7.4](bbugyi200.apollo.bob-cli-ey.7.4.md) (session · 25) | bob-cli-ey hood | active 13, completed 9, failed 3 |
 | [bob-cli-ey.7.land](bbugyi200.apollo.bob-cli-ey.7.land.md) (session · 5) | bob-cli-ey hood | active 3, completed 2 |
-| [bob-cli-ey.land](bbugyi200.apollo.bob-cli-ey.land.md) (session · 3) | bob-cli-ey hood | active 3 |
+| [bob-cli-ey.land](bbugyi200.apollo.bob-cli-ey.land.md) (session · 3) | bob-cli-ey hood | active 2, dismissed 1 |

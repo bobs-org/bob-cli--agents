@@ -23,17 +23,17 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9a30ec4`](https://github.com/bobs-org/bob-cli/commit/9a30ec4ca268753820366554cd58fa5f0c006e71) | feat(capture): plan project-note task offers through the colon-bullet writer | 2026-10-31 14:52:17 EDT |
+| — | `9a30ec4` | feat(capture): plan project-note task offers through the colon-bullet writer | 2026-10-31 14:52:17 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ex.2](../../sessions/bbugyi200.apollo.bob-cli-ex.2.md) (session · 3) | ancestor | active 3 |
+| [bob-cli-ex.2](../../sessions/bbugyi200.apollo.bob-cli-ex.2.md) (session · 3) | ancestor | dismissed 3 |
 | [bob-cli-ex.2.1.2](../bbugyi200.apollo.bob-cli-ex.2.1.2/README.md) | bob-cli-ex.2.1 hood | active |
 | [bob-cli-ex.2.1.3](../bbugyi200.apollo.bob-cli-ex.2.1.3/README.md) | bob-cli-ex.2.1 hood | active |
 | [bob-cli-ex.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-ex.2.1.land.md) (session · 3) | bob-cli-ex.2.1 hood | active 2, completed 1 |
-| [bob-cli-ex.1](../bbugyi200.apollo.bob-cli-ex.1/README.md) | bob-cli-ex hood | active |
-| [bob-cli-ex.3](../bbugyi200.apollo.bob-cli-ex.3/README.md) | bob-cli-ex hood | active |
-| [bob-cli-ex.4](../../sessions/bbugyi200.apollo.bob-cli-ex.4.md) (session · 13) | bob-cli-ex hood | active 13 |
-| [bob-cli-ex.land](../../sessions/bbugyi200.apollo.bob-cli-ex.land.md) (session · 7) | bob-cli-ex hood | active 5, completed 1, failed 1 |
+| [bob-cli-ex.1](../bbugyi200.apollo.bob-cli-ex.1/README.md) | bob-cli-ex hood | dismissed |
+| [bob-cli-ex.3](../bbugyi200.apollo.bob-cli-ex.3/README.md) | bob-cli-ex hood | dismissed |
+| [bob-cli-ex.4](../../sessions/bbugyi200.apollo.bob-cli-ex.4.md) (session · 13) | bob-cli-ex hood | dismissed 13 |
+| [bob-cli-ex.land](../../sessions/bbugyi200.apollo.bob-cli-ex.land.md) (session · 7) | bob-cli-ex hood | completed 1, dismissed 5, failed 1 |

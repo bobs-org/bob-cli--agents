@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ep](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ep/README.md) / [bob-cli-ep.1](../../sessions/bbugyi200.apollo.bob-cli-ep.1.md) / bob-cli-ep.1--3
 
-**Global name:** `bbugyi200.apollo.bob-cli-ep.1--3` · **State:** active · **Source run:** `run-88a18cda9127fa699fac9660704cff4e`
+**Global name:** `bbugyi200.apollo.bob-cli-ep.1--3` · **State:** dismissed · **Source run:** `run-88a18cda9127fa699fac9660704cff4e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ep
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-ep.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ep/bob-cli-ep.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-10-31T13:09:46.210739+00:00
+- Timing: 2026-10-31T09:09:46.210739 → 2026-10-31T09:14:37.712258
 - Commits: [1](#commits)
 
 ## Files
@@ -29,4 +29,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-ep.2](../bbugyi200.apollo.bob-cli-ep.2/README.md) | bob-cli-ep hood | dismissed |
-| [bob-cli-ep.land](../../sessions/bbugyi200.apollo.bob-cli-ep.land.md) (session · 3) | bob-cli-ep hood | active 2, completed 1 |
+| [bob-cli-ep.land](../../sessions/bbugyi200.apollo.bob-cli-ep.land.md) (session · 3) | bob-cli-ep hood | completed 1, dismissed 2 |

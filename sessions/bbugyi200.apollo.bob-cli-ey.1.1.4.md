@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-ey` · Members: 5 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ey.1.1.4--1 [active]"]
+  n0["bob-cli-ey.1.1.4--1 [dismissed]"]
   n1["bob-cli-ey.1.1.4--2 [active]"]
   n0 --> n1
   n2["bob-cli-ey.1.1.4--mon-0 [active]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-ey.1.1.4--1 | active | grok-4.6 / grok | 2026-11-01T00:17:27.146142+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ey.1.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.1.1.4--1/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-ey.1.1.4--1 | dismissed | grok-4.6 / grok | 2026-10-31T20:17:27.146142 → 2026-10-31T20:33:48.797034 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ey.1.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.1.1.4--1/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-ey.1.1.4--2 | active | grok-4.6 / grok | 2026-11-01T00:40:50.556266+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ey.1.1.4--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ey.1.1.4--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.1.1.4--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-ey.1.1.4--mon-0 | active | grok-4.6 / grok | 2026-11-01T00:33:21.610708+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.1.1.4--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-ey.1.1.4--plan | active | grok-4.6 / grok | 2026-10-31T23:48:40.950780+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ey.1.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ey.1.1.4--plan/chat.md) |
@@ -33,32 +33,32 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`d7f683a`](https://github.com/bobs-org/bob-cli/commit/d7f683a1e59da7391384d5d46559ba09d056d3dd) | feat(capture)!: treat a bare edge # as an incomplete type marker | 2026-10-31 20:50:29 EDT |
+| 2 | — | `d7f683a` | feat(capture)!: treat a bare edge # as an incomplete type marker | 2026-10-31 20:50:29 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ey.1](bbugyi200.apollo.bob-cli-ey.1.md) (session · 3) | ancestor | active 3 |
-| [bob-cli-ey.1.1.1](bbugyi200.apollo.bob-cli-ey.1.1.1.md) (session · 21) | bob-cli-ey.1.1 hood | active 21 |
-| [bob-cli-ey.1.1.2](bbugyi200.apollo.bob-cli-ey.1.1.2.md) (session · 7) | bob-cli-ey.1.1 hood | active 7 |
+| [bob-cli-ey.1](bbugyi200.apollo.bob-cli-ey.1.md) (session · 3) | ancestor | active 2, dismissed 1 |
+| [bob-cli-ey.1.1.1](bbugyi200.apollo.bob-cli-ey.1.1.1.md) (session · 21) | bob-cli-ey.1.1 hood | active 13, dismissed 8 |
+| [bob-cli-ey.1.1.2](bbugyi200.apollo.bob-cli-ey.1.1.2.md) (session · 7) | bob-cli-ey.1.1 hood | active 5, dismissed 2 |
 | [bob-cli-ey.1.1.3](../agents/bbugyi200.apollo.bob-cli-ey.1.1.3/README.md) | bob-cli-ey.1.1 hood | active |
-| [bob-cli-ey.1.1.5](../agents/bbugyi200.apollo.bob-cli-ey.1.1.5/README.md) | bob-cli-ey.1.1 hood | active |
-| [bob-cli-ey.1.1.6](bbugyi200.apollo.bob-cli-ey.1.1.6.md) (session · 9) | bob-cli-ey.1.1 hood | active 9 |
+| [bob-cli-ey.1.1.5](../agents/bbugyi200.apollo.bob-cli-ey.1.1.5/README.md) | bob-cli-ey.1.1 hood | dismissed |
+| [bob-cli-ey.1.1.6](bbugyi200.apollo.bob-cli-ey.1.1.6.md) (session · 9) | bob-cli-ey.1.1 hood | active 4, dismissed 5 |
 | [bob-cli-ey.1.1.land](bbugyi200.apollo.bob-cli-ey.1.1.land.md) (session · 3) | bob-cli-ey.1.1 hood | active 2, completed 1 |
-| [bob-cli-ey.2](bbugyi200.apollo.bob-cli-ey.2.md) (session · 9) | bob-cli-ey hood | active 7, completed 1, failed 1 |
-| [bob-cli-ey.3](bbugyi200.apollo.bob-cli-ey.3.md) (session · 3) | bob-cli-ey hood | active 3 |
+| [bob-cli-ey.2](bbugyi200.apollo.bob-cli-ey.2.md) (session · 9) | bob-cli-ey hood | active 5, completed 1, dismissed 2, failed 1 |
+| [bob-cli-ey.3](bbugyi200.apollo.bob-cli-ey.3.md) (session · 3) | bob-cli-ey hood | active 2, dismissed 1 |
 | [bob-cli-ey.3.1.1](../agents/bbugyi200.apollo.bob-cli-ey.3.1.1/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.3.1.2](bbugyi200.apollo.bob-cli-ey.3.1.2.md) (session · 21) | bob-cli-ey hood | active 21 |
+| [bob-cli-ey.3.1.2](bbugyi200.apollo.bob-cli-ey.3.1.2.md) (session · 21) | bob-cli-ey hood | active 15, dismissed 6 |
 | [bob-cli-ey.3.1.3](../agents/bbugyi200.apollo.bob-cli-ey.3.1.3/README.md) | bob-cli-ey hood | active |
 | [bob-cli-ey.3.1.4](../agents/bbugyi200.apollo.bob-cli-ey.3.1.4/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.3.1.land](bbugyi200.apollo.bob-cli-ey.3.1.land.md) (session · 9) | bob-cli-ey hood | active 7, completed 2 |
+| [bob-cli-ey.3.1.land](bbugyi200.apollo.bob-cli-ey.3.1.land.md) (session · 9) | bob-cli-ey hood | active 6, completed 2, dismissed 1 |
 | [bob-cli-ey.4](../agents/bbugyi200.apollo.bob-cli-ey.4/README.md) | bob-cli-ey hood | active |
 | [bob-cli-ey.5](../agents/bbugyi200.apollo.bob-cli-ey.5/README.md) | bob-cli-ey hood | active |
-| [bob-cli-ey.6](../agents/bbugyi200.apollo.bob-cli-ey.6/README.md) | bob-cli-ey hood | active |
+| [bob-cli-ey.6](../agents/bbugyi200.apollo.bob-cli-ey.6/README.md) | bob-cli-ey hood | dismissed |
 | [bob-cli-ey.7.1](../agents/bbugyi200.apollo.bob-cli-ey.7.1/README.md) | bob-cli-ey hood | active |
 | [bob-cli-ey.7.2](../agents/bbugyi200.apollo.bob-cli-ey.7.2/README.md) | bob-cli-ey hood | active |
 | [bob-cli-ey.7.3](bbugyi200.apollo.bob-cli-ey.7.3.md) (session · 5) | bob-cli-ey hood | active 5 |
 | [bob-cli-ey.7.4](bbugyi200.apollo.bob-cli-ey.7.4.md) (session · 25) | bob-cli-ey hood | active 13, completed 9, failed 3 |
 | [bob-cli-ey.7.land](bbugyi200.apollo.bob-cli-ey.7.land.md) (session · 5) | bob-cli-ey hood | active 3, completed 2 |
-| [bob-cli-ey.land](bbugyi200.apollo.bob-cli-ey.land.md) (session · 3) | bob-cli-ey hood | active 3 |
+| [bob-cli-ey.land](bbugyi200.apollo.bob-cli-ey.land.md) (session · 3) | bob-cli-ey hood | active 2, dismissed 1 |
