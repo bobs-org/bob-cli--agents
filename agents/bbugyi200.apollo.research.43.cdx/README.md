@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.43.cdx
 
-**Global name:** `bbugyi200.apollo.research.43.cdx` · **State:** active · **Source run:** `run-8b1b39064567d5806971afd71169aa51`
+**Global name:** `bbugyi200.apollo.research.43.cdx` · **State:** completed · **Source run:** `run-8b1b39064567d5806971afd71169aa51`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-10T19:35:45.265832+00:00
+- Timing: 2026-11-10T19:35:45.265832+00:00 → 2026-11-10T19:48:15.212173+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/album-record-ownership-and-living-catalogs\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261110143513/album-record-ownership-and-li… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/album-record-ownership-and-living-catalogs__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261110143513/album-record-ownership-and-living-catalogs__cdx-6690a58e3ac0.md
+  ref: file:explicit:c4f80c836127af6e779503c8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/album-record-ownership-and-living-catalogs__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.43.cld](../bbugyi200.apollo.research.43.cld/README.md) | research.43 hood | active |
 | [research.43.final](../bbugyi200.apollo.research.43.final/README.md) | research.43 hood | waiting |
-| [research.43.gem](../bbugyi200.apollo.research.43.gem/README.md) | research.43 hood | active |
+| [research.43.gem](../bbugyi200.apollo.research.43.gem/README.md) | research.43 hood | completed |
 | [research.43.grk](../bbugyi200.apollo.research.43.grk/README.md) | research.43 hood | active |
 | [research.43.image](../bbugyi200.apollo.research.43.image/README.md) | research.43 hood | waiting |
 | [research.43.linker](../bbugyi200.apollo.research.43.linker/README.md) | research.43 hood | waiting |
