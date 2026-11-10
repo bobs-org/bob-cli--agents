@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-j8](../../users/bbugyi200/machines/apollo/hoods/bob-cli-j8/README.md) / bob-cli-j8.3.1.3
 
-**Global name:** `bbugyi200.apollo.bob-cli-j8.3.1.3` · **State:** waiting · **Source run:** `run-c4d71cc1815f903c6223b49d0c10f951`
+**Global name:** `bbugyi200.apollo.bob-cli-j8.3.1.3` · **State:** completed · **Source run:** `run-c4d71cc1815f903c6223b49d0c10f951`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-j8
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-j8.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-j8/bob-cli-j8.3.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261109135118
-- Commits: 0
+- Timing: 2026-11-09T23:29:38.400069+00:00 → 2026-11-10T00:32:34.400545+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8d098e5`](https://github.com/bobs-org/bob-cli/commit/8d098e550588eafbcdc4788e7cbb6ce10024ad26) | feat(capture)!: write notebook notes through guarded transaction | 2026-11-09 19:31:54 EST |
 
 ## Neighbors
 

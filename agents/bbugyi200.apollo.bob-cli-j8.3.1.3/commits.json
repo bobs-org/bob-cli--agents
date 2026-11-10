@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c4d71cc1815f903c6223b49d0c10f951"}
+{"commits":[{"committed_at":1794270714,"sha":"8d098e550588eafbcdc4788e7cbb6ce10024ad26","subject":"feat(capture)!: write notebook notes through guarded transaction"}],"schema_version":2,"source_run_id":"run-c4d71cc1815f903c6223b49d0c10f951"}
