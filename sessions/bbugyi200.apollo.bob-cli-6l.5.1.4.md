@@ -98,4 +98,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-6l.3](../agents/bbugyi200.apollo.bob-cli-6l.3/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.4](../agents/bbugyi200.apollo.bob-cli-6l.4/README.md) | bob-cli-6l hood | completed |
 | [bob-cli-6l.6](bbugyi200.apollo.bob-cli-6l.6.md) (session · 3) | bob-cli-6l hood | completed 2, failed 1 |
-| [bob-cli-6l.land](bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | active 1, completed 1, failed 1 |
+| [bob-cli-6l.land](bbugyi200.apollo.bob-cli-6l.land.md) (session · 3) | bob-cli-6l hood | completed 1, dismissed 1, failed 1 |

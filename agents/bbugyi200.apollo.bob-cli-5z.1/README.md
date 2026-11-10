@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`90214f1`](https://github.com/bobs-org/bob-cli/commit/90214f13815ee31ec5f5e8418b1ef06373e3553d) | feat(capture): lex, parse, and describe the == Pomodoro override token family | 2026-10-09 13:51:27 EDT |
+| — | `90214f1` | feat(capture): lex, parse, and describe the == Pomodoro override token family | 2026-10-09 13:51:27 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-5z.4](../bbugyi200.apollo.bob-cli-5z.4/README.md) | bob-cli-5z hood | completed |
 | [bob-cli-5z.5](../bbugyi200.apollo.bob-cli-5z.5/README.md) | bob-cli-5z hood | completed |
 | [bob-cli-5z.6](../bbugyi200.apollo.bob-cli-5z.6/README.md) | bob-cli-5z hood | completed |
-| [bob-cli-5z.land](../bbugyi200.apollo.bob-cli-5z.land/README.md) | bob-cli-5z hood | active |
+| [bob-cli-5z.land](../bbugyi200.apollo.bob-cli-5z.land/README.md) | bob-cli-5z hood | dismissed |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1a7914b`](https://github.com/bobs-org/bob-cli/commit/1a7914b9d5ca31d842195f2b2a56d7d1252a2370) | feat(complete): give the ==# name picker its override context | 2026-10-09 14:07:08 EDT |
+| — | `1a7914b` | feat(complete): give the ==# name picker its override context | 2026-10-09 14:07:08 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-5z.3](../bbugyi200.apollo.bob-cli-5z.3/README.md) | bob-cli-5z hood | completed |
 | [bob-cli-5z.5](../bbugyi200.apollo.bob-cli-5z.5/README.md) | bob-cli-5z hood | completed |
 | [bob-cli-5z.6](../bbugyi200.apollo.bob-cli-5z.6/README.md) | bob-cli-5z hood | completed |
-| [bob-cli-5z.land](../bbugyi200.apollo.bob-cli-5z.land/README.md) | bob-cli-5z hood | active |
+| [bob-cli-5z.land](../bbugyi200.apollo.bob-cli-5z.land/README.md) | bob-cli-5z hood | dismissed |

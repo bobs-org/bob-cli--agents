@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`999816c`](https://github.com/bobs-org/bob-cli/commit/999816cd77b1600fcefe961862cf3fccc878c9ce) | feat(capture): implement pomodoro swap execution with named override | 2026-10-09 14:43:16 EDT |
+| — | `999816c` | feat(capture): implement pomodoro swap execution with named override | 2026-10-09 14:43:16 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-5z.4](../bbugyi200.apollo.bob-cli-5z.4/README.md) | bob-cli-5z hood | completed |
 | [bob-cli-5z.5](../bbugyi200.apollo.bob-cli-5z.5/README.md) | bob-cli-5z hood | completed |
 | [bob-cli-5z.6](../bbugyi200.apollo.bob-cli-5z.6/README.md) | bob-cli-5z hood | completed |
-| [bob-cli-5z.land](../bbugyi200.apollo.bob-cli-5z.land/README.md) | bob-cli-5z hood | active |
+| [bob-cli-5z.land](../bbugyi200.apollo.bob-cli-5z.land/README.md) | bob-cli-5z hood | dismissed |

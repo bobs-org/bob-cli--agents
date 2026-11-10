@@ -23,22 +23,22 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`75e323b`](https://github.com/bobs-org/bob-cli/commit/75e323b2d6c59899a0b739b8079e2087fbfbb90e) | docs(task-deps): add §13 project-dependency contract and PD vectors | 2026-10-12 08:54:38 EDT |
+| — | `75e323b` | docs(task-deps): add §13 project-dependency contract and PD vectors | 2026-10-12 08:54:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-6s.10](../bbugyi200.apollo.bob-cli-6s.10/README.md) | bob-cli-6s hood | waiting |
+| [bob-cli-6s.10](../bbugyi200.apollo.bob-cli-6s.10/README.md) | bob-cli-6s hood | dismissed |
 | [bob-cli-6s.11](../bbugyi200.apollo.bob-cli-6s.11/README.md) | bob-cli-6s hood | completed |
-| [bob-cli-6s.12](../bbugyi200.apollo.bob-cli-6s.12/README.md) | bob-cli-6s hood | waiting |
-| [bob-cli-6s.13](../bbugyi200.apollo.bob-cli-6s.13/README.md) | bob-cli-6s hood | waiting |
-| [bob-cli-6s.2](../bbugyi200.apollo.bob-cli-6s.2/README.md) | bob-cli-6s hood | active |
-| [bob-cli-6s.3](../bbugyi200.apollo.bob-cli-6s.3/README.md) | bob-cli-6s hood | waiting |
-| [bob-cli-6s.4](../bbugyi200.apollo.bob-cli-6s.4/README.md) | bob-cli-6s hood | waiting |
-| [bob-cli-6s.5](../bbugyi200.apollo.bob-cli-6s.5/README.md) | bob-cli-6s hood | waiting |
-| [bob-cli-6s.6](../bbugyi200.apollo.bob-cli-6s.6/README.md) | bob-cli-6s hood | waiting |
-| [bob-cli-6s.7](../bbugyi200.apollo.bob-cli-6s.7/README.md) | bob-cli-6s hood | waiting |
-| [bob-cli-6s.8](../bbugyi200.apollo.bob-cli-6s.8/README.md) | bob-cli-6s hood | active |
-| [bob-cli-6s.9](../bbugyi200.apollo.bob-cli-6s.9/README.md) | bob-cli-6s hood | waiting |
-| [bob-cli-6s.land](../bbugyi200.apollo.bob-cli-6s.land/README.md) | bob-cli-6s hood | waiting |
+| [bob-cli-6s.12](../bbugyi200.apollo.bob-cli-6s.12/README.md) | bob-cli-6s hood | dismissed |
+| [bob-cli-6s.13](../bbugyi200.apollo.bob-cli-6s.13/README.md) | bob-cli-6s hood | dismissed |
+| [bob-cli-6s.2](../bbugyi200.apollo.bob-cli-6s.2/README.md) | bob-cli-6s hood | dismissed |
+| [bob-cli-6s.3](../bbugyi200.apollo.bob-cli-6s.3/README.md) | bob-cli-6s hood | dismissed |
+| [bob-cli-6s.4](../bbugyi200.apollo.bob-cli-6s.4/README.md) | bob-cli-6s hood | dismissed |
+| [bob-cli-6s.5](../bbugyi200.apollo.bob-cli-6s.5/README.md) | bob-cli-6s hood | dismissed |
+| [bob-cli-6s.6](../bbugyi200.apollo.bob-cli-6s.6/README.md) | bob-cli-6s hood | dismissed |
+| [bob-cli-6s.7](../bbugyi200.apollo.bob-cli-6s.7/README.md) | bob-cli-6s hood | dismissed |
+| [bob-cli-6s.8](../bbugyi200.apollo.bob-cli-6s.8/README.md) | bob-cli-6s hood | dismissed |
+| [bob-cli-6s.9](../bbugyi200.apollo.bob-cli-6s.9/README.md) | bob-cli-6s hood | dismissed |
+| [bob-cli-6s.land](../bbugyi200.apollo.bob-cli-6s.land/README.md) | bob-cli-6s hood | dismissed |

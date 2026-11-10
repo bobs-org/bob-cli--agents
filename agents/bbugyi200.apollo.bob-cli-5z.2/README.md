@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`36df8b8`](https://github.com/bobs-org/bob-cli/commit/36df8b8afed540db39962472d83a153e5c3dbfb9) | feat(capture): execute == restarts with idle fallback and override JSON contract | 2026-10-09 14:15:02 EDT |
+| — | `36df8b8` | feat(capture): execute == restarts with idle fallback and override JSON contract | 2026-10-09 14:15:02 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-5z.4](../bbugyi200.apollo.bob-cli-5z.4/README.md) | bob-cli-5z hood | completed |
 | [bob-cli-5z.5](../bbugyi200.apollo.bob-cli-5z.5/README.md) | bob-cli-5z hood | completed |
 | [bob-cli-5z.6](../bbugyi200.apollo.bob-cli-5z.6/README.md) | bob-cli-5z hood | completed |
-| [bob-cli-5z.land](../bbugyi200.apollo.bob-cli-5z.land/README.md) | bob-cli-5z hood | active |
+| [bob-cli-5z.land](../bbugyi200.apollo.bob-cli-5z.land/README.md) | bob-cli-5z hood | dismissed |

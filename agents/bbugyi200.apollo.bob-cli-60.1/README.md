@@ -24,4 +24,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-60.2](../../sessions/bbugyi200.apollo.bob-cli-60.2.md) (session · 17) | bob-cli-60 hood | completed 9, failed 8 |
-| [bob-cli-60.land](../../sessions/bbugyi200.apollo.bob-cli-60.land.md) (session · 3) | bob-cli-60 hood | active 1, completed 1, failed 1 |
+| [bob-cli-60.land](../../sessions/bbugyi200.apollo.bob-cli-60.land.md) (session · 3) | bob-cli-60 hood | completed 1, dismissed 1, failed 1 |
