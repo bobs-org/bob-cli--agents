@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-9p.land--code [completed]"]
   n1["bob-cli-9p.land--gate [failed]"]
   n0 --> n1
-  n2["bob-cli-9p.land--plan [active]"]
+  n2["bob-cli-9p.land--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | bob-cli-9p.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-19T13:13:44.876695+00:00 → 2026-10-19T13:26:41.722844+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9p.land--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-9p.land--gate | failed | gpt-6-astra / codex | 2026-10-19T13:12:54.066842+00:00 → 2026-10-19T13:13:21.726272+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9p.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-9p.land--plan | active | gpt-6-astra / codex | 2026-10-19T13:02:27.479098+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9p.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9p.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-9p.land--plan | dismissed | gpt-6-astra / codex | 2026-10-19T09:02:27.479098 → 2026-10-19T09:26:41.739844 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9p.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9p.land--plan/chat.md) |
 
 ## Commits
 

@@ -38,4 +38,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-9k.8.2](../agents/bbugyi200.athena.bob-cli-9k.8.2/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.8.3](../agents/bbugyi200.athena.bob-cli-9k.8.3/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.8.4](../agents/bbugyi200.athena.bob-cli-9k.8.4/README.md) | bob-cli-9k hood | completed |
-| [bob-cli-9k.8.land](bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k hood | active 1, completed 2, failed 2 |
+| [bob-cli-9k.8.land](bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k hood | completed 2, dismissed 1, failed 2 |

@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`9ec332c`](https://github.com/bobs-org/bob-cli/commit/9ec332c81def3014a559e088124ef93e3bb15ae7) | feat(homes): add shared Pomodoro home resolver and rollup contract | 2026-10-18 17:23:52 EDT |
+| 1 | — | `9ec332c` | feat(homes): add shared Pomodoro home resolver and rollup contract | 2026-10-18 17:23:52 EDT |
 
 ## Neighbors
 
@@ -43,5 +43,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-9k.8.2](../agents/bbugyi200.athena.bob-cli-9k.8.2/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.8.3](../agents/bbugyi200.athena.bob-cli-9k.8.3/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.8.4](../agents/bbugyi200.athena.bob-cli-9k.8.4/README.md) | bob-cli-9k hood | completed |
-| [bob-cli-9k.8.land](bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k hood | active 1, completed 2, failed 2 |
+| [bob-cli-9k.8.land](bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k hood | completed 2, dismissed 1, failed 2 |
 | [bob-cli-9k.land](bbugyi200.athena.bob-cli-9k.land.md) (session · 3) | bob-cli-9k hood | failed 3 |

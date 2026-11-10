@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`930b349`](https://github.com/bobs-org/bob-cli/commit/930b3495c01e1bd151ce9bdab36bcf4ad9d0dda5) | feat(stats): add pomodoro in/review filters and session drill-down | 2026-10-18 19:17:42 EDT |
+| 1 | — | `930b349` | feat(stats): add pomodoro in/review filters and session drill-down | 2026-10-18 19:17:42 EDT |
 
 ## Neighbors
 
@@ -43,5 +43,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-9k.8.2](../agents/bbugyi200.athena.bob-cli-9k.8.2/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.8.3](../agents/bbugyi200.athena.bob-cli-9k.8.3/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.8.4](../agents/bbugyi200.athena.bob-cli-9k.8.4/README.md) | bob-cli-9k hood | completed |
-| [bob-cli-9k.8.land](bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k hood | active 1, completed 2, failed 2 |
+| [bob-cli-9k.8.land](bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k hood | completed 2, dismissed 1, failed 2 |
 | [bob-cli-9k.land](bbugyi200.athena.bob-cli-9k.land.md) (session · 3) | bob-cli-9k hood | failed 3 |

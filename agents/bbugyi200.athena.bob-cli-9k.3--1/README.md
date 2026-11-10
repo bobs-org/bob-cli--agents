@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`930b349`](https://github.com/bobs-org/bob-cli/commit/930b3495c01e1bd151ce9bdab36bcf4ad9d0dda5) | feat(stats): add pomodoro in/review filters and session drill-down | 2026-10-18 19:17:42 EDT |
+| — | `930b349` | feat(stats): add pomodoro in/review filters and session drill-down | 2026-10-18 19:17:42 EDT |
 
 ## Neighbors
 
@@ -38,5 +38,5 @@
 | [bob-cli-9k.8.2](../bbugyi200.athena.bob-cli-9k.8.2/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.8.3](../bbugyi200.athena.bob-cli-9k.8.3/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.8.4](../bbugyi200.athena.bob-cli-9k.8.4/README.md) | bob-cli-9k hood | completed |
-| [bob-cli-9k.8.land](../../sessions/bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k hood | active 1, completed 2, failed 2 |
+| [bob-cli-9k.8.land](../../sessions/bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k hood | completed 2, dismissed 1, failed 2 |
 | [bob-cli-9k.land](../../sessions/bbugyi200.athena.bob-cli-9k.land.md) (session · 3) | bob-cli-9k hood | failed 3 |

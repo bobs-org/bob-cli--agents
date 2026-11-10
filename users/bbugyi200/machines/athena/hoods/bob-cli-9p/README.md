@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-9p
 
-**Global hood:** `bbugyi200.athena.bob-cli-9p` · **Runs:** 8 · **Sessions:** 2 · **States:** active 1, completed 5, failed 2
+**Global hood:** `bbugyi200.athena.bob-cli-9p` · **Runs:** 8 · **Sessions:** 2 · **States:** completed 5, dismissed 1, failed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -13,4 +13,4 @@
 | [bob-cli-9p.2--1](../../../../../../sessions/bbugyi200.athena.bob-cli-9p.2.md#member-1) | completed | grok-4.6 / grok | 2026-10-19T12:57:24.634998+00:00 → 2026-10-19T13:01:58.401114+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-9p.2--1/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9p.2--1/prompt.md) |
 | [bob-cli-9p.2--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-9p.2.md#member-mon) | failed | grok-4.6 / grok | 2026-10-19T12:52:36.109611+00:00 → 2026-10-19T12:56:36.872233+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-9p.2--mon/chat.md) |
 | [bob-cli-9p.2--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-9p.2.md#member-plan) | completed | grok-4.6 / grok | 2026-10-19T12:39:25.418337+00:00 → 2026-10-19T12:53:10.218299+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-9p.2--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9p.2--plan/prompt.md) |
-| [bob-cli-9p.land--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-9p.land.md#member-plan) | active | gpt-6-astra / codex | 2026-10-19T13:02:27.479098+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-9p.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9p.land--plan/prompt.md) |
+| [bob-cli-9p.land--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-9p.land.md#member-plan) | dismissed | gpt-6-astra / codex | 2026-10-19T09:02:27.479098 → 2026-10-19T09:26:41.739844 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-9p.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-9p.land--plan/prompt.md) |

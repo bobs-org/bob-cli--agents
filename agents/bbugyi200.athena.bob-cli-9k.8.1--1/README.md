@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`77c7741`](https://github.com/bobs-org/bob-cli/commit/77c77410e32b52010ad8f0d539f466202deb30d5) | feat(stats): complete pomodoro homes parity and stats fixes | 2026-10-18 20:54:36 EDT |
+| — | `77c7741` | feat(stats): complete pomodoro homes parity and stats fixes | 2026-10-18 20:54:36 EDT |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 | [bob-cli-9k.8.2](../bbugyi200.athena.bob-cli-9k.8.2/README.md) | bob-cli-9k.8 hood | completed |
 | [bob-cli-9k.8.3](../bbugyi200.athena.bob-cli-9k.8.3/README.md) | bob-cli-9k.8 hood | completed |
 | [bob-cli-9k.8.4](../bbugyi200.athena.bob-cli-9k.8.4/README.md) | bob-cli-9k.8 hood | completed |
-| [bob-cli-9k.8.land](../../sessions/bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k.8 hood | active 1, completed 2, failed 2 |
+| [bob-cli-9k.8.land](../../sessions/bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k.8 hood | completed 2, dismissed 1, failed 2 |
 | [bob-cli-9k.1](../../sessions/bbugyi200.athena.bob-cli-9k.1.md) (session · 3) | bob-cli-9k hood | completed 2, failed 1 |
 | [bob-cli-9k.2](../bbugyi200.athena.bob-cli-9k.2/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.3](../../sessions/bbugyi200.athena.bob-cli-9k.3.md) (session · 3) | bob-cli-9k hood | completed 2, failed 1 |

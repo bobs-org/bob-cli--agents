@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-9k` · Members: 5 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-9k.8.land--1 [active]"]
+  n0["bob-cli-9k.8.land--1 [dismissed]"]
   n1["bob-cli-9k.8.land--mon [failed]"]
   n0 --> n1
   n2["bob-cli-9k.8.land--gate [failed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-9k.8.land--1 | active | gpt-6-luna / codex | 2026-10-19T02:38:02.963575+00:00 | [1](../agents/bbugyi200.athena.bob-cli-9k.8.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9k.8.land--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-9k.8.land--1 | dismissed | gpt-6-luna / codex | 2026-10-18T22:38:02.963575 → 2026-10-18T22:56:07.648472 | [1](../agents/bbugyi200.athena.bob-cli-9k.8.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-9k.8.land--1/prompt.md) | — |
 | <a id="member-mon"></a>mon | bob-cli-9k.8.land--mon | failed | gpt-6-luna / codex | 2026-10-19T02:33:06.330609+00:00 → 2026-10-19T02:37:29.282382+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9k.8.land--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-9k.8.land--gate | failed | gpt-6-astra / codex | 2026-10-19T01:59:40.663060+00:00 → 2026-10-19T02:00:06.632479+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9k.8.land--gate/chat.md) |
 | <a id="member-code"></a>code | bob-cli-9k.8.land--code | completed | gpt-6-luna / codex | 2026-10-19T02:00:28.128001+00:00 → 2026-10-19T02:33:44.138014+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9k.8.land--code/chat.md) |
@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`9217a47`](https://github.com/bobs-org/bob-cli/commit/9217a475779fe0a7368f8ac99428fbca0bfbc100) | fix(pomodoro-homes): add scalar-parent vectors | 2026-10-18 22:53:08 EDT |
+| 1 | — | `9217a47` | fix(pomodoro-homes): add scalar-parent vectors | 2026-10-18 22:53:08 EDT |
 
 ## Variables
 

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`81103c2`](https://github.com/bobs-org/bob-cli/commit/81103c2e2b053e6107473b81f8952966e599023c) | feat(stats): add area and project parts to bob stats | 2026-10-18 18:29:50 EDT |
+| — | `81103c2` | feat(stats): add area and project parts to bob stats | 2026-10-18 18:29:50 EDT |
 
 ## Neighbors
 
@@ -39,5 +39,5 @@
 | [bob-cli-9k.8.2](../bbugyi200.athena.bob-cli-9k.8.2/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.8.3](../bbugyi200.athena.bob-cli-9k.8.3/README.md) | bob-cli-9k hood | completed |
 | [bob-cli-9k.8.4](../bbugyi200.athena.bob-cli-9k.8.4/README.md) | bob-cli-9k hood | completed |
-| [bob-cli-9k.8.land](../../sessions/bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k hood | active 1, completed 2, failed 2 |
+| [bob-cli-9k.8.land](../../sessions/bbugyi200.athena.bob-cli-9k.8.land.md) (session · 5) | bob-cli-9k hood | completed 2, dismissed 1, failed 2 |
 | [bob-cli-9k.land](../../sessions/bbugyi200.athena.bob-cli-9k.land.md) (session · 3) | bob-cli-9k hood | failed 3 |

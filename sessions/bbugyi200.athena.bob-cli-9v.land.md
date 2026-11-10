@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-9v` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-9v.land--plan [active]"]
+  n0["bob-cli-9v.land--plan [dismissed]"]
   n1["bob-cli-9v.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-9v.land--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-9v.land--plan | active | gpt-6-astra / codex | 2026-10-19T18:44:58.782788+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9v.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9v.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-9v.land--plan | dismissed | gpt-6-astra / codex | 2026-10-19T14:44:58.782788 → 2026-10-19T15:42:50.846848 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-9v.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-9v.land--plan/chat.md) |
 | <a id="member-code"></a>code | bob-cli-9v.land--code | completed | grok-4.6 / grok | 2026-10-19T19:00:16.470442+00:00 → 2026-10-19T19:42:50.827292+00:00 | 0 | — | — |
 | <a id="member-gate"></a>gate | bob-cli-9v.land--gate | failed | gpt-6-astra / codex | 2026-10-19T18:59:00.439229+00:00 → 2026-10-19T18:59:29.877871+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-9v.land--gate/chat.md) |
 
