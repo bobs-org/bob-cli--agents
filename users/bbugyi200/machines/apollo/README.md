@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / apollo
 
-**Project:** bob-cli · **Hoods:** 432 · **Runs:** 4110
+**Project:** bob-cli · **Hoods:** 432 · **Runs:** 4112
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -316,11 +316,11 @@
 | [bob-cli-56](hoods/bob-cli-56/README.md) | 5 | 0 | completed 5 |
 | [bob-cli-5s](hoods/bob-cli-5s/README.md) | 29 | 4 | completed 17, dismissed 4, failed 8 |
 | [bob-cli-5w](hoods/bob-cli-5w/README.md) | 17 | 2 | completed 13, dismissed 1, failed 2, waiting 1 |
-| [bob-cli-5z](hoods/bob-cli-5z/README.md) | 7 | 0 | active 1, completed 6 |
+| [bob-cli-5z](hoods/bob-cli-5z/README.md) | 7 | 0 | completed 6, dismissed 1 |
 | [bob-cli-6](hoods/bob-cli-6/README.md) | 8 | 0 | completed 8 |
-| [bob-cli-60](hoods/bob-cli-60/README.md) | 21 | 2 | active 1, completed 11, failed 9 |
-| [bob-cli-6l](hoods/bob-cli-6l/README.md) | 39 | 8 | active 2, completed 23, failed 13, waiting 1 |
-| [bob-cli-6s](hoods/bob-cli-6s/README.md) | 14 | 0 | active 2, completed 2, waiting 10 |
+| [bob-cli-60](hoods/bob-cli-60/README.md) | 21 | 2 | completed 11, dismissed 1, failed 9 |
+| [bob-cli-6l](hoods/bob-cli-6l/README.md) | 39 | 8 | active 1, completed 23, dismissed 1, failed 13, waiting 1 |
+| [bob-cli-6s](hoods/bob-cli-6s/README.md) | 14 | 0 | completed 2, dismissed 12 |
 | [bob-cli-6t](hoods/bob-cli-6t/README.md) | 5 | 0 | active 1, waiting 4 |
 | [bob-cli-6u](hoods/bob-cli-6u/README.md) | 66 | 11 | active 1, completed 44, failed 21 |
 | [bob-cli-7](hoods/bob-cli-7/README.md) | 4 | 0 | completed 4 |
@@ -383,7 +383,7 @@
 | [bob-cli-ix](hoods/bob-cli-ix/README.md) | 17 | 4 | completed 15, failed 2 |
 | [bob-cli-j](hoods/bob-cli-j/README.md) | 2 | 0 | completed 2 |
 | [bob-cli-j0](hoods/bob-cli-j0/README.md) | 7 | 1 | completed 7 |
-| [bob-cli-j8](hoods/bob-cli-j8/README.md) | 32 | 6 | active 3, completed 19, failed 1, waiting 9 |
+| [bob-cli-j8](hoods/bob-cli-j8/README.md) | 34 | 7 | active 4, completed 20, failed 1, waiting 9 |
 | [bob-cli-j9](hoods/bob-cli-j9/README.md) | 17 | 3 | completed 14, failed 3 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 1 | 0 | completed 1 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 1 | 0 | completed 1 |
