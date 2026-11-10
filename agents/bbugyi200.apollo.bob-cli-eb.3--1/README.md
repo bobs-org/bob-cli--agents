@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `66bdd21` | feat(highlights): improve grid table widths and row spacing | 2026-10-30 00:22:24 EDT |
+| bob-cli | [`66bdd21`](https://github.com/bobs-org/bob-cli/commit/66bdd211e8e8c366b4b53af9828ce2e2e594d029) | feat(highlights): improve grid table widths and row spacing | 2026-10-30 00:22:24 EDT |
 
 ## Neighbors
 

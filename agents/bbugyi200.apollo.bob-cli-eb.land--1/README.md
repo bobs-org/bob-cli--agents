@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `8e7fa97` | feat(highlights): pack short record fields to meet the page budget | 2026-10-30 03:43:57 EDT |
+| bob-cli | [`8e7fa97`](https://github.com/bobs-org/bob-cli/commit/8e7fa97c182c2d2706e991a460a06596fa1b9321) | feat(highlights): pack short record fields to meet the page budget | 2026-10-30 03:43:57 EDT |
 
 ## Neighbors
 

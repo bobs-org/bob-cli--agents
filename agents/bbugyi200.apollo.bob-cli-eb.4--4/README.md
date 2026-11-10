@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `a984ec5` | feat(web-clip): records and grid cleanup on print route | 2026-10-30 00:59:41 EDT |
+| bob-cli | [`a984ec5`](https://github.com/bobs-org/bob-cli/commit/a984ec5755138c678842aa2fd39ce6c38c8863e7) | feat(web-clip): records and grid cleanup on print route | 2026-10-30 00:59:41 EDT |
 
 ## Neighbors
 

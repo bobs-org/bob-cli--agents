@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `a3735b9` | fix(ref): reduce record spacing for table PDFs | 2026-10-30 01:59:39 EDT |
+| bob-cli | [`a3735b9`](https://github.com/bobs-org/bob-cli/commit/a3735b914939d208f038dd96573c4359b00eff53) | fix(ref): reduce record spacing for table PDFs | 2026-10-30 01:59:39 EDT |
 
 ## Neighbors
 

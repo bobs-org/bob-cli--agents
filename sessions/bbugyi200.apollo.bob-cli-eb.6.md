@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | — | `a3735b9` | fix(ref): reduce record spacing for table PDFs | 2026-10-30 01:59:39 EDT |
+| 3 | bob-cli | [`a3735b9`](https://github.com/bobs-org/bob-cli/commit/a3735b914939d208f038dd96573c4359b00eff53) | fix(ref): reduce record spacing for table PDFs | 2026-10-30 01:59:39 EDT |
 
 ## Neighbors
 

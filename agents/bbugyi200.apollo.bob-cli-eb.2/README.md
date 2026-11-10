@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `7d765b8` | feat(highlights): add configurable table layout for reference renders | 2026-10-29 23:38:21 EDT |
+| bob-cli | [`7d765b8`](https://github.com/bobs-org/bob-cli/commit/7d765b80e89549700ea4f88a0633c4181f0bb338) | feat(highlights): add configurable table layout for reference renders | 2026-10-29 23:38:21 EDT |
 
 ## Neighbors
 

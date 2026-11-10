@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | — | `b47617d` | feat(ref): embed table-layout Lua pass for prose-table records | 2026-10-29 21:53:00 EDT |
+| 1 | bob-cli | [`b47617d`](https://github.com/bobs-org/bob-cli/commit/b47617dc9e066a9bb0c53ddf724f01f81b7007f0) | feat(ref): embed table-layout Lua pass for prose-table records | 2026-10-29 21:53:00 EDT |
 
 ## Neighbors
 
