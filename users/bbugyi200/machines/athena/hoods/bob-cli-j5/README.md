@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-j5
 
-**Global hood:** `bbugyi200.athena.bob-cli-j5` · **Runs:** 29 · **Sessions:** 5 · **States:** active 2, completed 19, waiting 8
+**Global hood:** `bbugyi200.athena.bob-cli-j5` · **Runs:** 29 · **Sessions:** 5 · **States:** active 2, completed 20, waiting 7
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-j5.4--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-j5.4.md#member-plan) | active | gpt-6-astra / codex | 2026-11-09T21:35:04.682111+00:00 → 2026-11-09T21:44:34.904719+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4--plan/chat.md) |
-| [bob-cli-j5.4.1.4](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.4/README.md) | waiting | grok-4.6 / grok | 20261109164623 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.4/prompt.md) |
+| [bob-cli-j5.4.1.4](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.4/README.md) | completed | grok-4.6 / grok | 2026-11-09T23:01:15.805853+00:00 → 2026-11-10T00:01:03.288657+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4.1.4/chat.md) |
 | [bob-cli-j5.4--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-j5.4.md#member-mon) | completed | gpt-6-astra / codex | 2026-11-09T21:44:27.888479+00:00 → 2026-11-09T21:47:13.876650+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.4--mon/chat.md) |
 | [bob-cli-j5.2.1.land--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-j5.2.1.land.md#member-gate) | completed | gpt-6-astra / codex | 2026-11-09T20:26:44.024021+00:00 → 2026-11-09T20:27:24.144311+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.land--gate/chat.md) |
 | [bob-cli-j5.2.1.2](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.2/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-09T18:12:19.413384+00:00 → 2026-11-09T19:18:50.037787+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-j5.2.1.2/chat.md) |
