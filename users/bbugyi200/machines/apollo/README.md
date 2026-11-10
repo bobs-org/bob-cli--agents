@@ -354,8 +354,8 @@
 | [bob-cli-eq](hoods/bob-cli-eq/README.md) | 12 | 2 | completed 1, dismissed 11 |
 | [bob-cli-es](hoods/bob-cli-es/README.md) | 7 | 2 | completed 1, dismissed 6 |
 | [bob-cli-ex](hoods/bob-cli-ex/README.md) | 31 | 4 | active 5, completed 2, dismissed 23, failed 1 |
-| [bob-cli-ey](hoods/bob-cli-ey/README.md) | 138 | 14 | active 89, completed 15, dismissed 30, failed 4 |
-| [bob-cli-ez](hoods/bob-cli-ez/README.md) | 11 | 2 | active 10, completed 1 |
+| [bob-cli-ey](hoods/bob-cli-ey/README.md) | 138 | 14 | active 23, completed 15, dismissed 96, failed 4 |
+| [bob-cli-ez](hoods/bob-cli-ez/README.md) | 11 | 2 | completed 1, dismissed 10 |
 | [bob-cli-f6](hoods/bob-cli-f6/README.md) | 25 | 3 | active 23, completed 2 |
 | [bob-cli-f9](hoods/bob-cli-f9/README.md) | 14 | 1 | active 14 |
 | [bob-cli-fb](hoods/bob-cli-fb/README.md) | 38 | 6 | active 22, completed 12, failed 4 |
