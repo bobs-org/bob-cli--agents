@@ -23,15 +23,15 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`17702dc`](https://github.com/bobs-org/bob-cli/commit/17702dcafea3928c40a6434adf78e21f8f7f19d1) | docs(gkeep): link the Obsidian status indicator guide | 2026-10-31 16:20:48 EDT |
+| — | `17702dc` | docs(gkeep): link the Obsidian status indicator guide | 2026-10-31 16:20:48 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ez.1](../bbugyi200.apollo.bob-cli-ez.1/README.md) | bob-cli-ez hood | active |
-| [bob-cli-ez.2](../../sessions/bbugyi200.apollo.bob-cli-ez.2.md) (session · 3) | bob-cli-ez hood | active 3 |
+| [bob-cli-ez.1](../bbugyi200.apollo.bob-cli-ez.1/README.md) | bob-cli-ez hood | dismissed |
+| [bob-cli-ez.2](../../sessions/bbugyi200.apollo.bob-cli-ez.2.md) (session · 3) | bob-cli-ez hood | active 2, dismissed 1 |
 | [bob-cli-ez.3](../bbugyi200.apollo.bob-cli-ez.3/README.md) | bob-cli-ez hood | active |
-| [bob-cli-ez.4](../bbugyi200.apollo.bob-cli-ez.4/README.md) | bob-cli-ez hood | active |
+| [bob-cli-ez.4](../bbugyi200.apollo.bob-cli-ez.4/README.md) | bob-cli-ez hood | dismissed |
 | [bob-cli-ez.5](../bbugyi200.apollo.bob-cli-ez.5/README.md) | bob-cli-ez hood | active |
-| [bob-cli-ez.land](../../sessions/bbugyi200.apollo.bob-cli-ez.land.md) (session · 3) | bob-cli-ez hood | active 2, completed 1 |
+| [bob-cli-ez.land](../../sessions/bbugyi200.apollo.bob-cli-ez.land.md) (session · 3) | bob-cli-ez hood | completed 1, dismissed 2 |

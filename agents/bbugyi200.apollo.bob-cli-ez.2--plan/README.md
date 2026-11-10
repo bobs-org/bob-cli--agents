@@ -23,9 +23,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ez.1](../bbugyi200.apollo.bob-cli-ez.1/README.md) | bob-cli-ez hood | active |
+| [bob-cli-ez.1](../bbugyi200.apollo.bob-cli-ez.1/README.md) | bob-cli-ez hood | dismissed |
 | [bob-cli-ez.3](../bbugyi200.apollo.bob-cli-ez.3/README.md) | bob-cli-ez hood | active |
-| [bob-cli-ez.4](../bbugyi200.apollo.bob-cli-ez.4/README.md) | bob-cli-ez hood | active |
+| [bob-cli-ez.4](../bbugyi200.apollo.bob-cli-ez.4/README.md) | bob-cli-ez hood | dismissed |
 | [bob-cli-ez.5](../bbugyi200.apollo.bob-cli-ez.5/README.md) | bob-cli-ez hood | active |
 | [bob-cli-ez.6](../bbugyi200.apollo.bob-cli-ez.6/README.md) | bob-cli-ez hood | active |
-| [bob-cli-ez.land](../../sessions/bbugyi200.apollo.bob-cli-ez.land.md) (session · 3) | bob-cli-ez hood | active 2, completed 1 |
+| [bob-cli-ez.land](../../sessions/bbugyi200.apollo.bob-cli-ez.land.md) (session · 3) | bob-cli-ez hood | completed 1, dismissed 2 |
