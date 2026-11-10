@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-je` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-je.land--code [active]"]
+  n0["bob-cli-je.land--code [completed]"]
   n1["bob-cli-je.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-je.land--plan [active]"]
+  n2["bob-cli-je.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-je.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-10T00:38:53.521714+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-je.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-10T00:38:53.521714+00:00 → 2026-11-10T01:20:18.368862+00:00 | [1](../agents/bbugyi200.athena.bob-cli-je.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-je.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-je.land--gate | completed | gpt-6-astra / codex | 2026-11-10T00:37:44.346814+00:00 → 2026-11-10T00:38:17.399346+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-je.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-je.land--plan | active | gpt-6-astra / codex | 2026-11-10T00:22:41.172609+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-je.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-je.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-je.land--plan | completed | gpt-6-astra / codex | 2026-11-10T00:22:41.172609+00:00 → 2026-11-10T01:20:18.368862+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-je.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-je.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`6d063ff`](https://github.com/bobs-org/bob-cli/commit/6d063ff58f38b17d734528d54092dbc80b031b51) | fix(task-merge): preserve code text in merge copies and harden fence handling | 2026-11-09 20:18:50 EST |
 
 ## Variables
 

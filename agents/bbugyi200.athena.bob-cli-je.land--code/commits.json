@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1de0f5be5cdf536a89a8518ac9f2758b"}
+{"commits":[{"committed_at":1794273530,"sha":"6d063ff58f38b17d734528d54092dbc80b031b51","subject":"fix(task-merge): preserve code text in merge copies and harden fence handling"}],"schema_version":2,"source_run_id":"run-1de0f5be5cdf536a89a8518ac9f2758b"}
