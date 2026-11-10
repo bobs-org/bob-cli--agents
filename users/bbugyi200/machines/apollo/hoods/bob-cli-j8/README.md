@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-j8
 
-**Global hood:** `bbugyi200.apollo.bob-cli-j8` · **Runs:** 34 · **Sessions:** 7 · **States:** active 4, completed 21, failed 1, waiting 8
+**Global hood:** `bbugyi200.apollo.bob-cli-j8` · **Runs:** 34 · **Sessions:** 7 · **States:** active 2, completed 23, failed 1, waiting 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -36,7 +36,7 @@
 | [bob-cli-j8.6.1.2](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.2/README.md) | completed | grok-4.6 / grok | 2026-11-09T22:57:31.648309+00:00 → 2026-11-09T23:22:54.889301+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.2/chat.md) |
 | [bob-cli-j8.7](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.7/README.md) | completed | sonnet / claude | 2026-11-09T20:06:59.189484+00:00 → 2026-11-09T20:32:25.388603+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.7/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.7/chat.md) |
 | [bob-cli-j8.3.1.3](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.3.1.3/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-09T23:29:38.400069+00:00 → 2026-11-10T00:32:34.400545+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.3.1.3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.3.1.3/chat.md) |
-| [bob-cli-j8.6.1.land--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-j8.6.1.land.md#member-code) | active | grok-4.6 / grok | 2026-11-10T00:12:23.179419+00:00 | 0 | — |
-| [bob-cli-j8.6.1.land--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-j8.6.1.land.md#member-plan) | active | gpt-6-astra / codex | 2026-11-09T23:58:01.962938+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.land--plan/chat.md) |
+| [bob-cli-j8.6.1.land--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-j8.6.1.land.md#member-code) | completed | grok-4.6 / grok | 2026-11-10T00:12:23.179419+00:00 → 2026-11-10T01:25:13.700550+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.land--code/chat.md) |
+| [bob-cli-j8.6.1.land--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-j8.6.1.land.md#member-plan) | completed | gpt-6-astra / codex | 2026-11-09T23:58:01.962938+00:00 → 2026-11-10T01:25:13.700550+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.land--plan/chat.md) |
 | [bob-cli-j8.6.1.1--1](../../../../../../sessions/bbugyi200.apollo.bob-cli-j8.6.1.1.md#member-1) | completed | gpt-6-luna / codex | 2026-11-09T22:29:25.891289+00:00 → 2026-11-09T22:56:37.237664+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.1--1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.6.1.1--1/chat.md) |
 | [bob-cli-j8.1--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-j8.1.md#member-plan) | completed | gpt-6-astra / codex | 2026-11-09T17:12:35.928366+00:00 → 2026-11-09T18:42:30.561685+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-j8.1--plan/chat.md) |

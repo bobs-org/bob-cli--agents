@@ -9,9 +9,9 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-j8` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-j8.6.1.land--gate [completed]"]
-  n1["bob-cli-j8.6.1.land--code [active]"]
+  n1["bob-cli-j8.6.1.land--code [completed]"]
   n0 --> n1
-  n2["bob-cli-j8.6.1.land--plan [active]"]
+  n2["bob-cli-j8.6.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,14 +20,58 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-j8.6.1.land--gate | completed | gpt-6-astra / codex | 2026-11-10T00:11:43.453329+00:00 → 2026-11-10T00:11:56.194046+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.6.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-j8.6.1.land--code | active | grok-4.6 / grok | 2026-11-10T00:12:23.179419+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-j8.6.1.land--plan | active | gpt-6-astra / codex | 2026-11-09T23:58:01.962938+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.6.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.6.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-j8.6.1.land--code | completed | grok-4.6 / grok | 2026-11-10T00:12:23.179419+00:00 → 2026-11-10T01:25:13.700550+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.6.1.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-j8.6.1.land--plan | completed | gpt-6-astra / codex | 2026-11-09T23:58:01.962938+00:00 → 2026-11-10T01:25:13.700550+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-j8.6.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-j8.6.1.land--plan/chat.md) |
 
 ## Variables
 
 | Role | Variable | Value |
 |---|---|---|
+| code | `artifacts` | \[{bead: bob-cli-j8.6.1, kind: image, label: Notebook header in Reading view, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109191206/notebook-git-reading-light-c38094193693.png,… |
 | plan | `artifacts` | \[{bead: bob-cli-j8.6.1, kind: markdown, label: Notebook UI landing audit and reproducible remaining defects, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261109151630/j861-landing-… |
+
+#### artifacts
+
+**Role:** `code`
+
+```yaml
+- bead: bob-cli-j8.6.1
+  kind: image
+  label: Notebook header in Reading view
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109191206/notebook-git-reading-light-c38094193693.png
+  ref: file:explicit:93f70086784fcf546d527688
+  source_path: /tmp/notebook-ui-shots/notebook-git-reading-light.png
+- bead: bob-cli-j8.6.1
+  kind: image
+  label: Notebook catalog card in Reading view
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109191206/notebook-area-reading-light-4b1e24cd20f5.png
+  ref: file:explicit:5c0afbb7d9ac3ecdd1970142
+  source_path: /tmp/notebook-ui-shots/notebook-area-reading-light.png
+- bead: bob-cli-j8.6.1
+  kind: image
+  label: Notebook catalog chips wrap at 375px
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109191206/notebook-area-375-a9c3688c75bb.png
+  ref: file:explicit:7c10b6b995bc56feb7db1c53
+  source_path: /tmp/notebook-ui-shots/notebook-area-375.png
+- bead: bob-cli-j8.6.1
+  kind: image
+  label: Notebook header inside a Reading embed
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109191206/notebook-embed-reading-845bf2010236.png
+  ref: file:explicit:a3b883e95c1a1f3612d66548
+  source_path: /tmp/notebook-ui-shots/notebook-embed-reading.png
+- bead: bob-cli-j8.6.1
+  kind: image
+  label: Notebook header in Live Preview light
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109191206/notebook-git-lp-light-de27fefb0197.png
+  ref: file:explicit:04792cc56b09bf906d3c21b7
+  source_path: /tmp/notebook-ui-shots/notebook-git-lp-light.png
+- bead: bob-cli-j8.6.1
+  kind: file
+  label: Athena Obsidian notebook UI e2e report
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261109191206/notebook-ui-report-0401969128ba.json
+  ref: file:explicit:8a4a31b59d519aafb72eaa21
+  source_path: /tmp/notebook-ui-report.json
+```
 
 #### artifacts
 
