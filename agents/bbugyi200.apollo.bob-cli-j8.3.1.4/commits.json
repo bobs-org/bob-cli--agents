@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-742e4e6c3ef8304ef02e4e2f5c901655"}
+{"commits":[{"committed_at":1794274333,"sha":"12692ebb95db9b30704ab1e5dd9fc7df70509849","subject":"feat(capture)!: expose notebook capture targets and verify contract"}],"schema_version":2,"source_run_id":"run-742e4e6c3ef8304ef02e4e2f5c901655"}
