@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-2w](../../users/bbugyi200/machines/athena/hoods/bob-cli-2w/README.md) / bob-cli-2w.1
 
-**Global name:** `bbugyi200.athena.bob-cli-2w.1` · **State:** active · **Source run:** `run-373026f5b17467a464fe27ab2ffec73f`
+**Global name:** `bbugyi200.athena.bob-cli-2w.1` · **State:** dismissed · **Source run:** `run-373026f5b17467a464fe27ab2ffec73f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-2w
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-2w](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-2w/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-09-30T17:45:11.425394+00:00
+- Timing: 2026-09-30T13:45:11.425394 → 2026-09-30T13:52:46.541683
 - Commits: 0
 
 ## Files
@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-2w.2](../bbugyi200.athena.bob-cli-2w.2/README.md) | bob-cli-2w hood | active |
-| [bob-cli-2w.3](../bbugyi200.athena.bob-cli-2w.3/README.md) | bob-cli-2w hood | active |
-| [bob-cli-2w.4](../bbugyi200.athena.bob-cli-2w.4/README.md) | bob-cli-2w hood | active |
-| [bob-cli-2w.land](../bbugyi200.athena.bob-cli-2w.land/README.md) | bob-cli-2w hood | active |
+| [bob-cli-2w.2](../bbugyi200.athena.bob-cli-2w.2/README.md) | bob-cli-2w hood | dismissed |
+| [bob-cli-2w.3](../bbugyi200.athena.bob-cli-2w.3/README.md) | bob-cli-2w hood | dismissed |
+| [bob-cli-2w.4](../bbugyi200.athena.bob-cli-2w.4/README.md) | bob-cli-2w hood | dismissed |
+| [bob-cli-2w.land](../bbugyi200.athena.bob-cli-2w.land/README.md) | bob-cli-2w hood | dismissed |
