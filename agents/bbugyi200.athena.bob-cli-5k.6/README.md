@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bb66952`](https://github.com/bobs-org/bob-cli/commit/bb669522e38f2bf5652125225d1b24e1d83987d8) | feat(plugins): refuse bare sync from a foreign bob-plugins checkout | 2026-10-07 16:09:02 EDT |
+| — | `bb66952` | feat(plugins): refuse bare sync from a foreign bob-plugins checkout | 2026-10-07 16:09:02 EDT |
 
 ## Neighbors
 
@@ -40,4 +40,4 @@
 | [bob-cli-5k.7.1.3](../bbugyi200.athena.bob-cli-5k.7.1.3/README.md) | bob-cli-5k hood | completed |
 | [bob-cli-5k.7.1.4](../bbugyi200.athena.bob-cli-5k.7.1.4/README.md) | bob-cli-5k hood | completed |
 | [bob-cli-5k.7.1.land](../bbugyi200.athena.bob-cli-5k.7.1.land/README.md) | bob-cli-5k hood | completed |
-| [bob-cli-5k.land](../../sessions/bbugyi200.athena.bob-cli-5k.land.md) (session · 5) | bob-cli-5k hood | active 1, completed 2, failed 2 |
+| [bob-cli-5k.land](../../sessions/bbugyi200.athena.bob-cli-5k.land.md) (session · 5) | bob-cli-5k hood | completed 2, dismissed 1, failed 2 |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5f845db`](https://github.com/bobs-org/bob-cli/commit/5f845dbb18e5c6b6fe91b669c9cbf96c37090f92) | docs(task-marks): specify the #task #ref open-book glyph and picker text | 2026-10-09 13:20:14 EDT |
+| — | `5f845db` | docs(task-marks): specify the #task #ref open-book glyph and picker text | 2026-10-09 13:20:14 EDT |
 
 ## Neighbors
 
@@ -42,4 +42,4 @@
 | [bob-cli-5y.7](../../sessions/bbugyi200.athena.bob-cli-5y.7.md) (session · 3) | bob-cli-5y hood | completed 2, failed 1 |
 | [bob-cli-5y.8](../bbugyi200.athena.bob-cli-5y.8/README.md) | bob-cli-5y hood | completed |
 | [bob-cli-5y.9](../bbugyi200.athena.bob-cli-5y.9/README.md) | bob-cli-5y hood | completed |
-| [bob-cli-5y.land](../../sessions/bbugyi200.athena.bob-cli-5y.land.md) (session · 9) | bob-cli-5y hood | active 1, completed 4, failed 4 |
+| [bob-cli-5y.land](../../sessions/bbugyi200.athena.bob-cli-5y.land.md) (session · 9) | bob-cli-5y hood | completed 4, dismissed 1, failed 4 |

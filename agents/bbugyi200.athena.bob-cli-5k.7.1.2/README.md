@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`937722b`](https://github.com/bobs-org/bob-cli/commit/937722b5506b4095737fa90b67ffbde04edf0178) | feat(ref-library): add bob ref migrate-zorg dry-run planner | 2026-10-07 18:47:04 EDT |
+| — | `937722b` | feat(ref-library): add bob ref migrate-zorg dry-run planner | 2026-10-07 18:47:04 EDT |
 
 ## Neighbors
 
@@ -40,4 +40,4 @@
 | [bob-cli-5k.4](../../sessions/bbugyi200.athena.bob-cli-5k.4.md) (session · 3) | bob-cli-5k hood | completed 2, failed 1 |
 | [bob-cli-5k.5](../../sessions/bbugyi200.athena.bob-cli-5k.5.md) (session · 5) | bob-cli-5k hood | completed 3, failed 2 |
 | [bob-cli-5k.6](../bbugyi200.athena.bob-cli-5k.6/README.md) | bob-cli-5k hood | completed |
-| [bob-cli-5k.land](../../sessions/bbugyi200.athena.bob-cli-5k.land.md) (session · 5) | bob-cli-5k hood | active 1, completed 2, failed 2 |
+| [bob-cli-5k.land](../../sessions/bbugyi200.athena.bob-cli-5k.land.md) (session · 5) | bob-cli-5k hood | completed 2, dismissed 1, failed 2 |

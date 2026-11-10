@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e6aa7a4`](https://github.com/bobs-org/bob-cli/commit/e6aa7a491c4fcf504e02edf774442d934a7f5494) | feat(ref): require -P parent for bob ref create end to end | 2026-10-09 19:40:19 EDT |
+| — | `e6aa7a4` | feat(ref): require -P parent for bob ref create end to end | 2026-10-09 19:40:19 EDT |
 
 ## Neighbors
 
@@ -42,4 +42,4 @@
 | [bob-cli-5y.6](../bbugyi200.athena.bob-cli-5y.6/README.md) | bob-cli-5y hood | completed |
 | [bob-cli-5y.7](../../sessions/bbugyi200.athena.bob-cli-5y.7.md) (session · 3) | bob-cli-5y hood | completed 2, failed 1 |
 | [bob-cli-5y.8](../bbugyi200.athena.bob-cli-5y.8/README.md) | bob-cli-5y hood | completed |
-| [bob-cli-5y.land](../../sessions/bbugyi200.athena.bob-cli-5y.land.md) (session · 9) | bob-cli-5y hood | active 1, completed 4, failed 4 |
+| [bob-cli-5y.land](../../sessions/bbugyi200.athena.bob-cli-5y.land.md) (session · 9) | bob-cli-5y hood | completed 4, dismissed 1, failed 4 |

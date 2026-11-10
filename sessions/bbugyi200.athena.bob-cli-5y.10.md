@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`091eda9`](https://github.com/bobs-org/bob-cli/commit/091eda911b985e0c69e5d20982c9d7275fd61b2e) | feat(capture-gkeep): URL @route and gkeep pull choose the reference parent | 2026-10-09 21:07:04 EDT |
+| 2 | — | `091eda9` | feat(capture-gkeep): URL @route and gkeep pull choose the reference parent | 2026-10-09 21:07:04 EDT |
 
 ## Neighbors
 
@@ -58,4 +58,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-5y.7](bbugyi200.athena.bob-cli-5y.7.md) (session · 3) | bob-cli-5y hood | completed 2, failed 1 |
 | [bob-cli-5y.8](../agents/bbugyi200.athena.bob-cli-5y.8/README.md) | bob-cli-5y hood | completed |
 | [bob-cli-5y.9](../agents/bbugyi200.athena.bob-cli-5y.9/README.md) | bob-cli-5y hood | completed |
-| [bob-cli-5y.land](bbugyi200.athena.bob-cli-5y.land.md) (session · 9) | bob-cli-5y hood | active 1, completed 4, failed 4 |
+| [bob-cli-5y.land](bbugyi200.athena.bob-cli-5y.land.md) (session · 9) | bob-cli-5y hood | completed 4, dismissed 1, failed 4 |

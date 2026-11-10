@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`56a5e68`](https://github.com/bobs-org/bob-cli/commit/56a5e68811203a90e2b774fb9ad20dcdfd27ba07) | feat(freshness): add RECURRING walk tier for due recurring tasks | 2026-10-08 11:23:29 EDT |
+| — | `56a5e68` | feat(freshness): add RECURRING walk tier for due recurring tasks | 2026-10-08 11:23:29 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-5p.2](../bbugyi200.athena.bob-cli-5p.2/README.md) | bob-cli-5p hood | completed |
 | [bob-cli-5p.3](../bbugyi200.athena.bob-cli-5p.3/README.md) | bob-cli-5p hood | completed |
 | [bob-cli-5p.4](../bbugyi200.athena.bob-cli-5p.4/README.md) | bob-cli-5p hood | completed |
-| [bob-cli-5p.land](../../sessions/bbugyi200.athena.bob-cli-5p.land.md) (session · 3) | bob-cli-5p hood | active 2, failed 1 |
+| [bob-cli-5p.land](../../sessions/bbugyi200.athena.bob-cli-5p.land.md) (session · 3) | bob-cli-5p hood | active 1, dismissed 1, failed 1 |

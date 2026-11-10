@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`577866d`](https://github.com/bobs-org/bob-cli/commit/577866d085ae7ea198a6745fca073154728c14dd) | feat(dataview): build Tasks JS sandbox only when query needs JavaScript | 2026-10-07 17:43:16 EDT |
+| 2 | — | `577866d` | feat(dataview): build Tasks JS sandbox only when query needs JavaScript | 2026-10-07 17:43:16 EDT |
 
 ## Neighbors
 
@@ -50,4 +50,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-5k.7.1.3](../agents/bbugyi200.athena.bob-cli-5k.7.1.3/README.md) | bob-cli-5k hood | completed |
 | [bob-cli-5k.7.1.4](../agents/bbugyi200.athena.bob-cli-5k.7.1.4/README.md) | bob-cli-5k hood | completed |
 | [bob-cli-5k.7.1.land](../agents/bbugyi200.athena.bob-cli-5k.7.1.land/README.md) | bob-cli-5k hood | completed |
-| [bob-cli-5k.land](bbugyi200.athena.bob-cli-5k.land.md) (session · 5) | bob-cli-5k hood | active 1, completed 2, failed 2 |
+| [bob-cli-5k.land](bbugyi200.athena.bob-cli-5k.land.md) (session · 5) | bob-cli-5k hood | completed 2, dismissed 1, failed 2 |

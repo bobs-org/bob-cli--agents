@@ -23,7 +23,7 @@ flowchart TD
   n0 --> n6
   n7["bob-cli-5y.land--mon [failed]"]
   n0 --> n7
-  n8["bob-cli-5y.land--3 [active]"]
+  n8["bob-cli-5y.land--3 [dismissed]"]
   n0 --> n8
 ```
 
@@ -39,13 +39,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-gate"></a>gate | bob-cli-5y.land--gate | failed | opus / claude | 2026-10-10T02:44:04.059512+00:00 → 2026-10-10T02:44:32.020190+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-5y.land--gate/chat.md) |
 | <a id="member-code"></a>code | bob-cli-5y.land--code | completed | muse-spark-1.3-contributor / muse | 2026-10-10T02:44:48.591466+00:00 → 2026-10-10T02:55:52.686501+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-5y.land--code/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-5y.land--mon | failed | muse-spark-1.3-contributor / muse | 2026-10-10T02:52:25.571794+00:00 → 2026-10-10T02:56:02.665700+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-5y.land--mon/chat.md) |
-| <a id="member-3"></a>3 | bob-cli-5y.land--3 | active | muse-spark-1.3-contributor / muse | 2026-10-10T03:13:52.212994+00:00 | [1](../agents/bbugyi200.athena.bob-cli-5y.land--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-5y.land--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-5y.land--3 | dismissed | muse-spark-1.3-contributor / muse | 2026-10-09T23:13:52.212994 → 2026-10-09T23:19:02.457106 | [1](../agents/bbugyi200.athena.bob-cli-5y.land--3/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-5y.land--3/prompt.md) | — |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | bob-cli | [`57a2900`](https://github.com/bobs-org/bob-cli/commit/57a2900450418052ff8931cfc72e1afcd45891e0) | fix(ob): harden lock\_wait\_behavior against fork-inherited fd flake | 2026-10-09 23:17:11 EDT |
+| 3 | — | `57a2900` | fix(ob): harden lock\_wait\_behavior against fork-inherited fd flake | 2026-10-09 23:17:11 EDT |
 
 ## Neighbors
 

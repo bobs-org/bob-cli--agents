@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f315c58`](https://github.com/bobs-org/bob-cli/commit/f315c58c70dfe16fadb6052457250e670efe3c28) | feat(freshness): remove hidden ^ref review bypass and close out post-closeout contract | 2026-10-09 22:16:25 EDT |
+| — | `f315c58` | feat(freshness): remove hidden ^ref review bypass and close out post-closeout contract | 2026-10-09 22:16:25 EDT |
 
 ## Neighbors
 
@@ -42,4 +42,4 @@
 | [bob-cli-5y.7](../../sessions/bbugyi200.athena.bob-cli-5y.7.md) (session · 3) | bob-cli-5y hood | completed 2, failed 1 |
 | [bob-cli-5y.8](../bbugyi200.athena.bob-cli-5y.8/README.md) | bob-cli-5y hood | completed |
 | [bob-cli-5y.9](../bbugyi200.athena.bob-cli-5y.9/README.md) | bob-cli-5y hood | completed |
-| [bob-cli-5y.land](../../sessions/bbugyi200.athena.bob-cli-5y.land.md) (session · 9) | bob-cli-5y hood | active 1, completed 4, failed 4 |
+| [bob-cli-5y.land](../../sessions/bbugyi200.athena.bob-cli-5y.land.md) (session · 9) | bob-cli-5y hood | completed 4, dismissed 1, failed 4 |

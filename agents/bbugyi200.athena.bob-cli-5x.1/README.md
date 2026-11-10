@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`7fe88b7`](https://github.com/bobs-org/bob-cli/commit/7fe88b72f4d32df7e4bdf1af1a22a038cfd314a4) | feat(refs): add JSON scan report and writer lock to bob ref scan | 2026-10-09 12:50:42 EDT |
+| — | `7fe88b7` | feat(refs): add JSON scan report and writer lock to bob ref scan | 2026-10-09 12:50:42 EDT |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-5x.2](../../sessions/bbugyi200.athena.bob-cli-5x.2.md) (session · 7) | bob-cli-5x hood | completed 4, failed 3 |
 | [bob-cli-5x.3](../../sessions/bbugyi200.athena.bob-cli-5x.3.md) (session · 3) | bob-cli-5x hood | completed 2, failed 1 |
 | [bob-cli-5x.4](../../sessions/bbugyi200.athena.bob-cli-5x.4.md) (session · 3) | bob-cli-5x hood | completed 2, failed 1 |
-| [bob-cli-5x.land](../../sessions/bbugyi200.athena.bob-cli-5x.land.md) (session · 5) | bob-cli-5x hood | active 1, completed 2, failed 2 |
+| [bob-cli-5x.land](../../sessions/bbugyi200.athena.bob-cli-5x.land.md) (session · 5) | bob-cli-5x hood | completed 2, dismissed 1, failed 2 |

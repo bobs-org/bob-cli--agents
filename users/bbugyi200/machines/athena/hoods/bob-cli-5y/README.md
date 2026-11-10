@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-5y
 
-**Global hood:** `bbugyi200.athena.bob-cli-5y` · **Runs:** 35 · **Sessions:** 5 · **States:** active 2, completed 23, failed 10
+**Global hood:** `bbugyi200.athena.bob-cli-5y` · **Runs:** 35 · **Sessions:** 5 · **States:** active 1, completed 23, dismissed 1, failed 10
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -37,7 +37,7 @@
 | [bob-cli-5y.5](../../../../../../agents/bbugyi200.athena.bob-cli-5y.5/README.md) | active | grok-4.7 / grok | 2026-10-09T16:56:26.878358+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5y.5/prompt.md) |
 | [bob-cli-5y.7--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-5y.7.md#member-plan) | completed | gpt-6.1-sol / codex | 2026-10-09T18:57:51.211329+00:00 → 2026-10-09T19:23:38.289691+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5y.7--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5y.7--plan/prompt.md) |
 | [bob-cli-5y.land--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-5y.land.md#member-mon) | failed | muse-spark-1.3-contributor / muse | 2026-10-10T02:52:25.571794+00:00 → 2026-10-10T02:56:02.665700+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5y.land--mon/chat.md) |
-| [bob-cli-5y.land--3](../../../../../../sessions/bbugyi200.athena.bob-cli-5y.land.md#member-3) | active | muse-spark-1.3-contributor / muse | 2026-10-10T03:13:52.212994+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5y.land--3/prompt.md) |
+| [bob-cli-5y.land--3](../../../../../../sessions/bbugyi200.athena.bob-cli-5y.land.md#member-3) | dismissed | muse-spark-1.3-contributor / muse | 2026-10-09T23:13:52.212994 → 2026-10-09T23:19:02.457106 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5y.land--3/prompt.md) |
 | [bob-cli-5y.11--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-5y.11.md#member-plan) | completed | grok-4.7 / grok | 2026-10-09T23:08:47.080764+00:00 → 2026-10-09T23:56:47.115381+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5y.11--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5y.11--plan/prompt.md) |
 | [bob-cli-5y.10--code](../../../../../../sessions/bbugyi200.athena.bob-cli-5y.10.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T23:54:24.161076+00:00 → 2026-10-10T00:39:02.810052+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5y.10--code/chat.md) |
 | [bob-cli-5y.3](../../../../../../agents/bbugyi200.athena.bob-cli-5y.3/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-10-09T16:33:28.270730+00:00 → 2026-10-09T16:59:30.767841+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-5y.3/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-5y.3/prompt.md) |

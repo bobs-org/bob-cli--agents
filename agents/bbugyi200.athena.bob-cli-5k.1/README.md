@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a5bb9ae`](https://github.com/bobs-org/bob-cli/commit/a5bb9aeb350d0de12299580f151cee122318257d) | fix(red-tests): resolve owned check failures for 4j, 5i, 4u | 2026-10-07 15:01:58 EDT |
+| — | `a5bb9ae` | fix(red-tests): resolve owned check failures for 4j, 5i, 4u | 2026-10-07 15:01:58 EDT |
 
 ## Neighbors
 
@@ -40,4 +40,4 @@
 | [bob-cli-5k.7.1.3](../bbugyi200.athena.bob-cli-5k.7.1.3/README.md) | bob-cli-5k hood | completed |
 | [bob-cli-5k.7.1.4](../bbugyi200.athena.bob-cli-5k.7.1.4/README.md) | bob-cli-5k hood | completed |
 | [bob-cli-5k.7.1.land](../bbugyi200.athena.bob-cli-5k.7.1.land/README.md) | bob-cli-5k hood | completed |
-| [bob-cli-5k.land](../../sessions/bbugyi200.athena.bob-cli-5k.land.md) (session · 5) | bob-cli-5k hood | active 1, completed 2, failed 2 |
+| [bob-cli-5k.land](../../sessions/bbugyi200.athena.bob-cli-5k.land.md) (session · 5) | bob-cli-5k hood | completed 2, dismissed 1, failed 2 |

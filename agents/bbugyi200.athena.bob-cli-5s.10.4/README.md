@@ -24,4 +24,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-5s.10.3](../bbugyi200.athena.bob-cli-5s.10.3/README.md) | bob-cli-5s.10 hood | completed |
-| [bob-cli-5s.10.land](../../sessions/bbugyi200.athena.bob-cli-5s.10.land.md) (session · 5) | bob-cli-5s.10 hood | active 1, completed 2, failed 2 |
+| [bob-cli-5s.10.land](../../sessions/bbugyi200.athena.bob-cli-5s.10.land.md) (session · 5) | bob-cli-5s.10 hood | completed 2, dismissed 1, failed 2 |

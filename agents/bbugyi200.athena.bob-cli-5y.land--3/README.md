@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-5y](../../users/bbugyi200/machines/athena/hoods/bob-cli-5y/README.md) / [bob-cli-5y.land](../../sessions/bbugyi200.athena.bob-cli-5y.land.md) / bob-cli-5y.land--3
 
-**Global name:** `bbugyi200.athena.bob-cli-5y.land--3` · **State:** active · **Source run:** `run-f8b759b44da002ecf2971bbdfb8aba57`
+**Global name:** `bbugyi200.athena.bob-cli-5y.land--3` · **State:** dismissed · **Source run:** `run-f8b759b44da002ecf2971bbdfb8aba57`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-5y
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-5y](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5y/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-10T03:13:52.212994+00:00
+- Timing: 2026-10-09T23:13:52.212994 → 2026-10-09T23:19:02.457106
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`57a2900`](https://github.com/bobs-org/bob-cli/commit/57a2900450418052ff8931cfc72e1afcd45891e0) | fix(ob): harden lock\_wait\_behavior against fork-inherited fd flake | 2026-10-09 23:17:11 EDT |
+| — | `57a2900` | fix(ob): harden lock\_wait\_behavior against fork-inherited fd flake | 2026-10-09 23:17:11 EDT |
 
 ## Neighbors
 

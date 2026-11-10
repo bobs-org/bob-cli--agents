@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-5s](../../users/bbugyi200/machines/athena/hoods/bob-cli-5s/README.md) / [bob-cli-5s.10.land](../../sessions/bbugyi200.athena.bob-cli-5s.10.land.md) / bob-cli-5s.10.land--1
 
-**Global name:** `bbugyi200.athena.bob-cli-5s.10.land--1` · **State:** active · **Source run:** `run-93860a140bd95b2dd7af409fb15d8991`
+**Global name:** `bbugyi200.athena.bob-cli-5s.10.land--1` · **State:** dismissed · **Source run:** `run-93860a140bd95b2dd7af409fb15d8991`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-5s
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-5s.10](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-5s/bob-cli-5s.10.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-09T16:14:47.571930+00:00
+- Timing: 2026-10-09T12:14:47.571930 → 2026-10-09T12:23:52.752247
 - Commits: 0
 
 ## Files
