@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bq` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["bq--plan [active]"]
+  n0["bq--plan [dismissed]"]
   n1["bq--gate [completed]"]
   n0 --> n1
   n2["bq--code [completed]"]
@@ -19,6 +19,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bq--plan | active | opus / claude | 2026-10-31T15:25:34.287262+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bq--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bq--plan/chat.md) |
+| <a id="member-plan"></a>plan | bq--plan | dismissed | opus / claude | 2026-10-31T11:25:34.287262 → 2026-10-31T11:34:00.799462 | 0 | [Prompt](../agents/bbugyi200.apollo.bq--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bq--plan/chat.md) |
 | <a id="member-gate"></a>gate | bq--gate | completed | opus / claude | 2026-10-31T15:37:23.087686+00:00 → 2026-10-31T15:37:57.512699+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bq--gate/chat.md) |
 | <a id="member-code"></a>code | bq--code | completed | grok-4.6 / grok | 2026-10-31T15:38:15.088431+00:00 → 2026-10-31T16:11:16.984573+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bq--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.bq--code/chat.md) |

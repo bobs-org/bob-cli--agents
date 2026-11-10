@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fc1e449`](https://github.com/bobs-org/bob-cli/commit/fc1e449fa14cdf769aabc13228dea4325e59a608) | feat(capture): support plus block-ID separators | 2026-10-31 11:17:25 EDT |
+| — | `fc1e449` | feat(capture): support plus block-ID separators | 2026-10-31 11:17:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bp.f0](../../sessions/bbugyi200.apollo.bp.f0.md) (session · 3) | descendant | active 1, completed 2 |
+| [bp.f0](../../sessions/bbugyi200.apollo.bp.f0.md) (session · 3) | descendant | completed 2, dismissed 1 |
