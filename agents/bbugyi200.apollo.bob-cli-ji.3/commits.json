@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-846a542b8b3ac35cae28e9d6edf9a8b9"}
+{"commits":[{"committed_at":1794312955,"sha":"7ff24c8241b1fefbed57906f5486367e3f86e14d","subject":"feat(gcal): record note provenance in gcal.row and fail-safe reads"}],"schema_version":2,"source_run_id":"run-846a542b8b3ac35cae28e9d6edf9a8b9"}
