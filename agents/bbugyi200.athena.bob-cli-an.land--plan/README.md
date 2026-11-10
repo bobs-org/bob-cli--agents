@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-an](../../users/bbugyi200/machines/athena/hoods/bob-cli-an/README.md) / [bob-cli-an.land](../../sessions/bbugyi200.athena.bob-cli-an.land.md) / bob-cli-an.land--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-an.land--plan` · **State:** active · **Source run:** `run-fd727d312dc6da597831b8e486dbba77`
+**Global name:** `bbugyi200.athena.bob-cli-an.land--plan` · **State:** dismissed · **Source run:** `run-fd727d312dc6da597831b8e486dbba77`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-an
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-an](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-an/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-23T16:05:52.593093+00:00
+- Timing: 2026-10-23T12:05:52.593093 → 2026-10-23T12:41:14.748871
 - Commits: [1](#commits)
 
 ## Files
@@ -49,9 +49,9 @@
 | [bob-cli-an.6.6.6.4](../bbugyi200.athena.bob-cli-an.6.6.6.4/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.1/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.2.md) (session · 3) | bob-cli-an hood | completed 1, dismissed 2 |
-| [bob-cli-an.6.6.6.5.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.3/README.md) | bob-cli-an hood | active |
+| [bob-cli-an.6.6.6.5.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.3/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.4](../bbugyi200.athena.bob-cli-an.6.6.6.5.4/README.md) | bob-cli-an hood | dismissed |
-| [bob-cli-an.6.6.6.5.5](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.5.md) (session · 5) | bob-cli-an hood | active 1, dismissed 4 |
+| [bob-cli-an.6.6.6.5.5](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.5.md) (session · 5) | bob-cli-an hood | dismissed 5 |
 | [bob-cli-an.6.6.6.5.6.1](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.1/README.md) | bob-cli-an hood | dismissed |
 | [bob-cli-an.6.6.6.5.6.2](../../sessions/bbugyi200.athena.bob-cli-an.6.6.6.5.6.2.md) (session · 3) | bob-cli-an hood | completed 1, dismissed 2 |
 | [bob-cli-an.6.6.6.5.6.3](../bbugyi200.athena.bob-cli-an.6.6.6.5.6.3/README.md) | bob-cli-an hood | dismissed |
