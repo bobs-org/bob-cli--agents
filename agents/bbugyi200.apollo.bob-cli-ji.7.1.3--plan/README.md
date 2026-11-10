@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-ji.7](../../sessions/bbugyi200.apollo.bob-cli-ji.7.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-ji.7.1.1](../bbugyi200.apollo.bob-cli-ji.7.1.1/README.md) | bob-cli-ji.7.1 hood | completed |
-| [bob-cli-ji.7.1.2](../bbugyi200.apollo.bob-cli-ji.7.1.2/README.md) | bob-cli-ji.7.1 hood | active |
+| [bob-cli-ji.7.1.2](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.2.md) (session · 2) | bob-cli-ji.7.1 hood | active 1, completed 1 |
 | [bob-cli-ji.7.1.4](../bbugyi200.apollo.bob-cli-ji.7.1.4/README.md) | bob-cli-ji.7.1 hood | waiting |
 | [bob-cli-ji.7.1.5](../bbugyi200.apollo.bob-cli-ji.7.1.5/README.md) | bob-cli-ji.7.1 hood | waiting |
 | [bob-cli-ji.7.1.6](../bbugyi200.apollo.bob-cli-ji.7.1.6/README.md) | bob-cli-ji.7.1 hood | waiting |
