@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4f72e5c`](https://github.com/bobs-org/bob-cli/commit/4f72e5c513317708f098b35e2dfd4beab82b5748) | docs(tasks): contract BLOCKS lines, managed-child registry, and vectors | 2026-10-13 11:39:06 EDT |
+| — | `4f72e5c` | docs(tasks): contract BLOCKS lines, managed-child registry, and vectors | 2026-10-13 11:39:06 EDT |
 
 ## Neighbors
 
@@ -36,4 +36,4 @@
 | [bob-cli-7e.7](../bbugyi200.athena.bob-cli-7e.7/README.md) | bob-cli-7e hood | completed |
 | [bob-cli-7e.8](../bbugyi200.athena.bob-cli-7e.8/README.md) | bob-cli-7e hood | completed |
 | [bob-cli-7e.9](../bbugyi200.athena.bob-cli-7e.9/README.md) | bob-cli-7e hood | completed |
-| [bob-cli-7e.land](../bbugyi200.athena.bob-cli-7e.land/README.md) | bob-cli-7e hood | active |
+| [bob-cli-7e.land](../bbugyi200.athena.bob-cli-7e.land/README.md) | bob-cli-7e hood | dismissed |

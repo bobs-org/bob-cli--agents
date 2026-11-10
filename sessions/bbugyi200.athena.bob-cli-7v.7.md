@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`dad02a2`](https://github.com/bobs-org/bob-cli/commit/dad02a2f6e308ca8492759a967e17658d140f6b4) | docs(ref): document multi-url collections | 2026-10-15 15:07:15 EDT |
+| 2 | — | `dad02a2` | docs(ref): document multi-url collections | 2026-10-15 15:07:15 EDT |
 
 ## Neighbors
 
@@ -45,4 +45,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-7v.4](../agents/bbugyi200.athena.bob-cli-7v.4/README.md) | bob-cli-7v hood | completed |
 | [bob-cli-7v.5](bbugyi200.athena.bob-cli-7v.5.md) (session · 3) | bob-cli-7v hood | completed 2, failed 1 |
 | [bob-cli-7v.6](bbugyi200.athena.bob-cli-7v.6.md) (session · 9) | bob-cli-7v hood | completed 5, failed 4 |
-| [bob-cli-7v.land](bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | active 1, completed 5, failed 5 |
+| [bob-cli-7v.land](bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | completed 5, dismissed 1, failed 5 |

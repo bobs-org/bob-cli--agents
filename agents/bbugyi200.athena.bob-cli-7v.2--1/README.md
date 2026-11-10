@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`63ec1ca`](https://github.com/bobs-org/bob-cli/commit/63ec1ca5f138da48c3e244a4745006ad272ecf6f) | feat(ref): add collection naming and metadata rules | 2026-10-15 12:57:34 EDT |
+| — | `63ec1ca` | feat(ref): add collection naming and metadata rules | 2026-10-15 12:57:34 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-7v.5](../../sessions/bbugyi200.athena.bob-cli-7v.5.md) (session · 3) | bob-cli-7v hood | completed 2, failed 1 |
 | [bob-cli-7v.6](../../sessions/bbugyi200.athena.bob-cli-7v.6.md) (session · 9) | bob-cli-7v hood | completed 5, failed 4 |
 | [bob-cli-7v.7](../../sessions/bbugyi200.athena.bob-cli-7v.7.md) (session · 5) | bob-cli-7v hood | completed 3, failed 2 |
-| [bob-cli-7v.land](../../sessions/bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | active 1, completed 5, failed 5 |
+| [bob-cli-7v.land](../../sessions/bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | completed 5, dismissed 1, failed 5 |

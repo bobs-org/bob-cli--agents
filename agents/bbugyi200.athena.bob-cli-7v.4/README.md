@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5feaaac`](https://github.com/bobs-org/bob-cli/commit/5feaaac1a322b5756d3469464d866ca85a89bcae) | feat(highlights-ref): add multi-url collection gate | 2026-10-15 13:22:20 EDT |
+| — | `5feaaac` | feat(highlights-ref): add multi-url collection gate | 2026-10-15 13:22:20 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@
 | [bob-cli-7v.5](../../sessions/bbugyi200.athena.bob-cli-7v.5.md) (session · 3) | bob-cli-7v hood | completed 2, failed 1 |
 | [bob-cli-7v.6](../../sessions/bbugyi200.athena.bob-cli-7v.6.md) (session · 9) | bob-cli-7v hood | completed 5, failed 4 |
 | [bob-cli-7v.7](../../sessions/bbugyi200.athena.bob-cli-7v.7.md) (session · 5) | bob-cli-7v hood | completed 3, failed 2 |
-| [bob-cli-7v.land](../../sessions/bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | active 1, completed 5, failed 5 |
+| [bob-cli-7v.land](../../sessions/bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | completed 5, dismissed 1, failed 5 |

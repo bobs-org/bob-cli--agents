@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-7r.land--code [completed]"]
   n1["bob-cli-7r.land--gate [failed]"]
   n0 --> n1
-  n2["bob-cli-7r.land--plan [active]"]
+  n2["bob-cli-7r.land--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | bob-cli-7r.land--code | completed | grok-4.6 / grok | 2026-10-15T00:48:19.948809+00:00 → 2026-10-15T01:27:01.693411+00:00 | [1](../agents/bbugyi200.athena.bob-cli-7r.land--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-7r.land--gate | failed | opus / claude | 2026-10-15T00:47:34.347822+00:00 → 2026-10-15T00:47:58.906992+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-7r.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-7r.land--plan | active | opus / claude | 2026-10-15T00:20:38.541447+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7r.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-7r.land--plan | dismissed | opus / claude | 2026-10-14T20:20:38.541447 → 2026-10-14T21:27:01.752784 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-7r.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-7r.land--plan/chat.md) |
 
 ## Commits
 

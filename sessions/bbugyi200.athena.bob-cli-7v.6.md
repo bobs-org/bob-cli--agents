@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 4 | bob-cli | [`f596bf3`](https://github.com/bobs-org/bob-cli/commit/f596bf33154e1c0440820aab46c91b92357799a7) | feat(ref): add collection listen and attach support | 2026-10-15 14:41:57 EDT |
+| 4 | — | `f596bf3` | feat(ref): add collection listen and attach support | 2026-10-15 14:41:57 EDT |
 
 ## Neighbors
 
@@ -57,4 +57,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-7v.4](../agents/bbugyi200.athena.bob-cli-7v.4/README.md) | bob-cli-7v hood | completed |
 | [bob-cli-7v.5](bbugyi200.athena.bob-cli-7v.5.md) (session · 3) | bob-cli-7v hood | completed 2, failed 1 |
 | [bob-cli-7v.7](bbugyi200.athena.bob-cli-7v.7.md) (session · 5) | bob-cli-7v hood | completed 3, failed 2 |
-| [bob-cli-7v.land](bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | active 1, completed 5, failed 5 |
+| [bob-cli-7v.land](bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | completed 5, dismissed 1, failed 5 |

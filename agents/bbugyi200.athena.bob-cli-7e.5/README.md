@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`cce650e`](https://github.com/bobs-org/bob-cli/commit/cce650e8e15d3e5de172dea101b38be6b03b3f50) | feat(task-status-hooks): reconcile BLOCKS lines from explicit edges | 2026-10-13 13:53:22 EDT |
+| — | `cce650e` | feat(task-status-hooks): reconcile BLOCKS lines from explicit edges | 2026-10-13 13:53:22 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [bob-cli-7e.7](../bbugyi200.athena.bob-cli-7e.7/README.md) | bob-cli-7e hood | completed |
 | [bob-cli-7e.8](../bbugyi200.athena.bob-cli-7e.8/README.md) | bob-cli-7e hood | completed |
 | [bob-cli-7e.9](../bbugyi200.athena.bob-cli-7e.9/README.md) | bob-cli-7e hood | completed |
-| [bob-cli-7e.land](../bbugyi200.athena.bob-cli-7e.land/README.md) | bob-cli-7e hood | active |
+| [bob-cli-7e.land](../bbugyi200.athena.bob-cli-7e.land/README.md) | bob-cli-7e hood | dismissed |

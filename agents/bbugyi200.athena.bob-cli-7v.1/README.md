@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`47e85f6`](https://github.com/bobs-org/bob-cli/commit/47e85f65e00dc953c25416b475b21fe0ee4bea92) | feat(ref): dedupe list-valued source URLs | 2026-10-15 12:39:19 EDT |
+| — | `47e85f6` | feat(ref): dedupe list-valued source URLs | 2026-10-15 12:39:19 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@
 | [bob-cli-7v.5](../../sessions/bbugyi200.athena.bob-cli-7v.5.md) (session · 3) | bob-cli-7v hood | completed 2, failed 1 |
 | [bob-cli-7v.6](../../sessions/bbugyi200.athena.bob-cli-7v.6.md) (session · 9) | bob-cli-7v hood | completed 5, failed 4 |
 | [bob-cli-7v.7](../../sessions/bbugyi200.athena.bob-cli-7v.7.md) (session · 5) | bob-cli-7v hood | completed 3, failed 2 |
-| [bob-cli-7v.land](../../sessions/bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | active 1, completed 5, failed 5 |
+| [bob-cli-7v.land](../../sessions/bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | completed 5, dismissed 1, failed 5 |

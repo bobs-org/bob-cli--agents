@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bfdff70`](https://github.com/bobs-org/bob-cli/commit/bfdff70467affebfe212b83d949d790a5a443b1b) | feat(capture): stage BLOCKS mirror on & adds and dependency drops | 2026-10-13 14:36:23 EDT |
+| — | `bfdff70` | feat(capture): stage BLOCKS mirror on & adds and dependency drops | 2026-10-13 14:36:23 EDT |
 
 ## Neighbors
 
@@ -37,4 +37,4 @@
 | [bob-cli-7e.7](../bbugyi200.athena.bob-cli-7e.7/README.md) | bob-cli-7e hood | completed |
 | [bob-cli-7e.8](../bbugyi200.athena.bob-cli-7e.8/README.md) | bob-cli-7e hood | completed |
 | [bob-cli-7e.9](../bbugyi200.athena.bob-cli-7e.9/README.md) | bob-cli-7e hood | completed |
-| [bob-cli-7e.land](../bbugyi200.athena.bob-cli-7e.land/README.md) | bob-cli-7e hood | active |
+| [bob-cli-7e.land](../bbugyi200.athena.bob-cli-7e.land/README.md) | bob-cli-7e hood | dismissed |

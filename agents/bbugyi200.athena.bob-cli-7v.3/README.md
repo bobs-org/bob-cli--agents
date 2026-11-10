@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e104962`](https://github.com/bobs-org/bob-cli/commit/e10496251059137f53dece8f98543e24d5fae283) | feat(web-clip): add render:false capture and collection compose | 2026-10-15 12:58:59 EDT |
+| — | `e104962` | feat(web-clip): add render:false capture and collection compose | 2026-10-15 12:58:59 EDT |
 
 ## Neighbors
 
@@ -35,4 +35,4 @@
 | [bob-cli-7v.5](../../sessions/bbugyi200.athena.bob-cli-7v.5.md) (session · 3) | bob-cli-7v hood | completed 2, failed 1 |
 | [bob-cli-7v.6](../../sessions/bbugyi200.athena.bob-cli-7v.6.md) (session · 9) | bob-cli-7v hood | completed 5, failed 4 |
 | [bob-cli-7v.7](../../sessions/bbugyi200.athena.bob-cli-7v.7.md) (session · 5) | bob-cli-7v hood | completed 3, failed 2 |
-| [bob-cli-7v.land](../../sessions/bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | active 1, completed 5, failed 5 |
+| [bob-cli-7v.land](../../sessions/bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | completed 5, dismissed 1, failed 5 |

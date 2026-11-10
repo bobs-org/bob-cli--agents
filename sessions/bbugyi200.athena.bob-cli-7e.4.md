@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`f287417`](https://github.com/bobs-org/bob-cli/commit/f287417934042f349541dc70fcb8e87e9deb4da7) | docs(memory): document task dependency BLOCKS mirrors | 2026-10-13 12:19:15 EDT |
+| 1 | — | `f287417` | docs(memory): document task dependency BLOCKS mirrors | 2026-10-13 12:19:15 EDT |
 
 ## Neighbors
 
@@ -41,4 +41,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-7e.7](../agents/bbugyi200.athena.bob-cli-7e.7/README.md) | bob-cli-7e hood | completed |
 | [bob-cli-7e.8](../agents/bbugyi200.athena.bob-cli-7e.8/README.md) | bob-cli-7e hood | completed |
 | [bob-cli-7e.9](../agents/bbugyi200.athena.bob-cli-7e.9/README.md) | bob-cli-7e hood | completed |
-| [bob-cli-7e.land](../agents/bbugyi200.athena.bob-cli-7e.land/README.md) | bob-cli-7e hood | active |
+| [bob-cli-7e.land](../agents/bbugyi200.athena.bob-cli-7e.land/README.md) | bob-cli-7e hood | dismissed |

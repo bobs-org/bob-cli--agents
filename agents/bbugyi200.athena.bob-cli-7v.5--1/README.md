@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9bdb0bd`](https://github.com/bobs-org/bob-cli/commit/9bdb0bd9eadbb0382f06f5815ebc51019e94ae9a) | feat(highlights-ref): wire the multi-url collection capture pipeline | 2026-10-15 13:57:29 EDT |
+| — | `9bdb0bd` | feat(highlights-ref): wire the multi-url collection capture pipeline | 2026-10-15 13:57:29 EDT |
 
 ## Neighbors
 
@@ -34,4 +34,4 @@
 | [bob-cli-7v.4](../bbugyi200.athena.bob-cli-7v.4/README.md) | bob-cli-7v hood | completed |
 | [bob-cli-7v.6](../../sessions/bbugyi200.athena.bob-cli-7v.6.md) (session · 9) | bob-cli-7v hood | completed 5, failed 4 |
 | [bob-cli-7v.7](../../sessions/bbugyi200.athena.bob-cli-7v.7.md) (session · 5) | bob-cli-7v hood | completed 3, failed 2 |
-| [bob-cli-7v.land](../../sessions/bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | active 1, completed 5, failed 5 |
+| [bob-cli-7v.land](../../sessions/bbugyi200.athena.bob-cli-7v.land.md) (session · 11) | bob-cli-7v hood | completed 5, dismissed 1, failed 5 |

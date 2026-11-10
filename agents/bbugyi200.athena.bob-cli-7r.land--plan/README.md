@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-7r](../../users/bbugyi200/machines/athena/hoods/bob-cli-7r/README.md) / [bob-cli-7r.land](../../sessions/bbugyi200.athena.bob-cli-7r.land.md) / bob-cli-7r.land--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-7r.land--plan` · **State:** active · **Source run:** `run-e84782a3858730b1a3218c4c081e4b50`
+**Global name:** `bbugyi200.athena.bob-cli-7r.land--plan` · **State:** dismissed · **Source run:** `run-e84782a3858730b1a3218c4c081e4b50`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-7r
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-7r](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-7r/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-15T00:20:38.541447+00:00
+- Timing: 2026-10-14T20:20:38.541447 → 2026-10-14T21:27:01.752784
 - Commits: 0
 
 ## Files

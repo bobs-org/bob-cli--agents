@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-7v](../../users/bbugyi200/machines/athena/hoods/bob-cli-7v/README.md) / [bob-cli-7v.land](../../sessions/bbugyi200.athena.bob-cli-7v.land.md) / bob-cli-7v.land--4
 
-**Global name:** `bbugyi200.athena.bob-cli-7v.land--4` · **State:** active · **Source run:** `run-05f6ed501eaf6381257a96b5dcbe2e98`
+**Global name:** `bbugyi200.athena.bob-cli-7v.land--4` · **State:** dismissed · **Source run:** `run-05f6ed501eaf6381257a96b5dcbe2e98`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-7v
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-7v](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-7v/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-10-15T20:25:30.422926+00:00
+- Timing: 2026-10-15T16:25:30.422926 → 2026-10-15T16:42:06.334497
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ade85d3`](https://github.com/bobs-org/bob-cli/commit/ade85d3c7f8f9fc5e7a35731ec7afba54cd79e65) | feat(ref): land multi-URL collections for bob-cli-7v | 2026-10-15 16:39:03 EDT |
+| — | `ade85d3` | feat(ref): land multi-URL collections for bob-cli-7v | 2026-10-15 16:39:03 EDT |
 
 ## Neighbors
 
