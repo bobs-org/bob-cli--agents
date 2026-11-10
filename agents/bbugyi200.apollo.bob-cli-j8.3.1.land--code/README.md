@@ -56,7 +56,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-j8.10](../bbugyi200.apollo.bob-cli-j8.10/README.md) | bob-cli-j8 hood | waiting |
 | [bob-cli-j8.2](../../sessions/bbugyi200.apollo.bob-cli-j8.2.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.4](../../sessions/bbugyi200.apollo.bob-cli-j8.4.md) (session · 3) | bob-cli-j8 hood | completed 3 |
-| [bob-cli-j8.5](../bbugyi200.apollo.bob-cli-j8.5/README.md) | bob-cli-j8 hood | waiting |
+| [bob-cli-j8.5](../../sessions/bbugyi200.apollo.bob-cli-j8.5.md) (session · 3) | bob-cli-j8 hood | active 2, completed 1 |
 | [bob-cli-j8.6](../../sessions/bbugyi200.apollo.bob-cli-j8.6.md) (session · 3) | bob-cli-j8 hood | active 1, completed 2 |
 | [bob-cli-j8.6.1.1](../../sessions/bbugyi200.apollo.bob-cli-j8.6.1.1.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.6.1.2](../bbugyi200.apollo.bob-cli-j8.6.1.2/README.md) | bob-cli-j8 hood | completed |
