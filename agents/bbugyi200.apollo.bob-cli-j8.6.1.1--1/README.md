@@ -38,6 +38,6 @@
 | [bob-cli-j8.4](../../sessions/bbugyi200.apollo.bob-cli-j8.4.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.5](../../sessions/bbugyi200.apollo.bob-cli-j8.5.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.7](../bbugyi200.apollo.bob-cli-j8.7/README.md) | bob-cli-j8 hood | completed |
-| [bob-cli-j8.8](../../sessions/bbugyi200.apollo.bob-cli-j8.8.md) (session · 3) | bob-cli-j8 hood | active 2, completed 1 |
+| [bob-cli-j8.8](../../sessions/bbugyi200.apollo.bob-cli-j8.8.md) (session · 11) | bob-cli-j8 hood | completed 7, failed 4 |
 | [bob-cli-j8.9](../../sessions/bbugyi200.apollo.bob-cli-j8.9.md) (session · 6) | bob-cli-j8 hood | active 1, completed 5 |
 | [bob-cli-j8.land](../bbugyi200.apollo.bob-cli-j8.land/README.md) | bob-cli-j8 hood | waiting |
