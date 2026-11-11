@@ -11,7 +11,7 @@ flowchart TD
   n0["1m--gate [failed]"]
   n1["1m--code [completed]"]
   n0 --> n1
-  n2["1m--plan [active]"]
+  n2["1m--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,11 +21,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 1m--gate | failed | opus / claude | 2026-09-24T22:19:48.530049+00:00 → 2026-09-24T22:19:57.052496+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1m--gate/chat.md) |
 | <a id="member-code"></a>code | 1m--code | completed | sonnet / claude | 2026-09-24T22:20:04.413944+00:00 → 2026-09-24T22:33:19.582491+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.1m--code/chat.md) |
-| <a id="member-plan"></a>plan | 1m--plan | active | opus / claude | 2026-09-24T22:14:17.111358+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.1m--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.1m--plan/chat.md) |
+| <a id="member-plan"></a>plan | 1m--plan | dismissed | opus / claude | 2026-09-24T18:14:17.111358 → 2026-09-24T18:33:19.653992 | 0 | [Prompt](../agents/bbugyi200.apollo.1m--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.1m--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | bob-cli | [`aedab17`](https://github.com/bobs-org/bob-cli/commit/aedab175d90f3323fbd2a237dcdf22a0f25ae84d) | chore: Add SDD prompt and plan for highlights\_ref\_marker\_pdfdoc\_newlines | 2026-06-03 08:57:34 EDT |
-| — | bob-cli | [`04d7b5a`](https://github.com/bobs-org/bob-cli/commit/04d7b5af72e17560162f02c2e66cce73c8327a8e) | fix: preserve literal PDF marker newlines | 2026-06-03 09:02:27 EDT |
+| — | — | `aedab17` | chore: Add SDD prompt and plan for highlights\_ref\_marker\_pdfdoc\_newlines | 2026-06-03 08:57:34 EDT |
+| — | — | `04d7b5a` | fix: preserve literal PDF marker newlines | 2026-06-03 09:02:27 EDT |
