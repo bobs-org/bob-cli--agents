@@ -11,7 +11,7 @@ flowchart TD
   n0["research.53.linker.w0--mon [failed]"]
   n1["research.53.linker.w0--gate [failed]"]
   n0 --> n1
-  n2["research.53.linker.w0--plan [active]"]
+  n2["research.53.linker.w0--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | research.53.linker.w0--mon | failed | opus / claude | 2026-10-20T13:08:14.305166+00:00 → 2026-10-20T13:15:09.554404+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.53.linker.w0--mon/chat.md) |
 | <a id="member-gate"></a>gate | research.53.linker.w0--gate | failed | opus / claude | 2026-10-20T13:07:00.470605+00:00 → 2026-10-20T13:08:17.165083+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.research.53.linker.w0--gate/chat.md) |
-| <a id="member-plan"></a>plan | research.53.linker.w0--plan | active | opus / claude | 2026-10-20T12:31:21.238381+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.research.53.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.53.linker.w0--plan/chat.md) |
+| <a id="member-plan"></a>plan | research.53.linker.w0--plan | dismissed | opus / claude | 2026-10-20T08:31:21.238381 → 2026-10-20T09:04:23.608471 | 0 | [Prompt](../agents/bbugyi200.athena.research.53.linker.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.research.53.linker.w0--plan/chat.md) |
 
 ## Neighbors
 

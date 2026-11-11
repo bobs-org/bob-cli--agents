@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / research
 
-**Global hood:** `bbugyi200.athena.research` · **Runs:** 502 · **Sessions:** 29 · **States:** active 3, completed 156, dismissed 302, failed 41
+**Global hood:** `bbugyi200.athena.research` · **Runs:** 502 · **Sessions:** 29 · **States:** active 1, completed 156, dismissed 304, failed 41
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -506,5 +506,5 @@
 | [research.4y.cld](../../../../../../agents/bbugyi200.athena.research.4y.cld/README.md) | dismissed | opus / claude | 2026-10-19T08:09:43.141261 → 2026-10-19T08:29:47.100575 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.4y.cld/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.research.4y.cld/prompt.md) |
 | [research.4r.linker.w0--plan](../../../../../../sessions/bbugyi200.athena.research.4r.linker.w0.md#member-plan) | dismissed | opus / claude | 2026-10-17T19:16:31.615285 → 2026-10-17T19:29:24.381553 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.4r.linker.w0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.research.4r.linker.w0--plan/prompt.md) |
 | [research.31.linker](../../../../../../agents/bbugyi200.athena.research.31.linker/README.md) | dismissed | opus / claude | 2026-09-30T23:48:38.148819 → 2026-09-30T23:55:31.187640 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.31.linker/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.research.31.linker/prompt.md) |
-| [research.53.linker.w0--plan](../../../../../../sessions/bbugyi200.athena.research.53.linker.w0.md#member-plan) | active | opus / claude | 2026-10-20T12:31:21.238381+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.53.linker.w0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.research.53.linker.w0--plan/prompt.md) |
-| [research.50.mus](../../../../../../agents/bbugyi200.athena.research.50.mus/README.md) | active | muse-spark-1.3-contributor / muse | 2026-10-19T15:48:46.565983+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.50.mus/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.research.50.mus/prompt.md) |
+| [research.53.linker.w0--plan](../../../../../../sessions/bbugyi200.athena.research.53.linker.w0.md#member-plan) | dismissed | opus / claude | 2026-10-20T08:31:21.238381 → 2026-10-20T09:04:23.608471 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.53.linker.w0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.research.53.linker.w0--plan/prompt.md) |
+| [research.50.mus](../../../../../../agents/bbugyi200.athena.research.50.mus/README.md) | dismissed | muse-spark-1.3-contributor / muse | 2026-10-19T11:48:46.565983 → 2026-10-19T11:54:10.331754 | 0 | [chat](../../../../../../agents/bbugyi200.athena.research.50.mus/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.research.50.mus/prompt.md) |
