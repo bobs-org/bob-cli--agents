@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `6e` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["6e--plan [active]"]
+  n0["6e--plan [dismissed]"]
   n1["6e--gate [failed]"]
   n0 --> n1
   n2["6e--code [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 6e--plan | active | grok-4.7 / grok | 2026-10-10T16:21:31.164864+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.6e--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.6e--plan/chat.md) |
+| <a id="member-plan"></a>plan | 6e--plan | dismissed | grok-4.7 / grok | 2026-10-10T12:21:31.164864 → 2026-10-10T12:40:10.976352 | 0 | [Prompt](../agents/bbugyi200.apollo.6e--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.6e--plan/chat.md) |
 | <a id="member-gate"></a>gate | 6e--gate | failed | grok-4.7 / grok | 2026-10-10T16:33:27.524567+00:00 → 2026-10-10T16:33:42.514434+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.6e--gate/chat.md) |
 | <a id="member-code"></a>code | 6e--code | completed | grok-4.6 / grok | 2026-10-10T16:33:51.163971+00:00 → 2026-10-10T16:40:10.952551+00:00 | [1](../agents/bbugyi200.apollo.6e--code/README.md#commits) | — | — |
 

@@ -40,4 +40,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [6c](bbugyi200.apollo.6c.md) (session · 5) | ancestor | completed 3, failed 2 |
-| [6c.w0](../agents/bbugyi200.apollo.6c.w0/README.md) | 6c hood | active |
+| [6c.w0](../agents/bbugyi200.apollo.6c.w0/README.md) | 6c hood | dismissed |

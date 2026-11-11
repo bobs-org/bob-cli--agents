@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [6g](../../users/bbugyi200/machines/apollo/hoods/6g/README.md) / 6g.w0
 
-**Global name:** `bbugyi200.apollo.6g.w0` · **State:** active · **Source run:** `run-037f7ed8cc100480b1235a5e57d60178`
+**Global name:** `bbugyi200.apollo.6g.w0` · **State:** dismissed · **Source run:** `run-037f7ed8cc100480b1235a5e57d60178`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 6g
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261010124540
+- Timing: 2026-10-10T12:45:40
 - Commits: 0
 
 ## Files

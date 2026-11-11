@@ -39,5 +39,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [6c.w0](../agents/bbugyi200.apollo.6c.w0/README.md) | descendant | active |
+| [6c.w0](../agents/bbugyi200.apollo.6c.w0/README.md) | descendant | dismissed |
 | [6c.w1](bbugyi200.apollo.6c.w1.md) (session · 5) | descendant | completed 3, failed 2 |
