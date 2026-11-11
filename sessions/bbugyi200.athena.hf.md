@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `hf` · Members: 2
 ```mermaid
 flowchart TD
   n0["hf--code [completed]"]
-  n1["hf--plan [active]"]
+  n1["hf--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | hf--code | completed | gpt-5.6-sol / codex | 2026-07-21T20:00:25.770397+00:00 | [1](../agents/bbugyi200.athena.hf--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.hf--code/chat.md) |
-| <a id="member-plan"></a>plan | hf--plan | active | gpt-5.6-sol / codex | 2026-07-21T19:53:13.228065+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.hf--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hf--plan/chat.md) |
+| <a id="member-plan"></a>plan | hf--plan | dismissed | gpt-5.6-sol / codex | 2026-07-21T15:53:13.228065 → 2026-07-21T16:17:38.305402 | 0 | [Prompt](../agents/bbugyi200.athena.hf--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.hf--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`084bb62`](https://github.com/bobs-org/bob-cli/commit/084bb625e57147c6b4dab7462deae051378c05d4) | feat: reconcile in-progress tasks using recent dailies | 2026-07-21 16:17:25 EDT |
+| code | — | `084bb62` | feat: reconcile in-progress tasks using recent dailies | 2026-07-21 16:17:25 EDT |
