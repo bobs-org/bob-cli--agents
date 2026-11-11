@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c2bafbd`](https://github.com/bobs-org/bob-cli/commit/c2bafbd17a5a84970624600909e6bcd41367897d) | feat(pomodoro): expose stale status output | 2026-08-08 19:37:08 EDT |
+| — | `c2bafbd` | feat(pomodoro): expose stale status output | 2026-08-08 19:37:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [vz](../bbugyi200.athena.vz/README.md) | ancestor | active |
-| [vz.f0](../bbugyi200.athena.vz.f0/README.md) | vz hood | active |
+| [vz](../bbugyi200.athena.vz/README.md) | ancestor | dismissed |
+| [vz.f0](../bbugyi200.athena.vz.f0/README.md) | vz hood | dismissed |
