@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ir](../../users/bbugyi200/machines/athena/hoods/bob-cli-ir/README.md) / [bob-cli-ir.7](../../sessions/bbugyi200.athena.bob-cli-ir.7.md) / bob-cli-ir.7--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-ir.7--plan` · **State:** active · **Source run:** `run-027874d0b31fc5aec116554b788e3f87`
+**Global name:** `bbugyi200.athena.bob-cli-ir.7--plan` · **State:** dismissed · **Source run:** `run-027874d0b31fc5aec116554b788e3f87`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ir
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-ir](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ir/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-09T07:36:37.989779+00:00 → 2026-11-09T07:47:03.956512+00:00
+- Timing: 2026-11-09T02:36:37.989779 → 2026-11-09T02:47:04.211720
 - Commits: 0
 
 ## Files
@@ -30,7 +30,7 @@
 | [bob-cli-ir.7.1.5](../bbugyi200.athena.bob-cli-ir.7.1.5/README.md) | descendant | completed |
 | [bob-cli-ir.7.1.land](../../sessions/bbugyi200.athena.bob-cli-ir.7.1.land.md) (session · 3) | descendant | completed 3 |
 | [bob-cli-ir.1](../bbugyi200.athena.bob-cli-ir.1/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.10](../../sessions/bbugyi200.athena.bob-cli-ir.10.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |
+| [bob-cli-ir.10](../../sessions/bbugyi200.athena.bob-cli-ir.10.md) (session · 3) | bob-cli-ir hood | completed 2, dismissed 1 |
 | [bob-cli-ir.10.1.1](../bbugyi200.athena.bob-cli-ir.10.1.1/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.10.1.2](../bbugyi200.athena.bob-cli-ir.10.1.2/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.10.1.3](../bbugyi200.athena.bob-cli-ir.10.1.3/README.md) | bob-cli-ir hood | completed |
@@ -39,7 +39,7 @@
 | [bob-cli-ir.11](../../sessions/bbugyi200.athena.bob-cli-ir.11.md) (session · 5) | bob-cli-ir hood | completed 5 |
 | [bob-cli-ir.12](../bbugyi200.athena.bob-cli-ir.12/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.13](../bbugyi200.athena.bob-cli-ir.13/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.2](../../sessions/bbugyi200.athena.bob-cli-ir.2.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |
+| [bob-cli-ir.2](../../sessions/bbugyi200.athena.bob-cli-ir.2.md) (session · 3) | bob-cli-ir hood | completed 2, dismissed 1 |
 | [bob-cli-ir.2.1.1](../bbugyi200.athena.bob-cli-ir.2.1.1/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.2.1.2](../bbugyi200.athena.bob-cli-ir.2.1.2/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.2.1.3](../bbugyi200.athena.bob-cli-ir.2.1.3/README.md) | bob-cli-ir hood | completed |
@@ -48,7 +48,7 @@
 | [bob-cli-ir.2.1.land](../bbugyi200.athena.bob-cli-ir.2.1.land/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.3](../bbugyi200.athena.bob-cli-ir.3/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.4](../bbugyi200.athena.bob-cli-ir.4/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.5](../../sessions/bbugyi200.athena.bob-cli-ir.5.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |
+| [bob-cli-ir.5](../../sessions/bbugyi200.athena.bob-cli-ir.5.md) (session · 3) | bob-cli-ir hood | completed 2, dismissed 1 |
 | [bob-cli-ir.5.1.1](../bbugyi200.athena.bob-cli-ir.5.1.1/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.5.1.2](../bbugyi200.athena.bob-cli-ir.5.1.2/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.5.1.3](../bbugyi200.athena.bob-cli-ir.5.1.3/README.md) | bob-cli-ir hood | completed |

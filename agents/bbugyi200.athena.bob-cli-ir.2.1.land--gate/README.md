@@ -22,13 +22,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ir.2](../../sessions/bbugyi200.athena.bob-cli-ir.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-ir.2](../../sessions/bbugyi200.athena.bob-cli-ir.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-ir.2.1.1](../bbugyi200.athena.bob-cli-ir.2.1.1/README.md) | bob-cli-ir.2.1 hood | completed |
 | [bob-cli-ir.2.1.2](../bbugyi200.athena.bob-cli-ir.2.1.2/README.md) | bob-cli-ir.2.1 hood | completed |
 | [bob-cli-ir.2.1.3](../bbugyi200.athena.bob-cli-ir.2.1.3/README.md) | bob-cli-ir.2.1 hood | completed |
 | [bob-cli-ir.2.1.4](../bbugyi200.athena.bob-cli-ir.2.1.4/README.md) | bob-cli-ir.2.1 hood | completed |
 | [bob-cli-ir.1](../bbugyi200.athena.bob-cli-ir.1/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.10](../../sessions/bbugyi200.athena.bob-cli-ir.10.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |
+| [bob-cli-ir.10](../../sessions/bbugyi200.athena.bob-cli-ir.10.md) (session · 3) | bob-cli-ir hood | completed 2, dismissed 1 |
 | [bob-cli-ir.10.1.1](../bbugyi200.athena.bob-cli-ir.10.1.1/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.10.1.2](../bbugyi200.athena.bob-cli-ir.10.1.2/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.10.1.3](../bbugyi200.athena.bob-cli-ir.10.1.3/README.md) | bob-cli-ir hood | completed |
@@ -39,14 +39,14 @@
 | [bob-cli-ir.13](../bbugyi200.athena.bob-cli-ir.13/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.3](../bbugyi200.athena.bob-cli-ir.3/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.4](../bbugyi200.athena.bob-cli-ir.4/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.5](../../sessions/bbugyi200.athena.bob-cli-ir.5.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |
+| [bob-cli-ir.5](../../sessions/bbugyi200.athena.bob-cli-ir.5.md) (session · 3) | bob-cli-ir hood | completed 2, dismissed 1 |
 | [bob-cli-ir.5.1.1](../bbugyi200.athena.bob-cli-ir.5.1.1/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.5.1.2](../bbugyi200.athena.bob-cli-ir.5.1.2/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.5.1.3](../bbugyi200.athena.bob-cli-ir.5.1.3/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.5.1.4](../../sessions/bbugyi200.athena.bob-cli-ir.5.1.4.md) (session · 5) | bob-cli-ir hood | completed 4, failed 1 |
 | [bob-cli-ir.5.1.land](../../sessions/bbugyi200.athena.bob-cli-ir.5.1.land.md) (session · 3) | bob-cli-ir hood | completed 3 |
 | [bob-cli-ir.6](../../sessions/bbugyi200.athena.bob-cli-ir.6.md) (session · 7) | bob-cli-ir hood | completed 6, failed 1 |
-| [bob-cli-ir.7](../../sessions/bbugyi200.athena.bob-cli-ir.7.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |
+| [bob-cli-ir.7](../../sessions/bbugyi200.athena.bob-cli-ir.7.md) (session · 3) | bob-cli-ir hood | completed 2, dismissed 1 |
 | [bob-cli-ir.7.1.1](../bbugyi200.athena.bob-cli-ir.7.1.1/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.2](../bbugyi200.athena.bob-cli-ir.7.1.2/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.3](../bbugyi200.athena.bob-cli-ir.7.1.3/README.md) | bob-cli-ir hood | completed |

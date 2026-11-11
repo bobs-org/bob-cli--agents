@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-ir.10--gate [completed]"]
   n1["bob-cli-ir.10--mon [completed]"]
   n0 --> n1
-  n2["bob-cli-ir.10--plan [active]"]
+  n2["bob-cli-ir.10--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-ir.10--gate | completed | gpt-6-astra / codex | 2026-11-09T07:47:32.638224+00:00 → 2026-11-09T07:49:36.557464+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ir.10--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-ir.10--mon | completed | gpt-6-astra / codex | 2026-11-09T07:49:35.423221+00:00 → 2026-11-09T07:52:13.751432+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ir.10--mon/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ir.10--plan | active | gpt-6-astra / codex | 2026-11-09T07:36:55.178548+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.10--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ir.10--plan | dismissed | gpt-6-astra / codex | 2026-11-09T02:36:55.178548 → 2026-11-09T02:49:40.914829 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ir.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ir.10--plan/chat.md) |
 
 ## Neighbors
 
@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ir.11](bbugyi200.athena.bob-cli-ir.11.md) (session · 5) | bob-cli-ir hood | completed 5 |
 | [bob-cli-ir.12](../agents/bbugyi200.athena.bob-cli-ir.12/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.13](../agents/bbugyi200.athena.bob-cli-ir.13/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.2](bbugyi200.athena.bob-cli-ir.2.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |
+| [bob-cli-ir.2](bbugyi200.athena.bob-cli-ir.2.md) (session · 3) | bob-cli-ir hood | completed 2, dismissed 1 |
 | [bob-cli-ir.2.1.1](../agents/bbugyi200.athena.bob-cli-ir.2.1.1/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.2.1.2](../agents/bbugyi200.athena.bob-cli-ir.2.1.2/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.2.1.3](../agents/bbugyi200.athena.bob-cli-ir.2.1.3/README.md) | bob-cli-ir hood | completed |
@@ -45,14 +45,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ir.2.1.land](../agents/bbugyi200.athena.bob-cli-ir.2.1.land/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.3](../agents/bbugyi200.athena.bob-cli-ir.3/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.4](../agents/bbugyi200.athena.bob-cli-ir.4/README.md) | bob-cli-ir hood | completed |
-| [bob-cli-ir.5](bbugyi200.athena.bob-cli-ir.5.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |
+| [bob-cli-ir.5](bbugyi200.athena.bob-cli-ir.5.md) (session · 3) | bob-cli-ir hood | completed 2, dismissed 1 |
 | [bob-cli-ir.5.1.1](../agents/bbugyi200.athena.bob-cli-ir.5.1.1/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.5.1.2](../agents/bbugyi200.athena.bob-cli-ir.5.1.2/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.5.1.3](../agents/bbugyi200.athena.bob-cli-ir.5.1.3/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.5.1.4](bbugyi200.athena.bob-cli-ir.5.1.4.md) (session · 5) | bob-cli-ir hood | completed 4, failed 1 |
 | [bob-cli-ir.5.1.land](bbugyi200.athena.bob-cli-ir.5.1.land.md) (session · 3) | bob-cli-ir hood | completed 3 |
 | [bob-cli-ir.6](bbugyi200.athena.bob-cli-ir.6.md) (session · 7) | bob-cli-ir hood | completed 6, failed 1 |
-| [bob-cli-ir.7](bbugyi200.athena.bob-cli-ir.7.md) (session · 3) | bob-cli-ir hood | active 1, completed 2 |
+| [bob-cli-ir.7](bbugyi200.athena.bob-cli-ir.7.md) (session · 3) | bob-cli-ir hood | completed 2, dismissed 1 |
 | [bob-cli-ir.7.1.1](../agents/bbugyi200.athena.bob-cli-ir.7.1.1/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.2](../agents/bbugyi200.athena.bob-cli-ir.7.1.2/README.md) | bob-cli-ir hood | completed |
 | [bob-cli-ir.7.1.3](../agents/bbugyi200.athena.bob-cli-ir.7.1.3/README.md) | bob-cli-ir hood | completed |
