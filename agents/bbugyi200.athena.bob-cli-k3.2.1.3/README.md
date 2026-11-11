@@ -1,0 +1,36 @@
+# Agent: bob-cli-k3.2.1.3
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-k3](../../users/bbugyi200/machines/athena/hoods/bob-cli-k3/README.md) / bob-cli-k3.2.1.3
+
+**Global name:** `bbugyi200.athena.bob-cli-k3.2.1.3` · **State:** active · **Source run:** `run-31b60478fa76f3d5fd817b10598aedd0`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-k3
+
+## Summary
+
+- Bead: [bob-cli-k3.2.1.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-k3/bob-cli-k3.2.1.3.md)
+- Epic: [bob-cli-k3.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-k3/bob-cli-k3.2.1.md)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-11-11T12:00:07.918613+00:00
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-k3.2.1.2](../bbugyi200.athena.bob-cli-k3.2.1.2/README.md) | bob-cli-k3.2.1 hood | completed |
+| [bob-cli-k3.2.1.land](../bbugyi200.athena.bob-cli-k3.2.1.land/README.md) | bob-cli-k3.2.1 hood | waiting |
+| [bob-cli-k3.10](../bbugyi200.athena.bob-cli-k3.10/README.md) | bob-cli-k3 hood | waiting |
+| [bob-cli-k3.11](../bbugyi200.athena.bob-cli-k3.11/README.md) | bob-cli-k3 hood | waiting |
+| [bob-cli-k3.4](../bbugyi200.athena.bob-cli-k3.4/README.md) | bob-cli-k3 hood | waiting |
+| [bob-cli-k3.5](../bbugyi200.athena.bob-cli-k3.5/README.md) | bob-cli-k3 hood | waiting |
+| [bob-cli-k3.6](../bbugyi200.athena.bob-cli-k3.6/README.md) | bob-cli-k3 hood | waiting |
+| [bob-cli-k3.7](../bbugyi200.athena.bob-cli-k3.7/README.md) | bob-cli-k3 hood | waiting |
+| [bob-cli-k3.8](../bbugyi200.athena.bob-cli-k3.8/README.md) | bob-cli-k3 hood | waiting |
+| [bob-cli-k3.9](../bbugyi200.athena.bob-cli-k3.9/README.md) | bob-cli-k3 hood | waiting |
+| [bob-cli-k3.land](../bbugyi200.athena.bob-cli-k3.land/README.md) | bob-cli-k3 hood | waiting |

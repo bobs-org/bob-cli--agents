@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** bob-cli · **Hoods:** 632 · **Runs:** 5153
+**Project:** bob-cli · **Hoods:** 634 · **Runs:** 5168
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -307,6 +307,7 @@
 | [1b](hoods/1b/README.md) | 2 | 1 | active 1, completed 1 |
 | [1b2](hoods/1b2/README.md) | 3 | 1 | completed 3 |
 | [1b4](hoods/1b4/README.md) | 4 | 1 | completed 4 |
+| [1b6](hoods/1b6/README.md) | 3 | 1 | completed 3 |
 | [1d](hoods/1d/README.md) | 1 | 0 | completed 1 |
 | [1e](hoods/1e/README.md) | 2 | 0 | completed 2 |
 | [1f](hoods/1f/README.md) | 3 | 0 | completed 3 |
@@ -589,6 +590,7 @@
 | [bob-cli-je](hoods/bob-cli-je/README.md) | 10 | 2 | completed 8, failed 2 |
 | [bob-cli-jf](hoods/bob-cli-jf/README.md) | 12 | 2 | completed 11, failed 1 |
 | [bob-cli-jt](hoods/bob-cli-jt/README.md) | 17 | 2 | completed 12, failed 5 |
+| [bob-cli-k3](hoods/bob-cli-k3/README.md) | 12 | 0 | active 1, completed 1, waiting 10 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 3 | 0 | dismissed 3 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 5 | 1 | completed 1, dismissed 4 |
 | [bob-cli-o](hoods/bob-cli-o/README.md) | 2 | 1 | completed 1, dismissed 1 |
@@ -610,7 +612,7 @@
 | [pv](hoods/pv/README.md) | 3 | 1 | active 1, completed 1, dismissed 1 |
 | [qa](hoods/qa/README.md) | 3 | 1 | completed 1, dismissed 2 |
 | [qz](hoods/qz/README.md) | 2 | 1 | active 1, completed 1 |
-| [research](hoods/research/README.md) | 502 | 29 | active 120, completed 156, dismissed 185, failed 41 |
+| [research](hoods/research/README.md) | 502 | 29 | active 62, completed 156, dismissed 243, failed 41 |
 | [research\_swarm](hoods/research_swarm/README.md) | 1 | 0 | completed 1 |
 | [s8](hoods/s8/README.md) | 1 | 0 | failed 1 |
 | [sase-51](hoods/sase-51/README.md) | 1 | 0 | completed 1 |
