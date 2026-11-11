@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.47.gem
 
-**Global name:** `bbugyi200.apollo.research.47.gem` · **State:** active · **Source run:** `run-236c028451cae2ed6b66d5f47926e13b`
+**Global name:** `bbugyi200.apollo.research.47.gem` · **State:** completed · **Source run:** `run-236c028451cae2ed6b66d5f47926e13b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-11T14:44:11.825820+00:00
+- Timing: 2026-11-11T14:44:11.825820+00:00 → 2026-11-11T14:56:21.491456+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_transaction\_tracking\_album\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111094236/bank\_transaction\_tracking\_album\_\_gem-7cf… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_transaction_tracking_album__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111094236/bank_transaction_tracking_album__gem-7cf8a6c37df2.md
+  ref: file:explicit:30a3100cc2f42897a11d1ca5
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_21/sase/repos/research/202611/bank_transaction_tracking_album__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.47.grk](../bbugyi200.apollo.research.47.grk/README.md) | research.47 hood | active |
 | [research.47.image](../bbugyi200.apollo.research.47.image/README.md) | research.47 hood | waiting |
 | [research.47.linker](../bbugyi200.apollo.research.47.linker/README.md) | research.47 hood | waiting |
-| [research.47.mus](../bbugyi200.apollo.research.47.mus/README.md) | research.47 hood | active |
+| [research.47.mus](../bbugyi200.apollo.research.47.mus/README.md) | research.47 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
