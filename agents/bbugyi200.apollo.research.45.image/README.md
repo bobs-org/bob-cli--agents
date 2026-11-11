@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.45.image
 
-**Global name:** `bbugyi200.apollo.research.45.image` · **State:** waiting · **Source run:** `run-a13dd8f9958631bbb5457f0da8da40e3`
+**Global name:** `bbugyi200.apollo.research.45.image` · **State:** completed · **Source run:** `run-a13dd8f9958631bbb5457f0da8da40e3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261111075255
+- Timing: 2026-11-11T13:41:33.575820+00:00 → 2026-11-11T13:51:29.718215+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/notebook\_section\_groups/notebook\_section\_groups\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111075255/notebook\_section\_group… |
+| `diagrams` | {considered: 18, count: 1, manifest: 202611/notebook\_section\_groups/notebook\_section\_groups.diagrams.md, source\_ref: file:explicit:587b9b6714d20eb1d193422b, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/notebook_section_groups/notebook_section_groups_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111075255/notebook_section_groups_infographic-dae4db5d16a8.png
+  ref: file:explicit:90614eaa672c40a8b783f2b7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/notebook_section_groups/notebook_section_groups_infographic.png
+- kind: markdown
+  label: diagrams:202611/notebook_section_groups/notebook_section_groups.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111075255/notebook_section_groups.diagrams-79683955e913.md
+  ref: file:explicit:5ecbdec720aaa65e119dfb3c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/notebook_section_groups/notebook_section_groups.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 18
+count: 1
+manifest: 202611/notebook_section_groups/notebook_section_groups.diagrams.md
+source_ref: file:explicit:587b9b6714d20eb1d193422b
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
