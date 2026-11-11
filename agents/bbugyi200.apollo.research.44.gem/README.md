@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.44.gem
 
-**Global name:** `bbugyi200.apollo.research.44.gem` · **State:** active · **Source run:** `run-bc24f68fc75c12680c4eb74bafa79952`
+**Global name:** `bbugyi200.apollo.research.44.gem` · **State:** completed · **Source run:** `run-bc24f68fc75c12680c4eb74bafa79952`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-11T11:46:26.012876+00:00
+- Timing: 2026-11-11T11:46:26.012876+00:00 → 2026-11-11T11:56:10.666844+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/leaf\_project\_keep\_moving\_marks\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111064509/leaf\_project\_keep\_moving\_marks\_\_gem-62702… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/leaf_project_keep_moving_marks__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111064509/leaf_project_keep_moving_marks__gem-627025719508.md
+  ref: file:explicit:0bdf4beffec53135fa1de7ef
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/leaf_project_keep_moving_marks__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
