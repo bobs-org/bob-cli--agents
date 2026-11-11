@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 20261111094237
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_daily\_acknowledgment/bank\_daily\_acknowledgment\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111094237/bank\_daily\_acknowl… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_daily_acknowledgment/bank_daily_acknowledgment__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111094237/bank_daily_acknowledgment__final-5a874406a770.md
+  ref: file:explicit:22aed8729dc8446551db7e0f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/bank_daily_acknowledgment/bank_daily_acknowledgment__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
