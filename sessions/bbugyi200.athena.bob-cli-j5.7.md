@@ -27,20 +27,20 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`6a7afcd`](https://github.com/bobs-org/bob-cli/commit/6a7afcd2d9f7b5fa4b207e2687e75da97348f216) | feat(archive): treat only top-level done/ as the archive | 2026-11-10 01:01:21 EST |
+| 1 | — | `6a7afcd` | feat(archive): treat only top-level done/ as the archive | 2026-11-10 01:01:21 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-j5.1](../agents/bbugyi200.athena.bob-cli-j5.1/README.md) | bob-cli-j5 hood | completed |
-| [bob-cli-j5.2](bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | bob-cli-j5 hood | active 1, completed 2 |
+| [bob-cli-j5.2](bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | bob-cli-j5 hood | completed 2, dismissed 1 |
 | [bob-cli-j5.2.1.1](bbugyi200.athena.bob-cli-j5.2.1.1.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.2.1.2](../agents/bbugyi200.athena.bob-cli-j5.2.1.2/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.2.1.3](../agents/bbugyi200.athena.bob-cli-j5.2.1.3/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.2.1.land](bbugyi200.athena.bob-cli-j5.2.1.land.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.3](../agents/bbugyi200.athena.bob-cli-j5.3/README.md) | bob-cli-j5 hood | completed |
-| [bob-cli-j5.4](bbugyi200.athena.bob-cli-j5.4.md) (session · 3) | bob-cli-j5 hood | active 1, completed 2 |
+| [bob-cli-j5.4](bbugyi200.athena.bob-cli-j5.4.md) (session · 3) | bob-cli-j5 hood | completed 2, dismissed 1 |
 | [bob-cli-j5.4.1.1](../agents/bbugyi200.athena.bob-cli-j5.4.1.1/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.4.1.2](bbugyi200.athena.bob-cli-j5.4.1.2.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.4.1.3](../agents/bbugyi200.athena.bob-cli-j5.4.1.3/README.md) | bob-cli-j5 hood | completed |

@@ -23,20 +23,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e5b0898`](https://github.com/bobs-org/bob-cli/commit/e5b0898e51670d39fe99fb959495ac7d12e37d3f) | feat(task-restore): add bob task restore over the task-move engine | 2026-11-09 23:34:10 EST |
+| — | `e5b0898` | feat(task-restore): add bob task restore over the task-move engine | 2026-11-09 23:34:10 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-j5.1](../bbugyi200.athena.bob-cli-j5.1/README.md) | bob-cli-j5 hood | completed |
-| [bob-cli-j5.2](../../sessions/bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | bob-cli-j5 hood | active 1, completed 2 |
+| [bob-cli-j5.2](../../sessions/bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | bob-cli-j5 hood | completed 2, dismissed 1 |
 | [bob-cli-j5.2.1.1](../../sessions/bbugyi200.athena.bob-cli-j5.2.1.1.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.2.1.2](../bbugyi200.athena.bob-cli-j5.2.1.2/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.2.1.3](../bbugyi200.athena.bob-cli-j5.2.1.3/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.2.1.land](../../sessions/bbugyi200.athena.bob-cli-j5.2.1.land.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.3](../bbugyi200.athena.bob-cli-j5.3/README.md) | bob-cli-j5 hood | completed |
-| [bob-cli-j5.4](../../sessions/bbugyi200.athena.bob-cli-j5.4.md) (session · 3) | bob-cli-j5 hood | active 1, completed 2 |
+| [bob-cli-j5.4](../../sessions/bbugyi200.athena.bob-cli-j5.4.md) (session · 3) | bob-cli-j5 hood | completed 2, dismissed 1 |
 | [bob-cli-j5.4.1.1](../bbugyi200.athena.bob-cli-j5.4.1.1/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.4.1.2](../../sessions/bbugyi200.athena.bob-cli-j5.4.1.2.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.4.1.3](../bbugyi200.athena.bob-cli-j5.4.1.3/README.md) | bob-cli-j5 hood | completed |

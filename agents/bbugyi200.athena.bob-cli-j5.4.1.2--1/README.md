@@ -22,20 +22,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b97d8d4`](https://github.com/bobs-org/bob-cli/commit/b97d8d4c3b214d1f73f0627f868a108ff6755a66) | feat(archive): add recoverable removals to the guarded writer | 2026-11-09 17:29:23 EST |
+| — | `b97d8d4` | feat(archive): add recoverable removals to the guarded writer | 2026-11-09 17:29:23 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-j5.4](../../sessions/bbugyi200.athena.bob-cli-j5.4.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-j5.4](../../sessions/bbugyi200.athena.bob-cli-j5.4.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-j5.4.1.1](../bbugyi200.athena.bob-cli-j5.4.1.1/README.md) | bob-cli-j5.4.1 hood | completed |
 | [bob-cli-j5.4.1.3](../bbugyi200.athena.bob-cli-j5.4.1.3/README.md) | bob-cli-j5.4.1 hood | completed |
 | [bob-cli-j5.4.1.4](../bbugyi200.athena.bob-cli-j5.4.1.4/README.md) | bob-cli-j5.4.1 hood | completed |
 | [bob-cli-j5.4.1.5](../bbugyi200.athena.bob-cli-j5.4.1.5/README.md) | bob-cli-j5.4.1 hood | completed |
 | [bob-cli-j5.4.1.land](../../sessions/bbugyi200.athena.bob-cli-j5.4.1.land.md) (session · 3) | bob-cli-j5.4.1 hood | completed 3 |
 | [bob-cli-j5.1](../bbugyi200.athena.bob-cli-j5.1/README.md) | bob-cli-j5 hood | completed |
-| [bob-cli-j5.2](../../sessions/bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | bob-cli-j5 hood | active 1, completed 2 |
+| [bob-cli-j5.2](../../sessions/bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | bob-cli-j5 hood | completed 2, dismissed 1 |
 | [bob-cli-j5.2.1.1](../../sessions/bbugyi200.athena.bob-cli-j5.2.1.1.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.2.1.2](../bbugyi200.athena.bob-cli-j5.2.1.2/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.2.1.3](../bbugyi200.athena.bob-cli-j5.2.1.3/README.md) | bob-cli-j5 hood | completed |

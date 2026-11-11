@@ -23,19 +23,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a846a23`](https://github.com/bobs-org/bob-cli/commit/a846a23b73a07956bdf2bd4ca0026f8d20ca2d9d) | feat(archive)!: correct archive link repair | 2026-11-09 16:32:51 EST |
+| — | `a846a23` | feat(archive)!: correct archive link repair | 2026-11-09 16:32:51 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-j5.1](../bbugyi200.athena.bob-cli-j5.1/README.md) | bob-cli-j5 hood | completed |
-| [bob-cli-j5.2](../../sessions/bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | bob-cli-j5 hood | active 1, completed 2 |
+| [bob-cli-j5.2](../../sessions/bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | bob-cli-j5 hood | completed 2, dismissed 1 |
 | [bob-cli-j5.2.1.1](../../sessions/bbugyi200.athena.bob-cli-j5.2.1.1.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.2.1.2](../bbugyi200.athena.bob-cli-j5.2.1.2/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.2.1.3](../bbugyi200.athena.bob-cli-j5.2.1.3/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.2.1.land](../../sessions/bbugyi200.athena.bob-cli-j5.2.1.land.md) (session · 3) | bob-cli-j5 hood | completed 3 |
-| [bob-cli-j5.4](../../sessions/bbugyi200.athena.bob-cli-j5.4.md) (session · 3) | bob-cli-j5 hood | active 1, completed 2 |
+| [bob-cli-j5.4](../../sessions/bbugyi200.athena.bob-cli-j5.4.md) (session · 3) | bob-cli-j5 hood | completed 2, dismissed 1 |
 | [bob-cli-j5.4.1.1](../bbugyi200.athena.bob-cli-j5.4.1.1/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.4.1.2](../../sessions/bbugyi200.athena.bob-cli-j5.4.1.2.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.4.1.3](../bbugyi200.athena.bob-cli-j5.4.1.3/README.md) | bob-cli-j5 hood | completed |

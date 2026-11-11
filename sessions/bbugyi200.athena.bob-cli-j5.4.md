@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-j5` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-j5.4--plan [active]"]
+  n0["bob-cli-j5.4--plan [dismissed]"]
   n1["bob-cli-j5.4--mon [completed]"]
   n0 --> n1
   n2["bob-cli-j5.4--gate [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-j5.4--plan | active | gpt-6-astra / codex | 2026-11-09T21:35:04.682111+00:00 → 2026-11-09T21:44:34.904719+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-j5.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-j5.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-j5.4--plan | dismissed | gpt-6-astra / codex | 2026-11-09T16:35:04.682111 → 2026-11-09T16:44:35.156882 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-j5.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-j5.4--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-j5.4--mon | completed | gpt-6-astra / codex | 2026-11-09T21:44:27.888479+00:00 → 2026-11-09T21:47:13.876650+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-j5.4--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-j5.4--gate | completed | gpt-6-astra / codex | 2026-11-09T21:43:43.847766+00:00 → 2026-11-09T21:44:29.658623+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-j5.4--gate/chat.md) |
 
@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-j5.4.1.5](../agents/bbugyi200.athena.bob-cli-j5.4.1.5/README.md) | descendant | completed |
 | [bob-cli-j5.4.1.land](bbugyi200.athena.bob-cli-j5.4.1.land.md) (session · 3) | descendant | completed 3 |
 | [bob-cli-j5.1](../agents/bbugyi200.athena.bob-cli-j5.1/README.md) | bob-cli-j5 hood | completed |
-| [bob-cli-j5.2](bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | bob-cli-j5 hood | active 1, completed 2 |
+| [bob-cli-j5.2](bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | bob-cli-j5 hood | completed 2, dismissed 1 |
 | [bob-cli-j5.2.1.1](bbugyi200.athena.bob-cli-j5.2.1.1.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.2.1.2](../agents/bbugyi200.athena.bob-cli-j5.2.1.2/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.2.1.3](../agents/bbugyi200.athena.bob-cli-j5.2.1.3/README.md) | bob-cli-j5 hood | completed |

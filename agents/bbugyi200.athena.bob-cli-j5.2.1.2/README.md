@@ -23,19 +23,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`37df0e5`](https://github.com/bobs-org/bob-cli/commit/37df0e52cf364c82bf5017ea8ee74d9443f66801) | feat(collect-done): snapshot inputs with exact replay and plan-wide refusal | 2026-11-09 14:18:18 EST |
+| — | `37df0e5` | feat(collect-done): snapshot inputs with exact replay and plan-wide refusal | 2026-11-09 14:18:18 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-j5.2](../../sessions/bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-j5.2](../../sessions/bbugyi200.athena.bob-cli-j5.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-j5.2.1.1](../../sessions/bbugyi200.athena.bob-cli-j5.2.1.1.md) (session · 3) | bob-cli-j5.2.1 hood | completed 3 |
 | [bob-cli-j5.2.1.3](../bbugyi200.athena.bob-cli-j5.2.1.3/README.md) | bob-cli-j5.2.1 hood | completed |
 | [bob-cli-j5.2.1.land](../../sessions/bbugyi200.athena.bob-cli-j5.2.1.land.md) (session · 3) | bob-cli-j5.2.1 hood | completed 3 |
 | [bob-cli-j5.1](../bbugyi200.athena.bob-cli-j5.1/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.3](../bbugyi200.athena.bob-cli-j5.3/README.md) | bob-cli-j5 hood | completed |
-| [bob-cli-j5.4](../../sessions/bbugyi200.athena.bob-cli-j5.4.md) (session · 3) | bob-cli-j5 hood | active 1, completed 2 |
+| [bob-cli-j5.4](../../sessions/bbugyi200.athena.bob-cli-j5.4.md) (session · 3) | bob-cli-j5 hood | completed 2, dismissed 1 |
 | [bob-cli-j5.4.1.1](../bbugyi200.athena.bob-cli-j5.4.1.1/README.md) | bob-cli-j5 hood | completed |
 | [bob-cli-j5.4.1.2](../../sessions/bbugyi200.athena.bob-cli-j5.4.1.2.md) (session · 3) | bob-cli-j5 hood | completed 3 |
 | [bob-cli-j5.4.1.3](../bbugyi200.athena.bob-cli-j5.4.1.3/README.md) | bob-cli-j5 hood | completed |
