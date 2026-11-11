@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kj](../../users/bbugyi200/machines/athena/hoods/bob-cli-kj/README.md) / [bob-cli-kj.6](../../sessions/bbugyi200.athena.bob-cli-kj.6.md) / bob-cli-kj.6--code
 
-**Global name:** `bbugyi200.athena.bob-cli-kj.6--code` · **State:** active · **Source run:** `run-da591e1fc52d8b6a5d53597cf7719516`
+**Global name:** `bbugyi200.athena.bob-cli-kj.6--code` · **State:** completed · **Source run:** `run-da591e1fc52d8b6a5d53597cf7719516`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kj
 
@@ -12,9 +12,13 @@
 - Epic: [bob-cli-kj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kj/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-11T22:45:48.346555+00:00
+- Timing: 2026-11-11T22:45:48.346555+00:00 → 2026-11-11T23:17:10.522136+00:00
 - Commits: 0
 - Variables: [1](#variables)
+
+## Files
+
+[Chat](chat.md)
 
 ## Variables
 
@@ -43,6 +47,24 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111174514/apollo-before-diag-1fc7a335705d.json
   ref: file:explicit:a4eb719bfd4855535901ea2d
   source_path: /tmp/wikilink-cpu-baseline/apollo-before-diag.json
+- bead: bob-cli-kj.6
+  kind: file
+  label: Apollo after diagnostic JSON
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111174514/apollo-after-diag-8dbb51977ee1.json
+  ref: file:explicit:0fbe7c60257f385fa8ed7df5
+  source_path: /tmp/wikilink-cpu-after/apollo-after-diag.json
+- bead: bob-cli-kj.6
+  kind: file
+  label: Athena after diagnostic JSON
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111174514/athena-after-diag-fdc75e7fc252.json
+  ref: file:explicit:176518f8978d9d148be86a5f
+  source_path: /tmp/wikilink-cpu-after/athena-after-diag.json
+- bead: bob-cli-kj.6
+  kind: file
+  label: Athena before diagnostic JSON
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111174514/athena-before-diag-f976fadf4eed.json
+  ref: file:explicit:8837ecf4a57e2fa55bf54437
+  source_path: /tmp/wikilink-cpu-baseline/athena-before-diag.json
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
