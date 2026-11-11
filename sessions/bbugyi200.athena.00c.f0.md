@@ -26,4 +26,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [00c](../agents/bbugyi200.athena.00c/README.md) | ancestor | completed |
 | [00c.f0.f0](../agents/bbugyi200.athena.00c.f0.f0/README.md) | descendant | failed |
-| [00c.f0.f1](../agents/bbugyi200.athena.00c.f0.f1/README.md) | descendant | active |
+| [00c.f0.f1](../agents/bbugyi200.athena.00c.f0.f1/README.md) | descendant | dismissed |

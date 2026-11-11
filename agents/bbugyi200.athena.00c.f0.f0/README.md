@@ -23,4 +23,4 @@
 |---|---|---|
 | [00c.f0](../../sessions/bbugyi200.athena.00c.f0.md) (session · 2) | ancestor | completed 2 |
 | [00c](../bbugyi200.athena.00c/README.md) | ancestor | completed |
-| [00c.f0.f1](../bbugyi200.athena.00c.f0.f1/README.md) | 00c.f0 hood | active |
+| [00c.f0.f1](../bbugyi200.athena.00c.f0.f1/README.md) | 00c.f0 hood | dismissed |
