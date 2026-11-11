@@ -38,6 +38,6 @@
 | [bob-cli-ji.7.1.land](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.land.md) (session · 21) | bob-cli-ji hood | completed 12, failed 9 |
 | [bob-cli-ji.8.1](../bbugyi200.apollo.bob-cli-ji.8.1/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.2](../bbugyi200.apollo.bob-cli-ji.8.2/README.md) | bob-cli-ji hood | completed |
-| [bob-cli-ji.8.3](../bbugyi200.apollo.bob-cli-ji.8.3/README.md) | bob-cli-ji hood | waiting |
+| [bob-cli-ji.8.3](../bbugyi200.apollo.bob-cli-ji.8.3/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.4](../bbugyi200.apollo.bob-cli-ji.8.4/README.md) | bob-cli-ji hood | waiting |
 | [bob-cli-ji.8.land](../bbugyi200.apollo.bob-cli-ji.8.land/README.md) | bob-cli-ji hood | waiting |
