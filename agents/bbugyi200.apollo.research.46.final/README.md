@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.46.final
 
-**Global name:** `bbugyi200.apollo.research.46.final` · **State:** active · **Source run:** `run-e8c683a83aecad69347321d87a61aee8`
+**Global name:** `bbugyi200.apollo.research.46.final` · **State:** completed · **Source run:** `run-e8c683a83aecad69347321d87a61aee8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-11T14:54:00.676950+00:00
+- Timing: 2026-11-11T14:54:00.676950+00:00 → 2026-11-11T15:14:01.512864+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_vim\_yank\_range\_flash/obsidian\_vim\_yank\_range\_flash\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111093446/obsidian\_v… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_vim_yank_range_flash/obsidian_vim_yank_range_flash__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111093446/obsidian_vim_yank_range_flash__final-9f596609b4ea.md
+  ref: file:explicit:7d5950820ee7d6a2138bda60
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/obsidian_vim_yank_range_flash/obsidian_vim_yank_range_flash__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -78,4 +97,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 783 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 791 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
