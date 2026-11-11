@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.48.linker
 
-**Global name:** `bbugyi200.apollo.research.48.linker` · **State:** active · **Source run:** `run-553bcb622485eaf3a122cbd919d12606`
+**Global name:** `bbugyi200.apollo.research.48.linker` · **State:** completed · **Source run:** `run-553bcb622485eaf3a122cbd919d12606`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261111101024
+- Timing: 2026-11-11T15:57:58.072184+00:00 → 2026-11-11T16:06:53.572951+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/cmd\_y\_copy\_card/cmd\_y\_copy\_card.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111101024/cmd\_y\_copy\_card-6c25465839af.md, ref: file:ex… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/cmd_y_copy_card/cmd_y_copy_card.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111101024/cmd_y_copy_card-6c25465839af.md
+  ref: file:explicit:45c10466b9cc404d44f6fa3a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/cmd_y_copy_card/cmd_y_copy_card.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
