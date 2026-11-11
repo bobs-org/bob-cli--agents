@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [7a](../../users/bbugyi200/machines/apollo/hoods/7a/README.md) / [7a.f0](../../sessions/bbugyi200.apollo.7a.f0.md) / 7a.f0--plan
 
-**Global name:** `bbugyi200.apollo.7a.f0--plan` · **State:** active · **Source run:** `run-09c21e224c8484f3cd6adf9b62dc95d9`
+**Global name:** `bbugyi200.apollo.7a.f0--plan` · **State:** dismissed · **Source run:** `run-09c21e224c8484f3cd6adf9b62dc95d9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 7a
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.7
 - Provider: grok
-- Timing: 2026-10-13T09:17:13.273544+00:00
+- Timing: 2026-10-13T05:17:13.273544 → 2026-10-13T05:49:28.737986
 - Commits: 0
 
 ## Files

@@ -46,4 +46,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [7a.f0](../../sessions/bbugyi200.apollo.7a.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [7a.f0](../../sessions/bbugyi200.apollo.7a.f0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
