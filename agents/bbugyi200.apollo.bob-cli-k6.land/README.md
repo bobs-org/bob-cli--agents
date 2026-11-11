@@ -23,4 +23,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-k6.1](../bbugyi200.apollo.bob-cli-k6.1/README.md) | bob-cli-k6 hood | completed |
-| [bob-cli-k6.2](../bbugyi200.apollo.bob-cli-k6.2/README.md) | bob-cli-k6 hood | active |
+| [bob-cli-k6.2](../bbugyi200.apollo.bob-cli-k6.2/README.md) | bob-cli-k6 hood | completed |

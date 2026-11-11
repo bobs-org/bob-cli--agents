@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / apollo
 
-**Project:** bob-cli · **Hoods:** 436 · **Runs:** 4311
+**Project:** bob-cli · **Hoods:** 436 · **Runs:** 4327
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -138,7 +138,7 @@
 | [54](hoods/54/README.md) | 3 | 1 | failed 3 |
 | [57](hoods/57/README.md) | 4 | 1 | completed 1, failed 3 |
 | [58](hoods/58/README.md) | 1 | 0 | completed 1 |
-| [59](hoods/59/README.md) | 9 | 2 | active 1, completed 5, failed 3 |
+| [59](hoods/59/README.md) | 9 | 2 | completed 5, dismissed 1, failed 3 |
 | [5a](hoods/5a/README.md) | 3 | 1 | completed 1, failed 2 |
 | [5b](hoods/5b/README.md) | 1 | 0 | completed 1 |
 | [5c](hoods/5c/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
@@ -388,7 +388,7 @@
 | [bob-cli-ji](hoods/bob-cli-ji/README.md) | 72 | 8 | active 2, completed 50, failed 20 |
 | [bob-cli-js](hoods/bob-cli-js/README.md) | 16 | 3 | completed 12, failed 4 |
 | [bob-cli-k3](hoods/bob-cli-k3/README.md) | 24 | 3 | active 7, completed 5, failed 1, waiting 11 |
-| [bob-cli-k6](hoods/bob-cli-k6/README.md) | 3 | 0 | active 1, completed 1, waiting 1 |
+| [bob-cli-k6](hoods/bob-cli-k6/README.md) | 3 | 0 | completed 2, waiting 1 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 1 | 0 | completed 1 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 1 | 0 | completed 1 |
 | [bob-cli-t](hoods/bob-cli-t/README.md) | 2 | 0 | completed 2 |
@@ -430,7 +430,7 @@
 | [home-2](hoods/home-2/README.md) | 6 | 0 | completed 6 |
 | [jr](hoods/jr/README.md) | 2 | 0 | completed 2 |
 | [m3](hoods/m3/README.md) | 1 | 0 | completed 1 |
-| [research](hoods/research/README.md) | 915 | 46 | active 120, completed 272, dismissed 483, failed 40 |
+| [research](hoods/research/README.md) | 931 | 46 | active 126, completed 277, dismissed 483, failed 40, waiting 5 |
 | [research\_swarm](hoods/research_swarm/README.md) | 1 | 0 | completed 1 |
 | [sase-51](hoods/sase-51/README.md) | 1 | 0 | completed 1 |
 | [sase-60](hoods/sase-60/README.md) | 1 | 0 | completed 1 |

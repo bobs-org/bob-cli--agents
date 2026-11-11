@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-add97b83e61df519ce7bfdea1a97f7d7"}
+{"commits":[{"committed_at":1794408346,"sha":"7eb82440731f94ffc65177b1ab94a2fa708bd447","subject":"feat(highlights): render local SVG embeds as vector PDFs"}],"schema_version":2,"source_run_id":"run-add97b83e61df519ce7bfdea1a97f7d7"}
