@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kd](../../users/bbugyi200/machines/athena/hoods/bob-cli-kd/README.md) / bob-cli-kd.3
 
-**Global name:** `bbugyi200.athena.bob-cli-kd.3` · **State:** active · **Source run:** `run-3b2f4847b3b5f1b6c0953c2832e19037`
+**Global name:** `bbugyi200.athena.bob-cli-kd.3` · **State:** completed · **Source run:** `run-3b2f4847b3b5f1b6c0953c2832e19037`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kd
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-kd](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kd/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261111112634
-- Commits: 0
+- Timing: 2026-11-11T18:01:44.977867+00:00 → 2026-11-11T18:58:37.752628+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`49218b3`](https://github.com/bobs-org/bob-cli/commit/49218b38ebf3372b44274fa94869ad7ccc58311c) | feat(bank): add list, report, ensure, and ack to bob bank | 2026-11-11 13:58:05 EST |
 
 ## Neighbors
 
