@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-u](../../users/bbugyi200/machines/athena/hoods/bob-cli-u/README.md) / bob-cli-u.1
 
-**Global name:** `bbugyi200.athena.bob-cli-u.1` · **State:** active · **Source run:** `run-055b1fa8cad80ab7cc33e05cbcaac173`
+**Global name:** `bbugyi200.athena.bob-cli-u.1` · **State:** dismissed · **Source run:** `run-055b1fa8cad80ab7cc33e05cbcaac173`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-u
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-u](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-u/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-15T14:11:06.339392+00:00
+- Timing: 2026-08-15T10:11:06.339392 → 2026-08-15T10:29:43.778387
 - Commits: [1](#commits)
 
 ## Files
@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2037307`](https://github.com/bobs-org/bob-cli/commit/2037307c852e7257e77d96f6e9c118ea23bacdff) | feat(capture): add any-task completion and capture-task-id | 2026-08-15 10:29:08 EDT |
+| — | `2037307` | feat(capture): add any-task completion and capture-task-id | 2026-08-15 10:29:08 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-u.2](../bbugyi200.athena.bob-cli-u.2/README.md) | bob-cli-u hood | active |
-| [bob-cli-u.land](../../sessions/bbugyi200.athena.bob-cli-u.land.md) (session · 2) | bob-cli-u hood | active 1, failed 1 |
+| [bob-cli-u.2](../bbugyi200.athena.bob-cli-u.2/README.md) | bob-cli-u hood | dismissed |
+| [bob-cli-u.land](../../sessions/bbugyi200.athena.bob-cli-u.land.md) (session · 2) | bob-cli-u hood | dismissed 1, failed 1 |
 | [bob-cli-u.land--1--code](../bbugyi200.athena.bob-cli-u.land--1--code/README.md) | bob-cli-u hood | completed |
 | [bob-cli-u.land--1--plan](../bbugyi200.athena.bob-cli-u.land--1--plan/README.md) | bob-cli-u hood | completed |
