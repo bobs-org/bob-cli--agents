@@ -11,7 +11,7 @@ flowchart TD
   n0["5c--gate [failed]"]
   n1["5c--code [completed]"]
   n0 --> n1
-  n2["5c--plan [active]"]
+  n2["5c--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 5c--gate | failed | opus / claude | 2026-10-06T14:31:04.399624+00:00 → 2026-10-06T14:31:13.808942+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.5c--gate/chat.md) |
 | <a id="member-code"></a>code | 5c--code | completed | muse-spark-1.3-contributor / muse | 2026-10-06T14:31:21.765558+00:00 → 2026-10-06T14:36:35.129579+00:00 | [1](../agents/bbugyi200.apollo.5c--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | 5c--plan | active | opus / claude | 2026-10-06T14:23:42.366738+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.5c--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.5c--plan/chat.md) |
+| <a id="member-plan"></a>plan | 5c--plan | dismissed | opus / claude | 2026-10-06T10:23:42.366738 → 2026-10-06T10:36:35.157439 | 0 | [Prompt](../agents/bbugyi200.apollo.5c--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.5c--plan/chat.md) |
 
 ## Commits
 
