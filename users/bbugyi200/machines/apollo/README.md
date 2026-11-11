@@ -149,8 +149,8 @@
 | [5h](hoods/5h/README.md) | 1 | 0 | completed 1 |
 | [5i](hoods/5i/README.md) | 3 | 1 | failed 3 |
 | [5j](hoods/5j/README.md) | 4 | 1 | completed 1, failed 3 |
-| [5k](hoods/5k/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
-| [5l](hoods/5l/README.md) | 8 | 2 | active 1, completed 4, failed 3 |
+| [5k](hoods/5k/README.md) | 4 | 1 | completed 2, dismissed 1, failed 1 |
+| [5l](hoods/5l/README.md) | 8 | 2 | completed 4, dismissed 1, failed 3 |
 | [5m](hoods/5m/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
 | [5n](hoods/5n/README.md) | 2 | 0 | completed 2 |
 | [5o](hoods/5o/README.md) | 5 | 1 | active 1, completed 3, failed 1 |
