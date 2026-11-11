@@ -22,20 +22,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`39122cb`](https://github.com/bobs-org/bob-cli/commit/39122cb23010bb464047bcc586eacc5baf514f71) | feat(gmail): add sync discovery, guard, and retry helpers | 2026-11-07 20:09:20 EST |
+| — | `39122cb` | feat(gmail): add sync discovery, guard, and retry helpers | 2026-11-07 20:09:20 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ii.3](../../sessions/bbugyi200.athena.bob-cli-ii.3.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-ii.3](../../sessions/bbugyi200.athena.bob-cli-ii.3.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-ii.3.1.1](../bbugyi200.athena.bob-cli-ii.3.1.1/README.md) | bob-cli-ii.3.1 hood | completed |
 | [bob-cli-ii.3.1.3](../bbugyi200.athena.bob-cli-ii.3.1.3/README.md) | bob-cli-ii.3.1 hood | completed |
 | [bob-cli-ii.3.1.4](../bbugyi200.athena.bob-cli-ii.3.1.4/README.md) | bob-cli-ii.3.1 hood | completed |
 | [bob-cli-ii.3.1.land](../../sessions/bbugyi200.athena.bob-cli-ii.3.1.land.md) (session · 3) | bob-cli-ii.3.1 hood | completed 3 |
 | [bob-cli-ii.1](../bbugyi200.athena.bob-cli-ii.1/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.2](../bbugyi200.athena.bob-cli-ii.2/README.md) | bob-cli-ii hood | completed |
-| [bob-cli-ii.4](../../sessions/bbugyi200.athena.bob-cli-ii.4.md) (session · 3) | bob-cli-ii hood | active 1, completed 2 |
+| [bob-cli-ii.4](../../sessions/bbugyi200.athena.bob-cli-ii.4.md) (session · 3) | bob-cli-ii hood | completed 2, dismissed 1 |
 | [bob-cli-ii.4.1.1](../bbugyi200.athena.bob-cli-ii.4.1.1/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.4.1.2](../bbugyi200.athena.bob-cli-ii.4.1.2/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.4.1.3](../bbugyi200.athena.bob-cli-ii.4.1.3/README.md) | bob-cli-ii hood | completed |

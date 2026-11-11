@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ii](../../users/bbugyi200/machines/athena/hoods/bob-cli-ii/README.md) / [bob-cli-ii.3](../../sessions/bbugyi200.athena.bob-cli-ii.3.md) / bob-cli-ii.3--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-ii.3--plan` · **State:** active · **Source run:** `run-e0993193ab1daba93602e0370053663b`
+**Global name:** `bbugyi200.athena.bob-cli-ii.3--plan` · **State:** dismissed · **Source run:** `run-e0993193ab1daba93602e0370053663b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ii
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-ii](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ii/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-07T23:02:59.118206+00:00 → 2026-11-07T23:12:56.765459+00:00
+- Timing: 2026-11-07T18:02:59.118206 → 2026-11-07T18:12:56.989262
 - Commits: 0
 
 ## Files
@@ -30,7 +30,7 @@
 | [bob-cli-ii.3.1.land](../../sessions/bbugyi200.athena.bob-cli-ii.3.1.land.md) (session · 3) | descendant | completed 3 |
 | [bob-cli-ii.1](../bbugyi200.athena.bob-cli-ii.1/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.2](../bbugyi200.athena.bob-cli-ii.2/README.md) | bob-cli-ii hood | completed |
-| [bob-cli-ii.4](../../sessions/bbugyi200.athena.bob-cli-ii.4.md) (session · 3) | bob-cli-ii hood | active 1, completed 2 |
+| [bob-cli-ii.4](../../sessions/bbugyi200.athena.bob-cli-ii.4.md) (session · 3) | bob-cli-ii hood | completed 2, dismissed 1 |
 | [bob-cli-ii.4.1.1](../bbugyi200.athena.bob-cli-ii.4.1.1/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.4.1.2](../bbugyi200.athena.bob-cli-ii.4.1.2/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.4.1.3](../bbugyi200.athena.bob-cli-ii.4.1.3/README.md) | bob-cli-ii hood | completed |

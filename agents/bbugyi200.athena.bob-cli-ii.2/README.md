@@ -23,20 +23,20 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4734146`](https://github.com/bobs-org/bob-cli/commit/47341462a6d15a6c6074c1eba45d00eeaee2f7b2) | feat(gmail): record whose turn a thread is in on mail notes | 2026-11-07 18:19:09 EST |
+| — | `4734146` | feat(gmail): record whose turn a thread is in on mail notes | 2026-11-07 18:19:09 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-ii.1](../bbugyi200.athena.bob-cli-ii.1/README.md) | bob-cli-ii hood | completed |
-| [bob-cli-ii.3](../../sessions/bbugyi200.athena.bob-cli-ii.3.md) (session · 3) | bob-cli-ii hood | active 1, completed 2 |
+| [bob-cli-ii.3](../../sessions/bbugyi200.athena.bob-cli-ii.3.md) (session · 3) | bob-cli-ii hood | completed 2, dismissed 1 |
 | [bob-cli-ii.3.1.1](../bbugyi200.athena.bob-cli-ii.3.1.1/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.3.1.2](../../sessions/bbugyi200.athena.bob-cli-ii.3.1.2.md) (session · 3) | bob-cli-ii hood | completed 3 |
 | [bob-cli-ii.3.1.3](../bbugyi200.athena.bob-cli-ii.3.1.3/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.3.1.4](../bbugyi200.athena.bob-cli-ii.3.1.4/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.3.1.land](../../sessions/bbugyi200.athena.bob-cli-ii.3.1.land.md) (session · 3) | bob-cli-ii hood | completed 3 |
-| [bob-cli-ii.4](../../sessions/bbugyi200.athena.bob-cli-ii.4.md) (session · 3) | bob-cli-ii hood | active 1, completed 2 |
+| [bob-cli-ii.4](../../sessions/bbugyi200.athena.bob-cli-ii.4.md) (session · 3) | bob-cli-ii hood | completed 2, dismissed 1 |
 | [bob-cli-ii.4.1.1](../bbugyi200.athena.bob-cli-ii.4.1.1/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.4.1.2](../bbugyi200.athena.bob-cli-ii.4.1.2/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.4.1.3](../bbugyi200.athena.bob-cli-ii.4.1.3/README.md) | bob-cli-ii hood | completed |

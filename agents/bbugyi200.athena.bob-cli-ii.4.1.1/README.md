@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b4147b0`](https://github.com/bobs-org/bob-cli/commit/b4147b0bad1a91560490269a58b8bf3646addab9) | feat(gmail)!: reply hold/lift line rules with running-session guard | 2026-11-08 12:32:46 EST |
+| — | `b4147b0` | feat(gmail)!: reply hold/lift line rules with running-session guard | 2026-11-08 12:32:46 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ii.4](../../sessions/bbugyi200.athena.bob-cli-ii.4.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-ii.4](../../sessions/bbugyi200.athena.bob-cli-ii.4.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-ii.4.1.2](../bbugyi200.athena.bob-cli-ii.4.1.2/README.md) | bob-cli-ii.4.1 hood | completed |
 | [bob-cli-ii.4.1.3](../bbugyi200.athena.bob-cli-ii.4.1.3/README.md) | bob-cli-ii.4.1 hood | completed |
 | [bob-cli-ii.4.1.4](../bbugyi200.athena.bob-cli-ii.4.1.4/README.md) | bob-cli-ii.4.1 hood | completed |
@@ -38,7 +38,7 @@
 | [bob-cli-ii.4.1.land](../../sessions/bbugyi200.athena.bob-cli-ii.4.1.land.md) (session · 5) | bob-cli-ii.4.1 hood | completed 5 |
 | [bob-cli-ii.1](../bbugyi200.athena.bob-cli-ii.1/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.2](../bbugyi200.athena.bob-cli-ii.2/README.md) | bob-cli-ii hood | completed |
-| [bob-cli-ii.3](../../sessions/bbugyi200.athena.bob-cli-ii.3.md) (session · 3) | bob-cli-ii hood | active 1, completed 2 |
+| [bob-cli-ii.3](../../sessions/bbugyi200.athena.bob-cli-ii.3.md) (session · 3) | bob-cli-ii hood | completed 2, dismissed 1 |
 | [bob-cli-ii.3.1.1](../bbugyi200.athena.bob-cli-ii.3.1.1/README.md) | bob-cli-ii hood | completed |
 | [bob-cli-ii.3.1.2](../../sessions/bbugyi200.athena.bob-cli-ii.3.1.2.md) (session · 3) | bob-cli-ii hood | completed 3 |
 | [bob-cli-ii.3.1.3](../bbugyi200.athena.bob-cli-ii.3.1.3/README.md) | bob-cli-ii hood | completed |
