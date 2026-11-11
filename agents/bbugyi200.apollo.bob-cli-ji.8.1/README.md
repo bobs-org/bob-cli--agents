@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ji](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ji/README.md) / bob-cli-ji.8.1
 
-**Global name:** `bbugyi200.apollo.bob-cli-ji.8.1` · **State:** active · **Source run:** `run-2cd7e59439c47cd2d19ee63f5bd1428b`
+**Global name:** `bbugyi200.apollo.bob-cli-ji.8.1` · **State:** completed · **Source run:** `run-2cd7e59439c47cd2d19ee63f5bd1428b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ji
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ji.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ji/bob-cli-ji.8.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-11T03:32:53.876713+00:00
-- Commits: 0
+- Timing: 2026-11-11T03:32:53.876713+00:00 → 2026-11-11T04:05:22.234524+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`54e650d`](https://github.com/bobs-org/bob-cli/commit/54e650d17699f9ff2362a40f20ae8e80e8b59585) | fix(gcal): fold private notes per account and report held rows honestly | 2026-11-10 23:04:40 EST |
 
 ## Neighbors
 
@@ -26,6 +32,7 @@
 | [bob-cli-ji.8.2](../bbugyi200.apollo.bob-cli-ji.8.2/README.md) | bob-cli-ji.8 hood | waiting |
 | [bob-cli-ji.8.3](../bbugyi200.apollo.bob-cli-ji.8.3/README.md) | bob-cli-ji.8 hood | waiting |
 | [bob-cli-ji.8.4](../bbugyi200.apollo.bob-cli-ji.8.4/README.md) | bob-cli-ji.8 hood | waiting |
+| [bob-cli-ji.8.land](../bbugyi200.apollo.bob-cli-ji.8.land/README.md) | bob-cli-ji.8 hood | waiting |
 | [bob-cli-ji.1](../bbugyi200.apollo.bob-cli-ji.1/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.2](../bbugyi200.apollo.bob-cli-ji.2/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.3](../bbugyi200.apollo.bob-cli-ji.3/README.md) | bob-cli-ji hood | completed |
