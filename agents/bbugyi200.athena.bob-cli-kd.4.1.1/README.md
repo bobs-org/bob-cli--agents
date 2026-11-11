@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kd](../../users/bbugyi200/machines/athena/hoods/bob-cli-kd/README.md) / bob-cli-kd.4.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-kd.4.1.1` · **State:** active · **Source run:** `run-9c44910dd41a70384aa0e6f6843b2bb2`
+**Global name:** `bbugyi200.athena.bob-cli-kd.4.1.1` · **State:** completed · **Source run:** `run-9c44910dd41a70384aa0e6f6843b2bb2`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kd
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-kd.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kd/bob-cli-kd.4.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261111142621
-- Commits: 0
+- Timing: 2026-11-11T19:33:49.570087+00:00 → 2026-11-11T20:07:23.370776+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`bffbf36`](https://github.com/bobs-org/bob-cli/commit/bffbf36bd58d79868e4bf2b2db042bcab50f4635) | feat(bank): parse OFX/CSV exports and fold the bank journal | 2026-11-11 15:06:39 EST |
 
 ## Neighbors
 

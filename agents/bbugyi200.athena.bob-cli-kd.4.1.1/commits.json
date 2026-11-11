@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9c44910dd41a70384aa0e6f6843b2bb2"}
+{"commits":[{"committed_at":1794427599,"sha":"bffbf36bd58d79868e4bf2b2db042bcab50f4635","subject":"feat(bank): parse OFX/CSV exports and fold the bank journal"}],"schema_version":2,"source_run_id":"run-9c44910dd41a70384aa0e6f6843b2bb2"}
