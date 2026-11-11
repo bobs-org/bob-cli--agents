@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-k3` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-k3.4.1.land--code [active]"]
+  n0["bob-cli-k3.4.1.land--code [completed]"]
   n1["bob-cli-k3.4.1.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-k3.4.1.land--plan [active]"]
+  n2["bob-cli-k3.4.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-k3.4.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-11T16:59:40.880624+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-k3.4.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-11T16:59:40.880624+00:00 → 2026-11-11T18:38:07.424454+00:00 | [1](../agents/bbugyi200.athena.bob-cli-k3.4.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-k3.4.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-k3.4.1.land--gate | completed | gpt-6-astra / codex | 2026-11-11T16:58:20.757838+00:00 → 2026-11-11T16:59:01.137280+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-k3.4.1.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-k3.4.1.land--plan | active | gpt-6-astra / codex | 2026-11-11T16:44:31.727005+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.4.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-k3.4.1.land--plan | completed | gpt-6-astra / codex | 2026-11-11T16:44:31.727005+00:00 → 2026-11-11T18:38:07.424454+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.4.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`6e42159`](https://github.com/bobs-org/bob-cli/commit/6e4215971c02e0f88e12616fee37159fe455f0e1) | feat(capture)!: finish the album consumer landing repairs | 2026-11-11 13:36:26 EST |
 
 ## Neighbors
 
