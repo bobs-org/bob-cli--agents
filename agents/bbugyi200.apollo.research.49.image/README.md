@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.49.image
 
-**Global name:** `bbugyi200.apollo.research.49.image` · **State:** waiting · **Source run:** `run-98fc83b99529e85b5aca2a540ef7e224`
+**Global name:** `bbugyi200.apollo.research.49.image` · **State:** completed · **Source run:** `run-98fc83b99529e85b5aca2a540ef7e224`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261111153022
+- Timing: 2026-11-11T21:02:08.425334+00:00 → 2026-11-11T21:12:04.761924+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/bank\_first\_ack\_and\_kd\_e2e\_guide/bank\_first\_ack\_and\_kd\_e2e\_guide.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111153022/bank… |
+| `diagrams` | {considered: 12, count: 1, manifest: 202611/bank\_first\_ack\_and\_kd\_e2e\_guide/bank\_first\_ack\_and\_kd\_e2e\_guide.diagrams.md, source\_ref: file:explicit:0c24d4d136ba92dec2ce50ac, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/bank_first_ack_and_kd_e2e_guide/bank_first_ack_and_kd_e2e_guide.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111153022/bank_first_ack_and_kd_e2e_guide.diagrams-3193474f648c.md
+  ref: file:explicit:fc77e5cb4485dc1a75472562
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/bank_first_ack_and_kd_e2e_guide/bank_first_ack_and_kd_e2e_guide.diagrams.md
+- kind: image
+  label: infographic:202611/bank_first_ack_and_kd_e2e_guide/bank_first_ack_and_kd_e2e_guide_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111153022/bank_first_ack_and_kd_e2e_guide_infographic-86c4291468ee.png
+  ref: file:explicit:407ca317ab75d9729037b6d7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/bank_first_ack_and_kd_e2e_guide/bank_first_ack_and_kd_e2e_guide_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 1
+manifest: 202611/bank_first_ack_and_kd_e2e_guide/bank_first_ack_and_kd_e2e_guide.diagrams.md
+source_ref: file:explicit:0c24d4d136ba92dec2ce50ac
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
