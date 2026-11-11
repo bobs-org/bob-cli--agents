@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-hl.3--gate [completed]"]
   n1["bob-cli-hl.3--mon [completed]"]
   n0 --> n1
-  n2["bob-cli-hl.3--plan [active]"]
+  n2["bob-cli-hl.3--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-hl.3--gate | completed | gpt-6-astra / codex | 2026-11-06T00:48:12.925613+00:00 → 2026-11-06T00:49:38.317766+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-hl.3--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-hl.3--mon | completed | gpt-6-astra / codex | 2026-11-06T00:49:37.126987+00:00 → 2026-11-06T00:52:55.539839+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-hl.3--mon/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-hl.3--plan | active | gpt-6-astra / codex | 2026-11-06T00:40:34.485592+00:00 → 2026-11-06T00:49:42.430125+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-hl.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-hl.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-hl.3--plan | dismissed | gpt-6-astra / codex | 2026-11-05T19:40:34.485592 → 2026-11-05T19:49:42.606457 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-hl.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-hl.3--plan/chat.md) |
 
 ## Neighbors
 
@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-hl.1](../agents/bbugyi200.athena.bob-cli-hl.1/README.md) | bob-cli-hl hood | completed |
 | [bob-cli-hl.2](bbugyi200.athena.bob-cli-hl.2.md) (session · 3) | bob-cli-hl hood | completed 3 |
 | [bob-cli-hl.4](../agents/bbugyi200.athena.bob-cli-hl.4/README.md) | bob-cli-hl hood | completed |
-| [bob-cli-hl.5](bbugyi200.athena.bob-cli-hl.5.md) (session · 3) | bob-cli-hl hood | active 1, completed 2 |
+| [bob-cli-hl.5](bbugyi200.athena.bob-cli-hl.5.md) (session · 3) | bob-cli-hl hood | completed 2, dismissed 1 |
 | [bob-cli-hl.5.1.1](../agents/bbugyi200.athena.bob-cli-hl.5.1.1/README.md) | bob-cli-hl hood | completed |
 | [bob-cli-hl.5.1.2](bbugyi200.athena.bob-cli-hl.5.1.2.md) (session · 3) | bob-cli-hl hood | completed 2, failed 1 |
 | [bob-cli-hl.5.1.3](../agents/bbugyi200.athena.bob-cli-hl.5.1.3/README.md) | bob-cli-hl hood | completed |

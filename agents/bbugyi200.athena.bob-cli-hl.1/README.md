@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d9e3535`](https://github.com/bobs-org/bob-cli/commit/d9e353595582c3d1c647a1682d241b386fb2a2e0) | docs(capture): contract for merge-in \< capture | 2026-11-05 18:18:15 EST |
+| — | `d9e3535` | docs(capture): contract for merge-in \< capture | 2026-11-05 18:18:15 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-hl.2](../../sessions/bbugyi200.athena.bob-cli-hl.2.md) (session · 3) | bob-cli-hl hood | completed 3 |
-| [bob-cli-hl.3](../../sessions/bbugyi200.athena.bob-cli-hl.3.md) (session · 3) | bob-cli-hl hood | active 1, completed 2 |
+| [bob-cli-hl.3](../../sessions/bbugyi200.athena.bob-cli-hl.3.md) (session · 3) | bob-cli-hl hood | completed 2, dismissed 1 |
 | [bob-cli-hl.3.1.1](../../sessions/bbugyi200.athena.bob-cli-hl.3.1.1.md) (session · 5) | bob-cli-hl hood | completed 3, failed 2 |
 | [bob-cli-hl.3.1.2](../bbugyi200.athena.bob-cli-hl.3.1.2/README.md) | bob-cli-hl hood | completed |
 | [bob-cli-hl.3.1.3](../../sessions/bbugyi200.athena.bob-cli-hl.3.1.3.md) (session · 13) | bob-cli-hl hood | completed 9, failed 4 |
@@ -38,7 +38,7 @@
 | [bob-cli-hl.3.1.5](../../sessions/bbugyi200.athena.bob-cli-hl.3.1.5.md) (session · 5) | bob-cli-hl hood | completed 3, failed 2 |
 | [bob-cli-hl.3.1.land](../bbugyi200.athena.bob-cli-hl.3.1.land/README.md) | bob-cli-hl hood | completed |
 | [bob-cli-hl.4](../bbugyi200.athena.bob-cli-hl.4/README.md) | bob-cli-hl hood | completed |
-| [bob-cli-hl.5](../../sessions/bbugyi200.athena.bob-cli-hl.5.md) (session · 3) | bob-cli-hl hood | active 1, completed 2 |
+| [bob-cli-hl.5](../../sessions/bbugyi200.athena.bob-cli-hl.5.md) (session · 3) | bob-cli-hl hood | completed 2, dismissed 1 |
 | [bob-cli-hl.5.1.1](../bbugyi200.athena.bob-cli-hl.5.1.1/README.md) | bob-cli-hl hood | completed |
 | [bob-cli-hl.5.1.2](../../sessions/bbugyi200.athena.bob-cli-hl.5.1.2.md) (session · 3) | bob-cli-hl hood | completed 2, failed 1 |
 | [bob-cli-hl.5.1.3](../bbugyi200.athena.bob-cli-hl.5.1.3/README.md) | bob-cli-hl hood | completed |
