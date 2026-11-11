@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / 59
 
-**Global hood:** `bbugyi200.apollo.59` · **Runs:** 9 · **Sessions:** 2 · **States:** active 1, completed 5, failed 3
+**Global hood:** `bbugyi200.apollo.59` · **Runs:** 9 · **Sessions:** 2 · **States:** completed 5, dismissed 1, failed 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -14,4 +14,4 @@
 | [59.f0--gate](../../../../../../sessions/bbugyi200.apollo.59.f0.md#member-gate) | failed | gpt-6-astra / codex | 2026-10-05T19:08:15.866999+00:00 → 2026-10-05T19:08:24.110111+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.59.f0--gate/chat.md) |
 | [59--gate](../../../../../../sessions/bbugyi200.apollo.59.md#member-gate) | failed | opus / claude | 2026-10-05T18:42:42.365993+00:00 → 2026-10-05T18:42:51.226903+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.59--gate/chat.md) |
 | [59](../../../../../../agents/bbugyi200.apollo.59/README.md) | completed | — | 2026-07-11T11:54:57+00:00 → 2026-07-11T11:54:57+00:00 | 1 | — |
-| [59.f0--plan](../../../../../../sessions/bbugyi200.apollo.59.f0.md#member-plan) | active | gpt-6-astra / codex | 2026-10-05T19:04:02.992827+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.59.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.59.f0--plan/prompt.md) |
+| [59.f0--plan](../../../../../../sessions/bbugyi200.apollo.59.f0.md#member-plan) | dismissed | gpt-6-astra / codex | 2026-10-05T15:04:02.992827 → 2026-10-05T15:14:38.758537 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.59.f0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.59.f0--plan/prompt.md) |
