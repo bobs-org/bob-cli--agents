@@ -28,8 +28,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-kj.1](../agents/bbugyi200.athena.bob-cli-kj.1/README.md) | bob-cli-kj hood | completed |
-| [bob-cli-kj.2](../agents/bbugyi200.athena.bob-cli-kj.2/README.md) | bob-cli-kj hood | active |
-| [bob-cli-kj.3](bbugyi200.athena.bob-cli-kj.3.md) (session · 2) | bob-cli-kj hood | completed 1, failed 1 |
+| [bob-cli-kj.2](bbugyi200.athena.bob-cli-kj.2.md) (session · 2) | bob-cli-kj hood | active 2 |
+| [bob-cli-kj.3](bbugyi200.athena.bob-cli-kj.3.md) (session · 3) | bob-cli-kj hood | completed 1, failed 1, waiting 1 |
 | [bob-cli-kj.4](../agents/bbugyi200.athena.bob-cli-kj.4/README.md) | bob-cli-kj hood | active |
-| [bob-cli-kj.5](bbugyi200.athena.bob-cli-kj.5.md) (session · 4) | bob-cli-kj hood | active 1, completed 3 |
+| [bob-cli-kj.5](bbugyi200.athena.bob-cli-kj.5.md) (session · 5) | bob-cli-kj hood | active 1, completed 3, failed 1 |
 | [bob-cli-kj.land](../agents/bbugyi200.athena.bob-cli-kj.land/README.md) | bob-cli-kj hood | waiting |
