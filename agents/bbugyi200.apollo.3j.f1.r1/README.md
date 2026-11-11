@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`56af57a`](https://github.com/bobs-org/bob-cli/commit/56af57a724c5a7a17c6d097052db512187b4735f) | chore: Add SDD prompt and plan for fix\_june\_period\_notes | 2026-06-07 08:51:17 EDT |
+| — | `56af57a` | chore: Add SDD prompt and plan for fix\_june\_period\_notes | 2026-06-07 08:51:17 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3j](../../sessions/bbugyi200.apollo.3j.md) (session · 3) | ancestor | active 1, failed 2 |
+| [3j](../../sessions/bbugyi200.apollo.3j.md) (session · 3) | ancestor | dismissed 1, failed 2 |
 | [3j.f1.r1.f1.r1](../bbugyi200.apollo.3j.f1.r1.f1.r1/README.md) | descendant | completed |

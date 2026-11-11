@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f04377a`](https://github.com/bobs-org/bob-cli/commit/f04377a01c73a0e30cfd2cbe96e4956e67ba00e6) | feat(memory): launch decisions web with three accepted records | 2026-09-30 12:47:15 EDT |
+| — | `f04377a` | feat(memory): launch decisions web with three accepted records | 2026-09-30 12:47:15 EDT |
 
 ## Neighbors
 

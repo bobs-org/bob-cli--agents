@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a8a6cde`](https://github.com/bobs-org/bob-cli/commit/a8a6cde6b98f6183fb0036d942613088bdfff333) | feat: use bare date paths for daily notes | 2026-06-07 09:14:41 EDT |
+| — | `a8a6cde` | feat: use bare date paths for daily notes | 2026-06-07 09:14:41 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [3j.f1.r1](../bbugyi200.apollo.3j.f1.r1/README.md) | ancestor | completed |
-| [3j](../../sessions/bbugyi200.apollo.3j.md) (session · 3) | ancestor | active 1, failed 2 |
+| [3j](../../sessions/bbugyi200.apollo.3j.md) (session · 3) | ancestor | dismissed 1, failed 2 |

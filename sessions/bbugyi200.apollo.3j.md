@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `3j` · Members: 3
 ```mermaid
 flowchart TD
   n0["3j--gate [failed]"]
-  n1["3j--plan [active]"]
+  n1["3j--plan [dismissed]"]
   n0 --> n1
   n2["3j--mon [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 3j--gate | failed | opus / claude | 2026-09-30T17:00:02.014964+00:00 → 2026-09-30T17:00:08.658624+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.3j--gate/chat.md) |
-| <a id="member-plan"></a>plan | 3j--plan | active | opus / claude | 2026-09-30T16:38:24.090677+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.3j--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.3j--plan/chat.md) |
+| <a id="member-plan"></a>plan | 3j--plan | dismissed | opus / claude | 2026-09-30T12:38:24.090677 → 2026-09-30T13:00:12.748864 | 0 | [Prompt](../agents/bbugyi200.apollo.3j--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.3j--plan/chat.md) |
 | <a id="member-mon"></a>mon | 3j--mon | failed | opus / claude | 2026-09-30T17:00:07.665188+00:00 → 2026-09-30T17:00:47.908636+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.3j--mon/chat.md) |
 
 ## Neighbors
