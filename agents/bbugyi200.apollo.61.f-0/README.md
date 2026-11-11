@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0e67766`](https://github.com/bobs-org/bob-cli/commit/0e677668a2082c3f099b8ce2bd2286f67f7dfea5) | feat: repair task dependency identities on archive moves | 2026-07-11 17:14:04 EDT |
+| — | `0e67766` | feat: repair task dependency identities on archive moves | 2026-07-11 17:14:04 EDT |
 
 ## Neighbors
 
@@ -25,8 +25,8 @@
 |---|---|---|
 | [61](../bbugyi200.apollo.61/README.md) | ancestor | completed |
 | [61.f-1](../bbugyi200.apollo.61.f-1/README.md) | 61 hood | completed |
-| [61.w0](../bbugyi200.apollo.61.w0/README.md) | 61 hood | active |
-| [61.w0.w0](../bbugyi200.apollo.61.w0.w0/README.md) | 61 hood | active |
+| [61.w0](../bbugyi200.apollo.61.w0/README.md) | 61 hood | dismissed |
+| [61.w0.w0](../bbugyi200.apollo.61.w0.w0/README.md) | 61 hood | dismissed |
 | [61.w1](../../sessions/bbugyi200.apollo.61.w1.md) (session · 3) | 61 hood | completed 2, failed 1 |
 | [61.w1.f0](../../sessions/bbugyi200.apollo.61.w1.f0.md) (session · 3) | 61 hood | failed 3 |
 | [61.w1.w0](../../sessions/bbugyi200.apollo.61.w1.w0.md) (session · 3) | 61 hood | failed 3 |

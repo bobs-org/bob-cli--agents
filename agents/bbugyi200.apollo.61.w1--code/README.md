@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5601235`](https://github.com/bobs-org/bob-cli/commit/56012352f4cdec6e00e4c163b6c953c69ae4f62b) | feat(capture): report task\_link\_count in capture-pomodoros JSON output | 2026-10-09 13:34:03 EDT |
+| — | `5601235` | feat(capture): report task\_link\_count in capture-pomodoros JSON output | 2026-10-09 13:34:03 EDT |
 
 ## Neighbors
 
@@ -32,5 +32,5 @@
 | [61.w1.w0](../../sessions/bbugyi200.apollo.61.w1.w0.md) (session · 3) | descendant | failed 3 |
 | [61.f-0](../bbugyi200.apollo.61.f-0/README.md) | 61 hood | completed |
 | [61.f-1](../bbugyi200.apollo.61.f-1/README.md) | 61 hood | completed |
-| [61.w0](../bbugyi200.apollo.61.w0/README.md) | 61 hood | active |
-| [61.w0.w0](../bbugyi200.apollo.61.w0.w0/README.md) | 61 hood | active |
+| [61.w0](../bbugyi200.apollo.61.w0/README.md) | 61 hood | dismissed |
+| [61.w0.w0](../bbugyi200.apollo.61.w0.w0/README.md) | 61 hood | dismissed |

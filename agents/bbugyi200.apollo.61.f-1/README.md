@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5a22c43`](https://github.com/bobs-org/bob-cli/commit/5a22c435520b852e5be395c52d76e20dfccfa48f) | feat: retire completed task references as struck links | 2026-07-11 17:34:11 EDT |
+| — | `5a22c43` | feat: retire completed task references as struck links | 2026-07-11 17:34:11 EDT |
 
 ## Neighbors
 
@@ -25,8 +25,8 @@
 |---|---|---|
 | [61](../bbugyi200.apollo.61/README.md) | ancestor | completed |
 | [61.f-0](../bbugyi200.apollo.61.f-0/README.md) | 61 hood | completed |
-| [61.w0](../bbugyi200.apollo.61.w0/README.md) | 61 hood | active |
-| [61.w0.w0](../bbugyi200.apollo.61.w0.w0/README.md) | 61 hood | active |
+| [61.w0](../bbugyi200.apollo.61.w0/README.md) | 61 hood | dismissed |
+| [61.w0.w0](../bbugyi200.apollo.61.w0.w0/README.md) | 61 hood | dismissed |
 | [61.w1](../../sessions/bbugyi200.apollo.61.w1.md) (session · 3) | 61 hood | completed 2, failed 1 |
 | [61.w1.f0](../../sessions/bbugyi200.apollo.61.w1.f0.md) (session · 3) | 61 hood | failed 3 |
 | [61.w1.w0](../../sessions/bbugyi200.apollo.61.w1.w0.md) (session · 3) | 61 hood | failed 3 |

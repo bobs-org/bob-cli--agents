@@ -32,5 +32,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [61.w1.f0](bbugyi200.apollo.61.w1.f0.md) (session · 3) | 61.w1 hood | failed 3 |
 | [61.f-0](../agents/bbugyi200.apollo.61.f-0/README.md) | 61 hood | completed |
 | [61.f-1](../agents/bbugyi200.apollo.61.f-1/README.md) | 61 hood | completed |
-| [61.w0](../agents/bbugyi200.apollo.61.w0/README.md) | 61 hood | active |
-| [61.w0.w0](../agents/bbugyi200.apollo.61.w0.w0/README.md) | 61 hood | active |
+| [61.w0](../agents/bbugyi200.apollo.61.w0/README.md) | 61 hood | dismissed |
+| [61.w0.w0](../agents/bbugyi200.apollo.61.w0.w0/README.md) | 61 hood | dismissed |

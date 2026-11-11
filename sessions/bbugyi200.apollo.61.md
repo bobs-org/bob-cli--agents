@@ -33,8 +33,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | bob-cli | [`2677dea`](https://github.com/bobs-org/bob-cli/commit/2677dea6c80297ab5ef4f48b1097f1d4542e4ef8) | feat(mark-next): follow transcluded task dependencies | 2026-07-11 16:25:56 EDT |
-| 1 | bob-cli | [`db195e3`](https://github.com/bobs-org/bob-cli/commit/db195e3ebb4373d966281aa19b29012d880725b0) | feat(capture): reset note-free Pomodoros with =x0, preserving note-bearing close | 2026-10-09 12:42:34 EDT |
+| — | — | `2677dea` | feat(mark-next): follow transcluded task dependencies | 2026-07-11 16:25:56 EDT |
+| 1 | — | `db195e3` | feat(capture): reset note-free Pomodoros with =x0, preserving note-bearing close | 2026-10-09 12:42:34 EDT |
 
 ## Neighbors
 
@@ -42,8 +42,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [61.f-0](../agents/bbugyi200.apollo.61.f-0/README.md) | descendant | completed |
 | [61.f-1](../agents/bbugyi200.apollo.61.f-1/README.md) | descendant | completed |
-| [61.w0](../agents/bbugyi200.apollo.61.w0/README.md) | descendant | active |
-| [61.w0.w0](../agents/bbugyi200.apollo.61.w0.w0/README.md) | descendant | active |
+| [61.w0](../agents/bbugyi200.apollo.61.w0/README.md) | descendant | dismissed |
+| [61.w0.w0](../agents/bbugyi200.apollo.61.w0.w0/README.md) | descendant | dismissed |
 | [61.w1](bbugyi200.apollo.61.w1.md) (session · 3) | descendant | completed 2, failed 1 |
 | [61.w1.f0](bbugyi200.apollo.61.w1.f0.md) (session · 3) | descendant | failed 3 |
 | [61.w1.w0](bbugyi200.apollo.61.w1.w0.md) (session · 3) | descendant | failed 3 |
