@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ji](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ji/README.md) / bob-cli-ji.8.4
 
-**Global name:** `bbugyi200.apollo.bob-cli-ji.8.4` · **State:** waiting · **Source run:** `run-9894b3f23db2270fd0e0d89102c0f6f5`
+**Global name:** `bbugyi200.apollo.bob-cli-ji.8.4` · **State:** completed · **Source run:** `run-9894b3f23db2270fd0e0d89102c0f6f5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ji
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ji.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ji/bob-cli-ji.8.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261110223233
-- Commits: 0
+- Timing: 2026-11-11T05:41:43.944006+00:00 → 2026-11-11T06:25:57.080606+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`ba7a1c9`](https://github.com/bobs-org/bob-cli/commit/ba7a1c9092a368dded96c3ec95dee72c0261f7b0) | feat(gcal): finish private event note extras | 2026-11-11 01:25:11 EST |
 
 ## Neighbors
 
