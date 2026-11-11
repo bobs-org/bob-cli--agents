@@ -197,7 +197,7 @@
 | [77](hoods/77/README.md) | 4 | 0 | completed 4 |
 | [78](hoods/78/README.md) | 1 | 0 | completed 1 |
 | [79](hoods/79/README.md) | 7 | 1 | completed 4, failed 3 |
-| [7a](hoods/7a/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
+| [7a](hoods/7a/README.md) | 4 | 1 | completed 2, dismissed 1, failed 1 |
 | [7c](hoods/7c/README.md) | 6 | 2 | completed 2, failed 4 |
 | [7d](hoods/7d/README.md) | 1 | 0 | completed 1 |
 | [7h](hoods/7h/README.md) | 1 | 0 | completed 1 |
