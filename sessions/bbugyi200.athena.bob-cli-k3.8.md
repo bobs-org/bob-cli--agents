@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-k3` · Members: 2 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-k3.8--mon [active]"]
-  n1["bob-cli-k3.8--plan [active]"]
+  n1["bob-cli-k3.8--plan [completed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-k3.8--mon | active | muse-spark-1.3-contributor / muse | 2026-11-11T19:19:17.807008+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-k3.8--plan | active | muse-spark-1.3-contributor / muse | 2026-11-11T18:37:10.617342+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.8--plan/prompt.md) | — |
+| <a id="member-plan"></a>plan | bob-cli-k3.8--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-11T18:37:10.617342+00:00 → 2026-11-11T21:07:21.834048+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.8--plan/chat.md) |
 
 ## Neighbors
 
@@ -37,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-k3.4.1.land](bbugyi200.athena.bob-cli-k3.4.1.land.md) (session · 3) | bob-cli-k3 hood | completed 3 |
 | [bob-cli-k3.5](bbugyi200.athena.bob-cli-k3.5.md) (session · 3) | bob-cli-k3 hood | active 1, completed 2 |
 | [bob-cli-k3.5.1.1](../agents/bbugyi200.athena.bob-cli-k3.5.1.1/README.md) | bob-cli-k3 hood | completed |
-| [bob-cli-k3.5.1.2](../agents/bbugyi200.athena.bob-cli-k3.5.1.2/README.md) | bob-cli-k3 hood | waiting |
+| [bob-cli-k3.5.1.2](../agents/bbugyi200.athena.bob-cli-k3.5.1.2/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.5.1.3](../agents/bbugyi200.athena.bob-cli-k3.5.1.3/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.5.1.land](../agents/bbugyi200.athena.bob-cli-k3.5.1.land/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.6](../agents/bbugyi200.athena.bob-cli-k3.6/README.md) | bob-cli-k3 hood | waiting |
