@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.45.final
 
-**Global name:** `bbugyi200.apollo.research.45.final` · **State:** waiting · **Source run:** `run-696f84ac9ae54b916685352927a02644`
+**Global name:** `bbugyi200.apollo.research.45.final` · **State:** completed · **Source run:** `run-696f84ac9ae54b916685352927a02644`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261111075254
+- Timing: 2026-11-11T13:12:12.685535+00:00 → 2026-11-11T13:40:35.817760+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/notebook\_section\_groups/notebook\_section\_groups\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111075254/notebook\_section\_group… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/notebook_section_groups/notebook_section_groups__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111075254/notebook_section_groups__final-26c191f3c90f.md
+  ref: file:explicit:587b9b6714d20eb1d193422b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/notebook_section_groups/notebook_section_groups__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
