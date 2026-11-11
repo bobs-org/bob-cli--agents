@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.45.gem
 
-**Global name:** `bbugyi200.apollo.research.45.gem` · **State:** active · **Source run:** `run-b6cf4d97a50c82339d69608877fa17cc`
+**Global name:** `bbugyi200.apollo.research.45.gem` · **State:** completed · **Source run:** `run-b6cf4d97a50c82339d69608877fa17cc`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-11T12:54:18.759225+00:00
+- Timing: 2026-11-11T12:54:18.759225+00:00 → 2026-11-11T13:11:59.389760+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/notebook\_h2\_section\_targeting\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111075253/notebook\_h2\_section\_targeting\_\_gem-debfe1c… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/notebook_h2_section_targeting__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111075253/notebook_h2_section_targeting__gem-debfe1cb665b.md
+  ref: file:explicit:28f37f917e08d2be07ea4439
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202611/notebook_h2_section_targeting__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.45.cdx](../bbugyi200.apollo.research.45.cdx/README.md) | research.45 hood | completed |
-| [research.45.cld](../bbugyi200.apollo.research.45.cld/README.md) | research.45 hood | active |
+| [research.45.cld](../bbugyi200.apollo.research.45.cld/README.md) | research.45 hood | completed |
 | [research.45.final](../bbugyi200.apollo.research.45.final/README.md) | research.45 hood | waiting |
 | [research.45.grk](../bbugyi200.apollo.research.45.grk/README.md) | research.45 hood | completed |
 | [research.45.image](../bbugyi200.apollo.research.45.image/README.md) | research.45 hood | waiting |
