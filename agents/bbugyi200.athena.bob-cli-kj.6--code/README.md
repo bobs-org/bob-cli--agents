@@ -37,6 +37,12 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111174514/wikilink-cpu-measurements.tar-bcf454af24ce.gz
   ref: file:explicit:852c774f2f1b00df676ba605
   source_path: /tmp/wikilink-cpu-measurements.tar.gz
+- bead: bob-cli-kj.6
+  kind: file
+  label: Apollo before diagnostic JSON
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111174514/apollo-before-diag-1fc7a335705d.json
+  ref: file:explicit:a4eb719bfd4855535901ea2d
+  source_path: /tmp/wikilink-cpu-baseline/apollo-before-diag.json
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
@@ -48,6 +54,6 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-kj.1](../bbugyi200.athena.bob-cli-kj.1/README.md) | bob-cli-kj hood | completed |
 | [bob-cli-kj.2](../../sessions/bbugyi200.athena.bob-cli-kj.2.md) (session · 2) | bob-cli-kj hood | active 2 |
 | [bob-cli-kj.3](../../sessions/bbugyi200.athena.bob-cli-kj.3.md) (session · 3) | bob-cli-kj hood | completed 1, failed 1, waiting 1 |
-| [bob-cli-kj.4](../bbugyi200.athena.bob-cli-kj.4/README.md) | bob-cli-kj hood | active |
-| [bob-cli-kj.5](../../sessions/bbugyi200.athena.bob-cli-kj.5.md) (session · 5) | bob-cli-kj hood | active 1, completed 3, failed 1 |
+| [bob-cli-kj.4](../bbugyi200.athena.bob-cli-kj.4/README.md) | bob-cli-kj hood | completed |
+| [bob-cli-kj.5](../../sessions/bbugyi200.athena.bob-cli-kj.5.md) (session · 5) | bob-cli-kj hood | completed 4, failed 1 |
 | [bob-cli-kj.land](../bbugyi200.athena.bob-cli-kj.land/README.md) | bob-cli-kj hood | waiting |

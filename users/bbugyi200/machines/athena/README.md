@@ -36,11 +36,11 @@
 | [01r](hoods/01r/README.md) | 5 | 0 | completed 5 |
 | [01s](hoods/01s/README.md) | 3 | 1 | completed 2, dismissed 1 |
 | [021](hoods/021/README.md) | 2 | 1 | completed 1, dismissed 1 |
-| [022](hoods/022/README.md) | 8 | 4 | active 4, completed 4 |
-| [023](hoods/023/README.md) | 2 | 1 | active 1, completed 1 |
+| [022](hoods/022/README.md) | 8 | 4 | completed 4, dismissed 4 |
+| [023](hoods/023/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [024](hoods/024/README.md) | 4 | 2 | completed 2, failed 2 |
-| [028](hoods/028/README.md) | 9 | 4 | active 4, completed 5 |
-| [029](hoods/029/README.md) | 1 | 0 | active 1 |
+| [028](hoods/028/README.md) | 9 | 4 | completed 5, dismissed 4 |
+| [029](hoods/029/README.md) | 1 | 0 | dismissed 1 |
 | [02a](hoods/02a/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [02b](hoods/02b/README.md) | 2 | 1 | active 1, completed 1 |
 | [02e](hoods/02e/README.md) | 3 | 1 | completed 2, failed 1 |
@@ -601,7 +601,7 @@
 | [bob-cli-kc](hoods/bob-cli-kc/README.md) | 23 | 2 | active 2, completed 18, failed 3 |
 | [bob-cli-kd](hoods/bob-cli-kd/README.md) | 27 | 3 | active 3, completed 14, failed 1, waiting 9 |
 | [bob-cli-kf](hoods/bob-cli-kf/README.md) | 13 | 2 | completed 12, failed 1 |
-| [bob-cli-kj](hoods/bob-cli-kj/README.md) | 16 | 4 | active 6, completed 6, failed 2, waiting 2 |
+| [bob-cli-kj](hoods/bob-cli-kj/README.md) | 16 | 4 | active 4, completed 8, failed 2, waiting 2 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 3 | 0 | dismissed 3 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 5 | 1 | completed 1, dismissed 4 |
 | [bob-cli-o](hoods/bob-cli-o/README.md) | 2 | 1 | completed 1, dismissed 1 |
