@@ -50,4 +50,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-k7.3](../agents/bbugyi200.athena.bob-cli-k7.3/README.md) | bob-cli-k7 hood | completed |
 | [bob-cli-k7.5](../agents/bbugyi200.athena.bob-cli-k7.5/README.md) | bob-cli-k7 hood | completed |
 | [bob-cli-k7.6](../agents/bbugyi200.athena.bob-cli-k7.6/README.md) | bob-cli-k7 hood | completed |
-| [bob-cli-k7.land](../agents/bbugyi200.athena.bob-cli-k7.land/README.md) | bob-cli-k7 hood | waiting |
+| [bob-cli-k7.land](../agents/bbugyi200.athena.bob-cli-k7.land/README.md) | bob-cli-k7 hood | completed |
