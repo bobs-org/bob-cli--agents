@@ -86,11 +86,11 @@
 | [31](hoods/31/README.md) | 3 | 1 | dismissed 1, failed 2 |
 | [32](hoods/32/README.md) | 1 | 0 | completed 1 |
 | [33](hoods/33/README.md) | 1 | 0 | completed 1 |
-| [34](hoods/34/README.md) | 3 | 1 | active 1, failed 2 |
-| [35](hoods/35/README.md) | 3 | 1 | active 1, failed 2 |
-| [36](hoods/36/README.md) | 6 | 2 | active 2, completed 1, failed 3 |
-| [37](hoods/37/README.md) | 1 | 0 | active 1 |
-| [38](hoods/38/README.md) | 3 | 1 | active 1, failed 2 |
+| [34](hoods/34/README.md) | 3 | 1 | dismissed 1, failed 2 |
+| [35](hoods/35/README.md) | 3 | 1 | dismissed 1, failed 2 |
+| [36](hoods/36/README.md) | 6 | 2 | completed 1, dismissed 2, failed 3 |
+| [37](hoods/37/README.md) | 1 | 0 | dismissed 1 |
+| [38](hoods/38/README.md) | 3 | 1 | dismissed 1, failed 2 |
 | [3a](hoods/3a/README.md) | 2 | 0 | completed 2 |
 | [3c](hoods/3c/README.md) | 3 | 1 | active 1, failed 2 |
 | [3e](hoods/3e/README.md) | 5 | 1 | active 1, completed 3, failed 1 |
