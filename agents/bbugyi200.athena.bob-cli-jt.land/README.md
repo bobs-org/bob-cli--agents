@@ -23,4 +23,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-jt.1](../bbugyi200.athena.bob-cli-jt.1/README.md) | bob-cli-jt hood | completed |
-| [bob-cli-jt.2](../bbugyi200.athena.bob-cli-jt.2/README.md) | bob-cli-jt hood | active |
+| [bob-cli-jt.2](../../sessions/bbugyi200.athena.bob-cli-jt.2.md) (session · 13) | bob-cli-jt hood | completed 8, failed 5 |
