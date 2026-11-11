@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `yu` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["yu--plan [active]"]
+  n0["yu--plan [dismissed]"]
   n1["yu--code [completed]"]
   n0 --> n1
 ```
@@ -17,11 +17,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | yu--plan | active | opus / claude | 2026-08-12T18:26:08.872972+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.yu--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.yu--plan/chat.md) |
+| <a id="member-plan"></a>plan | yu--plan | dismissed | opus / claude | 2026-08-12T14:26:08.872972 → 2026-08-12T14:51:15.430447 | 0 | [Prompt](../agents/bbugyi200.athena.yu--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.yu--plan/chat.md) |
 | <a id="member-code"></a>code | yu--code | completed | sonnet / claude | 2026-08-12T18:33:17.169424+00:00 | [1](../agents/bbugyi200.athena.yu--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.yu--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`01325ca`](https://github.com/bobs-org/bob-cli/commit/01325ca73adda95b277cea530efb62b67934a365) | docs(projects): document ALL-CAPS section-bullet conversion | 2026-08-12 14:50:50 EDT |
+| code | — | `01325ca` | docs(projects): document ALL-CAPS section-bullet conversion | 2026-08-12 14:50:50 EDT |

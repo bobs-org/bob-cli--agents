@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [zb](../../users/bbugyi200/machines/athena/hoods/zb/README.md) / [zb](../../sessions/bbugyi200.athena.zb.md) / zb--plan
 
-**Global name:** `bbugyi200.athena.zb--plan` · **State:** active · **Source run:** `run-339be30e558aaec18d8df3535db12582`
+**Global name:** `bbugyi200.athena.zb--plan` · **State:** dismissed · **Source run:** `run-339be30e558aaec18d8df3535db12582`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** zb
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-08-13T12:59:15.272516+00:00
+- Timing: 2026-08-13T08:59:15.272516 → 2026-08-13T09:28:00.521231
 - Commits: 0
 
 ## Files
