@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #coder:~/.sase/plans/202611/revert_umbrella_leaf_rule.md %m:gpt-6-astra
