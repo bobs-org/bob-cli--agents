@@ -26,6 +26,6 @@
 | [bob-cli-kf.1](../bbugyi200.athena.bob-cli-kf.1/README.md) | bob-cli-kf hood | completed |
 | [bob-cli-kf.2](../bbugyi200.athena.bob-cli-kf.2/README.md) | bob-cli-kf hood | completed |
 | [bob-cli-kf.3](../bbugyi200.athena.bob-cli-kf.3/README.md) | bob-cli-kf hood | completed |
-| [bob-cli-kf.4](../bbugyi200.athena.bob-cli-kf.4/README.md) | bob-cli-kf hood | active |
+| [bob-cli-kf.4](../bbugyi200.athena.bob-cli-kf.4/README.md) | bob-cli-kf hood | completed |
 | [bob-cli-kf.5](../bbugyi200.athena.bob-cli-kf.5/README.md) | bob-cli-kf hood | completed |
 | [bob-cli-kf.land](../bbugyi200.athena.bob-cli-kf.land/README.md) | bob-cli-kf hood | waiting |
