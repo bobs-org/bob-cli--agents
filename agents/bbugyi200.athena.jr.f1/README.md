@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`456f9d2`](https://github.com/bobs-org/bob-cli/commit/456f9d2d479f7f6172310a78e5227b7319b881bb) | fix(task-status-hooks): recover due scheduled tasks | 2026-07-24 19:45:23 EDT |
+| — | `456f9d2` | fix(task-status-hooks): recover due scheduled tasks | 2026-07-24 19:45:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [jr](../bbugyi200.athena.jr/README.md) | ancestor | completed |
-| [jr.f0](../../sessions/bbugyi200.athena.jr.f0.md) (session · 2) | jr hood | active 1, completed 1 |
+| [jr.f0](../../sessions/bbugyi200.athena.jr.f0.md) (session · 2) | jr hood | completed 1, dismissed 1 |

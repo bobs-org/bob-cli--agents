@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9bb625a`](https://github.com/bobs-org/bob-cli/commit/9bb625aef0c9c12825df0a5056405fc741dbca8c) | feat: block tasks with future inline schedules | 2026-07-24 18:37:38 EDT |
+| — | `9bb625a` | feat: block tasks with future inline schedules | 2026-07-24 18:37:38 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [jr.f0](../../sessions/bbugyi200.athena.jr.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [jr.f1](../../sessions/bbugyi200.athena.jr.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [jr.f0](../../sessions/bbugyi200.athena.jr.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [jr.f1](../../sessions/bbugyi200.athena.jr.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
 | [jr.f1](../bbugyi200.athena.jr.f1/README.md) | descendant | completed |
