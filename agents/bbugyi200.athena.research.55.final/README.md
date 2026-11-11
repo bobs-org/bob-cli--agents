@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.55.final
 
-**Global name:** `bbugyi200.athena.research.55.final` · **State:** active · **Source run:** `run-f7e02af1936da755f5bbe8e0d61ca3ff`
+**Global name:** `bbugyi200.athena.research.55.final` · **State:** dismissed · **Source run:** `run-f7e02af1936da755f5bbe8e0d61ca3ff`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-23T10:48:30.961928+00:00
+- Timing: 2026-10-23T06:48:30.961928 → 2026-10-23T07:04:24.002178
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -49,7 +49,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.55.linker.w0](../bbugyi200.athena.research.55.linker.w0/README.md) | research.55 hood | dismissed |
 | [research.55.linker.w1](../bbugyi200.athena.research.55.linker.w1/README.md) | research.55 hood | dismissed |
 | [research.55.linker.w2](../../sessions/bbugyi200.athena.research.55.linker.w2.md) (session · 3) | research.55 hood | dismissed 1, failed 2 |
-| [research.55.mus](../bbugyi200.athena.research.55.mus/README.md) | research.55 hood | active |
+| [research.55.mus](../bbugyi200.athena.research.55.mus/README.md) | research.55 hood | dismissed |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
@@ -67,24 +67,24 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.1a.cld](../bbugyi200.athena.research.1a.cld/README.md) | research hood | dismissed |
 | [research.1a.final](../bbugyi200.athena.research.1a.final/README.md) | research hood | dismissed |
 | [research.1a.image](../bbugyi200.athena.research.1a.image/README.md) | research hood | dismissed |
-| [research.2o.cdx](../bbugyi200.athena.research.2o.cdx/README.md) | research hood | active |
+| [research.2o.cdx](../bbugyi200.athena.research.2o.cdx/README.md) | research hood | dismissed |
 | [research.2o.final](../bbugyi200.athena.research.2o.final/README.md) | research hood | dismissed |
-| [research.2o.gem](../bbugyi200.athena.research.2o.gem/README.md) | research hood | active |
+| [research.2o.gem](../bbugyi200.athena.research.2o.gem/README.md) | research hood | dismissed |
 | [research.2o.grk](../bbugyi200.athena.research.2o.grk/README.md) | research hood | dismissed |
-| [research.2o.image](../bbugyi200.athena.research.2o.image/README.md) | research hood | active |
+| [research.2o.image](../bbugyi200.athena.research.2o.image/README.md) | research hood | dismissed |
 | [research.2o.mus](../bbugyi200.athena.research.2o.mus/README.md) | research hood | dismissed |
-| [research.31.cdx](../bbugyi200.athena.research.31.cdx/README.md) | research hood | active |
+| [research.31.cdx](../bbugyi200.athena.research.31.cdx/README.md) | research hood | dismissed |
 | [research.31.cld](../bbugyi200.athena.research.31.cld/README.md) | research hood | dismissed |
 | [research.31.final](../bbugyi200.athena.research.31.final/README.md) | research hood | dismissed |
-| [research.31.gem](../bbugyi200.athena.research.31.gem/README.md) | research hood | active |
+| [research.31.gem](../bbugyi200.athena.research.31.gem/README.md) | research hood | dismissed |
 | [research.31.grk](../bbugyi200.athena.research.31.grk/README.md) | research hood | dismissed |
-| [research.31.image](../bbugyi200.athena.research.31.image/README.md) | research hood | active |
-| [research.31.linker](../bbugyi200.athena.research.31.linker/README.md) | research hood | active |
+| [research.31.image](../bbugyi200.athena.research.31.image/README.md) | research hood | dismissed |
+| [research.31.linker](../bbugyi200.athena.research.31.linker/README.md) | research hood | dismissed |
 | [research.31.mus](../bbugyi200.athena.research.31.mus/README.md) | research hood | dismissed |
-| [research.32.cdx](../bbugyi200.athena.research.32.cdx/README.md) | research hood | active |
+| [research.32.cdx](../bbugyi200.athena.research.32.cdx/README.md) | research hood | dismissed |
 | [research.32.cld](../bbugyi200.athena.research.32.cld/README.md) | research hood | dismissed |
-| [research.32.final](../bbugyi200.athena.research.32.final/README.md) | research hood | active |
-| [research.32.gem](../bbugyi200.athena.research.32.gem/README.md) | research hood | active |
+| [research.32.final](../bbugyi200.athena.research.32.final/README.md) | research hood | dismissed |
+| [research.32.gem](../bbugyi200.athena.research.32.gem/README.md) | research hood | dismissed |
 | [research.32.grk](../bbugyi200.athena.research.32.grk/README.md) | research hood | dismissed |
 | [research.32.image](../bbugyi200.athena.research.32.image/README.md) | research hood | dismissed |
 | [research.32.linker](../bbugyi200.athena.research.32.linker/README.md) | research hood | dismissed |
@@ -97,7 +97,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.35.image](../bbugyi200.athena.research.35.image/README.md) | research hood | dismissed |
 | [research.35.linker](../bbugyi200.athena.research.35.linker/README.md) | research hood | dismissed |
 | [research.35.mus](../bbugyi200.athena.research.35.mus/README.md) | research hood | dismissed |
-| [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | active |
+| [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
 | … and 383 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
