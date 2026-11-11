@@ -30,4 +30,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-k6.1](../bbugyi200.apollo.bob-cli-k6.1/README.md) | bob-cli-k6 hood | completed |
-| [bob-cli-k6.land](../bbugyi200.apollo.bob-cli-k6.land/README.md) | bob-cli-k6 hood | waiting |
+| [bob-cli-k6.land](../../sessions/bbugyi200.apollo.bob-cli-k6.land.md) (session · 3) | bob-cli-k6 hood | active 2, completed 1 |
