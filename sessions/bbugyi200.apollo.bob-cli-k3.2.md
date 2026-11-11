@@ -27,14 +27,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-k3.2.1.1](../agents/bbugyi200.apollo.bob-cli-k3.2.1.1/README.md) | descendant | active |
-| [bob-cli-k3.2.1.2](../agents/bbugyi200.apollo.bob-cli-k3.2.1.2/README.md) | descendant | waiting |
+| [bob-cli-k3.2.1.1](bbugyi200.apollo.bob-cli-k3.2.1.1.md) (session · 5) | descendant | active 5 |
+| [bob-cli-k3.2.1.2](../agents/bbugyi200.apollo.bob-cli-k3.2.1.2/README.md) | descendant | failed |
 | [bob-cli-k3.2.1.3](../agents/bbugyi200.apollo.bob-cli-k3.2.1.3/README.md) | descendant | waiting |
 | [bob-cli-k3.2.1.land](../agents/bbugyi200.apollo.bob-cli-k3.2.1.land/README.md) | descendant | waiting |
 | [bob-cli-k3.1](../agents/bbugyi200.apollo.bob-cli-k3.1/README.md) | bob-cli-k3 hood | active |
 | [bob-cli-k3.10](../agents/bbugyi200.apollo.bob-cli-k3.10/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.11](../agents/bbugyi200.apollo.bob-cli-k3.11/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.3](../agents/bbugyi200.apollo.bob-cli-k3.3/README.md) | bob-cli-k3 hood | active |
+| [bob-cli-k3.3](bbugyi200.apollo.bob-cli-k3.3.md) (session · 3) | bob-cli-k3 hood | completed 3 |
 | [bob-cli-k3.4](../agents/bbugyi200.apollo.bob-cli-k3.4/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.5](../agents/bbugyi200.apollo.bob-cli-k3.5/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.6](../agents/bbugyi200.apollo.bob-cli-k3.6/README.md) | bob-cli-k3 hood | waiting |

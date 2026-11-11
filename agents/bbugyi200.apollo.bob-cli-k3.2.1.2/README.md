@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-k3](../../users/bbugyi200/machines/apollo/hoods/bob-cli-k3/README.md) / bob-cli-k3.2.1.2
 
-**Global name:** `bbugyi200.apollo.bob-cli-k3.2.1.2` · **State:** waiting · **Source run:** `run-3ed66df4b466c14699564412c0111316`
+**Global name:** `bbugyi200.apollo.bob-cli-k3.2.1.2` · **State:** failed · **Source run:** `run-3ed66df4b466c14699564412c0111316`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-k3
 
@@ -12,25 +12,25 @@
 - Epic: [bob-cli-k3.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-k3/bob-cli-k3.2.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261111050744
+- Timing: 2026-11-11T11:01:39.316963+00:00 → 2026-11-11T11:05:14.080161+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-k3.2](../../sessions/bbugyi200.apollo.bob-cli-k3.2.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-k3.2.1.1](../bbugyi200.apollo.bob-cli-k3.2.1.1/README.md) | bob-cli-k3.2.1 hood | active |
+| [bob-cli-k3.2.1.1](../../sessions/bbugyi200.apollo.bob-cli-k3.2.1.1.md) (session · 5) | bob-cli-k3.2.1 hood | active 5 |
 | [bob-cli-k3.2.1.3](../bbugyi200.apollo.bob-cli-k3.2.1.3/README.md) | bob-cli-k3.2.1 hood | waiting |
 | [bob-cli-k3.2.1.land](../bbugyi200.apollo.bob-cli-k3.2.1.land/README.md) | bob-cli-k3.2.1 hood | waiting |
 | [bob-cli-k3.1](../bbugyi200.apollo.bob-cli-k3.1/README.md) | bob-cli-k3 hood | active |
 | [bob-cli-k3.10](../bbugyi200.apollo.bob-cli-k3.10/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.11](../bbugyi200.apollo.bob-cli-k3.11/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.3](../bbugyi200.apollo.bob-cli-k3.3/README.md) | bob-cli-k3 hood | active |
+| [bob-cli-k3.3](../../sessions/bbugyi200.apollo.bob-cli-k3.3.md) (session · 3) | bob-cli-k3 hood | completed 3 |
 | [bob-cli-k3.4](../bbugyi200.apollo.bob-cli-k3.4/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.5](../bbugyi200.apollo.bob-cli-k3.5/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.6](../bbugyi200.apollo.bob-cli-k3.6/README.md) | bob-cli-k3 hood | waiting |
