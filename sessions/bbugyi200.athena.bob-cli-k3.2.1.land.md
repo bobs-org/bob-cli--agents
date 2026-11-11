@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-k3` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-k3.2.1.land--plan [active]"]
-  n1["bob-cli-k3.2.1.land--code [active]"]
+  n0["bob-cli-k3.2.1.land--plan [completed]"]
+  n1["bob-cli-k3.2.1.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-k3.2.1.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-k3.2.1.land--plan | active | gpt-6-astra / codex | 2026-11-11T13:18:38.556136+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.2.1.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-k3.2.1.land--code | active | grok-4.6 / grok | 2026-11-11T13:38:28.998244+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-k3.2.1.land--plan | completed | gpt-6-astra / codex | 2026-11-11T13:18:38.556136+00:00 → 2026-11-11T14:12:59.644422+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.2.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-k3.2.1.land--code | completed | grok-4.6 / grok | 2026-11-11T13:38:28.998244+00:00 → 2026-11-11T14:12:59.644422+00:00 | [1](../agents/bbugyi200.athena.bob-cli-k3.2.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-k3.2.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-k3.2.1.land--gate | completed | gpt-6-astra / codex | 2026-11-11T13:37:26.339851+00:00 → 2026-11-11T13:37:52.166650+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-k3.2.1.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`ba3f51b`](https://github.com/bobs-org/bob-cli/commit/ba3f51bad3bd491d66e739a895ce4de99149329f) | fix(albums): confine routes, recover nouns, and restore report diagnostics | 2026-11-11 09:11:57 EST |
 
 ## Neighbors
 

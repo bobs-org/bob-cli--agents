@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-k3](../../users/bbugyi200/machines/athena/hoods/bob-cli-k3/README.md) / [bob-cli-k3.2.1.land](../../sessions/bbugyi200.athena.bob-cli-k3.2.1.land.md) / bob-cli-k3.2.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-k3.2.1.land--code` · **State:** active · **Source run:** `run-4a841fa9498fab2fdf7dd1ebaa1fe1b3`
+**Global name:** `bbugyi200.athena.bob-cli-k3.2.1.land--code` · **State:** completed · **Source run:** `run-4a841fa9498fab2fdf7dd1ebaa1fe1b3`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-k3
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-k3.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-k3/bob-cli-k3.2.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-11T13:38:28.998244+00:00
-- Commits: 0
+- Timing: 2026-11-11T13:38:28.998244+00:00 → 2026-11-11T14:12:59.644422+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`ba3f51b`](https://github.com/bobs-org/bob-cli/commit/ba3f51bad3bd491d66e739a895ce4de99149329f) | fix(albums): confine routes, recover nouns, and restore report diagnostics | 2026-11-11 09:11:57 EST |
 
 ## Neighbors
 
