@@ -35,7 +35,7 @@
 | [05g](hoods/05g/README.md) | 1 | 0 | completed 1 |
 | [06y](hoods/06y/README.md) | 1 | 0 | completed 1 |
 | [071](hoods/071/README.md) | 2 | 0 | completed 2 |
-| [08](hoods/08/README.md) | 4 | 1 | active 2, completed 1, failed 1 |
+| [08](hoods/08/README.md) | 4 | 1 | completed 1, dismissed 2, failed 1 |
 | [08w](hoods/08w/README.md) | 5 | 0 | completed 5 |
 | [0a](hoods/0a/README.md) | 1 | 0 | completed 1 |
 | [0ae](hoods/0ae/README.md) | 1 | 0 | completed 1 |
