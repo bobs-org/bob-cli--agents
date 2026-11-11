@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-873944eba467aa3310be784e96fe428d"}
+{"commits":[{"committed_at":1794415391,"sha":"3d1c0763871e992e6aa8ca652eebda69cddf0b26","subject":"feat(capture): use album registry across targets and completion"}],"schema_version":2,"source_run_id":"run-873944eba467aa3310be784e96fe428d"}
