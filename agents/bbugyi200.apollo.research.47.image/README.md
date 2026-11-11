@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.47.image
 
-**Global name:** `bbugyi200.apollo.research.47.image` · **State:** waiting · **Source run:** `run-1fc64540b474d1748301ea1b3a628533`
+**Global name:** `bbugyi200.apollo.research.47.image` · **State:** completed · **Source run:** `run-1fc64540b474d1748301ea1b3a628533`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,42 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261111094238
+- Timing: 2026-11-11T15:30:25.230890+00:00 → 2026-11-11T15:38:57.269826+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/bank\_daily\_acknowledgment/bank\_daily\_acknowledgment\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111094238/bank\_daily\_acknowl… |
+| `diagrams` | {considered: 17, count: 0, reason: Container choice: existing Figure 1 already shows ownership; the alternatives and adjustments tables already show the choice.; Habit recovery and purpose: the befor… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/bank_daily_acknowledgment/bank_daily_acknowledgment_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111094238/bank_daily_acknowledgment_infographic-af2e44282e68.png
+  ref: file:explicit:67df7e9e17a1bfdcc68dfc17
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/bank_daily_acknowledgment/bank_daily_acknowledgment_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 17
+count: 0
+reason: Container choice: existing Figure 1 already shows ownership; the alternatives and adjustments tables already show the choice.; Habit recovery and purpose: the before/after difference is fully explained by the one-sentence retype-versus-tick contrast and short lapse paragraph; historical evidence is already tabulated.; Research disagreement: this would redraw the question/positions/resolution table.; Daily and weekly loop: duplicates existing Figure 2 and the daily/weekly short procedure lists.; Reconciliation: the three-item check list and single result paragraph already show every requirement and outcome; drawing a gate would add an unstated evaluation order.; Money semantics: the short totals list already gives each classification, including the card-payment example.; Phased rollout: the phase table already states scope and every dependency; do not turn a table into a diagram.; Matching without guessing: the compact prerequisite/tie rules and acceptance table already state every branch that a matching decision tree would draw.; Human edits and deletion: write-once and tombstone bullets plus the acceptance table already state the outcomes; a lifecycle would duplicate these.; Import failure and stale months: the short failure rules and acceptance table already show batch refusal and staleness; no connecting lifecycle is stated.; Learned payees: normalization then reuse is a short linear chain, with overrides and restaurant suggestions already stated in a small list.; Derived views: duplicates Figure 1 and would be a recompute fan-out; the textual mockup already shows the visual result.; Subscription suggestions: price-change and repeated-charge conditions are a two-item list, with proposes-never-creates in its heading.; Privacy boundaries: the concise storage checklist already assigns each data kind; drawing agent access as enforced would overstate an open question.; CLI safety: the compact command sketch and short behavior list already show the read/import distinction and exit outcomes.; Unresolved user choices: five independent preferences, with no stated order, branching dependency, or mechanism.; Evidence provenance: a source inventory has no stated flow, state, ordering, or ownership question requiring a figure.
+source_ref: file:explicit:22aed8729dc8446551db7e0f
+status: none
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

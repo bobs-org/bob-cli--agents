@@ -141,11 +141,11 @@
 | [59](hoods/59/README.md) | 9 | 2 | completed 5, dismissed 1, failed 3 |
 | [5a](hoods/5a/README.md) | 3 | 1 | completed 1, failed 2 |
 | [5b](hoods/5b/README.md) | 1 | 0 | completed 1 |
-| [5c](hoods/5c/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [5d](hoods/5d/README.md) | 5 | 1 | active 2, completed 2, failed 1 |
+| [5c](hoods/5c/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
+| [5d](hoods/5d/README.md) | 5 | 1 | active 1, completed 2, dismissed 1, failed 1 |
 | [5e](hoods/5e/README.md) | 8 | 1 | completed 5, failed 3 |
-| [5f](hoods/5f/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [5g](hoods/5g/README.md) | 5 | 1 | active 1, completed 3, failed 1 |
+| [5f](hoods/5f/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
+| [5g](hoods/5g/README.md) | 5 | 1 | completed 3, dismissed 1, failed 1 |
 | [5h](hoods/5h/README.md) | 1 | 0 | completed 1 |
 | [5i](hoods/5i/README.md) | 3 | 1 | failed 3 |
 | [5j](hoods/5j/README.md) | 4 | 1 | completed 1, failed 3 |
@@ -430,7 +430,7 @@
 | [home-2](hoods/home-2/README.md) | 6 | 0 | completed 6 |
 | [jr](hoods/jr/README.md) | 2 | 0 | completed 2 |
 | [m3](hoods/m3/README.md) | 1 | 0 | completed 1 |
-| [research](hoods/research/README.md) | 939 | 46 | active 123, completed 291, dismissed 483, failed 40, waiting 2 |
+| [research](hoods/research/README.md) | 939 | 46 | active 123, completed 292, dismissed 483, failed 40, waiting 1 |
 | [research\_swarm](hoods/research_swarm/README.md) | 1 | 0 | completed 1 |
 | [sase-51](hoods/sase-51/README.md) | 1 | 0 | completed 1 |
 | [sase-60](hoods/sase-60/README.md) | 1 | 0 | completed 1 |
