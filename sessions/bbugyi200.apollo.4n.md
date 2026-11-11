@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `4n` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["4n--plan [active]"]
+  n0["4n--plan [dismissed]"]
   n1["4n--gate [failed]"]
   n0 --> n1
   n2["4n--code [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 4n--plan | active | gpt-6-astra / codex | 2026-10-03T13:04:13.288857+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.4n--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.4n--plan/chat.md) |
+| <a id="member-plan"></a>plan | 4n--plan | dismissed | gpt-6-astra / codex | 2026-10-03T09:04:13.288857 → 2026-10-03T09:19:43.510226 | 0 | [Prompt](../agents/bbugyi200.apollo.4n--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.4n--plan/chat.md) |
 | <a id="member-gate"></a>gate | 4n--gate | failed | gpt-6-astra / codex | 2026-10-03T13:12:16.397390+00:00 → 2026-10-03T13:12:24.133718+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.4n--gate/chat.md) |
 | <a id="member-code"></a>code | 4n--code | completed | muse-spark-1.3-contributor / muse | 2026-10-03T13:12:30.002662+00:00 → 2026-10-03T13:19:43.484706+00:00 | [1](../agents/bbugyi200.apollo.4n--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.4n--code/chat.md) |
 
@@ -27,4 +27,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`6b64231`](https://github.com/bobs-org/bob-cli/commit/6b6423186314af3a8e7f70a3d61ee7fe0763f856) | docs(freshness): document \[S/\]S first/last review-stack jumps | 2026-10-03 09:17:52 EDT |
+| code | — | `6b64231` | docs(freshness): document \[S/\]S first/last review-stack jumps | 2026-10-03 09:17:52 EDT |

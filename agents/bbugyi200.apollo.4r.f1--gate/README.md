@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [4r](../../sessions/bbugyi200.apollo.4r.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [4r](../../sessions/bbugyi200.apollo.4r.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
 | [4r.f1.f0](../bbugyi200.apollo.4r.f1.f0/README.md) | descendant | failed |
 | [4r.f0](../bbugyi200.apollo.4r.f0/README.md) | 4r hood | active |

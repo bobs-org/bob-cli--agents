@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`86f5eaf`](https://github.com/bobs-org/bob-cli/commit/86f5eaf4afd01abb13d89f4fc9657a2b2ed12b21) | feat(freshness): review project and reference tracking tasks in PROJECTS tier | 2026-10-03 11:45:34 EDT |
+| — | `86f5eaf` | feat(freshness): review project and reference tracking tasks in PROJECTS tier | 2026-10-03 11:45:34 EDT |
 
 ## Neighbors
 

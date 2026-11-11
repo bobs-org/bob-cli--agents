@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`129f3b8`](https://github.com/bobs-org/bob-cli/commit/129f3b80611ea36d73950744b140f76e396204d5) | feat(freshness): correct tracker review eligibility, cadence, and schema 6 | 2026-10-03 13:22:04 EDT |
+| — | `129f3b8` | feat(freshness): correct tracker review eligibility, cadence, and schema 6 | 2026-10-03 13:22:04 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [4r](../../sessions/bbugyi200.apollo.4r.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [4r](../../sessions/bbugyi200.apollo.4r.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
 | [4r.f1.f0](../bbugyi200.apollo.4r.f1.f0/README.md) | descendant | failed |
 | [4r.f0](../bbugyi200.apollo.4r.f0/README.md) | 4r hood | active |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6b64231`](https://github.com/bobs-org/bob-cli/commit/6b6423186314af3a8e7f70a3d61ee7fe0763f856) | docs(freshness): document \[S/\]S first/last review-stack jumps | 2026-10-03 09:17:52 EDT |
+| — | `6b64231` | docs(freshness): document \[S/\]S first/last review-stack jumps | 2026-10-03 09:17:52 EDT |
