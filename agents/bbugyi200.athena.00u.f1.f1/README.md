@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6ec944a`](https://github.com/bobs-org/bob-cli/commit/6ec944a6a388aaa3de05ee699431ac34953149d3) | chore: Add SDD prompt and plan for open\_task\_notice\_dedup | 2026-06-19 08:08:56 EDT |
+| — | `6ec944a` | chore: Add SDD prompt and plan for open\_task\_notice\_dedup | 2026-06-19 08:08:56 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [00u.f1](../bbugyi200.athena.00u.f1/README.md) | ancestor | completed |
-| [00u](../bbugyi200.athena.00u/README.md) | ancestor | active |
+| [00u](../bbugyi200.athena.00u/README.md) | ancestor | dismissed |
 | [00u.f1.f2](../bbugyi200.athena.00u.f1.f2/README.md) | 00u.f1 hood | completed |

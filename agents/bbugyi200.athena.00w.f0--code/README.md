@@ -22,8 +22,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [00w](../bbugyi200.athena.00w/README.md) | ancestor | completed |
-| [00w.f0.f0](../../sessions/bbugyi200.athena.00w.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [00w.f0.f0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.md) (session · 2) | descendant | active 1, failed 1 |
-| [00w.f0.f0.w0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.md) (session · 2) | descendant | active 1, failed 1 |
-| [00w.f0.f0.w0.w0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (session · 2) | descendant | active 1, completed 1 |
-| [00w.f0.f0.w0.w0.w0.f0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) (session · 2) | descendant | active 2 |
+| [00w.f0.f0](../../sessions/bbugyi200.athena.00w.f0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [00w.f0.f0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.md) (session · 2) | descendant | dismissed 1, failed 1 |
+| [00w.f0.f0.w0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.md) (session · 2) | descendant | dismissed 1, failed 1 |
+| [00w.f0.f0.w0.w0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [00w.f0.f0.w0.w0.w0.f0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) (session · 2) | descendant | active 1, dismissed 1 |

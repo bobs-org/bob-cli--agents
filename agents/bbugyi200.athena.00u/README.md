@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00u](../../users/bbugyi200/machines/athena/hoods/00u/README.md) / 00u
 
-**Global name:** `bbugyi200.athena.00u` · **State:** active · **Source run:** `run-35c192dd350206299403768835bca67a`
+**Global name:** `bbugyi200.athena.00u` · **State:** dismissed · **Source run:** `run-35c192dd350206299403768835bca67a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 00u
 
@@ -10,7 +10,7 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-08-14T12:45:38.877874+00:00
+- Timing: 2026-08-14T08:45:38.877874 → 2026-08-14T08:46:05.231877
 - Commits: [2](#commits)
 
 ## Files
@@ -21,8 +21,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f3e13e9`](https://github.com/bobs-org/bob-cli/commit/f3e13e9cc52106158ac83c8b5edd8f6bd8859d0f) | chore: Add SDD prompt and plan for obsidian\_open\_task\_jumps | 2026-06-19 07:40:10 EDT |
-| bob-cli | [`9e43abb`](https://github.com/bobs-org/bob-cli/commit/9e43abb4b3a0a90e614000a9759a93085e09749e) | chore: Mark SDD plan done | 2026-06-19 08:04:44 EDT |
+| — | `f3e13e9` | chore: Add SDD prompt and plan for obsidian\_open\_task\_jumps | 2026-06-19 07:40:10 EDT |
+| — | `9e43abb` | chore: Mark SDD plan done | 2026-06-19 08:04:44 EDT |
 
 ## Neighbors
 

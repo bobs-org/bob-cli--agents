@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [00w](../../users/bbugyi200/machines/athena/hoods/00w/README.md) / [00w.f0.f0.w0.w0.w0.f0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0.md) / 00w.f0.f0.w0.w0.w0.f0--plan
 
-**Global name:** `bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0--plan` · **State:** active · **Source run:** `run-6ace2560f1bb62a544dedbf6b366e839`
+**Global name:** `bbugyi200.athena.00w.f0.f0.w0.w0.w0.f0--plan` · **State:** dismissed · **Source run:** `run-6ace2560f1bb62a544dedbf6b366e839`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 00w
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-08-14T15:29:55.268199+00:00
+- Timing: 2026-08-14T11:29:55.268199 → 2026-08-14T11:36:45.816547
 - Commits: 0
 
 ## Files
@@ -21,9 +21,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [00w.f0.f0.w0.w0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [00w.f0.f0.w0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.md) (session · 2) | ancestor | active 1, failed 1 |
-| [00w.f0.f0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.md) (session · 2) | ancestor | active 1, failed 1 |
-| [00w.f0.f0](../../sessions/bbugyi200.athena.00w.f0.f0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [00w.f0](../../sessions/bbugyi200.athena.00w.f0.md) (session · 2) | ancestor | active 1, completed 1 |
+| [00w.f0.f0.w0.w0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.w0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [00w.f0.f0.w0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.w0.md) (session · 2) | ancestor | dismissed 1, failed 1 |
+| [00w.f0.f0.w0](../../sessions/bbugyi200.athena.00w.f0.f0.w0.md) (session · 2) | ancestor | dismissed 1, failed 1 |
+| [00w.f0.f0](../../sessions/bbugyi200.athena.00w.f0.f0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [00w.f0](../../sessions/bbugyi200.athena.00w.f0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
 | [00w](../bbugyi200.athena.00w/README.md) | ancestor | completed |

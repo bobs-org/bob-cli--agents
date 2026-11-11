@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`526a752`](https://github.com/bobs-org/bob-cli/commit/526a752edfc059b336372aba324622c7f16adac2) | chore: Add SDD prompt and plan for obsidian\_open\_task\_jump\_cycling | 2026-06-19 07:59:02 EDT |
+| — | `526a752` | chore: Add SDD prompt and plan for obsidian\_open\_task\_jump\_cycling | 2026-06-19 07:59:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [00u](../bbugyi200.athena.00u/README.md) | ancestor | active |
+| [00u](../bbugyi200.athena.00u/README.md) | ancestor | dismissed |
 | [00u.f1.f1](../bbugyi200.athena.00u.f1.f1/README.md) | descendant | completed |
 | [00u.f1.f2](../bbugyi200.athena.00u.f1.f2/README.md) | descendant | completed |
