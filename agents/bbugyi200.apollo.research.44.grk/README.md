@@ -12,17 +12,36 @@
 - Provider: grok
 - Timing: 2026-11-11T11:46:11.445402+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/leaf\_task\_link\_keep\_moving\_mark\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111064507/leaf\_task\_link\_keep\_moving\_mark\_\_grk-33f… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/leaf_task_link_keep_moving_mark__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111064507/leaf_task_link_keep_moving_mark__grk-33f51828188b.md
+  ref: file:explicit:31fd0c2117bcf58ccf781b26
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/leaf_task_link_keep_moving_mark__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.44.cdx](../bbugyi200.apollo.research.44.cdx/README.md) | research.44 hood | active |
-| [research.44.cld](../bbugyi200.apollo.research.44.cld/README.md) | research.44 hood | active |
+| [research.44.cdx](../bbugyi200.apollo.research.44.cdx/README.md) | research.44 hood | completed |
+| [research.44.cld](../bbugyi200.apollo.research.44.cld/README.md) | research.44 hood | completed |
 | [research.44.final](../bbugyi200.apollo.research.44.final/README.md) | research.44 hood | waiting |
 | [research.44.gem](../bbugyi200.apollo.research.44.gem/README.md) | research.44 hood | completed |
 | [research.44.image](../bbugyi200.apollo.research.44.image/README.md) | research.44 hood | waiting |

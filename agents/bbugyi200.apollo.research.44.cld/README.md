@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.44.cld
 
-**Global name:** `bbugyi200.apollo.research.44.cld` · **State:** active · **Source run:** `run-bcc88c5d6fe70ee429715c5306f16e2e`
+**Global name:** `bbugyi200.apollo.research.44.cld` · **State:** completed · **Source run:** `run-bcc88c5d6fe70ee429715c5306f16e2e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,18 +10,37 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-11T11:45:47.342538+00:00
+- Timing: 2026-11-11T11:45:47.342538+00:00 → 2026-11-11T12:01:17.764902+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/leaf\_project\_keep\_moving\_link\_marks\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111064506/leaf\_project\_keep\_moving\_link\_marks\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/leaf_project_keep_moving_link_marks__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111064506/leaf_project_keep_moving_link_marks__cld-f015023acb1c.md
+  ref: file:explicit:eb0d2951492f3da5cc3c303e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/leaf_project_keep_moving_link_marks__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.44.cdx](../bbugyi200.apollo.research.44.cdx/README.md) | research.44 hood | active |
+| [research.44.cdx](../bbugyi200.apollo.research.44.cdx/README.md) | research.44 hood | completed |
 | [research.44.final](../bbugyi200.apollo.research.44.final/README.md) | research.44 hood | waiting |
 | [research.44.gem](../bbugyi200.apollo.research.44.gem/README.md) | research.44 hood | completed |
 | [research.44.grk](../bbugyi200.apollo.research.44.grk/README.md) | research.44 hood | active |

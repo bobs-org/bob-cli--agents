@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.44.cdx
 
-**Global name:** `bbugyi200.apollo.research.44.cdx` · **State:** active · **Source run:** `run-78f302deb725c31510693aae0098e856`
+**Global name:** `bbugyi200.apollo.research.44.cdx` · **State:** completed · **Source run:** `run-78f302deb725c31510693aae0098e856`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,18 +10,42 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-11T11:45:34.362177+00:00
+- Timing: 2026-11-11T11:45:34.362177+00:00 → 2026-11-11T12:00:35.480402+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: file, label: research:202611/project\_continuation\_badge\_scope\_count\_and\_design\_\_cdx.svg, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111064505/project\_continuation\_badg… |
+
+#### artifacts
+
+```yaml
+- kind: file
+  label: research:202611/project_continuation_badge_scope_count_and_design__cdx.svg
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111064505/project_continuation_badge_scope_count_and_design__cdx-cf126629f5a4.svg
+  ref: file:explicit:1f361472de5b3a08909d3d0b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/project_continuation_badge_scope_count_and_design__cdx.svg
+- kind: markdown
+  label: research:202611/project_continuation_badge_scope_count_and_design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111064505/project_continuation_badge_scope_count_and_design__cdx-66c4c13fb003.md
+  ref: file:explicit:bcc4fe168285182233c1529d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/project_continuation_badge_scope_count_and_design__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.44.cld](../bbugyi200.apollo.research.44.cld/README.md) | research.44 hood | active |
+| [research.44.cld](../bbugyi200.apollo.research.44.cld/README.md) | research.44 hood | completed |
 | [research.44.final](../bbugyi200.apollo.research.44.final/README.md) | research.44 hood | waiting |
 | [research.44.gem](../bbugyi200.apollo.research.44.gem/README.md) | research.44 hood | completed |
 | [research.44.grk](../bbugyi200.apollo.research.44.grk/README.md) | research.44 hood | active |
