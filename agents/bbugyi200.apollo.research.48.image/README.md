@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.48.image
 
-**Global name:** `bbugyi200.apollo.research.48.image` · **State:** active · **Source run:** `run-74aca7bcf6685d998d481cae4be7138f`
+**Global name:** `bbugyi200.apollo.research.48.image` · **State:** completed · **Source run:** `run-74aca7bcf6685d998d481cae4be7138f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261111101023
+- Timing: 2026-11-11T15:48:03.317152+00:00 → 2026-11-11T15:57:48.067168+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/cmd\_y\_copy\_card/cmd\_y\_copy\_card\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111101023/cmd\_y\_copy\_card\_infographic-5bd5… |
+| `diagrams` | {considered: 15, count: 1, manifest: 202611/cmd\_y\_copy\_card/cmd\_y\_copy\_card.diagrams.md, source\_ref: file:explicit:e7f318a48b83289a25ec6400, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/cmd_y_copy_card/cmd_y_copy_card_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111101023/cmd_y_copy_card_infographic-5bd57c4829c8.png
+  ref: file:explicit:fd398a8e0dc2f0c7f829e887
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/cmd_y_copy_card/cmd_y_copy_card_infographic.png
+- kind: markdown
+  label: diagrams:202611/cmd_y_copy_card/cmd_y_copy_card.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111101023/cmd_y_copy_card.diagrams-add9b7d83667.md
+  ref: file:explicit:d321baf464d1468cdf000c9f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/cmd_y_copy_card/cmd_y_copy_card.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 1
+manifest: 202611/cmd_y_copy_card/cmd_y_copy_card.diagrams.md
+source_ref: file:explicit:e7f318a48b83289a25ec6400
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
