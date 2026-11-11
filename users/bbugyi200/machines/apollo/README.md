@@ -121,11 +121,11 @@
 | [4k](hoods/4k/README.md) | 4 | 1 | completed 2, dismissed 1, failed 1 |
 | [4l](hoods/4l/README.md) | 2 | 0 | completed 1, dismissed 1 |
 | [4m](hoods/4m/README.md) | 3 | 1 | dismissed 1, failed 2 |
-| [4n](hoods/4n/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [4o](hoods/4o/README.md) | 3 | 1 | active 1, failed 2 |
-| [4p](hoods/4p/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [4q](hoods/4q/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [4r](hoods/4r/README.md) | 8 | 2 | active 2, completed 3, failed 3 |
+| [4n](hoods/4n/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
+| [4o](hoods/4o/README.md) | 3 | 1 | dismissed 1, failed 2 |
+| [4p](hoods/4p/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
+| [4q](hoods/4q/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
+| [4r](hoods/4r/README.md) | 8 | 2 | active 1, completed 3, dismissed 1, failed 3 |
 | [4v](hoods/4v/README.md) | 3 | 1 | completed 2, failed 1 |
 | [4w](hoods/4w/README.md) | 3 | 1 | completed 2, failed 1 |
 | [4x](hoods/4x/README.md) | 3 | 1 | completed 2, failed 1 |
