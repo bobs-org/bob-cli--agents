@@ -17,10 +17,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f4a60e7`](https://github.com/bobs-org/bob-cli/commit/f4a60e7ec65e993bb2ece4d0e63f055b7d25d2fe) | feat(capture): support canonical Pomodoro colon markers | 2026-07-10 16:46:00 EDT |
+| — | `f4a60e7` | feat(capture): support canonical Pomodoro colon markers | 2026-07-10 16:46:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [4l](../bbugyi200.apollo.4l/README.md) | ancestor | active |
+| [4l](../bbugyi200.apollo.4l/README.md) | ancestor | dismissed |

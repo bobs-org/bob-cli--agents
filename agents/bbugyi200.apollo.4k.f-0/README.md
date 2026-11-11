@@ -17,10 +17,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ddb1e54`](https://github.com/bobs-org/bob-cli/commit/ddb1e54013852313537e85f0b8b856b0969d7dde) | feat(projects): mark future-scheduled sub-projects | 2026-07-10 13:43:07 EDT |
+| — | `ddb1e54` | feat(projects): mark future-scheduled sub-projects | 2026-07-10 13:43:07 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [4k](../../sessions/bbugyi200.apollo.4k.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [4k](../../sessions/bbugyi200.apollo.4k.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

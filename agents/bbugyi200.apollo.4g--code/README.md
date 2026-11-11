@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2b99de6`](https://github.com/bobs-org/bob-cli/commit/2b99de6a1ea7481dcbe6eb8248bb79b45a78127d) | docs(deps): document Warm-empty ready and cancellable chunked fallback | 2026-10-03 07:55:00 EDT |
+| — | `2b99de6` | docs(deps): document Warm-empty ready and cancellable chunked fallback | 2026-10-03 07:55:00 EDT |

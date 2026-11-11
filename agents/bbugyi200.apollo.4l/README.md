@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [4l](../../users/bbugyi200/machines/apollo/hoods/4l/README.md) / 4l
 
-**Global name:** `bbugyi200.apollo.4l` · **State:** active · **Source run:** `run-4d3abf6c72e271963b8c7351345a0935`
+**Global name:** `bbugyi200.apollo.4l` · **State:** dismissed · **Source run:** `run-4d3abf6c72e271963b8c7351345a0935`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 4l
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-10-03T12:54:28.336856+00:00
+- Timing: 2026-10-03T08:54:28.336856
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`15ec5ac`](https://github.com/bobs-org/bob-cli/commit/15ec5ac94d202575075309e5265fd663206af930) | feat(capture): link routed tasks to pomodoros | 2026-07-10 13:50:45 EDT |
+| — | `15ec5ac` | feat(capture): link routed tasks to pomodoros | 2026-07-10 13:50:45 EDT |
 
 ## Neighbors
 
