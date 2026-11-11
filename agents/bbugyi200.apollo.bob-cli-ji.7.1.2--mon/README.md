@@ -40,5 +40,5 @@
 | [bob-cli-ji.8.2](../bbugyi200.apollo.bob-cli-ji.8.2/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.3](../bbugyi200.apollo.bob-cli-ji.8.3/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.4](../bbugyi200.apollo.bob-cli-ji.8.4/README.md) | bob-cli-ji hood | completed |
-| [bob-cli-ji.8.land](../../sessions/bbugyi200.apollo.bob-cli-ji.8.land.md) (session · 3) | bob-cli-ji hood | active 2, completed 1 |
+| [bob-cli-ji.8.land](../../sessions/bbugyi200.apollo.bob-cli-ji.8.land.md) (session · 4) | bob-cli-ji hood | active 1, completed 3 |
 | [bob-cli-ji.land](../../sessions/bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | active 1, completed 2 |
