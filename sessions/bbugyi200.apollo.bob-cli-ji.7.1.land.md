@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-ji.7.1.land--7 [completed]"]
   n1["bob-cli-ji.7.1.land--5 [completed]"]
   n0 --> n1
-  n2["bob-cli-ji.7.1.land--9 [active]"]
+  n2["bob-cli-ji.7.1.land--9 [completed]"]
   n0 --> n2
   n3["bob-cli-ji.7.1.land--code [completed]"]
   n0 --> n3
@@ -57,7 +57,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-7"></a>7 | bob-cli-ji.7.1.land--7 | completed | gpt-6-luna / codex | 2026-11-11T01:43:33.336367+00:00 → 2026-11-11T01:45:28.671918+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--7/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--7/chat.md) |
 | <a id="member-5"></a>5 | bob-cli-ji.7.1.land--5 | completed | gpt-6-luna / codex | 2026-11-11T01:02:03.489753+00:00 → 2026-11-11T01:15:23.632717+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--5/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--5/chat.md) |
-| <a id="member-9"></a>9 | bob-cli-ji.7.1.land--9 | active | gpt-6-luna / codex | 2026-11-11T03:05:59.353745+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--9/prompt.md) | — |
+| <a id="member-9"></a>9 | bob-cli-ji.7.1.land--9 | completed | gpt-6-luna / codex | 2026-11-11T03:05:59.353745+00:00 → 2026-11-11T03:09:48.610643+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--9/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--9/chat.md) |
 | <a id="member-code"></a>code | bob-cli-ji.7.1.land--code | completed | gpt-6-luna / codex | 2026-11-10T22:37:38.505008+00:00 → 2026-11-10T23:14:54.047036+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--code/chat.md) |
 | <a id="member-mon-6"></a>mon-6 | bob-cli-ji.7.1.land--mon-6 | failed | gpt-6-luna / codex | 2026-11-11T01:44:50.357761+00:00 → 2026-11-11T02:06:01.097643+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--mon-6/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ji.7.1.land--gate | completed | opus / claude | 2026-11-10T22:37:01.682750+00:00 → 2026-11-10T22:37:13.745746+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--gate/chat.md) |
@@ -101,4 +101,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ji.4](../agents/bbugyi200.apollo.bob-cli-ji.4/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.5](../agents/bbugyi200.apollo.bob-cli-ji.5/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.6](../agents/bbugyi200.apollo.bob-cli-ji.6/README.md) | bob-cli-ji hood | completed |
-| [bob-cli-ji.land](../agents/bbugyi200.apollo.bob-cli-ji.land/README.md) | bob-cli-ji hood | waiting |
+| [bob-cli-ji.8.1](../agents/bbugyi200.apollo.bob-cli-ji.8.1/README.md) | bob-cli-ji hood | active |
+| [bob-cli-ji.8.2](../agents/bbugyi200.apollo.bob-cli-ji.8.2/README.md) | bob-cli-ji hood | waiting |
+| [bob-cli-ji.8.3](../agents/bbugyi200.apollo.bob-cli-ji.8.3/README.md) | bob-cli-ji hood | waiting |
+| [bob-cli-ji.8.4](../agents/bbugyi200.apollo.bob-cli-ji.8.4/README.md) | bob-cli-ji hood | waiting |
+| [bob-cli-ji.land](bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | active 1, completed 2 |
