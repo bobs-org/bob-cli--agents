@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [36.w0](../../sessions/bbugyi200.apollo.36.w0.md) (session · 3) | descendant | active 1, failed 2 |
+| [36.w0](../../sessions/bbugyi200.apollo.36.w0.md) (session · 3) | descendant | dismissed 1, failed 2 |

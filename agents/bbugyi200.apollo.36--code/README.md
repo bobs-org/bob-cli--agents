@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`dcf7db2`](https://github.com/bobs-org/bob-cli/commit/dcf7db203008eb6ff72283e05caab3f9403836dd) | feat(capture): support same-line Pomodoro session operator chains | 2026-09-29 18:54:43 EDT |
+| — | `dcf7db2` | feat(capture): support same-line Pomodoro session operator chains | 2026-09-29 18:54:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [36.w0](../../sessions/bbugyi200.apollo.36.w0.md) (session · 3) | descendant | active 1, failed 2 |
+| [36.w0](../../sessions/bbugyi200.apollo.36.w0.md) (session · 3) | descendant | dismissed 1, failed 2 |

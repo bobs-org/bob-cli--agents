@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [36](../../users/bbugyi200/machines/apollo/hoods/36/README.md) / [36](../../sessions/bbugyi200.apollo.36.md) / 36--plan
 
-**Global name:** `bbugyi200.apollo.36--plan` · **State:** active · **Source run:** `run-fda741241e304038e6880fba26607e24`
+**Global name:** `bbugyi200.apollo.36--plan` · **State:** dismissed · **Source run:** `run-fda741241e304038e6880fba26607e24`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 36
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-09-29T22:21:58.415403+00:00
+- Timing: 2026-09-29T18:21:58.415403 → 2026-09-29T18:55:27.054106
 - Commits: 0
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [36.w0](../../sessions/bbugyi200.apollo.36.w0.md) (session · 3) | descendant | active 1, failed 2 |
+| [36.w0](../../sessions/bbugyi200.apollo.36.w0.md) (session · 3) | descendant | dismissed 1, failed 2 |
