@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b068045`](https://github.com/bobs-org/bob-cli/commit/b068045cf57e2e36e59179460de80f278e47d053) | fix(capture): place new started pomodoro before first open entry | 2026-09-27 08:21:01 EDT |
+| — | `b068045` | fix(capture): place new started pomodoro before first open entry | 2026-09-27 08:21:01 EDT |
