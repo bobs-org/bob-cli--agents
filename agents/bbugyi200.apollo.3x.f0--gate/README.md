@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [3x](../../sessions/bbugyi200.apollo.3x.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [3x](../../sessions/bbugyi200.apollo.3x.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`cd7a8cf`](https://github.com/bobs-org/bob-cli/commit/cd7a8cf9397dcf71b9f0f298ecb1aff1fbb332fd) | docs(plan): document the plugin-only ready\_cap\_exceeded lint | 2026-10-01 14:36:50 EDT |
+| — | `cd7a8cf` | docs(plan): document the plugin-only ready\_cap\_exceeded lint | 2026-10-01 14:36:50 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3x](../../sessions/bbugyi200.apollo.3x.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [3x](../../sessions/bbugyi200.apollo.3x.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

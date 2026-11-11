@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c857c30`](https://github.com/bobs-org/bob-cli/commit/c857c309787a15e507cdcfa367b93a35db294020) | docs(plan): daily bob-plan block and dash TODAY chip describe the renamed theme/link budget | 2026-10-01 10:43:05 EDT |
+| — | `c857c30` | docs(plan): daily bob-plan block and dash TODAY chip describe the renamed theme/link budget | 2026-10-01 10:43:05 EDT |
