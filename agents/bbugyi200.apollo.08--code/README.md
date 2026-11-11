@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f4ca95b`](https://github.com/bobs-org/bob-cli/commit/f4ca95b2b92302cd268ac544fdfff61019c09706) | docs(highlights): document parallel xlib pull | 2026-09-17 10:07:43 EDT |
+| — | `f4ca95b` | docs(highlights): document parallel xlib pull | 2026-09-17 10:07:43 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [08.f0](../bbugyi200.apollo.08.f0/README.md) | descendant | active |
+| [08.f0](../bbugyi200.apollo.08.f0/README.md) | descendant | dismissed |
