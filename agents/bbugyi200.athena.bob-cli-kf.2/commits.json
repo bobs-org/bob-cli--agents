@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794423103,"sha":"0a7fce2b399ae9865d6bc36670517f5d6893fbe3","subject":"fix(web-clip): guard out-of-band fetches and CSS/SVG clip sinks"}],"schema_version":2,"source_run_id":"run-1e340dfe54fead50a3f3a977eb0fc9ed"}

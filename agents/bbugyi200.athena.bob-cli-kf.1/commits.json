@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794423314,"sha":"2c104b9e1e3a2553294e8cc7a5cd7d1c0e823fda","subject":"fix(gcal): collapse hostile titles and encode badge URL whitespace"}],"schema_version":2,"source_run_id":"run-050e6bdeb62b50c036a9b9c071812a84"}
