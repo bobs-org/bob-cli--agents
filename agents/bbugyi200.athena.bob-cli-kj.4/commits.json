@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9d9c68700f8167741b47fb47a3f51e05"}
+{"commits":[{"committed_at":1794438574,"sha":"04cba0fad559471e17415f71811e21c8baf8f740","subject":"fix(capture): stamp created/captured in the configured timezone"}],"schema_version":2,"source_run_id":"run-9d9c68700f8167741b47fb47a3f51e05"}

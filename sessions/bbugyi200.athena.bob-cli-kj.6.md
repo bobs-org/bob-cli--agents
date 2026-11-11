@@ -23,6 +23,33 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-gate"></a>gate | bob-cli-kj.6--gate | completed | gpt-6-astra / codex | 2026-11-11T22:42:26.540638+00:00 → 2026-11-11T22:45:08.768263+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-kj.6--gate/chat.md) |
 | <a id="member-code"></a>code | bob-cli-kj.6--code | active | grok-4.6 / grok | 2026-11-11T22:45:48.346555+00:00 | 0 | — | — |
 
+## Variables
+
+| Role | Variable | Value |
+|---|---|---|
+| code | `artifacts` | \[{bead: bob-cli-kj.6, kind: markdown, label: Task-wikilink CPU budget before/after report, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111174514/wikilink-cpu-report-cda88efd55a… |
+
+#### artifacts
+
+**Role:** `code`
+
+```yaml
+- bead: bob-cli-kj.6
+  kind: markdown
+  label: Task-wikilink CPU budget before/after report
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111174514/wikilink-cpu-report-cda88efd55a1.md
+  ref: file:explicit:c96e49fd9445fc49193f339a
+  source_path: /tmp/wikilink-cpu-report.md
+- bead: bob-cli-kj.6
+  kind: file
+  label: Task-wikilink CPU budget raw measurements
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111174514/wikilink-cpu-measurements.tar-bcf454af24ce.gz
+  ref: file:explicit:852c774f2f1b00df676ba605
+  source_path: /tmp/wikilink-cpu-measurements.tar.gz
+```
+
+Values are truncated for display; see each member's agent meta.json for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
