@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-jt` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-jt.land--code [active]"]
-  n1["bob-cli-jt.land--plan [active]"]
+  n0["bob-cli-jt.land--code [completed]"]
+  n1["bob-cli-jt.land--plan [completed]"]
   n0 --> n1
   n2["bob-cli-jt.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-jt.land--code | active | grok-4.6 / grok | 2026-11-11T00:19:32.639014+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-jt.land--plan | active | gpt-6-astra / codex | 2026-11-11T00:04:37.857514+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-jt.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-jt.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-jt.land--code | completed | grok-4.6 / grok | 2026-11-11T00:19:32.639014+00:00 → 2026-11-11T00:33:19.983654+00:00 | [1](../agents/bbugyi200.athena.bob-cli-jt.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-jt.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-jt.land--plan | completed | gpt-6-astra / codex | 2026-11-11T00:04:37.857514+00:00 → 2026-11-11T00:33:19.983654+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-jt.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-jt.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-jt.land--gate | completed | gpt-6-astra / codex | 2026-11-11T00:18:37.629076+00:00 → 2026-11-11T00:19:02.546075+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-jt.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`f4c0020`](https://github.com/bobs-org/bob-cli/commit/f4c00204297c9c4dad9fa0f31158108ee7eb94c7) | fix(capture)!: finish the backslash directive alias migration | 2026-11-10 19:32:03 EST |
 
 ## Variables
 
