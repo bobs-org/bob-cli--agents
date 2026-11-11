@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `t1` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["t1.f0--plan [active]"]
+  n0["t1.f0--plan [dismissed]"]
   n1["t1.f0--code [completed]"]
   n0 --> n1
 ```
@@ -17,17 +17,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | t1.f0--plan | active | opus / claude | 2026-08-05T18:20:24.249908+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.t1.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.t1.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | t1.f0--plan | dismissed | opus / claude | 2026-08-05T14:20:24.249908 → 2026-08-05T15:01:21.892861 | 0 | [Prompt](../agents/bbugyi200.athena.t1.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.t1.f0--plan/chat.md) |
 | <a id="member-code"></a>code | t1.f0--code | completed | sonnet / claude | 2026-08-05T18:34:08.346022+00:00 | [1](../agents/bbugyi200.athena.t1.f0--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.t1.f0--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`a53828a`](https://github.com/bobs-org/bob-cli/commit/a53828aebc1c9597ef1aee03f0b791dd85b8558b) | feat(capture): add p:\<N\> priority token | 2026-08-05 15:00:37 EDT |
+| code | — | `a53828a` | feat(capture): add p:\<N\> priority token | 2026-08-05 15:00:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [t1](bbugyi200.athena.t1.md) (session · 2) | ancestor | active 1, completed 1 |
+| [t1](bbugyi200.athena.t1.md) (session · 2) | ancestor | completed 1, dismissed 1 |

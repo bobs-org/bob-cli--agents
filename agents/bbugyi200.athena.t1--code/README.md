@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8ade475`](https://github.com/bobs-org/bob-cli/commit/8ade475315d0561ebb83d9b937d50c3df55f6065) | docs: document P0 and P1-P4 priority levels | 2026-08-05 13:41:06 EDT |
+| — | `8ade475` | docs: document P0 and P1-P4 priority levels | 2026-08-05 13:41:06 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [t1.f0](../../sessions/bbugyi200.athena.t1.f0.md) (session · 2) | descendant | active 1, completed 1 |
+| [t1.f0](../../sessions/bbugyi200.athena.t1.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |

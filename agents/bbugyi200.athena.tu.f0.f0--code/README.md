@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`18dae26`](https://github.com/bobs-org/bob-cli/commit/18dae26f64557ad96f65bd7d1bd92458de804e9c) | docs(projects): document deterministic schedule-log reasons for priority rolls | 2026-08-06 09:27:20 EDT |
+| — | `18dae26` | docs(projects): document deterministic schedule-log reasons for priority rolls | 2026-08-06 09:27:20 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [tu.f0](../../sessions/bbugyi200.athena.tu.f0.md) (session · 3) | ancestor | active 2, completed 1 |
-| [tu](../../sessions/bbugyi200.athena.tu.md) (session · 2) | ancestor | active 1, completed 1 |
-| [tu.f0.f0.f1](../../sessions/bbugyi200.athena.tu.f0.f0.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [tu.f0](../../sessions/bbugyi200.athena.tu.f0.md) (session · 3) | ancestor | active 1, completed 1, dismissed 1 |
+| [tu](../../sessions/bbugyi200.athena.tu.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [tu.f0.f0.f1](../../sessions/bbugyi200.athena.tu.f0.f0.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

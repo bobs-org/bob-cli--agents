@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a53828a`](https://github.com/bobs-org/bob-cli/commit/a53828aebc1c9597ef1aee03f0b791dd85b8558b) | feat(capture): add p:\<N\> priority token | 2026-08-05 15:00:37 EDT |
+| — | `a53828a` | feat(capture): add p:\<N\> priority token | 2026-08-05 15:00:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [t1](../../sessions/bbugyi200.athena.t1.md) (session · 2) | ancestor | active 1, completed 1 |
+| [t1](../../sessions/bbugyi200.athena.t1.md) (session · 2) | ancestor | completed 1, dismissed 1 |

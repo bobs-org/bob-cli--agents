@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8f8ab02`](https://github.com/bobs-org/bob-cli/commit/8f8ab02eb353b2b52102038fe51b0f49d0e6c26e) | docs(projects): document the schedule-log skipped-reason fallback | 2026-08-06 09:52:57 EDT |
+| — | `8f8ab02` | docs(projects): document the schedule-log skipped-reason fallback | 2026-08-06 09:52:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [tu.f0.f0](../../sessions/bbugyi200.athena.tu.f0.f0.md) (session · 2) | ancestor | active 1, completed 1 |
-| [tu.f0](../../sessions/bbugyi200.athena.tu.f0.md) (session · 3) | ancestor | active 2, completed 1 |
-| [tu](../../sessions/bbugyi200.athena.tu.md) (session · 2) | ancestor | active 1, completed 1 |
+| [tu.f0.f0](../../sessions/bbugyi200.athena.tu.f0.f0.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [tu.f0](../../sessions/bbugyi200.athena.tu.f0.md) (session · 3) | ancestor | active 1, completed 1, dismissed 1 |
+| [tu](../../sessions/bbugyi200.athena.tu.md) (session · 2) | ancestor | completed 1, dismissed 1 |

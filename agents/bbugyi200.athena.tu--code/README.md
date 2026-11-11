@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`780cf45`](https://github.com/bobs-org/bob-cli/commit/780cf456346cff63dc97cb104c7d9070dbb528cb) | docs(projects): document schedule-log reason prompt | 2026-08-06 08:09:33 EDT |
+| — | `780cf45` | docs(projects): document schedule-log reason prompt | 2026-08-06 08:09:33 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [tu.f0](../../sessions/bbugyi200.athena.tu.f0.md) (session · 3) | descendant | active 2, completed 1 |
-| [tu.f0.f0](../../sessions/bbugyi200.athena.tu.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [tu.f0.f0.f1](../../sessions/bbugyi200.athena.tu.f0.f0.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [tu.f0](../../sessions/bbugyi200.athena.tu.f0.md) (session · 3) | descendant | active 1, completed 1, dismissed 1 |
+| [tu.f0.f0](../../sessions/bbugyi200.athena.tu.f0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [tu.f0.f0.f1](../../sessions/bbugyi200.athena.tu.f0.f0.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

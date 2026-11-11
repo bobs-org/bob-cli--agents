@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2830142`](https://github.com/bobs-org/bob-cli/commit/2830142dcbd701f6fcf8421bad13c3e755b67a58) | docs(projects): update schedule-log reason prompt for nesting fix | 2026-08-06 08:37:18 EDT |
+| — | `2830142` | docs(projects): update schedule-log reason prompt for nesting fix | 2026-08-06 08:37:18 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [tu](../../sessions/bbugyi200.athena.tu.md) (session · 2) | ancestor | active 1, completed 1 |
-| [tu.f0.f0](../../sessions/bbugyi200.athena.tu.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [tu.f0.f0.f1](../../sessions/bbugyi200.athena.tu.f0.f0.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [tu](../../sessions/bbugyi200.athena.tu.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [tu.f0.f0](../../sessions/bbugyi200.athena.tu.f0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [tu.f0.f0.f1](../../sessions/bbugyi200.athena.tu.f0.f0.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
