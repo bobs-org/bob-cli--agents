@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.49.gem
 
-**Global name:** `bbugyi200.apollo.research.49.gem` · **State:** active · **Source run:** `run-d1bc9c39ae0c0778aa7d8a72ffd5056e`
+**Global name:** `bbugyi200.apollo.research.49.gem` · **State:** completed · **Source run:** `run-d1bc9c39ae0c0778aa7d8a72ffd5056e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-11T20:31:46.899975+00:00
+- Timing: 2026-11-11T20:31:46.899975+00:00 → 2026-11-11T20:43:42.347524+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_first\_ack\_and\_e2e\_testing\_guide\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111153020/bank\_first\_ack\_and\_e2e\_testing\_guid… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_first_ack_and_e2e_testing_guide__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111153020/bank_first_ack_and_e2e_testing_guide__gem-0c54941120d7.md
+  ref: file:explicit:b72547d2fc10c9dfa64093bd
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202611/bank_first_ack_and_e2e_testing_guide__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,10 +43,10 @@
 | [research.49.cdx](../bbugyi200.apollo.research.49.cdx/README.md) | research.49 hood | completed |
 | [research.49.cld](../bbugyi200.apollo.research.49.cld/README.md) | research.49 hood | active |
 | [research.49.final](../bbugyi200.apollo.research.49.final/README.md) | research.49 hood | waiting |
-| [research.49.grk](../bbugyi200.apollo.research.49.grk/README.md) | research.49 hood | active |
+| [research.49.grk](../bbugyi200.apollo.research.49.grk/README.md) | research.49 hood | completed |
 | [research.49.image](../bbugyi200.apollo.research.49.image/README.md) | research.49 hood | waiting |
 | [research.49.linker](../bbugyi200.apollo.research.49.linker/README.md) | research.49 hood | waiting |
-| [research.49.mus](../bbugyi200.apollo.research.49.mus/README.md) | research.49 hood | active |
+| [research.49.mus](../bbugyi200.apollo.research.49.mus/README.md) | research.49 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
