@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [48.f0](../bbugyi200.apollo.48.f0/README.md) | descendant | active |
-| [48.f1](../../sessions/bbugyi200.apollo.48.f1.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [48.f1.f0](../bbugyi200.apollo.48.f1.f0/README.md) | descendant | active |
-| [48.f1.f1](../../sessions/bbugyi200.apollo.48.f1.f1.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [48.f0](../bbugyi200.apollo.48.f0/README.md) | descendant | dismissed |
+| [48.f1](../../sessions/bbugyi200.apollo.48.f1.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
+| [48.f1.f0](../bbugyi200.apollo.48.f1.f0/README.md) | descendant | dismissed |
+| [48.f1.f1](../../sessions/bbugyi200.apollo.48.f1.f1.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |

@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5d24c98`](https://github.com/bobs-org/bob-cli/commit/5d24c98857b1d16dd1d4161da72272f272ad92bc) | fix(tasks): reject native-only status.symbol in user Tasks queries | 2026-10-01 16:35:37 EDT |
+| — | `5d24c98` | fix(tasks): reject native-only status.symbol in user Tasks queries | 2026-10-01 16:35:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [40](../../sessions/bbugyi200.apollo.40.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [40](../../sessions/bbugyi200.apollo.40.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

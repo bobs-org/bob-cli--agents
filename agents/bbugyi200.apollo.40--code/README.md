@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`eba9cbc`](https://github.com/bobs-org/bob-cli/commit/eba9cbc940393a2c733c68a0ed198ec08b3f84b2) | docs(plan): dashboard section counts vs whole-lane budgets and hide/path parity | 2026-10-01 15:56:28 EDT |
+| — | `eba9cbc` | docs(plan): dashboard section counts vs whole-lane budgets and hide/path parity | 2026-10-01 15:56:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [40.f0](../../sessions/bbugyi200.apollo.40.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [40.f0](../../sessions/bbugyi200.apollo.40.f0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |

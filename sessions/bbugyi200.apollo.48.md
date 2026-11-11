@@ -11,7 +11,7 @@ flowchart TD
   n0["48--gate [failed]"]
   n1["48--code [completed]"]
   n0 --> n1
-  n2["48--plan [active]"]
+  n2["48--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,13 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 48--gate | failed | opus / claude | 2026-10-02T19:21:33.382199+00:00 → 2026-10-02T19:21:41.799423+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.48--gate/chat.md) |
 | <a id="member-code"></a>code | 48--code | completed | muse-spark-1.3-contributor / muse | 2026-10-02T19:21:47.555241+00:00 → 2026-10-02T19:31:00.755940+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.48--code/chat.md) |
-| <a id="member-plan"></a>plan | 48--plan | active | opus / claude | 2026-10-02T19:15:17.655519+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.48--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.48--plan/chat.md) |
+| <a id="member-plan"></a>plan | 48--plan | dismissed | opus / claude | 2026-10-02T15:15:17.655519 → 2026-10-02T15:31:00.786844 | 0 | [Prompt](../agents/bbugyi200.apollo.48--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.48--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [48.f0](../agents/bbugyi200.apollo.48.f0/README.md) | descendant | active |
-| [48.f1](bbugyi200.apollo.48.f1.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [48.f1.f0](../agents/bbugyi200.apollo.48.f1.f0/README.md) | descendant | active |
-| [48.f1.f1](bbugyi200.apollo.48.f1.f1.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [48.f0](../agents/bbugyi200.apollo.48.f0/README.md) | descendant | dismissed |
+| [48.f1](bbugyi200.apollo.48.f1.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
+| [48.f1.f0](../agents/bbugyi200.apollo.48.f1.f0/README.md) | descendant | dismissed |
+| [48.f1.f1](bbugyi200.apollo.48.f1.f1.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
