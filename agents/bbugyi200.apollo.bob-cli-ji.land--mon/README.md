@@ -40,4 +40,4 @@
 | [bob-cli-ji.8.2](../bbugyi200.apollo.bob-cli-ji.8.2/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.3](../bbugyi200.apollo.bob-cli-ji.8.3/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.4](../bbugyi200.apollo.bob-cli-ji.8.4/README.md) | bob-cli-ji hood | completed |
-| [bob-cli-ji.8.land](../bbugyi200.apollo.bob-cli-ji.8.land/README.md) | bob-cli-ji hood | waiting |
+| [bob-cli-ji.8.land](../../sessions/bbugyi200.apollo.bob-cli-ji.8.land.md) (session · 3) | bob-cli-ji hood | active 2, completed 1 |
