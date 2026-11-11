@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-11-11T12:53:39.942789+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/notebook\_h2\_section\_capture\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111075251/notebook\_h2\_section\_capture\_\_grk-100e5497778… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/notebook_h2_section_capture__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111075251/notebook_h2_section_capture__grk-100e54977786.md
+  ref: file:explicit:5bcb2775fb9741283914a038
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/notebook_h2_section_capture__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.45.cdx](../bbugyi200.apollo.research.45.cdx/README.md) | research.45 hood | active |
+| [research.45.cdx](../bbugyi200.apollo.research.45.cdx/README.md) | research.45 hood | completed |
 | [research.45.cld](../bbugyi200.apollo.research.45.cld/README.md) | research.45 hood | active |
 | [research.45.final](../bbugyi200.apollo.research.45.final/README.md) | research.45 hood | waiting |
 | [research.45.gem](../bbugyi200.apollo.research.45.gem/README.md) | research.45 hood | active |
