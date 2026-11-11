@@ -24,7 +24,7 @@
 | [research.45.cdx](../bbugyi200.apollo.research.45.cdx/README.md) | research.45 hood | completed |
 | [research.45.cld](../bbugyi200.apollo.research.45.cld/README.md) | research.45 hood | active |
 | [research.45.final](../bbugyi200.apollo.research.45.final/README.md) | research.45 hood | waiting |
-| [research.45.grk](../bbugyi200.apollo.research.45.grk/README.md) | research.45 hood | active |
+| [research.45.grk](../bbugyi200.apollo.research.45.grk/README.md) | research.45 hood | completed |
 | [research.45.image](../bbugyi200.apollo.research.45.image/README.md) | research.45 hood | waiting |
 | [research.45.linker](../bbugyi200.apollo.research.45.linker/README.md) | research.45 hood | waiting |
 | [research.45.mus](../bbugyi200.apollo.research.45.mus/README.md) | research.45 hood | completed |
