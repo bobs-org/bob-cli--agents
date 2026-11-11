@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`21ebf8e`](https://github.com/bobs-org/bob-cli/commit/21ebf8e75d4ca9bbcc5d87baf139acdfd52f7b4c) | docs(projects): document scheduling Work Log prompt for Pending/Next tasks | 2026-10-02 19:01:42 EDT |
+| — | `21ebf8e` | docs(projects): document scheduling Work Log prompt for Pending/Next tasks | 2026-10-02 19:01:42 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [4c.f0](../bbugyi200.apollo.4c.f0/README.md) | descendant | active |
+| [4c.f0](../bbugyi200.apollo.4c.f0/README.md) | descendant | dismissed |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`664e01c`](https://github.com/bobs-org/bob-cli/commit/664e01ce66403e1bb7a268454cbbf7b91e37d063) | docs(projects): document scheduled-first picker row for prioritized tasks | 2026-10-02 17:01:59 EDT |
+| — | `664e01c` | docs(projects): document scheduled-first picker row for prioritized tasks | 2026-10-02 17:01:59 EDT |
