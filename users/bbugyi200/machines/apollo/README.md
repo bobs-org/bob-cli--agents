@@ -134,7 +134,7 @@
 | [5](hoods/5/README.md) | 1 | 0 | completed 1 |
 | [5-code](hoods/5-code/README.md) | 1 | 0 | completed 1 |
 | [52](hoods/52/README.md) | 1 | 0 | completed 1 |
-| [53](hoods/53/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [53](hoods/53/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
 | [54](hoods/54/README.md) | 3 | 1 | failed 3 |
 | [57](hoods/57/README.md) | 4 | 1 | completed 1, failed 3 |
 | [58](hoods/58/README.md) | 1 | 0 | completed 1 |
