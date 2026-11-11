@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`dab8f20`](https://github.com/bobs-org/bob-cli/commit/dab8f20f95b931b0f05171e594f329a2af354586) | chore: Add SDD prompt and plan for fix\_next\_tasks\_query\_operator | 2026-07-08 13:06:51 EDT |
+| — | `dab8f20` | chore: Add SDD prompt and plan for fix\_next\_tasks\_query\_operator | 2026-07-08 13:06:51 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [21](../../sessions/bbugyi200.apollo.21.md) (session · 3) | ancestor | active 1, failed 2 |
+| [21](../../sessions/bbugyi200.apollo.21.md) (session · 3) | ancestor | dismissed 1, failed 2 |
 | [21.f1](../bbugyi200.apollo.21.f1/README.md) | 21 hood | completed |
