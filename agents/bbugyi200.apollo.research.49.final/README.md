@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.49.final
 
-**Global name:** `bbugyi200.apollo.research.49.final` · **State:** waiting · **Source run:** `run-13c8933bb8b7068b4b5bb82105196754`
+**Global name:** `bbugyi200.apollo.research.49.final` · **State:** completed · **Source run:** `run-13c8933bb8b7068b4b5bb82105196754`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261111153021
+- Timing: 2026-11-11T20:48:27.085168+00:00 → 2026-11-11T21:01:01.885259+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_first\_ack\_and\_kd\_e2e\_guide/bank\_first\_ack\_and\_kd\_e2e\_guide\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111153021/bank\_f… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_first_ack_and_kd_e2e_guide/bank_first_ack_and_kd_e2e_guide__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111153021/bank_first_ack_and_kd_e2e_guide__final-cd2758cae009.md
+  ref: file:explicit:0c24d4d136ba92dec2ce50ac
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/bank_first_ack_and_kd_e2e_guide/bank_first_ack_and_kd_e2e_guide__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
