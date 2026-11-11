@@ -176,10 +176,10 @@
 | [6d](hoods/6d/README.md) | 1 | 0 | dismissed 1 |
 | [6e](hoods/6e/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
 | [6g](hoods/6g/README.md) | 22 | 5 | completed 13, dismissed 1, failed 8 |
-| [6i](hoods/6i/README.md) | 5 | 1 | active 1, completed 3, failed 1 |
+| [6i](hoods/6i/README.md) | 5 | 1 | completed 3, dismissed 1, failed 1 |
 | [6j](hoods/6j/README.md) | 5 | 1 | completed 3, failed 2 |
 | [6l](hoods/6l/README.md) | 5 | 1 | completed 3, failed 2 |
-| [6m](hoods/6m/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [6m](hoods/6m/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
 | [6n](hoods/6n/README.md) | 5 | 1 | completed 3, failed 2 |
 | [6o](hoods/6o/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
 | [6q](hoods/6q/README.md) | 1 | 0 | completed 1 |
