@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9421357`](https://github.com/bobs-org/bob-cli/commit/942135740afc95bff6cd25d8082fce911b5f53a7) | chore: Add SDD prompt and plan for obsidian\_delete\_tab\_keymaps\_fix\_1 | 2026-06-18 21:23:30 EDT |
+| — | `9421357` | chore: Add SDD prompt and plan for obsidian\_delete\_tab\_keymaps\_fix\_1 | 2026-06-18 21:23:30 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [00n](../bbugyi200.athena.00n/README.md) | ancestor | active |
+| [00n](../bbugyi200.athena.00n/README.md) | ancestor | dismissed |
 | [00n.f1.cld.f1](../bbugyi200.athena.00n.f1.cld.f1/README.md) | descendant | completed |
