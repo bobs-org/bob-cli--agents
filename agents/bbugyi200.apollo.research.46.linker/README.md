@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.46.linker
 
-**Global name:** `bbugyi200.apollo.research.46.linker` · **State:** waiting · **Source run:** `run-8f4fd4669aa4a29ea7b1c9d8abfd12a2`
+**Global name:** `bbugyi200.apollo.research.46.linker` · **State:** completed · **Source run:** `run-8f4fd4669aa4a29ea7b1c9d8abfd12a2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261111093448
+- Timing: 2026-11-11T15:24:06.492802+00:00 → 2026-11-11T15:31:21.131770+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_vim\_yank\_range\_flash/obsidian\_vim\_yank\_range\_flash.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111093448/obsidian\_vim\_yank… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_vim_yank_range_flash/obsidian_vim_yank_range_flash.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111093448/obsidian_vim_yank_range_flash-d4aa231e565f.md
+  ref: file:explicit:5c3d0b6161998318292ce063
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/obsidian_vim_yank_range_flash/obsidian_vim_yank_range_flash.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
