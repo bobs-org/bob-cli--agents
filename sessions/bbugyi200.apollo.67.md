@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `67` · Members: 3
 ```mermaid
 flowchart TD
   n0["67--code [completed]"]
-  n1["67--plan [active]"]
+  n1["67--plan [dismissed]"]
   n0 --> n1
   n2["67--gate [failed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 67--code | completed | muse-spark-1.3-contributor / muse | 2026-10-10T12:26:33.090302+00:00 → 2026-10-10T12:49:08.420697+00:00 | [1](../agents/bbugyi200.apollo.67--code/README.md#commits) | — | — |
-| <a id="member-plan"></a>plan | 67--plan | active | gpt-6-astra / codex | 2026-10-10T12:20:07.262809+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.67--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.67--plan/chat.md) |
+| <a id="member-plan"></a>plan | 67--plan | dismissed | gpt-6-astra / codex | 2026-10-10T08:20:07.262809 → 2026-10-10T08:49:08.458439 | 0 | [Prompt](../agents/bbugyi200.apollo.67--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.67--plan/chat.md) |
 | <a id="member-gate"></a>gate | 67--gate | failed | gpt-6-astra / codex | 2026-10-10T12:26:13.280345+00:00 → 2026-10-10T12:26:23.781177+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.67--gate/chat.md) |
 
 ## Commits

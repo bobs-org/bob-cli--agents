@@ -11,7 +11,7 @@ flowchart TD
   n0["68.f0--code [completed]"]
   n1["68.f0--gate [failed]"]
   n0 --> n1
-  n2["68.f0--plan [active]"]
+  n2["68.f0--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 68.f0--code | completed | grok-4.6 / grok | 2026-10-10T13:41:51.688770+00:00 → 2026-10-10T14:19:38.902110+00:00 | [1](../agents/bbugyi200.apollo.68.f0--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | 68.f0--gate | failed | gpt-6-astra / codex | 2026-10-10T13:41:23.311295+00:00 → 2026-10-10T13:41:36.650701+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.68.f0--gate/chat.md) |
-| <a id="member-plan"></a>plan | 68.f0--plan | active | gpt-6-astra / codex | 2026-10-10T13:36:12.383249+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.68.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.68.f0--plan/chat.md) |
+| <a id="member-plan"></a>plan | 68.f0--plan | dismissed | gpt-6-astra / codex | 2026-10-10T09:36:12.383249 → 2026-10-10T10:19:38.946276 | 0 | [Prompt](../agents/bbugyi200.apollo.68.f0--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.68.f0--plan/chat.md) |
 
 ## Commits
 
