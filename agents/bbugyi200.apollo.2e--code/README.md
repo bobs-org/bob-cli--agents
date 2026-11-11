@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2cdfa44`](https://github.com/bobs-org/bob-cli/commit/2cdfa44860679c3ff8068e1ca07a3b5d46bc4ef0) | feat(capture): move started Pomodoro to current slot | 2026-09-27 13:48:35 EDT |
+| — | `2cdfa44` | feat(capture): move started Pomodoro to current slot | 2026-09-27 13:48:35 EDT |
 
 ## Neighbors
 

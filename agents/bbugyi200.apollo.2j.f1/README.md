@@ -17,10 +17,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3c7cdf9`](https://github.com/bobs-org/bob-cli/commit/3c7cdf9debbaf082c2948256a98266d8f82b393a) | chore: Add SDD prompt and plan for eat\_base | 2026-06-05 10:39:23 EDT |
+| — | `3c7cdf9` | chore: Add SDD prompt and plan for eat\_base | 2026-06-05 10:39:23 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [2j](../../sessions/bbugyi200.apollo.2j.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [2j](../../sessions/bbugyi200.apollo.2j.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
