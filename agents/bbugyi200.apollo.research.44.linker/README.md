@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.44.linker
 
-**Global name:** `bbugyi200.apollo.research.44.linker` · **State:** waiting · **Source run:** `run-39587f1d0a8bf78e31d0e123d67922df`
+**Global name:** `bbugyi200.apollo.research.44.linker` · **State:** completed · **Source run:** `run-39587f1d0a8bf78e31d0e123d67922df`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261111064512
+- Timing: 2026-11-11T12:33:15.490530+00:00 → 2026-11-11T12:39:43.180388+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/keep\_moving\_link\_marks/keep\_moving\_link\_marks.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111064512/keep\_moving\_link\_marks-7693e279… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/keep_moving_link_marks/keep_moving_link_marks.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111064512/keep_moving_link_marks-7693e279064d.md
+  ref: file:explicit:6b74cde464de3b4fcf29cf9a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/keep_moving_link_marks/keep_moving_link_marks.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
