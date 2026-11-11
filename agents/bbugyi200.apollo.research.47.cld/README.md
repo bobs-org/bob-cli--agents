@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.47.cld
 
-**Global name:** `bbugyi200.apollo.research.47.cld` · **State:** active · **Source run:** `run-23d0e50909a755df79e743148a5490d4`
+**Global name:** `bbugyi200.apollo.research.47.cld` · **State:** completed · **Source run:** `run-23d0e50909a755df79e743148a5490d4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-11T14:43:12.660154+00:00
+- Timing: 2026-11-11T14:43:12.660154+00:00 → 2026-11-11T15:04:28.451203+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_ledger\_daily\_acknowledgment\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111094233/bank\_ledger\_daily\_acknowledgment\_\_cld-4… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_ledger_daily_acknowledgment__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111094233/bank_ledger_daily_acknowledgment__cld-47ba48c6b572.md
+  ref: file:explicit:115b5018cdf9883fca83b21e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_18/sase/repos/research/202611/bank_ledger_daily_acknowledgment__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
