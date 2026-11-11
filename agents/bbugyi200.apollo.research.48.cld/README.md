@@ -12,22 +12,41 @@
 - Provider: claude
 - Timing: 2026-11-11T15:11:13.190323+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_cmd\_y\_copy\_card\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111101018/obsidian\_cmd\_y\_copy\_card\_\_cld-c8a0e7b47bdf.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_cmd_y_copy_card__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111101018/obsidian_cmd_y_copy_card__cld-c8a0e7b47bdf.md
+  ref: file:explicit:b92c52be053c0bf3410b15a0
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/obsidian_cmd_y_copy_card__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.48.cdx](../bbugyi200.apollo.research.48.cdx/README.md) | research.48 hood | active |
+| [research.48.cdx](../bbugyi200.apollo.research.48.cdx/README.md) | research.48 hood | completed |
 | [research.48.final](../bbugyi200.apollo.research.48.final/README.md) | research.48 hood | active |
 | [research.48.gem](../bbugyi200.apollo.research.48.gem/README.md) | research.48 hood | active |
 | [research.48.grk](../bbugyi200.apollo.research.48.grk/README.md) | research.48 hood | active |
 | [research.48.image](../bbugyi200.apollo.research.48.image/README.md) | research.48 hood | active |
 | [research.48.linker](../bbugyi200.apollo.research.48.linker/README.md) | research.48 hood | active |
-| [research.48.mus](../bbugyi200.apollo.research.48.mus/README.md) | research.48 hood | active |
+| [research.48.mus](../bbugyi200.apollo.research.48.mus/README.md) | research.48 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |

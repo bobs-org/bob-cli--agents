@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.48.cdx
 
-**Global name:** `bbugyi200.apollo.research.48.cdx` · **State:** active · **Source run:** `run-c215a5286e53e4bacfd5e1f4899a3157`
+**Global name:** `bbugyi200.apollo.research.48.cdx` · **State:** completed · **Source run:** `run-c215a5286e53e4bacfd5e1f4899a3157`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-11T15:10:55.949609+00:00
+- Timing: 2026-11-11T15:10:55.949609+00:00 → 2026-11-11T15:19:43.975380+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/cmd-y-copy-menu-context-templates\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111101016/cmd-y-copy-menu-context-templates\_\_cdx… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/cmd-y-copy-menu-context-templates__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111101016/cmd-y-copy-menu-context-templates__cdx-3a646804527a.md
+  ref: file:explicit:acb5d03ee48ab2851ecdb232
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/cmd-y-copy-menu-context-templates__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.48.grk](../bbugyi200.apollo.research.48.grk/README.md) | research.48 hood | active |
 | [research.48.image](../bbugyi200.apollo.research.48.image/README.md) | research.48 hood | active |
 | [research.48.linker](../bbugyi200.apollo.research.48.linker/README.md) | research.48 hood | active |
-| [research.48.mus](../bbugyi200.apollo.research.48.mus/README.md) | research.48 hood | active |
+| [research.48.mus](../bbugyi200.apollo.research.48.mus/README.md) | research.48 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |

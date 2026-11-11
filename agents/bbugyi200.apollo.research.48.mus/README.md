@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.48.mus
 
-**Global name:** `bbugyi200.apollo.research.48.mus` · **State:** active · **Source run:** `run-cf50adf0eec1526a26a60d0922b3d2a2`
+**Global name:** `bbugyi200.apollo.research.48.mus` · **State:** completed · **Source run:** `run-cf50adf0eec1526a26a60d0922b3d2a2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,18 +10,37 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-11T15:11:59.521465+00:00
+- Timing: 2026-11-11T15:11:59.521465+00:00 → 2026-11-11T15:20:04.361393+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/cmd\_y\_copy\_path\_panel\_\_mus.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261111101020/cmd\_y\_copy\_path\_panel\_\_mus-aca4a565eedd.md, ref: f… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/cmd_y_copy_path_panel__mus.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261111101020/cmd_y_copy_path_panel__mus-aca4a565eedd.md
+  ref: file:explicit:d8970fbef27583883a0ec17b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/cmd_y_copy_path_panel__mus.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.48.cdx](../bbugyi200.apollo.research.48.cdx/README.md) | research.48 hood | active |
+| [research.48.cdx](../bbugyi200.apollo.research.48.cdx/README.md) | research.48 hood | completed |
 | [research.48.cld](../bbugyi200.apollo.research.48.cld/README.md) | research.48 hood | active |
 | [research.48.final](../bbugyi200.apollo.research.48.final/README.md) | research.48 hood | active |
 | [research.48.gem](../bbugyi200.apollo.research.48.gem/README.md) | research.48 hood | active |
