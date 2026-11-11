@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [3e](../../users/bbugyi200/machines/apollo/hoods/3e/README.md) / [3e](../../sessions/bbugyi200.apollo.3e.md) / 3e--plan
 
-**Global name:** `bbugyi200.apollo.3e--plan` · **State:** active · **Source run:** `run-5f7ce0d21ee822a6fa3435e68f70f851`
+**Global name:** `bbugyi200.apollo.3e--plan` · **State:** dismissed · **Source run:** `run-5f7ce0d21ee822a6fa3435e68f70f851`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** 3e
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-sol
 - Provider: codex
-- Timing: 2026-09-30T11:48:45.772198+00:00
+- Timing: 2026-09-30T07:48:45.772198 → 2026-09-30T08:03:16.255527
 - Commits: 0
 
 ## Files

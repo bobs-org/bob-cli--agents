@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5ba5338`](https://github.com/bobs-org/bob-cli/commit/5ba5338ef041bc40cc109823c1ae085e17a96224) | chore: Add SDD prompt and plan for new\_note\_current\_parent\_fallback | 2026-06-07 09:01:57 EDT |
+| — | `5ba5338` | chore: Add SDD prompt and plan for new\_note\_current\_parent\_fallback | 2026-06-07 09:01:57 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [3h.f1](../bbugyi200.apollo.3h.f1/README.md) | ancestor | completed |
-| [3h](../bbugyi200.apollo.3h/README.md) | ancestor | active |
+| [3h](../bbugyi200.apollo.3h/README.md) | ancestor | dismissed |
 | [3h.f1.f1.f1](../bbugyi200.apollo.3h.f1.f1.f1/README.md) | descendant | completed |

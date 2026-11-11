@@ -17,12 +17,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a3cfbc6`](https://github.com/bobs-org/bob-cli/commit/a3cfbc614baad2d51d75224c743913ef627fee80) | chore: Add SDD prompt and plan for new\_note\_org\_default\_parent | 2026-06-07 08:52:37 EDT |
+| — | `a3cfbc6` | chore: Add SDD prompt and plan for new\_note\_org\_default\_parent | 2026-06-07 08:52:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3h](../bbugyi200.apollo.3h/README.md) | ancestor | active |
+| [3h](../bbugyi200.apollo.3h/README.md) | ancestor | dismissed |
 | [3h.f1.f1](../bbugyi200.apollo.3h.f1.f1/README.md) | descendant | completed |
 | [3h.f1.f1.f1](../bbugyi200.apollo.3h.f1.f1.f1/README.md) | descendant | completed |

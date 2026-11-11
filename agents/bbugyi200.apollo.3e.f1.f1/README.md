@@ -17,11 +17,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2d928d4`](https://github.com/bobs-org/bob-cli/commit/2d928d4942adb30246149a605b47cc870f9727cc) | chore: Add SDD prompt and plan for obsidian\_daily\_jump\_scroll | 2026-06-07 06:46:09 EDT |
+| — | `2d928d4` | chore: Add SDD prompt and plan for obsidian\_daily\_jump\_scroll | 2026-06-07 06:46:09 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [3e.f1](../bbugyi200.apollo.3e.f1/README.md) | ancestor | completed |
-| [3e](../../sessions/bbugyi200.apollo.3e.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [3e](../../sessions/bbugyi200.apollo.3e.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
