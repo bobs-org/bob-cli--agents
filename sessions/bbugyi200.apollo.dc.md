@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [dc.f0](../agents/bbugyi200.apollo.dc.f0/README.md) | descendant | active |
+| [dc.f0](bbugyi200.apollo.dc.f0.md) (session · 3) | descendant | completed 3 |
