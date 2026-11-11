@@ -13,11 +13,17 @@
 - Model: muse-spark-1.3-contributor
 - Provider: muse
 - Timing: 2026-11-11T18:46:02.139659+00:00
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`757e36b`](https://github.com/bobs-org/bob-cli/commit/757e36bb0d758031e2eaf2c065d1662577034583) | fix(bank): validate out-of-month headings, BOM frontmatter, planner anchors | 2026-11-11 14:11:54 EST |
 
 ## Neighbors
 
@@ -26,6 +32,6 @@
 | [bob-cli-kf.1](../bbugyi200.athena.bob-cli-kf.1/README.md) | bob-cli-kf hood | completed |
 | [bob-cli-kf.2](../bbugyi200.athena.bob-cli-kf.2/README.md) | bob-cli-kf hood | completed |
 | [bob-cli-kf.3](../bbugyi200.athena.bob-cli-kf.3/README.md) | bob-cli-kf hood | completed |
-| [bob-cli-kf.5](../bbugyi200.athena.bob-cli-kf.5/README.md) | bob-cli-kf hood | active |
-| [bob-cli-kf.6](../bbugyi200.athena.bob-cli-kf.6/README.md) | bob-cli-kf hood | active |
+| [bob-cli-kf.5](../bbugyi200.athena.bob-cli-kf.5/README.md) | bob-cli-kf hood | completed |
+| [bob-cli-kf.6](../../sessions/bbugyi200.athena.bob-cli-kf.6.md) (session · 2) | bob-cli-kf hood | active 1, completed 1 |
 | [bob-cli-kf.land](../bbugyi200.athena.bob-cli-kf.land/README.md) | bob-cli-kf hood | waiting |

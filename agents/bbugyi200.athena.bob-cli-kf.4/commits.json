@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-627db8658c760b2d7c7129cd61c01fdc"}
+{"commits":[{"committed_at":1794424314,"sha":"757e36bb0d758031e2eaf2c065d1662577034583","subject":"fix(bank): validate out-of-month headings, BOM frontmatter, planner anchors"}],"schema_version":2,"source_run_id":"run-627db8658c760b2d7c7129cd61c01fdc"}
