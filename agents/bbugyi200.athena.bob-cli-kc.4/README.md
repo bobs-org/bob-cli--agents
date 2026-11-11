@@ -32,4 +32,4 @@
 | [bob-cli-kc.1](../bbugyi200.athena.bob-cli-kc.1/README.md) | bob-cli-kc hood | completed |
 | [bob-cli-kc.2](../bbugyi200.athena.bob-cli-kc.2/README.md) | bob-cli-kc hood | completed |
 | [bob-cli-kc.3](../../sessions/bbugyi200.athena.bob-cli-kc.3.md) (session · 17) | bob-cli-kc hood | completed 14, failed 3 |
-| [bob-cli-kc.land](../../sessions/bbugyi200.athena.bob-cli-kc.land.md) (session · 3) | bob-cli-kc hood | active 2, completed 1 |
+| [bob-cli-kc.land](../../sessions/bbugyi200.athena.bob-cli-kc.land.md) (session · 3) | bob-cli-kc hood | completed 3 |

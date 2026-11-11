@@ -72,4 +72,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-kc.1](../agents/bbugyi200.athena.bob-cli-kc.1/README.md) | bob-cli-kc hood | completed |
 | [bob-cli-kc.2](../agents/bbugyi200.athena.bob-cli-kc.2/README.md) | bob-cli-kc hood | completed |
 | [bob-cli-kc.4](../agents/bbugyi200.athena.bob-cli-kc.4/README.md) | bob-cli-kc hood | completed |
-| [bob-cli-kc.land](bbugyi200.athena.bob-cli-kc.land.md) (session · 3) | bob-cli-kc hood | active 2, completed 1 |
+| [bob-cli-kc.land](bbugyi200.athena.bob-cli-kc.land.md) (session · 3) | bob-cli-kc hood | completed 3 |
