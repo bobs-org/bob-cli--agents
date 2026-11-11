@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`44c5c8c`](https://github.com/bobs-org/bob-cli/commit/44c5c8c8fd44340dcfb7376fcd13464032131ee1) | fix(capture): repair shared offer-close contract and executable vectors | 2026-11-05 21:24:04 EST |
+| — | `44c5c8c` | fix(capture): repair shared offer-close contract and executable vectors | 2026-11-05 21:24:04 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-hn.6](../../sessions/bbugyi200.athena.bob-cli-hn.6.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-hn.6](../../sessions/bbugyi200.athena.bob-cli-hn.6.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-hn.6.1.2](../../sessions/bbugyi200.athena.bob-cli-hn.6.1.2.md) (session · 7) | bob-cli-hn.6.1 hood | completed 4, failed 3 |
 | [bob-cli-hn.6.1.3](../bbugyi200.athena.bob-cli-hn.6.1.3/README.md) | bob-cli-hn.6.1 hood | completed |
 | [bob-cli-hn.6.1.4](../../sessions/bbugyi200.athena.bob-cli-hn.6.1.4.md) (session · 5) | bob-cli-hn.6.1 hood | completed 3, failed 2 |

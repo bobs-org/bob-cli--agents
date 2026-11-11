@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`53f9c2c`](https://github.com/bobs-org/bob-cli/commit/53f9c2c758653cb54fbb1fd4d4339d18ae23d459) | feat(capture): add staged offer close descriptors | 2026-11-05 20:19:35 EST |
+| — | `53f9c2c` | feat(capture): add staged offer close descriptors | 2026-11-05 20:19:35 EST |
 
 ## Neighbors
 
@@ -33,7 +33,7 @@
 | [bob-cli-hn.3](../bbugyi200.athena.bob-cli-hn.3/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.4](../bbugyi200.athena.bob-cli-hn.4/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.5](../bbugyi200.athena.bob-cli-hn.5/README.md) | bob-cli-hn hood | completed |
-| [bob-cli-hn.6](../../sessions/bbugyi200.athena.bob-cli-hn.6.md) (session · 3) | bob-cli-hn hood | active 1, completed 2 |
+| [bob-cli-hn.6](../../sessions/bbugyi200.athena.bob-cli-hn.6.md) (session · 3) | bob-cli-hn hood | completed 2, dismissed 1 |
 | [bob-cli-hn.6.1.1](../bbugyi200.athena.bob-cli-hn.6.1.1/README.md) | bob-cli-hn hood | completed |
 | [bob-cli-hn.6.1.2](../../sessions/bbugyi200.athena.bob-cli-hn.6.1.2.md) (session · 7) | bob-cli-hn hood | completed 4, failed 3 |
 | [bob-cli-hn.6.1.3](../bbugyi200.athena.bob-cli-hn.6.1.3/README.md) | bob-cli-hn hood | completed |
