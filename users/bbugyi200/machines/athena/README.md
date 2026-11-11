@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** bob-cli · **Hoods:** 639 · **Runs:** 5221
+**Project:** bob-cli · **Hoods:** 639 · **Runs:** 5222
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -592,8 +592,8 @@
 | [bob-cli-je](hoods/bob-cli-je/README.md) | 10 | 2 | completed 8, failed 2 |
 | [bob-cli-jf](hoods/bob-cli-jf/README.md) | 12 | 2 | completed 11, failed 1 |
 | [bob-cli-jt](hoods/bob-cli-jt/README.md) | 17 | 2 | completed 12, failed 5 |
-| [bob-cli-k3](hoods/bob-cli-k3/README.md) | 28 | 4 | active 2, completed 14, failed 2, waiting 10 |
-| [bob-cli-k7](hoods/bob-cli-k7/README.md) | 17 | 2 | completed 12, failed 2, waiting 3 |
+| [bob-cli-k3](hoods/bob-cli-k3/README.md) | 29 | 4 | active 1, completed 16, failed 2, waiting 10 |
+| [bob-cli-k7](hoods/bob-cli-k7/README.md) | 17 | 2 | completed 13, failed 2, waiting 2 |
 | [bob-cli-ka](hoods/bob-cli-ka/README.md) | 11 | 2 | active 2, completed 3, failed 1, waiting 5 |
 | [bob-cli-kb](hoods/bob-cli-kb/README.md) | 3 | 0 | active 1, completed 1, waiting 1 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 3 | 0 | dismissed 3 |
@@ -637,11 +637,11 @@
 | [tt](hoods/tt/README.md) | 1 | 0 | failed 1 |
 | [tu](hoods/tu/README.md) | 9 | 4 | active 1, completed 4, dismissed 4 |
 | [uq](hoods/uq/README.md) | 2 | 1 | completed 1, dismissed 1 |
-| [uw](hoods/uw/README.md) | 2 | 1 | active 1, completed 1 |
-| [v0](hoods/v0/README.md) | 2 | 1 | active 1, completed 1 |
-| [vv](hoods/vv/README.md) | 2 | 1 | active 1, completed 1 |
-| [vz](hoods/vz/README.md) | 4 | 1 | active 3, completed 1 |
-| [wm](hoods/wm/README.md) | 2 | 1 | active 1, completed 1 |
+| [uw](hoods/uw/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [v0](hoods/v0/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [vv](hoods/vv/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [vz](hoods/vz/README.md) | 4 | 1 | completed 1, dismissed 3 |
+| [wm](hoods/wm/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [yu](hoods/yu/README.md) | 2 | 1 | active 1, completed 1 |
 | [z4](hoods/z4/README.md) | 2 | 1 | active 1, completed 1 |
 | [zb](hoods/zb/README.md) | 2 | 1 | active 1, completed 1 |
