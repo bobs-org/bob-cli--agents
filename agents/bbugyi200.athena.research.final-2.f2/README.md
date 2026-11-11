@@ -17,9 +17,9 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`deb45e3`](https://github.com/bobs-org/bob-cli/commit/deb45e34cc975fe999f86404ea42cf47e24609fa) | chore: Add SDD prompt and plan for dataview\_mvp | 2026-06-03 12:47:36 EDT |
-| bob-cli | [`d9ad823`](https://github.com/bobs-org/bob-cli/commit/d9ad82322f9593f66138f9aa53e9ec05869817de) | chore: create dataview MVP epic beads | 2026-06-03 12:50:18 EDT |
-| bob-cli | [`23f6e35`](https://github.com/bobs-org/bob-cli/commit/23f6e3574ce4e1dbaf874d52fc33dff344ea878b) | chore: sync bead database after epic kickoff | 2026-06-03 12:52:48 EDT |
+| — | `deb45e3` | chore: Add SDD prompt and plan for dataview\_mvp | 2026-06-03 12:47:36 EDT |
+| — | `d9ad823` | chore: create dataview MVP epic beads | 2026-06-03 12:50:18 EDT |
+| — | `23f6e35` | chore: sync bead database after epic kickoff | 2026-06-03 12:52:48 EDT |
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
 | [research.0.final.f1](../bbugyi200.athena.research.0.final.f1/README.md) | research hood | completed |
 | [research.0.image](../bbugyi200.athena.research.0.image/README.md) | research hood | completed |
-| [research.0h.cdx](../bbugyi200.athena.research.0h.cdx/README.md) | research hood | active |
+| [research.0h.cdx](../bbugyi200.athena.research.0h.cdx/README.md) | research hood | dismissed |
 | [research.0h.cld](../bbugyi200.athena.research.0h.cld/README.md) | research hood | active |
 | [research.0h.final](../bbugyi200.athena.research.0h.final/README.md) | research hood | active |
 | [research.0h.image](../bbugyi200.athena.research.0h.image/README.md) | research hood | active |
@@ -42,7 +42,7 @@
 | [research.1a.cdx](../bbugyi200.athena.research.1a.cdx/README.md) | research hood | active |
 | [research.1a.cld](../bbugyi200.athena.research.1a.cld/README.md) | research hood | active |
 | [research.1a.final](../bbugyi200.athena.research.1a.final/README.md) | research hood | active |
-| [research.1a.image](../bbugyi200.athena.research.1a.image/README.md) | research hood | active |
+| [research.1a.image](../bbugyi200.athena.research.1a.image/README.md) | research hood | dismissed |
 | [research.2o.cdx](../bbugyi200.athena.research.2o.cdx/README.md) | research hood | active |
 | [research.2o.final](../bbugyi200.athena.research.2o.final/README.md) | research hood | active |
 | [research.2o.gem](../bbugyi200.athena.research.2o.gem/README.md) | research hood | active |
@@ -50,7 +50,7 @@
 | [research.2o.image](../bbugyi200.athena.research.2o.image/README.md) | research hood | active |
 | [research.2o.mus](../bbugyi200.athena.research.2o.mus/README.md) | research hood | active |
 | [research.31.cdx](../bbugyi200.athena.research.31.cdx/README.md) | research hood | active |
-| [research.31.cld](../bbugyi200.athena.research.31.cld/README.md) | research hood | active |
+| [research.31.cld](../bbugyi200.athena.research.31.cld/README.md) | research hood | dismissed |
 | [research.31.final](../bbugyi200.athena.research.31.final/README.md) | research hood | active |
 | [research.31.gem](../bbugyi200.athena.research.31.gem/README.md) | research hood | active |
 | [research.31.grk](../bbugyi200.athena.research.31.grk/README.md) | research hood | active |
@@ -62,7 +62,7 @@
 | [research.32.final](../bbugyi200.athena.research.32.final/README.md) | research hood | active |
 | [research.32.gem](../bbugyi200.athena.research.32.gem/README.md) | research hood | active |
 | [research.32.grk](../bbugyi200.athena.research.32.grk/README.md) | research hood | active |
-| [research.32.image](../bbugyi200.athena.research.32.image/README.md) | research hood | active |
+| [research.32.image](../bbugyi200.athena.research.32.image/README.md) | research hood | dismissed |
 | [research.32.linker](../bbugyi200.athena.research.32.linker/README.md) | research hood | active |
 | [research.32.mus](../bbugyi200.athena.research.32.mus/README.md) | research hood | active |
 | [research.35.cdx](../bbugyi200.athena.research.35.cdx/README.md) | research hood | active |
