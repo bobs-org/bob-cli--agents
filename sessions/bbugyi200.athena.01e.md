@@ -27,5 +27,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [01e.f0](../agents/bbugyi200.athena.01e.f0/README.md) | descendant | active |
+| [01e.f0](../agents/bbugyi200.athena.01e.f0/README.md) | descendant | dismissed |
 | [01e.f1](bbugyi200.athena.01e.f1.md) (session · 3) | descendant | completed 2, failed 1 |
