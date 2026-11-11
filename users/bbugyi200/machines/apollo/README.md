@@ -92,14 +92,14 @@
 | [37](hoods/37/README.md) | 1 | 0 | dismissed 1 |
 | [38](hoods/38/README.md) | 3 | 1 | dismissed 1, failed 2 |
 | [3a](hoods/3a/README.md) | 2 | 0 | completed 2 |
-| [3c](hoods/3c/README.md) | 3 | 1 | active 1, failed 2 |
-| [3e](hoods/3e/README.md) | 5 | 1 | active 1, completed 3, failed 1 |
-| [3f](hoods/3f/README.md) | 3 | 1 | active 1, failed 2 |
-| [3h](hoods/3h/README.md) | 4 | 0 | active 1, completed 3 |
-| [3i](hoods/3i/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
-| [3j](hoods/3j/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
-| [3k](hoods/3k/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [3n](hoods/3n/README.md) | 3 | 1 | active 1, failed 2 |
+| [3c](hoods/3c/README.md) | 3 | 1 | dismissed 1, failed 2 |
+| [3e](hoods/3e/README.md) | 5 | 1 | completed 3, dismissed 1, failed 1 |
+| [3f](hoods/3f/README.md) | 3 | 1 | dismissed 1, failed 2 |
+| [3h](hoods/3h/README.md) | 4 | 0 | completed 3, dismissed 1 |
+| [3i](hoods/3i/README.md) | 4 | 1 | completed 2, dismissed 1, failed 1 |
+| [3j](hoods/3j/README.md) | 5 | 1 | completed 2, dismissed 1, failed 2 |
+| [3k](hoods/3k/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
+| [3n](hoods/3n/README.md) | 3 | 1 | dismissed 1, failed 2 |
 | [3p](hoods/3p/README.md) | 8 | 0 | active 1, completed 7 |
 | [3s](hoods/3s/README.md) | 3 | 1 | active 1, failed 2 |
 | [3t](hoods/3t/README.md) | 3 | 0 | active 3 |
