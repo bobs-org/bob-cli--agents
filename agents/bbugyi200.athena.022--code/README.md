@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`31b3461`](https://github.com/bobs-org/bob-cli/commit/31b346170befa08f998d4408665f99ae97c538b7) | feat(capture): add ID-only routed task marker | 2026-08-15 08:18:53 EDT |
+| — | `31b3461` | feat(capture): add ID-only routed task marker | 2026-08-15 08:18:53 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [022.f0](../../sessions/bbugyi200.athena.022.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [022.f0.f0](../../sessions/bbugyi200.athena.022.f0.f0.md) (session · 2) | descendant | active 1, completed 1 |
-| [022.f1](../../sessions/bbugyi200.athena.022.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [022.f0](../../sessions/bbugyi200.athena.022.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [022.f0.f0](../../sessions/bbugyi200.athena.022.f0.f0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [022.f1](../../sessions/bbugyi200.athena.022.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
