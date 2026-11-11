@@ -2,23 +2,26 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-k3](../users/bbugyi200/machines/athena/hoods/bob-cli-k3/README.md) / bob-cli-k3.8
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-k3` · Members: 2 · Bead: [bob-cli-k3.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-k3/bob-cli-k3.8.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-k3` · Members: 3 · Bead: [bob-cli-k3.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-k3/bob-cli-k3.8.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-k3.8--mon [active]"]
+  n0["bob-cli-k3.8--mon [completed]"]
   n1["bob-cli-k3.8--plan [completed]"]
   n0 --> n1
+  n2["bob-cli-k3.8--1 [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-k3.8--mon | active | muse-spark-1.3-contributor / muse | 2026-11-11T19:19:17.807008+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-k3.8--mon | completed | muse-spark-1.3-contributor / muse | 2026-11-11T19:19:17.807008+00:00 → 2026-11-11T21:29:35.796616+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-k3.8--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-k3.8--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-11T18:37:10.617342+00:00 → 2026-11-11T21:07:21.834048+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.8--plan/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-k3.8--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-11T21:32:29.771777+00:00 → 2026-11-11T21:40:34.697597+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.8--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.8--1/chat.md) |
 
 ## Neighbors
 

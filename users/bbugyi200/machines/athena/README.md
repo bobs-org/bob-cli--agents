@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** bob-cli · **Hoods:** 643 · **Runs:** 5290
+**Project:** bob-cli · **Hoods:** 643 · **Runs:** 5292
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -26,9 +26,9 @@
 | [010](hoods/010/README.md) | 2 | 0 | completed 1, dismissed 1 |
 | [015](hoods/015/README.md) | 2 | 0 | completed 2 |
 | [01c](hoods/01c/README.md) | 2 | 1 | completed 1, dismissed 1 |
-| [01e](hoods/01e/README.md) | 7 | 2 | active 1, completed 4, failed 2 |
+| [01e](hoods/01e/README.md) | 7 | 2 | completed 4, dismissed 1, failed 2 |
 | [01f](hoods/01f/README.md) | 1 | 0 | completed 1 |
-| [01g](hoods/01g/README.md) | 3 | 1 | active 1, completed 2 |
+| [01g](hoods/01g/README.md) | 3 | 1 | completed 2, dismissed 1 |
 | [01j](hoods/01j/README.md) | 1 | 0 | completed 1 |
 | [01k](hoods/01k/README.md) | 6 | 2 | completed 4, failed 2 |
 | [01m](hoods/01m/README.md) | 2 | 1 | active 1, completed 1 |
@@ -595,10 +595,10 @@
 | [bob-cli-jt](hoods/bob-cli-jt/README.md) | 17 | 2 | completed 12, failed 5 |
 | [bob-cli-k3](hoods/bob-cli-k3/README.md) | 38 | 7 | active 3, completed 25, failed 2, waiting 8 |
 | [bob-cli-k7](hoods/bob-cli-k7/README.md) | 17 | 2 | completed 15, failed 2 |
-| [bob-cli-ka](hoods/bob-cli-ka/README.md) | 20 | 3 | active 1, completed 17, failed 1, waiting 1 |
+| [bob-cli-ka](hoods/bob-cli-ka/README.md) | 22 | 3 | active 1, completed 18, failed 2, waiting 1 |
 | [bob-cli-kb](hoods/bob-cli-kb/README.md) | 5 | 1 | active 2, completed 3 |
 | [bob-cli-kc](hoods/bob-cli-kc/README.md) | 5 | 0 | completed 3, waiting 2 |
-| [bob-cli-kd](hoods/bob-cli-kd/README.md) | 27 | 3 | active 3, completed 13, failed 1, waiting 10 |
+| [bob-cli-kd](hoods/bob-cli-kd/README.md) | 27 | 3 | active 3, completed 14, failed 1, waiting 9 |
 | [bob-cli-kf](hoods/bob-cli-kf/README.md) | 13 | 2 | completed 12, failed 1 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 3 | 0 | dismissed 3 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 5 | 1 | completed 1, dismissed 4 |
