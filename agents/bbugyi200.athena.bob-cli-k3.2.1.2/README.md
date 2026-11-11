@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-k3.2.1.3](../../sessions/bbugyi200.athena.bob-cli-k3.2.1.3.md) (session · 5) | bob-cli-k3.2.1 hood | completed 4, failed 1 |
-| [bob-cli-k3.2.1.land](../bbugyi200.athena.bob-cli-k3.2.1.land/README.md) | bob-cli-k3.2.1 hood | waiting |
+| [bob-cli-k3.2.1.land](../../sessions/bbugyi200.athena.bob-cli-k3.2.1.land.md) (session · 3) | bob-cli-k3.2.1 hood | active 2, completed 1 |
 | [bob-cli-k3.10](../bbugyi200.athena.bob-cli-k3.10/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.11](../bbugyi200.athena.bob-cli-k3.11/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.4](../bbugyi200.athena.bob-cli-k3.4/README.md) | bob-cli-k3 hood | waiting |
