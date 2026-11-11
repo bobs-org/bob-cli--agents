@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-k3` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-k3.5.1.land--code [active]"]
+  n0["bob-cli-k3.5.1.land--code [completed]"]
   n1["bob-cli-k3.5.1.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-k3.5.1.land--plan [active]"]
+  n2["bob-cli-k3.5.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-k3.5.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-11T22:48:55.305515+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-k3.5.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-11T22:48:55.305515+00:00 → 2026-11-11T23:21:07.571725+00:00 | [1](../agents/bbugyi200.athena.bob-cli-k3.5.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-k3.5.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-k3.5.1.land--gate | completed | gpt-6-astra / codex | 2026-11-11T22:45:20.167910+00:00 → 2026-11-11T22:48:38.128073+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-k3.5.1.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-k3.5.1.land--plan | active | gpt-6-astra / codex | 2026-11-11T22:24:56.496622+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.5.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.5.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-k3.5.1.land--plan | completed | gpt-6-astra / codex | 2026-11-11T22:24:56.496622+00:00 → 2026-11-11T23:21:07.571725+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.5.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.5.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`300a6e8`](https://github.com/bobs-org/bob-cli/commit/300a6e81005263311408fac024038a12a50fd62d) | feat(albums): finish index write safety and preview parity | 2026-11-11 18:19:33 EST |
 
 ## Variables
 
