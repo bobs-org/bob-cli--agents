@@ -2,41 +2,66 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ji](../users/bbugyi200/machines/apollo/hoods/bob-cli-ji/README.md) / bob-cli-ji.7.1.land
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-ji` · Members: 6 · Bead: [bob-cli-ji.7.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ji/bob-cli-ji.7.1.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-ji` · Members: 14 · Bead: [bob-cli-ji.7.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ji/bob-cli-ji.7.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ji.7.1.land--code [completed]"]
-  n1["bob-cli-ji.7.1.land--gate [completed]"]
+  n0["bob-cli-ji.7.1.land--5 [completed]"]
+  n1["bob-cli-ji.7.1.land--code [completed]"]
   n0 --> n1
-  n2["bob-cli-ji.7.1.land--plan [completed]"]
+  n2["bob-cli-ji.7.1.land--gate [completed]"]
   n0 --> n2
-  n3["bob-cli-ji.7.1.land--1 [completed]"]
+  n3["bob-cli-ji.7.1.land--plan [completed]"]
   n0 --> n3
-  n4["bob-cli-ji.7.1.land--mon-0 [active]"]
+  n4["bob-cli-ji.7.1.land--1 [completed]"]
   n0 --> n4
-  n5["bob-cli-ji.7.1.land--mon [failed]"]
+  n5["bob-cli-ji.7.1.land--4 [completed]"]
   n0 --> n5
+  n6["bob-cli-ji.7.1.land--mon-3 [failed]"]
+  n0 --> n6
+  n7["bob-cli-ji.7.1.land--mon-1 [failed]"]
+  n0 --> n7
+  n8["bob-cli-ji.7.1.land--2 [completed]"]
+  n0 --> n8
+  n9["bob-cli-ji.7.1.land--mon-0 [failed]"]
+  n0 --> n9
+  n10["bob-cli-ji.7.1.land--mon-2 [failed]"]
+  n0 --> n10
+  n11["bob-cli-ji.7.1.land--mon-4 [active]"]
+  n0 --> n11
+  n12["bob-cli-ji.7.1.land--mon [failed]"]
+  n0 --> n12
+  n13["bob-cli-ji.7.1.land--3 [completed]"]
+  n0 --> n13
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
+| <a id="member-5"></a>5 | bob-cli-ji.7.1.land--5 | completed | gpt-6-luna / codex | 2026-11-11T01:02:03.489753+00:00 → 2026-11-11T01:15:23.632717+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--5/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--5/chat.md) |
 | <a id="member-code"></a>code | bob-cli-ji.7.1.land--code | completed | gpt-6-luna / codex | 2026-11-10T22:37:38.505008+00:00 → 2026-11-10T23:14:54.047036+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ji.7.1.land--gate | completed | opus / claude | 2026-11-10T22:37:01.682750+00:00 → 2026-11-10T22:37:13.745746+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-ji.7.1.land--plan | completed | opus / claude | 2026-11-10T22:13:35.268804+00:00 → 2026-11-10T23:14:54.047036+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--plan/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-ji.7.1.land--1 | completed | gpt-6-luna / codex | 2026-11-10T23:19:27.176871+00:00 → 2026-11-10T23:29:45.471209+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--1/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | bob-cli-ji.7.1.land--mon-0 | active | gpt-6-luna / codex | 2026-11-10T23:27:23.248797+00:00 | 0 | — | — |
+| <a id="member-4"></a>4 | bob-cli-ji.7.1.land--4 | completed | gpt-6-luna / codex | 2026-11-11T00:36:42.756828+00:00 → 2026-11-11T00:40:26.133974+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--4/chat.md) |
+| <a id="member-mon-3"></a>mon-3 | bob-cli-ji.7.1.land--mon-3 | failed | gpt-6-luna / codex | 2026-11-11T00:39:14.915573+00:00 → 2026-11-11T01:02:03.697489+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--mon-3/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | bob-cli-ji.7.1.land--mon-1 | failed | gpt-6-luna / codex | 2026-11-10T23:48:12.069367+00:00 → 2026-11-11T00:21:31.121012+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--mon-1/chat.md) |
+| <a id="member-2"></a>2 | bob-cli-ji.7.1.land--2 | completed | gpt-6-luna / codex | 2026-11-10T23:41:09.839732+00:00 → 2026-11-10T23:49:25.743470+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--2/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-ji.7.1.land--mon-0 | failed | gpt-6-luna / codex | 2026-11-10T23:27:23.248797+00:00 → 2026-11-10T23:41:09.923841+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--mon-0/chat.md) |
+| <a id="member-mon-2"></a>mon-2 | bob-cli-ji.7.1.land--mon-2 | failed | gpt-6-luna / codex | 2026-11-11T00:33:56.909699+00:00 → 2026-11-11T00:36:43.188988+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--mon-2/chat.md) |
+| <a id="member-mon-4"></a>mon-4 | bob-cli-ji.7.1.land--mon-4 | active | gpt-6-luna / codex | 2026-11-11T01:12:47.151487+00:00 | 0 | — | — |
 | <a id="member-mon"></a>mon | bob-cli-ji.7.1.land--mon | failed | gpt-6-luna / codex | 2026-11-10T23:13:51.850224+00:00 → 2026-11-10T23:19:27.471976+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--mon/chat.md) |
+| <a id="member-3"></a>3 | bob-cli-ji.7.1.land--3 | completed | gpt-6-luna / codex | 2026-11-11T00:21:30.806924+00:00 → 2026-11-11T00:35:14.534292+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7.1.land--3/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | 1 | bob-cli | [`4c1f7dd`](https://github.com/bobs-org/bob-cli/commit/4c1f7dde9f6e8515f069ccfd3e58c30047d76a0e) | fix(gcal): clean event note lint and add preview fixtures | 2026-11-10 18:28:36 EST |
+| 5 | bob-cli | [`85e618d`](https://github.com/bobs-org/bob-cli/commit/85e618d889ab2172c29ab5b25cae66d209968936) | test(cli): align catalog and gcal doctor expectations | 2026-11-10 20:14:17 EST |
 
 ## Neighbors
 
