@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5fe094c`](https://github.com/bobs-org/bob-cli/commit/5fe094cbd72191f760d6b51ec4193b63468447eb) | chore: Add SDD prompt and plan for ctrl\_enter\_task\_completion | 2026-06-05 15:28:39 EDT |
+| — | `5fe094c` | chore: Add SDD prompt and plan for ctrl\_enter\_task\_completion | 2026-06-05 15:28:39 EDT |
 
 ## Neighbors
 
@@ -25,5 +25,5 @@
 |---|---|---|
 | [2q.f1.f1](../bbugyi200.apollo.2q.f1.f1/README.md) | ancestor | completed |
 | [2q.f1](../bbugyi200.apollo.2q.f1/README.md) | ancestor | completed |
-| [2q](../../sessions/bbugyi200.apollo.2q.md) (session · 3) | ancestor | active 1, failed 2 |
+| [2q](../../sessions/bbugyi200.apollo.2q.md) (session · 3) | ancestor | dismissed 1, failed 2 |
 | [2q.f2](../bbugyi200.apollo.2q.f2/README.md) | 2q hood | completed |

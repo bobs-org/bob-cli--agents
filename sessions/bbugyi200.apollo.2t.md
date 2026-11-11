@@ -11,7 +11,7 @@ flowchart TD
   n0["2t--gate [failed]"]
   n1["2t--mon [failed]"]
   n0 --> n1
-  n2["2t--plan [active]"]
+  n2["2t--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 2t--gate | failed | opus / claude | 2026-09-28T17:31:15.009020+00:00 → 2026-09-28T17:31:22.176532+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.2t--gate/chat.md) |
 | <a id="member-mon"></a>mon | 2t--mon | failed | opus / claude | 2026-09-28T17:31:21.243672+00:00 → 2026-09-28T17:32:03.838211+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.2t--mon/chat.md) |
-| <a id="member-plan"></a>plan | 2t--plan | active | opus / claude | 2026-09-28T17:14:36.703933+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.2t--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.2t--plan/chat.md) |
+| <a id="member-plan"></a>plan | 2t--plan | dismissed | opus / claude | 2026-09-28T13:14:36.703933 → 2026-09-28T13:31:27.784714 | 0 | [Prompt](../agents/bbugyi200.apollo.2t--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.2t--plan/chat.md) |
 
 ## Neighbors
 

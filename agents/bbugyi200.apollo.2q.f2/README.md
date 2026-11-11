@@ -17,13 +17,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b10216d`](https://github.com/bobs-org/bob-cli/commit/b10216d764364bd1cebca0d0b2f5301dfa5a7472) | chore: Add SDD prompt and plan for enter\_current\_line | 2026-06-05 16:25:37 EDT |
+| — | `b10216d` | chore: Add SDD prompt and plan for enter\_current\_line | 2026-06-05 16:25:37 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [2q](../../sessions/bbugyi200.apollo.2q.md) (session · 3) | ancestor | active 1, failed 2 |
+| [2q](../../sessions/bbugyi200.apollo.2q.md) (session · 3) | ancestor | dismissed 1, failed 2 |
 | [2q.f1](../bbugyi200.apollo.2q.f1/README.md) | 2q hood | completed |
 | [2q.f1.f1](../bbugyi200.apollo.2q.f1.f1/README.md) | 2q hood | completed |
 | [2q.f1.f1.w1](../bbugyi200.apollo.2q.f1.f1.w1/README.md) | 2q hood | completed |

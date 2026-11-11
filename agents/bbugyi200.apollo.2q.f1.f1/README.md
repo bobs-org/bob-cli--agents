@@ -17,13 +17,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f42aa87`](https://github.com/bobs-org/bob-cli/commit/f42aa87f07b8d8606faaf5679f7083e368b11882) | chore: Add SDD prompt and plan for vim\_backspace\_link\_action | 2026-06-05 15:15:36 EDT |
+| — | `f42aa87` | chore: Add SDD prompt and plan for vim\_backspace\_link\_action | 2026-06-05 15:15:36 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [2q.f1](../bbugyi200.apollo.2q.f1/README.md) | ancestor | completed |
-| [2q](../../sessions/bbugyi200.apollo.2q.md) (session · 3) | ancestor | active 1, failed 2 |
+| [2q](../../sessions/bbugyi200.apollo.2q.md) (session · 3) | ancestor | dismissed 1, failed 2 |
 | [2q.f1.f1.w1](../bbugyi200.apollo.2q.f1.f1.w1/README.md) | descendant | completed |
 | [2q.f2](../bbugyi200.apollo.2q.f2/README.md) | 2q hood | completed |

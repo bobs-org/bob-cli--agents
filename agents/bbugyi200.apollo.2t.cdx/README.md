@@ -17,10 +17,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e351bf7`](https://github.com/bobs-org/bob-cli/commit/e351bf759e854fcd1c58a24b8c2d2db00039d7ef) | chore: Add SDD prompt and plan for obsidian\_vimrc\_sync | 2026-06-05 16:12:34 EDT |
+| — | `e351bf7` | chore: Add SDD prompt and plan for obsidian\_vimrc\_sync | 2026-06-05 16:12:34 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [2t](../../sessions/bbugyi200.apollo.2t.md) (session · 3) | ancestor | active 1, failed 2 |
+| [2t](../../sessions/bbugyi200.apollo.2t.md) (session · 3) | ancestor | dismissed 1, failed 2 |
