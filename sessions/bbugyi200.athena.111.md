@@ -11,7 +11,7 @@ flowchart TD
   n0["111--code [completed]"]
   n1["111--gate [failed]"]
   n0 --> n1
-  n2["111--plan [active]"]
+  n2["111--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 111--code | completed | gpt-6-luna / codex | 2026-10-17T16:22:39.292488+00:00 → 2026-10-17T16:37:09.728418+00:00 | [1](../agents/bbugyi200.athena.111--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | 111--gate | failed | opus / claude | 2026-10-17T16:21:34.607333+00:00 → 2026-10-17T16:22:27.008710+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.111--gate/chat.md) |
-| <a id="member-plan"></a>plan | 111--plan | active | opus / claude | 2026-10-17T16:04:33.304111+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.111--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.111--plan/chat.md) |
+| <a id="member-plan"></a>plan | 111--plan | dismissed | opus / claude | 2026-10-17T12:04:33.304111 → 2026-10-17T12:37:09.735320 | 0 | [Prompt](../agents/bbugyi200.athena.111--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.111--plan/chat.md) |
 
 ## Commits
 
