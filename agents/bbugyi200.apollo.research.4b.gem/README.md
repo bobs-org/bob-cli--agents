@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4b.gem
 
-**Global name:** `bbugyi200.apollo.research.4b.gem` · **State:** active · **Source run:** `run-af8299de30f7a6078e85bce9bdf2399e`
+**Global name:** `bbugyi200.apollo.research.4b.gem` · **State:** completed · **Source run:** `run-af8299de30f7a6078e85bce9bdf2399e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-12T10:51:33.938970+00:00
+- Timing: 2026-11-12T10:51:33.938970+00:00 → 2026-11-12T11:03:55.894604+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/album\_record\_schema\_obsidian\_ux\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112055013/album\_record\_schema\_obsidian\_ux\_\_gem-b22… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/album_record_schema_obsidian_ux__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112055013/album_record_schema_obsidian_ux__gem-b22dd4bfb400.md
+  ref: file:explicit:1cacf8e77d3942aa7f9cd5a7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/album_record_schema_obsidian_ux__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
