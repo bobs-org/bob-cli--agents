@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`160d554`](https://github.com/bobs-org/bob-cli/commit/160d5544e1aa7079eee20d77186fb0bf2e2c8d41) | feat(highlights): add exact PDF output path to create | 2026-08-29 06:52:37 EDT |
+| — | `160d554` | feat(highlights): add exact PDF output path to create | 2026-08-29 06:52:37 EDT |

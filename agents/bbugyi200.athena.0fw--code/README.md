@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5e2f5ea`](https://github.com/bobs-org/bob-cli/commit/5e2f5eae92dd8910e8ba4556d13ad6bdc05c4fb6) | feat(capture): create named future pomodoros | 2026-08-29 07:10:59 EDT |
+| — | `5e2f5ea` | feat(capture): create named future pomodoros | 2026-08-29 07:10:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0fw.f0](../../sessions/bbugyi200.athena.0fw.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [0fw.f0](../../sessions/bbugyi200.athena.0fw.f0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |

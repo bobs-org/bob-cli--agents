@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`76c259e`](https://github.com/bobs-org/bob-cli/commit/76c259e06835d91e6121aeeb86655c539db68fb5) | docs(projects): document managed work logs moving onto ^prj | 2026-08-29 10:14:26 EDT |
+| — | `76c259e` | docs(projects): document managed work logs moving onto ^prj | 2026-08-29 10:14:26 EDT |
