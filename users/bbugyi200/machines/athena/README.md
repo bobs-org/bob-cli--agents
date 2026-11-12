@@ -599,7 +599,7 @@
 | [bob-cli-ka](hoods/bob-cli-ka/README.md) | 27 | 4 | completed 24, failed 3 |
 | [bob-cli-kb](hoods/bob-cli-kb/README.md) | 5 | 1 | active 2, completed 3 |
 | [bob-cli-kc](hoods/bob-cli-kc/README.md) | 23 | 2 | completed 20, failed 3 |
-| [bob-cli-kd](hoods/bob-cli-kd/README.md) | 48 | 6 | active 2, completed 33, failed 8, waiting 5 |
+| [bob-cli-kd](hoods/bob-cli-kd/README.md) | 48 | 6 | active 2, completed 34, failed 8, waiting 4 |
 | [bob-cli-kf](hoods/bob-cli-kf/README.md) | 13 | 2 | completed 12, failed 1 |
 | [bob-cli-kj](hoods/bob-cli-kj/README.md) | 21 | 5 | completed 19, failed 2 |
 | [bob-cli-kq](hoods/bob-cli-kq/README.md) | 13 | 3 | completed 11, failed 2 |
