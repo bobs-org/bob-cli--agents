@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-kr](../../users/bbugyi200/machines/apollo/hoods/bob-cli-kr/README.md) / bob-cli-kr.2.1.1
 
-**Global name:** `bbugyi200.apollo.bob-cli-kr.2.1.1` · **State:** active · **Source run:** `run-f1b8ba20e77d999a85df8a5a6138b96e`
+**Global name:** `bbugyi200.apollo.bob-cli-kr.2.1.1` · **State:** completed · **Source run:** `run-f1b8ba20e77d999a85df8a5a6138b96e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-kr
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-kr.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kr/bob-cli-kr.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-12T12:58:16.171720+00:00
-- Commits: 0
+- Timing: 2026-11-12T12:58:16.171720+00:00 → 2026-11-12T14:12:13.834748+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`de5c0e5`](https://github.com/bobs-org/bob-cli/commit/de5c0e56d041af61aa0a4dd3d433a228754e66af) | feat(albums): validate ordered schema operations and consequences | 2026-11-12 09:11:26 EST |
 
 ## Neighbors
 
