@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4h.grk
 
-**Global name:** `bbugyi200.apollo.research.4h.grk` · **State:** active · **Source run:** `run-da2ec6c1ebeba968992e6cd63f860df3`
+**Global name:** `bbugyi200.apollo.research.4h.grk` · **State:** completed · **Source run:** `run-da2ec6c1ebeba968992e6cd63f860df3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-12T20:11:51.923987+00:00
+- Timing: 2026-11-12T20:11:51.923987+00:00 → 2026-11-12T20:36:12.585375+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gcal\_guest\_event\_ack\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112151021/gcal\_guest\_event\_ack\_\_grk-249d27d68bb1.md, ref: fil… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gcal_guest_event_ack__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112151021/gcal_guest_event_ack__grk-249d27d68bb1.md
+  ref: file:explicit:1acf41d72cf4efadbeb5e607
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202611/gcal_guest_event_ack__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
