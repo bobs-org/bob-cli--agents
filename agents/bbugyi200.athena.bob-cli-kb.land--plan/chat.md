@@ -1,35 +1,35 @@
 # Chat History - ace-run (bob-cli-kb.land--plan)
 
-- **TIMESTAMP:** 2026-11-11 12:29:36 EST
+- **TIMESTAMP:** 2026-11-12 10:47:07 EST
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-kb.land--plan
 
-**Plan:** /home/bryan/.sase/plans/202611/yank_flash_landing_repairs.md
+**Plan:** /home/bryan/.sase/plans/202611/yank_flash_landing_recovery.md
 
 
 ## Proposed Plan Preview
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202611/yank_flash_landing_repairs.md`
+**Plan file:** `/home/bryan/.sase/plans/202611/yank_flash_landing_recovery.md`
 
-> - **PARENT:** [202611/vim_yank_flash.md](202611/vim_yank_flash.md)
 > - **BEAD:** bob-cli-kb
-> # Finish Bob Vim Yank Flash and land bob-cli-kb
-> Repair the remaining viewport and verification gaps in epic `bob-cli-kb`, then finish
-> its landing in this implementation turn. This is one bounded plugin/test/docs repair,
-> not another multi-phase epic. Do not wait for another land agent or for the final code's
-> future commit, push, or CI result to close the epic.
-> ## Context and scope
-> Read `sase bead read bob-cli-kb -r "Need current landing notes and child readiness"` and
-> its two children, including all notes. Read the approved original plan with
+> # Recover the remaining yank-flash repairs and land bob-cli-kb
+> Finish the remaining work of epic `bob-cli-kb` in one coding agent, including its normal
+> closeout. Both original phases are closed, but their current source does not satisfy the
+> accepted viewport and verification contracts. This tale continues
+> `plan:202611/yank_flash_landing_repairs.md` and adds the subsequently reported mounted
+> documentation link and newer plugin integration. Do not restart the feature or create
+> another epic. There is no separate land agent after this tale.
+> ## Evidence and boundaries
+> Read `bob-cli-kb`, `bob-cli-kb.1`, and `bob-cli-kb.2` with `sase bead read`, including
 
 *See full plan file for details.*
 
 ## Prompt
 
-#gh:gh_bobs-org__bob-cli
 %id(land, clan=bob-cli-kb, bead=bob-cli-kb)
+#gh:gh_bobs-org__bob-cli
 %model:@large
 %auto
 %w(bob-cli-kb.1,bob-cli-kb.2, for_epic=false)
@@ -105,26 +105,33 @@ and report it in your final response.
 
 ## Response
 
-I’ll review the epic, every child note, and the implementation, then check later changes for integration gaps. I’ll use the SASE memory and finalization skills, plus the planning workflow if I find remaining work.
+I’ll use the SASE memory and bead workflows to review the epic, its children, and the commits, then check integration with newer changes before closing it out.
 
 
-Both phases are closed. Their notes report the plugin implemented, tested in Obsidian, and enabled in the vault; they also propose follow-ups for existing test flakes and documentation limits. I’m checking those claims against the plugin source and commits before deciding whether the epic can close.
+Both phases are closed, but the epic has unresolved landing notes about viewport safety, the end-to-end test assertions, and a broken documentation link. I’m checking which were fixed in later commits and what remains.
 
 
-The epic’s two commits are in `bob-plugins`. The main integration points are the newer Cmd+Y Copy card and Keep-moving marks, which also interact with editors. I’m using the SASE repository and follow-up triage skills; several reported test and docs issues already have matching beads.
+Current master still has the viewport bug and weak test assertions. A linked report describes a repaired 0.1.1 build, but that code is absent from the repository history I’ve checked. I’m tracing that discrepancy and rechecking follow-up triage before preparing the required repair plan.
 
 
-The 35 focused tests pass, and there are no epic-symbol exemptions. I found a verification gap: the Obsidian harness accepts “at least one mark” for most characterwise yanks and checks only that the register is readable, so it doesn’t yet prove the highlighted span matches the copied text. It also uses an 18-line fixture for the planned deep-scroll check. I’m checking those gaps and the flash’s tab-switch lifetime before closing.
+The 35 focused tests pass, but a direct probe confirms they miss the defects: an offscreen range is still decorated, and the end-to-end assertion accepts fabricated highlights on the wrong line.
+
+The earlier follow-ups are already tracked. The documentation-budget and Block ID performance issues are now closed; the timing and browser flakes remain separate. I’ll preserve those outcomes and put the epic-owned repairs, integration checks, and closeout in one medium tale.
 
 
-The gap is confirmed: the harness accepts a fabricated highlight on the wrong line with the wrong text. The decoration builder also returns characterwise marks outside `visibleRanges`, contrary to the plan’s viewport rule. I’ll keep the epic open and use the required `sase_plan` workflow for a bounded repair tale that includes final closeout. The vault currently reports the plugin synced and enabled.
+The vault currently matches master’s 0.1.0 build. I found the earlier report and approval history for 0.1.1, but they don’t establish that the repairs landed.
+
+The new plan will include the broken mounted-docs link and checks against the newer bank and album widgets. It will also require the coder to close this epic and mark its plans done, without waiting for another land agent or a future commit.
 
 
-The build and validation checks pass. I’ve corroborated six existing follow-up beads and recorded why the vague Relation Chips report doesn’t justify a new task yet. The repair tale is validated and includes viewport fixes, stronger Obsidian assertions, checks against Copy card and Keep-moving marks, and the epic’s final closeout.
+The remaining-work tale passes SASE plan validation, and I’ve recorded the audit and every follow-up outcome on the epic. I’m using `/sase_plan` to stage it as requested. The epic and its plans will stay open until the repairs and acceptance checks are complete.
 
 
-`bob-cli-kb` remains open: viewport handling violates the plan, and the Obsidian tests can accept incorrect highlights.
+The repair tale is staged. I’ll submit the required `/sase_final` declaration now; the host can then present the proposal for review.
 
-Verified both commits and all child notes; 35 focused tests, build checks, and validation pass. Corroborated six existing follow-up beads and documented the declined proposal.
 
-Staged a validated medium repair tale that includes integration checks and final epic closeout. The [SASE planning skill](/home/bryan/.codex/skills/sase_plan/SKILL.md) requires staged proposals to “finish through `/sase_final`”; finalization is complete.
+`bob-cli-kb` remains open: I reproduced viewport bugs, inadequate e2e assertions, and the broken docs link. The previously reported 0.1.1 repairs are absent from current master.
+
+Focused tests passed 62/62; build and manifest checks passed. All child follow-ups were reconciled with existing tasks.
+
+Per your workflow, I staged a validated medium repair tale covering the remaining fixes, integration, verification, deployment, and epic closeout. No `just check-full` was run.

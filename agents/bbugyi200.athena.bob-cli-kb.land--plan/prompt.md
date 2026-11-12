@@ -1,5 +1,5 @@
-#gh:gh_bobs-org__bob-cli
 %id(land, clan=bob-cli-kb, bead=bob-cli-kb)
+#gh:gh_bobs-org__bob-cli
 %model:@large
 %auto
 %w(bob-cli-kb.1,bob-cli-kb.2, for_epic=false)
