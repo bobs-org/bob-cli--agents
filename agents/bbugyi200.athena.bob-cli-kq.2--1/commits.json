@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-33848c4ddf708103e1aeeaefad998d19"}
+{"commits":[{"committed_at":1794482564,"sha":"4ffa85d03376aa5747dbb10070658f1a452a56a4","subject":"fix(gcal): escape organizer title tags and links"}],"schema_version":2,"source_run_id":"run-33848c4ddf708103e1aeeaefad998d19"}

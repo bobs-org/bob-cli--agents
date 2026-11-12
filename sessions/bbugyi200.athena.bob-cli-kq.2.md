@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-kq` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-kq.2--1 [active]"]
+  n0["bob-cli-kq.2--1 [completed]"]
   n1["bob-cli-kq.2--plan [completed]"]
   n0 --> n1
   n2["bob-cli-kq.2--mon [completed]"]
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-kq.2--1 | active | grok-4.6 / grok | 2026-11-12T11:06:07.156732+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-kq.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-kq.2--1 | completed | grok-4.6 / grok | 2026-11-12T11:06:07.156732+00:00 → 2026-11-12T11:23:29.541194+00:00 | [1](../agents/bbugyi200.athena.bob-cli-kq.2--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-kq.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-kq.2--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-kq.2--plan | completed | grok-4.6 / grok | 2026-11-12T10:28:55.577235+00:00 → 2026-11-12T10:47:25.786769+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-kq.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-kq.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-kq.2--mon | completed | grok-4.6 / grok | 2026-11-12T10:45:52.074061+00:00 → 2026-11-12T11:00:33.799197+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-kq.2--mon/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | bob-cli | [`4ffa85d`](https://github.com/bobs-org/bob-cli/commit/4ffa85d03376aa5747dbb10070658f1a452a56a4) | fix(gcal): escape organizer title tags and links | 2026-11-12 06:22:44 EST |
 
 ## Neighbors
 
@@ -30,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-kq.1](bbugyi200.athena.bob-cli-kq.1.md) (session · 3) | bob-cli-kq hood | completed 3 |
 | [bob-cli-kq.3](../agents/bbugyi200.athena.bob-cli-kq.3/README.md) | bob-cli-kq hood | completed |
 | [bob-cli-kq.4](../agents/bbugyi200.athena.bob-cli-kq.4/README.md) | bob-cli-kq hood | completed |
-| [bob-cli-kq.5](bbugyi200.athena.bob-cli-kq.5.md) (session · 3) | bob-cli-kq hood | active 1, completed 1, failed 1 |
+| [bob-cli-kq.5](bbugyi200.athena.bob-cli-kq.5.md) (session · 4) | bob-cli-kq hood | active 2, completed 1, failed 1 |
