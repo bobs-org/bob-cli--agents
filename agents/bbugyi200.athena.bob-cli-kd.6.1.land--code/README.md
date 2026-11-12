@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kd](../../users/bbugyi200/machines/athena/hoods/bob-cli-kd/README.md) / [bob-cli-kd.6.1.land](../../sessions/bbugyi200.athena.bob-cli-kd.6.1.land.md) / bob-cli-kd.6.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-kd.6.1.land--code` · **State:** active · **Source run:** `run-8258bd7d6badd057cba747d2407f8482`
+**Global name:** `bbugyi200.athena.bob-cli-kd.6.1.land--code` · **State:** completed · **Source run:** `run-8258bd7d6badd057cba747d2407f8482`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kd
 
@@ -11,8 +11,38 @@
 - Bead: [bob-cli-kd.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kd/bob-cli-kd.6.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-12T13:16:48.327017+00:00
+- Timing: 2026-11-12T13:16:48.327017+00:00 → 2026-11-12T14:08:17.518976+00:00
 - Commits: 0
+- Variables: [1](#variables)
+
+## Files
+
+[Chat](chat.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-kd.6.1, kind: markdown, label: Bank UI real Obsidian e2e proof, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112081554/bank-obsidian-real-e2e-proof-49b75c21db14.… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-kd.6.1
+  kind: markdown
+  label: Bank UI real Obsidian e2e proof
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112081554/bank-obsidian-real-e2e-proof-49b75c21db14.md
+  ref: file:explicit:5108436f9dc3a24ac16be6c0
+  source_path: /tmp/bank-obsidian-real-e2e-proof.md
+- bead: bob-cli-kd.6.1
+  kind: file
+  label: Bank UI e2e JSON report
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112081554/bob-bank-ui-e2e-1d21b85493c7.json
+  ref: file:explicit:e292c8e186caf37aa4a18eee
+  source_path: /tmp/bob-bank-ui-e2e.json
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

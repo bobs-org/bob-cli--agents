@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-kd.6.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_kd_6_1_land__plan-261111_142932.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_kd_6_1_land__code-261111_142932.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/bank_obsidian_real_e2e_and_land.md
 
 

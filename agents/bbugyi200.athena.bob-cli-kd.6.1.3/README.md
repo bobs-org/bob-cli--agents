@@ -47,7 +47,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-kd.6.1.2](../bbugyi200.athena.bob-cli-kd.6.1.2/README.md) | bob-cli-kd.6.1 hood | completed |
 | [bob-cli-kd.6.1.4](../bbugyi200.athena.bob-cli-kd.6.1.4/README.md) | bob-cli-kd.6.1 hood | completed |
 | [bob-cli-kd.6.1.5](../bbugyi200.athena.bob-cli-kd.6.1.5/README.md) | bob-cli-kd.6.1 hood | completed |
-| [bob-cli-kd.6.1.land](../../sessions/bbugyi200.athena.bob-cli-kd.6.1.land.md) (session · 3) | bob-cli-kd.6.1 hood | active 2, completed 1 |
+| [bob-cli-kd.6.1.land](../../sessions/bbugyi200.athena.bob-cli-kd.6.1.land.md) (session · 3) | bob-cli-kd.6.1 hood | completed 3 |
 | [bob-cli-kd.1](../bbugyi200.athena.bob-cli-kd.1/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.2](../../sessions/bbugyi200.athena.bob-cli-kd.2.md) (session · 5) | bob-cli-kd hood | completed 4, failed 1 |
 | [bob-cli-kd.3](../bbugyi200.athena.bob-cli-kd.3/README.md) | bob-cli-kd hood | completed |

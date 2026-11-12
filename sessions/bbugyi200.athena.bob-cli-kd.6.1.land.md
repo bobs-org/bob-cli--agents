@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-kd` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-kd.6.1.land--plan [active]"]
-  n1["bob-cli-kd.6.1.land--code [active]"]
+  n0["bob-cli-kd.6.1.land--plan [completed]"]
+  n1["bob-cli-kd.6.1.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-kd.6.1.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,36 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-kd.6.1.land--plan | active | opus / claude | 2026-11-12T12:45:41.091535+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-kd.6.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-kd.6.1.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-kd.6.1.land--code | active | grok-4.6 / grok | 2026-11-12T13:16:48.327017+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-kd.6.1.land--plan | completed | opus / claude | 2026-11-12T12:45:41.091535+00:00 → 2026-11-12T14:08:17.518976+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-kd.6.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-kd.6.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-kd.6.1.land--code | completed | grok-4.6 / grok | 2026-11-12T13:16:48.327017+00:00 → 2026-11-12T14:08:17.518976+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-kd.6.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-kd.6.1.land--gate | completed | opus / claude | 2026-11-12T13:13:56.117511+00:00 → 2026-11-12T13:15:46.661276+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-kd.6.1.land--gate/chat.md) |
+
+## Variables
+
+| Role | Variable | Value |
+|---|---|---|
+| code | `artifacts` | \[{bead: bob-cli-kd.6.1, kind: markdown, label: Bank UI real Obsidian e2e proof, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112081554/bank-obsidian-real-e2e-proof-49b75c21db14.… |
+
+#### artifacts
+
+**Role:** `code`
+
+```yaml
+- bead: bob-cli-kd.6.1
+  kind: markdown
+  label: Bank UI real Obsidian e2e proof
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112081554/bank-obsidian-real-e2e-proof-49b75c21db14.md
+  ref: file:explicit:5108436f9dc3a24ac16be6c0
+  source_path: /tmp/bank-obsidian-real-e2e-proof.md
+- bead: bob-cli-kd.6.1
+  kind: file
+  label: Bank UI e2e JSON report
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112081554/bob-bank-ui-e2e-1d21b85493c7.json
+  ref: file:explicit:e292c8e186caf37aa4a18eee
+  source_path: /tmp/bob-bank-ui-e2e.json
+```
+
+Values are truncated for display; see each member's agent meta.json for the full values.
 
 ## Neighbors
 
