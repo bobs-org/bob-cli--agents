@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4f.image
 
-**Global name:** `bbugyi200.apollo.research.4f.image` · **State:** waiting · **Source run:** `run-6672598466efe47c3df43e156ca1898b`
+**Global name:** `bbugyi200.apollo.research.4f.image` · **State:** completed · **Source run:** `run-6672598466efe47c3df43e156ca1898b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261112122710
+- Timing: 2026-11-12T18:13:39.324243+00:00 → 2026-11-12T18:24:12.848036+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/sase\_blog\_drafting\_in\_records/sase\_blog\_drafting\_in\_records\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112122710/sase\_blog\_… |
+| `diagrams` | {considered: 12, count: 1, manifest: 202611/sase\_blog\_drafting\_in\_records/sase\_blog\_drafting\_in\_records.diagrams.md, source\_ref: file:explicit:1bf3b317db88de2477442b81, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/sase_blog_drafting_in_records/sase_blog_drafting_in_records_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112122710/sase_blog_drafting_in_records_infographic-f56fa1770142.png
+  ref: file:explicit:fe0e422d25146965dab2d9eb
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/sase_blog_drafting_in_records/sase_blog_drafting_in_records_infographic.png
+- kind: markdown
+  label: diagrams:202611/sase_blog_drafting_in_records/sase_blog_drafting_in_records.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112122710/sase_blog_drafting_in_records.diagrams-9bfb86c754cd.md
+  ref: file:explicit:b0aa0b55f660a4957e9a1017
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/sase_blog_drafting_in_records/sase_blog_drafting_in_records.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 1
+manifest: 202611/sase_blog_drafting_in_records/sase_blog_drafting_in_records.diagrams.md
+source_ref: file:explicit:1bf3b317db88de2477442b81
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
