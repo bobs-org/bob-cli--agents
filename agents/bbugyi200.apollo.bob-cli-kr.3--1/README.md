@@ -27,6 +27,6 @@
 | [bob-cli-kr.2.1.1](../bbugyi200.apollo.bob-cli-kr.2.1.1/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.2.1.2](../bbugyi200.apollo.bob-cli-kr.2.1.2/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.2.1.3](../bbugyi200.apollo.bob-cli-kr.2.1.3/README.md) | bob-cli-kr hood | completed |
-| [bob-cli-kr.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.2.1.land.md) (session · 3) | bob-cli-kr hood | active 2, completed 1 |
+| [bob-cli-kr.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.2.1.land.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.4](../bbugyi200.apollo.bob-cli-kr.4/README.md) | bob-cli-kr hood | waiting |
 | [bob-cli-kr.land](../bbugyi200.apollo.bob-cli-kr.land/README.md) | bob-cli-kr hood | waiting |

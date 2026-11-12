@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-kr](../../users/bbugyi200/machines/apollo/hoods/bob-cli-kr/README.md) / [bob-cli-kr.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.2.1.land.md) / bob-cli-kr.2.1.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-kr.2.1.land--code` · **State:** active · **Source run:** `run-6572bf22caf92d98d949419e54aa781d`
+**Global name:** `bbugyi200.apollo.bob-cli-kr.2.1.land--code` · **State:** completed · **Source run:** `run-6572bf22caf92d98d949419e54aa781d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-kr
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-kr.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kr/bob-cli-kr.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-12T16:54:24.376810+00:00
-- Commits: 0
+- Timing: 2026-11-12T16:54:24.376810+00:00 → 2026-11-12T18:40:24.492738+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`27dd275`](https://github.com/bobs-org/bob-cli/commit/27dd275664eb928df33f88cc952604b1dc18f106) | feat(albums): repair guarded writer landing | 2026-11-12 13:38:15 EST |
 
 ## Neighbors
 
