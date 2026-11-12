@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 994 · **Sessions:** 48 · **States:** active 121, completed 347, dismissed 483, failed 40, waiting 3
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 994 · **Sessions:** 48 · **States:** active 121, completed 348, dismissed 483, failed 40, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -283,7 +283,7 @@
 | [research.04.linker](../../../../../../agents/bbugyi200.apollo.research.04.linker/README.md) | dismissed | opus / claude | 2026-10-03T15:19:14 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.04.linker/prompt.md) |
 | [research.4b.linker.w0.f0](../../../../../../agents/bbugyi200.apollo.research.4b.linker.w0.f0/README.md) | active | claude-fable-5 / claude | 2026-11-12T12:00:45.192273+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.4b.linker.w0.f0/prompt.md) |
 | [research.35.mus](../../../../../../agents/bbugyi200.apollo.research.35.mus/README.md) | active | muse-spark-1.3-contributor / muse | 2026-11-03T17:09:47.750666+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.35.mus/prompt.md) |
-| [research.4h.final](../../../../../../agents/bbugyi200.apollo.research.4h.final/README.md) | waiting | claude-fable-5 / claude | 20261112151026 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.4h.final/prompt.md) |
+| [research.4h.final](../../../../../../agents/bbugyi200.apollo.research.4h.final/README.md) | completed | claude-fable-5 / claude | 2026-11-12T20:36:30.403659+00:00 → 2026-11-12T20:53:46.764913+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.4h.final/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.4h.final/chat.md) |
 | [research.0e.linker](../../../../../../agents/bbugyi200.apollo.research.0e.linker/README.md) | dismissed | opus / claude | 2026-10-07T13:12:22.346462 → 2026-10-07T13:19:08.278550 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.0e.linker/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.0e.linker/chat.md) |
 | [research.0.cdx](../../../../../../agents/bbugyi200.apollo.research.0.cdx/README.md) | completed | — | 2026-06-09T12:39:02+00:00 → 2026-06-09T12:39:02+00:00 | 1 | — |
 | [research.0.final.f1](../../../../../../agents/bbugyi200.apollo.research.0.final.f1/README.md) | completed | — | 2026-06-09T13:56:37+00:00 → 2026-06-09T13:56:37+00:00 | 1 | — |
