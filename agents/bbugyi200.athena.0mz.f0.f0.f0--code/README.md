@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1d3373f`](https://github.com/bobs-org/bob-cli/commit/1d3373fb2249e20956952fcaaa6bd359c64ded88) | feat(capture): relocate named task links with Ensure Next | 2026-09-18 14:15:44 EDT |
+| — | `1d3373f` | feat(capture): relocate named task links with Ensure Next | 2026-09-18 14:15:44 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0mz.f0.f0](../../sessions/bbugyi200.athena.0mz.f0.f0.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0mz.f0](../../sessions/bbugyi200.athena.0mz.f0.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0mz](../../sessions/bbugyi200.athena.0mz.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0mz.f0.f0](../../sessions/bbugyi200.athena.0mz.f0.f0.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0mz.f0](../../sessions/bbugyi200.athena.0mz.f0.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0mz](../../sessions/bbugyi200.athena.0mz.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |

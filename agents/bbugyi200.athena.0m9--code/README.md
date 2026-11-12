@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d2fe3a3`](https://github.com/bobs-org/bob-cli/commit/d2fe3a3a24c9a56e162646dc0c11f87c39c2a280) | feat(task-status): prune empty pomodoros | 2026-09-17 10:20:01 EDT |
+| — | `d2fe3a3` | feat(task-status): prune empty pomodoros | 2026-09-17 10:20:01 EDT |

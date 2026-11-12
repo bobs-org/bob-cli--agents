@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9aaeb9e`](https://github.com/bobs-org/bob-cli/commit/9aaeb9ec053c46366b9bb8e235085af3fbee6abd) | feat(capture): make ensure-next task toggle default | 2026-09-18 13:35:29 EDT |
+| — | `9aaeb9e` | feat(capture): make ensure-next task toggle default | 2026-09-18 13:35:29 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0mz.f0](../../sessions/bbugyi200.athena.0mz.f0.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0mz](../../sessions/bbugyi200.athena.0mz.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0mz.f0.f0.f0](../../sessions/bbugyi200.athena.0mz.f0.f0.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [0mz.f0](../../sessions/bbugyi200.athena.0mz.f0.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0mz](../../sessions/bbugyi200.athena.0mz.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0mz.f0.f0.f0](../../sessions/bbugyi200.athena.0mz.f0.f0.f0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |

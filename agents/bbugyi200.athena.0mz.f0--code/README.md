@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a72b355`](https://github.com/bobs-org/bob-cli/commit/a72b3550d1ec8417412082c8625a651b2550627e) | feat(capture): add @route+block-id! force-Next Task Link relocation | 2026-09-18 13:04:27 EDT |
+| — | `a72b355` | feat(capture): add @route+block-id! force-Next Task Link relocation | 2026-09-18 13:04:27 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0mz](../../sessions/bbugyi200.athena.0mz.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
-| [0mz.f0.f0](../../sessions/bbugyi200.athena.0mz.f0.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
-| [0mz.f0.f0.f0](../../sessions/bbugyi200.athena.0mz.f0.f0.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [0mz](../../sessions/bbugyi200.athena.0mz.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
+| [0mz.f0.f0](../../sessions/bbugyi200.athena.0mz.f0.f0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
+| [0mz.f0.f0.f0](../../sessions/bbugyi200.athena.0mz.f0.f0.f0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
