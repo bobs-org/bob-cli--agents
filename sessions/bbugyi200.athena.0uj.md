@@ -11,7 +11,7 @@ flowchart TD
   n0["0uj--gate [failed]"]
   n1["0uj--mon [failed]"]
   n0 --> n1
-  n2["0uj--plan [active]"]
+  n2["0uj--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,4 +21,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0uj--gate | failed | opus / claude | 2026-10-01T01:30:56.358818+00:00 → 2026-10-01T01:31:23.846926+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0uj--gate/chat.md) |
 | <a id="member-mon"></a>mon | 0uj--mon | failed | opus / claude | 2026-10-01T01:31:23.159449+00:00 → 2026-10-01T01:33:57.304456+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0uj--mon/chat.md) |
-| <a id="member-plan"></a>plan | 0uj--plan | active | opus / claude | 2026-10-01T01:12:58.221373+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0uj--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0uj--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0uj--plan | dismissed | opus / claude | 2026-09-30T21:12:58.221373 → 2026-09-30T21:31:27.469462 | 0 | [Prompt](../agents/bbugyi200.athena.0uj--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0uj--plan/chat.md) |
