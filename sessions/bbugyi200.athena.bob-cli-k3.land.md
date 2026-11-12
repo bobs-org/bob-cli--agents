@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-k3` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-k3.land--code [active]"]
-  n1["bob-cli-k3.land--plan [active]"]
+  n0["bob-cli-k3.land--code [completed]"]
+  n1["bob-cli-k3.land--plan [completed]"]
   n0 --> n1
   n2["bob-cli-k3.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-k3.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-12T18:59:21.533471+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-k3.land--plan | active | opus / claude | 2026-11-12T18:37:43.199035+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-k3.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-12T18:59:21.533471+00:00 → 2026-11-12T20:15:23.873278+00:00 | [1](../agents/bbugyi200.athena.bob-cli-k3.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-k3.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-k3.land--plan | completed | opus / claude | 2026-11-12T18:37:43.199035+00:00 → 2026-11-12T20:15:23.873278+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-k3.land--gate | completed | opus / claude | 2026-11-12T18:57:40.098227+00:00 → 2026-11-12T18:59:01.962033+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-k3.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`b04120b`](https://github.com/bobs-org/bob-cli/commit/b04120b0e2d633a63f98b5a7ee75ba4edeb28fc2) | feat(albums): singular record counts and retired config-reader gate | 2026-11-12 15:11:56 EST |
 
 ## Neighbors
 
