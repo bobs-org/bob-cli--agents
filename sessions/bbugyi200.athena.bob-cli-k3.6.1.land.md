@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-k3` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-k3.6.1.land--plan [active]"]
+  n0["bob-cli-k3.6.1.land--plan [completed]"]
   n1["bob-cli-k3.6.1.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-k3.6.1.land--code [active]"]
+  n2["bob-cli-k3.6.1.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-k3.6.1.land--plan | active | gpt-6-astra / codex | 2026-11-12T03:03:16.627288+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.6.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.6.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-k3.6.1.land--plan | completed | gpt-6-astra / codex | 2026-11-12T03:03:16.627288+00:00 → 2026-11-12T03:59:38.338013+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-k3.6.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-k3.6.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-k3.6.1.land--gate | completed | gpt-6-astra / codex | 2026-11-12T03:21:13.494660+00:00 → 2026-11-12T03:22:35.267496+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-k3.6.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-k3.6.1.land--code | active | grok-4.6 / grok | 2026-11-12T03:23:10.491896+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-k3.6.1.land--code | completed | grok-4.6 / grok | 2026-11-12T03:23:10.491896+00:00 → 2026-11-12T03:59:38.338013+00:00 | [1](../agents/bbugyi200.athena.bob-cli-k3.6.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-k3.6.1.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`0c8df96`](https://github.com/bobs-org/bob-cli/commit/0c8df969406611b9db4170ce5cb24df1eca15385) | fix(albums): guard create collisions, catalog deps, and records-init claims | 2026-11-11 22:57:55 EST |
 
 ## Neighbors
 
