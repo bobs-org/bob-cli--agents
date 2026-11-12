@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`74f47d4`](https://github.com/bobs-org/bob-cli/commit/74f47d46ee3db9b3318abeedc965dee65d9d7227) | feat(capture): land the inline single-entry close on the =x line | 2026-10-02 11:07:14 EDT |
+| — | `74f47d4` | feat(capture): land the inline single-entry close on the =x line | 2026-10-02 11:07:14 EDT |

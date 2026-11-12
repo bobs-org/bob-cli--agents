@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f589d07`](https://github.com/bobs-org/bob-cli/commit/f589d0783cb1d63a2194d5a8e6b8da7e8282d512) | feat(capture): add =\* and =! close shorthands defaulting to task 1 | 2026-10-02 13:35:16 EDT |
+| — | `f589d07` | feat(capture): add =\* and =! close shorthands defaulting to task 1 | 2026-10-02 13:35:16 EDT |
