@@ -1,0 +1,29 @@
+# Agent: bob-cli-kx.land
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kx](../../users/bbugyi200/machines/athena/hoods/bob-cli-kx/README.md) / bob-cli-kx.land
+
+**Global name:** `bbugyi200.athena.bob-cli-kx.land` · **State:** waiting · **Source run:** `run-3f8d089c6981d0cc51eafae5193a55cb`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kx
+
+## Summary
+
+- Bead: [bob-cli-kx](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kx/README.md)
+- Model: opus
+- Provider: claude
+- Timing: 20261112111401
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-kx.1](../bbugyi200.athena.bob-cli-kx.1/README.md) | bob-cli-kx hood | completed |
+| [bob-cli-kx.2](../../sessions/bbugyi200.athena.bob-cli-kx.2.md) (session · 3) | bob-cli-kx hood | active 2, completed 1 |
+| [bob-cli-kx.3](../bbugyi200.athena.bob-cli-kx.3/README.md) | bob-cli-kx hood | waiting |
+| [bob-cli-kx.4](../bbugyi200.athena.bob-cli-kx.4/README.md) | bob-cli-kx hood | waiting |
+| [bob-cli-kx.5](../bbugyi200.athena.bob-cli-kx.5/README.md) | bob-cli-kx hood | waiting |
