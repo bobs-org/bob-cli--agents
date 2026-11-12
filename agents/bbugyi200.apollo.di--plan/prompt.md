@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me make the `q` and `<ctrl+[>` keymaps work to exit the new copy panel that is triggered by the `<cmd+y>` keymap in Obsidian? #plan %m:@xlarge
