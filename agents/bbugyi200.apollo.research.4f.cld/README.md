@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 2026-11-12T17:28:33.051737+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/sase\_blog\_zettel\_album\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112122702/sase\_blog\_zettel\_album\_\_cld-48c81ad4357d.md, ref:… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/sase_blog_zettel_album__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112122702/sase_blog_zettel_album__cld-48c81ad4357d.md
+  ref: file:explicit:e1d61ea856fb4a5e3e7545a6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/sase_blog_zettel_album__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.4f.cdx](../bbugyi200.apollo.research.4f.cdx/README.md) | research.4f hood | completed |
 | [research.4f.final](../bbugyi200.apollo.research.4f.final/README.md) | research.4f hood | waiting |
 | [research.4f.gem](../bbugyi200.apollo.research.4f.gem/README.md) | research.4f hood | completed |
-| [research.4f.grk](../bbugyi200.apollo.research.4f.grk/README.md) | research.4f hood | active |
+| [research.4f.grk](../bbugyi200.apollo.research.4f.grk/README.md) | research.4f hood | completed |
 | [research.4f.image](../bbugyi200.apollo.research.4f.image/README.md) | research.4f hood | waiting |
 | [research.4f.linker](../bbugyi200.apollo.research.4f.linker/README.md) | research.4f hood | waiting |
 | [research.4f.mus](../bbugyi200.apollo.research.4f.mus/README.md) | research.4f hood | completed |
