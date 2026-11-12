@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4f.linker
 
-**Global name:** `bbugyi200.apollo.research.4f.linker` · **State:** waiting · **Source run:** `run-7ee95d12615276e34d847cdd9c05afde`
+**Global name:** `bbugyi200.apollo.research.4f.linker` · **State:** completed · **Source run:** `run-7ee95d12615276e34d847cdd9c05afde`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,17 +10,37 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261112122711
+- Timing: 2026-11-12T18:25:38.781270+00:00 → 2026-11-12T18:36:51.689337+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/sase\_blog\_drafting\_in\_records/sase\_blog\_drafting\_in\_records.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112122711/sase\_blog\_draftin… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/sase_blog_drafting_in_records/sase_blog_drafting_in_records.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112122711/sase_blog_drafting_in_records-e489ac23f909.md
+  ref: file:explicit:cd14d2cc0021dfca8cb316d7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/sase_blog_drafting_in_records/sase_blog_drafting_in_records.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.4f.linker.w0](../bbugyi200.apollo.research.4f.linker.w0/README.md) | descendant | active |
 | [research.4f.cdx](../bbugyi200.apollo.research.4f.cdx/README.md) | research.4f hood | completed |
 | [research.4f.cld](../bbugyi200.apollo.research.4f.cld/README.md) | research.4f hood | completed |
 | [research.4f.final](../bbugyi200.apollo.research.4f.final/README.md) | research.4f hood | completed |
