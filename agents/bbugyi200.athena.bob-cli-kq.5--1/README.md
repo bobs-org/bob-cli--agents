@@ -26,3 +26,4 @@
 | [bob-cli-kq.2](../../sessions/bbugyi200.athena.bob-cli-kq.2.md) (session · 3) | bob-cli-kq hood | completed 3 |
 | [bob-cli-kq.3](../bbugyi200.athena.bob-cli-kq.3/README.md) | bob-cli-kq hood | completed |
 | [bob-cli-kq.4](../bbugyi200.athena.bob-cli-kq.4/README.md) | bob-cli-kq hood | completed |
+| [bob-cli-kq.land](../bbugyi200.athena.bob-cli-kq.land/README.md) | bob-cli-kq hood | completed |

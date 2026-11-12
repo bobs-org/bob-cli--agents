@@ -37,3 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-kq.3](../agents/bbugyi200.athena.bob-cli-kq.3/README.md) | bob-cli-kq hood | completed |
 | [bob-cli-kq.4](../agents/bbugyi200.athena.bob-cli-kq.4/README.md) | bob-cli-kq hood | completed |
 | [bob-cli-kq.5](bbugyi200.athena.bob-cli-kq.5.md) (session · 5) | bob-cli-kq hood | completed 3, failed 2 |
+| [bob-cli-kq.land](../agents/bbugyi200.athena.bob-cli-kq.land/README.md) | bob-cli-kq hood | completed |
