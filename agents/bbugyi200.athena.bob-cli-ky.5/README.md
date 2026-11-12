@@ -29,5 +29,5 @@
 | [bob-cli-ky.4](../../sessions/bbugyi200.athena.bob-cli-ky.4.md) (session · 3) | bob-cli-ky hood | completed 2, failed 1 |
 | [bob-cli-ky.6](../bbugyi200.athena.bob-cli-ky.6/README.md) | bob-cli-ky hood | completed |
 | [bob-cli-ky.7](../bbugyi200.athena.bob-cli-ky.7/README.md) | bob-cli-ky hood | completed |
-| [bob-cli-ky.land](../../sessions/bbugyi200.athena.bob-cli-ky.land.md) (session · 3) | bob-cli-ky hood | active 2, completed 1 |
+| [bob-cli-ky.land](../../sessions/bbugyi200.athena.bob-cli-ky.land.md) (session · 3) | bob-cli-ky hood | completed 3 |
 | [bob-cli-ky.land](../bbugyi200.athena.bob-cli-ky.land/README.md) | bob-cli-ky hood | waiting |

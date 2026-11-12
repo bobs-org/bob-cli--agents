@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-ky.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_ky_land__plan-261112_162109.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_ky_land__code-261112_162109.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/walker_footer_landing.md
 
 

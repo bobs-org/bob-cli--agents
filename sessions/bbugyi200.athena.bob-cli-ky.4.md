@@ -33,5 +33,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ky.5](../agents/bbugyi200.athena.bob-cli-ky.5/README.md) | bob-cli-ky hood | completed |
 | [bob-cli-ky.6](../agents/bbugyi200.athena.bob-cli-ky.6/README.md) | bob-cli-ky hood | completed |
 | [bob-cli-ky.7](../agents/bbugyi200.athena.bob-cli-ky.7/README.md) | bob-cli-ky hood | completed |
-| [bob-cli-ky.land](bbugyi200.athena.bob-cli-ky.land.md) (session · 3) | bob-cli-ky hood | active 2, completed 1 |
+| [bob-cli-ky.land](bbugyi200.athena.bob-cli-ky.land.md) (session · 3) | bob-cli-ky hood | completed 3 |
 | [bob-cli-ky.land](../agents/bbugyi200.athena.bob-cli-ky.land/README.md) | bob-cli-ky hood | waiting |
