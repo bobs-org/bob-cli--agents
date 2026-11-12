@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [ay](../../sessions/bbugyi200.apollo.ay.md) (session · 3) | ancestor | active 1, completed 2 |
-| [ay.f0](../bbugyi200.apollo.ay.f0/README.md) | ay hood | active |
+| [ay](../../sessions/bbugyi200.apollo.ay.md) (session · 3) | ancestor | completed 2, dismissed 1 |
+| [ay.f0](../bbugyi200.apollo.ay.f0/README.md) | ay hood | dismissed |

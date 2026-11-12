@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [ay](../../users/bbugyi200/machines/apollo/hoods/ay/README.md) / ay.f0
 
-**Global name:** `bbugyi200.apollo.ay.f0` · **State:** active · **Source run:** `run-8c251923548e8cc3e927778a68052a37`
+**Global name:** `bbugyi200.apollo.ay.f0` · **State:** dismissed · **Source run:** `run-8c251923548e8cc3e927778a68052a37`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** ay
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261028140811
+- Timing: 2026-10-28T14:08:11
 - Commits: 0
 
 ## Files
@@ -21,5 +21,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [ay](../../sessions/bbugyi200.apollo.ay.md) (session · 3) | ancestor | active 1, completed 2 |
-| [ay.f1](../../sessions/bbugyi200.apollo.ay.f1.md) (session · 3) | ay hood | active 1, completed 2 |
+| [ay](../../sessions/bbugyi200.apollo.ay.md) (session · 3) | ancestor | completed 2, dismissed 1 |
+| [ay.f1](../../sessions/bbugyi200.apollo.ay.f1.md) (session · 3) | ay hood | completed 2, dismissed 1 |

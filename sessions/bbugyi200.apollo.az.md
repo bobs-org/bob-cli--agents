@@ -11,7 +11,7 @@ flowchart TD
   n0["az--gate [completed]"]
   n1["az--code [completed]"]
   n0 --> n1
-  n2["az--plan [active]"]
+  n2["az--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | az--gate | completed | opus / claude | 2026-10-28T18:31:13.580739+00:00 → 2026-10-28T18:31:23.980527+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.az--gate/chat.md) |
 | <a id="member-code"></a>code | az--code | completed | gpt-6-luna / codex | 2026-10-28T18:31:37.543550+00:00 → 2026-10-28T19:04:30.003776+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.az--code/chat.md) |
-| <a id="member-plan"></a>plan | az--plan | active | opus / claude | 2026-10-28T18:23:18.947778+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.az--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.az--plan/chat.md) |
+| <a id="member-plan"></a>plan | az--plan | dismissed | opus / claude | 2026-10-28T14:23:18.947778 → 2026-10-28T15:04:30.047798 | 0 | [Prompt](../agents/bbugyi200.apollo.az--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.az--plan/chat.md) |
 
 ## Variables
 
