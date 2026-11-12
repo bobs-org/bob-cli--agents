@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8957f4a`](https://github.com/bobs-org/bob-cli/commit/8957f4a7720291ce4f7ef53e53e06611a5edf382) | feat(plan): add max\_ready soft cap for READY backlog (default 100) | 2026-10-01 02:49:42 EDT |
+| — | `8957f4a` | feat(plan): add max\_ready soft cap for READY backlog (default 100) | 2026-10-01 02:49:42 EDT |

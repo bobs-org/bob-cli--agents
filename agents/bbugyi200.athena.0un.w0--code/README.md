@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3dd833f`](https://github.com/bobs-org/bob-cli/commit/3dd833fd6a2744e7529b74f1a5cf008fab53434a) | feat(capture): park worked pomodoro links with star selection | 2026-10-01 01:34:28 EDT |
+| — | `3dd833f` | feat(capture): park worked pomodoro links with star selection | 2026-10-01 01:34:28 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [0un](../../sessions/bbugyi200.athena.0un.md) (session · 3) | ancestor | active 1, completed 1, failed 1 |
+| [0un](../../sessions/bbugyi200.athena.0un.md) (session · 3) | ancestor | completed 1, dismissed 1, failed 1 |
