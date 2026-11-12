@@ -34,4 +34,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [dn](bbugyi200.apollo.dn.md) (session · 3) | ancestor | completed 3 |
-| [dn.f1](../agents/bbugyi200.apollo.dn.f1/README.md) | dn hood | waiting |
+| [dn.f1](bbugyi200.apollo.dn.f1.md) (session · 3) | dn hood | completed 3 |
