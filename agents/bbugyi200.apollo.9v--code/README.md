@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`c81f8fd`](https://github.com/bobs-org/bob-cli/commit/c81f8fd2c238b4635f5893389663ccbfd5670b03) | fix(stats)!: make the net flow headline the window total so it matches its label | 2026-10-21 11:11:24 EDT |
+| — | `c81f8fd` | fix(stats)!: make the net flow headline the window total so it matches its label | 2026-10-21 11:11:24 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9v.f0](../bbugyi200.apollo.9v.f0/README.md) | descendant | active |
+| [9v.f0](../bbugyi200.apollo.9v.f0/README.md) | descendant | dismissed |
