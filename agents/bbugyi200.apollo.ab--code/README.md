@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e9a955f`](https://github.com/bobs-org/bob-cli/commit/e9a955f9225f304a421a2cf755b39c985f9b6800) | fix(ref): repair StoreWriteParams.verified build break and restore green check | 2026-10-26 14:05:42 EDT |
+| — | `e9a955f` | fix(ref): repair StoreWriteParams.verified build break and restore green check | 2026-10-26 14:05:42 EDT |

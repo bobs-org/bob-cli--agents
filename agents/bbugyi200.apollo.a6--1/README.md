@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0a92031`](https://github.com/bobs-org/bob-cli/commit/0a92031fe130fdb8e8f0fac543230f3833c615e4) | docs(ref): document Highlights save scans | 2026-10-24 11:27:16 EDT |
+| — | `0a92031` | docs(ref): document Highlights save scans | 2026-10-24 11:27:16 EDT |
