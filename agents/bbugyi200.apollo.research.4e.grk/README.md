@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4e.grk
 
-**Global name:** `bbugyi200.apollo.research.4e.grk` · **State:** active · **Source run:** `run-bc21c04c3ea7c30abc0bd92c15ae1c2e`
+**Global name:** `bbugyi200.apollo.research.4e.grk` · **State:** completed · **Source run:** `run-bc21c04c3ea7c30abc0bd92c15ae1c2e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-12T16:02:10.683117+00:00
+- Timing: 2026-11-12T16:02:10.683117+00:00 → 2026-11-12T16:21:10.615817+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/walker\_footers/walker\_footers\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112110049/walker\_footers\_\_grk-538a1f21cb8b.md, ref:… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/walker_footers/walker_footers__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112110049/walker_footers__grk-538a1f21cb8b.md
+  ref: file:explicit:886fdb176f2bddcaaa649c60
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/walker_footers/walker_footers__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.4e.cdx](../bbugyi200.apollo.research.4e.cdx/README.md) | research.4e hood | completed |
-| [research.4e.cld](../bbugyi200.apollo.research.4e.cld/README.md) | research.4e hood | active |
+| [research.4e.cld](../bbugyi200.apollo.research.4e.cld/README.md) | research.4e hood | completed |
 | [research.4e.final](../bbugyi200.apollo.research.4e.final/README.md) | research.4e hood | waiting |
 | [research.4e.gem](../bbugyi200.apollo.research.4e.gem/README.md) | research.4e hood | completed |
 | [research.4e.image](../bbugyi200.apollo.research.4e.image/README.md) | research.4e hood | waiting |
