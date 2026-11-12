@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-121a8eb3916aea9ad758d1994046a511"}
+{"commits":[{"committed_at":1794523496,"sha":"b7f74b584481453d4e1446d032072cff1405479c","subject":"test(record-capture): migrate record fixtures off retired records config"}],"schema_version":2,"source_run_id":"run-121a8eb3916aea9ad758d1994046a511"}
