@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4h.image
 
-**Global name:** `bbugyi200.apollo.research.4h.image` · **State:** waiting · **Source run:** `run-a37c42e69f4e048c5aecb993e75d05e4`
+**Global name:** `bbugyi200.apollo.research.4h.image` · **State:** completed · **Source run:** `run-a37c42e69f4e048c5aecb993e75d05e4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261112151029
+- Timing: 2026-11-12T20:54:22.474755+00:00 → 2026-11-12T21:07:19.210062+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/gcal\_external\_event\_ack/gcal\_external\_event\_ack\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112151029/gcal\_external\_event\_ac… |
+| `diagrams` | {considered: 17, count: 2, manifest: 202611/gcal\_external\_event\_ack/gcal\_external\_event\_ack.diagrams.md, source\_ref: file:explicit:87aaa374582c9c471c3e3bc2, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/gcal_external_event_ack/gcal_external_event_ack_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112151029/gcal_external_event_ack_infographic-ed5f292587be.png
+  ref: file:explicit:439597de53478eb713da4107
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/gcal_external_event_ack/gcal_external_event_ack_infographic.png
+- kind: markdown
+  label: diagrams:202611/gcal_external_event_ack/gcal_external_event_ack.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112151029/gcal_external_event_ack.diagrams-7dbc54f5651d.md
+  ref: file:explicit:ce3d304988e9ccc3173a6a14
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/gcal_external_event_ack/gcal_external_event_ack.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 17
+count: 2
+manifest: 202611/gcal_external_event_ack/gcal_external_event_ack.diagrams.md
+source_ref: file:explicit:87aaa374582c9c471c3e3bc2
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
