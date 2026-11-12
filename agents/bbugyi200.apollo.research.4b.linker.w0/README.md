@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4b.linker](../bbugyi200.apollo.research.4b.linker/README.md) | ancestor | waiting |
+| [research.4b.linker](../bbugyi200.apollo.research.4b.linker/README.md) | ancestor | completed |
 | [research.4b.cdx](../bbugyi200.apollo.research.4b.cdx/README.md) | research.4b hood | completed |
 | [research.4b.cld](../bbugyi200.apollo.research.4b.cld/README.md) | research.4b hood | completed |
 | [research.4b.final](../bbugyi200.apollo.research.4b.final/README.md) | research.4b hood | completed |

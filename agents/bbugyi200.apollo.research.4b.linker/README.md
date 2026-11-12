@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4b.linker
 
-**Global name:** `bbugyi200.apollo.research.4b.linker` · **State:** waiting · **Source run:** `run-7244ea28a1392d6ce30c16bda42d8c32`
+**Global name:** `bbugyi200.apollo.research.4b.linker` · **State:** completed · **Source run:** `run-7244ea28a1392d6ce30c16bda42d8c32`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261112055018
+- Timing: 2026-11-12T11:37:50.887606+00:00 → 2026-11-12T11:44:41.189737+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/album\_record\_schema\_ux/album\_record\_schema\_ux.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112055018/album\_record\_schema\_ux-4bb4aa2c… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/album_record_schema_ux/album_record_schema_ux.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112055018/album_record_schema_ux-4bb4aa2c8372.md
+  ref: file:explicit:4fac498b0c6c61fbf44655ba
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/album_record_schema_ux/album_record_schema_ux.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
