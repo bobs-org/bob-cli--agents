@@ -53,7 +53,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-k3.7.1.3](../agents/bbugyi200.athena.bob-cli-k3.7.1.3/README.md) | bob-cli-k3.7.1 hood | completed |
 | [bob-cli-k3.7.1.4](bbugyi200.athena.bob-cli-k3.7.1.4.md) (session · 5) | bob-cli-k3.7.1 hood | completed 3, failed 2 |
 | [bob-cli-k3.7.1.5](../agents/bbugyi200.athena.bob-cli-k3.7.1.5/README.md) | bob-cli-k3.7.1 hood | completed |
-| [bob-cli-k3.7.1.land](bbugyi200.athena.bob-cli-k3.7.1.land.md) (session · 3) | bob-cli-k3.7.1 hood | active 2, completed 1 |
+| [bob-cli-k3.7.1.land](bbugyi200.athena.bob-cli-k3.7.1.land.md) (session · 3) | bob-cli-k3.7.1 hood | completed 3 |
 | [bob-cli-k3.10](../agents/bbugyi200.athena.bob-cli-k3.10/README.md) | bob-cli-k3 hood | dismissed |
 | [bob-cli-k3.11](../agents/bbugyi200.athena.bob-cli-k3.11/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.2.1.2](../agents/bbugyi200.athena.bob-cli-k3.2.1.2/README.md) | bob-cli-k3 hood | completed |
