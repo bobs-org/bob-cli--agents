@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4h.cld
 
-**Global name:** `bbugyi200.apollo.research.4h.cld` · **State:** active · **Source run:** `run-b046917af80520f40abef22d6a7410c3`
+**Global name:** `bbugyi200.apollo.research.4h.cld` · **State:** completed · **Source run:** `run-b046917af80520f40abef22d6a7410c3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-12T20:11:35.589683+00:00
+- Timing: 2026-11-12T20:11:35.589683+00:00 → 2026-11-12T20:32:09.220165+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gcal\_external\_event\_acks\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112151020/gcal\_external\_event\_acks\_\_cld-35d634088f24.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gcal_external_event_acks__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112151020/gcal_external_event_acks__cld-35d634088f24.md
+  ref: file:explicit:017ee497a2e9a4b240728f4e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/gcal_external_event_acks__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
