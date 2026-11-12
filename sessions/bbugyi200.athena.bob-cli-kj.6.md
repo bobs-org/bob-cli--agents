@@ -83,4 +83,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-kj.3](bbugyi200.athena.bob-cli-kj.3.md) (session · 5) | bob-cli-kj hood | completed 4, failed 1 |
 | [bob-cli-kj.4](../agents/bbugyi200.athena.bob-cli-kj.4/README.md) | bob-cli-kj hood | completed |
 | [bob-cli-kj.5](bbugyi200.athena.bob-cli-kj.5.md) (session · 5) | bob-cli-kj hood | completed 4, failed 1 |
-| [bob-cli-kj.land](../agents/bbugyi200.athena.bob-cli-kj.land/README.md) | bob-cli-kj hood | waiting |
+| [bob-cli-kj.land](bbugyi200.athena.bob-cli-kj.land.md) (session · 3) | bob-cli-kj hood | active 2, completed 1 |
