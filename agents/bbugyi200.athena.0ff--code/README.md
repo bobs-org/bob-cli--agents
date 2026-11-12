@@ -22,5 +22,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [0ff.f0](../../sessions/bbugyi200.athena.0ff.f0.md) (session · 3) | descendant | completed 2, failed 1 |
-| [0ff.f0.f0](../bbugyi200.athena.0ff.f0.f0/README.md) | descendant | waiting |
+| [0ff.f0.f0](../bbugyi200.athena.0ff.f0.f0/README.md) | descendant | dismissed |
 | [0ff.f0.f1](../../sessions/bbugyi200.athena.0ff.f0.f1.md) (session · 3) | descendant | completed 2, failed 1 |

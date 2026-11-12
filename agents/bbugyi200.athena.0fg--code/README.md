@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9b534e3`](https://github.com/bobs-org/bob-cli/commit/9b534e38ef8db45881e3c545541419975aec4b58) | fix(capture): start scheduled captures blocked | 2026-08-28 09:24:54 EDT |
+| — | `9b534e3` | fix(capture): start scheduled captures blocked | 2026-08-28 09:24:54 EDT |

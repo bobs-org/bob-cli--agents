@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`57a20e4`](https://github.com/bobs-org/bob-cli/commit/57a20e4ed3b771aba5414e8163dcec02e8bc9b12) | feat(highlights): put annotation tasks in an H2 Tasks section | 2026-08-28 11:22:44 EDT |
+| — | `57a20e4` | feat(highlights): put annotation tasks in an H2 Tasks section | 2026-08-28 11:22:44 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`86a0829`](https://github.com/bobs-org/bob-cli/commit/86a08294e788864e4f06e53d4e8fd40af994f8e5) | fix(task-status-hooks): resolve exact archived pomodoro targets | 2026-08-27 19:25:54 EDT |
+| — | `86a0829` | fix(task-status-hooks): resolve exact archived pomodoro targets | 2026-08-27 19:25:54 EDT |

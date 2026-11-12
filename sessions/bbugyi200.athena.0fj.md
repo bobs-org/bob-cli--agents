@@ -11,7 +11,7 @@ flowchart TD
   n0["0fj--gate [failed]"]
   n1["0fj--code [completed]"]
   n0 --> n1
-  n2["0fj--plan [active]"]
+  n2["0fj--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,10 +21,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0fj--gate | failed | opus / claude | 2026-08-28T15:05:48.264872+00:00 → 2026-08-28T15:07:46.003160+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0fj--gate/chat.md) |
 | <a id="member-code"></a>code | 0fj--code | completed | grok-4.6 / grok | 2026-08-28T15:07:53.145931+00:00 → 2026-08-28T15:23:12.425629+00:00 | [1](../agents/bbugyi200.athena.0fj--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0fj--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0fj--code/chat.md) |
-| <a id="member-plan"></a>plan | 0fj--plan | active | opus / claude | 2026-08-28T14:58:09.935712+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0fj--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0fj--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0fj--plan | dismissed | opus / claude | 2026-08-28T10:57:48 | 0 | [Prompt](../agents/bbugyi200.athena.0fj--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0fj--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`57a20e4`](https://github.com/bobs-org/bob-cli/commit/57a20e4ed3b771aba5414e8163dcec02e8bc9b12) | feat(highlights): put annotation tasks in an H2 Tasks section | 2026-08-28 11:22:44 EDT |
+| code | — | `57a20e4` | feat(highlights): put annotation tasks in an H2 Tasks section | 2026-08-28 11:22:44 EDT |
