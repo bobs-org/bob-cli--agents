@@ -97,12 +97,12 @@
 | [0g4](hoods/0g4/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
 | [0gp](hoods/0gp/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0h0](hoods/0h0/README.md) | 3 | 1 | completed 2, failed 1 |
-| [0ig](hoods/0ig/README.md) | 1 | 0 | active 1 |
+| [0ig](hoods/0ig/README.md) | 1 | 0 | dismissed 1 |
 | [0iz](hoods/0iz/README.md) | 3 | 1 | completed 2, failed 1 |
-| [0j1](hoods/0j1/README.md) | 1 | 0 | active 1 |
+| [0j1](hoods/0j1/README.md) | 1 | 0 | dismissed 1 |
 | [0k5](hoods/0k5/README.md) | 8 | 3 | completed 4, dismissed 1, failed 3 |
-| [0kj](hoods/0kj/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [0lc](hoods/0lc/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [0kj](hoods/0kj/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
+| [0lc](hoods/0lc/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
 | [0lu](hoods/0lu/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0ly](hoods/0ly/README.md) | 3 | 1 | completed 2, failed 1 |
 | [0m](hoods/0m/README.md) | 1 | 0 | completed 1 |
@@ -612,7 +612,7 @@
 | [bq5](hoods/bq5/README.md) | 1 | 0 | completed 1 |
 | [bq6](hoods/bq6/README.md) | 1 | 0 | completed 1 |
 | [bqu](hoods/bqu/README.md) | 1 | 0 | completed 1 |
-| [chop](hoods/chop/README.md) | 65 | 8 | active 1, completed 23, dismissed 32, failed 9 |
+| [chop](hoods/chop/README.md) | 65 | 8 | completed 24, dismissed 32, failed 9 |
 | [ci](hoods/ci/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [gh\_bobs-org\_\_bob-cli-2](hoods/gh_bobs-org__bob-cli-2/README.md) | 4 | 0 | completed 4 |
 | [gh\_bobs-org\_\_bob-cli-5](hoods/gh_bobs-org__bob-cli-5/README.md) | 1 | 0 | completed 1 |

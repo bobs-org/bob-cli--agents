@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.bob-cli.7\_718106.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.7_718106.2/README.md) | chop.refresh\_docs.bob-cli.7\_718106 hood | active |
+| [chop.refresh\_docs.bob-cli.7\_718106.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.7_718106.2/README.md) | chop.refresh\_docs.bob-cli.7\_718106 hood | completed |
 | [chop.refresh\_docs.bob-cli.0\_587608.1](bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.1.md) (session · 5) | chop.refresh\_docs.bob-cli hood | completed 2, dismissed 1, failed 2 |
 | [chop.refresh\_docs.bob-cli.0\_587608.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.0\_794067.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
