@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0xs` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0xs--plan [active]"]
+  n0["0xs--plan [dismissed]"]
   n1["0xs--code [completed]"]
   n0 --> n1
   n2["0xs--gate [failed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0xs--plan | active | opus / claude | 2026-10-07T14:02:46.981573+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0xs--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0xs--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0xs--plan | dismissed | opus / claude | 2026-10-07T10:02:46.981573 → 2026-10-07T10:46:05.155130 | 0 | [Prompt](../agents/bbugyi200.athena.0xs--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0xs--plan/chat.md) |
 | <a id="member-code"></a>code | 0xs--code | completed | muse-spark-1.3-contributor / muse | 2026-10-07T14:10:42.251496+00:00 → 2026-10-07T14:46:05.024757+00:00 | [1](../agents/bbugyi200.athena.0xs--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | 0xs--gate | failed | opus / claude | 2026-10-07T14:08:43.828366+00:00 → 2026-10-07T14:10:30.728675+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0xs--gate/chat.md) |
 
