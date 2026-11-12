@@ -49,7 +49,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-kd.4.1.1](../agents/bbugyi200.athena.bob-cli-kd.4.1.1/README.md) | bob-cli-kd.4.1 hood | completed |
 | [bob-cli-kd.4.1.2](../agents/bbugyi200.athena.bob-cli-kd.4.1.2/README.md) | bob-cli-kd.4.1 hood | completed |
 | [bob-cli-kd.4.1.4](../agents/bbugyi200.athena.bob-cli-kd.4.1.4/README.md) | bob-cli-kd.4.1 hood | completed |
-| [bob-cli-kd.4.1.land](../agents/bbugyi200.athena.bob-cli-kd.4.1.land/README.md) | bob-cli-kd.4.1 hood | waiting |
+| [bob-cli-kd.4.1.land](bbugyi200.athena.bob-cli-kd.4.1.land.md) (session · 3) | bob-cli-kd.4.1 hood | active 2, completed 1 |
 | [bob-cli-kd.1](../agents/bbugyi200.athena.bob-cli-kd.1/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.2](bbugyi200.athena.bob-cli-kd.2.md) (session · 5) | bob-cli-kd hood | completed 4, failed 1 |
 | [bob-cli-kd.3](../agents/bbugyi200.athena.bob-cli-kd.3/README.md) | bob-cli-kd hood | completed |
