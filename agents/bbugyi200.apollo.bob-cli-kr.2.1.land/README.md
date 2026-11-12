@@ -13,10 +13,34 @@
 - Provider: codex
 - Timing: 20261112075734
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: file, label: Album writer landing probes at 859c1571, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112075734/album\_writer\_probe-0c05b2026f71.py, ref: file:explicit:4ba44… |
+
+#### artifacts
+
+```yaml
+- kind: file
+  label: Album writer landing probes at 859c1571
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112075734/album_writer_probe-0c05b2026f71.py
+  ref: file:explicit:4ba442ece3ddd5ba8cac9f6c
+  source_path: /tmp/album_writer_probe.py
+- kind: file
+  label: Album writer landing probe results at 859c1571
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112075734/album_writer_probe-30319e6ad9e8.jsonl
+  ref: file:explicit:3dc194da13754b6cbd345f2b
+  source_path: /tmp/album_writer_probe.jsonl
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +51,6 @@
 | [bob-cli-kr.2.1.2](../bbugyi200.apollo.bob-cli-kr.2.1.2/README.md) | bob-cli-kr.2.1 hood | completed |
 | [bob-cli-kr.2.1.3](../bbugyi200.apollo.bob-cli-kr.2.1.3/README.md) | bob-cli-kr.2.1 hood | completed |
 | [bob-cli-kr.1](../../sessions/bbugyi200.apollo.bob-cli-kr.1.md) (session · 3) | bob-cli-kr hood | completed 2, failed 1 |
-| [bob-cli-kr.3](../../sessions/bbugyi200.apollo.bob-cli-kr.3.md) (session · 3) | bob-cli-kr hood | active 1, completed 2 |
+| [bob-cli-kr.3](../../sessions/bbugyi200.apollo.bob-cli-kr.3.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.4](../bbugyi200.apollo.bob-cli-kr.4/README.md) | bob-cli-kr hood | waiting |
 | [bob-cli-kr.land](../bbugyi200.apollo.bob-cli-kr.land/README.md) | bob-cli-kr hood | waiting |

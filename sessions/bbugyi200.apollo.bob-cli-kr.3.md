@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-kr` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-kr.3--plan [completed]"]
-  n1["bob-cli-kr.3--1 [active]"]
+  n1["bob-cli-kr.3--1 [completed]"]
   n0 --> n1
   n2["bob-cli-kr.3--mon [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-kr.3--plan | completed | grok-4.6 / grok | 2026-11-12T12:46:43.622064+00:00 → 2026-11-12T12:54:14.274111+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-kr.3--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-kr.3--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-kr.3--1 | active | grok-4.6 / grok | 2026-11-12T16:26:27.882058+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-kr.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-kr.3--1 | completed | grok-4.6 / grok | 2026-11-12T16:26:27.882058+00:00 → 2026-11-12T16:48:37.540897+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-kr.3--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-kr.3--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-kr.3--mon | completed | grok-4.6 / grok | 2026-11-12T12:53:23.817484+00:00 → 2026-11-12T16:25:48.983688+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-kr.3--mon/chat.md) |
 
 ## Neighbors
