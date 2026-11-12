@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1c2c488`](https://github.com/bobs-org/bob-cli/commit/1c2c488fd35e4e72af16270bd9cb897204bb4372) | docs(dashboard): describe grouped Work/Review/Browse navigation and child pages | 2026-10-03 14:53:05 EDT |
+| — | `1c2c488` | docs(dashboard): describe grouped Work/Review/Browse navigation and child pages | 2026-10-03 14:53:05 EDT |

@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`54712fe`](https://github.com/bobs-org/bob-cli/commit/54712fea416c468ca167ebf941e4558e1e5a9a0e) | feat(freshness): gate ^prj review on #hide and walk ^ref in REFERENCES | 2026-10-03 14:55:06 EDT |
+| — | `54712fe` | feat(freshness): gate ^prj review on #hide and walk ^ref in REFERENCES | 2026-10-03 14:55:06 EDT |

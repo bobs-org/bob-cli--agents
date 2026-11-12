@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5a37873`](https://github.com/bobs-org/bob-cli/commit/5a3787320e16c37bef6ca6701c38b7f1274b1bba) | docs(memory): add project and reference note/task glossary terms | 2026-10-03 14:53:12 EDT |
+| — | `5a37873` | docs(memory): add project and reference note/task glossary terms | 2026-10-03 14:53:12 EDT |

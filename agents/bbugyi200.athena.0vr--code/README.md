@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f3e64a6`](https://github.com/bobs-org/bob-cli/commit/f3e64a68391aa7f61020b780b179571cafa16f1f) | feat(highlights): stamp created frontmatter on new reference notes | 2026-10-03 14:56:24 EDT |
+| — | `f3e64a6` | feat(highlights): stamp created frontmatter on new reference notes | 2026-10-03 14:56:24 EDT |
