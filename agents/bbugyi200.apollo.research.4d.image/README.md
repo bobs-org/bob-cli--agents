@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4d.image
 
-**Global name:** `bbugyi200.apollo.research.4d.image` · **State:** waiting · **Source run:** `run-afb42d59b9a6398bccd5bd10cb939d81`
+**Global name:** `bbugyi200.apollo.research.4d.image` · **State:** completed · **Source run:** `run-afb42d59b9a6398bccd5bd10cb939d81`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261112093417
+- Timing: 2026-11-12T15:21:52.519894+00:00 → 2026-11-12T15:32:24.156710+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/gmail\_archive\_on\_task\_close/gmail\_archive\_on\_task\_close\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112093417/gmail\_ar… |
+| `diagrams` | {considered: 19, count: 1, manifest: 202611/gmail\_archive\_on\_task\_close/gmail\_archive\_on\_task\_close.diagrams.md, source\_ref: file:explicit:d613420a476975d8219752c2, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/gmail_archive_on_task_close/gmail_archive_on_task_close_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112093417/gmail_archive_on_task_close_infographic-171e4bf14000.png
+  ref: file:explicit:53445e42d25f9def50bbec78
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/gmail_archive_on_task_close/gmail_archive_on_task_close_infographic.png
+- kind: markdown
+  label: diagrams:202611/gmail_archive_on_task_close/gmail_archive_on_task_close.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112093417/gmail_archive_on_task_close.diagrams-ba03ba130792.md
+  ref: file:explicit:1768f66e0ba89cd2a55f7a46
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/gmail_archive_on_task_close/gmail_archive_on_task_close.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 19
+count: 1
+manifest: 202611/gmail_archive_on_task_close/gmail_archive_on_task_close.diagrams.md
+source_ref: file:explicit:d613420a476975d8219752c2
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
