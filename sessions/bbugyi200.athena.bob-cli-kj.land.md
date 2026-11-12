@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-kj` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-kj.land--code [active]"]
+  n0["bob-cli-kj.land--code [completed]"]
   n1["bob-cli-kj.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-kj.land--plan [active]"]
+  n2["bob-cli-kj.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-kj.land--code | active | grok-4.6 / grok | 2026-11-12T00:30:08.102743+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-kj.land--code | completed | grok-4.6 / grok | 2026-11-12T00:30:08.102743+00:00 → 2026-11-12T00:54:31.583724+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-kj.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-kj.land--gate | completed | opus / claude | 2026-11-12T00:28:18.251136+00:00 → 2026-11-12T00:29:37.841866+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-kj.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-kj.land--plan | active | opus / claude | 2026-11-11T23:44:23.331632+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-kj.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-kj.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-kj.land--plan | completed | opus / claude | 2026-11-11T23:44:23.331632+00:00 → 2026-11-12T00:54:31.583724+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-kj.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-kj.land--plan/chat.md) |
 
 ## Variables
 

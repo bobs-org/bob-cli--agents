@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bc895709f211f4099202fc02cf337601"}
+{"commits":[{"committed_at":1794444898,"sha":"b8c71181f28dee1ee9b9847d429c305ee3f83f17","subject":"docs(bank): document bank import contract, journal, and JSON output"}],"schema_version":2,"source_run_id":"run-bc895709f211f4099202fc02cf337601"}

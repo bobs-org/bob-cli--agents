@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-kj.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_kj_land__plan-261111_172232.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_kj_land__code-261111_172232.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/wikilink_perf_full_suite.md
 
 
