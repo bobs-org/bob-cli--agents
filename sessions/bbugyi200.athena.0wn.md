@@ -11,7 +11,7 @@ flowchart TD
   n0["0wn--gate [failed]"]
   n1["0wn--code [completed]"]
   n0 --> n1
-  n2["0wn--plan [active]"]
+  n2["0wn--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,4 +21,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 0wn--gate | failed | grok-4.7 / grok | 2026-10-05T11:42:19.588624+00:00 → 2026-10-05T11:42:40.278347+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0wn--gate/chat.md) |
 | <a id="member-code"></a>code | 0wn--code | completed | muse-spark-1.3-contributor / muse | 2026-10-05T11:42:57.386010+00:00 → 2026-10-05T11:57:08.668430+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | 0wn--plan | active | grok-4.7 / grok | 2026-10-05T11:35:58.676265+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0wn--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0wn--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0wn--plan | dismissed | grok-4.7 / grok | 2026-10-05T07:35:58.676265 → 2026-10-05T07:57:08.741213 | 0 | [Prompt](../agents/bbugyi200.athena.0wn--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0wn--plan/chat.md) |
