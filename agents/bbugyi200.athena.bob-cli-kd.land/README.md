@@ -40,4 +40,4 @@
 | [bob-cli-kd.6.1.4](../bbugyi200.athena.bob-cli-kd.6.1.4/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.6.1.5](../bbugyi200.athena.bob-cli-kd.6.1.5/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.6.1.land](../../sessions/bbugyi200.athena.bob-cli-kd.6.1.land.md) (session · 3) | bob-cli-kd hood | completed 3 |
-| [bob-cli-kd.7](../bbugyi200.athena.bob-cli-kd.7/README.md) | bob-cli-kd hood | waiting |
+| [bob-cli-kd.7](../bbugyi200.athena.bob-cli-kd.7/README.md) | bob-cli-kd hood | completed |

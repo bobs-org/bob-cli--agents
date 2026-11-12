@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kd](../../users/bbugyi200/machines/athena/hoods/bob-cli-kd/README.md) / bob-cli-kd.7
 
-**Global name:** `bbugyi200.athena.bob-cli-kd.7` · **State:** waiting · **Source run:** `run-ed72b6494b1ae9d84a2c2e802158ee50`
+**Global name:** `bbugyi200.athena.bob-cli-kd.7` · **State:** completed · **Source run:** `run-ed72b6494b1ae9d84a2c2e802158ee50`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kd
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-kd](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kd/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261111112638
-- Commits: 0
+- Timing: 2026-11-12T14:08:22.237996+00:00 → 2026-11-12T14:40:56.480633+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`65c9e95`](https://github.com/bobs-org/bob-cli/commit/65c9e95c71309f0d124e7fee8309a4daa976f701) | docs(bank): add the acknowledgment guide and end-to-end CLI proof | 2026-11-12 09:40:12 EST |
 
 ## Neighbors
 
