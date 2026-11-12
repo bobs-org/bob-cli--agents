@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d57c8a4e0c609e6f53e421b0207b75cd"}
+{"commits":[{"committed_at":1794497233,"sha":"a7b5efed64aac470c6f3ea578519e355bdf1b85f","subject":"feat(albums): preserve schema spans and plan reversible updates"}],"schema_version":2,"source_run_id":"run-d57c8a4e0c609e6f53e421b0207b75cd"}
