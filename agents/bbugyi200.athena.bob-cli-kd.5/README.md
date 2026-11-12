@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kd](../../users/bbugyi200/machines/athena/hoods/bob-cli-kd/README.md) / bob-cli-kd.5
 
-**Global name:** `bbugyi200.athena.bob-cli-kd.5` · **State:** waiting · **Source run:** `run-555261b0f24252260aac1057d7903717`
+**Global name:** `bbugyi200.athena.bob-cli-kd.5` · **State:** completed · **Source run:** `run-555261b0f24252260aac1057d7903717`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kd
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-kd](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kd/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261111112637
-- Commits: 0
+- Timing: 2026-11-12T11:52:27.797390+00:00 → 2026-11-12T13:08:01.871149+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c1e2839`](https://github.com/bobs-org/bob-cli/commit/c1e28399c517a1a9b32c953b1b5bd2328699d318) | feat(bank): verify balances and restore missing rows | 2026-11-12 08:06:20 EST |
 
 ## Neighbors
 
