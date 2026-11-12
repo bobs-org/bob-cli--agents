@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `06v` · Members: 2
 ```mermaid
 flowchart TD
   n0["06v--code [completed]"]
-  n1["06v--plan [active]"]
+  n1["06v--plan [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,10 +18,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 06v--code | completed | grok-4.6 / grok | 2026-08-18T22:00:35.448044+00:00 | [1](../agents/bbugyi200.athena.06v--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.06v--code/chat.md) |
-| <a id="member-plan"></a>plan | 06v--plan | active | opus / claude | 2026-08-18T21:50:22.165542+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.06v--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.06v--plan/chat.md) |
+| <a id="member-plan"></a>plan | 06v--plan | dismissed | opus / claude | 2026-08-18T17:50:09 | 0 | [Prompt](../agents/bbugyi200.athena.06v--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.06v--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`8ab074f`](https://github.com/bobs-org/bob-cli/commit/8ab074ff9b063d422be119670be1c96e4e445fbd) | feat(capture): attach bare # notes to last completed Pomodoro | 2026-08-18 18:06:27 EDT |
+| code | — | `8ab074f` | feat(capture): attach bare # notes to last completed Pomodoro | 2026-08-18 18:06:27 EDT |
