@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e9b016cbcda2194c6610b3c9150dce57"}
+{"commits":[{"committed_at":1794508048,"sha":"5e82fc8e7d3311326b1f924fd082021a7438439f","subject":"feat(albums): remove records config fallback"}],"schema_version":2,"source_run_id":"run-e9b016cbcda2194c6610b3c9150dce57"}
