@@ -214,8 +214,8 @@
 | [8q](hoods/8q/README.md) | 4 | 0 | completed 4 |
 | [8v](hoods/8v/README.md) | 1 | 0 | completed 1 |
 | [9r](hoods/9r/README.md) | 3 | 0 | completed 3 |
-| [9u](hoods/9u/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
-| [9v](hoods/9v/README.md) | 4 | 1 | active 2, completed 1, failed 1 |
+| [9u](hoods/9u/README.md) | 4 | 1 | completed 2, dismissed 1, failed 1 |
+| [9v](hoods/9v/README.md) | 4 | 1 | completed 1, dismissed 2, failed 1 |
 | [9w](hoods/9w/README.md) | 1 | 0 | active 1 |
 | [9x](hoods/9x/README.md) | 1 | 0 | active 1 |
 | [9y](hoods/9y/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
