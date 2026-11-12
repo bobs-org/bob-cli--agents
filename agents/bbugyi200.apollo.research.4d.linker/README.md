@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4d.linker
 
-**Global name:** `bbugyi200.apollo.research.4d.linker` · **State:** waiting · **Source run:** `run-c32d94273ed12eba49f7627709c82f34`
+**Global name:** `bbugyi200.apollo.research.4d.linker` · **State:** completed · **Source run:** `run-c32d94273ed12eba49f7627709c82f34`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261112093419
+- Timing: 2026-11-12T15:33:31.536948+00:00 → 2026-11-12T15:41:40.095377+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gmail\_archive\_on\_task\_close/gmail\_archive\_on\_task\_close.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112093419/gmail\_archive\_on\_task… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gmail_archive_on_task_close/gmail_archive_on_task_close.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112093419/gmail_archive_on_task_close-f14520aeddbf.md
+  ref: file:explicit:f4dda23abcd30874926e2d1a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/gmail_archive_on_task_close/gmail_archive_on_task_close.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
