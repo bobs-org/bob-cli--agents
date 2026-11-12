@@ -233,9 +233,9 @@
 | [ao](hoods/ao/README.md) | 1 | 0 | completed 1 |
 | [ar](hoods/ar/README.md) | 8 | 2 | completed 4, failed 4 |
 | [at](hoods/at/README.md) | 1 | 0 | completed 1 |
-| [ax](hoods/ax/README.md) | 5 | 1 | active 1, completed 4 |
-| [ay](hoods/ay/README.md) | 7 | 2 | active 3, completed 4 |
-| [az](hoods/az/README.md) | 3 | 1 | active 1, completed 2 |
+| [ax](hoods/ax/README.md) | 5 | 1 | completed 4, dismissed 1 |
+| [ay](hoods/ay/README.md) | 7 | 2 | completed 4, dismissed 3 |
+| [az](hoods/az/README.md) | 3 | 1 | completed 2, dismissed 1 |
 | [b1](hoods/b1/README.md) | 1 | 0 | dismissed 1 |
 | [b2](hoods/b2/README.md) | 3 | 1 | completed 2, dismissed 1 |
 | [b4](hoods/b4/README.md) | 6 | 1 | completed 4, dismissed 2 |
