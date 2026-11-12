@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-ka` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ka.land--code [active]"]
+  n0["bob-cli-ka.land--code [completed]"]
   n1["bob-cli-ka.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-ka.land--plan [active]"]
+  n2["bob-cli-ka.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-ka.land--code | active | gpt-6-luna / codex | 2026-11-11T23:48:04.062489+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-ka.land--code | completed | gpt-6-luna / codex | 2026-11-11T23:48:04.062489+00:00 → 2026-11-12T00:17:41.183229+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ka.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-ka.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ka.land--gate | completed | opus / claude | 2026-11-11T23:45:51.056213+00:00 → 2026-11-11T23:47:32.019693+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ka.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ka.land--plan | active | opus / claude | 2026-11-11T23:21:01.942260+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ka.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ka.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ka.land--plan | completed | opus / claude | 2026-11-11T23:21:01.942260+00:00 → 2026-11-12T00:17:41.183229+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ka.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ka.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`cd251a3`](https://github.com/bobs-org/bob-cli/commit/cd251a3e6117b3b3b0e1f3a4cda6529304e93d61) | fix(capture): complete notebook section menu round-trips | 2026-11-11 19:13:27 EST |
 
 ## Neighbors
 
