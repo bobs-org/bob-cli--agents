@@ -24,9 +24,10 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-kr.4](../../sessions/bbugyi200.apollo.bob-cli-kr.4.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-kr.4.1.1](../bbugyi200.apollo.bob-cli-kr.4.1.1/README.md) | bob-cli-kr.4.1 hood | active |
+| [bob-cli-kr.4.1.1](../bbugyi200.apollo.bob-cli-kr.4.1.1/README.md) | bob-cli-kr.4.1 hood | completed |
 | [bob-cli-kr.4.1.2](../bbugyi200.apollo.bob-cli-kr.4.1.2/README.md) | bob-cli-kr.4.1 hood | waiting |
 | [bob-cli-kr.4.1.4](../bbugyi200.apollo.bob-cli-kr.4.1.4/README.md) | bob-cli-kr.4.1 hood | active |
+| [bob-cli-kr.4.1.land](../bbugyi200.apollo.bob-cli-kr.4.1.land/README.md) | bob-cli-kr.4.1 hood | waiting |
 | [bob-cli-kr.1](../../sessions/bbugyi200.apollo.bob-cli-kr.1.md) (session · 3) | bob-cli-kr hood | completed 2, failed 1 |
 | [bob-cli-kr.2](../../sessions/bbugyi200.apollo.bob-cli-kr.2.md) (session · 3) | bob-cli-kr hood | active 1, completed 2 |
 | [bob-cli-kr.2.1.1](../bbugyi200.apollo.bob-cli-kr.2.1.1/README.md) | bob-cli-kr hood | completed |
