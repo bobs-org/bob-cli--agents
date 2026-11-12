@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["a2--3 [completed]"]
   n0 --> n2
-  n3["a2--plan [active]"]
+  n3["a2--plan [dismissed]"]
   n0 --> n3
   n4["a2--1 [completed]"]
   n0 --> n4
@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | a2--mon-0 | failed | gpt-6-luna / codex | 2026-10-23T14:23:54.130652+00:00 → 2026-10-23T14:25:24.077878+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.a2--mon-0/chat.md) |
 | <a id="member-2"></a>2 | a2--2 | completed | gpt-6-luna / codex | 2026-10-23T14:25:23.720377+00:00 → 2026-10-23T14:27:02.124640+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.a2--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.a2--2/chat.md) |
 | <a id="member-3"></a>3 | a2--3 | completed | gpt-6-luna / codex | 2026-10-23T14:32:11.260943+00:00 → 2026-10-23T14:34:24.549487+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.a2--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.a2--3/chat.md) |
-| <a id="member-plan"></a>plan | a2--plan | active | opus / claude | 2026-10-23T14:10:19.521492+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.a2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.a2--plan/chat.md) |
+| <a id="member-plan"></a>plan | a2--plan | dismissed | opus / claude | 2026-10-23T10:10:19.521492 → 2026-10-23T10:18:16.490503 | 0 | [Prompt](../agents/bbugyi200.apollo.a2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.a2--plan/chat.md) |
 | <a id="member-1"></a>1 | a2--1 | completed | gpt-6-luna / codex | 2026-10-23T14:22:38.532603+00:00 → 2026-10-23T14:24:29.473143+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.a2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.a2--1/chat.md) |
 | <a id="member-code"></a>code | a2--code | completed | gpt-6-luna / codex | 2026-10-23T14:15:14.964346+00:00 → 2026-10-23T14:18:16.449378+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.a2--code/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | a2--mon-1 | failed | gpt-6-luna / codex | 2026-10-23T14:26:23.560661+00:00 → 2026-10-23T14:32:11.580787+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.a2--mon-1/chat.md) |

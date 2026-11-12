@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["9z--1 [completed]"]
   n0 --> n5
-  n6["9z--plan [active]"]
+  n6["9z--plan [dismissed]"]
   n0 --> n6
 ```
 
@@ -33,10 +33,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-gate"></a>gate | 9z--gate | failed | opus / claude | 2026-10-21T22:08:06.296062+00:00 → 2026-10-21T22:08:25.088071+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.9z--gate/chat.md) |
 | <a id="member-2"></a>2 | 9z--2 | completed | gpt-6-luna / codex | 2026-10-21T22:23:34.155742+00:00 → 2026-10-21T22:28:12.536664+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9z--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.9z--2/chat.md) |
 | <a id="member-1"></a>1 | 9z--1 | completed | gpt-6-luna / codex | 2026-10-21T22:16:36.463739+00:00 → 2026-10-21T22:20:11.095346+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9z--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.9z--1/chat.md) |
-| <a id="member-plan"></a>plan | 9z--plan | active | opus / claude | 2026-10-21T21:59:33.939649+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.9z--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.9z--plan/chat.md) |
+| <a id="member-plan"></a>plan | 9z--plan | dismissed | opus / claude | 2026-10-21T17:59:33.939649 → 2026-10-21T18:15:39.304110 | 0 | [Prompt](../agents/bbugyi200.apollo.9z--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.9z--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [9z.f0](bbugyi200.apollo.9z.f0.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
+| [9z.f0](bbugyi200.apollo.9z.f0.md) (session · 3) | descendant | completed 1, dismissed 1, failed 1 |
