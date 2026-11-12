@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kx](../../users/bbugyi200/machines/athena/hoods/bob-cli-kx/README.md) / [bob-cli-kx.2](../../sessions/bbugyi200.athena.bob-cli-kx.2.md) / bob-cli-kx.2--mon
 
-**Global name:** `bbugyi200.athena.bob-cli-kx.2--mon` · **State:** active · **Source run:** `run-c62ecbd47c7b68c43edb2ae8f2984809`
+**Global name:** `bbugyi200.athena.bob-cli-kx.2--mon` · **State:** completed · **Source run:** `run-c62ecbd47c7b68c43edb2ae8f2984809`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kx
 
@@ -12,13 +12,25 @@
 - Epic: [bob-cli-kx](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kx/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-12T16:37:34.147415+00:00
+- Timing: 2026-11-12T16:37:34.147415+00:00 → 2026-11-12T16:41:59.304111+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-kx.2.1.1](../bbugyi200.athena.bob-cli-kx.2.1.1/README.md) | descendant | completed |
+| [bob-cli-kx.2.1.2](../bbugyi200.athena.bob-cli-kx.2.1.2/README.md) | descendant | active |
+| [bob-cli-kx.2.1.3](../bbugyi200.athena.bob-cli-kx.2.1.3/README.md) | descendant | waiting |
+| [bob-cli-kx.2.1.4](../bbugyi200.athena.bob-cli-kx.2.1.4/README.md) | descendant | waiting |
+| [bob-cli-kx.2.1.5](../bbugyi200.athena.bob-cli-kx.2.1.5/README.md) | descendant | waiting |
+| [bob-cli-kx.2.1.6](../bbugyi200.athena.bob-cli-kx.2.1.6/README.md) | descendant | waiting |
+| [bob-cli-kx.2.1.7](../bbugyi200.athena.bob-cli-kx.2.1.7/README.md) | descendant | waiting |
+| [bob-cli-kx.2.1.land](../bbugyi200.athena.bob-cli-kx.2.1.land/README.md) | descendant | waiting |
 | [bob-cli-kx.1](../bbugyi200.athena.bob-cli-kx.1/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.3](../bbugyi200.athena.bob-cli-kx.3/README.md) | bob-cli-kx hood | waiting |
 | [bob-cli-kx.4](../bbugyi200.athena.bob-cli-kx.4/README.md) | bob-cli-kx hood | waiting |

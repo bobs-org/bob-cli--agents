@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** bob-cli · **Hoods:** 647 · **Runs:** 5420
+**Project:** bob-cli · **Hoods:** 647 · **Runs:** 5432
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -142,9 +142,9 @@
 | [0we](hoods/0we/README.md) | 5 | 1 | completed 3, failed 2 |
 | [0wh](hoods/0wh/README.md) | 9 | 3 | completed 5, dismissed 1, failed 3 |
 | [0wi](hoods/0wi/README.md) | 7 | 1 | completed 4, failed 3 |
-| [0wk](hoods/0wk/README.md) | 6 | 2 | active 1, completed 3, failed 2 |
-| [0wn](hoods/0wn/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [0x9](hoods/0x9/README.md) | 8 | 2 | active 2, completed 3, failed 3 |
+| [0wk](hoods/0wk/README.md) | 6 | 2 | completed 3, dismissed 1, failed 2 |
+| [0wn](hoods/0wn/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
+| [0x9](hoods/0x9/README.md) | 8 | 2 | active 1, completed 3, dismissed 1, failed 3 |
 | [0xf](hoods/0xf/README.md) | 3 | 1 | failed 3 |
 | [0xh](hoods/0xh/README.md) | 3 | 1 | failed 3 |
 | [0xi](hoods/0xi/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
@@ -597,13 +597,13 @@
 | [bob-cli-k3](hoods/bob-cli-k3/README.md) | 70 | 15 | active 4, completed 56, dismissed 1, failed 7, waiting 2 |
 | [bob-cli-k7](hoods/bob-cli-k7/README.md) | 17 | 2 | completed 15, failed 2 |
 | [bob-cli-ka](hoods/bob-cli-ka/README.md) | 27 | 4 | completed 24, failed 3 |
-| [bob-cli-kb](hoods/bob-cli-kb/README.md) | 5 | 1 | active 2, completed 3 |
+| [bob-cli-kb](hoods/bob-cli-kb/README.md) | 9 | 1 | completed 7, failed 2 |
 | [bob-cli-kc](hoods/bob-cli-kc/README.md) | 23 | 2 | completed 20, failed 3 |
 | [bob-cli-kd](hoods/bob-cli-kd/README.md) | 50 | 7 | active 2, completed 40, failed 8 |
 | [bob-cli-kf](hoods/bob-cli-kf/README.md) | 13 | 2 | completed 12, failed 1 |
 | [bob-cli-kj](hoods/bob-cli-kj/README.md) | 21 | 5 | completed 19, failed 2 |
 | [bob-cli-kq](hoods/bob-cli-kq/README.md) | 14 | 3 | completed 12, failed 2 |
-| [bob-cli-kx](hoods/bob-cli-kx/README.md) | 8 | 1 | active 2, completed 2, waiting 4 |
+| [bob-cli-kx](hoods/bob-cli-kx/README.md) | 16 | 1 | active 2, completed 4, waiting 10 |
 | [bob-cli-m](hoods/bob-cli-m/README.md) | 3 | 0 | dismissed 3 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 5 | 1 | completed 1, dismissed 4 |
 | [bob-cli-o](hoods/bob-cli-o/README.md) | 2 | 1 | completed 1, dismissed 1 |
