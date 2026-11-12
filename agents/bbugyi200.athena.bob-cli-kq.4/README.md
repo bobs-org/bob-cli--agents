@@ -32,4 +32,4 @@
 | [bob-cli-kq.1](../../sessions/bbugyi200.athena.bob-cli-kq.1.md) (session · 3) | bob-cli-kq hood | completed 3 |
 | [bob-cli-kq.2](../../sessions/bbugyi200.athena.bob-cli-kq.2.md) (session · 3) | bob-cli-kq hood | completed 3 |
 | [bob-cli-kq.3](../bbugyi200.athena.bob-cli-kq.3/README.md) | bob-cli-kq hood | completed |
-| [bob-cli-kq.5](../../sessions/bbugyi200.athena.bob-cli-kq.5.md) (session · 4) | bob-cli-kq hood | active 2, completed 1, failed 1 |
+| [bob-cli-kq.5](../../sessions/bbugyi200.athena.bob-cli-kq.5.md) (session · 5) | bob-cli-kq hood | completed 3, failed 2 |
