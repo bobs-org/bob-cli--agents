@@ -41,8 +41,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.4f.cdx](../bbugyi200.apollo.research.4f.cdx/README.md) | research.4f hood | completed |
-| [research.4f.cld](../bbugyi200.apollo.research.4f.cld/README.md) | research.4f hood | active |
-| [research.4f.final](../bbugyi200.apollo.research.4f.final/README.md) | research.4f hood | waiting |
+| [research.4f.cld](../bbugyi200.apollo.research.4f.cld/README.md) | research.4f hood | completed |
+| [research.4f.final](../bbugyi200.apollo.research.4f.final/README.md) | research.4f hood | completed |
 | [research.4f.gem](../bbugyi200.apollo.research.4f.gem/README.md) | research.4f hood | completed |
 | [research.4f.image](../bbugyi200.apollo.research.4f.image/README.md) | research.4f hood | waiting |
 | [research.4f.linker](../bbugyi200.apollo.research.4f.linker/README.md) | research.4f hood | waiting |
