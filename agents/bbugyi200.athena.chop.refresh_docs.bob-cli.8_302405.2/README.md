@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `3f80b3f` | docs: clarify reference capture, scan, and dry-run behavior | 2026-10-08 04:14:57 EDT |
+| bob-cli | [`3f80b3f`](https://github.com/bobs-org/bob-cli/commit/3f80b3f34fd72fb76d2691e1fc2e5464151cd0aa) | docs: clarify reference capture, scan, and dry-run behavior | 2026-10-08 04:14:57 EDT |
 
 ## Neighbors
 
@@ -59,6 +59,8 @@
 | [chop.refresh\_docs.bob-cli.7\_214221.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.7_214221.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.7\_404570.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.7_404570.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 1, dismissed 1, failed 1 |
 | [chop.refresh\_docs.bob-cli.7\_404570.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.7_404570.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
+| [chop.refresh\_docs.bob-cli.7\_718106.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.7_718106.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
+| [chop.refresh\_docs.bob-cli.7\_718106.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.7_718106.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.8\_350117.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.8_350117.1/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.8\_350117.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.8_350117.2/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.8\_406070.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.8_406070.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |

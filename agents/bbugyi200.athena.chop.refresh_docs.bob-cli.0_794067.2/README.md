@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `cd355e6` | docs: align plan, capture, and hooks guides with current behavior | 2026-09-30 00:52:44 EDT |
+| bob-cli | [`cd355e6`](https://github.com/bobs-org/bob-cli/commit/cd355e6e34ec369a7754f1e04f312139050a51e2) | docs: align plan, capture, and hooks guides with current behavior | 2026-09-30 00:52:44 EDT |
 
 ## Neighbors
 
@@ -57,6 +57,8 @@
 | [chop.refresh\_docs.bob-cli.7\_214221.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.7_214221.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.7\_404570.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.7_404570.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 1, dismissed 1, failed 1 |
 | [chop.refresh\_docs.bob-cli.7\_404570.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.7_404570.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
+| [chop.refresh\_docs.bob-cli.7\_718106.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.7_718106.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
+| [chop.refresh\_docs.bob-cli.7\_718106.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.7_718106.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
 | [chop.refresh\_docs.bob-cli.8\_302405.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.8_302405.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.8\_302405.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.8_302405.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.8\_350117.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.8_350117.1/README.md) | chop.refresh\_docs.bob-cli hood | completed |
