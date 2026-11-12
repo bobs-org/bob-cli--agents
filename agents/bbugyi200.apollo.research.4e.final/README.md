@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4e.final
 
-**Global name:** `bbugyi200.apollo.research.4e.final` · **State:** waiting · **Source run:** `run-ee6a67ed70d8378ef9218d60bafdbe58`
+**Global name:** `bbugyi200.apollo.research.4e.final` · **State:** completed · **Source run:** `run-ee6a67ed70d8378ef9218d60bafdbe58`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261112110053
+- Timing: 2026-11-12T16:24:52.674234+00:00 → 2026-11-12T16:43:31.598452+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bracket\_walk\_footers/bracket\_walk\_footers\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112110053/bracket\_walk\_footers\_\_final-… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bracket_walk_footers/bracket_walk_footers__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112110053/bracket_walk_footers__final-ae1b26f80125.md
+  ref: file:explicit:4f73c4992d642554fd28ce71
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/bracket_walk_footers/bracket_walk_footers__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
