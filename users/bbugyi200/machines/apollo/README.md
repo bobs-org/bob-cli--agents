@@ -216,16 +216,16 @@
 | [9r](hoods/9r/README.md) | 3 | 0 | completed 3 |
 | [9u](hoods/9u/README.md) | 4 | 1 | completed 2, dismissed 1, failed 1 |
 | [9v](hoods/9v/README.md) | 4 | 1 | completed 1, dismissed 2, failed 1 |
-| [9w](hoods/9w/README.md) | 1 | 0 | active 1 |
-| [9x](hoods/9x/README.md) | 1 | 0 | active 1 |
-| [9y](hoods/9y/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [9z](hoods/9z/README.md) | 10 | 2 | active 2, completed 4, failed 4 |
-| [a2](hoods/a2/README.md) | 9 | 1 | active 1, completed 4, failed 4 |
-| [a5](hoods/a5/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
-| [a6](hoods/a6/README.md) | 5 | 1 | active 1, completed 2, failed 2 |
-| [a9](hoods/a9/README.md) | 3 | 1 | active 1, failed 2 |
-| [aa](hoods/aa/README.md) | 9 | 1 | active 1, completed 4, failed 4 |
-| [ab](hoods/ab/README.md) | 3 | 1 | active 1, completed 1, failed 1 |
+| [9w](hoods/9w/README.md) | 1 | 0 | dismissed 1 |
+| [9x](hoods/9x/README.md) | 1 | 0 | dismissed 1 |
+| [9y](hoods/9y/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
+| [9z](hoods/9z/README.md) | 10 | 2 | completed 4, dismissed 2, failed 4 |
+| [a2](hoods/a2/README.md) | 9 | 1 | completed 4, dismissed 1, failed 4 |
+| [a5](hoods/a5/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
+| [a6](hoods/a6/README.md) | 5 | 1 | completed 2, dismissed 1, failed 2 |
+| [a9](hoods/a9/README.md) | 3 | 1 | dismissed 1, failed 2 |
+| [aa](hoods/aa/README.md) | 9 | 1 | completed 4, dismissed 1, failed 4 |
+| [ab](hoods/ab/README.md) | 3 | 1 | completed 1, dismissed 1, failed 1 |
 | [ad](hoods/ad/README.md) | 2 | 0 | completed 2 |
 | [al](hoods/al/README.md) | 3 | 1 | completed 2, failed 1 |
 | [am](hoods/am/README.md) | 16 | 1 | completed 9, failed 7 |
