@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4e.cdx
 
-**Global name:** `bbugyi200.apollo.research.4e.cdx` · **State:** active · **Source run:** `run-37891e0221309dde6b3fc2447edb78c3`
+**Global name:** `bbugyi200.apollo.research.4e.cdx` · **State:** completed · **Source run:** `run-37891e0221309dde6b3fc2447edb78c3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-12T16:01:30.180151+00:00
+- Timing: 2026-11-12T16:01:30.180151+00:00 → 2026-11-12T16:13:49.423520+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/walker\_footers\_follow\_bracket\_mode\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112110045/walker\_footers\_follow\_bracket\_mode\_\_c… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/walker_footers_follow_bracket_mode__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112110045/walker_footers_follow_bracket_mode__cdx-a9bd5002c825.md
+  ref: file:explicit:32048267ae85ae29781e9de6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/walker_footers_follow_bracket_mode__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.4e.cld](../bbugyi200.apollo.research.4e.cld/README.md) | research.4e hood | active |
 | [research.4e.final](../bbugyi200.apollo.research.4e.final/README.md) | research.4e hood | waiting |
-| [research.4e.gem](../bbugyi200.apollo.research.4e.gem/README.md) | research.4e hood | active |
+| [research.4e.gem](../bbugyi200.apollo.research.4e.gem/README.md) | research.4e hood | completed |
 | [research.4e.grk](../bbugyi200.apollo.research.4e.grk/README.md) | research.4e hood | active |
 | [research.4e.image](../bbugyi200.apollo.research.4e.image/README.md) | research.4e hood | waiting |
 | [research.4e.linker](../bbugyi200.apollo.research.4e.linker/README.md) | research.4e hood | waiting |
