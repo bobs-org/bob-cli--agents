@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-kd.6](../../sessions/bbugyi200.athena.bob-cli-kd.6.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-kd.6.1.2](../bbugyi200.athena.bob-cli-kd.6.1.2/README.md) | bob-cli-kd.6.1 hood | completed |
-| [bob-cli-kd.6.1.3](../../sessions/bbugyi200.athena.bob-cli-kd.6.1.3.md) (session · 8) | bob-cli-kd.6.1 hood | active 1, completed 5, failed 2 |
+| [bob-cli-kd.6.1.3](../../sessions/bbugyi200.athena.bob-cli-kd.6.1.3.md) (session · 10) | bob-cli-kd.6.1 hood | active 1, completed 6, failed 3 |
 | [bob-cli-kd.6.1.4](../bbugyi200.athena.bob-cli-kd.6.1.4/README.md) | bob-cli-kd.6.1 hood | waiting |
 | [bob-cli-kd.6.1.5](../bbugyi200.athena.bob-cli-kd.6.1.5/README.md) | bob-cli-kd.6.1 hood | waiting |
 | [bob-cli-kd.6.1.land](../bbugyi200.athena.bob-cli-kd.6.1.land/README.md) | bob-cli-kd.6.1 hood | waiting |
@@ -37,7 +37,7 @@
 | [bob-cli-kd.4.1.2](../bbugyi200.athena.bob-cli-kd.4.1.2/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.4.1.3](../../sessions/bbugyi200.athena.bob-cli-kd.4.1.3.md) (session · 7) | bob-cli-kd hood | completed 5, failed 2 |
 | [bob-cli-kd.4.1.4](../bbugyi200.athena.bob-cli-kd.4.1.4/README.md) | bob-cli-kd hood | completed |
-| [bob-cli-kd.4.1.land](../../sessions/bbugyi200.athena.bob-cli-kd.4.1.land.md) (session · 3) | bob-cli-kd hood | active 2, completed 1 |
+| [bob-cli-kd.4.1.land](../../sessions/bbugyi200.athena.bob-cli-kd.4.1.land.md) (session · 5) | bob-cli-kd hood | completed 4, failed 1 |
 | [bob-cli-kd.5](../bbugyi200.athena.bob-cli-kd.5/README.md) | bob-cli-kd hood | waiting |
 | [bob-cli-kd.7](../bbugyi200.athena.bob-cli-kd.7/README.md) | bob-cli-kd hood | waiting |
 | [bob-cli-kd.land](../bbugyi200.athena.bob-cli-kd.land/README.md) | bob-cli-kd hood | waiting |

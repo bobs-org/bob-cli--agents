@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kd](../../users/bbugyi200/machines/athena/hoods/bob-cli-kd/README.md) / [bob-cli-kd.4.1.land](../../sessions/bbugyi200.athena.bob-cli-kd.4.1.land.md) / bob-cli-kd.4.1.land--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-kd.4.1.land--plan` · **State:** active · **Source run:** `run-7e85e36142945a01572aabd406cb463e`
+**Global name:** `bbugyi200.athena.bob-cli-kd.4.1.land--plan` · **State:** completed · **Source run:** `run-7e85e36142945a01572aabd406cb463e`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kd
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-kd.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kd/bob-cli-kd.4.1.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-12T01:32:05.885077+00:00
+- Timing: 2026-11-12T01:32:05.885077+00:00 → 2026-11-12T02:54:09.900677+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
@@ -60,7 +60,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-kd.6](../../sessions/bbugyi200.athena.bob-cli-kd.6.md) (session · 3) | bob-cli-kd hood | active 1, completed 2 |
 | [bob-cli-kd.6.1.1](../bbugyi200.athena.bob-cli-kd.6.1.1/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.6.1.2](../bbugyi200.athena.bob-cli-kd.6.1.2/README.md) | bob-cli-kd hood | completed |
-| [bob-cli-kd.6.1.3](../../sessions/bbugyi200.athena.bob-cli-kd.6.1.3.md) (session · 8) | bob-cli-kd hood | active 1, completed 5, failed 2 |
+| [bob-cli-kd.6.1.3](../../sessions/bbugyi200.athena.bob-cli-kd.6.1.3.md) (session · 10) | bob-cli-kd hood | active 1, completed 6, failed 3 |
 | [bob-cli-kd.6.1.4](../bbugyi200.athena.bob-cli-kd.6.1.4/README.md) | bob-cli-kd hood | waiting |
 | [bob-cli-kd.6.1.5](../bbugyi200.athena.bob-cli-kd.6.1.5/README.md) | bob-cli-kd hood | waiting |
 | [bob-cli-kd.6.1.land](../bbugyi200.athena.bob-cli-kd.6.1.land/README.md) | bob-cli-kd hood | waiting |
