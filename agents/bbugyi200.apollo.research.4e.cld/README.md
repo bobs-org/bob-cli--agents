@@ -44,7 +44,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.4e.final](../bbugyi200.apollo.research.4e.final/README.md) | research.4e hood | completed |
 | [research.4e.gem](../bbugyi200.apollo.research.4e.gem/README.md) | research.4e hood | completed |
 | [research.4e.grk](../bbugyi200.apollo.research.4e.grk/README.md) | research.4e hood | completed |
-| [research.4e.image](../bbugyi200.apollo.research.4e.image/README.md) | research.4e hood | waiting |
+| [research.4e.image](../bbugyi200.apollo.research.4e.image/README.md) | research.4e hood | completed |
 | [research.4e.linker](../bbugyi200.apollo.research.4e.linker/README.md) | research.4e hood | waiting |
 | [research.4e.mus](../bbugyi200.apollo.research.4e.mus/README.md) | research.4e hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
