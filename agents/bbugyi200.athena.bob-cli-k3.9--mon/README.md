@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-k3](../../users/bbugyi200/machines/athena/hoods/bob-cli-k3/README.md) / [bob-cli-k3.9](../../sessions/bbugyi200.athena.bob-cli-k3.9.md) / bob-cli-k3.9--mon
 
-**Global name:** `bbugyi200.athena.bob-cli-k3.9--mon` · **State:** completed · **Source run:** `run-71d78a6a491e2ee926d144767931629e`
+**Global name:** `bbugyi200.athena.bob-cli-k3.9--mon` · **State:** failed · **Source run:** `run-83acbea3c21a951988d197c03f9847cb`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-k3
 
 ## Summary
 
 - Bead: [bob-cli-k3.9](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-k3/bob-cli-k3.9.md)
-- Epic: [bob-cli-k3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-k3/README.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-12T04:08:21.398508+00:00 → 2026-11-12T04:17:35.982865+00:00
+- Timing: 2026-11-12T10:40:04.015309+00:00 → 2026-11-12T10:43:28.741012+00:00
 - Commits: 0
 
 ## Files
@@ -46,7 +45,7 @@
 | [bob-cli-k3.6.1.land](../../sessions/bbugyi200.athena.bob-cli-k3.6.1.land.md) (session · 3) | bob-cli-k3 hood | completed 3 |
 | [bob-cli-k3.7](../../sessions/bbugyi200.athena.bob-cli-k3.7.md) (session · 3) | bob-cli-k3 hood | active 1, completed 2 |
 | [bob-cli-k3.7.1.1](../bbugyi200.athena.bob-cli-k3.7.1.1/README.md) | bob-cli-k3 hood | completed |
-| [bob-cli-k3.7.1.2](../bbugyi200.athena.bob-cli-k3.7.1.2/README.md) | bob-cli-k3 hood | active |
+| [bob-cli-k3.7.1.2](../../sessions/bbugyi200.athena.bob-cli-k3.7.1.2.md) (session · 2) | bob-cli-k3 hood | active 1, completed 1 |
 | [bob-cli-k3.7.1.3](../bbugyi200.athena.bob-cli-k3.7.1.3/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.7.1.4](../bbugyi200.athena.bob-cli-k3.7.1.4/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.7.1.5](../bbugyi200.athena.bob-cli-k3.7.1.5/README.md) | bob-cli-k3 hood | waiting |
