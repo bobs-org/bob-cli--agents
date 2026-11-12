@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4d.gem
 
-**Global name:** `bbugyi200.apollo.research.4d.gem` · **State:** active · **Source run:** `run-e4ee1ce295a61281549e17cac0cf7989`
+**Global name:** `bbugyi200.apollo.research.4d.gem` · **State:** completed · **Source run:** `run-e4ee1ce295a61281549e17cac0cf7989`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,18 +10,37 @@
 
 - Model: gemini-3.8-flash-high
 - Provider: agy
-- Timing: 2026-11-12T14:35:46.885702+00:00
+- Timing: 2026-11-12T14:35:46.885702+00:00 → 2026-11-12T14:46:26.328905+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gmail\_sync\_closed\_task\_archive\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112093414/gmail\_sync\_closed\_task\_archive\_\_gem-c99d9… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gmail_sync_closed_task_archive__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112093414/gmail_sync_closed_task_archive__gem-c99d9693d3f2.md
+  ref: file:explicit:0afb5b43fc2466cc1e45a5d8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_20/sase/repos/research/202611/gmail_sync_closed_task_archive__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4d.cdx](../bbugyi200.apollo.research.4d.cdx/README.md) | research.4d hood | active |
+| [research.4d.cdx](../bbugyi200.apollo.research.4d.cdx/README.md) | research.4d hood | completed |
 | [research.4d.cld](../bbugyi200.apollo.research.4d.cld/README.md) | research.4d hood | active |
 | [research.4d.final](../bbugyi200.apollo.research.4d.final/README.md) | research.4d hood | waiting |
 | [research.4d.grk](../bbugyi200.apollo.research.4d.grk/README.md) | research.4d hood | active |
