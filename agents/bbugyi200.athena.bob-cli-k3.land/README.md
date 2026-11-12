@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-k3](../../users/bbugyi200/machines/athena/hoods/bob-cli-k3/README.md) / bob-cli-k3.land
 
-**Global name:** `bbugyi200.athena.bob-cli-k3.land` · **State:** waiting · **Source run:** `run-2a84206826053a5e45046b26de9baab2`
+**Global name:** `bbugyi200.athena.bob-cli-k3.land` · **State:** waiting · **Source run:** `run-8bdb9cfeb92f7ecf24823bcfed3b571f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-k3
 
 ## Summary
 
 - Bead: [bob-cli-k3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-k3/README.md)
-- Model: claude-fable-5
+- Model: opus
 - Provider: claude
-- Timing: 20261112070803
+- Timing: 20261112073938
 - Commits: 0
 
 ## Files
@@ -46,7 +46,7 @@
 | [bob-cli-k3.7](../../sessions/bbugyi200.athena.bob-cli-k3.7.md) (session · 3) | bob-cli-k3 hood | active 1, completed 2 |
 | [bob-cli-k3.7.1.1](../bbugyi200.athena.bob-cli-k3.7.1.1/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.7.1.2](../../sessions/bbugyi200.athena.bob-cli-k3.7.1.2.md) (session · 3) | bob-cli-k3 hood | completed 2, failed 1 |
-| [bob-cli-k3.7.1.3](../bbugyi200.athena.bob-cli-k3.7.1.3/README.md) | bob-cli-k3 hood | waiting |
+| [bob-cli-k3.7.1.3](../bbugyi200.athena.bob-cli-k3.7.1.3/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.7.1.4](../bbugyi200.athena.bob-cli-k3.7.1.4/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.7.1.5](../bbugyi200.athena.bob-cli-k3.7.1.5/README.md) | bob-cli-k3 hood | waiting |
 | [bob-cli-k3.7.1.land](../bbugyi200.athena.bob-cli-k3.7.1.land/README.md) | bob-cli-k3 hood | waiting |
