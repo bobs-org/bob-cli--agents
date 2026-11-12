@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [1bw](../../users/bbugyi200/machines/athena/hoods/1bw/README.md) / [1bw](../../sessions/bbugyi200.athena.1bw.md) / 1bw--1
 
-**Global name:** `bbugyi200.athena.1bw--1` · **State:** active · **Source run:** `run-a22238117831dff22773dd11ced80032`
+**Global name:** `bbugyi200.athena.1bw--1` · **State:** completed · **Source run:** `run-a22238117831dff22773dd11ced80032`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 1bw
 
@@ -10,12 +10,12 @@
 
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-12T18:57:38.593702+00:00
+- Timing: 2026-11-12T18:57:38.593702+00:00 → 2026-11-12T20:03:44.958955+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 

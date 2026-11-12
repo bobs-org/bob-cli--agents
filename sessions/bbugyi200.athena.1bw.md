@@ -11,7 +11,7 @@ flowchart TD
   n0["1bw--gate [completed]"]
   n1["1bw--code [completed]"]
   n0 --> n1
-  n2["1bw--1 [active]"]
+  n2["1bw--1 [completed]"]
   n0 --> n2
   n3["1bw--mon [failed]"]
   n0 --> n3
@@ -25,7 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | 1bw--gate | completed | claude-fable-5 / claude | 2026-11-12T18:17:55.567409+00:00 → 2026-11-12T18:19:31.892117+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.1bw--gate/chat.md) |
 | <a id="member-code"></a>code | 1bw--code | completed | gpt-6-luna / codex | 2026-11-12T18:21:13.399752+00:00 → 2026-11-12T18:45:34.512744+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1bw--code/prompt.md) | [Chat](../agents/bbugyi200.athena.1bw--code/chat.md) |
-| <a id="member-1"></a>1 | 1bw--1 | active | gpt-6-luna / codex | 2026-11-12T18:57:38.593702+00:00 | [1](../agents/bbugyi200.athena.1bw--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.1bw--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 1bw--1 | completed | gpt-6-luna / codex | 2026-11-12T18:57:38.593702+00:00 → 2026-11-12T20:03:44.958955+00:00 | [1](../agents/bbugyi200.athena.1bw--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.1bw--1/prompt.md) | [Chat](../agents/bbugyi200.athena.1bw--1/chat.md) |
 | <a id="member-mon"></a>mon | 1bw--mon | failed | gpt-6-luna / codex | 2026-11-12T18:43:57.015079+00:00 → 2026-11-12T18:55:29.704051+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.1bw--mon/chat.md) |
 | <a id="member-plan"></a>plan | 1bw--plan | completed | claude-fable-5 / claude | 2026-11-12T17:59:29.801576+00:00 → 2026-11-12T18:16:51.753349+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1bw--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.1bw--plan/chat.md) |
 
