@@ -22,4 +22,4 @@
 | Agent | Relation | State |
 |---|---|---|
 | [dn](../../sessions/bbugyi200.apollo.dn.md) (session · 3) | ancestor | completed 3 |
-| [dn.f0](../bbugyi200.apollo.dn.f0/README.md) | dn hood | active |
+| [dn.f0](../../sessions/bbugyi200.apollo.dn.f0.md) (session · 3) | dn hood | completed 3 |
