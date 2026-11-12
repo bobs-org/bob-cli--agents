@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4e.linker
 
-**Global name:** `bbugyi200.apollo.research.4e.linker` · **State:** waiting · **Source run:** `run-96c376972c515aaa7b9889ac16cce412`
+**Global name:** `bbugyi200.apollo.research.4e.linker` · **State:** completed · **Source run:** `run-96c376972c515aaa7b9889ac16cce412`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261112110057
+- Timing: 2026-11-12T16:57:05.473590+00:00 → 2026-11-12T17:06:04.697600+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bracket\_walk\_footers/bracket\_walk\_footers.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112110057/bracket\_walk\_footers-96ff63031faf.m… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bracket_walk_footers/bracket_walk_footers.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112110057/bracket_walk_footers-96ff63031faf.md
+  ref: file:explicit:52d53e5ac05e96298bbaa324
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_11/sase/repos/research/202611/bracket_walk_footers/bracket_walk_footers.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
