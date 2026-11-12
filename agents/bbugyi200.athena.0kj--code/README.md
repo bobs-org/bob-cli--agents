@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6892ec0`](https://github.com/bobs-org/bob-cli/commit/6892ec089b3635395260b39bde9b5a4265f200cc) | feat(task-status-hooks): retry transient sync failures with jittered backoff | 2026-09-14 10:25:42 EDT |
+| — | `6892ec0` | feat(task-status-hooks): retry transient sync failures with jittered backoff | 2026-09-14 10:25:42 EDT |

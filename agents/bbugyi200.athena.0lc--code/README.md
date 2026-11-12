@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`95629db`](https://github.com/bobs-org/bob-cli/commit/95629dbd8e697b677049424c4ef53d95038de93d) | fix(task-status-hooks): route human retry logs to stdout | 2026-09-15 12:41:26 EDT |
+| — | `95629db` | fix(task-status-hooks): route human retry logs to stdout | 2026-09-15 12:41:26 EDT |

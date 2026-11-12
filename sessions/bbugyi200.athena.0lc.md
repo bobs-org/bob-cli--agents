@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `0lc` · Members: 3
 
 ```mermaid
 flowchart TD
-  n0["0lc--plan [active]"]
+  n0["0lc--plan [dismissed]"]
   n1["0lc--gate [failed]"]
   n0 --> n1
   n2["0lc--code [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | 0lc--plan | active | gpt-5.6-sol / codex | 2026-09-15T16:17:53.450940+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.0lc--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0lc--plan/chat.md) |
+| <a id="member-plan"></a>plan | 0lc--plan | dismissed | gpt-5.6-sol / codex | 2026-09-15T12:17:53.450940 → 2026-09-15T12:22:58.661386 | 0 | [Prompt](../agents/bbugyi200.athena.0lc--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.0lc--plan/chat.md) |
 | <a id="member-gate"></a>gate | 0lc--gate | failed | gpt-5.6-sol / codex | 2026-09-15T16:22:39.592417+00:00 → 2026-09-15T16:23:36.193987+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.0lc--gate/chat.md) |
 | <a id="member-code"></a>code | 0lc--code | completed | gpt-5.5 / codex | 2026-09-15T16:33:46.935661+00:00 → 2026-09-15T16:43:00.777203+00:00 | [1](../agents/bbugyi200.athena.0lc--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.0lc--code/prompt.md) | [Chat](../agents/bbugyi200.athena.0lc--code/chat.md) |
 
@@ -27,4 +27,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`95629db`](https://github.com/bobs-org/bob-cli/commit/95629dbd8e697b677049424c4ef53d95038de93d) | fix(task-status-hooks): route human retry logs to stdout | 2026-09-15 12:41:26 EDT |
+| code | — | `95629db` | fix(task-status-hooks): route human retry logs to stdout | 2026-09-15 12:41:26 EDT |
