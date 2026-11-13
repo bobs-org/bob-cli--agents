@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-lc](../../users/bbugyi200/machines/athena/hoods/bob-cli-lc/README.md) / bob-cli-lc.3
 
-**Global name:** `bbugyi200.athena.bob-cli-lc.3` · **State:** active · **Source run:** `run-efce926d55761f639e6701d5fa07832f`
+**Global name:** `bbugyi200.athena.bob-cli-lc.3` · **State:** completed · **Source run:** `run-efce926d55761f639e6701d5fa07832f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-lc
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-lc](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-lc/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-13T17:09:04.298435+00:00
-- Commits: 0
+- Timing: 2026-11-13T17:09:04.298435+00:00 → 2026-11-13T18:04:06.944483+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`1501c0c`](https://github.com/bobs-org/bob-cli/commit/1501c0c3e00792a27df81df4aa85caf73183002f) | feat(bank): add category hotkeys, groups, hidden, and row suggestions | 2026-11-13 13:03:20 EST |
 
 ## Neighbors
 
