@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [14l.f0](../bbugyi200.athena.14l.f0/README.md) | descendant | active |
+| [14l.f0](../bbugyi200.athena.14l.f0/README.md) | descendant | dismissed |
 | [14l.f1](../../sessions/bbugyi200.athena.14l.f1.md) (session · 3) | descendant | completed 2, failed 1 |
-| [14l.w0](../bbugyi200.athena.14l.w0/README.md) | descendant | active |
+| [14l.w0](../bbugyi200.athena.14l.w0/README.md) | descendant | dismissed |

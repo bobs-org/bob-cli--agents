@@ -22,5 +22,5 @@
 | Agent | Relation | State |
 |---|---|---|
 | [14l](../../sessions/bbugyi200.athena.14l.md) (session · 3) | ancestor | completed 2, failed 1 |
-| [14l.f0](../bbugyi200.athena.14l.f0/README.md) | 14l hood | active |
-| [14l.w0](../bbugyi200.athena.14l.w0/README.md) | 14l hood | active |
+| [14l.f0](../bbugyi200.athena.14l.f0/README.md) | 14l hood | dismissed |
+| [14l.w0](../bbugyi200.athena.14l.w0/README.md) | 14l hood | dismissed |

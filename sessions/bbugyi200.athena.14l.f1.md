@@ -27,12 +27,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`c048955`](https://github.com/bobs-org/bob-cli/commit/c0489557988b49837f5afd354ac6d018dccc39f1) | feat(day-strip): document bars switch and update glossary | 2026-10-26 13:39:58 EDT |
+| code | — | `c048955` | feat(day-strip): document bars switch and update glossary | 2026-10-26 13:39:58 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [14l](bbugyi200.athena.14l.md) (session · 3) | ancestor | completed 2, failed 1 |
-| [14l.f0](../agents/bbugyi200.athena.14l.f0/README.md) | 14l hood | active |
-| [14l.w0](../agents/bbugyi200.athena.14l.w0/README.md) | 14l hood | active |
+| [14l.f0](../agents/bbugyi200.athena.14l.f0/README.md) | 14l hood | dismissed |
+| [14l.w0](../agents/bbugyi200.athena.14l.w0/README.md) | 14l hood | dismissed |

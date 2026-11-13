@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5e8c6ec`](https://github.com/bobs-org/bob-cli/commit/5e8c6ecde26f41a2962cba81ef4a869984b04166) | docs(stats): describe the Day strip theme lane | 2026-10-26 12:24:25 EDT |
+| — | `5e8c6ec` | docs(stats): describe the Day strip theme lane | 2026-10-26 12:24:25 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [14l.f0](../bbugyi200.athena.14l.f0/README.md) | descendant | active |
+| [14l.f0](../bbugyi200.athena.14l.f0/README.md) | descendant | dismissed |
 | [14l.f1](../../sessions/bbugyi200.athena.14l.f1.md) (session · 3) | descendant | completed 2, failed 1 |
-| [14l.w0](../bbugyi200.athena.14l.w0/README.md) | descendant | active |
+| [14l.w0](../bbugyi200.athena.14l.w0/README.md) | descendant | dismissed |

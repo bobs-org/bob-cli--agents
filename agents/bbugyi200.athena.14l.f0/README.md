@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [14l](../../users/bbugyi200/machines/athena/hoods/14l/README.md) / 14l.f0
 
-**Global name:** `bbugyi200.athena.14l.f0` · **State:** active · **Source run:** `run-25c0101d9b62c14163be5fd033d69f5b`
+**Global name:** `bbugyi200.athena.14l.f0` · **State:** dismissed · **Source run:** `run-25c0101d9b62c14163be5fd033d69f5b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 14l
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-26T16:45:08.305736+00:00
+- Timing: 2026-10-26T12:43:44
 - Commits: 0
 
 ## Files
@@ -23,4 +23,4 @@
 |---|---|---|
 | [14l](../../sessions/bbugyi200.athena.14l.md) (session · 3) | ancestor | completed 2, failed 1 |
 | [14l.f1](../../sessions/bbugyi200.athena.14l.f1.md) (session · 3) | 14l hood | completed 2, failed 1 |
-| [14l.w0](../bbugyi200.athena.14l.w0/README.md) | 14l hood | active |
+| [14l.w0](../bbugyi200.athena.14l.w0/README.md) | 14l hood | dismissed |
