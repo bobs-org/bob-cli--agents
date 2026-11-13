@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d906675`](https://github.com/bobs-org/bob-cli/commit/d90667549a46e559f077f96e0db78ec0c1999bb9) | feat(capture): add notebook route parsing | 2026-11-09 16:08:46 EST |
+| — | `d906675` | feat(capture): add notebook route parsing | 2026-11-09 16:08:46 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-j8.3](../../sessions/bbugyi200.apollo.bob-cli-j8.3.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-j8.3](../../sessions/bbugyi200.apollo.bob-cli-j8.3.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-j8.3.1.2](../bbugyi200.apollo.bob-cli-j8.3.1.2/README.md) | bob-cli-j8.3.1 hood | completed |
 | [bob-cli-j8.3.1.3](../bbugyi200.apollo.bob-cli-j8.3.1.3/README.md) | bob-cli-j8.3.1 hood | completed |
 | [bob-cli-j8.3.1.4](../bbugyi200.apollo.bob-cli-j8.3.1.4/README.md) | bob-cli-j8.3.1 hood | completed |
@@ -38,7 +38,7 @@
 | [bob-cli-j8.2](../../sessions/bbugyi200.apollo.bob-cli-j8.2.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.4](../../sessions/bbugyi200.apollo.bob-cli-j8.4.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.5](../../sessions/bbugyi200.apollo.bob-cli-j8.5.md) (session · 3) | bob-cli-j8 hood | completed 3 |
-| [bob-cli-j8.6](../../sessions/bbugyi200.apollo.bob-cli-j8.6.md) (session · 3) | bob-cli-j8 hood | active 1, completed 2 |
+| [bob-cli-j8.6](../../sessions/bbugyi200.apollo.bob-cli-j8.6.md) (session · 3) | bob-cli-j8 hood | completed 2, dismissed 1 |
 | [bob-cli-j8.6.1.1](../../sessions/bbugyi200.apollo.bob-cli-j8.6.1.1.md) (session · 3) | bob-cli-j8 hood | completed 3 |
 | [bob-cli-j8.6.1.2](../bbugyi200.apollo.bob-cli-j8.6.1.2/README.md) | bob-cli-j8 hood | completed |
 | [bob-cli-j8.6.1.3](../bbugyi200.apollo.bob-cli-j8.6.1.3/README.md) | bob-cli-j8 hood | completed |
