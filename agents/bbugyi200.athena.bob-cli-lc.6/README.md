@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-lc](../../users/bbugyi200/machines/athena/hoods/bob-cli-lc/README.md) / bob-cli-lc.6
 
-**Global name:** `bbugyi200.athena.bob-cli-lc.6` · **State:** waiting · **Source run:** `run-d20e0d5b72e2b944a7447fa76f1e5713`
+**Global name:** `bbugyi200.athena.bob-cli-lc.6` · **State:** completed · **Source run:** `run-d20e0d5b72e2b944a7447fa76f1e5713`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-lc
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-lc](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-lc/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261113105652
-- Commits: 0
+- Timing: 2026-11-13T18:27:51.197900+00:00 → 2026-11-13T19:13:15.309249+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`a1dee92`](https://github.com/bobs-org/bob-cli/commit/a1dee92f8b77e889cab63adfeb67423ea0a598ff) | docs(memory): document bank category gesture | 2026-11-13 14:12:00 EST |
 
 ## Neighbors
 
