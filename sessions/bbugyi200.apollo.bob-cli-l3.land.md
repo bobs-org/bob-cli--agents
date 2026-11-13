@@ -2,25 +2,28 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-l3](../users/bbugyi200/machines/apollo/hoods/bob-cli-l3/README.md) / bob-cli-l3.land
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-l3` · Members: 3 · Bead: [bob-cli-l3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-l3/README.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-l3` · Members: 4 · Bead: [bob-cli-l3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-l3/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-l3.land--plan [active]"]
-  n1["bob-cli-l3.land--code [active]"]
+  n0["bob-cli-l3.land--plan [completed]"]
+  n1["bob-cli-l3.land--code [completed]"]
   n0 --> n1
-  n2["bob-cli-l3.land--gate [completed]"]
+  n2["bob-cli-l3.land--mon [active]"]
   n0 --> n2
+  n3["bob-cli-l3.land--gate [completed]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-l3.land--plan | active | gpt-6-astra / codex | 2026-11-13T00:03:58.937641+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-l3.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-l3.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-l3.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-13T00:23:26.185158+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-l3.land--plan | completed | gpt-6-astra / codex | 2026-11-13T00:03:58.937641+00:00 → 2026-11-13T01:49:04.626894+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-l3.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-l3.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-l3.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-13T00:23:26.185158+00:00 → 2026-11-13T01:49:04.626894+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-l3.land--code/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-l3.land--mon | active | muse-spark-1.3-contributor / muse | 2026-11-13T01:43:14.243841+00:00 | 0 | — | — |
 | <a id="member-gate"></a>gate | bob-cli-l3.land--gate | completed | gpt-6-astra / codex | 2026-11-13T00:22:11.177582+00:00 → 2026-11-13T00:22:35.414291+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-l3.land--gate/chat.md) |
 
 ## Variables
