@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4j.linker
 
-**Global name:** `bbugyi200.apollo.research.4j.linker` · **State:** waiting · **Source run:** `run-ac11eac849545ad3e129d0b126f58e0b`
+**Global name:** `bbugyi200.apollo.research.4j.linker` · **State:** completed · **Source run:** `run-ac11eac849545ad3e129d0b126f58e0b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261113091257
+- Timing: 2026-11-13T15:12:46.055263+00:00 → 2026-11-13T15:23:32.995999+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/subprojects\_catalog\_section/subprojects\_catalog\_section.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261113091257/subprojects\_catalog\_s… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/subprojects_catalog_section/subprojects_catalog_section.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113091257/subprojects_catalog_section-e1e394cc4e0f.md
+  ref: file:explicit:112841a641fc3849379ef3b0
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/subprojects_catalog_section/subprojects_catalog_section.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
