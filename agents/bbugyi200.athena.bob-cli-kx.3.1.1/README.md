@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kx](../../users/bbugyi200/machines/athena/hoods/bob-cli-kx/README.md) / bob-cli-kx.3.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-kx.3.1.1` · **State:** active · **Source run:** `run-427de2c6351bdd2faf7a29b8accc2149`
+**Global name:** `bbugyi200.athena.bob-cli-kx.3.1.1` · **State:** completed · **Source run:** `run-427de2c6351bdd2faf7a29b8accc2149`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kx
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-kx.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kx/bob-cli-kx.3.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-13T13:05:13.193894+00:00
-- Commits: 0
+- Timing: 2026-11-13T13:05:13.193894+00:00 → 2026-11-13T13:44:11.428743+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c994cfb`](https://github.com/bobs-org/bob-cli/commit/c994cfbd1d0d0a8271b5b27c3db5b6d6d73b0795) | feat(gmail): project archive receipts for readers | 2026-11-13 08:43:19 EST |
 
 ## Neighbors
 
@@ -29,6 +35,7 @@
 | [bob-cli-kx.3.1.4](../bbugyi200.athena.bob-cli-kx.3.1.4/README.md) | bob-cli-kx.3.1 hood | waiting |
 | [bob-cli-kx.3.1.5](../bbugyi200.athena.bob-cli-kx.3.1.5/README.md) | bob-cli-kx.3.1 hood | waiting |
 | [bob-cli-kx.3.1.6](../bbugyi200.athena.bob-cli-kx.3.1.6/README.md) | bob-cli-kx.3.1 hood | waiting |
+| [bob-cli-kx.3.1.land](../bbugyi200.athena.bob-cli-kx.3.1.land/README.md) | bob-cli-kx.3.1 hood | waiting |
 | [bob-cli-kx.1](../bbugyi200.athena.bob-cli-kx.1/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2](../../sessions/bbugyi200.athena.bob-cli-kx.2.md) (session · 3) | bob-cli-kx hood | active 1, completed 2 |
 | [bob-cli-kx.2.1.1](../bbugyi200.athena.bob-cli-kx.2.1.1/README.md) | bob-cli-kx hood | completed |
