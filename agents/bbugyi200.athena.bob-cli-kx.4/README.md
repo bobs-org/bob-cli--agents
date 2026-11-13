@@ -35,7 +35,7 @@
 | [bob-cli-kx.2.1.8.1](../../sessions/bbugyi200.athena.bob-cli-kx.2.1.8.1.md) (session · 9) | bob-cli-kx hood | completed 6, failed 3 |
 | [bob-cli-kx.2.1.8.2](../bbugyi200.athena.bob-cli-kx.2.1.8.2/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2.1.8.3](../bbugyi200.athena.bob-cli-kx.2.1.8.3/README.md) | bob-cli-kx hood | completed |
-| [bob-cli-kx.2.1.8.4](../bbugyi200.athena.bob-cli-kx.2.1.8.4/README.md) | bob-cli-kx hood | waiting |
+| [bob-cli-kx.2.1.8.4](../bbugyi200.athena.bob-cli-kx.2.1.8.4/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2.1.8.land](../bbugyi200.athena.bob-cli-kx.2.1.8.land/README.md) | bob-cli-kx hood | waiting |
 | [bob-cli-kx.2.1.land](../../sessions/bbugyi200.athena.bob-cli-kx.2.1.land.md) (session · 3) | bob-cli-kx hood | active 1, completed 2 |
 | [bob-cli-kx.3](../bbugyi200.athena.bob-cli-kx.3/README.md) | bob-cli-kx hood | waiting |
