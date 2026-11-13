@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-kr](../../users/bbugyi200/machines/apollo/hoods/bob-cli-kr/README.md) / [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) / bob-cli-kr.4.1.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-kr.4.1.land--code` · **State:** active · **Source run:** `run-573bd0c96566a2eeb510d5589d7ae583`
+**Global name:** `bbugyi200.apollo.bob-cli-kr.4.1.land--code` · **State:** completed · **Source run:** `run-573bd0c96566a2eeb510d5589d7ae583`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-kr
 
@@ -11,8 +11,38 @@
 - Bead: [bob-cli-kr.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kr/bob-cli-kr.4.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-13T11:25:30.962442+00:00
-- Commits: 0
+- Timing: 2026-11-13T11:25:30.962442+00:00 → 2026-11-13T11:56:29.073049+00:00
+- Commits: [1](#commits)
+- Variables: [1](#variables)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f508aa4`](https://github.com/bobs-org/bob-cli/commit/f508aa46eda604217b3fa15ef32a27ea4f4c8515) | test(album-schema): add escape-path verification evidence | 2026-11-13 06:54:28 EST |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-kr.4.1, kind: file, label: album\_schema\_finish escape-fix Athena acceptance, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261113062523/report-ef6bbf57a2ae.json, ref… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-kr.4.1
+  kind: file
+  label: album_schema_finish escape-fix Athena acceptance
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113062523/report-ef6bbf57a2ae.json
+  ref: file:explicit:804706682eb54cecb33fcc4b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/evidence/album-schema-finish-escape/report.json
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

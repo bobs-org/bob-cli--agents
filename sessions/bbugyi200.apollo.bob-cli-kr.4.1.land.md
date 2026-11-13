@@ -9,9 +9,9 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-kr` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-kr.4.1.land--gate [completed]"]
-  n1["bob-cli-kr.4.1.land--code [active]"]
+  n1["bob-cli-kr.4.1.land--code [completed]"]
   n0 --> n1
-  n2["bob-cli-kr.4.1.land--plan [active]"]
+  n2["bob-cli-kr.4.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,14 +20,34 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-kr.4.1.land--gate | completed | opus / claude | 2026-11-13T11:24:54.097146+00:00 → 2026-11-13T11:25:12.384265+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-kr.4.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-13T11:25:30.962442+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-kr.4.1.land--plan | active | opus / claude | 2026-11-13T10:54:31.928057+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-kr.4.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-13T11:25:30.962442+00:00 → 2026-11-13T11:56:29.073049+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-kr.4.1.land--plan | completed | opus / claude | 2026-11-13T10:54:31.928057+00:00 → 2026-11-13T11:56:29.073049+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`f508aa4`](https://github.com/bobs-org/bob-cli/commit/f508aa46eda604217b3fa15ef32a27ea4f4c8515) | test(album-schema): add escape-path verification evidence | 2026-11-13 06:54:28 EST |
 
 ## Variables
 
 | Role | Variable | Value |
 |---|---|---|
+| code | `artifacts` | \[{bead: bob-cli-kr.4.1, kind: file, label: album\_schema\_finish escape-fix Athena acceptance, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261113062523/report-ef6bbf57a2ae.json, ref… |
 | plan | `artifacts` | \[{bead: bob-cli-kr.4.1, kind: file, label: kr.4.1 retry9 Athena Schema Card acceptance report (failed: Escape closes card), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2026111305524… |
+
+#### artifacts
+
+**Role:** `code`
+
+```yaml
+- bead: bob-cli-kr.4.1
+  kind: file
+  label: album_schema_finish escape-fix Athena acceptance
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113062523/report-ef6bbf57a2ae.json
+  ref: file:explicit:804706682eb54cecb33fcc4b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/evidence/album-schema-finish-escape/report.json
+```
 
 #### artifacts
 

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-kr](../../users/bbugyi200/machines/apollo/hoods/bob-cli-kr/README.md) / [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) / bob-cli-kr.4.1.land--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-kr.4.1.land--plan` · **State:** active · **Source run:** `run-d2d989540ca4afdcd4b81c7b8ea6a185`
+**Global name:** `bbugyi200.apollo.bob-cli-kr.4.1.land--plan` · **State:** completed · **Source run:** `run-d2d989540ca4afdcd4b81c7b8ea6a185`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-kr
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-kr.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kr/bob-cli-kr.4.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-13T10:54:31.928057+00:00
+- Timing: 2026-11-13T10:54:31.928057+00:00 → 2026-11-13T11:56:29.073049+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
