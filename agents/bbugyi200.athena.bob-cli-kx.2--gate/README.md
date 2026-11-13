@@ -29,7 +29,7 @@
 | [bob-cli-kx.2.1.4](../bbugyi200.athena.bob-cli-kx.2.1.4/README.md) | descendant | completed |
 | [bob-cli-kx.2.1.5](../bbugyi200.athena.bob-cli-kx.2.1.5/README.md) | descendant | completed |
 | [bob-cli-kx.2.1.6](../bbugyi200.athena.bob-cli-kx.2.1.6/README.md) | descendant | completed |
-| [bob-cli-kx.2.1.7](../bbugyi200.athena.bob-cli-kx.2.1.7/README.md) | descendant | waiting |
+| [bob-cli-kx.2.1.7](../bbugyi200.athena.bob-cli-kx.2.1.7/README.md) | descendant | completed |
 | [bob-cli-kx.2.1.land](../bbugyi200.athena.bob-cli-kx.2.1.land/README.md) | descendant | waiting |
 | [bob-cli-kx.1](../bbugyi200.athena.bob-cli-kx.1/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.3](../bbugyi200.athena.bob-cli-kx.3/README.md) | bob-cli-kx hood | waiting |

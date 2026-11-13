@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kx](../../users/bbugyi200/machines/athena/hoods/bob-cli-kx/README.md) / bob-cli-kx.2.1.7
 
-**Global name:** `bbugyi200.athena.bob-cli-kx.2.1.7` · **State:** waiting · **Source run:** `run-32ce1133d1e0a2b9008b115600871f88`
+**Global name:** `bbugyi200.athena.bob-cli-kx.2.1.7` · **State:** completed · **Source run:** `run-32ce1133d1e0a2b9008b115600871f88`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kx
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-kx.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kx/bob-cli-kx.2.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261112114014
-- Commits: 0
+- Timing: 2026-11-13T02:24:54.093397+00:00 → 2026-11-13T04:00:38.572140+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`54fc8c6`](https://github.com/bobs-org/bob-cli/commit/54fc8c61870cf863710fb8051fb4d25c6f1e8117) | feat(gmail)!: complete archive reports and conformance audit | 2026-11-12 22:59:42 EST |
 
 ## Neighbors
 
