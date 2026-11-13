@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4i.image
 
-**Global name:** `bbugyi200.apollo.research.4i.image` · **State:** waiting · **Source run:** `run-7ad4d07a5bdab48bb4f6c8bb9dc1036f`
+**Global name:** `bbugyi200.apollo.research.4i.image` · **State:** completed · **Source run:** `run-7ad4d07a5bdab48bb4f6c8bb9dc1036f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261113090848
+- Timing: 2026-11-13T15:00:51.111286+00:00 → 2026-11-13T15:12:07.329904+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/bank\_weekly\_category\_walk/bank\_weekly\_category\_walk.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261113090848/bank\_weekly\_cate… |
+| `diagrams` | {considered: 20, count: 2, manifest: 202611/bank\_weekly\_category\_walk/bank\_weekly\_category\_walk.diagrams.md, source\_ref: file:explicit:84187a6aaeb69bc2fcd485f3, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/bank_weekly_category_walk/bank_weekly_category_walk.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113090848/bank_weekly_category_walk.diagrams-f2a98e372f29.md
+  ref: file:explicit:51638342c2894f6ac0e909c2
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/bank_weekly_category_walk/bank_weekly_category_walk.diagrams.md
+- kind: image
+  label: image:202611/bank_weekly_category_walk/bank_weekly_category_walk_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113090848/bank_weekly_category_walk_infographic-e4e6d18f1a4d.png
+  ref: file:explicit:c90833455147cbaef7333e4d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/bank_weekly_category_walk/bank_weekly_category_walk_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 20
+count: 2
+manifest: 202611/bank_weekly_category_walk/bank_weekly_category_walk.diagrams.md
+source_ref: file:explicit:84187a6aaeb69bc2fcd485f3
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4j.image
 
-**Global name:** `bbugyi200.apollo.research.4j.image` · **State:** waiting · **Source run:** `run-09a53b206fc4d929bf138476a476bbd3`
+**Global name:** `bbugyi200.apollo.research.4j.image` · **State:** completed · **Source run:** `run-09a53b206fc4d929bf138476a476bbd3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261113091253
+- Timing: 2026-11-13T15:00:51.900181+00:00 → 2026-11-13T15:12:31.983244+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/subprojects\_catalog\_section/subprojects\_catalog\_section\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261113091253/subprojects\_ca… |
+| `diagrams` | {considered: 12, count: 2, manifest: 202611/subprojects\_catalog\_section/subprojects\_catalog\_section.diagrams.md, source\_ref: file:explicit:444d275fa1c430345aaac180, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/subprojects_catalog_section/subprojects_catalog_section_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113091253/subprojects_catalog_section_infographic-c2596854c633.png
+  ref: file:explicit:5de415ad07e4d7da384f6cbd
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/subprojects_catalog_section/subprojects_catalog_section_infographic.png
+- kind: markdown
+  label: diagrams:202611/subprojects_catalog_section/subprojects_catalog_section.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113091253/subprojects_catalog_section.diagrams-dc03aca1a536.md
+  ref: file:explicit:9f5e5f2c48f9bb5942f5c86e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/subprojects_catalog_section/subprojects_catalog_section.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 2
+manifest: 202611/subprojects_catalog_section/subprojects_catalog_section.diagrams.md
+source_ref: file:explicit:444d275fa1c430345aaac180
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
