@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-l5` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-l5.3--gate [completed]"]
-  n1["bob-cli-l5.3--mon [active]"]
+  n1["bob-cli-l5.3--mon [completed]"]
   n0 --> n1
   n2["bob-cli-l5.3--plan [active]"]
   n0 --> n2
@@ -20,13 +20,18 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-l5.3--gate | completed | gpt-6-astra / codex | 2026-11-13T01:42:03.633051+00:00 → 2026-11-13T01:43:16.988894+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-l5.3--gate/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-l5.3--mon | active | gpt-6-astra / codex | 2026-11-13T01:43:13.694350+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-l5.3--mon | completed | gpt-6-astra / codex | 2026-11-13T01:43:13.694350+00:00 → 2026-11-13T01:47:15.732258+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-l5.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-l5.3--plan | active | gpt-6-astra / codex | 2026-11-13T01:25:14.248128+00:00 → 2026-11-13T01:43:24.703554+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-l5.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-l5.3--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-l5.3.1.1](../agents/bbugyi200.athena.bob-cli-l5.3.1.1/README.md) | descendant | completed |
+| [bob-cli-l5.3.1.2](../agents/bbugyi200.athena.bob-cli-l5.3.1.2/README.md) | descendant | active |
+| [bob-cli-l5.3.1.3](../agents/bbugyi200.athena.bob-cli-l5.3.1.3/README.md) | descendant | waiting |
+| [bob-cli-l5.3.1.4](../agents/bbugyi200.athena.bob-cli-l5.3.1.4/README.md) | descendant | waiting |
+| [bob-cli-l5.3.1.land](../agents/bbugyi200.athena.bob-cli-l5.3.1.land/README.md) | descendant | waiting |
 | [bob-cli-l5.1](../agents/bbugyi200.athena.bob-cli-l5.1/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.2](../agents/bbugyi200.athena.bob-cli-l5.2/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.4](../agents/bbugyi200.athena.bob-cli-l5.4/README.md) | bob-cli-l5 hood | waiting |
