@@ -31,7 +31,7 @@
 | [bob-cli-kx.2.1.6](../bbugyi200.athena.bob-cli-kx.2.1.6/README.md) | descendant | completed |
 | [bob-cli-kx.2.1.7](../bbugyi200.athena.bob-cli-kx.2.1.7/README.md) | descendant | completed |
 | [bob-cli-kx.2.1.8.1](../../sessions/bbugyi200.athena.bob-cli-kx.2.1.8.1.md) (session · 9) | descendant | completed 6, failed 3 |
-| [bob-cli-kx.2.1.8.2](../bbugyi200.athena.bob-cli-kx.2.1.8.2/README.md) | descendant | active |
+| [bob-cli-kx.2.1.8.2](../bbugyi200.athena.bob-cli-kx.2.1.8.2/README.md) | descendant | completed |
 | [bob-cli-kx.2.1.8.3](../bbugyi200.athena.bob-cli-kx.2.1.8.3/README.md) | descendant | waiting |
 | [bob-cli-kx.2.1.8.4](../bbugyi200.athena.bob-cli-kx.2.1.8.4/README.md) | descendant | waiting |
 | [bob-cli-kx.2.1.8.land](../bbugyi200.athena.bob-cli-kx.2.1.8.land/README.md) | descendant | waiting |

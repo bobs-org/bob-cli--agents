@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kx](../../users/bbugyi200/machines/athena/hoods/bob-cli-kx/README.md) / bob-cli-kx.2.1.8.2
 
-**Global name:** `bbugyi200.athena.bob-cli-kx.2.1.8.2` · **State:** active · **Source run:** `run-7454ab847aa174cc11b57275cdc3eb1f`
+**Global name:** `bbugyi200.athena.bob-cli-kx.2.1.8.2` · **State:** completed · **Source run:** `run-7454ab847aa174cc11b57275cdc3eb1f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kx
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-kx.2.1.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kx/bob-cli-kx.2.1.8.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-13T09:25:50.901562+00:00
-- Commits: 0
+- Timing: 2026-11-13T09:25:50.901562+00:00 → 2026-11-13T10:23:36.773317+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`642e158`](https://github.com/bobs-org/bob-cli/commit/642e1580872c74acc2ce3d30b02ff2cfe510841e) | feat(gmail)!: apply mutation boundary, let-go isolation, and fault tests \[bob-cli-kx.2.1.8.2\] | 2026-11-13 05:22:41 EST |
 
 ## Neighbors
 
