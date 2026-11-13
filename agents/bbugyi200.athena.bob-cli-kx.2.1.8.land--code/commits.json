@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4e4adf2b672cef83b407a90f783206b0"}
+{"commits":[{"committed_at":1794574531,"sha":"fada115450d2ab8fc55c461c59401014f97ebd35","subject":"fix(gmail)!: fail closed at archive mutation boundaries"}],"schema_version":2,"source_run_id":"run-4e4adf2b672cef83b407a90f783206b0"}

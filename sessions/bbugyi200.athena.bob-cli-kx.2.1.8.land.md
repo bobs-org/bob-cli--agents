@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-kx` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-kx.2.1.8.land--code [active]"]
-  n1["bob-cli-kx.2.1.8.land--plan [active]"]
+  n0["bob-cli-kx.2.1.8.land--code [completed]"]
+  n1["bob-cli-kx.2.1.8.land--plan [completed]"]
   n0 --> n1
   n2["bob-cli-kx.2.1.8.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-kx.2.1.8.land--code | active | gpt-6-luna / codex | 2026-11-13T12:06:22.530942+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-kx.2.1.8.land--plan | active | gpt-6-astra / codex | 2026-11-13T11:51:48.510191+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-kx.2.1.8.land--code | completed | gpt-6-luna / codex | 2026-11-13T12:06:22.530942+00:00 → 2026-11-13T12:57:21.212114+00:00 | [1](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-kx.2.1.8.land--plan | completed | gpt-6-astra / codex | 2026-11-13T11:51:48.510191+00:00 → 2026-11-13T12:57:21.212114+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-kx.2.1.8.land--gate | completed | gpt-6-astra / codex | 2026-11-13T12:05:36.468015+00:00 → 2026-11-13T12:05:52.121696+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`fada115`](https://github.com/bobs-org/bob-cli/commit/fada115450d2ab8fc55c461c59401014f97ebd35) | fix(gmail)!: fail closed at archive mutation boundaries | 2026-11-13 07:55:31 EST |
 
 ## Variables
 

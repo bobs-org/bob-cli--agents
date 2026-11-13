@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kx](../../users/bbugyi200/machines/athena/hoods/bob-cli-kx/README.md) / [bob-cli-kx.2.1.8.land](../../sessions/bbugyi200.athena.bob-cli-kx.2.1.8.land.md) / bob-cli-kx.2.1.8.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-kx.2.1.8.land--code` · **State:** active · **Source run:** `run-4e4adf2b672cef83b407a90f783206b0`
+**Global name:** `bbugyi200.athena.bob-cli-kx.2.1.8.land--code` · **State:** completed · **Source run:** `run-4e4adf2b672cef83b407a90f783206b0`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kx
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-kx.2.1.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kx/bob-cli-kx.2.1.8.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-13T12:06:22.530942+00:00
-- Commits: 0
+- Timing: 2026-11-13T12:06:22.530942+00:00 → 2026-11-13T12:57:21.212114+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`fada115`](https://github.com/bobs-org/bob-cli/commit/fada115450d2ab8fc55c461c59401014f97ebd35) | fix(gmail)!: fail closed at archive mutation boundaries | 2026-11-13 07:55:31 EST |
 
 ## Neighbors
 
