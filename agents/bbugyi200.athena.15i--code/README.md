@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`74874cb`](https://github.com/bobs-org/bob-cli/commit/74874cb52b0245341fab83360439a7b9929d1bfd) | feat(stats)!: keep every theme in JSON parts summaries | 2026-10-28 19:14:58 EDT |
+| — | `74874cb` | feat(stats)!: keep every theme in JSON parts summaries | 2026-10-28 19:14:58 EDT |
