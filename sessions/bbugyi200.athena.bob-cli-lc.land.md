@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-lc` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-lc.land--gate [completed]"]
-  n1["bob-cli-lc.land--code [active]"]
+  n1["bob-cli-lc.land--code [completed]"]
   n0 --> n1
-  n2["bob-cli-lc.land--plan [active]"]
+  n2["bob-cli-lc.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-lc.land--gate | completed | opus / claude | 2026-11-13T21:04:22.155173+00:00 → 2026-11-13T21:04:39.201401+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-lc.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-lc.land--code | active | grok-4.6 / grok | 2026-11-13T21:05:19.974903+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-lc.land--plan | active | opus / claude | 2026-11-13T20:26:42.447527+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-lc.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-lc.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-lc.land--code | completed | grok-4.6 / grok | 2026-11-13T21:05:19.974903+00:00 → 2026-11-13T21:49:56.982948+00:00 | [1](../agents/bbugyi200.athena.bob-cli-lc.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-lc.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-lc.land--plan | completed | opus / claude | 2026-11-13T20:26:42.447527+00:00 → 2026-11-13T21:49:56.982948+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-lc.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-lc.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`21d12f2`](https://github.com/bobs-org/bob-cli/commit/21d12f23a0738a94b030b2c6a2a2d8b47001bdc4) | docs(bank): keep the Category card open on the next waiting row | 2026-11-13 16:47:53 EST |
 
 ## Neighbors
 
