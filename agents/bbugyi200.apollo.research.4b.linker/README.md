@@ -41,7 +41,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.4b.linker.w0](../../sessions/bbugyi200.apollo.research.4b.linker.w0.md) (session · 3) | descendant | completed 3 |
-| [research.4b.linker.w0.f0](../bbugyi200.apollo.research.4b.linker.w0.f0/README.md) | descendant | active |
+| [research.4b.linker.w0.f0](../bbugyi200.apollo.research.4b.linker.w0.f0/README.md) | descendant | dismissed |
 | [research.4b.cdx](../bbugyi200.apollo.research.4b.cdx/README.md) | research.4b hood | completed |
 | [research.4b.cld](../bbugyi200.apollo.research.4b.cld/README.md) | research.4b hood | completed |
 | [research.4b.final](../bbugyi200.apollo.research.4b.final/README.md) | research.4b hood | completed |
