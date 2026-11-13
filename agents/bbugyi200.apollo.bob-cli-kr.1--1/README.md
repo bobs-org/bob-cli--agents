@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `1174a17` | feat(albums): report schema metadata and emit canonical YAML records | 2026-11-12 07:45:21 EST |
+| bob-cli | [`1174a17`](https://github.com/bobs-org/bob-cli/commit/1174a17b7cf18bf6d9b3e98968657e313b7aa5b6) | feat(albums): report schema metadata and emit canonical YAML records | 2026-11-12 07:45:21 EST |
 
 ## Neighbors
 
@@ -39,5 +39,5 @@
 | [bob-cli-kr.4.1.2](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.2.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.4.1.3](../bbugyi200.apollo.bob-cli-kr.4.1.3/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.4.1.4](../bbugyi200.apollo.bob-cli-kr.4.1.4/README.md) | bob-cli-kr hood | completed |
-| [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) (session · 3) | bob-cli-kr hood | completed 3 |
+| [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) (session · 3) | bob-cli-kr hood | active 2, completed 1 |
 | [bob-cli-kr.land](../bbugyi200.apollo.bob-cli-kr.land/README.md) | bob-cli-kr hood | waiting |

@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-kr` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-kr.4.1.land--code [completed]"]
-  n1["bob-cli-kr.4.1.land--plan [completed]"]
+  n0["bob-cli-kr.4.1.land--gate [completed]"]
+  n1["bob-cli-kr.4.1.land--code [active]"]
   n0 --> n1
-  n2["bob-cli-kr.4.1.land--gate [completed]"]
+  n2["bob-cli-kr.4.1.land--plan [active]"]
   n0 --> n2
 ```
 
@@ -19,15 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-kr.4.1.land--code | completed | gpt-6-luna / codex | 2026-11-12T23:08:15.053435+00:00 → 2026-11-13T00:10:27.045793+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-kr.4.1.land--plan | completed | gpt-6-astra / codex | 2026-11-12T22:47:35.425640+00:00 → 2026-11-13T00:10:27.045793+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--plan/chat.md) |
-| <a id="member-gate"></a>gate | bob-cli-kr.4.1.land--gate | completed | gpt-6-astra / codex | 2026-11-12T23:07:29.108285+00:00 → 2026-11-12T23:07:48.172127+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--gate/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-kr.4.1.land--gate | completed | opus / claude | 2026-11-13T11:24:54.097146+00:00 → 2026-11-13T11:25:12.384265+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--gate/chat.md) |
+| <a id="member-code"></a>code | bob-cli-kr.4.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-13T11:25:30.962442+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-kr.4.1.land--plan | active | opus / claude | 2026-11-13T10:54:31.928057+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-kr.4.1.land--plan/chat.md) |
 
 ## Variables
 
 | Role | Variable | Value |
 |---|---|---|
-| plan | `artifacts` | \[{bead: bob-cli-kr.4.1, kind: file, label: Schema Card landing baseline test failures, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261112134814/kr41-baseline-a76c2bf7e0e3.log, ref… |
+| plan | `artifacts` | \[{bead: bob-cli-kr.4.1, kind: file, label: kr.4.1 retry9 Athena Schema Card acceptance report (failed: Escape closes card), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2026111305524… |
 
 #### artifacts
 
@@ -36,16 +36,22 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 ```yaml
 - bead: bob-cli-kr.4.1
   kind: file
-  label: Schema Card landing baseline test failures
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112134814/kr41-baseline-a76c2bf7e0e3.log
-  ref: file:explicit:5b5c41bf3b75a57541e9c4e2
-  source_path: /tmp/kr41-baseline.log
+  label: kr.4.1 retry9 Athena Schema Card acceptance report (failed: Escape closes card)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113055247/kr41-retry9-report-618fb0e21afe.json
+  ref: file:explicit:8e68c5d0513e71274d202fee
+  source_path: /tmp/kr41-retry9-report.json
+- bead: bob-cli-kr.4.1
+  kind: image
+  label: kr.4.1 retry9 failure screenshot (Schema Card closed after stage Escape)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113055247/kr41-retry9-failure-f646ff4354a3.png
+  ref: file:explicit:75cb5d89ae49e96e3e71d623
+  source_path: /tmp/kr41-retry9-failure.png
 - bead: bob-cli-kr.4.1
   kind: file
-  label: Schema Card landing focused tests
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261112134814/kr41-focused-e663bcc98f1d.log
-  ref: file:explicit:1c7c9eafce8f222b82df1c4d
-  source_path: /tmp/kr41-focused.log
+  label: kr.4.1 restored uncommitted Schema Card plugin tree (b6f3dd9 + tale repairs; retry9)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113055247/kr41-restored-plugin-tree.tar-ae91803b5c38.gz
+  ref: file:explicit:4faa9afe6d48156b45617f53
+  source_path: /tmp/kr41-restored-plugin-tree.tar.gz
 ```
 
 Values are truncated for display; see each member's agent meta.json for the full values.

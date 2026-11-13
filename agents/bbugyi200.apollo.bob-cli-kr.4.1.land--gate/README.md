@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-kr](../../users/bbugyi200/machines/apollo/hoods/bob-cli-kr/README.md) / [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) / bob-cli-kr.4.1.land--gate
 
-**Global name:** `bbugyi200.apollo.bob-cli-kr.4.1.land--gate` · **State:** completed · **Source run:** `run-f51ac911d82ea78fe1aef6b0f91bd0fa`
+**Global name:** `bbugyi200.apollo.bob-cli-kr.4.1.land--gate` · **State:** completed · **Source run:** `run-0e1845e2ea0b2bedab963156a672c115`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-kr
 
 ## Summary
 
 - Bead: [bob-cli-kr.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kr/bob-cli-kr.4.1.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 2026-11-12T23:07:29.108285+00:00 → 2026-11-12T23:07:48.172127+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-13T11:24:54.097146+00:00 → 2026-11-13T11:25:12.384265+00:00
 - Commits: 0
 
 ## Files

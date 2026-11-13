@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-kr](../../users/bbugyi200/machines/apollo/hoods/bob-cli-kr/README.md) / [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) / bob-cli-kr.4.1.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-kr.4.1.land--code` · **State:** completed · **Source run:** `run-6d01493fcc17e67e1e69e5db567b0ddb`
+**Global name:** `bbugyi200.apollo.bob-cli-kr.4.1.land--code` · **State:** active · **Source run:** `run-573bd0c96566a2eeb510d5589d7ae583`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-kr
 
 ## Summary
 
 - Bead: [bob-cli-kr.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kr/bob-cli-kr.4.1.md)
-- Model: gpt-6-luna
-- Provider: codex
-- Timing: 2026-11-12T23:08:15.053435+00:00 → 2026-11-13T00:10:27.045793+00:00
+- Model: muse-spark-1.3-contributor
+- Provider: muse
+- Timing: 2026-11-13T11:25:30.962442+00:00
 - Commits: 0
 
 ## Neighbors
