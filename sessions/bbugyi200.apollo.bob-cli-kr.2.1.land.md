@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`27dd275`](https://github.com/bobs-org/bob-cli/commit/27dd275664eb928df33f88cc952604b1dc18f106) | feat(albums): repair guarded writer landing | 2026-11-12 13:38:15 EST |
+| code | — | `27dd275` | feat(albums): repair guarded writer landing | 2026-11-12 13:38:15 EST |
 
 ## Variables
 
@@ -69,5 +69,5 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-kr.4.1.2](bbugyi200.apollo.bob-cli-kr.4.1.2.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.4.1.3](../agents/bbugyi200.apollo.bob-cli-kr.4.1.3/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.4.1.4](../agents/bbugyi200.apollo.bob-cli-kr.4.1.4/README.md) | bob-cli-kr hood | completed |
-| [bob-cli-kr.4.1.land](bbugyi200.apollo.bob-cli-kr.4.1.land.md) (session · 3) | bob-cli-kr hood | active 2, completed 1 |
+| [bob-cli-kr.4.1.land](bbugyi200.apollo.bob-cli-kr.4.1.land.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.land](../agents/bbugyi200.apollo.bob-cli-kr.land/README.md) | bob-cli-kr hood | waiting |

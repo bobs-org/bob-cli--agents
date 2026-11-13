@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`27dd275`](https://github.com/bobs-org/bob-cli/commit/27dd275664eb928df33f88cc952604b1dc18f106) | feat(albums): repair guarded writer landing | 2026-11-12 13:38:15 EST |
+| — | `27dd275` | feat(albums): repair guarded writer landing | 2026-11-12 13:38:15 EST |
 
 ## Neighbors
 
@@ -39,5 +39,5 @@
 | [bob-cli-kr.4.1.2](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.2.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.4.1.3](../bbugyi200.apollo.bob-cli-kr.4.1.3/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.4.1.4](../bbugyi200.apollo.bob-cli-kr.4.1.4/README.md) | bob-cli-kr hood | completed |
-| [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) (session · 3) | bob-cli-kr hood | active 2, completed 1 |
+| [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.land](../bbugyi200.apollo.bob-cli-kr.land/README.md) | bob-cli-kr hood | waiting |

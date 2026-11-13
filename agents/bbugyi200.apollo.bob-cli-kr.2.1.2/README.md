@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`a7b5efe`](https://github.com/bobs-org/bob-cli/commit/a7b5efed64aac470c6f3ea578519e355bdf1b85f) | feat(albums): preserve schema spans and plan reversible updates | 2026-11-12 10:27:13 EST |
+| — | `a7b5efe` | feat(albums): preserve schema spans and plan reversible updates | 2026-11-12 10:27:13 EST |
 
 ## Neighbors
 
@@ -40,5 +40,5 @@
 | [bob-cli-kr.4.1.2](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.2.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.4.1.3](../bbugyi200.apollo.bob-cli-kr.4.1.3/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.4.1.4](../bbugyi200.apollo.bob-cli-kr.4.1.4/README.md) | bob-cli-kr hood | completed |
-| [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) (session · 3) | bob-cli-kr hood | active 2, completed 1 |
+| [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.land](../bbugyi200.apollo.bob-cli-kr.land/README.md) | bob-cli-kr hood | waiting |

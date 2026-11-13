@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`de5c0e5`](https://github.com/bobs-org/bob-cli/commit/de5c0e56d041af61aa0a4dd3d433a228754e66af) | feat(albums): validate ordered schema operations and consequences | 2026-11-12 09:11:26 EST |
+| — | `de5c0e5` | feat(albums): validate ordered schema operations and consequences | 2026-11-12 09:11:26 EST |
 
 ## Neighbors
 
@@ -40,5 +40,5 @@
 | [bob-cli-kr.4.1.2](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.2.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.4.1.3](../bbugyi200.apollo.bob-cli-kr.4.1.3/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.4.1.4](../bbugyi200.apollo.bob-cli-kr.4.1.4/README.md) | bob-cli-kr hood | completed |
-| [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) (session · 3) | bob-cli-kr hood | active 2, completed 1 |
+| [bob-cli-kr.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.land.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.land](../bbugyi200.apollo.bob-cli-kr.land/README.md) | bob-cli-kr hood | waiting |
