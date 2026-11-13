@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4i.grk
 
-**Global name:** `bbugyi200.apollo.research.4i.grk` · **State:** active · **Source run:** `run-a82b0a81ed67821290f5cef2a47f408b`
+**Global name:** `bbugyi200.apollo.research.4i.grk` · **State:** completed · **Source run:** `run-a82b0a81ed67821290f5cef2a47f408b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-13T14:10:10.838531+00:00
+- Timing: 2026-11-13T14:10:10.838531+00:00 → 2026-11-13T14:36:28.277926+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_ack\_walk\_weekly\_qfx\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261113090840/bank\_ack\_walk\_weekly\_qfx\_\_grk-7b474a56ffbe.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_ack_walk_weekly_qfx__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113090840/bank_ack_walk_weekly_qfx__grk-7b474a56ffbe.md
+  ref: file:explicit:c166b4e3b02345c234cdc1ca
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202611/bank_ack_walk_weekly_qfx__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
