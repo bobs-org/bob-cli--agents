@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-kx.3.1.4](../agents/bbugyi200.athena.bob-cli-kx.3.1.4/README.md) | descendant | completed |
 | [bob-cli-kx.3.1.5](bbugyi200.athena.bob-cli-kx.3.1.5.md) (session · 3) | descendant | completed 3 |
 | [bob-cli-kx.3.1.6](bbugyi200.athena.bob-cli-kx.3.1.6.md) (session · 7) | descendant | completed 7 |
-| [bob-cli-kx.3.1.land](bbugyi200.athena.bob-cli-kx.3.1.land.md) (session · 3) | descendant | active 2, completed 1 |
+| [bob-cli-kx.3.1.land](bbugyi200.athena.bob-cli-kx.3.1.land.md) (session · 13) | descendant | completed 8, failed 5 |
 | [bob-cli-kx.1](../agents/bbugyi200.athena.bob-cli-kx.1/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2](bbugyi200.athena.bob-cli-kx.2.md) (session · 3) | bob-cli-kx hood | active 1, completed 2 |
 | [bob-cli-kx.2.1.1](../agents/bbugyi200.athena.bob-cli-kx.2.1.1/README.md) | bob-cli-kx hood | completed |
