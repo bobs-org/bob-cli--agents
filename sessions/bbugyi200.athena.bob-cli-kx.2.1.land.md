@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-kx` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-kx.2.1.land--mon [active]"]
+  n0["bob-cli-kx.2.1.land--mon [completed]"]
   n1["bob-cli-kx.2.1.land--gate [completed]"]
   n0 --> n1
   n2["bob-cli-kx.2.1.land--plan [active]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-kx.2.1.land--mon | active | opus / claude | 2026-11-13T04:51:05.028183+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-kx.2.1.land--mon | completed | opus / claude | 2026-11-13T04:51:05.028183+00:00 → 2026-11-13T04:54:58.216521+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-kx.2.1.land--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-kx.2.1.land--gate | completed | opus / claude | 2026-11-13T04:50:07.227591+00:00 → 2026-11-13T04:51:07.943527+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-kx.2.1.land--gate/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-kx.2.1.land--plan | active | opus / claude | 2026-11-13T04:07:11.773435+00:00 → 2026-11-13T04:51:16.901635+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-kx.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-kx.2.1.land--plan/chat.md) |
 
@@ -35,6 +35,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-kx.2.1.5](../agents/bbugyi200.athena.bob-cli-kx.2.1.5/README.md) | bob-cli-kx.2.1 hood | completed |
 | [bob-cli-kx.2.1.6](../agents/bbugyi200.athena.bob-cli-kx.2.1.6/README.md) | bob-cli-kx.2.1 hood | completed |
 | [bob-cli-kx.2.1.7](../agents/bbugyi200.athena.bob-cli-kx.2.1.7/README.md) | bob-cli-kx.2.1 hood | completed |
+| [bob-cli-kx.2.1.8.1](bbugyi200.athena.bob-cli-kx.2.1.8.1.md) (session · 9) | bob-cli-kx.2.1 hood | completed 6, failed 3 |
+| [bob-cli-kx.2.1.8.2](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.2/README.md) | bob-cli-kx.2.1 hood | active |
+| [bob-cli-kx.2.1.8.3](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.3/README.md) | bob-cli-kx.2.1 hood | waiting |
+| [bob-cli-kx.2.1.8.4](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.4/README.md) | bob-cli-kx.2.1 hood | waiting |
+| [bob-cli-kx.2.1.8.land](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.land/README.md) | bob-cli-kx.2.1 hood | waiting |
 | [bob-cli-kx.1](../agents/bbugyi200.athena.bob-cli-kx.1/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.3](../agents/bbugyi200.athena.bob-cli-kx.3/README.md) | bob-cli-kx hood | waiting |
 | [bob-cli-kx.4](../agents/bbugyi200.athena.bob-cli-kx.4/README.md) | bob-cli-kx hood | waiting |
