@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [19](../../users/bbugyi200/machines/athena/hoods/19/README.md) / [19.f1](../../sessions/bbugyi200.athena.19.f1.md) / 19.f1
 
-**Global name:** `bbugyi200.athena.19.f1` · **State:** active · **Source run:** `run-2caefbca25b4dc63391c10dd2db563b7`
+**Global name:** `bbugyi200.athena.19.f1` · **State:** dismissed · **Source run:** `run-2caefbca25b4dc63391c10dd2db563b7`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 19
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-07-07T23:23:16.883950+00:00
+- Timing: 2026-07-07T19:23:16.883950 → 2026-07-07T19:32:22.282962
 - Commits: [1](#commits)
 
 ## Files
@@ -21,12 +21,12 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3d0022d`](https://github.com/bobs-org/bob-cli/commit/3d0022d874e7865766f05b057db298968216bb8e) | chore: Add SDD prompt and plan for transcluded\_at\_toggle | 2026-07-07 19:27:02 EDT |
+| — | `3d0022d` | chore: Add SDD prompt and plan for transcluded\_at\_toggle | 2026-07-07 19:27:02 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [19](../../sessions/bbugyi200.athena.19.md) (session · 2) | ancestor | active 1, completed 1 |
-| [19.f1.w1](../../sessions/bbugyi200.athena.19.f1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [19.f1.w1.f1](../../sessions/bbugyi200.athena.19.f1.w1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [19](../../sessions/bbugyi200.athena.19.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [19.f1.w1](../../sessions/bbugyi200.athena.19.f1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [19.f1.w1.f1](../../sessions/bbugyi200.athena.19.f1.w1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |

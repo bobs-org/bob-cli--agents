@@ -21,6 +21,6 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [19](../../sessions/bbugyi200.athena.19.md) (session · 2) | ancestor | active 1, completed 1 |
-| [19.f1.w1](../../sessions/bbugyi200.athena.19.f1.w1.md) (session · 2) | descendant | active 1, completed 1 |
-| [19.f1.w1.f1](../../sessions/bbugyi200.athena.19.f1.w1.f1.md) (session · 2) | descendant | active 1, completed 1 |
+| [19](../../sessions/bbugyi200.athena.19.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [19.f1.w1](../../sessions/bbugyi200.athena.19.f1.w1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [19.f1.w1.f1](../../sessions/bbugyi200.athena.19.f1.w1.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
