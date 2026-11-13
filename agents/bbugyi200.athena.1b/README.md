@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [1b](../../users/bbugyi200/machines/athena/hoods/1b/README.md) / [1b](../../sessions/bbugyi200.athena.1b.md) / 1b
 
-**Global name:** `bbugyi200.athena.1b` · **State:** active · **Source run:** `run-d6e75dd2a809b4d4657e664496925f53`
+**Global name:** `bbugyi200.athena.1b` · **State:** dismissed · **Source run:** `run-d6e75dd2a809b4d4657e664496925f53`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 1b
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.5
 - Provider: codex
-- Timing: 2026-07-07T23:19:58.638735+00:00
+- Timing: 2026-07-07T19:19:58.638735 → 2026-07-07T19:34:27.063269
 - Commits: [1](#commits)
 
 ## Files
@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`64f577f`](https://github.com/bobs-org/bob-cli/commit/64f577f831266df935cbe9af8d20162a9dc3609b) | chore: Add SDD prompt and plan for task\_query\_half\_page\_scroll | 2026-07-07 19:25:01 EDT |
+| — | `64f577f` | chore: Add SDD prompt and plan for task\_query\_half\_page\_scroll | 2026-07-07 19:25:01 EDT |

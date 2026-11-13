@@ -21,7 +21,7 @@ flowchart TD
   n0 --> n5
   n6["1au.w0--1 [completed]"]
   n0 --> n6
-  n7["1au.w0--mon-0 [active]"]
+  n7["1au.w0--mon-0 [completed]"]
   n0 --> n7
   n8["1au.w0--gate-1 [completed]"]
   n0 --> n8
@@ -40,6 +40,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-plan"></a>plan | 1au.w0--plan | completed | opus / claude | 2026-11-10T13:47:18.108946+00:00 → 2026-11-10T13:57:41.312400+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1au.w0--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.1au.w0--plan/chat.md) |
 | <a id="member-3"></a>3 | 1au.w0--3 | completed | grok-4.6 / grok | 2026-11-10T14:30:05.179782+00:00 → 2026-11-10T14:42:13.380531+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1au.w0--3/prompt.md) | [Chat](../agents/bbugyi200.athena.1au.w0--3/chat.md) |
 | <a id="member-1"></a>1 | 1au.w0--1 | completed | grok-4.6 / grok | 2026-11-10T14:07:41.853048+00:00 → 2026-11-10T14:12:10.413641+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1au.w0--1/prompt.md) | [Chat](../agents/bbugyi200.athena.1au.w0--1/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | 1au.w0--mon-0 | active | grok-4.6 / grok | 2026-11-10T14:40:57.876128+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | 1au.w0--mon-0 | completed | grok-4.6 / grok | 2026-11-10T14:40:57.876128+00:00 → 2026-11-10T14:44:06.615617+00:00 | 0 | — | — |
 | <a id="member-gate-1"></a>gate-1 | 1au.w0--gate-1 | completed | grok-4.6 / grok | 2026-11-10T14:27:26.665201+00:00 → 2026-11-10T14:28:27.156724+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.1au.w0--gate-1/chat.md) |
 | <a id="member-gate"></a>gate | 1au.w0--gate | completed | opus / claude | 2026-11-10T13:59:30.258267+00:00 → 2026-11-10T14:00:10.003636+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.1au.w0--gate/chat.md) |
