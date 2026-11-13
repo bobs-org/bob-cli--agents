@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ji.7](bbugyi200.apollo.bob-cli-ji.7.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-ji.7](bbugyi200.apollo.bob-cli-ji.7.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-ji.7.1.1](../agents/bbugyi200.apollo.bob-cli-ji.7.1.1/README.md) | bob-cli-ji.7.1 hood | completed |
 | [bob-cli-ji.7.1.2](bbugyi200.apollo.bob-cli-ji.7.1.2.md) (session · 3) | bob-cli-ji.7.1 hood | completed 2, failed 1 |
 | [bob-cli-ji.7.1.3](bbugyi200.apollo.bob-cli-ji.7.1.3.md) (session · 3) | bob-cli-ji.7.1 hood | completed 2, failed 1 |
@@ -51,4 +51,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ji.8.3](../agents/bbugyi200.apollo.bob-cli-ji.8.3/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.4](../agents/bbugyi200.apollo.bob-cli-ji.8.4/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.land](bbugyi200.apollo.bob-cli-ji.8.land.md) (session · 7) | bob-cli-ji hood | completed 6, failed 1 |
-| [bob-cli-ji.land](bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | active 1, completed 2 |
+| [bob-cli-ji.land](bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | completed 2, dismissed 1 |

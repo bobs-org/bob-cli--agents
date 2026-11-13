@@ -28,7 +28,7 @@
 | [bob-cli-ji.4](../bbugyi200.apollo.bob-cli-ji.4/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.5](../bbugyi200.apollo.bob-cli-ji.5/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.6](../bbugyi200.apollo.bob-cli-ji.6/README.md) | bob-cli-ji hood | completed |
-| [bob-cli-ji.7](../../sessions/bbugyi200.apollo.bob-cli-ji.7.md) (session · 3) | bob-cli-ji hood | active 1, completed 2 |
+| [bob-cli-ji.7](../../sessions/bbugyi200.apollo.bob-cli-ji.7.md) (session · 3) | bob-cli-ji hood | completed 2, dismissed 1 |
 | [bob-cli-ji.7.1.1](../bbugyi200.apollo.bob-cli-ji.7.1.1/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.7.1.2](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.2.md) (session · 3) | bob-cli-ji hood | completed 2, failed 1 |
 | [bob-cli-ji.7.1.3](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.3.md) (session · 3) | bob-cli-ji hood | completed 2, failed 1 |

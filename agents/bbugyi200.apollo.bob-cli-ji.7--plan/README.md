@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ji](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ji/README.md) / [bob-cli-ji.7](../../sessions/bbugyi200.apollo.bob-cli-ji.7.md) / bob-cli-ji.7--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-ji.7--plan` · **State:** active · **Source run:** `run-847d67a59eb6488411d549fadfe02abc`
+**Global name:** `bbugyi200.apollo.bob-cli-ji.7--plan` · **State:** dismissed · **Source run:** `run-847d67a59eb6488411d549fadfe02abc`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ji
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-ji](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ji/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-10T15:16:24.226708+00:00 → 2026-11-10T15:29:47.613449+00:00
+- Timing: 2026-11-10T10:16:24.226708 → 2026-11-10T10:29:48.027217
 - Commits: 0
 
 ## Files
@@ -41,4 +41,4 @@
 | [bob-cli-ji.8.3](../bbugyi200.apollo.bob-cli-ji.8.3/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.4](../bbugyi200.apollo.bob-cli-ji.8.4/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.land](../../sessions/bbugyi200.apollo.bob-cli-ji.8.land.md) (session · 7) | bob-cli-ji hood | completed 6, failed 1 |
-| [bob-cli-ji.land](../../sessions/bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | active 1, completed 2 |
+| [bob-cli-ji.land](../../sessions/bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | completed 2, dismissed 1 |

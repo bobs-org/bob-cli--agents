@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`cf7c060`](https://github.com/bobs-org/bob-cli/commit/cf7c06052b26b64d5fb68e10a4b65b5f759fac10) | feat(gcal): add private event note writes and preview | 2026-11-10 09:56:07 EST |
+| — | `cf7c060` | feat(gcal): add private event note writes and preview | 2026-11-10 09:56:07 EST |
 
 ## Neighbors
 
@@ -34,7 +34,7 @@
 | [bob-cli-ji.3](../bbugyi200.apollo.bob-cli-ji.3/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.5](../bbugyi200.apollo.bob-cli-ji.5/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.6](../bbugyi200.apollo.bob-cli-ji.6/README.md) | bob-cli-ji hood | completed |
-| [bob-cli-ji.7](../../sessions/bbugyi200.apollo.bob-cli-ji.7.md) (session · 3) | bob-cli-ji hood | active 1, completed 2 |
+| [bob-cli-ji.7](../../sessions/bbugyi200.apollo.bob-cli-ji.7.md) (session · 3) | bob-cli-ji hood | completed 2, dismissed 1 |
 | [bob-cli-ji.7.1.1](../bbugyi200.apollo.bob-cli-ji.7.1.1/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.7.1.2](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.2.md) (session · 3) | bob-cli-ji hood | completed 2, failed 1 |
 | [bob-cli-ji.7.1.3](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.3.md) (session · 3) | bob-cli-ji hood | completed 2, failed 1 |
@@ -47,4 +47,4 @@
 | [bob-cli-ji.8.3](../bbugyi200.apollo.bob-cli-ji.8.3/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.4](../bbugyi200.apollo.bob-cli-ji.8.4/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.land](../../sessions/bbugyi200.apollo.bob-cli-ji.8.land.md) (session · 7) | bob-cli-ji hood | completed 6, failed 1 |
-| [bob-cli-ji.land](../../sessions/bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | active 1, completed 2 |
+| [bob-cli-ji.land](../../sessions/bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | completed 2, dismissed 1 |

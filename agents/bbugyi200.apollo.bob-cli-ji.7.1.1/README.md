@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8e2b93c`](https://github.com/bobs-org/bob-cli/commit/8e2b93c7d0ed6bee06cb5b19b5ce95bc8f09115e) | feat(gcal): expose effective buffer reasons in note JSON | 2026-11-10 11:21:54 EST |
+| — | `8e2b93c` | feat(gcal): expose effective buffer reasons in note JSON | 2026-11-10 11:21:54 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ji.7](../../sessions/bbugyi200.apollo.bob-cli-ji.7.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-ji.7](../../sessions/bbugyi200.apollo.bob-cli-ji.7.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-ji.7.1.2](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.2.md) (session · 3) | bob-cli-ji.7.1 hood | completed 2, failed 1 |
 | [bob-cli-ji.7.1.3](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.3.md) (session · 3) | bob-cli-ji.7.1 hood | completed 2, failed 1 |
 | [bob-cli-ji.7.1.4](../../sessions/bbugyi200.apollo.bob-cli-ji.7.1.4.md) (session · 15) | bob-cli-ji.7.1 hood | completed 9, failed 6 |
@@ -47,4 +47,4 @@
 | [bob-cli-ji.8.3](../bbugyi200.apollo.bob-cli-ji.8.3/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.4](../bbugyi200.apollo.bob-cli-ji.8.4/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.land](../../sessions/bbugyi200.apollo.bob-cli-ji.8.land.md) (session · 7) | bob-cli-ji hood | completed 6, failed 1 |
-| [bob-cli-ji.land](../../sessions/bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | active 1, completed 2 |
+| [bob-cli-ji.land](../../sessions/bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | completed 2, dismissed 1 |

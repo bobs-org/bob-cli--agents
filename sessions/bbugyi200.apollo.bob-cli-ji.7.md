@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-ji.7--gate [completed]"]
   n1["bob-cli-ji.7--mon [completed]"]
   n0 --> n1
-  n2["bob-cli-ji.7--plan [active]"]
+  n2["bob-cli-ji.7--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-ji.7--gate | completed | gpt-6-astra / codex | 2026-11-10T15:29:18.411210+00:00 → 2026-11-10T15:29:39.232609+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-ji.7--mon | completed | gpt-6-astra / codex | 2026-11-10T15:29:37.421263+00:00 → 2026-11-10T15:31:35.518191+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7--mon/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ji.7--plan | active | gpt-6-astra / codex | 2026-11-10T15:16:24.226708+00:00 → 2026-11-10T15:29:47.613449+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ji.7--plan | dismissed | gpt-6-astra / codex | 2026-11-10T10:16:24.226708 → 2026-11-10T10:29:48.027217 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ji.7--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ji.7--plan/chat.md) |
 
 ## Neighbors
 
@@ -45,4 +45,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ji.8.3](../agents/bbugyi200.apollo.bob-cli-ji.8.3/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.4](../agents/bbugyi200.apollo.bob-cli-ji.8.4/README.md) | bob-cli-ji hood | completed |
 | [bob-cli-ji.8.land](bbugyi200.apollo.bob-cli-ji.8.land.md) (session · 7) | bob-cli-ji hood | completed 6, failed 1 |
-| [bob-cli-ji.land](bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | active 1, completed 2 |
+| [bob-cli-ji.land](bbugyi200.apollo.bob-cli-ji.land.md) (session · 3) | bob-cli-ji hood | completed 2, dismissed 1 |

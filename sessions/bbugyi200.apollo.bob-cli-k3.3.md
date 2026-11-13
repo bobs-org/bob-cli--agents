@@ -27,24 +27,24 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`d0ada55`](https://github.com/bobs-org/bob-cli/commit/d0ada555a8b60c74933f9ce4eb3aa8c0469b0d64) | refactor(notebooks): extract shared host-catalog region engine | 2026-11-11 06:03:48 EST |
+| 1 | — | `d0ada55` | refactor(notebooks): extract shared host-catalog region engine | 2026-11-11 06:03:48 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-k3.1](../agents/bbugyi200.apollo.bob-cli-k3.1/README.md) | bob-cli-k3 hood | active |
-| [bob-cli-k3.10](../agents/bbugyi200.apollo.bob-cli-k3.10/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.11](../agents/bbugyi200.apollo.bob-cli-k3.11/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.2](bbugyi200.apollo.bob-cli-k3.2.md) (session · 3) | bob-cli-k3 hood | active 1, completed 2 |
-| [bob-cli-k3.2.1.1](bbugyi200.apollo.bob-cli-k3.2.1.1.md) (session · 5) | bob-cli-k3 hood | active 5 |
+| [bob-cli-k3.1](../agents/bbugyi200.apollo.bob-cli-k3.1/README.md) | bob-cli-k3 hood | dismissed |
+| [bob-cli-k3.10](../agents/bbugyi200.apollo.bob-cli-k3.10/README.md) | bob-cli-k3 hood | dismissed |
+| [bob-cli-k3.11](../agents/bbugyi200.apollo.bob-cli-k3.11/README.md) | bob-cli-k3 hood | dismissed |
+| [bob-cli-k3.2](bbugyi200.apollo.bob-cli-k3.2.md) (session · 3) | bob-cli-k3 hood | completed 2, dismissed 1 |
+| [bob-cli-k3.2.1.1](bbugyi200.apollo.bob-cli-k3.2.1.1.md) (session · 5) | bob-cli-k3 hood | dismissed 5 |
 | [bob-cli-k3.2.1.2](../agents/bbugyi200.apollo.bob-cli-k3.2.1.2/README.md) | bob-cli-k3 hood | failed |
-| [bob-cli-k3.2.1.3](../agents/bbugyi200.apollo.bob-cli-k3.2.1.3/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.2.1.land](../agents/bbugyi200.apollo.bob-cli-k3.2.1.land/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.4](../agents/bbugyi200.apollo.bob-cli-k3.4/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.5](../agents/bbugyi200.apollo.bob-cli-k3.5/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.6](../agents/bbugyi200.apollo.bob-cli-k3.6/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.7](../agents/bbugyi200.apollo.bob-cli-k3.7/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.8](../agents/bbugyi200.apollo.bob-cli-k3.8/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.9](../agents/bbugyi200.apollo.bob-cli-k3.9/README.md) | bob-cli-k3 hood | waiting |
-| [bob-cli-k3.land](../agents/bbugyi200.apollo.bob-cli-k3.land/README.md) | bob-cli-k3 hood | waiting |
+| [bob-cli-k3.2.1.3](../agents/bbugyi200.apollo.bob-cli-k3.2.1.3/README.md) | bob-cli-k3 hood | dismissed |
+| [bob-cli-k3.2.1.land](../agents/bbugyi200.apollo.bob-cli-k3.2.1.land/README.md) | bob-cli-k3 hood | dismissed |
+| [bob-cli-k3.4](../agents/bbugyi200.apollo.bob-cli-k3.4/README.md) | bob-cli-k3 hood | dismissed |
+| [bob-cli-k3.5](../agents/bbugyi200.apollo.bob-cli-k3.5/README.md) | bob-cli-k3 hood | dismissed |
+| [bob-cli-k3.6](../agents/bbugyi200.apollo.bob-cli-k3.6/README.md) | bob-cli-k3 hood | dismissed |
+| [bob-cli-k3.7](../agents/bbugyi200.apollo.bob-cli-k3.7/README.md) | bob-cli-k3 hood | dismissed |
+| [bob-cli-k3.8](../agents/bbugyi200.apollo.bob-cli-k3.8/README.md) | bob-cli-k3 hood | dismissed |
+| [bob-cli-k3.9](../agents/bbugyi200.apollo.bob-cli-k3.9/README.md) | bob-cli-k3 hood | dismissed |
+| [bob-cli-k3.land](../agents/bbugyi200.apollo.bob-cli-k3.land/README.md) | bob-cli-k3 hood | dismissed |
