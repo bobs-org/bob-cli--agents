@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [157](../../users/bbugyi200/machines/athena/hoods/157/README.md) / 157
 
-**Global name:** `bbugyi200.athena.157` · **State:** active · **Source run:** `run-6a1c931ac4e9d5009ddb35a437001297`
+**Global name:** `bbugyi200.athena.157` · **State:** dismissed · **Source run:** `run-6a1c931ac4e9d5009ddb35a437001297`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 157
 
@@ -10,7 +10,7 @@
 
 - Model: claude-haiku-5-5
 - Provider: claude
-- Timing: 2026-10-28T13:59:08.779171+00:00
+- Timing: 2026-10-28T09:59:08.779171 → 2026-10-28T10:09:27.384813
 - Commits: 0
 - Variables: [1](#variables)
 
