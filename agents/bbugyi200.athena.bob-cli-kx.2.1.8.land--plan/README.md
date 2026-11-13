@@ -60,7 +60,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-kx.3.1.1](../bbugyi200.athena.bob-cli-kx.3.1.1/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.3.1.2](../bbugyi200.athena.bob-cli-kx.3.1.2/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.3.1.3](../bbugyi200.athena.bob-cli-kx.3.1.3/README.md) | bob-cli-kx hood | completed |
-| [bob-cli-kx.3.1.4](../bbugyi200.athena.bob-cli-kx.3.1.4/README.md) | bob-cli-kx hood | waiting |
+| [bob-cli-kx.3.1.4](../bbugyi200.athena.bob-cli-kx.3.1.4/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.3.1.5](../bbugyi200.athena.bob-cli-kx.3.1.5/README.md) | bob-cli-kx hood | waiting |
 | [bob-cli-kx.3.1.6](../bbugyi200.athena.bob-cli-kx.3.1.6/README.md) | bob-cli-kx hood | waiting |
 | [bob-cli-kx.3.1.land](../bbugyi200.athena.bob-cli-kx.3.1.land/README.md) | bob-cli-kx hood | waiting |
