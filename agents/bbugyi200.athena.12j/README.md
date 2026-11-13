@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [12j](../../users/bbugyi200/machines/athena/hoods/12j/README.md) / 12j
 
-**Global name:** `bbugyi200.athena.12j` · **State:** active · **Source run:** `run-028d32bdd63de38c25e7569fc5490249`
+**Global name:** `bbugyi200.athena.12j` · **State:** dismissed · **Source run:** `run-028d32bdd63de38c25e7569fc5490249`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 12j
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-10-20T17:22:04.420193+00:00
+- Timing: 2026-10-20T13:22:04.420193 → 2026-10-20T13:26:48.148646
 - Commits: 0
 - Variables: [1](#variables)
 
