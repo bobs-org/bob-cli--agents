@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-27795e8c35168434871f2962658473a4"}
+{"commits":[{"committed_at":1794567678,"sha":"6b9261a74b0c0f27548de4992501c52c549f4447","subject":"fix(gmail): preserve archive preview and sync safety"}],"schema_version":2,"source_run_id":"run-27795e8c35168434871f2962658473a4"}
