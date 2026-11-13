@@ -49,7 +49,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-l5.3.1.1](../agents/bbugyi200.athena.bob-cli-l5.3.1.1/README.md) | bob-cli-l5.3.1 hood | completed |
 | [bob-cli-l5.3.1.2](../agents/bbugyi200.athena.bob-cli-l5.3.1.2/README.md) | bob-cli-l5.3.1 hood | completed |
 | [bob-cli-l5.3.1.3](../agents/bbugyi200.athena.bob-cli-l5.3.1.3/README.md) | bob-cli-l5.3.1 hood | completed |
-| [bob-cli-l5.3.1.land](../agents/bbugyi200.athena.bob-cli-l5.3.1.land/README.md) | bob-cli-l5.3.1 hood | waiting |
+| [bob-cli-l5.3.1.land](bbugyi200.athena.bob-cli-l5.3.1.land.md) (session · 3) | bob-cli-l5.3.1 hood | active 2, completed 1 |
 | [bob-cli-l5.1](../agents/bbugyi200.athena.bob-cli-l5.1/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.2](../agents/bbugyi200.athena.bob-cli-l5.2/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.4](../agents/bbugyi200.athena.bob-cli-l5.4/README.md) | bob-cli-l5 hood | waiting |
