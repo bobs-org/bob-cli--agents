@@ -22,9 +22,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [145](../../sessions/bbugyi200.athena.145.md) (session · 3) | ancestor | completed 1, failed 2 |
-| [145.w0](../bbugyi200.athena.145.w0/README.md) | 145 hood | active |
-| [145.w1](../bbugyi200.athena.145.w1/README.md) | 145 hood | active |
-| [145.w2](../bbugyi200.athena.145.w2/README.md) | 145 hood | active |
-| [145.w3](../bbugyi200.athena.145.w3/README.md) | 145 hood | active |
-| [145.w4](../bbugyi200.athena.145.w4/README.md) | 145 hood | active |
-| [145.w5](../bbugyi200.athena.145.w5/README.md) | 145 hood | active |
+| [145.w0](../bbugyi200.athena.145.w0/README.md) | 145 hood | dismissed |
+| [145.w1](../bbugyi200.athena.145.w1/README.md) | 145 hood | dismissed |
+| [145.w2](../bbugyi200.athena.145.w2/README.md) | 145 hood | dismissed |
+| [145.w3](../bbugyi200.athena.145.w3/README.md) | 145 hood | dismissed |
+| [145.w4](../bbugyi200.athena.145.w4/README.md) | 145 hood | dismissed |
+| [145.w5](../bbugyi200.athena.145.w5/README.md) | 145 hood | dismissed |

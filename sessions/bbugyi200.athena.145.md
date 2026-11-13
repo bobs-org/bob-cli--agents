@@ -57,10 +57,10 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [145.w0](../agents/bbugyi200.athena.145.w0/README.md) | descendant | active |
-| [145.w1](../agents/bbugyi200.athena.145.w1/README.md) | descendant | active |
-| [145.w2](../agents/bbugyi200.athena.145.w2/README.md) | descendant | active |
-| [145.w3](../agents/bbugyi200.athena.145.w3/README.md) | descendant | active |
-| [145.w4](../agents/bbugyi200.athena.145.w4/README.md) | descendant | active |
-| [145.w5](../agents/bbugyi200.athena.145.w5/README.md) | descendant | active |
+| [145.w0](../agents/bbugyi200.athena.145.w0/README.md) | descendant | dismissed |
+| [145.w1](../agents/bbugyi200.athena.145.w1/README.md) | descendant | dismissed |
+| [145.w2](../agents/bbugyi200.athena.145.w2/README.md) | descendant | dismissed |
+| [145.w3](../agents/bbugyi200.athena.145.w3/README.md) | descendant | dismissed |
+| [145.w4](../agents/bbugyi200.athena.145.w4/README.md) | descendant | dismissed |
+| [145.w5](../agents/bbugyi200.athena.145.w5/README.md) | descendant | dismissed |
 | [145.w6](bbugyi200.athena.145.w6.md) (session · 3) | descendant | completed 2, failed 1 |

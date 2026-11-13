@@ -21,16 +21,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5384319`](https://github.com/bobs-org/bob-cli/commit/5384319e25cd0255ea83be93f9529a24d89703c7) | docs(cli): describe day strip stacked stat row with muted stale values | 2026-10-25 13:19:12 EDT |
+| — | `5384319` | docs(cli): describe day strip stacked stat row with muted stale values | 2026-10-25 13:19:12 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [145](../../sessions/bbugyi200.athena.145.md) (session · 3) | ancestor | completed 1, failed 2 |
-| [145.w0](../bbugyi200.athena.145.w0/README.md) | 145 hood | active |
-| [145.w1](../bbugyi200.athena.145.w1/README.md) | 145 hood | active |
-| [145.w2](../bbugyi200.athena.145.w2/README.md) | 145 hood | active |
-| [145.w3](../bbugyi200.athena.145.w3/README.md) | 145 hood | active |
-| [145.w4](../bbugyi200.athena.145.w4/README.md) | 145 hood | active |
-| [145.w5](../bbugyi200.athena.145.w5/README.md) | 145 hood | active |
+| [145.w0](../bbugyi200.athena.145.w0/README.md) | 145 hood | dismissed |
+| [145.w1](../bbugyi200.athena.145.w1/README.md) | 145 hood | dismissed |
+| [145.w2](../bbugyi200.athena.145.w2/README.md) | 145 hood | dismissed |
+| [145.w3](../bbugyi200.athena.145.w3/README.md) | 145 hood | dismissed |
+| [145.w4](../bbugyi200.athena.145.w4/README.md) | 145 hood | dismissed |
+| [145.w5](../bbugyi200.athena.145.w5/README.md) | 145 hood | dismissed |

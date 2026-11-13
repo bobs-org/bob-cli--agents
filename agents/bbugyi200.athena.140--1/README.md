@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3bc7e45`](https://github.com/bobs-org/bob-cli/commit/3bc7e45e1b0b33f0cd5a11d50c9bb50cee0c4fe0) | fix(listen): warn when a listen episode is queued instead of published | 2026-10-24 18:13:15 EDT |
+| — | `3bc7e45` | fix(listen): warn when a listen episode is queued instead of published | 2026-10-24 18:13:15 EDT |
 
 ## Variables
 
