@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kx](../../users/bbugyi200/machines/athena/hoods/bob-cli-kx/README.md) / bob-cli-kx.2.1.6
 
-**Global name:** `bbugyi200.athena.bob-cli-kx.2.1.6` · **State:** waiting · **Source run:** `run-b95de0b4f4ddb02c36586835d7092534`
+**Global name:** `bbugyi200.athena.bob-cli-kx.2.1.6` · **State:** completed · **Source run:** `run-b95de0b4f4ddb02c36586835d7092534`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kx
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-kx.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kx/bob-cli-kx.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261112114013
-- Commits: 0
+- Timing: 2026-11-13T00:48:49.486037+00:00 → 2026-11-13T02:22:21.247252+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`62ad26d`](https://github.com/bobs-org/bob-cli/commit/62ad26d7472c4ee98153a9ac8a86d661faa5b4f4) | feat(gmail)!: add archive apply, let-go and crash reconciliation | 2026-11-12 21:21:27 EST |
 
 ## Neighbors
 
