@@ -39,12 +39,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`1f912b8`](https://github.com/bobs-org/bob-cli/commit/1f912b8cad58642e291b03f8938cae82d3c8abeb) | feat(capture): add comma alias separator switch | 2026-11-10 07:55:55 EST |
+| 2 | — | `1f912b8` | feat(capture): add comma alias separator switch | 2026-11-10 07:55:55 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [1am](bbugyi200.athena.1am.md) (session · 5) | ancestor | completed 4, failed 1 |
-| [1am.f0.f0](../agents/bbugyi200.athena.1am.f0.f0/README.md) | descendant | active |
+| [1am.f0.f0](../agents/bbugyi200.athena.1am.f0.f0/README.md) | descendant | dismissed |
 | [1am.f0.f1](bbugyi200.athena.1am.f0.f1.md) (session · 5) | descendant | completed 4, failed 1 |

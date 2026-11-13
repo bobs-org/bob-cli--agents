@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`923b12e`](https://github.com/bobs-org/bob-cli/commit/923b12ea9feef53d743498b9c9fc08901291b07f) | feat(capture)!: switch dot suffix after route+id to caret marker | 2026-11-10 09:54:47 EST |
+| 1 | — | `923b12e` | feat(capture)!: switch dot suffix after route+id to caret marker | 2026-11-10 09:54:47 EST |
 
 ## Neighbors
 
@@ -41,4 +41,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [1am.f0](bbugyi200.athena.1am.f0.md) (session · 7) | ancestor | completed 6, failed 1 |
 | [1am](bbugyi200.athena.1am.md) (session · 5) | ancestor | completed 4, failed 1 |
-| [1am.f0.f0](../agents/bbugyi200.athena.1am.f0.f0/README.md) | 1am.f0 hood | active |
+| [1am.f0.f0](../agents/bbugyi200.athena.1am.f0.f0/README.md) | 1am.f0 hood | dismissed |

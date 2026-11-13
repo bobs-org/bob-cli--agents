@@ -23,4 +23,4 @@
 |---|---|---|
 | [1am.f0](../../sessions/bbugyi200.athena.1am.f0.md) (session · 7) | ancestor | completed 6, failed 1 |
 | [1am](../../sessions/bbugyi200.athena.1am.md) (session · 5) | ancestor | completed 4, failed 1 |
-| [1am.f0.f0](../bbugyi200.athena.1am.f0.f0/README.md) | 1am.f0 hood | active |
+| [1am.f0.f0](../bbugyi200.athena.1am.f0.f0/README.md) | 1am.f0 hood | dismissed |
