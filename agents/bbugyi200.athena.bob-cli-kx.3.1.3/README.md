@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kx](../../users/bbugyi200/machines/athena/hoods/bob-cli-kx/README.md) / bob-cli-kx.3.1.3
 
-**Global name:** `bbugyi200.athena.bob-cli-kx.3.1.3` · **State:** waiting · **Source run:** `run-423a0c5a4e3df230c26a8d399ae25c55`
+**Global name:** `bbugyi200.athena.bob-cli-kx.3.1.3` · **State:** completed · **Source run:** `run-423a0c5a4e3df230c26a8d399ae25c55`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kx
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-kx.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kx/bob-cli-kx.3.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261113080407
-- Commits: 0
+- Timing: 2026-11-13T14:36:22.324595+00:00 → 2026-11-13T15:24:37.600499+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`2ddfc94`](https://github.com/bobs-org/bob-cli/commit/2ddfc9444b523367ff70541524302b3cb923ae69) | feat(gmail): add receipt-scoped unarchive command | 2026-11-13 10:23:44 EST |
 
 ## Neighbors
 
