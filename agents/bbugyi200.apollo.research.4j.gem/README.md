@@ -12,16 +12,35 @@
 - Provider: agy
 - Timing: 2026-11-13T14:15:37.513070+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/subproject\_h2\_section\_rendering\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261113091247/subproject\_h2\_section\_rendering\_\_gem-266… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/subproject_h2_section_rendering__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261113091247/subproject_h2_section_rendering__gem-2660713038e4.md
+  ref: file:explicit:af1ebff380e5e5b04a7fad5a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_23/sase/repos/research/202611/subproject_h2_section_rendering__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4j.cdx](../bbugyi200.apollo.research.4j.cdx/README.md) | research.4j hood | active |
+| [research.4j.cdx](../bbugyi200.apollo.research.4j.cdx/README.md) | research.4j hood | completed |
 | [research.4j.cld](../bbugyi200.apollo.research.4j.cld/README.md) | research.4j hood | active |
 | [research.4j.final](../bbugyi200.apollo.research.4j.final/README.md) | research.4j hood | waiting |
 | [research.4j.grk](../bbugyi200.apollo.research.4j.grk/README.md) | research.4j hood | active |

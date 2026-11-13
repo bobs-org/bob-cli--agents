@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4j.cdx](../bbugyi200.apollo.research.4j.cdx/README.md) | research.4j hood | active |
+| [research.4j.cdx](../bbugyi200.apollo.research.4j.cdx/README.md) | research.4j hood | completed |
 | [research.4j.cld](../bbugyi200.apollo.research.4j.cld/README.md) | research.4j hood | active |
 | [research.4j.gem](../bbugyi200.apollo.research.4j.gem/README.md) | research.4j hood | active |
 | [research.4j.grk](../bbugyi200.apollo.research.4j.grk/README.md) | research.4j hood | active |
