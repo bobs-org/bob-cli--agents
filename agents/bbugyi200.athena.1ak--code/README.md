@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0d0851b`](https://github.com/bobs-org/bob-cli/commit/0d0851ba7c346eb221ff35e94f503fbff5fe3cdf) | docs(gmail): document the hourly Mac gmail sync slot | 2026-11-09 12:01:04 EST |
+| — | `0d0851b` | docs(gmail): document the hourly Mac gmail sync slot | 2026-11-09 12:01:04 EST |
