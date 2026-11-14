@@ -32,4 +32,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-lj.2](../agents/bbugyi200.apollo.bob-cli-lj.2/README.md) | bob-cli-lj hood | completed |
 | [bob-cli-lj.3](../agents/bbugyi200.apollo.bob-cli-lj.3/README.md) | bob-cli-lj hood | completed |
 | [bob-cli-lj.5](../agents/bbugyi200.apollo.bob-cli-lj.5/README.md) | bob-cli-lj hood | completed |
-| [bob-cli-lj.land](../agents/bbugyi200.apollo.bob-cli-lj.land/README.md) | bob-cli-lj hood | waiting |
+| [bob-cli-lj.land](../agents/bbugyi200.apollo.bob-cli-lj.land/README.md) | bob-cli-lj hood | completed |

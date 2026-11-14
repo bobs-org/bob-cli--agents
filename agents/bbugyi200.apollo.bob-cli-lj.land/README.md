@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-lj](../../users/bbugyi200/machines/apollo/hoods/bob-cli-lj/README.md) / bob-cli-lj.land
 
-**Global name:** `bbugyi200.apollo.bob-cli-lj.land` · **State:** waiting · **Source run:** `run-3e4bc9c35222dbf928e0f34b9a84f1cc`
+**Global name:** `bbugyi200.apollo.bob-cli-lj.land` · **State:** completed · **Source run:** `run-3e4bc9c35222dbf928e0f34b9a84f1cc`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-lj
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-lj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-lj/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261114094100
-- Commits: 0
+- Timing: 2026-11-14T20:02:37.048353+00:00 → 2026-11-14T21:00:13.604776+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`257fec0`](https://github.com/bobs-org/bob-cli/commit/257fec08194a55d1632983a5be0a8038f0698a34) | docs(bank): trim the report charts line under the json-outputs budget | 2026-11-14 15:58:01 EST |
 
 ## Neighbors
 
