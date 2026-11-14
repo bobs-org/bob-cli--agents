@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-lh.land--plan | active | gpt-6-astra / codex | 2026-11-14T13:44:48.737801+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-lh.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-lh.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-lh.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-14T14:04:59.636273+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-lh.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-14T14:04:59.636273+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-lh.land--code/README.md#commits) | — | — |
 | <a id="member-gate"></a>gate | bob-cli-lh.land--gate | completed | gpt-6-astra / codex | 2026-11-14T14:04:11.724860+00:00 → 2026-11-14T14:04:35.883263+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-lh.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`1a32cc1`](https://github.com/bobs-org/bob-cli/commit/1a32cc1a6f7d5e1a72ce90e0e85939ff138c3299) | feat(bank): close badge epic with period identity, empty-range bound and docs | 2026-11-14 10:23:19 EST |
 
 ## Neighbors
 
