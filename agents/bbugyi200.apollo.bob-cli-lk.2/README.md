@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-lk](../../users/bbugyi200/machines/apollo/hoods/bob-cli-lk/README.md) / bob-cli-lk.2
 
-**Global name:** `bbugyi200.apollo.bob-cli-lk.2` · **State:** active · **Source run:** `run-93b1719bd1cec65755ae77c9924e1d79`
+**Global name:** `bbugyi200.apollo.bob-cli-lk.2` · **State:** completed · **Source run:** `run-93b1719bd1cec65755ae77c9924e1d79`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-lk
 
@@ -12,18 +12,28 @@
 - Epic: [bob-cli-lk](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-lk/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-14T18:37:10.123915+00:00
-- Commits: 0
+- Timing: 2026-11-14T18:37:10.123915+00:00 → 2026-11-14T19:23:28.559705+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`7ffc825`](https://github.com/bobs-org/bob-cli/commit/7ffc8251782f87288e97421fd3b63058e5332f91) | fix(gmail): make archive confirmation line-shift proof | 2026-11-14 14:22:23 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-lk.1](../bbugyi200.apollo.bob-cli-lk.1/README.md) | bob-cli-lk hood | completed |
-| [bob-cli-lk.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.md) (session · 3) | bob-cli-lk hood | active 2, completed 1 |
+| [bob-cli-lk.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.md) (session · 3) | bob-cli-lk hood | active 1, completed 2 |
 | [bob-cli-lk.3.1.1](../bbugyi200.apollo.bob-cli-lk.3.1.1/README.md) | bob-cli-lk hood | active |
+| [bob-cli-lk.3.1.2](../bbugyi200.apollo.bob-cli-lk.3.1.2/README.md) | bob-cli-lk hood | waiting |
+| [bob-cli-lk.3.1.3](../bbugyi200.apollo.bob-cli-lk.3.1.3/README.md) | bob-cli-lk hood | waiting |
+| [bob-cli-lk.3.1.4](../bbugyi200.apollo.bob-cli-lk.3.1.4/README.md) | bob-cli-lk hood | waiting |
+| [bob-cli-lk.3.1.land](../bbugyi200.apollo.bob-cli-lk.3.1.land/README.md) | bob-cli-lk hood | waiting |
 | [bob-cli-lk.land](../bbugyi200.apollo.bob-cli-lk.land/README.md) | bob-cli-lk hood | waiting |
