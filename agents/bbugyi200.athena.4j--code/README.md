@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f401add`](https://github.com/bobs-org/bob-cli/commit/f401add384dd0b0fa2f0e972b3c7aa1e4cfcf220) | feat(cli)!: rename dataview command to query | 2026-07-10 13:06:13 EDT |
+| — | `f401add` | feat(cli)!: rename dataview command to query | 2026-07-10 13:06:13 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [4j.f-0.w-0](../../sessions/bbugyi200.athena.4j.f-0.w-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [4j.f-0.w-0](../../sessions/bbugyi200.athena.4j.f-0.w-0.md) (session · 2) | descendant | completed 1, dismissed 1 |

@@ -17,10 +17,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d1a8677`](https://github.com/bobs-org/bob-cli/commit/d1a86778b74e643c25fe3943a03aea79c44d6e7b) | chore: Add SDD prompt and plan for highlights\_pdf\_task\_creation | 2026-06-07 10:32:54 EDT |
+| — | `d1a8677` | chore: Add SDD prompt and plan for highlights\_pdf\_task\_creation | 2026-06-07 10:32:54 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [3o.w2](../bbugyi200.athena.3o.w2/README.md) | descendant | active |
+| [3o.w2](../bbugyi200.athena.3o.w2/README.md) | descendant | dismissed |
