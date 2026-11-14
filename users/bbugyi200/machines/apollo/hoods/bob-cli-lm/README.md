@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-lm
 
-**Global hood:** `bbugyi200.apollo.bob-cli-lm` · **Runs:** 6 · **Sessions:** 0 · **States:** completed 3, waiting 3
+**Global hood:** `bbugyi200.apollo.bob-cli-lm` · **Runs:** 6 · **Sessions:** 0 · **States:** completed 4, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bob-cli-lm.4](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.4/README.md) | waiting | grok-4.6 / grok | 20261114125352 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.4/prompt.md) |
+| [bob-cli-lm.4](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.4/README.md) | completed | grok-4.6 / grok | 2026-11-14T19:13:30.914063+00:00 → 2026-11-14T19:42:50.723692+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.4/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.4/chat.md) |
 | [bob-cli-lm.land](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.land/README.md) | waiting | opus / claude | 20261114125354 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.land/prompt.md) |
 | [bob-cli-lm.2](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.2/README.md) | completed | gpt-6-luna / codex | 2026-11-14T18:21:55.271027+00:00 → 2026-11-14T19:13:21.193945+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.2/chat.md) |
 | [bob-cli-lm.3](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.3/README.md) | completed | grok-4.6 / grok | 2026-11-14T18:22:00.131199+00:00 → 2026-11-14T19:00:01.573234+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-lm.3/chat.md) |
