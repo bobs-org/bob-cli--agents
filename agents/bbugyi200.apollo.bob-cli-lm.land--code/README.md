@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-lm](../../users/bbugyi200/machines/apollo/hoods/bob-cli-lm/README.md) / [bob-cli-lm.land](../../sessions/bbugyi200.apollo.bob-cli-lm.land.md) / bob-cli-lm.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-lm.land--code` · **State:** active · **Source run:** `run-2502df9b72e8afee25d7a953922b3b88`
+**Global name:** `bbugyi200.apollo.bob-cli-lm.land--code` · **State:** completed · **Source run:** `run-2502df9b72e8afee25d7a953922b3b88`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-lm
 
@@ -11,8 +11,12 @@
 - Bead: [bob-cli-lm](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-lm/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-14T20:48:06.390576+00:00
+- Timing: 2026-11-14T20:48:06.390576+00:00 → 2026-11-14T21:28:20.917874+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
