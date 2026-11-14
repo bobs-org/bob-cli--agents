@@ -52,6 +52,6 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-lj.1](../../sessions/bbugyi200.apollo.bob-cli-lj.1.md) (session · 3) | bob-cli-lj hood | active 1, completed 2 |
 | [bob-cli-lj.1](../bbugyi200.apollo.bob-cli-lj.1/README.md) | bob-cli-lj hood | completed |
 | [bob-cli-lj.2](../bbugyi200.apollo.bob-cli-lj.2/README.md) | bob-cli-lj hood | completed |
-| [bob-cli-lj.4](../bbugyi200.apollo.bob-cli-lj.4/README.md) | bob-cli-lj hood | waiting |
+| [bob-cli-lj.4](../../sessions/bbugyi200.apollo.bob-cli-lj.4.md) (session · 3) | bob-cli-lj hood | completed 3 |
 | [bob-cli-lj.5](../bbugyi200.apollo.bob-cli-lj.5/README.md) | bob-cli-lj hood | waiting |
 | [bob-cli-lj.land](../bbugyi200.apollo.bob-cli-lj.land/README.md) | bob-cli-lj hood | waiting |
