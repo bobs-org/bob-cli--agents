@@ -12,19 +12,38 @@
 - Provider: grok
 - Timing: 2026-11-14T13:03:49.173019+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/period\_note\_bank\_visualizations/period\_note\_bank\_visualizations\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261114080158/period\_n… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/period_note_bank_visualizations/period_note_bank_visualizations__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114080158/period_note_bank_visualizations__grk-92c377830e80.md
+  ref: file:explicit:cb8aac45f78d09029532150e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_18/sase/repos/research/202611/period_note_bank_visualizations/period_note_bank_visualizations__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4m.cdx](../bbugyi200.apollo.research.4m.cdx/README.md) | research.4m hood | active |
+| [research.4m.cdx](../bbugyi200.apollo.research.4m.cdx/README.md) | research.4m hood | completed |
 | [research.4m.cld](../bbugyi200.apollo.research.4m.cld/README.md) | research.4m hood | active |
 | [research.4m.final](../bbugyi200.apollo.research.4m.final/README.md) | research.4m hood | waiting |
-| [research.4m.gem](../bbugyi200.apollo.research.4m.gem/README.md) | research.4m hood | active |
+| [research.4m.gem](../bbugyi200.apollo.research.4m.gem/README.md) | research.4m hood | completed |
 | [research.4m.image](../bbugyi200.apollo.research.4m.image/README.md) | research.4m hood | waiting |
 | [research.4m.linker](../bbugyi200.apollo.research.4m.linker/README.md) | research.4m hood | waiting |
 | [research.4m.mus](../bbugyi200.apollo.research.4m.mus/README.md) | research.4m hood | completed |
