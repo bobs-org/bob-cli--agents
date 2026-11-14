@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / athena
 
-**Project:** bob-cli · **Hoods:** 657 · **Runs:** 5594
+**Project:** bob-cli · **Hoods:** 658 · **Runs:** 5597
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -318,6 +318,7 @@
 | [1c4](hoods/1c4/README.md) | 3 | 1 | completed 3 |
 | [1c5](hoods/1c5/README.md) | 6 | 2 | completed 6 |
 | [1c9](hoods/1c9/README.md) | 3 | 1 | completed 3 |
+| [1cd](hoods/1cd/README.md) | 3 | 1 | completed 3 |
 | [1d](hoods/1d/README.md) | 1 | 0 | completed 1 |
 | [1e](hoods/1e/README.md) | 2 | 0 | completed 2 |
 | [1f](hoods/1f/README.md) | 3 | 0 | completed 3 |
@@ -334,9 +335,9 @@
 | [1u](hoods/1u/README.md) | 1 | 0 | completed 1 |
 | [1w](hoods/1w/README.md) | 1 | 0 | completed 1 |
 | [1x](hoods/1x/README.md) | 1 | 0 | completed 1 |
-| [1z](hoods/1z/README.md) | 2 | 1 | active 1, completed 1 |
-| [20](hoods/20/README.md) | 5 | 1 | active 1, completed 4 |
-| [21](hoods/21/README.md) | 6 | 3 | active 3, completed 3 |
+| [1z](hoods/1z/README.md) | 2 | 1 | completed 1, dismissed 1 |
+| [20](hoods/20/README.md) | 5 | 1 | completed 4, dismissed 1 |
+| [21](hoods/21/README.md) | 6 | 3 | completed 3, dismissed 3 |
 | [22](hoods/22/README.md) | 2 | 0 | completed 2 |
 | [23](hoods/23/README.md) | 1 | 0 | completed 1 |
 | [25](hoods/25/README.md) | 2 | 0 | completed 2 |
@@ -344,7 +345,7 @@
 | [28](hoods/28/README.md) | 3 | 0 | completed 3 |
 | [2a](hoods/2a/README.md) | 2 | 0 | completed 2 |
 | [2b](hoods/2b/README.md) | 1 | 0 | completed 1 |
-| [2c](hoods/2c/README.md) | 2 | 1 | active 1, completed 1 |
+| [2c](hoods/2c/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [2d](hoods/2d/README.md) | 1 | 0 | completed 1 |
 | [2e](hoods/2e/README.md) | 2 | 0 | completed 2 |
 | [2f](hoods/2f/README.md) | 3 | 0 | completed 3 |
@@ -372,19 +373,19 @@
 | [3i](hoods/3i/README.md) | 1 | 0 | completed 1 |
 | [3j](hoods/3j/README.md) | 2 | 0 | completed 2 |
 | [3n](hoods/3n/README.md) | 1 | 0 | completed 1 |
-| [3o](hoods/3o/README.md) | 2 | 0 | active 1, completed 1 |
+| [3o](hoods/3o/README.md) | 2 | 0 | completed 1, dismissed 1 |
 | [3p](hoods/3p/README.md) | 8 | 0 | completed 8 |
 | [4](hoods/4/README.md) | 1 | 0 | completed 1 |
-| [4j](hoods/4j/README.md) | 4 | 2 | active 2, completed 2 |
-| [4k](hoods/4k/README.md) | 4 | 2 | active 2, completed 2 |
-| [4l](hoods/4l/README.md) | 14 | 6 | active 10, completed 4 |
-| [4r](hoods/4r/README.md) | 2 | 1 | active 1, completed 1 |
+| [4j](hoods/4j/README.md) | 4 | 2 | completed 2, dismissed 2 |
+| [4k](hoods/4k/README.md) | 4 | 2 | completed 2, dismissed 2 |
+| [4l](hoods/4l/README.md) | 14 | 6 | active 2, completed 4, dismissed 8 |
+| [4r](hoods/4r/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [5](hoods/5/README.md) | 2 | 0 | completed 2 |
 | [5-code](hoods/5-code/README.md) | 1 | 0 | completed 1 |
-| [52](hoods/52/README.md) | 2 | 1 | active 1, completed 1 |
+| [52](hoods/52/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [57](hoods/57/README.md) | 1 | 0 | completed 1 |
 | [58](hoods/58/README.md) | 1 | 0 | completed 1 |
-| [59](hoods/59/README.md) | 2 | 1 | active 1, completed 1 |
+| [59](hoods/59/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [5b](hoods/5b/README.md) | 1 | 0 | completed 1 |
 | [5d](hoods/5d/README.md) | 1 | 0 | completed 1 |
 | [5e](hoods/5e/README.md) | 2 | 1 | active 1, completed 1 |
