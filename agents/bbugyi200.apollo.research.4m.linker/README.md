@@ -40,7 +40,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4m.linker.w0](../bbugyi200.apollo.research.4m.linker.w0/README.md) | descendant | waiting |
+| [research.4m.linker.w0](../../sessions/bbugyi200.apollo.research.4m.linker.w0.md) (session · 3) | descendant | completed 3 |
 | [research.4m.cdx](../bbugyi200.apollo.research.4m.cdx/README.md) | research.4m hood | completed |
 | [research.4m.cld](../bbugyi200.apollo.research.4m.cld/README.md) | research.4m hood | completed |
 | [research.4m.final](../bbugyi200.apollo.research.4m.final/README.md) | research.4m hood | completed |
@@ -98,4 +98,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 875 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 883 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
