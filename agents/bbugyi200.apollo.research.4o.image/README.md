@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4o.image
 
-**Global name:** `bbugyi200.apollo.research.4o.image` · **State:** waiting · **Source run:** `run-d4e9c08aad59bd5b327b7d079e10fa2e`
+**Global name:** `bbugyi200.apollo.research.4o.image` · **State:** completed · **Source run:** `run-d4e9c08aad59bd5b327b7d079e10fa2e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,52 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261114113009
+- Timing: 2026-11-14T18:22:37.049491+00:00 → 2026-11-14T18:36:05.986498+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/areas\_catalog\_design/areas\_catalog\_design\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261114113009/areas\_catalog\_design\_i… |
+| `diagrams` | {considered: 9, count: 2, manifest: 202611/areas\_catalog\_design/areas\_catalog\_design.diagrams.md, source\_ref: file:explicit:bb820b201d769d013669118b, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/areas_catalog_design/areas_catalog_design_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114113009/areas_catalog_design_infographic-07f985f4e4d4.png
+  ref: file:explicit:0de04a0adf5a26eb43bb7353
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/areas_catalog_design/areas_catalog_design_infographic.png
+- kind: markdown
+  label: diagrams:202611/areas_catalog_design/areas_catalog_design.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114113009/areas_catalog_design.diagrams-e5c6d80a121d.md
+  ref: file:explicit:79651ea04656fd0d92432c37
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/areas_catalog_design/areas_catalog_design.diagrams.md
+- kind: file
+  label: imagegen-prompts:areas_catalog_design
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114113009/image-prompts-dfb8b99cf954.txt
+  ref: file:explicit:347aec7f315c07c427c6286d
+  source_path: /tmp/areas-vis.muqjvh/image-prompts.txt
+```
+
+#### diagrams
+
+```yaml
+considered: 9
+count: 2
+manifest: 202611/areas_catalog_design/areas_catalog_design.diagrams.md
+source_ref: file:explicit:bb820b201d769d013669118b
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

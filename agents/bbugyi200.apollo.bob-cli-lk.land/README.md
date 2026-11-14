@@ -1,0 +1,27 @@
+# Agent: bob-cli-lk.land
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-lk](../../users/bbugyi200/machines/apollo/hoods/bob-cli-lk/README.md) / bob-cli-lk.land
+
+**Global name:** `bbugyi200.apollo.bob-cli-lk.land` · **State:** waiting · **Source run:** `run-8cd6766e4c2986de8925b08e2fb155c2`
+
+**Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-lk
+
+## Summary
+
+- Bead: [bob-cli-lk](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-lk/README.md)
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 20261114121444
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-lk.1](../bbugyi200.apollo.bob-cli-lk.1/README.md) | bob-cli-lk hood | completed |
+| [bob-cli-lk.2](../bbugyi200.apollo.bob-cli-lk.2/README.md) | bob-cli-lk hood | active |
+| [bob-cli-lk.3](../bbugyi200.apollo.bob-cli-lk.3/README.md) | bob-cli-lk hood | waiting |
