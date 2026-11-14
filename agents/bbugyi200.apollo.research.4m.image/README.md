@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4m.image
 
-**Global name:** `bbugyi200.apollo.research.4m.image` · **State:** waiting · **Source run:** `run-30f0aa7b59cd412909f37eb7804163f6`
+**Global name:** `bbugyi200.apollo.research.4m.image` · **State:** completed · **Source run:** `run-30f0aa7b59cd412909f37eb7804163f6`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261114080206
+- Timing: 2026-11-14T13:48:45.238589+00:00 → 2026-11-14T14:00:09.961113+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/bank\_period\_charts/bank\_period\_charts\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261114080206/bank\_period\_charts\_infographic-b… |
+| `diagrams` | {considered: 18, count: 2, manifest: 202611/bank\_period\_charts/bank\_period\_charts.diagrams.md, source\_ref: file:explicit:66756bbc178db725408b8f18, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/bank_period_charts/bank_period_charts_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114080206/bank_period_charts_infographic-bfde880ff9d5.png
+  ref: file:explicit:b8e12efe8a46816ba900ec68
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/bank_period_charts/bank_period_charts_infographic.png
+- kind: markdown
+  label: diagrams:202611/bank_period_charts/bank_period_charts.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114080206/bank_period_charts.diagrams-879721a95b94.md
+  ref: file:explicit:247d3fa3aba4d02dd3562575
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/bank_period_charts/bank_period_charts.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 18
+count: 2
+manifest: 202611/bank_period_charts/bank_period_charts.diagrams.md
+source_ref: file:explicit:66756bbc178db725408b8f18
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
