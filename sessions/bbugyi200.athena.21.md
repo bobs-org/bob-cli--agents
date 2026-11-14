@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `21` · Members: 2
 ```mermaid
 flowchart TD
   n0["21--code [completed]"]
-  n1["21 [active]"]
+  n1["21 [dismissed]"]
   n0 --> n1
 ```
 
@@ -18,19 +18,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | 21--code | completed | gpt-5.5 / codex | 2026-07-08T16:48:30.797106+00:00 | [1](../agents/bbugyi200.athena.21--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.21--code/chat.md) |
-| <a id="member-root"></a>root | 21 | active | opus / claude | 2026-07-08T16:32:22.801421+00:00 | [1](../agents/bbugyi200.athena.21/README.md#commits) | [Prompt](../agents/bbugyi200.athena.21/prompt.md) | [Chat](../agents/bbugyi200.athena.21/chat.md) |
+| <a id="member-root"></a>root | 21 | dismissed | opus / claude | 2026-07-08T12:32:22.801421 → 2026-07-08T12:55:37.561529 | [1](../agents/bbugyi200.athena.21/README.md#commits) | [Prompt](../agents/bbugyi200.athena.21/prompt.md) | [Chat](../agents/bbugyi200.athena.21/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | bob-cli | [`248eee6`](https://github.com/bobs-org/bob-cli/commit/248eee6f08e24811607d3a4e16564741de3430b8) | chore: Add SDD prompt and plan for obsidian\_transclusion\_toggle\_keymap | 2026-06-03 22:02:19 EDT |
-| root | bob-cli | [`59eca4d`](https://github.com/bobs-org/bob-cli/commit/59eca4d5c863481971480471657c39b7ad954e52) | chore: Add SDD prompt and plan for replace\_blocked\_with\_next\_task\_status | 2026-07-08 12:48:29 EDT |
-| code | bob-cli | [`27ea107`](https://github.com/bobs-org/bob-cli/commit/27ea1079b9e7b2a8a29f7db8b2b768ab579acd31) | chore: update project task status examples | 2026-07-08 12:54:59 EDT |
+| — | — | `248eee6` | chore: Add SDD prompt and plan for obsidian\_transclusion\_toggle\_keymap | 2026-06-03 22:02:19 EDT |
+| root | — | `59eca4d` | chore: Add SDD prompt and plan for replace\_blocked\_with\_next\_task\_status | 2026-07-08 12:48:29 EDT |
+| code | — | `27ea107` | chore: update project task status examples | 2026-07-08 12:54:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [21.f1](bbugyi200.athena.21.f1.md) (session · 2) | descendant | active 1, completed 1 |
-| [21.f2](bbugyi200.athena.21.f2.md) (session · 2) | descendant | active 1, completed 1 |
+| [21.f1](bbugyi200.athena.21.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [21.f2](bbugyi200.athena.21.f2.md) (session · 2) | descendant | completed 1, dismissed 1 |

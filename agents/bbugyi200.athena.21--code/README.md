@@ -21,11 +21,11 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`27ea107`](https://github.com/bobs-org/bob-cli/commit/27ea1079b9e7b2a8a29f7db8b2b768ab579acd31) | chore: update project task status examples | 2026-07-08 12:54:59 EDT |
+| — | `27ea107` | chore: update project task status examples | 2026-07-08 12:54:59 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [21.f1](../../sessions/bbugyi200.athena.21.f1.md) (session · 2) | descendant | active 1, completed 1 |
-| [21.f2](../../sessions/bbugyi200.athena.21.f2.md) (session · 2) | descendant | active 1, completed 1 |
+| [21.f1](../../sessions/bbugyi200.athena.21.f1.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [21.f2](../../sessions/bbugyi200.athena.21.f2.md) (session · 2) | descendant | completed 1, dismissed 1 |
