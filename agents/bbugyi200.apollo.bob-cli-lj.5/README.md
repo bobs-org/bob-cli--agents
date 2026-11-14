@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-lj](../../users/bbugyi200/machines/apollo/hoods/bob-cli-lj/README.md) / bob-cli-lj.5
 
-**Global name:** `bbugyi200.apollo.bob-cli-lj.5` · **State:** waiting · **Source run:** `run-7b212508e0a9c458787090541dc86925`
+**Global name:** `bbugyi200.apollo.bob-cli-lj.5` · **State:** completed · **Source run:** `run-7b212508e0a9c458787090541dc86925`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-lj
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-lj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-lj/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261114094059
-- Commits: 0
+- Timing: 2026-11-14T19:48:25.855998+00:00 → 2026-11-14T20:00:07.592138+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e221958`](https://github.com/bobs-org/bob-cli/commit/e221958e5dab8733b04d067f754724cd7f11f2de) | docs(bank): document Bank Period Charts panel and stats.bank\_period | 2026-11-14 14:58:14 EST |
 
 ## Neighbors
 
