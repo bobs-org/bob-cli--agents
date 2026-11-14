@@ -1,5 +1,5 @@
-#gh:gh_bobs-org__bob-cli
 %id(cdx, clan=research.4o)
+#gh:gh_bobs-org__bob-cli
 %m:gpt-6-astra %q(1.5x, w=0.25)
 
 You are researcher cdx in a 5-researcher swarm.

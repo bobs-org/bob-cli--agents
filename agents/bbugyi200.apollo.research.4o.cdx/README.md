@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4o.cdx
 
-**Global name:** `bbugyi200.apollo.research.4o.cdx` · **State:** failed · **Source run:** `run-2b5e040ffd6ed76a4913aad032c2c73b`
+**Global name:** `bbugyi200.apollo.research.4o.cdx` · **State:** completed · **Source run:** `run-5dabf60598b1c3477daca8259d3f59b7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-14T16:31:20.141037+00:00 → 2026-11-14T17:14:02.040255+00:00
+- Timing: 2026-11-14T17:50:53.093711+00:00 → 2026-11-14T18:01:45.229723+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/child-area-catalogs-navigation-design\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261114124927/child-area-catalogs-navigation-des… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/child-area-catalogs-navigation-design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114124927/child-area-catalogs-navigation-design__cdx-94b7b0da8b3b.md
+  ref: file:explicit:638d860aecb5fc4fdd8663d0
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/child-area-catalogs-navigation-design__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
