@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `4l` · Members: 2
 
 ```mermaid
 flowchart TD
-  n0["4l.f-1 [active]"]
+  n0["4l.f-1 [dismissed]"]
   n1["4l.f-1--code [active]"]
   n0 --> n1
 ```
@@ -17,17 +17,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-root"></a>root | 4l.f-1 | active | gpt-5.6-sol / codex | 2026-07-10T20:00:33.030386+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.4l.f-1/prompt.md) | [Chat](../agents/bbugyi200.athena.4l.f-1/chat.md) |
+| <a id="member-root"></a>root | 4l.f-1 | dismissed | gpt-5.6-sol / codex | 2026-07-10T16:00:33.030386 | 0 | [Prompt](../agents/bbugyi200.athena.4l.f-1/prompt.md) | [Chat](../agents/bbugyi200.athena.4l.f-1/chat.md) |
 | <a id="member-code"></a>code | 4l.f-1--code | active | gpt-5.6-sol / codex | 2026-07-10T20:11:14.547817+00:00 | 0 | — | — |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [4l](bbugyi200.athena.4l.md) (session · 2) | ancestor | active 1, completed 1 |
-| [4l.f-1.f-0](../agents/bbugyi200.athena.4l.f-1.f-0/README.md) | descendant | active |
-| [4l.f-0](bbugyi200.athena.4l.f-0.md) (session · 2) | 4l hood | active 1, completed 1 |
-| [4l.f-0.f-0](bbugyi200.athena.4l.f-0.f-0.md) (session · 2) | 4l hood | active 2 |
-| [4l.f-2](bbugyi200.athena.4l.f-2.md) (session · 2) | 4l hood | active 1, completed 1 |
-| [4l.f-2.f-0](bbugyi200.athena.4l.f-2.f-0.md) (session · 2) | 4l hood | active 1, completed 1 |
-| [4l.f-2.f-0.w-0](../agents/bbugyi200.athena.4l.f-2.f-0.w-0/README.md) | 4l hood | active |
+| [4l](bbugyi200.athena.4l.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [4l.f-1.f-0](../agents/bbugyi200.athena.4l.f-1.f-0/README.md) | descendant | dismissed |
+| [4l.f-0](bbugyi200.athena.4l.f-0.md) (session · 2) | 4l hood | completed 1, dismissed 1 |
+| [4l.f-0.f-0](bbugyi200.athena.4l.f-0.f-0.md) (session · 2) | 4l hood | active 1, dismissed 1 |
+| [4l.f-2](bbugyi200.athena.4l.f-2.md) (session · 2) | 4l hood | completed 1, dismissed 1 |
+| [4l.f-2.f-0](bbugyi200.athena.4l.f-2.f-0.md) (session · 2) | 4l hood | completed 1, dismissed 1 |
+| [4l.f-2.f-0.w-0](../agents/bbugyi200.athena.4l.f-2.f-0.w-0/README.md) | 4l hood | dismissed |

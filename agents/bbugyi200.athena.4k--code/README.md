@@ -21,10 +21,10 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`4c51d3b`](https://github.com/bobs-org/bob-cli/commit/4c51d3b20eced08b30e09ff392e29ee39b058bd6) | feat(projects): schedule project task visibility | 2026-07-10 13:28:50 EDT |
+| — | `4c51d3b` | feat(projects): schedule project task visibility | 2026-07-10 13:28:50 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [4k.f-0](../../sessions/bbugyi200.athena.4k.f-0.md) (session · 2) | descendant | active 1, completed 1 |
+| [4k.f-0](../../sessions/bbugyi200.athena.4k.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |

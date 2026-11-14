@@ -21,16 +21,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f4a60e7`](https://github.com/bobs-org/bob-cli/commit/f4a60e7ec65e993bb2ece4d0e63f055b7d25d2fe) | feat(capture): support canonical Pomodoro colon markers | 2026-07-10 16:46:00 EDT |
+| — | `f4a60e7` | feat(capture): support canonical Pomodoro colon markers | 2026-07-10 16:46:00 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [4l.f-2](../../sessions/bbugyi200.athena.4l.f-2.md) (session · 2) | ancestor | active 1, completed 1 |
-| [4l](../../sessions/bbugyi200.athena.4l.md) (session · 2) | ancestor | active 1, completed 1 |
-| [4l.f-2.f-0.w-0](../bbugyi200.athena.4l.f-2.f-0.w-0/README.md) | descendant | active |
-| [4l.f-0](../../sessions/bbugyi200.athena.4l.f-0.md) (session · 2) | 4l hood | active 1, completed 1 |
-| [4l.f-0.f-0](../../sessions/bbugyi200.athena.4l.f-0.f-0.md) (session · 2) | 4l hood | active 2 |
-| [4l.f-1](../../sessions/bbugyi200.athena.4l.f-1.md) (session · 2) | 4l hood | active 2 |
-| [4l.f-1.f-0](../bbugyi200.athena.4l.f-1.f-0/README.md) | 4l hood | active |
+| [4l.f-2](../../sessions/bbugyi200.athena.4l.f-2.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [4l](../../sessions/bbugyi200.athena.4l.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [4l.f-2.f-0.w-0](../bbugyi200.athena.4l.f-2.f-0.w-0/README.md) | descendant | dismissed |
+| [4l.f-0](../../sessions/bbugyi200.athena.4l.f-0.md) (session · 2) | 4l hood | completed 1, dismissed 1 |
+| [4l.f-0.f-0](../../sessions/bbugyi200.athena.4l.f-0.f-0.md) (session · 2) | 4l hood | active 1, dismissed 1 |
+| [4l.f-1](../../sessions/bbugyi200.athena.4l.f-1.md) (session · 2) | 4l hood | active 1, dismissed 1 |
+| [4l.f-1.f-0](../bbugyi200.athena.4l.f-1.f-0/README.md) | 4l hood | dismissed |

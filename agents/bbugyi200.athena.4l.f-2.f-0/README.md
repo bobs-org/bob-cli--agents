@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [4l](../../users/bbugyi200/machines/athena/hoods/4l/README.md) / [4l.f-2.f-0](../../sessions/bbugyi200.athena.4l.f-2.f-0.md) / 4l.f-2.f-0
 
-**Global name:** `bbugyi200.athena.4l.f-2.f-0` · **State:** active · **Source run:** `run-188044aa484d3126e13c82b01447ff21`
+**Global name:** `bbugyi200.athena.4l.f-2.f-0` · **State:** dismissed · **Source run:** `run-188044aa484d3126e13c82b01447ff21`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 4l
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-5.6-sol
 - Provider: codex
-- Timing: 2026-07-10T20:32:02.340850+00:00
+- Timing: 2026-07-10T16:32:02.340850 → 2026-07-10T16:47:11.130184
 - Commits: 0
 
 ## Files
@@ -21,10 +21,10 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [4l.f-2](../../sessions/bbugyi200.athena.4l.f-2.md) (session · 2) | ancestor | active 1, completed 1 |
-| [4l](../../sessions/bbugyi200.athena.4l.md) (session · 2) | ancestor | active 1, completed 1 |
-| [4l.f-2.f-0.w-0](../bbugyi200.athena.4l.f-2.f-0.w-0/README.md) | descendant | active |
-| [4l.f-0](../../sessions/bbugyi200.athena.4l.f-0.md) (session · 2) | 4l hood | active 1, completed 1 |
-| [4l.f-0.f-0](../../sessions/bbugyi200.athena.4l.f-0.f-0.md) (session · 2) | 4l hood | active 2 |
-| [4l.f-1](../../sessions/bbugyi200.athena.4l.f-1.md) (session · 2) | 4l hood | active 2 |
-| [4l.f-1.f-0](../bbugyi200.athena.4l.f-1.f-0/README.md) | 4l hood | active |
+| [4l.f-2](../../sessions/bbugyi200.athena.4l.f-2.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [4l](../../sessions/bbugyi200.athena.4l.md) (session · 2) | ancestor | completed 1, dismissed 1 |
+| [4l.f-2.f-0.w-0](../bbugyi200.athena.4l.f-2.f-0.w-0/README.md) | descendant | dismissed |
+| [4l.f-0](../../sessions/bbugyi200.athena.4l.f-0.md) (session · 2) | 4l hood | completed 1, dismissed 1 |
+| [4l.f-0.f-0](../../sessions/bbugyi200.athena.4l.f-0.f-0.md) (session · 2) | 4l hood | active 1, dismissed 1 |
+| [4l.f-1](../../sessions/bbugyi200.athena.4l.f-1.md) (session · 2) | 4l hood | active 1, dismissed 1 |
+| [4l.f-1.f-0](../bbugyi200.athena.4l.f-1.f-0/README.md) | 4l hood | dismissed |

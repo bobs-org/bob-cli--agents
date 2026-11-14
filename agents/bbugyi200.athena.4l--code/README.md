@@ -21,16 +21,16 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`15ec5ac`](https://github.com/bobs-org/bob-cli/commit/15ec5ac94d202575075309e5265fd663206af930) | feat(capture): link routed tasks to pomodoros | 2026-07-10 13:50:45 EDT |
+| — | `15ec5ac` | feat(capture): link routed tasks to pomodoros | 2026-07-10 13:50:45 EDT |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [4l.f-0](../../sessions/bbugyi200.athena.4l.f-0.md) (session · 2) | descendant | active 1, completed 1 |
-| [4l.f-0.f-0](../../sessions/bbugyi200.athena.4l.f-0.f-0.md) (session · 2) | descendant | active 2 |
-| [4l.f-1](../../sessions/bbugyi200.athena.4l.f-1.md) (session · 2) | descendant | active 2 |
-| [4l.f-1.f-0](../bbugyi200.athena.4l.f-1.f-0/README.md) | descendant | active |
-| [4l.f-2](../../sessions/bbugyi200.athena.4l.f-2.md) (session · 2) | descendant | active 1, completed 1 |
-| [4l.f-2.f-0](../../sessions/bbugyi200.athena.4l.f-2.f-0.md) (session · 2) | descendant | active 1, completed 1 |
-| [4l.f-2.f-0.w-0](../bbugyi200.athena.4l.f-2.f-0.w-0/README.md) | descendant | active |
+| [4l.f-0](../../sessions/bbugyi200.athena.4l.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [4l.f-0.f-0](../../sessions/bbugyi200.athena.4l.f-0.f-0.md) (session · 2) | descendant | active 1, dismissed 1 |
+| [4l.f-1](../../sessions/bbugyi200.athena.4l.f-1.md) (session · 2) | descendant | active 1, dismissed 1 |
+| [4l.f-1.f-0](../bbugyi200.athena.4l.f-1.f-0/README.md) | descendant | dismissed |
+| [4l.f-2](../../sessions/bbugyi200.athena.4l.f-2.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [4l.f-2.f-0](../../sessions/bbugyi200.athena.4l.f-2.f-0.md) (session · 2) | descendant | completed 1, dismissed 1 |
+| [4l.f-2.f-0.w-0](../bbugyi200.athena.4l.f-2.f-0.w-0/README.md) | descendant | dismissed |
