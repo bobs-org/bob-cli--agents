@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4l.gem
 
-**Global name:** `bbugyi200.apollo.research.4l.gem` · **State:** active · **Source run:** `run-557f2ae115fbb8f26634371d31fde044`
+**Global name:** `bbugyi200.apollo.research.4l.gem` · **State:** completed · **Source run:** `run-557f2ae115fbb8f26634371d31fde044`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-14T10:38:00.591744+00:00
+- Timing: 2026-11-14T10:38:00.591744+00:00 → 2026-11-14T10:49:57.951005+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank-badge-stats-strip-redesign\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261114053613/bank-badge-stats-strip-redesign\_\_gem-83b… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank-badge-stats-strip-redesign__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114053613/bank-badge-stats-strip-redesign__gem-83b0976351a3.md
+  ref: file:explicit:50f78884759ae8092c712744
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/bank-badge-stats-strip-redesign__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
