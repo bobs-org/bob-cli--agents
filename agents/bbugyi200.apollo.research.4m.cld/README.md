@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4m.cld
 
-**Global name:** `bbugyi200.apollo.research.4m.cld` · **State:** active · **Source run:** `run-8a97391e2e8a8aa926ebfc6ec17066f0`
+**Global name:** `bbugyi200.apollo.research.4m.cld` · **State:** completed · **Source run:** `run-8a97391e2e8a8aa926ebfc6ec17066f0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-14T13:03:28.755384+00:00
+- Timing: 2026-11-14T13:03:28.755384+00:00 → 2026-11-14T13:27:00.083042+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_period\_money\_views\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261114080156/bank\_period\_money\_views\_\_cld-1dbc6242ec23.md, re… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_period_money_views__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114080156/bank_period_money_views__cld-1dbc6242ec23.md
+  ref: file:explicit:2d9ebd51d4355305905eeb8e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/bank_period_money_views__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
