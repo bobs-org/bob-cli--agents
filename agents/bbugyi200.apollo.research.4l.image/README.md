@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4l.image
 
-**Global name:** `bbugyi200.apollo.research.4l.image` · **State:** waiting · **Source run:** `run-e979a0ff49da1a802547d7377278233c`
+**Global name:** `bbugyi200.apollo.research.4l.image` · **State:** completed · **Source run:** `run-e979a0ff49da1a802547d7377278233c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261114053616
+- Timing: 2026-11-14T11:13:06.173901+00:00 → 2026-11-14T11:26:09.617283+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/bank\_badge\_strip\_family/bank\_badge\_strip\_family\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261114053616/bank\_badge\_strip\_famil… |
+| `diagrams` | {considered: 15, count: 2, manifest: 202611/bank\_badge\_strip\_family/bank\_badge\_strip\_family.diagrams.md, source\_ref: file:explicit:5a462d0e24402506f6247311, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/bank_badge_strip_family/bank_badge_strip_family_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114053616/bank_badge_strip_family_infographic-656ed220121d.png
+  ref: file:explicit:574ae434551acaa6546a3424
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/bank_badge_strip_family/bank_badge_strip_family_infographic.png
+- kind: markdown
+  label: diagrams:202611/bank_badge_strip_family/bank_badge_strip_family.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114053616/bank_badge_strip_family.diagrams-d90bb777e48b.md
+  ref: file:explicit:68313cc5b9741e8560fdac6d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/bank_badge_strip_family/bank_badge_strip_family.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 2
+manifest: 202611/bank_badge_strip_family/bank_badge_strip_family.diagrams.md
+source_ref: file:explicit:5a462d0e24402506f6247311
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
