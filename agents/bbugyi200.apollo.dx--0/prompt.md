@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #coder:~/.sase/plans/202611/record_optional_value_menu.md %m:gpt-6-astra
