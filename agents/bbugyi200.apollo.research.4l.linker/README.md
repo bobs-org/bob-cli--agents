@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4l.linker
 
-**Global name:** `bbugyi200.apollo.research.4l.linker` · **State:** waiting · **Source run:** `run-cfc85e0b14e90c7efae559309ca5f0a1`
+**Global name:** `bbugyi200.apollo.research.4l.linker` · **State:** completed · **Source run:** `run-cfc85e0b14e90c7efae559309ca5f0a1`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261114053619
+- Timing: 2026-11-14T11:26:21.793595+00:00 → 2026-11-14T11:35:16.259542+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_badge\_strip\_family/bank\_badge\_strip\_family.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261114053619/bank\_badge\_strip\_family-218a1… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_badge_strip_family/bank_badge_strip_family.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114053619/bank_badge_strip_family-218a1d174c47.md
+  ref: file:explicit:dae7530e459fd1ea44cb2ee1
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/bank_badge_strip_family/bank_badge_strip_family.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
