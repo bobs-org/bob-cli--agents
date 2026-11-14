@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4n.grk
 
-**Global name:** `bbugyi200.apollo.research.4n.grk` · **State:** active · **Source run:** `run-d7a03a7d00d065120a05dfa8e102d335`
+**Global name:** `bbugyi200.apollo.research.4n.grk` · **State:** completed · **Source run:** `run-d7a03a7d00d065120a05dfa8e102d335`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-14T15:09:14.294254+00:00
+- Timing: 2026-11-14T15:09:14.294254+00:00 → 2026-11-14T15:32:19.692657+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_transaction\_bracket\_walk/bank\_transaction\_bracket\_walk\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261114100628/bank\_transac… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_transaction_bracket_walk/bank_transaction_bracket_walk__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261114100628/bank_transaction_bracket_walk__grk-4b065cb08964.md
+  ref: file:explicit:4c1106114ab8935e143a01e6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_20/sase/repos/research/202611/bank_transaction_bracket_walk/bank_transaction_bracket_walk__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.4n.cdx](../bbugyi200.apollo.research.4n.cdx/README.md) | research.4n hood | completed |
-| [research.4n.cld](../bbugyi200.apollo.research.4n.cld/README.md) | research.4n hood | active |
+| [research.4n.cld](../bbugyi200.apollo.research.4n.cld/README.md) | research.4n hood | completed |
 | [research.4n.final](../bbugyi200.apollo.research.4n.final/README.md) | research.4n hood | waiting |
 | [research.4n.gem](../bbugyi200.apollo.research.4n.gem/README.md) | research.4n hood | completed |
 | [research.4n.image](../bbugyi200.apollo.research.4n.image/README.md) | research.4n hood | waiting |
