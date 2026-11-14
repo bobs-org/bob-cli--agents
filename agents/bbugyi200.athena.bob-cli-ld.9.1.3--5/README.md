@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ld](../../users/bbugyi200/machines/athena/hoods/bob-cli-ld/README.md) / [bob-cli-ld.9.1.3](../../sessions/bbugyi200.athena.bob-cli-ld.9.1.3.md) / bob-cli-ld.9.1.3--5
 
-**Global name:** `bbugyi200.athena.bob-cli-ld.9.1.3--5` · **State:** active · **Source run:** `run-784bd18bef9818f5a7c63b3412bc8288`
+**Global name:** `bbugyi200.athena.bob-cli-ld.9.1.3--5` · **State:** completed · **Source run:** `run-784bd18bef9818f5a7c63b3412bc8288`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ld
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-ld.9.1.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ld/bob-cli-ld.9.1.3.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-13T22:52:58.662588+00:00
+- Timing: 2026-11-13T22:52:58.662588+00:00 → 2026-11-13T23:43:42.021123+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
