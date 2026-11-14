@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [20](../../users/bbugyi200/machines/athena/hoods/20/README.md) / [20](../../sessions/bbugyi200.athena.20.md) / 20
 
-**Global name:** `bbugyi200.athena.20` · **State:** active · **Source run:** `run-9f742f56d0fc9432b9efa1d92a1807f1`
+**Global name:** `bbugyi200.athena.20` · **State:** dismissed · **Source run:** `run-9f742f56d0fc9432b9efa1d92a1807f1`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** 20
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-07-08T16:27:55.497455+00:00
+- Timing: 2026-07-08T12:27:55.497455 → 2026-07-08T12:44:04.149916
 - Commits: [1](#commits)
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0450b17`](https://github.com/bobs-org/bob-cli/commit/0450b17e3a607c7c19fc975737e5e6e6ff41ed1c) | chore: Add SDD prompt and plan for plugins\_git\_pull | 2026-07-08 12:33:52 EDT |
+| — | `0450b17` | chore: Add SDD prompt and plan for plugins\_git\_pull | 2026-07-08 12:33:52 EDT |
 
 ## Neighbors
 

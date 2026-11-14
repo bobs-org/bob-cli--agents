@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ea31684`](https://github.com/bobs-org/bob-cli/commit/ea316840ed5707f66950c7b6714b432a1177b080) | chore: Add SDD prompt and plan for migrate\_ref\_pdf\_lines\_to\_tasks | 2026-06-03 23:14:00 EDT |
+| — | `ea31684` | chore: Add SDD prompt and plan for migrate\_ref\_pdf\_lines\_to\_tasks | 2026-06-03 23:14:00 EDT |
 
 ## Neighbors
 
@@ -25,4 +25,4 @@
 |---|---|---|
 | [20.f1.f1](../bbugyi200.athena.20.f1.f1/README.md) | ancestor | completed |
 | [20.f1](../bbugyi200.athena.20.f1/README.md) | ancestor | completed |
-| [20](../../sessions/bbugyi200.athena.20.md) (session · 2) | ancestor | active 1, completed 1 |
+| [20](../../sessions/bbugyi200.athena.20.md) (session · 2) | ancestor | completed 1, dismissed 1 |
