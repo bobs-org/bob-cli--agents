@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4q.final
 
-**Global name:** `bbugyi200.apollo.research.4q.final` · **State:** waiting · **Source run:** `run-3e210ba412b5774d0a73adb28e1b552c`
+**Global name:** `bbugyi200.apollo.research.4q.final` · **State:** completed · **Source run:** `run-3e210ba412b5774d0a73adb28e1b552c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261115110111
+- Timing: 2026-11-15T16:22:48.915254+00:00 → 2026-11-15T16:40:29.639265+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gcal\_multi\_calendar\_sync/gcal\_multi\_calendar\_sync\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115110111/gcal\_multi\_calendar\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gcal_multi_calendar_sync/gcal_multi_calendar_sync__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115110111/gcal_multi_calendar_sync__final-daa227d786e7.md
+  ref: file:explicit:1b76ec24c3cfd9b560941fb9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/gcal_multi_calendar_sync/gcal_multi_calendar_sync__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -78,4 +97,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 901 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 918 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

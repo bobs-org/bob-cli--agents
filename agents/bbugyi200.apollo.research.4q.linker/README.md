@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.4q.cdx](../bbugyi200.apollo.research.4q.cdx/README.md) | research.4q hood | completed |
 | [research.4q.cld](../bbugyi200.apollo.research.4q.cld/README.md) | research.4q hood | completed |
-| [research.4q.final](../bbugyi200.apollo.research.4q.final/README.md) | research.4q hood | waiting |
+| [research.4q.final](../bbugyi200.apollo.research.4q.final/README.md) | research.4q hood | completed |
 | [research.4q.gem](../bbugyi200.apollo.research.4q.gem/README.md) | research.4q hood | completed |
 | [research.4q.grk](../bbugyi200.apollo.research.4q.grk/README.md) | research.4q hood | completed |
 | [research.4q.image](../bbugyi200.apollo.research.4q.image/README.md) | research.4q hood | waiting |
@@ -78,4 +78,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 901 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 918 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
