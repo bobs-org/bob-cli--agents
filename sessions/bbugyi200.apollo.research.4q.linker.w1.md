@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `research` · Members: 3
 ```mermaid
 flowchart TD
   n0["research.4q.linker.w1--plan [completed]"]
-  n1["research.4q.linker.w1--mon [active]"]
+  n1["research.4q.linker.w1--mon [completed]"]
   n0 --> n1
   n2["research.4q.linker.w1--gate [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | research.4q.linker.w1--plan | completed | opus / claude | 2026-11-15T17:07:56.973023+00:00 → 2026-11-15T17:22:59.322785+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.research.4q.linker.w1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.research.4q.linker.w1--plan/chat.md) |
-| <a id="member-mon"></a>mon | research.4q.linker.w1--mon | active | opus / claude | 2026-11-15T17:23:58.250732+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | research.4q.linker.w1--mon | completed | opus / claude | 2026-11-15T17:23:58.250732+00:00 → 2026-11-15T17:27:38.224087+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.4q.linker.w1--mon/chat.md) |
 | <a id="member-gate"></a>gate | research.4q.linker.w1--gate | completed | opus / claude | 2026-11-15T17:23:31.900893+00:00 → 2026-11-15T17:24:11.793677+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.research.4q.linker.w1--gate/chat.md) |
 
 ## Neighbors

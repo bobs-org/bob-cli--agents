@@ -12,10 +12,45 @@
 - Provider: codex
 - Timing: 20261115112908
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/bank\_config\_read\_write\_ux/bank\_config\_read\_write\_ux.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115112908/bank\_config\_read… |
+| `diagrams` | {considered: 15, count: 2, manifest: 202611/bank\_config\_read\_write\_ux/bank\_config\_read\_write\_ux.diagrams.md, source\_ref: file:explicit:f6276e1afea1b54fb3701c28, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/bank_config_read_write_ux/bank_config_read_write_ux.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115112908/bank_config_read_write_ux.diagrams-93b994b3f3f3.md
+  ref: file:explicit:504c46a5c0ca57321219f290
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/bank_config_read_write_ux/bank_config_read_write_ux.diagrams.md
+- kind: image
+  label: image:202611/bank_config_read_write_ux/bank_config_read_write_ux_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115112908/bank_config_read_write_ux_infographic-341969387e25.png
+  ref: file:explicit:157935c3cab771075524b643
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/bank_config_read_write_ux/bank_config_read_write_ux_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 2
+manifest: 202611/bank_config_read_write_ux/bank_config_read_write_ux.diagrams.md
+source_ref: file:explicit:f6276e1afea1b54fb3701c28
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
