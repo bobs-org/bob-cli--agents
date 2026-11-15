@@ -32,7 +32,7 @@
 | [bob-cli-lk.3.1.1](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.1.md) (session · 3) | bob-cli-lk.3.1 hood | completed 3 |
 | [bob-cli-lk.3.1.2](../bbugyi200.apollo.bob-cli-lk.3.1.2/README.md) | bob-cli-lk.3.1 hood | completed |
 | [bob-cli-lk.3.1.4](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.4.md) (session · 3) | bob-cli-lk.3.1 hood | completed 2, failed 1 |
-| [bob-cli-lk.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.land.md) (session · 3) | bob-cli-lk.3.1 hood | active 2, completed 1 |
+| [bob-cli-lk.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.land.md) (session · 5) | bob-cli-lk.3.1 hood | completed 4, failed 1 |
 | [bob-cli-lk.1](../bbugyi200.apollo.bob-cli-lk.1/README.md) | bob-cli-lk hood | completed |
 | [bob-cli-lk.2](../bbugyi200.apollo.bob-cli-lk.2/README.md) | bob-cli-lk hood | completed |
 | [bob-cli-lk.land](../bbugyi200.apollo.bob-cli-lk.land/README.md) | bob-cli-lk hood | waiting |
