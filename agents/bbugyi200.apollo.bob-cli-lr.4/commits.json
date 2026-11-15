@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a91869822762f4de908eac872482fb15"}
+{"commits":[{"committed_at":1794772594,"sha":"476c54407ebe2eb04e9ccc693fc74b610a4124d8","subject":"feat(gcal): expose calendar marks across CLI and JSON surfaces"}],"schema_version":2,"source_run_id":"run-a91869822762f4de908eac872482fb15"}
