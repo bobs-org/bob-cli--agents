@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4q.cdx
 
-**Global name:** `bbugyi200.apollo.research.4q.cdx` · **State:** active · **Source run:** `run-d83762be0660f6ed247d6195d53c8305`
+**Global name:** `bbugyi200.apollo.research.4q.cdx` · **State:** completed · **Source run:** `run-d83762be0660f6ed247d6195d53c8305`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-15T16:02:03.151072+00:00
+- Timing: 2026-11-15T16:02:03.151072+00:00 → 2026-11-15T16:14:19.381696+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/multi\_calendar\_birthdays\_verified\_design\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115110057/multi\_calendar\_birthdays\_verifi… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/multi_calendar_birthdays_verified_design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115110057/multi_calendar_birthdays_verified_design__cdx-125859563dca.md
+  ref: file:explicit:76a160fed30f56f39d6492a7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/multi_calendar_birthdays_verified_design__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

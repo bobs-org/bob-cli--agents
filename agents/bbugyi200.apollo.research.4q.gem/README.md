@@ -12,16 +12,35 @@
 - Provider: agy
 - Timing: 2026-11-15T16:03:28.686066+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/multi\_calendar\_gcal\_sync\_and\_birthdays\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115110108/multi\_calendar\_gcal\_sync\_and\_birt… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/multi_calendar_gcal_sync_and_birthdays__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115110108/multi_calendar_gcal_sync_and_birthdays__gem-f56a8b1088f1.md
+  ref: file:explicit:7e02a5a1edaeeab9c5379c55
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_18/sase/repos/research/202611/multi_calendar_gcal_sync_and_birthdays__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.4q.cdx](../bbugyi200.apollo.research.4q.cdx/README.md) | research.4q hood | active |
+| [research.4q.cdx](../bbugyi200.apollo.research.4q.cdx/README.md) | research.4q hood | completed |
 | [research.4q.cld](../bbugyi200.apollo.research.4q.cld/README.md) | research.4q hood | active |
 | [research.4q.final](../bbugyi200.apollo.research.4q.final/README.md) | research.4q hood | waiting |
 | [research.4q.grk](../bbugyi200.apollo.research.4q.grk/README.md) | research.4q hood | active |
