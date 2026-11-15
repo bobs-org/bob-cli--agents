@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794771049,"sha":"bd9c4c13e7a6a1f64f57baff735f05834f9f8bb1","subject":"feat(bank): extract YAML span primitives and add a bank config editor"}],"schema_version":2,"source_run_id":"run-1e4832b136c790748719641afc09f0c9"}
