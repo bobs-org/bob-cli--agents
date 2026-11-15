@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4v.image
 
-**Global name:** `bbugyi200.apollo.research.4v.image` · **State:** waiting · **Source run:** `run-3a9910546bf0e5de5097cd50ac8011bf`
+**Global name:** `bbugyi200.apollo.research.4v.image` · **State:** completed · **Source run:** `run-3a9910546bf0e5de5097cd50ac8011bf`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261115174106
+- Timing: 2026-11-15T23:22:19.332713+00:00 → 2026-11-15T23:33:50.351243+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/obsidian\_ctrl\_w\_window\_prefix/obsidian\_ctrl\_w\_window\_prefix\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115174106/obsidian\_c… |
+| `diagrams` | {considered: 14, count: 2, manifest: 202611/obsidian\_ctrl\_w\_window\_prefix/obsidian\_ctrl\_w\_window\_prefix.diagrams.md, source\_ref: file:explicit:96f9f1e3076a10f923d587db, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/obsidian_ctrl_w_window_prefix/obsidian_ctrl_w_window_prefix_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115174106/obsidian_ctrl_w_window_prefix_infographic-305eca342711.png
+  ref: file:explicit:c5315bc1dae71bbb00620243
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/obsidian_ctrl_w_window_prefix/obsidian_ctrl_w_window_prefix_infographic.png
+- kind: markdown
+  label: diagrams:202611/obsidian_ctrl_w_window_prefix/obsidian_ctrl_w_window_prefix.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115174106/obsidian_ctrl_w_window_prefix.diagrams-59b4dadc9164.md
+  ref: file:explicit:9e9c0c27f28888a56afa41b4
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/obsidian_ctrl_w_window_prefix/obsidian_ctrl_w_window_prefix.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 2
+manifest: 202611/obsidian_ctrl_w_window_prefix/obsidian_ctrl_w_window_prefix.diagrams.md
+source_ref: file:explicit:96f9f1e3076a10f923d587db
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
