@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ls.2.1.1](bbugyi200.athena.bob-cli-ls.2.1.1.md) (session · 5) | bob-cli-ls hood | completed 4, failed 1 |
 | [bob-cli-ls.2.1.2](bbugyi200.athena.bob-cli-ls.2.1.2.md) (session · 5) | bob-cli-ls hood | completed 4, failed 1 |
 | [bob-cli-ls.2.1.3](../agents/bbugyi200.athena.bob-cli-ls.2.1.3/README.md) | bob-cli-ls hood | completed |
-| [bob-cli-ls.2.1.land](../agents/bbugyi200.athena.bob-cli-ls.2.1.land/README.md) | bob-cli-ls hood | waiting |
+| [bob-cli-ls.2.1.land](bbugyi200.athena.bob-cli-ls.2.1.land.md) (session · 3) | bob-cli-ls hood | active 2, completed 1 |
 | [bob-cli-ls.3](../agents/bbugyi200.athena.bob-cli-ls.3/README.md) | bob-cli-ls hood | completed |
 | [bob-cli-ls.4](../agents/bbugyi200.athena.bob-cli-ls.4/README.md) | bob-cli-ls hood | waiting |
 | [bob-cli-ls.5](../agents/bbugyi200.athena.bob-cli-ls.5/README.md) | bob-cli-ls hood | waiting |
