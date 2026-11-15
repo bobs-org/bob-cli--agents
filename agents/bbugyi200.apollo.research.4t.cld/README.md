@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4t.cld
 
-**Global name:** `bbugyi200.apollo.research.4t.cld` · **State:** active · **Source run:** `run-fbdc5ae5264a3691f679b25690e66336`
+**Global name:** `bbugyi200.apollo.research.4t.cld` · **State:** completed · **Source run:** `run-fbdc5ae5264a3691f679b25690e66336`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-15T20:05:56.852405+00:00
+- Timing: 2026-11-15T20:05:56.852405+00:00 → 2026-11-15T20:24:58.200931+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/double\_slash\_note\_goto\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115150405/double\_slash\_note\_goto\_\_cld-3fd88a39d27c.md, ref:… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/double_slash_note_goto__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115150405/double_slash_note_goto__cld-3fd88a39d27c.md
+  ref: file:explicit:21015093863498b19d43d420
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/double_slash_note_goto__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.4t.cdx](../bbugyi200.apollo.research.4t.cdx/README.md) | research.4t hood | completed |
 | [research.4t.final](../bbugyi200.apollo.research.4t.final/README.md) | research.4t hood | waiting |
 | [research.4t.gem](../bbugyi200.apollo.research.4t.gem/README.md) | research.4t hood | completed |
-| [research.4t.grk](../bbugyi200.apollo.research.4t.grk/README.md) | research.4t hood | active |
+| [research.4t.grk](../bbugyi200.apollo.research.4t.grk/README.md) | research.4t hood | completed |
 | [research.4t.image](../bbugyi200.apollo.research.4t.image/README.md) | research.4t hood | waiting |
 | [research.4t.linker](../bbugyi200.apollo.research.4t.linker/README.md) | research.4t hood | waiting |
 | [research.4t.mus](../bbugyi200.apollo.research.4t.mus/README.md) | research.4t hood | completed |
