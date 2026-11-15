@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ls](../../users/bbugyi200/machines/athena/hoods/bob-cli-ls/README.md) / [bob-cli-ls.2.1.land](../../sessions/bbugyi200.athena.bob-cli-ls.2.1.land.md) / bob-cli-ls.2.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-ls.2.1.land--code` · **State:** active · **Source run:** `run-e721e60be8167c08bfef0614641677c0`
+**Global name:** `bbugyi200.athena.bob-cli-ls.2.1.land--code` · **State:** completed · **Source run:** `run-e721e60be8167c08bfef0614641677c0`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ls
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-ls.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ls/bob-cli-ls.2.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-15T22:07:25.145398+00:00
-- Commits: 0
+- Timing: 2026-11-15T22:07:25.145398+00:00 → 2026-11-15T23:00:39.692279+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`b8aed5a`](https://github.com/bobs-org/bob-cli/commit/b8aed5a943242a5517a6f536de9914432193ed90) | fix(bank): repair subscription core ledger, import after-state, and guards | 2026-11-15 17:58:47 EST |
 
 ## Neighbors
 

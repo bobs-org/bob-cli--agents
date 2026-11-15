@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-ls` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-ls.2.1.land--gate [completed]"]
-  n1["bob-cli-ls.2.1.land--plan [active]"]
+  n1["bob-cli-ls.2.1.land--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-ls.2.1.land--code [active]"]
+  n2["bob-cli-ls.2.1.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-ls.2.1.land--gate | completed | gpt-6-astra / codex | 2026-11-15T22:06:39.686600+00:00 → 2026-11-15T22:06:53.206272+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ls.2.1.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ls.2.1.land--plan | active | gpt-6-astra / codex | 2026-11-15T21:53:57.665083+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ls.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ls.2.1.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-ls.2.1.land--code | active | grok-4.6 / grok | 2026-11-15T22:07:25.145398+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-ls.2.1.land--plan | completed | gpt-6-astra / codex | 2026-11-15T21:53:57.665083+00:00 → 2026-11-15T23:00:39.692279+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ls.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ls.2.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-ls.2.1.land--code | completed | grok-4.6 / grok | 2026-11-15T22:07:25.145398+00:00 → 2026-11-15T23:00:39.692279+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ls.2.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-ls.2.1.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`b8aed5a`](https://github.com/bobs-org/bob-cli/commit/b8aed5a943242a5517a6f536de9914432193ed90) | fix(bank): repair subscription core ledger, import after-state, and guards | 2026-11-15 17:58:47 EST |
 
 ## Neighbors
 
