@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ln](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ln/README.md) / bob-cli-ln.land
 
-**Global name:** `bbugyi200.apollo.bob-cli-ln.land` · **State:** waiting · **Source run:** `run-eae4011ddb182094b5002abe4e8b9f5f`
+**Global name:** `bbugyi200.apollo.bob-cli-ln.land` · **State:** completed · **Source run:** `run-eae4011ddb182094b5002abe4e8b9f5f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ln
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-ln](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ln/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261114163420
-- Commits: 0
+- Timing: 2026-11-15T11:38:33.342246+00:00 → 2026-11-15T12:24:59.655792+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`86ec139`](https://github.com/bobs-org/bob-cli/commit/86ec139cf1c114754dc1db698c960f912aa272f6) | fix(areas): land Areas catalogs epic with command-count, glossary, and catalog docs fixes | 2026-11-15 07:21:59 EST |
 
 ## Neighbors
 

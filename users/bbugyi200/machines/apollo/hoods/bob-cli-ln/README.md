@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-ln
 
-**Global hood:** `bbugyi200.apollo.bob-cli-ln` · **Runs:** 23 · **Sessions:** 3 · **States:** completed 18, failed 4, waiting 1
+**Global hood:** `bbugyi200.apollo.bob-cli-ln` · **Runs:** 23 · **Sessions:** 3 · **States:** completed 19, failed 4
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -28,4 +28,4 @@
 | [bob-cli-ln.3--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-ln.3.md#member-plan) | completed | grok-4.6 / grok | 2026-11-15T00:11:44.568868+00:00 → 2026-11-15T01:09:07.220623+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.3--plan/chat.md) |
 | [bob-cli-ln.7](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.7/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-15T03:32:36.309069+00:00 → 2026-11-15T03:59:43.564322+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.7/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.7/chat.md) |
 | [bob-cli-ln.4](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.4/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-15T02:19:21.045442+00:00 → 2026-11-15T03:32:29.474215+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.4/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.4/chat.md) |
-| [bob-cli-ln.land](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.land/README.md) | waiting | opus / claude | 20261114163420 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.land/prompt.md) |
+| [bob-cli-ln.land](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.land/README.md) | completed | opus / claude | 2026-11-15T11:38:33.342246+00:00 → 2026-11-15T12:24:59.655792+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.land/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ln.land/chat.md) |
