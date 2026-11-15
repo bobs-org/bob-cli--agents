@@ -1,14 +1,5 @@
-%clan(research.4r, tribe=research, summary=[[[bold]RESEARCH PROMPT:[/bold] I would like to make the `bank` frontmatter field of the ~/bob/bank.md file much easier
-to read/write from Obsidian.
-
-- This field doesn't render in Obsidian at all at the moment.
-- See how we did this for the `record` field of album notes for context and inspiration.
-- #beau
-
-Can you do some research with the goal of helping me decide the best way to implement
-this? Also, critique this plan in general. Is this a good idea? Would you take a
-different approach? Make any adjustments to the requirements that you think are
-justified but clearly call these out. End your analysis with a recommended solution.]]) %id:research.4r.final %m:claude-fable-5
+%id(final, clan=research.4r)
+%m:claude-fable-5
 %wait:research.4r.cdx %wait:research.4r.cld %wait:research.4r.grk %wait:research.4r.mus %wait:research.4r.gem %q(1.5x, w=0.25)
 #gh:gh_bobs-org__bob-cli 
 You are the lead researcher: 5 independent researchers have reported on the request
@@ -81,7 +72,7 @@ Steps:
 5. After the write succeeds, register the consolidated report as a durable snapshot so
    the linker agent, `research.4r.linker`, can find it:
 
-   sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"
+   `sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"`
 
    Use the consolidated report's actual absolute path and its path relative to the
    research repo root, for example `research:202609/<name>/<name>__final.md`. Register
