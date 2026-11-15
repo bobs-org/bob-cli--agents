@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4q.gem
 
-**Global name:** `bbugyi200.apollo.research.4q.gem` · **State:** active · **Source run:** `run-f8c0affd595d374d65e707bab1352533`
+**Global name:** `bbugyi200.apollo.research.4q.gem` · **State:** completed · **Source run:** `run-f8c0affd595d374d65e707bab1352533`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-15T16:03:28.686066+00:00
+- Timing: 2026-11-15T16:03:28.686066+00:00 → 2026-11-15T16:18:56.869951+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -41,9 +41,9 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.4q.cdx](../bbugyi200.apollo.research.4q.cdx/README.md) | research.4q hood | completed |
-| [research.4q.cld](../bbugyi200.apollo.research.4q.cld/README.md) | research.4q hood | active |
+| [research.4q.cld](../bbugyi200.apollo.research.4q.cld/README.md) | research.4q hood | completed |
 | [research.4q.final](../bbugyi200.apollo.research.4q.final/README.md) | research.4q hood | waiting |
-| [research.4q.grk](../bbugyi200.apollo.research.4q.grk/README.md) | research.4q hood | active |
+| [research.4q.grk](../bbugyi200.apollo.research.4q.grk/README.md) | research.4q hood | completed |
 | [research.4q.image](../bbugyi200.apollo.research.4q.image/README.md) | research.4q hood | waiting |
 | [research.4q.linker](../bbugyi200.apollo.research.4q.linker/README.md) | research.4q hood | waiting |
 | [research.4q.mus](../bbugyi200.apollo.research.4q.mus/README.md) | research.4q hood | completed |

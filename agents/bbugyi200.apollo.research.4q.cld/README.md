@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4q.cld
 
-**Global name:** `bbugyi200.apollo.research.4q.cld` · **State:** active · **Source run:** `run-9d3a5a8a8d7f9187b0d359d482cac59f`
+**Global name:** `bbugyi200.apollo.research.4q.cld` · **State:** completed · **Source run:** `run-9d3a5a8a8d7f9187b0d359d482cac59f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-15T16:02:41.139989+00:00
+- Timing: 2026-11-15T16:02:41.139989+00:00 → 2026-11-15T16:19:42.340788+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/gcal\_multi\_calendar\_birthdays\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115110102/gcal\_multi\_calendar\_birthdays\_\_cld-bdfbc0e… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/gcal_multi_calendar_birthdays__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115110102/gcal_multi_calendar_birthdays__cld-bdfbc0e8d732.md
+  ref: file:explicit:f1cd207a9598f48150767a7b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/gcal_multi_calendar_birthdays__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,8 +42,8 @@
 |---|---|---|
 | [research.4q.cdx](../bbugyi200.apollo.research.4q.cdx/README.md) | research.4q hood | completed |
 | [research.4q.final](../bbugyi200.apollo.research.4q.final/README.md) | research.4q hood | waiting |
-| [research.4q.gem](../bbugyi200.apollo.research.4q.gem/README.md) | research.4q hood | active |
-| [research.4q.grk](../bbugyi200.apollo.research.4q.grk/README.md) | research.4q hood | active |
+| [research.4q.gem](../bbugyi200.apollo.research.4q.gem/README.md) | research.4q hood | completed |
+| [research.4q.grk](../bbugyi200.apollo.research.4q.grk/README.md) | research.4q hood | completed |
 | [research.4q.image](../bbugyi200.apollo.research.4q.image/README.md) | research.4q hood | waiting |
 | [research.4q.linker](../bbugyi200.apollo.research.4q.linker/README.md) | research.4q hood | waiting |
 | [research.4q.mus](../bbugyi200.apollo.research.4q.mus/README.md) | research.4q hood | completed |
