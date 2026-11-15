@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4t.final
 
-**Global name:** `bbugyi200.apollo.research.4t.final` · **State:** waiting · **Source run:** `run-dcc8f7cf1012f5102ee67ea26fe91d5e`
+**Global name:** `bbugyi200.apollo.research.4t.final` · **State:** completed · **Source run:** `run-dcc8f7cf1012f5102ee67ea26fe91d5e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261115150420
+- Timing: 2026-11-15T20:25:46.095278+00:00 → 2026-11-15T20:49:29.636668+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/note\_goto\_double\_slash/note\_goto\_double\_slash\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115150420/note\_goto\_double\_slash\_\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/note_goto_double_slash/note_goto_double_slash__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115150420/note_goto_double_slash__final-5b8b863f8d63.md
+  ref: file:explicit:28b6a972e4368552194ad7d2
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/note_goto_double_slash/note_goto_double_slash__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
