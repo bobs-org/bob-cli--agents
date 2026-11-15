@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 20261115110113
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/gcal\_multi\_calendar\_sync/gcal\_multi\_calendar\_sync\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115110113/gcal\_multi\_calendar\_… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/gcal_multi_calendar_sync/gcal_multi_calendar_sync_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115110113/gcal_multi_calendar_sync_infographic-956c0fe27b7a.png
+  ref: file:explicit:ed818d65314bd3bb66cf7479
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/gcal_multi_calendar_sync/gcal_multi_calendar_sync_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4s.cdx
 
-**Global name:** `bbugyi200.apollo.research.4s.cdx` · **State:** active · **Source run:** `run-3166a3b736e2101476e620ffc0042a10`
+**Global name:** `bbugyi200.apollo.research.4s.cdx` · **State:** completed · **Source run:** `run-3166a3b736e2101476e620ffc0042a10`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-15T16:34:38.655850+00:00
+- Timing: 2026-11-15T16:34:38.655850+00:00 → 2026-11-15T16:50:35.549184+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_subscriptions\_evidence\_matching\_and\_design\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115113303/bank\_subscriptions\_evide… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_subscriptions_evidence_matching_and_design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115113303/bank_subscriptions_evidence_matching_and_design__cdx-0095d4ac430e.md
+  ref: file:explicit:dd5ff0c245b2a30e5ea37805
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_20/sase/repos/research/202611/bank_subscriptions_evidence_matching_and_design__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
