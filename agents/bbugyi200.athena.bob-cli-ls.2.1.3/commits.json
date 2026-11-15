@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6be93920def203cfe301c235120bbd4a"}
+{"commits":[{"committed_at":1794779498,"sha":"055f9b6e0558c8458ac37a20d0533f22ac4d5d77","subject":"feat(bank): integrate subscription core into rows, suggestions, and docs"}],"schema_version":2,"source_run_id":"run-6be93920def203cfe301c235120bbd4a"}

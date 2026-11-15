@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ls](../../users/bbugyi200/machines/athena/hoods/bob-cli-ls/README.md) / bob-cli-ls.2.1.3
 
-**Global name:** `bbugyi200.athena.bob-cli-ls.2.1.3` · **State:** waiting · **Source run:** `run-6be93920def203cfe301c235120bbd4a`
+**Global name:** `bbugyi200.athena.bob-cli-ls.2.1.3` · **State:** completed · **Source run:** `run-6be93920def203cfe301c235120bbd4a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ls
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ls.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ls/bob-cli-ls.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261115132616
-- Commits: 0
+- Timing: 2026-11-15T21:10:21.768752+00:00 → 2026-11-15T21:52:31.848605+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`055f9b6`](https://github.com/bobs-org/bob-cli/commit/055f9b6e0558c8458ac37a20d0533f22ac4d5d77) | feat(bank): integrate subscription core into rows, suggestions, and docs | 2026-11-15 16:51:38 EST |
 
 ## Neighbors
 
