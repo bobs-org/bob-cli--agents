@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4v.grk
 
-**Global name:** `bbugyi200.apollo.research.4v.grk` · **State:** active · **Source run:** `run-929b1f6a131bc0e28a97e36022f7f9aa`
+**Global name:** `bbugyi200.apollo.research.4v.grk` · **State:** completed · **Source run:** `run-929b1f6a131bc0e28a97e36022f7f9aa`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-15T22:42:44.179718+00:00
+- Timing: 2026-11-15T22:42:44.179718+00:00 → 2026-11-15T22:59:26.417380+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_vertical\_split\_ctrlw\_windows\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115174057/obsidian\_vertical\_split\_ctrlw\_wind… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_vertical_split_ctrlw_windows__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115174057/obsidian_vertical_split_ctrlw_windows__grk-ec634ef24fbf.md
+  ref: file:explicit:481b32c18d857a13fc6ffd23
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/obsidian_vertical_split_ctrlw_windows__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.4v.cdx](../bbugyi200.apollo.research.4v.cdx/README.md) | research.4v hood | completed |
 | [research.4v.cld](../bbugyi200.apollo.research.4v.cld/README.md) | research.4v hood | active |
 | [research.4v.final](../bbugyi200.apollo.research.4v.final/README.md) | research.4v hood | waiting |
-| [research.4v.gem](../bbugyi200.apollo.research.4v.gem/README.md) | research.4v hood | active |
+| [research.4v.gem](../bbugyi200.apollo.research.4v.gem/README.md) | research.4v hood | completed |
 | [research.4v.image](../bbugyi200.apollo.research.4v.image/README.md) | research.4v hood | waiting |
 | [research.4v.linker](../bbugyi200.apollo.research.4v.linker/README.md) | research.4v hood | waiting |
 | [research.4v.mus](../bbugyi200.apollo.research.4v.mus/README.md) | research.4v hood | completed |

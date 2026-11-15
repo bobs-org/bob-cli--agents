@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4v.gem
 
-**Global name:** `bbugyi200.apollo.research.4v.gem` · **State:** active · **Source run:** `run-7138e6eb5f18169492c2d23c64e5b87f`
+**Global name:** `bbugyi200.apollo.research.4v.gem` · **State:** completed · **Source run:** `run-7138e6eb5f18169492c2d23c64e5b87f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-15T22:43:41.088338+00:00
+- Timing: 2026-11-15T22:43:41.088338+00:00 → 2026-11-15T22:57:45.918836+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_vertical\_splits\_ctrl\_w\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115174101/obsidian\_vertical\_splits\_ctrl\_w\_\_gem-f43… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_vertical_splits_ctrl_w__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115174101/obsidian_vertical_splits_ctrl_w__gem-f43b2c477c5b.md
+  ref: file:explicit:dd5619668d2b5aca273348ac
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/obsidian_vertical_splits_ctrl_w__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.4v.cdx](../bbugyi200.apollo.research.4v.cdx/README.md) | research.4v hood | completed |
 | [research.4v.cld](../bbugyi200.apollo.research.4v.cld/README.md) | research.4v hood | active |
 | [research.4v.final](../bbugyi200.apollo.research.4v.final/README.md) | research.4v hood | waiting |
-| [research.4v.grk](../bbugyi200.apollo.research.4v.grk/README.md) | research.4v hood | active |
+| [research.4v.grk](../bbugyi200.apollo.research.4v.grk/README.md) | research.4v hood | completed |
 | [research.4v.image](../bbugyi200.apollo.research.4v.image/README.md) | research.4v hood | waiting |
 | [research.4v.linker](../bbugyi200.apollo.research.4v.linker/README.md) | research.4v hood | waiting |
 | [research.4v.mus](../bbugyi200.apollo.research.4v.mus/README.md) | research.4v hood | completed |
