@@ -2,15 +2,17 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-ls](../users/bbugyi200/machines/athena/hoods/bob-cli-ls/README.md) / bob-cli-ls.5
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-ls` · Members: 2 · Bead: [bob-cli-ls.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ls/bob-cli-ls.5.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-ls` · Members: 3 · Bead: [bob-cli-ls.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ls/bob-cli-ls.5.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["bob-cli-ls.5--plan [completed]"]
-  n1["bob-cli-ls.5--mon [active]"]
+  n1["bob-cli-ls.5--mon [failed]"]
   n0 --> n1
+  n2["bob-cli-ls.5--1 [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -18,7 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-ls.5--plan | completed | gpt-6-luna / codex | 2026-11-15T22:55:39.627595+00:00 → 2026-11-15T23:31:22.716411+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ls.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ls.5--plan/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-ls.5--mon | active | gpt-6-luna / codex | 2026-11-15T23:30:02.087158+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-ls.5--mon | failed | gpt-6-luna / codex | 2026-11-15T23:30:02.087158+00:00 → 2026-11-15T23:42:03.496634+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ls.5--mon/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-ls.5--1 | completed | gpt-6-luna / codex | 2026-11-15T23:42:19.540503+00:00 → 2026-11-15T23:49:36.083661+00:00 | [1](../agents/bbugyi200.athena.bob-cli-ls.5--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-ls.5--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ls.5--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | bob-cli | [`cfd4548`](https://github.com/bobs-org/bob-cli/commit/cfd4548a2cd60a165fdbdc67bd0472e2d6968343) | feat(bank): add native bank checks and subscription registry | 2026-11-15 18:48:43 EST |
 
 ## Neighbors
 
