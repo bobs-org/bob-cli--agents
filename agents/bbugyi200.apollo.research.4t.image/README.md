@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4t.image
 
-**Global name:** `bbugyi200.apollo.research.4t.image` · **State:** waiting · **Source run:** `run-1d6b81cb878df823a5b68b2941c21c01`
+**Global name:** `bbugyi200.apollo.research.4t.image` · **State:** completed · **Source run:** `run-1d6b81cb878df823a5b68b2941c21c01`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,52 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261115150424
+- Timing: 2026-11-15T20:50:54.593993+00:00 → 2026-11-15T21:03:43.580259+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/note\_goto\_double\_slash/note\_goto\_double\_slash\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115150424/note\_goto\_double\_slash\_i… |
+| `diagrams` | {considered: 15, count: 1, manifest: 202611/note\_goto\_double\_slash/note\_goto\_double\_slash.diagrams.md, source\_ref: file:explicit:28b6a972e4368552194ad7d2, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/note_goto_double_slash/note_goto_double_slash_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115150424/note_goto_double_slash_infographic-44130f3a1fd9.png
+  ref: file:explicit:c8f9ad6d6ec6f656660bd553
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/note_goto_double_slash/note_goto_double_slash_infographic.png
+- kind: markdown
+  label: image-prompt:202611/note_goto_double_slash/note_goto_double_slash_infographic
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115150424/infographic-prompt-1cc5274b6b6c.md
+  ref: file:explicit:8d997c67d72ca07b235081f9
+  source_path: /tmp/noteviz.gtkKP3/infographic-prompt.md
+- kind: markdown
+  label: diagrams:202611/note_goto_double_slash/note_goto_double_slash.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115150424/note_goto_double_slash.diagrams-e6a81ab331c3.md
+  ref: file:explicit:b1b0b4828093b0bd8d2813bf
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/note_goto_double_slash/note_goto_double_slash.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 1
+manifest: 202611/note_goto_double_slash/note_goto_double_slash.diagrams.md
+source_ref: file:explicit:28b6a972e4368552194ad7d2
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
