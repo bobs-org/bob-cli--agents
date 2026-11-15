@@ -1,0 +1,11 @@
+- **PLAN:**
+  [202611/gcal_calendar_marks.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202611/gcal_calendar_marks.md)
+- **AGENTS:**
+  - [bbugyi200.apollo.bob-cli-lr.land](https://github.com/bobs-org/bob-cli--agents/blob/main/agents/bbugyi200.apollo.bob-cli-lr.land/README.md)
+
+%auto #gh:gh_bobs-org__bob-cli %id(land, clan=bob-cli-lr, bead=bob-cli-lr)
+%model:@xlarge
+%w(bob-cli-lr.1,bob-cli-lr.2,bob-cli-lr.3,bob-cli-lr.4,bob-cli-lr.5,bob-cli-lr.6,
+for_epic=false) %w(bead=bob-cli-lr.1) %w(bead=bob-cli-lr.2) %w(bead=bob-cli-lr.3)
+%w(bead=bob-cli-lr.4) %w(bead=bob-cli-lr.5) %w(bead=bob-cli-lr.6)
+#bd/land_epic:bob-cli-lr
