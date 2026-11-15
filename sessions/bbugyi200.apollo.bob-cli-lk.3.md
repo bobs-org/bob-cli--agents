@@ -30,7 +30,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-lk.3.1.1](bbugyi200.apollo.bob-cli-lk.3.1.1.md) (session · 3) | descendant | completed 3 |
 | [bob-cli-lk.3.1.2](../agents/bbugyi200.apollo.bob-cli-lk.3.1.2/README.md) | descendant | completed |
 | [bob-cli-lk.3.1.3](bbugyi200.apollo.bob-cli-lk.3.1.3.md) (session · 7) | descendant | completed 5, failed 2 |
-| [bob-cli-lk.3.1.4](../agents/bbugyi200.apollo.bob-cli-lk.3.1.4/README.md) | descendant | waiting |
+| [bob-cli-lk.3.1.4](bbugyi200.apollo.bob-cli-lk.3.1.4.md) (session · 3) | descendant | completed 2, failed 1 |
 | [bob-cli-lk.3.1.land](../agents/bbugyi200.apollo.bob-cli-lk.3.1.land/README.md) | descendant | waiting |
 | [bob-cli-lk.1](../agents/bbugyi200.apollo.bob-cli-lk.1/README.md) | bob-cli-lk hood | completed |
 | [bob-cli-lk.2](../agents/bbugyi200.apollo.bob-cli-lk.2/README.md) | bob-cli-lk hood | completed |

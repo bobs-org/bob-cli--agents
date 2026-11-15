@@ -48,7 +48,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-lk.3](bbugyi200.apollo.bob-cli-lk.3.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-lk.3.1.1](bbugyi200.apollo.bob-cli-lk.3.1.1.md) (session · 3) | bob-cli-lk.3.1 hood | completed 3 |
 | [bob-cli-lk.3.1.2](../agents/bbugyi200.apollo.bob-cli-lk.3.1.2/README.md) | bob-cli-lk.3.1 hood | completed |
-| [bob-cli-lk.3.1.4](../agents/bbugyi200.apollo.bob-cli-lk.3.1.4/README.md) | bob-cli-lk.3.1 hood | waiting |
+| [bob-cli-lk.3.1.4](bbugyi200.apollo.bob-cli-lk.3.1.4.md) (session · 3) | bob-cli-lk.3.1 hood | completed 2, failed 1 |
 | [bob-cli-lk.3.1.land](../agents/bbugyi200.apollo.bob-cli-lk.3.1.land/README.md) | bob-cli-lk.3.1 hood | waiting |
 | [bob-cli-lk.1](../agents/bbugyi200.apollo.bob-cli-lk.1/README.md) | bob-cli-lk hood | completed |
 | [bob-cli-lk.2](../agents/bbugyi200.apollo.bob-cli-lk.2/README.md) | bob-cli-lk hood | completed |
