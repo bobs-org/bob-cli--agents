@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4s.grk
 
-**Global name:** `bbugyi200.apollo.research.4s.grk` · **State:** active · **Source run:** `run-8d61eba9a27694091bb2aa58047c64d5`
+**Global name:** `bbugyi200.apollo.research.4s.grk` · **State:** completed · **Source run:** `run-8d61eba9a27694091bb2aa58047c64d5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-15T16:35:32.159509+00:00
+- Timing: 2026-11-15T16:35:32.159509+00:00 → 2026-11-15T17:03:16.492541+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_subscriptions\_album/bank\_subscriptions\_album\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115113312/bank\_subscriptions\_alb… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_subscriptions_album/bank_subscriptions_album__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115113312/bank_subscriptions_album__grk-3f9f3aca4f22.md
+  ref: file:explicit:b071d95845851373958dc8e7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_22/sase/repos/research/202611/bank_subscriptions_album/bank_subscriptions_album__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

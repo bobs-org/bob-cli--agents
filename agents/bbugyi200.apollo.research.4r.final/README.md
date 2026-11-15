@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4r.final
 
-**Global name:** `bbugyi200.apollo.research.4r.final` · **State:** failed · **Source run:** `run-a2a1042d2f380732648f71830a5a6a03`
+**Global name:** `bbugyi200.apollo.research.4r.final` · **State:** active · **Source run:** `run-848b871aa6e5b51929acecd845e3b152`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 2026-11-15T16:59:08.983861+00:00 → 2026-11-15T16:59:20.289655+00:00
+- Timing: 2026-11-15T17:04:35.970262+00:00
 - Commits: 0
 
 ## Files
