@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4s.mus
 
-**Global name:** `bbugyi200.apollo.research.4s.mus` · **State:** active · **Source run:** `run-ffdf40b61f6cd80f55ddd8db4edbd400`
+**Global name:** `bbugyi200.apollo.research.4s.mus` · **State:** completed · **Source run:** `run-ffdf40b61f6cd80f55ddd8db4edbd400`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-15T16:36:02.186304+00:00
+- Timing: 2026-11-15T16:36:02.186304+00:00 → 2026-11-15T16:46:58.168927+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_subscriptions\_album\_design\_\_mus.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115113314/bank\_subscriptions\_album\_design\_\_mus-8d8… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_subscriptions_album_design__mus.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115113314/bank_subscriptions_album_design__mus-8d886330699a.md
+  ref: file:explicit:b1cbff0cf4272797bb99ef65
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_23/sase/repos/research/202611/bank_subscriptions_album_design__mus.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

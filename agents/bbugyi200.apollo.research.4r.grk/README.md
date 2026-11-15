@@ -12,10 +12,29 @@
 - Provider: grok
 - Timing: 2026-11-15T16:30:45.084868+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_hub\_frontmatter\_ux/bank\_hub\_frontmatter\_ux\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115112859/bank\_hub\_frontmatter\_ux\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_hub_frontmatter_ux/bank_hub_frontmatter_ux__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115112859/bank_hub_frontmatter_ux__grk-c783824db8e0.md
+  ref: file:explicit:5d6ecb25ba9539f038adfaa5
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/bank_hub_frontmatter_ux/bank_hub_frontmatter_ux__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
