@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-lk](../../users/bbugyi200/machines/apollo/hoods/bob-cli-lk/README.md) / [bob-cli-lk.land](../../sessions/bbugyi200.apollo.bob-cli-lk.land.md) / bob-cli-lk.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-lk.land--code` · **State:** active · **Source run:** `run-a00dc58a13a10e97b0f6db8d48660e29`
+**Global name:** `bbugyi200.apollo.bob-cli-lk.land--code` · **State:** completed · **Source run:** `run-a00dc58a13a10e97b0f6db8d48660e29`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-lk
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-lk](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-lk/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-15T03:19:44.179245+00:00
-- Commits: 0
+- Timing: 2026-11-15T03:19:44.179245+00:00 → 2026-11-15T04:29:53.007717+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`49231b3`](https://github.com/bobs-org/bob-cli/commit/49231b374a483d53bbc33018836577d940d0aa0c) | fix(gmail): keep branching merge terminals and line-shift-proof confirms | 2026-11-14 23:27:50 EST |
 
 ## Neighbors
 

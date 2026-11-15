@@ -30,4 +30,4 @@
 | [bob-cli-lk.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.land.md) (session · 5) | descendant | completed 4, failed 1 |
 | [bob-cli-lk.1](../bbugyi200.apollo.bob-cli-lk.1/README.md) | bob-cli-lk hood | completed |
 | [bob-cli-lk.2](../bbugyi200.apollo.bob-cli-lk.2/README.md) | bob-cli-lk hood | completed |
-| [bob-cli-lk.land](../../sessions/bbugyi200.apollo.bob-cli-lk.land.md) (session · 3) | bob-cli-lk hood | active 2, completed 1 |
+| [bob-cli-lk.land](../../sessions/bbugyi200.apollo.bob-cli-lk.land.md) (session · 3) | bob-cli-lk hood | completed 3 |

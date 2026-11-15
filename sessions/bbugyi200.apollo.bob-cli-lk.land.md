@@ -9,9 +9,9 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-lk` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-lk.land--gate [completed]"]
-  n1["bob-cli-lk.land--plan [active]"]
+  n1["bob-cli-lk.land--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-lk.land--code [active]"]
+  n2["bob-cli-lk.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-lk.land--gate | completed | gpt-6-astra / codex | 2026-11-15T03:18:34.125058+00:00 → 2026-11-15T03:18:55.224696+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-lk.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-lk.land--plan | active | gpt-6-astra / codex | 2026-11-15T02:52:32.141246+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-lk.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-lk.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-lk.land--code | active | grok-4.6 / grok | 2026-11-15T03:19:44.179245+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-lk.land--plan | completed | gpt-6-astra / codex | 2026-11-15T02:52:32.141246+00:00 → 2026-11-15T04:29:53.007717+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-lk.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-lk.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-lk.land--code | completed | grok-4.6 / grok | 2026-11-15T03:19:44.179245+00:00 → 2026-11-15T04:29:53.007717+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-lk.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-lk.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`49231b3`](https://github.com/bobs-org/bob-cli/commit/49231b374a483d53bbc33018836577d940d0aa0c) | fix(gmail): keep branching merge terminals and line-shift-proof confirms | 2026-11-14 23:27:50 EST |
 
 ## Variables
 
