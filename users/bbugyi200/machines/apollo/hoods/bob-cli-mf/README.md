@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-mf
 
-**Global hood:** `bbugyi200.apollo.bob-cli-mf` · **Runs:** 11 · **Sessions:** 0 · **States:** completed 4, waiting 7
+**Global hood:** `bbugyi200.apollo.bob-cli-mf` · **Runs:** 11 · **Sessions:** 0 · **States:** completed 5, waiting 6
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-mf.land](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.land/README.md) | waiting | opus / claude | 20261116153942 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.land/prompt.md) |
-| [bob-cli-mf.5](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.5/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261116153936 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.5/prompt.md) |
+| [bob-cli-mf.5](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.5/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-16T22:21:40.602562+00:00 → 2026-11-16T23:19:00.759999+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.5/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.5/chat.md) |
 | [bob-cli-mf.8](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.8/README.md) | waiting | grok-4.6 / grok | 20261116153939 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.8/prompt.md) |
 | [bob-cli-mf.10](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.10/README.md) | waiting | gpt-6-luna / codex | 20261116153941 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.10/prompt.md) |
 | [bob-cli-mf.4](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.4/README.md) | completed | grok-4.6 / grok | 2026-11-16T21:39:17.280429+00:00 → 2026-11-16T22:21:09.377476+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.4/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-mf.4/chat.md) |
