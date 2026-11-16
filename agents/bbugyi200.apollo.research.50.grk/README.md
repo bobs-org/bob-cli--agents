@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.50.grk
 
-**Global name:** `bbugyi200.apollo.research.50.grk` · **State:** active · **Source run:** `run-3f4ca9606843b6e51d1c225a09c32024`
+**Global name:** `bbugyi200.apollo.research.50.grk` · **State:** completed · **Source run:** `run-3f4ca9606843b6e51d1c225a09c32024`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-16T18:40:54.154766+00:00
+- Timing: 2026-11-16T18:40:54.154766+00:00 → 2026-11-16T18:55:36.474961+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
