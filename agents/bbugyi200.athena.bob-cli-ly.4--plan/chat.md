@@ -1,57 +1,93 @@
 # Chat History - ace-run (bob-cli-ly.4--plan)
 
-- **TIMESTAMP:** 2026-11-15 22:16:24 EST
-- **MODEL:** codex/gpt-6-luna
+- **TIMESTAMP:** 2026-11-16 05:39:24 EST
+- **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-ly.4--plan
 
 # Monitor handoff
 
 This agent delegated the remaining work to a monitor turn.
-Monitor ID: 8dmddg9grq2v
-Inspect with: sase monitor show 8dmddg9grq2v
-Monitor turn: bob-cli-ly.4--mon-0
+Monitor ID: ggvpm81v09dc
+Inspect with: sase monitor show ggvpm81v09dc
+Monitor turn: bob-cli-ly.4--mon
 Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture
 
 Command:
 
 ```sh
-sha="$(git rev-parse HEAD)"
-run_id=""
-for attempt in $(seq 1 180); do
-  run_id="$(gh run list --repo bobs-org/bob-mac-capture --workflow ci.yml --commit "$sha" --json databaseId --jq '.[0].databaseId // empty' 2>/dev/null)"
-  if [ -n "$run_id" ]; then
-    break
-  fi
-  sleep 10
-done
-if [ -z "$run_id" ]; then
-  echo "No ci.yml run appeared for exact SHA $sha"
-  exit 1
-fi
-run_sha="$(gh run view "$run_id" --repo bobs-org/bob-mac-capture --json headSha --jq '.headSha')"
-if [ "$run_sha" != "$sha" ]; then
-  echo "Refusing to watch run $run_id: expected $sha, got $run_sha"
-  exit 1
-fi
-echo "Watching bobs-org/bob-mac-capture ci.yml run $run_id for exact SHA $sha"
-gh run watch "$run_id" --repo bobs-org/bob-mac-capture --exit-status
+python3 - <<'PY_VERIFY'
+import json
+import pathlib
+import shlex
+import subprocess
+import time
+
+def run(argv, **kwargs):
+    print("+ " + shlex.join(argv), flush=True)
+    return subprocess.run(argv, check=True, text=True, **kwargs)
+
+run(["just", "portable-check"])
+ssh = ["ssh", "-o", "BatchMode=yes", "-o", "ConnectTimeout=8", "mac"]
+probe = subprocess.run(ssh + ["mktemp -d /tmp/bob-note-goto-verify.XXXXXX"], capture_output=True, text=True)
+if probe.returncode:
+    print("SCRATCH MAC UNAVAILABLE: " + probe.stderr.strip(), flush=True)
+else:
+    scratch = probe.stdout.strip()
+    if not scratch.startswith("/tmp/bob-note-goto-verify.") or len(scratch.splitlines()) != 1:
+        raise RuntimeError("Unexpected scratch directory")
+    try:
+        run(["rsync", "-az", "--exclude=.git", "--exclude=.build", "--exclude=.sase",
+             "-e", "ssh -o BatchMode=yes -o ConnectTimeout=8", "./", "mac:" + scratch + "/"])
+        run(ssh + ["cd " + shlex.quote(scratch) + " && Scripts/bundle.sh --identity - && just typecheck-tests"])
+    finally:
+        run(ssh + ["rm -rf -- " + shlex.quote(scratch)])
+
+run(["Scripts/macos-ci-check"])
+dirty = run(["git", "status", "--porcelain"], capture_output=True).stdout.strip()
+if dirty:
+    print("PREFLIGHT PASSED; COMMIT REQUIRED BEFORE EXACT-SHA WATCH. The checked working tree is still dirty.", flush=True)
+    print(dirty, flush=True)
+else:
+    sha = run(["git", "rev-parse", "HEAD"], capture_output=True).stdout.strip()
+    deadline = time.monotonic() + 300
+    workflow_run = None
+    while time.monotonic() < deadline:
+        runs = json.loads(run(["gh", "run", "list", "-R", "bobs-org/bob-mac-capture",
+            "--workflow", "CI", "--commit", sha, "--limit", "100",
+            "--json", "databaseId,headSha,headBranch,event,status,conclusion,url"],
+            capture_output=True).stdout)
+        workflow_run = next((r for r in runs if r["headSha"] == sha and r["headBranch"] == "master" and r["event"] == "push"), None)
+        if workflow_run:
+            break
+        time.sleep(10)
+    if workflow_run is None:
+        raise RuntimeError("No master CI run found for exact committed SHA " + sha)
+    print("EXACT-SHA RUN " + json.dumps(workflow_run), flush=True)
+    run(["gh", "run", "watch", str(workflow_run["databaseId"]), "-R",
+         "bobs-org/bob-mac-capture", "--exit-status", "--interval", "20"])
+    current_sha = run(["git", "rev-parse", "HEAD"], capture_output=True).stdout.strip()
+    if current_sha != sha:
+        raise RuntimeError("HEAD changed while watching CI")
+    print("VERIFIED EXACT SHA " + sha + " " + workflow_run["url"], flush=True)
+
+PY_VERIFY
 ```
 
 Reason:
 
-Wait for GitHub Actions on the pushed bob-mac-capture commit
+Compile delayed separator regression cases and finish Notes picker macOS verification
 
 Next action:
 
-When the watch finishes, verify the run passed for the exact pushed bob-mac-capture SHA. On green, run `sase bead epic-symbols bob-cli-ly.4`; resolve any leftover symbols, then close only bob-cli-ly.4 with a note citing the green exact-SHA CI run. Keep the parent epic open and finish through `/sase_final`. If CI fails or times out, inspect diagnostics, fix the phase in this linked checkout, rerun required checks, commit with the bead kept open, and monitor the resulting exact-SHA CI until green before closing.
+Finish bob-cli-ly.4 after this verification. All phase implementation is already landed through f24475e5; this turn changes only four CaptureSeparatorToggleTests fixed waits into bounded rewrite completion waits, with 300 ms fake replies. Mac .base URI acceptance was confirmed live and recorded on the bead. Read the monitor result. If the checked working tree remains dirty after a green preflight, use sase_final with a commit decision for the linked bob-mac-capture repository (test(capture): await unchanged separator rewrite replies), bead_action keep, and stage a pure exact-HEAD CI watcher that resolves HEAD only after host finalization. Do NOT rerun preflight or watch the old f24475e5 SHA when the corrected tree is still dirty. If this monitor already reports VERIFIED EXACT SHA, record its run URL/SHA, check epic-symbols, and close only bob-cli-ly.4. On a new failure, diagnose and fix it; unchanged clean-base failures do not keep this phase open per the user's instruction, record PROPOSED FOLLOW-UP evidence and close once scope is verified. Do not close bob-cli-ly or edit memory. Existing docs cap failure and clean-base DotRouteAlias flake are recorded in phase notes.
 
 
 ## Prompt
 
+%id(4, clan=bob-cli-ly, bead=bob-cli-ly.4)
 %auto
 #gh:gh_bobs-org__bob-cli
-%id(4, clan=bob-cli-ly, bead=bob-cli-ly.4)
-%model:@medium
+%m:gpt-6-astra 
 %w(bob-cli-ly.2,bob-cli-ly.3, for_epic=false)
 %w(bead=bob-cli-ly.2)
 %w(bead=bob-cli-ly.3)
@@ -85,44 +121,21 @@ single-agent tale unless one coder can clearly finish everything left.
 
 ## Response
 
-I’ll read the bead and its phase notes first, then check the workspace for earlier work before changing anything. I’ll follow the epic’s decisions and close only this phase if its remaining scope is complete.
+I’ll read the bead’s scope, decisions, and prior notes, then check what has already landed before implementing the remaining work. I’m using the SASE memory and finalization skills for this run.
 
-The phase is still in progress, and the checkout is clean. The bead points to the epic plan’s `mac-note-panel` phase; I’m checking its detailed scope and the latest history to see what has already landed before I touch code.
 
-The plan has no recorded progress notes on this phase, and the primary repo already contains the CLI and catalog prerequisites. Since the remaining scope is in `bob-mac-capture`, I’m opening that linked checkout through SASE and will inspect its instructions and history before editing.
+The phase notes show the implementation is already complete. The remaining issue is macOS CI: previous runs passed the Notes picker tests but failed intermittently in existing separator tests. I’m opening the linked Mac repository to verify the landed code and inspect those failures.
 
-The Mac repo already contains the `NoteGoto` data model and row presentation from phase 3, but no panel integration. I’ll build the panel path on top of that work, including fake-Bob tests and the generated fixtures; the bead’s accepted `bases = yes` decision also means I’ll verify the `.base` opener before shipping those rows.
 
-The remaining changes are now clear: `note_goto` needs a full snapshot handler, its own continuation and accept routing, preservation of Bob’s trigger-removal range through Escape/reopen, plus the read-only open path. I’m tracing the existing `/` lifecycle and test harness now so the new route keeps the same stale-response and dispatch protections.
+The latest failures come from tests that assume a subprocess finishes within 200 ms. I’ll replace those sleeps with bounded waits for the rewrite to finish, preserving the assertions. That is a small enough remainder to handle here. The GitHub connector only lists pull-request runs, so I’m using `gh` to inspect this master-branch CI run.
 
-The Mac is offline, so the required live `.base` opener check cannot run here. I’ll keep `view` rows filtered out for this release and record that confirmation as a proposed follow-up, as the phase plan directs when the opener is not confirmed; I’m checking the plugin’s implementation as supporting context.
 
-Panel wiring, continuation handling, note acceptance, key hints, and the docs are in place. The remaining work is to generate fixtures from the current Bob binary, add fake-Bob coverage for the full keyboard and stale-response paths, then run the Mac repo’s checks before committing.
+Four affected tests now wait for rewrite completion and deliberately delay the fake reply beyond the old 200 ms limit. The Mac is reachable, so I’m also checking the required `.base` opening behavior and arranging a scratch compile before macOS CI.
 
-The Mac integration and docs are in place in the linked repo. I’m checking the diff and filling in the fixture and panel coverage now, then I’ll run the required checks and handle the bead’s symbol and close steps.
 
-The first fixture generation exposed a stale `bob` debug binary: the checked-in CLI source already recognizes `//`, but that binary emitted the old parser response. I’m rebuilding the CLI from the current workspace before regenerating fixtures, so the tests exercise the actual phase contract.
+The Mac check passed: an existing `.base` opened through `bob-open-notes` as a Bases view, its contents stayed unchanged, and I restored the previous active tab. I’m staging scratch compilation and CI verification through SASE. The verifier will only watch a committed SHA, avoiding the earlier loop that kept checking the old commit.
 
-The workspace is doing a full Rust dependency build; it’s still running without errors. Once it finishes, I’ll regenerate and inspect the fixtures, then add focused tests for open dispatch, chip reopen, cancellation, and slash key routing.
 
-The rebuilt binary still does not activate the `//` parse branch, even though the source and CLI tests define it. I’m checking the CLI’s editor-parse path and running the focused Rust unit test to distinguish a fixture invocation issue from a source defect before deciding whether this is an existing upstream failure or something the phase needs to expose.
+The implementation was already landed. I fixed four timing-sensitive tests and verified `.base` navigation on the Mac.
 
-The repository’s required `just portable-check` stopped at formatting lint, which reports thousands of pre-existing warnings across unrelated files. I’m checking lint on the touched Swift files and will run the portable test target separately so the new core coverage still gets exercised.
-
-The full portable Swift suite passes: 2,512 tests, one skipped. `docs-check` now accepts the new Notes docs and the task-picker page; it still fails on the untouched `bob-ledger-tools` reference page exceeding its word cap. The Mac host remains unreachable, so panel typechecking and `.base` opening still need the Mac CI gate.
-
-I’m finishing the last review of the changed code and checks, then I’ll verify the phase symbols and hand the Mac CI gate to SASE monitoring so the bead can close only after its exact-SHA result is green.
-
-I found one mismatch with the phase’s final decision: the current Mac wiring hides `.base` view rows pending Mac verification, while the approved branch explicitly includes them in v1. I’m correcting the app filtering and docs so those rows are visible, with opening routed through the same line-less notes URL.
-
-The phase changes now retain `.base` rows as View entries, and the panel test targets the generated Monthly Base fixture. Syntax and whitespace checks pass. `just docs-check` still reports only the untouched `bob-ledger-tools.md` page over its cap; I recorded that clean-base issue as a proposed follow-up. I’m staging the exact-SHA Mac CI watch now; the finalizer will commit with the bead kept open until the CI result is green.
-
-The first monitor attempt was rejected before staging because shell quoting expanded the command variables; no CI watch was handed off. I’m fixing the quoting and retrying.
-
-The host’s fresh finalizer context shows this staged monitor will carry the uncommitted Mac changes into its successor, so the command must validate that dirty tree before any commit. I’m correcting the handoff to run the precommit Mac gate first; the successor can then commit and watch that pushed SHA before closing the bead.
-
-Implemented the Mac picker wiring, key handling, generated fixtures, panel coverage, and documentation. `.base` entries now appear as View rows, matching the approved phase decision.
-
-The Linux Swift suite passed earlier in the phase (2,512 tests, 1 skipped). After the final `.base` change, Swift syntax and `git diff --check` passed. `just docs-check` still fails only on the unchanged `bob-ledger-tools.md` page (6,281 words against a 6,000-word cap); I recorded it as a proposed follow-up.
-
-**Bead `bob-cli-ly.4` remains in progress** because macOS CI has not yet verified these changes. Monitor `8dmddg` is staged, and I recorded that a green result for the old HEAD does not verify the carried changes. The successor must validate and commit the carried tree, watch CI for that pushed SHA, then check epic symbols and close only this bead.
+Verification is staged in SASE monitor `ggvpm8`, with automatic continuation through commit, exact-SHA CI, and closure. `bob-cli-ly.4` remains open pending verification.
