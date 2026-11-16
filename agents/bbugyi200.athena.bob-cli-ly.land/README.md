@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ly](../../users/bbugyi200/machines/athena/hoods/bob-cli-ly/README.md) / bob-cli-ly.land
 
-**Global name:** `bbugyi200.athena.bob-cli-ly.land` · **State:** waiting · **Source run:** `run-8539ae8003f51e36f490f538ac4f5b5d`
+**Global name:** `bbugyi200.athena.bob-cli-ly.land` · **State:** completed · **Source run:** `run-8539ae8003f51e36f490f538ac4f5b5d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ly
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-ly](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ly/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261115164826
-- Commits: 0
+- Timing: 2026-11-16T14:19:28.027192+00:00 → 2026-11-16T14:49:27.129761+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c6c142c`](https://github.com/bobs-org/bob-cli/commit/c6c142c8fb541ae74d1bf57b0a86e7c2a35d2691) | refactor(native): reuse the bank month parser in the // note catalog | 2026-11-16 09:48:26 EST |
 
 ## Neighbors
 
