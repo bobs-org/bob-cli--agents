@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.50.image
 
-**Global name:** `bbugyi200.apollo.research.50.image` · **State:** waiting · **Source run:** `run-066edc89f3ac7064962037901929c23c`
+**Global name:** `bbugyi200.apollo.research.50.image` · **State:** completed · **Source run:** `run-066edc89f3ac7064962037901929c23c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261116133837
+- Timing: 2026-11-16T19:13:44.196894+00:00 → 2026-11-16T19:28:25.648310+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/wf\_checking\_period\_close/wf\_checking\_period\_close\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261116133837/wf\_checking\_period\_c… |
+| `diagrams` | {considered: 12, count: 1, manifest: 202611/wf\_checking\_period\_close/wf\_checking\_period\_close.diagrams.md, source\_ref: file:explicit:e55460b5ac31eda391f3a7a9, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/wf_checking_period_close/wf_checking_period_close_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116133837/wf_checking_period_close_infographic-8e71f6afbd1c.png
+  ref: file:explicit:d812c12b6639ba77d236eb88
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/wf_checking_period_close/wf_checking_period_close_infographic.png
+- kind: markdown
+  label: diagrams:202611/wf_checking_period_close/wf_checking_period_close.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116133837/wf_checking_period_close.diagrams-57871e4614b5.md
+  ref: file:explicit:41a5996842eaffd47ddb1832
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/wf_checking_period_close/wf_checking_period_close.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 1
+manifest: 202611/wf_checking_period_close/wf_checking_period_close.diagrams.md
+source_ref: file:explicit:e55460b5ac31eda391f3a7a9
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
