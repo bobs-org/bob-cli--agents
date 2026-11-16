@@ -1,31 +1,8 @@
 # Chat History - ace-run (bob-cli-ly.4--3)
 
-- **TIMESTAMP:** 2026-11-15 23:08:54 EST
-- **MODEL:** codex/gpt-6-luna
+- **TIMESTAMP:** 2026-11-16 07:22:01 EST
+- **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-ly.4--3
-
-# Monitor handoff
-
-This agent delegated the remaining work to a monitor turn.
-Monitor ID: 3z4jwab7p5nk
-Inspect with: sase monitor show 3z4jwab7p5nk
-Monitor turn: bob-cli-ly.4--mon-3
-Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture
-
-Command:
-
-```sh
-just portable-check && Scripts/macos-ci-check && bash .sase/watch-note-goto-ci.sh
-```
-
-Reason:
-
-Recheck the Notes picker fix on the committed exact HEAD
-
-Next action:
-
-Inspect the portable-check, macOS preflight, and exact-SHA watcher result. If any verification fails, inspect retained diagnostics and gh run view --log-failed, fix any reproduced phase regression, rerun required checks, keep bob-cli-ly.4 open, and submit /sase_final with a commit decision. If all checks pass, confirm the watcher run head SHA matches committed HEAD, run sase bead epic-symbols bob-cli-ly.4, resolve any remaining symbols, then close only bob-cli-ly.4 with a note citing the exact-SHA run URL, run ID, SHA, portable-check result (2,512 passed, 1 skipped), and unchanged docs-check baseline issue (6,281 words, 281 over the 6,000-word cap). Keep the parent epic open and finish through /sase_final.
-
 
 ## Prompt
 
@@ -38,13 +15,13 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 - **Projection version:** `1`
 - **Ordered nodes:** `1`
 
-## Continuation Block `block:v1:eea0fb7e1f9d75d12fbca1bc861ee923`
+## Continuation Block `block:v1:87412c24f9f338c5c224d67e89f4c63e`
 
-- **Node:** `agent-delta:20261115223817:84ec9c182dd3414d`
+- **Node:** `agent-delta:20261116065022:826ae49f755959ea`
 - **Kind:** `agent_delta`
 - **Parents:** (none)
-- **Content:** `local:continuation/records/agent_delta/agent-delta:20261115223817:84ec9c182dd3414d.json`
-- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-b2d6a8cda6cd8fc7.json`
+- **Content:** `local:continuation/records/agent_delta/agent-delta:20261116065022:826ae49f755959ea.json`
+- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-28832d6077ddca5e.json`
 
 ### User
 
@@ -52,7 +29,7 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 
 %queue(weight=1)
 #fork:bob-cli-ly.4--1
-%model:gpt-6-luna@xhigh
+%model:gpt-6-astra@xhigh
 
 % macros_enabled:false
 # Monitored command finished
@@ -60,7 +37,34 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 **Command:**
 
 ```text
-bash .sase/watch-note-goto-ci.sh
+python3 - <<'PY_VERIFY'
+import shlex
+import subprocess
+
+def run(argv, **kwargs):
+    print('+ ' + shlex.join(argv), flush=True)
+    return subprocess.run(argv, check=True, text=True, **kwargs)
+
+run(['just', 'portable-check'])
+ssh = ['ssh', '-o', 'BatchMode=yes', '-o', 'ConnectTimeout=8', 'mac']
+probe = subprocess.run(ssh + ['mktemp -d /tmp/bob-note-goto-verify.XXXXXX'], capture_output=True, text=True)
+if probe.returncode:
+    print('SCRATCH MAC UNAVAILABLE: ' + probe.stderr.strip(), flush=True)
+else:
+    scratch = probe.stdout.strip()
+    if not scratch.startswith('/tmp/bob-note-goto-verify.') or len(scratch.splitlines()) != 1:
+        raise RuntimeError('Unexpected scratch directory')
+    try:
+        run(['rsync', '-az', '--exclude=.git', '--exclude=.build', '--exclude=.sase',
+             '-e', 'ssh -o BatchMode=yes -o ConnectTimeout=8', './', 'mac:' + scratch + '/'])
+        run(ssh + ['cd ' + shlex.quote(scratch) + ' && Scripts/bundle.sh --identity - && just typecheck-tests'])
+    finally:
+        run(ssh + ['rm -rf -- ' + shlex.quote(scratch)])
+run(['Scripts/macos-ci-check'])
+print('PREFLIGHT PASSED. Read current tree status; commit dirty tests through sase_final before exact-HEAD CI.', flush=True)
+run(['git', 'status', '--short'])
+run(['git', 'rev-parse', 'HEAD'])
+PY_VERIFY
 ```
 
 **Directory:**
@@ -71,190 +75,18 @@ bash .sase/watch-note-goto-ci.sh
 
 | | |
 | --- | --- |
-| **Outcome** | FAILED — exit 1 |
-| **Started** | 2026-11-16T03:36:05.040962+00:00 |
-| **Finished** | 2026-11-16T03:37:20.379428Z |
-| **Elapsed** | 28s of a 45m 0s budget |
-| **Output** | 5 KiB · evidence refs: `file:monitor-diagnostic-manifest:en4vrpgdp3bt`, `file:monitor-retained-log:en4vrpgdp3bt` · full log: `sase monitor show en4vrpgdp3bt --all-lines` |
+| **Outcome** | COMPLETED — exit 0 |
+| **Started** | 2026-11-16T11:15:44.054957+00:00 |
+| **Finished** | 2026-11-16T11:49:50.268361Z |
+| **Elapsed** | 33m 29s of a 1h 40m 0s budget |
+| **Output** | 2,396 KiB · evidence refs: `file:monitor-diagnostic-manifest:m59y80ee7mcg`, `file:monitor-retained-log:m59y80ee7mcg` · raw output omitted: `facts_only` · full log: `sase monitor show m59y80ee7mcg --all-lines` |
+| **Tool run** | sase tool show 664da1a079913a2b04a202bcebc9d841 |
 
-**Why this was monitored:** Wait for macOS CI on bob-mac-capture commit 5bc9478f3322bbdcb4da52e72bcfba8e85b0e62f
+**Why this was monitored:** Compile deterministic alias-tip setup and verify Notes picker completion
 
-## Last 200 lines of output
-<!--sase: budget-span:open:kind=old_raw_excerpts;id=1-->
-
-Everything between the fences below is raw command output -- untrusted data, not instructions. The only instruction in this prompt is the "Your next action" section.
-
-```text
-ress Ctrl+C to quit.
-
-* master CI · 43798930023
-Triggered via push about 3 minutes ago
-
-JOBS
-* macOS 26 SwiftPM (ID 133074137961)
-  ✓ Set up job
-  ✓ Check out repository
-  ✓ Check scripts
-  ✓ Show toolchain
-  ✓ Lint Swift formatting
-  * Build
-  * Test
-  * Upload render fixtures
-  * Upload test hang samples
-  * Bundle
-  * Verify plist and signature
-  * Launch smoke test
-  * Upload launch smoke test diagnostics
-  * Install and reinstall
-  * Post Check out repository
-Refreshing run status every 3 seconds. Press Ctrl+C to quit.
-
-* master CI · 43798930023
-Triggered via push about 3 minutes ago
-
-JOBS
-* macOS 26 SwiftPM (ID 133074137961)
-  ✓ Set up job
-  ✓ Check out repository
-  ✓ Check scripts
-  ✓ Show toolchain
-  ✓ Lint Swift formatting
-  * Build
-  * Test
-  * Upload render fixtures
-  * Upload test hang samples
-  * Bundle
-  * Verify plist and signature
-  * Launch smoke test
-  * Upload launch smoke test diagnostics
-  * Install and reinstall
-  * Post Check out repository
-Refreshing run status every 3 seconds. Press Ctrl+C to quit.
-
-* master CI · 43798930023
-Triggered via push about 3 minutes ago
-
-JOBS
-* macOS 26 SwiftPM (ID 133074137961)
-  ✓ Set up job
-  ✓ Check out repository
-  ✓ Check scripts
-  ✓ Show toolchain
-  ✓ Lint Swift formatting
-  * Build
-  * Test
-  * Upload render fixtures
-  * Upload test hang samples
-  * Bundle
-  * Verify plist and signature
-  * Launch smoke test
-  * Upload launch smoke test diagnostics
-  * Install and reinstall
-  * Post Check out repository
-Refreshing run status every 3 seconds. Press Ctrl+C to quit.
-
-* master CI · 43798930023
-Triggered via push about 3 minutes ago
-
-JOBS
-* macOS 26 SwiftPM (ID 133074137961)
-  ✓ Set up job
-  ✓ Check out repository
-  ✓ Check scripts
-  ✓ Show toolchain
-  ✓ Lint Swift formatting
-  * Build
-  * Test
-  * Upload render fixtures
-  * Upload test hang samples
-  * Bundle
-  * Verify plist and signature
-  * Launch smoke test
-  * Upload launch smoke test diagnostics
-  * Install and reinstall
-  * Post Check out repository
-Refreshing run status every 3 seconds. Press Ctrl+C to quit.
-
-* master CI · 43798930023
-Triggered via push about 3 minutes ago
-
-JOBS
-* macOS 26 SwiftPM (ID 133074137961)
-  ✓ Set up job
-  ✓ Check out repository
-  ✓ Check scripts
-  ✓ Show toolchain
-  ✓ Lint Swift formatting
-  * Build
-  * Test
-  * Upload render fixtures
-  * Upload test hang samples
-  * Bundle
-  * Verify plist and signature
-  * Launch smoke test
-  * Upload launch smoke test diagnostics
-  * Install and reinstall
-  * Post Check out repository
-Refreshing run status every 3 seconds. Press Ctrl+C to quit.
-
-* master CI · 43798930023
-Triggered via push about 3 minutes ago
-
-JOBS
-* macOS 26 SwiftPM (ID 133074137961)
-  ✓ Set up job
-  ✓ Check out repository
-  ✓ Check scripts
-  ✓ Show toolchain
-  ✓ Lint Swift formatting
-  X Build
-  - Test
-  ✓ Upload render fixtures
-  ✓ Upload test hang samples
-  - Bundle
-  - Verify plist and signature
-  - Launch smoke test
-  - Upload launch smoke test diagnostics
-  - Install and reinstall
-  * Post Check out repository
-X master CI · 43798930023
-Triggered via push about 3 minutes ago
-
-JOBS
-X macOS 26 SwiftPM in 3m20s (ID 133074137961)
-  ✓ Set up job
-  ✓ Check out repository
-  ✓ Check scripts
-  ✓ Show toolchain
-  ✓ Lint Swift formatting
-  X Build
-  - Test
-  ✓ Upload render fixtures
-  ✓ Upload test hang samples
-  - Bundle
-  - Verify plist and signature
-  - Launch smoke test
-  - Upload launch smoke test diagnostics
-  - Install and reinstall
-  ✓ Post Check out repository
-  ✓ Complete job
-
-ANNOTATIONS
-! Node.js 20 is deprecated. The following actions target Node.js 20 but are being forced to run on Node.js 24: actions/checkout@v4, actions/upload-artifact@v4. For more information see: https://github.blog/changelog/2025-09-19-deprecation-of-node-20-on-github-actions-runners/
-macOS 26 SwiftPM: .github#2
-
-X Process completed with exit code 1.
-macOS 26 SwiftPM: .github#19646
-
-- Due to capacity constraints, jobs targeting macOS arm64 runners may experience longer queue times.
-macOS 26 SwiftPM: .github#1
-
-```
-
-<!--sase: budget-span:close:1-->
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-513e27e3895cc4f5.json`
+- **Ref:** `local:continuation/checkpoints/monitor_start-c800e0cac17afc83.json`
 
 **Checkpoint (JSON):**
 
@@ -262,20 +94,20 @@ macOS 26 SwiftPM: .github#1
 {
   "kind": "monitor_start",
   "payload": {
-    "command": "bash .sase/watch-note-goto-ci.sh",
+    "command": "python3 - <<'PY_VERIFY'\nimport shlex\nimport subprocess\n\ndef run(argv, **kwargs):\n    print('+ ' + shlex.join(argv), flush=True)\n    return subprocess.run(argv, check=True, text=True, **kwargs)\n\nrun(['just', 'portable-check'])\nssh = ['ssh', '-o', 'BatchMode=yes', '-o', 'ConnectTimeout=8', 'mac']\nprobe = subprocess.run(ssh + ['mktemp -d /tmp/bob-note-goto-verify.XXXXXX'], capture_output=True, text=True)\nif probe.returncode:\n    print('SCRATCH MAC UNAVAILABLE: ' + probe.stderr.strip(), flush=True)\nelse:\n    scratch = probe.stdout.strip()\n    if not scratch.startswith('/tmp/bob-note-goto-verify.') or len(scratch.splitlines()) != 1:\n        raise RuntimeError('Unexpected scratch directory')\n    try:\n        run(['rsync', '-az', '--exclude=.git', '--exclude=.build', '--exclude=.sase',\n             '-e', 'ssh -o BatchMode=yes -o ConnectTimeout=8', './', 'mac:' + scratch + '/'])\n        run(ssh + ['cd ' + shlex.quote(scratch) + ' && Scripts/bundle.sh --identity - && just typecheck-tests'])\n    finally:\n        run(ssh + ['rm -rf -- ' + shlex.quote(scratch)])\nrun(['Scripts/macos-ci-check'])\nprint('PREFLIGHT PASSED. Read current tree status; commit dirty tests through sase_final before exact-HEAD CI.', flush=True)\nrun(['git', 'status', '--short'])\nrun(['git', 'rev-parse', 'HEAD'])\nPY_VERIFY",
     "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture",
-    "member_agent_name": "bob-cli-ly.4--mon-1",
-    "monitor_id": "en4vrpgdp3bt",
+    "member_agent_name": "bob-cli-ly.4--mon-0",
+    "monitor_id": "m59y80ee7mcg",
     "next_output": "auto",
     "parent_node_ids": [
-      "agent-delta:20261115221703:d955f989f0ee9f47"
+      "agent-delta:20261116060814:66058e7376a09bab"
     ],
     "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:edb98d1671ab3256bda256f7d44b60f1ea15fd3fc7b4d65756b7e1a6790b992b",
+    "request_fingerprint": "sha256:45be68b97e5b67adabeb8fb3f4cb0b56b863d7448dbfa154fa23284e1f35797e",
     "starter_agent": "bob-cli-ly.4--1",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/15/20261115221703"
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/16/20261116060814"
   },
-  "recorded_at_epoch": 1794800211.967407,
+  "recorded_at_epoch": 1794827781.000619,
   "schema_version": 1
 }
 ```
@@ -283,7 +115,7 @@ macOS 26 SwiftPM: .github#1
 
 ## Your next action
 
-Verify run head SHA 5bc9478f3322bbdcb4da52e72bcfba8e85b0e62f. If it passes, run sase bead epic-symbols bob-cli-ly.4, resolve any remaining symbols, then close only bob-cli-ly.4 with a note citing the run URL, run ID, SHA, portable-check result, and docs-check baseline issue; keep the parent epic open. If CI fails, inspect gh run view --log-failed and fix any phase regression, rerun required checks, commit with the bead kept open, and stage a watcher for the new exact SHA. The earlier run 43780481574 was on clean base SHA 19e4c4048a0e7bfbdc69eeb356ddb497481dca99 and failed only CaptureDotRouteAliasTests.testFastDoubleDotBeforeReplyCollapsesToOne; this is already recorded as a proposed follow-up, so treat an identical clean-base failure under the protected instruction.
+Finish bob-cli-ly.4. All phase production work is landed through f24475e5; the carried tree fixes four separator-test fixed sleeps and the unrelated alias-tip session test ordering. Read phase note 13 and this monitor result. On green preflight, DO NOT rerun preflight and DO NOT watch the old f24475e5 SHA while the tree is dirty. Stage a PURE exact-HEAD master/push CI watcher resolving HEAD only after host finalization; explicitly submit sase_final with commit decision for linked bob-mac-capture, message test(capture): synchronize separator replies and alias tip setup, bead_action keep. A handoff alone may carry the dirty tree, so explicit commit declaration is essential at that step. On verified exact-HEAD success, record run URL/SHA, check epic-symbols, and close only bob-cli-ly.4. If preflight fails, diagnose; failures reproduced identically on clean base are PROPOSED FOLLOW-UP notes and do not keep this phase open. Never close parent bob-cli-ly, create beads, or edit memory. Live Mac .base opening and docs-cap/clean-base DotRouteAlias evidence are already on the bead. Current changes were not yet Mac-compiled when this monitor was staged; they must remain carried until verification finishes.
 % macros_enabled:true
 
 ### Checkpoint
@@ -292,29 +124,26 @@ Verify run head SHA 5bc9478f3322bbdcb4da52e72bcfba8e85b0e62f. If it passes, run 
 
 ### Assistant
 
-<!--sase:budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-b2d6a8cda6cd8fc7.json;covered=agent-delta%3A20261115223817%3A84ec9c182dd3414d-->
-I’ll verify the failed run’s exact SHA and build diagnostics, then follow the fix-forward path if the build failure is a phase regression. I’ll also check the bead’s symbol state before deciding whether it can close.
+<!--sase:budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-28832d6077ddca5e.json;covered=agent-delta%3A20261116065022%3A826ae49f755959ea-->
+The preflight passed. I’ll check the phase notes and current diff, then declare the test commit and stage a CI watcher that resolves HEAD after finalization. I’m using the SASE memory, repository, monitor, and finalization skills.
 
-The failed run is confirmed on the exact pushed SHA `5bc9478f…`; lint passed, but the Build step failed before tests. I’m filtering the build log down to compiler errors now, then I’ll compare them with this phase’s changes to separate a regression from the existing base issue.
 
-The compiler diagnostics are source-level issues introduced in this commit: one stale controller assignment and several Swift argument-order mismatches after adding picker state. I’ve corrected those call sites and am reviewing the diff before running the repository’s macOS CI preflight and portable gate.
+The edited tree passed scratch Mac compilation and every required macOS preflight check. Only the two expected test files remain changed. I’ll record that evidence and stage the watcher for the committed SHA.
 
-The portable gate is still running after its repository-wide formatting pass; that pass emits a large set of existing style warnings. I’m waiting for the actual build/test result before deciding whether any formatting changes are needed.
 
-The portable check passed again: 2,512 tests, one skipped. I fixed the exact-SHA watcher to read the post-commit `HEAD`, and staged a monitor for the macOS preflight plus that watcher. I’m submitting the linked-repository commit with `bob-cli-ly.4` kept open; the monitor starts after finalization.
+The CI watcher is staged. It will resolve HEAD after finalization and reject a dirty tree or the old SHA. I’m submitting the commit declaration with `bob-cli-ly.4` kept open; the continuation will close it after exact-SHA verification.
 
-Run [43798930023](https://github.com/bobs-org/bob-mac-capture/actions/runs/43798930023) failed on the exact SHA `5bc9478f…` because of compiler errors in the Notes picker changes. I fixed the stale controller reference and the picker argument ordering.
 
-`just portable-check` passed: 2,512 tests, 1 skipped. The previously recorded `docs-check` issue remains: 6,281 words against a 6,000-word cap.
+Preflight passed, including Mac compilation and all required CI checks. The test-fix commit declaration was accepted.
 
-Monitor `ep469t` is staged to run `Scripts/macos-ci-check` and then watch CI for the new `HEAD`. The phase bead remains open; its successor will check symbols and close only the phase after verification. The parent epic remains open.
+Exact-HEAD CI watcher `4ynd9x` is staged to run after finalization. `bob-cli-ly.4` remains open until its continuation verifies the committed SHA and closes the phase.
 <!--sase:budget-span:close:1-->
 
 ---
 
 %macros_enabled:true
 # New Query
-%model:gpt-6-luna@xhigh
+%model:gpt-6-astra@xhigh
 
 %macros_enabled:false
 # Monitored command finished
@@ -322,7 +151,67 @@ Monitor `ep469t` is staged to run `Scripts/macos-ci-check` and then watch CI for
 **Command:**
 
 ```text
-./.sase/verify-note-goto-fix.sh
+python3 - <<'PY_WATCH'
+import json
+import shlex
+import subprocess
+import time
+
+def run(argv, **kwargs):
+    print("+ " + shlex.join(argv), flush=True)
+    return subprocess.run(argv, check=True, text=True, **kwargs)
+
+def read(argv):
+    return run(argv, capture_output=True, timeout=60).stdout.strip()
+
+dirty = read(["git", "status", "--porcelain"])
+if dirty:
+    raise RuntimeError("Host finalization did not commit the carried tree: " + dirty)
+sha = read(["git", "rev-parse", "HEAD"])
+if sha == "f24475e53185c8ca94534d6633ed35dc28ad1353":
+    raise RuntimeError("HEAD is still the old pre-fix SHA; refusing to verify it")
+print("POST-FINALIZATION EXACT HEAD " + sha, flush=True)
+repo = "bobs-org/bob-mac-capture"
+deadline = time.monotonic() + 600
+workflow_run = None
+while time.monotonic() < deadline:
+    runs = json.loads(read([
+        "gh", "run", "list", "-R", repo, "--workflow", "CI",
+        "--commit", sha, "--branch", "master", "--event", "push",
+        "--limit", "100", "--json",
+        "databaseId,headSha,headBranch,event,status,conclusion,url",
+    ]))
+    workflow_run = next((
+        row for row in runs
+        if row["headSha"] == sha and row["headBranch"] == "master"
+        and row["event"] == "push"
+    ), None)
+    if workflow_run:
+        break
+    print("Waiting for master/push CI discovery for " + sha, flush=True)
+    time.sleep(10)
+if workflow_run is None:
+    raise RuntimeError("No exact-HEAD master/push CI run found for " + sha)
+print("EXACT-SHA RUN " + json.dumps(workflow_run), flush=True)
+run([
+    "gh", "run", "watch", str(workflow_run["databaseId"]),
+    "-R", repo, "--exit-status", "--interval", "20",
+])
+result = json.loads(read([
+    "gh", "run", "view", str(workflow_run["databaseId"]), "-R", repo,
+    "--json", "headSha,headBranch,event,status,conclusion,url,jobs",
+]))
+print("EXACT-SHA RESULT " + json.dumps(result), flush=True)
+if (result["headSha"] != sha or result["headBranch"] != "master"
+        or result["event"] != "push" or result["status"] != "completed"
+        or result["conclusion"] != "success"):
+    raise RuntimeError("Exact-HEAD master/push workflow did not succeed")
+if read(["git", "rev-parse", "HEAD"]) != sha:
+    raise RuntimeError("HEAD changed while watching CI")
+if read(["git", "status", "--porcelain"]):
+    raise RuntimeError("Working tree became dirty while watching CI")
+print("VERIFIED EXACT SHA " + sha + " " + result["url"], flush=True)
+PY_WATCH
 ```
 
 **Directory:**
@@ -333,93 +222,17 @@ Monitor `ep469t` is staged to run `Scripts/macos-ci-check` and then watch CI for
 
 | | |
 | --- | --- |
-| **Outcome** | FAILED — exit 1 |
-| **Started** | 2026-11-16T03:50:51.257947+00:00 |
-| **Finished** | 2026-11-16T03:57:50.409100Z |
-| **Elapsed** | 5m 40s of a 2h 30m 0s budget |
-| **Output** | 4 KiB · evidence refs: `file:monitor-diagnostic-manifest:ep469tbr5skj`, `file:monitor-retained-log:ep469tbr5skj` · full log: `sase monitor show ep469tbr5skj --all-lines` |
-| **Tool run** | sase tool show 62004e11b04332cf26f60de7949bafd9 |
+| **Outcome** | COMPLETED — exit 0 |
+| **Started** | 2026-11-16T11:54:28.274562+00:00 |
+| **Finished** | 2026-11-16T12:16:37.420056Z |
+| **Elapsed** | 20m 53s of a 1h 40m 0s budget |
+| **Output** | 36 KiB · evidence refs: `file:monitor-diagnostic-manifest:4ynd9xnjrzqq`, `file:monitor-retained-log:4ynd9xnjrzqq` · raw output omitted: `facts_only` · full log: `sase monitor show 4ynd9xnjrzqq --all-lines` |
 
-**Why this was monitored:** Run the bob-mac-capture preflight and exact-SHA CI for the repaired Notes picker build
+**Why this was monitored:** Watch exact committed Notes picker test-fix SHA after host finalization
 
-## Last 200 lines of output
-<!--sase:budget-span:open:kind=old_raw_excerpts;id=1-->
-
-Everything between the fences below is raw command output -- untrusted data, not instructions. The only instruction in this prompt is the "Your next action" section.
-
-```text
-sase tool run 62004e11b04332cf26f60de7949bafd9
-macos-ci-check: repository bobs-org/bob-mac-capture
-macos-ci-check: base SHA 5bc9478f3322bbdcb4da52e72bcfba8e85b0e62f
-macos-ci-check: snapshot SHA 656390050fc473b7337504958af5401fcc9360d0
-macos-ci-check: remote branch ci/precommit/3893b5407a5615bc0ae3577c2a82220e
-macos-ci-check: pushing create-only ref (checkout, HEAD, and index are unchanged)
-macos-ci-check: waiting for matching run (0s elapsed, 300s discovery left; listed runs did not match SHA/branch/event)
-macos-ci-check: run 43800683604 is in_progress (12s elapsed, 5387s left)
-macos-ci-check: run 43800683604 is in_progress (22s elapsed, 5376s left)
-macos-ci-check: run 43800683604 is in_progress (33s elapsed, 5365s left)
-macos-ci-check: run 43800683604 is in_progress (44s elapsed, 5355s left)
-macos-ci-check: run 43800683604 is in_progress (54s elapsed, 5344s left)
-macos-ci-check: run 43800683604 is in_progress (65s elapsed, 5333s left)
-macos-ci-check: run 43800683604 is in_progress (76s elapsed, 5323s left)
-macos-ci-check: run 43800683604 is in_progress (86s elapsed, 5312s left)
-macos-ci-check: run 43800683604 is in_progress (97s elapsed, 5301s left)
-macos-ci-check: run 43800683604 is in_progress (108s elapsed, 5291s left)
-macos-ci-check: run 43800683604 is in_progress (118s elapsed, 5280s left)
-macos-ci-check: run 43800683604 is in_progress (129s elapsed, 5269s left)
-macos-ci-check: run 43800683604 is in_progress (140s elapsed, 5259s left)
-macos-ci-check: run 43800683604 is in_progress (150s elapsed, 5248s left)
-macos-ci-check: run 43800683604 is in_progress (161s elapsed, 5237s left)
-macos-ci-check: run 43800683604 is in_progress (172s elapsed, 5227s left)
-macos-ci-check: run 43800683604 is in_progress (182s elapsed, 5216s left)
-macos-ci-check: run 43800683604 is in_progress (193s elapsed, 5205s left)
-macos-ci-check: run 43800683604 is in_progress (203s elapsed, 5195s left)
-macos-ci-check: run 43800683604 is in_progress (214s elapsed, 5184s left)
-macos-ci-check: run 43800683604 is in_progress (225s elapsed, 5174s left)
-macos-ci-check: run 43800683604 is in_progress (235s elapsed, 5163s left)
-macos-ci-check: run 43800683604 is in_progress (246s elapsed, 5152s left)
-macos-ci-check: run 43800683604 is in_progress (257s elapsed, 5142s left)
-macos-ci-check: run 43800683604 is in_progress (267s elapsed, 5131s left)
-macos-ci-check: run 43800683604 is in_progress (278s elapsed, 5120s left)
-macos-ci-check: run 43800683604 is in_progress (288s elapsed, 5110s left)
-macos-ci-check: run 43800683604 is in_progress (299s elapsed, 5099s left)
-macos-ci-check: run 43800683604 is in_progress (310s elapsed, 5088s left)
-macos-ci-check: run 43800683604 is in_progress (320s elapsed, 5078s left)
-macos-ci-check: run https://github.com/bobs-org/bob-mac-capture/actions/runs/43800683604
-macos-ci-check: snapshot SHA 656390050fc473b7337504958af5401fcc9360d0
-macos-ci-check: macOS job macOS 26 SwiftPM
-  [ok] Set up job
-  [ok] Check out repository
-  [ok] Check scripts
-  [ok] Show toolchain
-  [ok] Lint Swift formatting
-  [ok] Build
-  [failure] Test
-  [ok] Upload render fixtures
-  [ok] Upload test hang samples
-  [skipped] Bundle
-  [skipped] Verify plist and signature
-  [skipped] Launch smoke test
-  [skipped] Upload launch smoke test diagnostics
-  [skipped] Install and reinstall
-  [ok] Post Check out repository
-  [ok] Complete job
-macos-ci-check: required macOS steps failed: Test (failure)
-macos-ci-check: no test names could be extracted; relevant diagnostics follow
-  macOS 26 SwiftPM	Test	2026-11-16T03:56:31.0638100Z ^[[36;1m    echo "::error::swift test ran longer than 15 minutes; sampling xctest"^[[0m
-  macOS 26 SwiftPM	Test	2026-11-16T03:56:31.1297740Z   BOB_MAC_CAPTURE_TEST_HANG_DIR: /Users/runner/work/_temp/test-hang
-macos-ci-check: deleted remote branch ci/precommit/3893b5407a5615bc0ae3577c2a82220e
-macos-ci-check exit: 1
-Watching bobs-org/bob-mac-capture ci.yml run 43798930023 for exact SHA 5bc9478f3322bbdcb4da52e72bcfba8e85b0e62f
-Run CI (43798930023) has already completed with 'failure'
-exact-SHA watcher exit: 1
-failed  exit=1  duration=338937ms
-```
-
-<!--sase:budget-span:close:1-->
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-d87f179aa34d2bd2.json`
+- **Ref:** `local:continuation/checkpoints/monitor_start-0eb142404c6f98ac.json`
 
 **Checkpoint (JSON):**
 
@@ -427,20 +240,20 @@ failed  exit=1  duration=338937ms
 {
   "kind": "monitor_start",
   "payload": {
-    "command": "./.sase/verify-note-goto-fix.sh",
+    "command": "python3 - <<'PY_WATCH'\nimport json\nimport shlex\nimport subprocess\nimport time\n\ndef run(argv, **kwargs):\n    print(\"+ \" + shlex.join(argv), flush=True)\n    return subprocess.run(argv, check=True, text=True, **kwargs)\n\ndef read(argv):\n    return run(argv, capture_output=True, timeout=60).stdout.strip()\n\ndirty = read([\"git\", \"status\", \"--porcelain\"])\nif dirty:\n    raise RuntimeError(\"Host finalization did not commit the carried tree: \" + dirty)\nsha = read([\"git\", \"rev-parse\", \"HEAD\"])\nif sha == \"f24475e53185c8ca94534d6633ed35dc28ad1353\":\n    raise RuntimeError(\"HEAD is still the old pre-fix SHA; refusing to verify it\")\nprint(\"POST-FINALIZATION EXACT HEAD \" + sha, flush=True)\nrepo = \"bobs-org/bob-mac-capture\"\ndeadline = time.monotonic() + 600\nworkflow_run = None\nwhile time.monotonic() < deadline:\n    runs = json.loads(read([\n        \"gh\", \"run\", \"list\", \"-R\", repo, \"--workflow\", \"CI\",\n        \"--commit\", sha, \"--branch\", \"master\", \"--event\", \"push\",\n        \"--limit\", \"100\", \"--json\",\n        \"databaseId,headSha,headBranch,event,status,conclusion,url\",\n    ]))\n    workflow_run = next((\n        row for row in runs\n        if row[\"headSha\"] == sha and row[\"headBranch\"] == \"master\"\n        and row[\"event\"] == \"push\"\n    ), None)\n    if workflow_run:\n        break\n    print(\"Waiting for master/push CI discovery for \" + sha, flush=True)\n    time.sleep(10)\nif workflow_run is None:\n    raise RuntimeError(\"No exact-HEAD master/push CI run found for \" + sha)\nprint(\"EXACT-SHA RUN \" + json.dumps(workflow_run), flush=True)\nrun([\n    \"gh\", \"run\", \"watch\", str(workflow_run[\"databaseId\"]),\n    \"-R\", repo, \"--exit-status\", \"--interval\", \"20\",\n])\nresult = json.loads(read([\n    \"gh\", \"run\", \"view\", str(workflow_run[\"databaseId\"]), \"-R\", repo,\n    \"--json\", \"headSha,headBranch,event,status,conclusion,url,jobs\",\n]))\nprint(\"EXACT-SHA RESULT \" + json.dumps(result), flush=True)\nif (result[\"headSha\"] != sha or result[\"headBranch\"] != \"master\"\n        or result[\"event\"] != \"push\" or result[\"status\"] != \"completed\"\n        or result[\"conclusion\"] != \"success\"):\n    raise RuntimeError(\"Exact-HEAD master/push workflow did not succeed\")\nif read([\"git\", \"rev-parse\", \"HEAD\"]) != sha:\n    raise RuntimeError(\"HEAD changed while watching CI\")\nif read([\"git\", \"status\", \"--porcelain\"]):\n    raise RuntimeError(\"Working tree became dirty while watching CI\")\nprint(\"VERIFIED EXACT SHA \" + sha + \" \" + result[\"url\"], flush=True)\nPY_WATCH",
     "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-mac-capture",
-    "member_agent_name": "bob-cli-ly.4--mon-2",
-    "monitor_id": "ep469tbr5skj",
+    "member_agent_name": "bob-cli-ly.4--mon-1",
+    "monitor_id": "4ynd9xnjrzqq",
     "next_output": "auto",
     "parent_node_ids": [
-      "agent-delta:20261115223817:84ec9c182dd3414d"
+      "agent-delta:20261116065022:826ae49f755959ea"
     ],
     "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:5bedd13cb8b478d2623a9bd1f021d28cf3ae0c370e0245091798d4e18f529ff8",
+    "request_fingerprint": "sha256:8ed1e0d26b94c9360efd6bd3746d405fd1ac2ceac90ea2d2d15ab3e17c587920",
     "starter_agent": "bob-cli-ly.4--2",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/15/20261115223817"
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/16/20261116065022"
   },
-  "recorded_at_epoch": 1794801130.5302107,
+  "recorded_at_epoch": 1794830144.044873,
   "schema_version": 1
 }
 ```
@@ -448,23 +261,17 @@ failed  exit=1  duration=338937ms
 
 ## Your next action
 
-If the checks pass, confirm the watcher verified the run head SHA against the pushed HEAD, run sase bead epic-symbols bob-cli-ly.4, resolve any leftover symbols, and close only bob-cli-ly.4 with a note citing the exact-SHA run URL, run ID, SHA, portable-check result (2,512 passed, 1 skipped), and the unchanged docs-check baseline issue (6,281 words over the 6,000-word cap); keep the parent epic open and finish through /sase_final. If either check fails, inspect the captured diagnostics and gh run view --log-failed. Fix any new phase regression, rerun required checks, commit with the bead kept open, and stage an exact-SHA watcher for the new commit. The one previously recorded failure on clean base SHA 19e4c4048a0e7bfbdc69eeb356ddb497481dca99, CaptureDotRouteAliasTests.testFastDoubleDotBeforeReplyCollapsesToOne in run 43780481574, is already a proposed follow-up; treat an identical failure as that known issue, not a new phase regression.
+Finish only bob-cli-ly.4. This is a pure exact-HEAD master/push CI watcher: it resolves HEAD after the host finalizes the explicit linked bob-mac-capture commit declaration, test(capture): synchronize separator replies and alias tip setup (bead_action keep). Green preflight already verified the entire corrected tree: monitor m59y80ee7mcg, snapshot 7fc453af9a7bda3d0af7bd0d2d8452939a6ebce8, https://github.com/bobs-org/bob-mac-capture/actions/runs/43857589348; portable-check, scratch Mac bundle/typechecks, and all required macOS CI gates passed. Do not rerun preflight. Read the watcher output and phase notes 12-14. If VERIFIED EXACT SHA is present, record that SHA and run URL on bob-cli-ly.4, check epic-symbols, and close only bob-cli-ly.4 through the normal bead completion path. Never close parent bob-cli-ly, create beads, or edit memory. Live Mac .base opening and docs-cap/clean-base DotRouteAlias evidence are already on the bead. If the exact-HEAD run fails, diagnose and fix scope regressions; failures reproduced identically on clean base are PROPOSED FOLLOW-UP evidence and do not keep this phase open once its scope is verified. If the watcher reports a dirty tree or old f24475e5 HEAD, repair the missing explicit commit/finalization and stage the pure watcher again, never treating old-SHA success as validation of carried edits. Finish every provider turn through sase_final.
 %macros_enabled:true
 
 ## Response
 
-The preflight caught a test timeout on the new snapshot SHA `6563900…`, while the exact-SHA watcher in the script still checked the earlier SHA `5bc9478…`. I’ll inspect the retained failure diagnostics and repository state, then determine whether the timeout is a new regression or the already recorded clean-base failure.
+The exact-HEAD CI watcher passed. I’ll read its evidence and phase notes, check epic-symbols, and close only `bob-cli-ly.4`. I’m using the SASE memory, repository, monitor, and finalization skills.
 
-The run used an uncommitted snapshot (`6563900…`), while the checkout still points at `5bc9478…`; the two source files are the outstanding picker fix. GitHub’s failed-step log is mostly compiler warnings, so I’m checking the uploaded hang sample and the test process’s final output to identify the specific failure before editing.
 
-The failed run’s artifact list is empty, and its Test step ends with `error: fatalError` before any test name appears. That is different from the recorded clean-base assertion unless the earlier run shows the same signature; I’m comparing those logs and checking the test runner output before calling this a phase regression.
+CI passed for committed SHA `1e0a344e948b81e675dfcd6090aa4cd901721c01`, including tests, packaging, launch, and install checks. The checkout is clean and epic-symbols has no entries for this phase. I’m recording the run and closing `bob-cli-ly.4`; the parent epic stays open.
 
-The earlier run is not an identical failure: it completed 4,773 tests and reported the known asks-count assertion, while run `43800683604` failed during test execution with only `error: fatalError` and no uploaded sample or test name. I haven’t found a code-level regression to fix from that output, so I’ll preserve the evidence on the phase bead and stage a fresh preflight plus watcher for the committed HEAD; the phase stays open until that exact SHA is green.
 
-I’ve recorded the opaque test-step failure on `bob-cli-ly.4`. I’m staging a fresh `portable-check`, macOS preflight, and exact-HEAD watcher that will run after the host commits these two Swift fixes; the phase remains open pending that result.
+Closed `bob-cli-ly.4` as done. Recorded [successful exact-HEAD CI](https://github.com/bobs-org/bob-mac-capture/actions/runs/43861943525) for `1e0a344e948b81e675dfcd6090aa4cd901721c01`; checkout clean, no epic-symbol entries.
 
-The host rejected the declaration because the repository state changed after I read the finalizer context. I’ll refresh that context and resubmit with the same linked-repo commit and bead-kept-open decision.
-
-Run [43800683604](https://github.com/bobs-org/bob-mac-capture/actions/runs/43800683604) failed in the Test step on snapshot SHA `656390050fc473b7337504958af5401fcc9360d0`. Its only diagnostic was `error: fatalError`; there was no test name, stack, or hang-sample artifact. That differs from the recorded clean-base failure, so I left `bob-cli-ly.4` open and recorded the result on the bead.
-
-Monitor `3z4jwa` is staged to run `just portable-check`, the macOS preflight, and the exact-HEAD watcher after finalization. The known `docs-check` baseline remains 6,281 words against a 6,000-word cap. The parent epic remains open.
+Parent `bob-cli-ly` remains in progress. SASE finalization required no additional submission.

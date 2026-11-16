@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ly](../../users/bbugyi200/machines/athena/hoods/bob-cli-ly/README.md) / [bob-cli-ly.4](../../sessions/bbugyi200.athena.bob-cli-ly.4.md) / bob-cli-ly.4--3
 
-**Global name:** `bbugyi200.athena.bob-cli-ly.4--3` · **State:** completed · **Source run:** `run-ed51c2abb1c5270045b7d38b573bb88c`
+**Global name:** `bbugyi200.athena.bob-cli-ly.4--3` · **State:** completed · **Source run:** `run-95f94c8fb080ec8ebc2aaf280c62e42b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ly
 
 ## Summary
 
 - Bead: [bob-cli-ly.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ly/bob-cli-ly.4.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-16T04:00:12.363489+00:00 → 2026-11-16T04:09:02.499587+00:00
+- Timing: 2026-11-16T12:19:09.713406+00:00 → 2026-11-16T12:22:06.154840+00:00
 - Commits: 0
 
 ## Files
