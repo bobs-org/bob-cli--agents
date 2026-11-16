@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-mj](../../users/bbugyi200/machines/athena/hoods/bob-cli-mj/README.md) / bob-cli-mj.1
 
-**Global name:** `bbugyi200.athena.bob-cli-mj.1` · **State:** active · **Source run:** `run-beae9fbf274184dc22cfcba38d06d966`
+**Global name:** `bbugyi200.athena.bob-cli-mj.1` · **State:** completed · **Source run:** `run-beae9fbf274184dc22cfcba38d06d966`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-mj
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-mj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-mj/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-16T22:33:25.866411+00:00
-- Commits: 0
+- Timing: 2026-11-16T22:33:25.866411+00:00 → 2026-11-16T23:33:51.831676+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`ff563eb`](https://github.com/bobs-org/bob-cli/commit/ff563ebd884836da71209ca601bbdc3409b10c1e) | feat(capture)!: embed clipboard videos from vid/ | 2026-11-16 18:33:26 EST |
 
 ## Neighbors
 
