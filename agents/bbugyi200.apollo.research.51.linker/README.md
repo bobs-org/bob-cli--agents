@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.51.linker
 
-**Global name:** `bbugyi200.apollo.research.51.linker` · **State:** waiting · **Source run:** `run-2024aee4b82f1da76caa09328705e974`
+**Global name:** `bbugyi200.apollo.research.51.linker` · **State:** completed · **Source run:** `run-2024aee4b82f1da76caa09328705e974`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261116135843
+- Timing: 2026-11-16T19:49:01.848373+00:00 → 2026-11-16T19:58:46.511570+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/schema\_editor\_emoji\_and\_multislot\_reorder/schema\_editor\_emoji\_and\_multislot\_reorder.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261116… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/schema_editor_emoji_and_multislot_reorder/schema_editor_emoji_and_multislot_reorder.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116135843/schema_editor_emoji_and_multislot_reorder-4aee97b5ece6.md
+  ref: file:explicit:4d8cc51beb542b51a1955ca1
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/schema_editor_emoji_and_multislot_reorder/schema_editor_emoji_and_multislot_reorder.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

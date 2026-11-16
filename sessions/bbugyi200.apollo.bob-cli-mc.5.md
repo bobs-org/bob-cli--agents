@@ -37,4 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-mc.2](../agents/bbugyi200.apollo.bob-cli-mc.2/README.md) | bob-cli-mc hood | completed |
 | [bob-cli-mc.3](../agents/bbugyi200.apollo.bob-cli-mc.3/README.md) | bob-cli-mc hood | completed |
 | [bob-cli-mc.4](../agents/bbugyi200.apollo.bob-cli-mc.4/README.md) | bob-cli-mc hood | completed |
-| [bob-cli-mc.land](../agents/bbugyi200.apollo.bob-cli-mc.land/README.md) | bob-cli-mc hood | waiting |
+| [bob-cli-mc.land](../agents/bbugyi200.apollo.bob-cli-mc.land/README.md) | bob-cli-mc hood | completed |
