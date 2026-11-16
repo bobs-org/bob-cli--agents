@@ -41,7 +41,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.4y.cdx](../bbugyi200.apollo.research.4y.cdx/README.md) | research.4y hood | completed |
-| [research.4y.final](../bbugyi200.apollo.research.4y.final/README.md) | research.4y hood | waiting |
+| [research.4y.final](../bbugyi200.apollo.research.4y.final/README.md) | research.4y hood | completed |
 | [research.4y.gem](../bbugyi200.apollo.research.4y.gem/README.md) | research.4y hood | completed |
 | [research.4y.grk](../bbugyi200.apollo.research.4y.grk/README.md) | research.4y hood | completed |
 | [research.4y.image](../bbugyi200.apollo.research.4y.image/README.md) | research.4y hood | waiting |
