@@ -57,14 +57,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | bob-cli | [`e245e46`](https://github.com/bobs-org/bob-cli/commit/e245e46281291c02ff3fa93984b1f0ea59b0fd4a) | fix(gmail): land archive receipt integration fixes | 2026-11-13 14:48:44 EST |
-| 5 | bob-cli | [`610b809`](https://github.com/bobs-org/bob-cli/commit/610b809f1a38c2d4b4f9792d1642492e5eafe071) | feat(gmail)!: add archive receipts and explicit undo | 2026-11-13 16:45:02 EST |
+| plan | — | `e245e46` | fix(gmail): land archive receipt integration fixes | 2026-11-13 14:48:44 EST |
+| 5 | — | `610b809` | feat(gmail)!: add archive receipts and explicit undo | 2026-11-13 16:45:02 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-kx.3](bbugyi200.athena.bob-cli-kx.3.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-kx.3](bbugyi200.athena.bob-cli-kx.3.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-kx.3.1.1](../agents/bbugyi200.athena.bob-cli-kx.3.1.1/README.md) | bob-cli-kx.3.1 hood | completed |
 | [bob-cli-kx.3.1.2](../agents/bbugyi200.athena.bob-cli-kx.3.1.2/README.md) | bob-cli-kx.3.1 hood | completed |
 | [bob-cli-kx.3.1.3](../agents/bbugyi200.athena.bob-cli-kx.3.1.3/README.md) | bob-cli-kx.3.1 hood | completed |
@@ -72,7 +72,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-kx.3.1.5](bbugyi200.athena.bob-cli-kx.3.1.5.md) (session · 3) | bob-cli-kx.3.1 hood | completed 3 |
 | [bob-cli-kx.3.1.6](bbugyi200.athena.bob-cli-kx.3.1.6.md) (session · 7) | bob-cli-kx.3.1 hood | completed 7 |
 | [bob-cli-kx.1](../agents/bbugyi200.athena.bob-cli-kx.1/README.md) | bob-cli-kx hood | completed |
-| [bob-cli-kx.2](bbugyi200.athena.bob-cli-kx.2.md) (session · 3) | bob-cli-kx hood | active 1, completed 2 |
+| [bob-cli-kx.2](bbugyi200.athena.bob-cli-kx.2.md) (session · 3) | bob-cli-kx hood | completed 2, dismissed 1 |
 | [bob-cli-kx.2.1.1](../agents/bbugyi200.athena.bob-cli-kx.2.1.1/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2.1.2](../agents/bbugyi200.athena.bob-cli-kx.2.1.2/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2.1.3](bbugyi200.athena.bob-cli-kx.2.1.3.md) (session · 7) | bob-cli-kx hood | completed 5, failed 2 |
@@ -85,7 +85,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-kx.2.1.8.3](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.3/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2.1.8.4](../agents/bbugyi200.athena.bob-cli-kx.2.1.8.4/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2.1.8.land](bbugyi200.athena.bob-cli-kx.2.1.8.land.md) (session · 3) | bob-cli-kx hood | completed 3 |
-| [bob-cli-kx.2.1.land](bbugyi200.athena.bob-cli-kx.2.1.land.md) (session · 3) | bob-cli-kx hood | active 1, completed 2 |
+| [bob-cli-kx.2.1.land](bbugyi200.athena.bob-cli-kx.2.1.land.md) (session · 3) | bob-cli-kx hood | completed 2, dismissed 1 |
 | [bob-cli-kx.4](bbugyi200.athena.bob-cli-kx.4.md) (session · 3) | bob-cli-kx hood | completed 3 |
 | [bob-cli-kx.5](../agents/bbugyi200.athena.bob-cli-kx.5/README.md) | bob-cli-kx hood | waiting |
-| [bob-cli-kx.land](../agents/bbugyi200.athena.bob-cli-kx.land/README.md) | bob-cli-kx hood | waiting |
+| [bob-cli-kx.land](../agents/bbugyi200.athena.bob-cli-kx.land/README.md) | bob-cli-kx hood | dismissed |

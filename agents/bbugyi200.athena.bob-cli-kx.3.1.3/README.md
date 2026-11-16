@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2ddfc94`](https://github.com/bobs-org/bob-cli/commit/2ddfc9444b523367ff70541524302b3cb923ae69) | feat(gmail): add receipt-scoped unarchive command | 2026-11-13 10:23:44 EST |
+| — | `2ddfc94` | feat(gmail): add receipt-scoped unarchive command | 2026-11-13 10:23:44 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-kx.3](../../sessions/bbugyi200.athena.bob-cli-kx.3.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-kx.3](../../sessions/bbugyi200.athena.bob-cli-kx.3.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-kx.3.1.1](../bbugyi200.athena.bob-cli-kx.3.1.1/README.md) | bob-cli-kx.3.1 hood | completed |
 | [bob-cli-kx.3.1.2](../bbugyi200.athena.bob-cli-kx.3.1.2/README.md) | bob-cli-kx.3.1 hood | completed |
 | [bob-cli-kx.3.1.4](../bbugyi200.athena.bob-cli-kx.3.1.4/README.md) | bob-cli-kx.3.1 hood | completed |
@@ -37,7 +37,7 @@
 | [bob-cli-kx.3.1.6](../../sessions/bbugyi200.athena.bob-cli-kx.3.1.6.md) (session · 7) | bob-cli-kx.3.1 hood | completed 7 |
 | [bob-cli-kx.3.1.land](../../sessions/bbugyi200.athena.bob-cli-kx.3.1.land.md) (session · 13) | bob-cli-kx.3.1 hood | completed 8, failed 5 |
 | [bob-cli-kx.1](../bbugyi200.athena.bob-cli-kx.1/README.md) | bob-cli-kx hood | completed |
-| [bob-cli-kx.2](../../sessions/bbugyi200.athena.bob-cli-kx.2.md) (session · 3) | bob-cli-kx hood | active 1, completed 2 |
+| [bob-cli-kx.2](../../sessions/bbugyi200.athena.bob-cli-kx.2.md) (session · 3) | bob-cli-kx hood | completed 2, dismissed 1 |
 | [bob-cli-kx.2.1.1](../bbugyi200.athena.bob-cli-kx.2.1.1/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2.1.2](../bbugyi200.athena.bob-cli-kx.2.1.2/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2.1.3](../../sessions/bbugyi200.athena.bob-cli-kx.2.1.3.md) (session · 7) | bob-cli-kx hood | completed 5, failed 2 |
@@ -50,7 +50,7 @@
 | [bob-cli-kx.2.1.8.3](../bbugyi200.athena.bob-cli-kx.2.1.8.3/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2.1.8.4](../bbugyi200.athena.bob-cli-kx.2.1.8.4/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.2.1.8.land](../../sessions/bbugyi200.athena.bob-cli-kx.2.1.8.land.md) (session · 3) | bob-cli-kx hood | completed 3 |
-| [bob-cli-kx.2.1.land](../../sessions/bbugyi200.athena.bob-cli-kx.2.1.land.md) (session · 3) | bob-cli-kx hood | active 1, completed 2 |
+| [bob-cli-kx.2.1.land](../../sessions/bbugyi200.athena.bob-cli-kx.2.1.land.md) (session · 3) | bob-cli-kx hood | completed 2, dismissed 1 |
 | [bob-cli-kx.4](../../sessions/bbugyi200.athena.bob-cli-kx.4.md) (session · 3) | bob-cli-kx hood | completed 3 |
 | [bob-cli-kx.5](../bbugyi200.athena.bob-cli-kx.5/README.md) | bob-cli-kx hood | waiting |
-| [bob-cli-kx.land](../bbugyi200.athena.bob-cli-kx.land/README.md) | bob-cli-kx hood | waiting |
+| [bob-cli-kx.land](../bbugyi200.athena.bob-cli-kx.land/README.md) | bob-cli-kx hood | dismissed |

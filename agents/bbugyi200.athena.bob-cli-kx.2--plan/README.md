@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-kx](../../users/bbugyi200/machines/athena/hoods/bob-cli-kx/README.md) / [bob-cli-kx.2](../../sessions/bbugyi200.athena.bob-cli-kx.2.md) / bob-cli-kx.2--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-kx.2--plan` · **State:** active · **Source run:** `run-c883fa7378185100625032f8ac89f6f5`
+**Global name:** `bbugyi200.athena.bob-cli-kx.2--plan` · **State:** dismissed · **Source run:** `run-c883fa7378185100625032f8ac89f6f5`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-kx
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-kx](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-kx/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-12T16:24:30.088970+00:00 → 2026-11-12T16:37:45.124057+00:00
+- Timing: 2026-11-12T11:24:30.088970 → 2026-11-12T11:37:45.402927
 - Commits: 0
 
 ## Files
@@ -35,9 +35,9 @@
 | [bob-cli-kx.2.1.8.3](../bbugyi200.athena.bob-cli-kx.2.1.8.3/README.md) | descendant | completed |
 | [bob-cli-kx.2.1.8.4](../bbugyi200.athena.bob-cli-kx.2.1.8.4/README.md) | descendant | completed |
 | [bob-cli-kx.2.1.8.land](../../sessions/bbugyi200.athena.bob-cli-kx.2.1.8.land.md) (session · 3) | descendant | completed 3 |
-| [bob-cli-kx.2.1.land](../../sessions/bbugyi200.athena.bob-cli-kx.2.1.land.md) (session · 3) | descendant | active 1, completed 2 |
+| [bob-cli-kx.2.1.land](../../sessions/bbugyi200.athena.bob-cli-kx.2.1.land.md) (session · 3) | descendant | completed 2, dismissed 1 |
 | [bob-cli-kx.1](../bbugyi200.athena.bob-cli-kx.1/README.md) | bob-cli-kx hood | completed |
-| [bob-cli-kx.3](../../sessions/bbugyi200.athena.bob-cli-kx.3.md) (session · 3) | bob-cli-kx hood | active 1, completed 2 |
+| [bob-cli-kx.3](../../sessions/bbugyi200.athena.bob-cli-kx.3.md) (session · 3) | bob-cli-kx hood | completed 2, dismissed 1 |
 | [bob-cli-kx.3.1.1](../bbugyi200.athena.bob-cli-kx.3.1.1/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.3.1.2](../bbugyi200.athena.bob-cli-kx.3.1.2/README.md) | bob-cli-kx hood | completed |
 | [bob-cli-kx.3.1.3](../bbugyi200.athena.bob-cli-kx.3.1.3/README.md) | bob-cli-kx hood | completed |
@@ -47,4 +47,4 @@
 | [bob-cli-kx.3.1.land](../../sessions/bbugyi200.athena.bob-cli-kx.3.1.land.md) (session · 13) | bob-cli-kx hood | completed 8, failed 5 |
 | [bob-cli-kx.4](../../sessions/bbugyi200.athena.bob-cli-kx.4.md) (session · 3) | bob-cli-kx hood | completed 3 |
 | [bob-cli-kx.5](../bbugyi200.athena.bob-cli-kx.5/README.md) | bob-cli-kx hood | waiting |
-| [bob-cli-kx.land](../bbugyi200.athena.bob-cli-kx.land/README.md) | bob-cli-kx hood | waiting |
+| [bob-cli-kx.land](../bbugyi200.athena.bob-cli-kx.land/README.md) | bob-cli-kx hood | dismissed |

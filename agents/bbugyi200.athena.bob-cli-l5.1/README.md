@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b6ed0e5`](https://github.com/bobs-org/bob-cli/commit/b6ed0e597395ee22d8276d1c6063c96afec2e047) | feat(gcal): add ack journal and event classifier | 2026-11-12 17:38:48 EST |
+| — | `b6ed0e5` | feat(gcal): add ack journal and event classifier | 2026-11-12 17:38:48 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-l5.2](../bbugyi200.athena.bob-cli-l5.2/README.md) | bob-cli-l5 hood | completed |
-| [bob-cli-l5.3](../../sessions/bbugyi200.athena.bob-cli-l5.3.md) (session · 3) | bob-cli-l5 hood | active 1, completed 2 |
+| [bob-cli-l5.3](../../sessions/bbugyi200.athena.bob-cli-l5.3.md) (session · 3) | bob-cli-l5 hood | completed 2, dismissed 1 |
 | [bob-cli-l5.3.1.1](../bbugyi200.athena.bob-cli-l5.3.1.1/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.3.1.2](../bbugyi200.athena.bob-cli-l5.3.1.2/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.3.1.3](../bbugyi200.athena.bob-cli-l5.3.1.3/README.md) | bob-cli-l5 hood | completed |
@@ -38,4 +38,4 @@
 | [bob-cli-l5.3.1.land](../../sessions/bbugyi200.athena.bob-cli-l5.3.1.land.md) (session · 3) | bob-cli-l5 hood | completed 3 |
 | [bob-cli-l5.4](../bbugyi200.athena.bob-cli-l5.4/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.5](../../sessions/bbugyi200.athena.bob-cli-l5.5.md) (session · 2) | bob-cli-l5 hood | active 1, completed 1 |
-| [bob-cli-l5.land](../bbugyi200.athena.bob-cli-l5.land/README.md) | bob-cli-l5 hood | waiting |
+| [bob-cli-l5.land](../bbugyi200.athena.bob-cli-l5.land/README.md) | bob-cli-l5 hood | dismissed |

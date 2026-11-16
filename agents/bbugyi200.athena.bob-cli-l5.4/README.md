@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`b68af01`](https://github.com/bobs-org/bob-cli/commit/b68af013d1fc403460d988c92b72fe4265767c43) | docs(gcal): document external event acknowledgements | 2026-11-13 03:57:41 EST |
+| — | `b68af01` | docs(gcal): document external event acknowledgements | 2026-11-13 03:57:41 EST |
 
 ## Neighbors
 
@@ -31,11 +31,11 @@
 |---|---|---|
 | [bob-cli-l5.1](../bbugyi200.athena.bob-cli-l5.1/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.2](../bbugyi200.athena.bob-cli-l5.2/README.md) | bob-cli-l5 hood | completed |
-| [bob-cli-l5.3](../../sessions/bbugyi200.athena.bob-cli-l5.3.md) (session · 3) | bob-cli-l5 hood | active 1, completed 2 |
+| [bob-cli-l5.3](../../sessions/bbugyi200.athena.bob-cli-l5.3.md) (session · 3) | bob-cli-l5 hood | completed 2, dismissed 1 |
 | [bob-cli-l5.3.1.1](../bbugyi200.athena.bob-cli-l5.3.1.1/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.3.1.2](../bbugyi200.athena.bob-cli-l5.3.1.2/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.3.1.3](../bbugyi200.athena.bob-cli-l5.3.1.3/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.3.1.4](../../sessions/bbugyi200.athena.bob-cli-l5.3.1.4.md) (session · 7) | bob-cli-l5 hood | completed 4, failed 3 |
 | [bob-cli-l5.3.1.land](../../sessions/bbugyi200.athena.bob-cli-l5.3.1.land.md) (session · 3) | bob-cli-l5 hood | completed 3 |
 | [bob-cli-l5.5](../../sessions/bbugyi200.athena.bob-cli-l5.5.md) (session · 2) | bob-cli-l5 hood | active 1, completed 1 |
-| [bob-cli-l5.land](../bbugyi200.athena.bob-cli-l5.land/README.md) | bob-cli-l5 hood | waiting |
+| [bob-cli-l5.land](../bbugyi200.athena.bob-cli-l5.land/README.md) | bob-cli-l5 hood | dismissed |

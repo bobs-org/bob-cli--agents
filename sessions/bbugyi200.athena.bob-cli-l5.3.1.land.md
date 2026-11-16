@@ -27,13 +27,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`cb10892`](https://github.com/bobs-org/bob-cli/commit/cb10892f8fc200272a91db538bb51940981e8961) | fix(gcal): repair ack queue and terminal edge cases | 2026-11-13 03:37:03 EST |
+| code | — | `cb10892` | fix(gcal): repair ack queue and terminal edge cases | 2026-11-13 03:37:03 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-l5.3](bbugyi200.athena.bob-cli-l5.3.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-l5.3](bbugyi200.athena.bob-cli-l5.3.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-l5.3.1.1](../agents/bbugyi200.athena.bob-cli-l5.3.1.1/README.md) | bob-cli-l5.3.1 hood | completed |
 | [bob-cli-l5.3.1.2](../agents/bbugyi200.athena.bob-cli-l5.3.1.2/README.md) | bob-cli-l5.3.1 hood | completed |
 | [bob-cli-l5.3.1.3](../agents/bbugyi200.athena.bob-cli-l5.3.1.3/README.md) | bob-cli-l5.3.1 hood | completed |
@@ -42,4 +42,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-l5.2](../agents/bbugyi200.athena.bob-cli-l5.2/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.4](../agents/bbugyi200.athena.bob-cli-l5.4/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.5](bbugyi200.athena.bob-cli-l5.5.md) (session · 2) | bob-cli-l5 hood | active 1, completed 1 |
-| [bob-cli-l5.land](../agents/bbugyi200.athena.bob-cli-l5.land/README.md) | bob-cli-l5 hood | waiting |
+| [bob-cli-l5.land](../agents/bbugyi200.athena.bob-cli-l5.land/README.md) | bob-cli-l5 hood | dismissed |

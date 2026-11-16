@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-l5.3--gate [completed]"]
   n1["bob-cli-l5.3--mon [completed]"]
   n0 --> n1
-  n2["bob-cli-l5.3--plan [active]"]
+  n2["bob-cli-l5.3--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-l5.3--gate | completed | gpt-6-astra / codex | 2026-11-13T01:42:03.633051+00:00 → 2026-11-13T01:43:16.988894+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-l5.3--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-l5.3--mon | completed | gpt-6-astra / codex | 2026-11-13T01:43:13.694350+00:00 → 2026-11-13T01:47:15.732258+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-l5.3--mon/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-l5.3--plan | active | gpt-6-astra / codex | 2026-11-13T01:25:14.248128+00:00 → 2026-11-13T01:43:24.703554+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-l5.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-l5.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-l5.3--plan | dismissed | gpt-6-astra / codex | 2026-11-12T20:25:14.248128 → 2026-11-12T20:43:24.958597 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-l5.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-l5.3--plan/chat.md) |
 
 ## Neighbors
 
@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-l5.2](../agents/bbugyi200.athena.bob-cli-l5.2/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.4](../agents/bbugyi200.athena.bob-cli-l5.4/README.md) | bob-cli-l5 hood | completed |
 | [bob-cli-l5.5](bbugyi200.athena.bob-cli-l5.5.md) (session · 2) | bob-cli-l5 hood | active 1, completed 1 |
-| [bob-cli-l5.land](../agents/bbugyi200.athena.bob-cli-l5.land/README.md) | bob-cli-l5 hood | waiting |
+| [bob-cli-l5.land](../agents/bbugyi200.athena.bob-cli-l5.land/README.md) | bob-cli-l5 hood | dismissed |
