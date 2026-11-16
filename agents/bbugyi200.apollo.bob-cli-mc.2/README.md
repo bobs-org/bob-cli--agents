@@ -46,5 +46,5 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-mc.1](../bbugyi200.apollo.bob-cli-mc.1/README.md) | bob-cli-mc hood | completed |
 | [bob-cli-mc.3](../bbugyi200.apollo.bob-cli-mc.3/README.md) | bob-cli-mc hood | completed |
 | [bob-cli-mc.4](../bbugyi200.apollo.bob-cli-mc.4/README.md) | bob-cli-mc hood | completed |
-| [bob-cli-mc.5](../bbugyi200.apollo.bob-cli-mc.5/README.md) | bob-cli-mc hood | waiting |
+| [bob-cli-mc.5](../../sessions/bbugyi200.apollo.bob-cli-mc.5.md) (session · 5) | bob-cli-mc hood | completed 4, failed 1 |
 | [bob-cli-mc.land](../bbugyi200.apollo.bob-cli-mc.land/README.md) | bob-cli-mc hood | waiting |
