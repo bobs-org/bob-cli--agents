@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b0ede1647bb74c61c619291730845dcb"}
+{"commits":[{"committed_at":1794794797,"sha":"fc3d6eb47c9d85e7f5622196faf688016fa800f3","subject":"feat(capture)!: claim whole-draft //query as Go To Notes"}],"schema_version":2,"source_run_id":"run-b0ede1647bb74c61c619291730845dcb"}

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ly](../../users/bbugyi200/machines/athena/hoods/bob-cli-ly/README.md) / bob-cli-ly.2
 
-**Global name:** `bbugyi200.athena.bob-cli-ly.2` · **State:** waiting · **Source run:** `run-b0ede1647bb74c61c619291730845dcb`
+**Global name:** `bbugyi200.athena.bob-cli-ly.2` · **State:** completed · **Source run:** `run-b0ede1647bb74c61c619291730845dcb`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ly
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ly](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ly/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261115164823
-- Commits: 0
+- Timing: 2026-11-16T01:11:02.287969+00:00 → 2026-11-16T02:07:47.517701+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`fc3d6eb`](https://github.com/bobs-org/bob-cli/commit/fc3d6eb47c9d85e7f5622196faf688016fa800f3) | feat(capture)!: claim whole-draft //query as Go To Notes | 2026-11-15 21:06:37 EST |
 
 ## Neighbors
 
