@@ -22,19 +22,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`27dd275`](https://github.com/bobs-org/bob-cli/commit/27dd275664eb928df33f88cc952604b1dc18f106) | feat(albums): repair guarded writer landing | 2026-11-12 13:38:15 EST |
+| — | `27dd275` | feat(albums): repair guarded writer landing | 2026-11-12 13:38:15 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-kr.2](../../sessions/bbugyi200.apollo.bob-cli-kr.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-kr.2](../../sessions/bbugyi200.apollo.bob-cli-kr.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-kr.2.1.1](../bbugyi200.apollo.bob-cli-kr.2.1.1/README.md) | bob-cli-kr.2.1 hood | completed |
 | [bob-cli-kr.2.1.2](../bbugyi200.apollo.bob-cli-kr.2.1.2/README.md) | bob-cli-kr.2.1 hood | completed |
 | [bob-cli-kr.2.1.3](../bbugyi200.apollo.bob-cli-kr.2.1.3/README.md) | bob-cli-kr.2.1 hood | completed |
 | [bob-cli-kr.1](../../sessions/bbugyi200.apollo.bob-cli-kr.1.md) (session · 3) | bob-cli-kr hood | completed 2, failed 1 |
 | [bob-cli-kr.3](../../sessions/bbugyi200.apollo.bob-cli-kr.3.md) (session · 3) | bob-cli-kr hood | completed 3 |
-| [bob-cli-kr.4](../../sessions/bbugyi200.apollo.bob-cli-kr.4.md) (session · 3) | bob-cli-kr hood | active 1, completed 2 |
+| [bob-cli-kr.4](../../sessions/bbugyi200.apollo.bob-cli-kr.4.md) (session · 3) | bob-cli-kr hood | completed 2, dismissed 1 |
 | [bob-cli-kr.4.1.1](../bbugyi200.apollo.bob-cli-kr.4.1.1/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.4.1.2](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.2.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.4.1.3](../bbugyi200.apollo.bob-cli-kr.4.1.3/README.md) | bob-cli-kr hood | completed |

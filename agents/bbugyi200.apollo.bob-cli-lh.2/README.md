@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`28f48be`](https://github.com/bobs-org/bob-cli/commit/28f48be9d37da4aea1afe95f2ffb7f966c07192b) | feat(bank): add Bank Badge glossary | 2026-11-14 07:43:15 EST |
+| — | `28f48be` | feat(bank): add Bank Badge glossary | 2026-11-14 07:43:15 EST |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-lh.1](../bbugyi200.apollo.bob-cli-lh.1/README.md) | bob-cli-lh hood | completed |
 | [bob-cli-lh.3](../bbugyi200.apollo.bob-cli-lh.3/README.md) | bob-cli-lh hood | completed |
 | [bob-cli-lh.4](../bbugyi200.apollo.bob-cli-lh.4/README.md) | bob-cli-lh hood | completed |
-| [bob-cli-lh.land](../../sessions/bbugyi200.apollo.bob-cli-lh.land.md) (session · 3) | bob-cli-lh hood | active 2, completed 1 |
+| [bob-cli-lh.land](../../sessions/bbugyi200.apollo.bob-cli-lh.land.md) (session · 3) | bob-cli-lh hood | completed 2, dismissed 1 |

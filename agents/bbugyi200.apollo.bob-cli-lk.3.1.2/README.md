@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`78f9bdc`](https://github.com/bobs-org/bob-cli/commit/78f9bdc9acd852162efb0c52cd5b54a3316fb198) | feat(gmail): plan closed-thread reply reopens over vault snapshots | 2026-11-14 16:01:50 EST |
+| — | `78f9bdc` | feat(gmail): plan closed-thread reply reopens over vault snapshots | 2026-11-14 16:01:50 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-lk.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-lk.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-lk.3.1.1](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.1.md) (session · 3) | bob-cli-lk.3.1 hood | completed 3 |
 | [bob-cli-lk.3.1.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.3.md) (session · 7) | bob-cli-lk.3.1 hood | completed 5, failed 2 |
 | [bob-cli-lk.3.1.4](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.4.md) (session · 3) | bob-cli-lk.3.1 hood | completed 2, failed 1 |

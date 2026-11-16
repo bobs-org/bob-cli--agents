@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`49231b3`](https://github.com/bobs-org/bob-cli/commit/49231b374a483d53bbc33018836577d940d0aa0c) | fix(gmail): keep branching merge terminals and line-shift-proof confirms | 2026-11-14 23:27:50 EST |
+| — | `49231b3` | fix(gmail): keep branching merge terminals and line-shift-proof confirms | 2026-11-14 23:27:50 EST |
 
 ## Neighbors
 
@@ -30,7 +30,7 @@
 |---|---|---|
 | [bob-cli-lk.1](../bbugyi200.apollo.bob-cli-lk.1/README.md) | bob-cli-lk hood | completed |
 | [bob-cli-lk.2](../bbugyi200.apollo.bob-cli-lk.2/README.md) | bob-cli-lk hood | completed |
-| [bob-cli-lk.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.md) (session · 3) | bob-cli-lk hood | active 1, completed 2 |
+| [bob-cli-lk.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.md) (session · 3) | bob-cli-lk hood | completed 2, dismissed 1 |
 | [bob-cli-lk.3.1.1](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.1.md) (session · 3) | bob-cli-lk hood | completed 3 |
 | [bob-cli-lk.3.1.2](../bbugyi200.apollo.bob-cli-lk.3.1.2/README.md) | bob-cli-lk hood | completed |
 | [bob-cli-lk.3.1.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.3.md) (session · 7) | bob-cli-lk hood | completed 5, failed 2 |

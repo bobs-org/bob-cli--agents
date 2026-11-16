@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`575f9e6`](https://github.com/bobs-org/bob-cli/commit/575f9e66d638d0034978574dba19016c4a35b010) | feat(bank): report counts stats-strip periods with coverage and navigation | 2026-11-14 07:57:44 EST |
+| — | `575f9e6` | feat(bank): report counts stats-strip periods with coverage and navigation | 2026-11-14 07:57:44 EST |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-lh.2](../bbugyi200.apollo.bob-cli-lh.2/README.md) | bob-cli-lh hood | completed |
 | [bob-cli-lh.3](../bbugyi200.apollo.bob-cli-lh.3/README.md) | bob-cli-lh hood | completed |
 | [bob-cli-lh.4](../bbugyi200.apollo.bob-cli-lh.4/README.md) | bob-cli-lh hood | completed |
-| [bob-cli-lh.land](../../sessions/bbugyi200.apollo.bob-cli-lh.land.md) (session · 3) | bob-cli-lh hood | active 2, completed 1 |
+| [bob-cli-lh.land](../../sessions/bbugyi200.apollo.bob-cli-lh.land.md) (session · 3) | bob-cli-lh hood | completed 2, dismissed 1 |

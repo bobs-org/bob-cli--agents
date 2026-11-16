@@ -22,19 +22,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1174a17`](https://github.com/bobs-org/bob-cli/commit/1174a17b7cf18bf6d9b3e98968657e313b7aa5b6) | feat(albums): report schema metadata and emit canonical YAML records | 2026-11-12 07:45:21 EST |
+| — | `1174a17` | feat(albums): report schema metadata and emit canonical YAML records | 2026-11-12 07:45:21 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-kr.2](../../sessions/bbugyi200.apollo.bob-cli-kr.2.md) (session · 3) | bob-cli-kr hood | active 1, completed 2 |
+| [bob-cli-kr.2](../../sessions/bbugyi200.apollo.bob-cli-kr.2.md) (session · 3) | bob-cli-kr hood | completed 2, dismissed 1 |
 | [bob-cli-kr.2.1.1](../bbugyi200.apollo.bob-cli-kr.2.1.1/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.2.1.2](../bbugyi200.apollo.bob-cli-kr.2.1.2/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.2.1.3](../bbugyi200.apollo.bob-cli-kr.2.1.3/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.2.1.land.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.3](../../sessions/bbugyi200.apollo.bob-cli-kr.3.md) (session · 3) | bob-cli-kr hood | completed 3 |
-| [bob-cli-kr.4](../../sessions/bbugyi200.apollo.bob-cli-kr.4.md) (session · 3) | bob-cli-kr hood | active 1, completed 2 |
+| [bob-cli-kr.4](../../sessions/bbugyi200.apollo.bob-cli-kr.4.md) (session · 3) | bob-cli-kr hood | completed 2, dismissed 1 |
 | [bob-cli-kr.4.1.1](../bbugyi200.apollo.bob-cli-kr.4.1.1/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.4.1.2](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.2.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.4.1.3](../bbugyi200.apollo.bob-cli-kr.4.1.3/README.md) | bob-cli-kr hood | completed |

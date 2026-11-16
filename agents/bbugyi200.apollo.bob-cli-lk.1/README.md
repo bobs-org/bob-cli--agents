@@ -23,14 +23,14 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`47fac4b`](https://github.com/bobs-org/bob-cli/commit/47fac4b0ff0fe82fb1396e949d217fc8e2b3af2f) | feat(gmail): follow merge edges and surface remaining archive holds | 2026-11-14 13:35:49 EST |
+| — | `47fac4b` | feat(gmail): follow merge edges and surface remaining archive holds | 2026-11-14 13:35:49 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-lk.2](../bbugyi200.apollo.bob-cli-lk.2/README.md) | bob-cli-lk hood | completed |
-| [bob-cli-lk.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.md) (session · 3) | bob-cli-lk hood | active 1, completed 2 |
+| [bob-cli-lk.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.md) (session · 3) | bob-cli-lk hood | completed 2, dismissed 1 |
 | [bob-cli-lk.3.1.1](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.1.md) (session · 3) | bob-cli-lk hood | completed 3 |
 | [bob-cli-lk.3.1.2](../bbugyi200.apollo.bob-cli-lk.3.1.2/README.md) | bob-cli-lk hood | completed |
 | [bob-cli-lk.3.1.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.3.md) (session · 7) | bob-cli-lk hood | completed 5, failed 2 |

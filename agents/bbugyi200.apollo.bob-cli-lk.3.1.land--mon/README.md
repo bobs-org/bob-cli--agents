@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-lk.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-lk.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-lk.3.1.1](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.1.md) (session · 3) | bob-cli-lk.3.1 hood | completed 3 |
 | [bob-cli-lk.3.1.2](../bbugyi200.apollo.bob-cli-lk.3.1.2/README.md) | bob-cli-lk.3.1 hood | completed |
 | [bob-cli-lk.3.1.3](../../sessions/bbugyi200.apollo.bob-cli-lk.3.1.3.md) (session · 7) | bob-cli-lk.3.1 hood | completed 5, failed 2 |

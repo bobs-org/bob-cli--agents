@@ -23,19 +23,19 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`de5c0e5`](https://github.com/bobs-org/bob-cli/commit/de5c0e56d041af61aa0a4dd3d433a228754e66af) | feat(albums): validate ordered schema operations and consequences | 2026-11-12 09:11:26 EST |
+| — | `de5c0e5` | feat(albums): validate ordered schema operations and consequences | 2026-11-12 09:11:26 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-kr.2](../../sessions/bbugyi200.apollo.bob-cli-kr.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-kr.2](../../sessions/bbugyi200.apollo.bob-cli-kr.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-kr.2.1.2](../bbugyi200.apollo.bob-cli-kr.2.1.2/README.md) | bob-cli-kr.2.1 hood | completed |
 | [bob-cli-kr.2.1.3](../bbugyi200.apollo.bob-cli-kr.2.1.3/README.md) | bob-cli-kr.2.1 hood | completed |
 | [bob-cli-kr.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-kr.2.1.land.md) (session · 3) | bob-cli-kr.2.1 hood | completed 3 |
 | [bob-cli-kr.1](../../sessions/bbugyi200.apollo.bob-cli-kr.1.md) (session · 3) | bob-cli-kr hood | completed 2, failed 1 |
 | [bob-cli-kr.3](../../sessions/bbugyi200.apollo.bob-cli-kr.3.md) (session · 3) | bob-cli-kr hood | completed 3 |
-| [bob-cli-kr.4](../../sessions/bbugyi200.apollo.bob-cli-kr.4.md) (session · 3) | bob-cli-kr hood | active 1, completed 2 |
+| [bob-cli-kr.4](../../sessions/bbugyi200.apollo.bob-cli-kr.4.md) (session · 3) | bob-cli-kr hood | completed 2, dismissed 1 |
 | [bob-cli-kr.4.1.1](../bbugyi200.apollo.bob-cli-kr.4.1.1/README.md) | bob-cli-kr hood | completed |
 | [bob-cli-kr.4.1.2](../../sessions/bbugyi200.apollo.bob-cli-kr.4.1.2.md) (session · 3) | bob-cli-kr hood | completed 3 |
 | [bob-cli-kr.4.1.3](../bbugyi200.apollo.bob-cli-kr.4.1.3/README.md) | bob-cli-kr hood | completed |
