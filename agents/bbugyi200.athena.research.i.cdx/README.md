@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `9f06a29` | docs(research): refine Obsidian Vim focus analysis | 2026-06-15 15:28:34 EDT |
+| bob-cli | [`9f06a29`](https://github.com/bobs-org/bob-cli/commit/9f06a29edefbbf03b138e78f977af38c47cd1ba6) | docs(research): refine Obsidian Vim focus analysis | 2026-06-15 15:28:34 EDT |
 
 ## Neighbors
 
@@ -78,4 +78,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 388 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 396 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

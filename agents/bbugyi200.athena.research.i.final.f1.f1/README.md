@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `21edba9` | chore: Add SDD prompt and plan for revert\_embed\_fallback\_add\_ctrl\_keymaps | 2026-06-15 16:12:56 EDT |
-| — | `b063fdf` | chore: Mark SDD plan done | 2026-06-15 16:46:08 EDT |
+| bob-cli | [`21edba9`](https://github.com/bobs-org/bob-cli/commit/21edba95fb5730d82c08f2172bade2c0ddfb0339) | chore: Add SDD prompt and plan for revert\_embed\_fallback\_add\_ctrl\_keymaps | 2026-06-15 16:12:56 EDT |
+| bob-cli | [`b063fdf`](https://github.com/bobs-org/bob-cli/commit/b063fdf78a4089a3703664fe12052cd40d48118a) | chore: Mark SDD plan done | 2026-06-15 16:46:08 EDT |
 
 ## Neighbors
 
@@ -79,4 +79,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 388 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 396 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

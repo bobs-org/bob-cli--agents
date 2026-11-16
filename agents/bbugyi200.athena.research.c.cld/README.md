@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `222ad54` | chore: Add post-implementation review research for Obsidian projects | 2026-06-12 19:05:59 EDT |
+| bob-cli | [`222ad54`](https://github.com/bobs-org/bob-cli/commit/222ad54fdb4c95895b80412860d23f2f59c03aab) | chore: Add post-implementation review research for Obsidian projects | 2026-06-12 19:05:59 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 390 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 398 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

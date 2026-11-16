@@ -17,8 +17,8 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `25224d4` | chore: Add SDD prompt and plan for bob\_capture\_command | 2026-06-15 16:20:57 EDT |
-| — | `c4c0dfd` | feat: add native capture command | 2026-06-15 16:35:07 EDT |
+| bob-cli | [`25224d4`](https://github.com/bobs-org/bob-cli/commit/25224d454e74398dcc8f2c27f6e030cdcca69923) | chore: Add SDD prompt and plan for bob\_capture\_command | 2026-06-15 16:20:57 EDT |
+| bob-cli | [`c4c0dfd`](https://github.com/bobs-org/bob-cli/commit/c4c0dfd8ad5f27785293894869623cdc13c37c75) | feat: add native capture command | 2026-06-15 16:35:07 EDT |
 
 ## Neighbors
 
@@ -79,4 +79,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 388 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 396 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

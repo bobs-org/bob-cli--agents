@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `338e59a` | chore: research GTD project notes in Obsidian | 2026-06-08 11:34:47 EDT |
+| bob-cli | [`338e59a`](https://github.com/bobs-org/bob-cli/commit/338e59a72e064b7fde8c612363d6f31fbb651a1e) | chore: research GTD project notes in Obsidian | 2026-06-08 11:34:47 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 393 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 401 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

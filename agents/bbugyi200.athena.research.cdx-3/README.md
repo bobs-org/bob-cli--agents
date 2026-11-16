@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `2086421` | chore: add Obsidian to Logseq migration research | 2026-06-03 12:42:41 EDT |
+| bob-cli | [`2086421`](https://github.com/bobs-org/bob-cli/commit/20864213695733c36b3e957799f76c8bd230ddcc) | chore: add Obsidian to Logseq migration research | 2026-06-03 12:42:41 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 393 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 401 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

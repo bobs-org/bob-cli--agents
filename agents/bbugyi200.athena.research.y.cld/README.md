@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `b269559` | chore: Add research on dedicated Bob Obsidian plugins repo | 2026-06-20 10:16:15 EDT |
+| bob-cli | [`b269559`](https://github.com/bobs-org/bob-cli/commit/b2695594701f21b86fc3279d500c7d899f18f0dc) | chore: Add research on dedicated Bob Obsidian plugins repo | 2026-06-20 10:16:15 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 389 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 397 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

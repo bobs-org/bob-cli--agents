@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `8c3ca94` | docs: add Obsidian bullet search infographic | 2026-06-26 08:21:03 EDT |
+| bob-cli | [`8c3ca94`](https://github.com/bobs-org/bob-cli/commit/8c3ca94a91c7112dd2f9e698dd335820cc014741) | docs: add Obsidian bullet search infographic | 2026-06-26 08:21:03 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.39.grk](../bbugyi200.athena.research.39.grk/README.md) | research hood | dismissed |
 | [research.39.image](../bbugyi200.athena.research.39.image/README.md) | research hood | dismissed |
 | [research.39.linker](../bbugyi200.athena.research.39.linker/README.md) | research hood | dismissed |
-| … and 390 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 398 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

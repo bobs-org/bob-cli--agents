@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `19c0a18` | chore: add Obsidian vs Notion infographic | 2026-06-12 08:02:11 EDT |
+| bob-cli | [`19c0a18`](https://github.com/bobs-org/bob-cli/commit/19c0a18e7102e4b2942d7f46f550f485ee41659b) | chore: add Obsidian vs Notion infographic | 2026-06-12 08:02:11 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 390 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 398 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

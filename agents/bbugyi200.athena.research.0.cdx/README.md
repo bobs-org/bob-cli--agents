@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `2083477` | chore: add Obsidian property value research | 2026-06-09 08:39:02 EDT |
+| bob-cli | [`2083477`](https://github.com/bobs-org/bob-cli/commit/2083477c30f5c1f99b23e2a78f4fd2bffdd24e46) | chore: add Obsidian property value research | 2026-06-09 08:39:02 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.39.image](../bbugyi200.athena.research.39.image/README.md) | research hood | dismissed |
 | [research.39.linker](../bbugyi200.athena.research.39.linker/README.md) | research hood | dismissed |
 | [research.39.mus](../bbugyi200.athena.research.39.mus/README.md) | research hood | dismissed |
-| … and 389 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 397 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

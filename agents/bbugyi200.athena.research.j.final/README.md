@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `a2371e5` | docs: consolidate QuickAdd capture research | 2026-06-15 15:57:57 EDT |
+| bob-cli | [`a2371e5`](https://github.com/bobs-org/bob-cli/commit/a2371e5d0124b9bb028218bbbaad8fb59e6a9139) | docs: consolidate QuickAdd capture research | 2026-06-15 15:57:57 EDT |
 
 ## Neighbors
 
@@ -78,4 +78,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 388 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 396 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

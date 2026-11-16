@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `f59d041` | chore: Add research on Obsidian usage improvements | 2026-06-04 14:34:50 EDT |
+| bob-cli | [`f59d041`](https://github.com/bobs-org/bob-cli/commit/f59d0418e2ff8352aa0ae30427635ade70637dbb) | chore: Add research on Obsidian usage improvements | 2026-06-04 14:34:50 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 393 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 401 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

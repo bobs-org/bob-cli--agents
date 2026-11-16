@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `58e995f` | chore: Add PDF highlights task workflow research | 2026-06-04 19:36:47 EDT |
+| bob-cli | [`58e995f`](https://github.com/bobs-org/bob-cli/commit/58e995f97b029e136a07c94e844113261010de08) | chore: Add PDF highlights task workflow research | 2026-06-04 19:36:47 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 393 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 401 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `0113431` | docs(research): consolidate Obsidian project review research | 2026-06-12 19:10:43 EDT |
+| bob-cli | [`0113431`](https://github.com/bobs-org/bob-cli/commit/01134317e61560f67abee326305aad2c8ae0dd5a) | docs(research): consolidate Obsidian project review research | 2026-06-12 19:10:43 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 390 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 398 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `3ce61ff` | chore: consolidate GTD project research | 2026-06-08 11:44:12 EDT |
+| bob-cli | [`3ce61ff`](https://github.com/bobs-org/bob-cli/commit/3ce61ff0fec9a70f15ee10c84c5bdf0c1fd42867) | chore: consolidate GTD project research | 2026-06-08 11:44:12 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 393 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 401 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

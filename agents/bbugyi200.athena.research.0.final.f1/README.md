@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `5f00fae` | chore: Add SDD prompt and plan for metadata\_menu\_property\_suggestions | 2026-06-09 09:56:37 EDT |
+| bob-cli | [`5f00fae`](https://github.com/bobs-org/bob-cli/commit/5f00fae9c0233df97a6e02adfb2c7eb07403fd90) | chore: Add SDD prompt and plan for metadata\_menu\_property\_suggestions | 2026-06-09 09:56:37 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.39.image](../bbugyi200.athena.research.39.image/README.md) | research hood | dismissed |
 | [research.39.linker](../bbugyi200.athena.research.39.linker/README.md) | research hood | dismissed |
 | [research.39.mus](../bbugyi200.athena.research.39.mus/README.md) | research hood | dismissed |
-| … and 389 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 397 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

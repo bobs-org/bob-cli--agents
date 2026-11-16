@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `18560e5` | chore: add research on bulk Obsidian task properties | 2026-06-04 09:19:29 EDT |
+| bob-cli | [`18560e5`](https://github.com/bobs-org/bob-cli/commit/18560e5c2e2f886fff4f4a97405a423684dfd530) | chore: add research on bulk Obsidian task properties | 2026-06-04 09:19:29 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 393 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 401 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

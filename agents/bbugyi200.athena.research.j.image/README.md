@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `cbda790` | docs: add QuickAdd capture infographic | 2026-06-15 16:02:14 EDT |
+| bob-cli | [`cbda790`](https://github.com/bobs-org/bob-cli/commit/cbda79051422eac7d51c49eac2d7c782fb37f4fc) | docs: add QuickAdd capture infographic | 2026-06-15 16:02:14 EDT |
 
 ## Neighbors
 
@@ -78,4 +78,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 388 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 396 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

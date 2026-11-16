@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `58f7c4f` | chore: document dataview parity gaps | 2026-06-03 16:16:19 EDT |
+| bob-cli | [`58f7c4f`](https://github.com/bobs-org/bob-cli/commit/58f7c4fadf1981a03dea4d889b2cc8b91bfdd9ae) | chore: document dataview parity gaps | 2026-06-03 16:16:19 EDT |
 
 ## Neighbors
 
@@ -74,4 +74,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 392 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 400 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

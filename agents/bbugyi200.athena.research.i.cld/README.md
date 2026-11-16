@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `d152f2a` | docs(research): analyze vim keymaps failing over embedded focus | 2026-06-15 15:24:42 EDT |
+| bob-cli | [`d152f2a`](https://github.com/bobs-org/bob-cli/commit/d152f2ac75ea06efef8b5cdc563417ef98873d22) | docs(research): analyze vim keymaps failing over embedded focus | 2026-06-15 15:24:42 EDT |
 
 ## Neighbors
 
@@ -78,4 +78,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 388 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 396 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

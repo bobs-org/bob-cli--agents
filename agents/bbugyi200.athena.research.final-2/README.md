@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `ab27f78` | chore: consolidate Dataview CLI research | 2026-06-03 12:17:01 EDT |
+| bob-cli | [`ab27f78`](https://github.com/bobs-org/bob-cli/commit/ab27f78fefbe898f21723457ff4e4f3bec3835a0) | chore: consolidate Dataview CLI research | 2026-06-03 12:17:01 EDT |
 
 ## Neighbors
 
@@ -74,4 +74,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 392 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 400 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

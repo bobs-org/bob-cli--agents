@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `099ad2a` | docs: add Bob Obsidian plugins infographic | 2026-06-20 10:33:14 EDT |
+| bob-cli | [`099ad2a`](https://github.com/bobs-org/bob-cli/commit/099ad2aa061ae74c1a91a2aac22444635a8b228a) | docs: add Bob Obsidian plugins infographic | 2026-06-20 10:33:14 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 389 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 397 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

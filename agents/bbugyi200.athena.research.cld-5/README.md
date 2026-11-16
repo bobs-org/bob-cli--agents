@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `c625cbb` | chore: Add research on native dataview engine DQL parity | 2026-06-03 16:15:28 EDT |
+| bob-cli | [`c625cbb`](https://github.com/bobs-org/bob-cli/commit/c625cbb8a7822612a40c2abb9a4addfaa78c5cae) | chore: Add research on native dataview engine DQL parity | 2026-06-03 16:15:28 EDT |
 
 ## Neighbors
 
@@ -73,4 +73,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 393 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 401 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

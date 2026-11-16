@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `ebb6d88` | docs: Add research on Obsidian bullet/task search | 2026-06-26 08:03:14 EDT |
+| bob-cli | [`ebb6d88`](https://github.com/bobs-org/bob-cli/commit/ebb6d889c556f9f06605fb0845972406e2a62d7e) | docs: Add research on Obsidian bullet/task search | 2026-06-26 08:03:14 EDT |
 
 ## Neighbors
 
@@ -76,4 +76,4 @@
 | [research.39.grk](../bbugyi200.athena.research.39.grk/README.md) | research hood | dismissed |
 | [research.39.image](../bbugyi200.athena.research.39.image/README.md) | research hood | dismissed |
 | [research.39.linker](../bbugyi200.athena.research.39.linker/README.md) | research hood | dismissed |
-| … and 390 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 398 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `b529908` | docs: research QuickAdd task capture migration | 2026-06-15 15:51:03 EDT |
+| bob-cli | [`b529908`](https://github.com/bobs-org/bob-cli/commit/b529908a0d62d1fb2a732d70e4d1a1a2dd356401) | docs: research QuickAdd task capture migration | 2026-06-15 15:51:03 EDT |
 
 ## Neighbors
 
@@ -78,4 +78,4 @@
 | [research.39.cdx](../bbugyi200.athena.research.39.cdx/README.md) | research hood | dismissed |
 | [research.39.cld](../bbugyi200.athena.research.39.cld/README.md) | research hood | dismissed |
 | [research.39.final](../bbugyi200.athena.research.39.final/README.md) | research hood | dismissed |
-| … and 388 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 396 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

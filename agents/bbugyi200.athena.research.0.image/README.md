@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `a88d7f5` | chore: add Obsidian property enum infographic | 2026-06-09 09:11:31 EDT |
+| bob-cli | [`a88d7f5`](https://github.com/bobs-org/bob-cli/commit/a88d7f5d21d221dc5b33c8bf0c68aa42a51f6ded) | chore: add Obsidian property enum infographic | 2026-06-09 09:11:31 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.39.image](../bbugyi200.athena.research.39.image/README.md) | research hood | dismissed |
 | [research.39.linker](../bbugyi200.athena.research.39.linker/README.md) | research hood | dismissed |
 | [research.39.mus](../bbugyi200.athena.research.39.mus/README.md) | research hood | dismissed |
-| … and 389 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 397 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |

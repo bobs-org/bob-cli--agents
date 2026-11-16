@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `4d13ed8` | chore: research enforcing accepted values for Obsidian properties | 2026-06-09 08:36:47 EDT |
+| bob-cli | [`4d13ed8`](https://github.com/bobs-org/bob-cli/commit/4d13ed89bf6857e6284fe0b8f18faf7038c31af5) | chore: research enforcing accepted values for Obsidian properties | 2026-06-09 08:36:47 EDT |
 
 ## Neighbors
 
@@ -77,4 +77,4 @@
 | [research.39.image](../bbugyi200.athena.research.39.image/README.md) | research hood | dismissed |
 | [research.39.linker](../bbugyi200.athena.research.39.linker/README.md) | research hood | dismissed |
 | [research.39.mus](../bbugyi200.athena.research.39.mus/README.md) | research hood | dismissed |
-| … and 389 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
+| … and 397 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/research/README.md) | research hood | — |
