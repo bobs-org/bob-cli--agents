@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli %m:gpt-6-astra Can you help me finish whatever work remains on the bob-cli-kr bead and then close it?
