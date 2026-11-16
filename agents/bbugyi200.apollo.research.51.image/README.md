@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 20261116135842
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/schema\_editor\_emoji\_and\_multislot\_reorder/schema\_editor\_emoji\_and\_multislot\_reorder\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/schema_editor_emoji_and_multislot_reorder/schema_editor_emoji_and_multislot_reorder_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116135842/schema_editor_emoji_and_multislot_reorder_infographic-bdba1d244e0a.png
+  ref: file:explicit:78d27b9ab09b8cc6e7ad3fa8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/schema_editor_emoji_and_multislot_reorder/schema_editor_emoji_and_multislot_reorder_infographic.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

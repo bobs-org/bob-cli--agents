@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.50.linker
 
-**Global name:** `bbugyi200.apollo.research.50.linker` · **State:** waiting · **Source run:** `run-2d34704b03b80fbea513fc421eb02a8e`
+**Global name:** `bbugyi200.apollo.research.50.linker` · **State:** completed · **Source run:** `run-2d34704b03b80fbea513fc421eb02a8e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261116133838
+- Timing: 2026-11-16T19:28:42.309393+00:00 → 2026-11-16T19:39:35.716036+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/wf\_checking\_period\_close/wf\_checking\_period\_close.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261116133838/wf\_checking\_period\_close-6a… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/wf_checking_period_close/wf_checking_period_close.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116133838/wf_checking_period_close-6a1b35e55531.md
+  ref: file:explicit:9db8641c3ba997e67feb55e3
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/wf_checking_period_close/wf_checking_period_close.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
