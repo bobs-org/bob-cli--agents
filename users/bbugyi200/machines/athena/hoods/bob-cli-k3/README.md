@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-k3
 
-**Global hood:** `bbugyi200.athena.bob-cli-k3` · **Runs:** 72 · **Sessions:** 16 · **States:** active 1, completed 60, dismissed 4, failed 7
+**Global hood:** `bbugyi200.athena.bob-cli-k3` · **Runs:** 72 · **Sessions:** 16 · **States:** completed 60, dismissed 5, failed 7
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -77,4 +77,4 @@
 | [bob-cli-k3.5.1.land--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-k3.5.1.land.md#member-plan) | completed | gpt-6-astra / codex | 2026-11-11T22:24:56.496622+00:00 → 2026-11-11T23:21:07.571725+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-k3.5.1.land--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-k3.5.1.land--plan/prompt.md) |
 | [bob-cli-k3.4.1.2--mon-0](../../../../../../sessions/bbugyi200.athena.bob-cli-k3.4.1.2.md#member-mon-0) | completed | grok-4.6 / grok | 2026-11-11T15:54:51.498120+00:00 → 2026-11-11T16:04:48.484658+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-k3.4.1.2--mon-0/chat.md) |
 | [bob-cli-k3.9--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-k3.9.md#member-gate) | completed | gpt-6-astra / codex | 2026-11-12T11:03:00.351301+00:00 → 2026-11-12T11:05:02.284731+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-k3.9--gate/chat.md) |
-| [bob-cli-k3.4--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-k3.4.md#member-plan) | active | gpt-6-astra / codex | 2026-11-11T14:10:50.509067+00:00 → 2026-11-11T14:19:34.862796+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-k3.4--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-k3.4--plan/prompt.md) |
+| [bob-cli-k3.4--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-k3.4.md#member-plan) | dismissed | gpt-6-astra / codex | 2026-11-11T09:10:50.509067 → 2026-11-11T09:19:35.108367 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-k3.4--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-k3.4--plan/prompt.md) |
