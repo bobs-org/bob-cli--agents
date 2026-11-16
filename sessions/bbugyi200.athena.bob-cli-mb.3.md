@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-mb` · Members: 2 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-mb.3--mon [active]"]
-  n1["bob-cli-mb.3--plan [active]"]
+  n1["bob-cli-mb.3--plan [completed]"]
   n0 --> n1
 ```
 
@@ -18,7 +18,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-mb.3--mon | active | muse-spark-1.3-contributor / muse | 2026-11-16T15:39:56.418238+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-mb.3--plan | active | muse-spark-1.3-contributor / muse | 2026-11-16T15:16:59.966221+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mb.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mb.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-mb.3--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-16T15:16:59.966221+00:00 → 2026-11-16T15:43:37.293890+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mb.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mb.3--plan/chat.md) |
 
 ## Neighbors
 
