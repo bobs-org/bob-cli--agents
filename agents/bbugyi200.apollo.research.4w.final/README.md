@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4w.final
 
-**Global name:** `bbugyi200.apollo.research.4w.final` · **State:** waiting · **Source run:** `run-1ff53999b374096d5fb2b4309bb0c00f`
+**Global name:** `bbugyi200.apollo.research.4w.final` · **State:** completed · **Source run:** `run-1ff53999b374096d5fb2b4309bb0c00f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261115201008
+- Timing: 2026-11-16T01:34:58.279050+00:00 → 2026-11-16T01:50:54.361464+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/sase\_blog\_zettel\_section\_schema/sase\_blog\_zettel\_section\_schema\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115201008/sase\_b… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/sase_blog_zettel_section_schema/sase_blog_zettel_section_schema__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115201008/sase_blog_zettel_section_schema__final-7cfcc93d0052.md
+  ref: file:explicit:fb11252979ea7ef2de04d4d8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/sase_blog_zettel_section_schema/sase_blog_zettel_section_schema__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
