@@ -446,8 +446,8 @@
 | [ds](hoods/ds/README.md) | 13 | 1 | completed 9, failed 4 |
 | [dt](hoods/dt/README.md) | 3 | 1 | completed 3 |
 | [dv](hoods/dv/README.md) | 3 | 1 | completed 3 |
-| [dx](hoods/dx/README.md) | 4 | 1 | active 1, completed 3 |
-| [dz](hoods/dz/README.md) | 8 | 1 | active 1, completed 7 |
+| [dx](hoods/dx/README.md) | 4 | 1 | completed 4 |
+| [dz](hoods/dz/README.md) | 8 | 1 | completed 8 |
 | [e0](hoods/e0/README.md) | 1 | 0 | completed 1 |
 | [e5](hoods/e5/README.md) | 3 | 1 | completed 3 |
 | [e6](hoods/e6/README.md) | 3 | 1 | completed 3 |
