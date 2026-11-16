@@ -78,5 +78,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ly.1](../agents/bbugyi200.athena.bob-cli-ly.1/README.md) | bob-cli-ly hood | completed |
 | [bob-cli-ly.2](../agents/bbugyi200.athena.bob-cli-ly.2/README.md) | bob-cli-ly hood | completed |
 | [bob-cli-ly.3](bbugyi200.athena.bob-cli-ly.3.md) (session · 11) | bob-cli-ly hood | completed 8, failed 3 |
-| [bob-cli-ly.5](../agents/bbugyi200.athena.bob-cli-ly.5/README.md) | bob-cli-ly hood | waiting |
+| [bob-cli-ly.5](../agents/bbugyi200.athena.bob-cli-ly.5/README.md) | bob-cli-ly hood | completed |
 | [bob-cli-ly.land](../agents/bbugyi200.athena.bob-cli-ly.land/README.md) | bob-cli-ly hood | waiting |
