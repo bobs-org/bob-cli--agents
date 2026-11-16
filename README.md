@@ -4,7 +4,7 @@ Deterministic, owner-sharded snapshots and canonical prompt archives published b
 
 ![Project-scoped agent hoods pass through explicit privacy consent into an owner-sharded agents sidecar, where deterministic sync publishes prompts, chats, commits, states, and browsable owner, machine, hood, session, and agent pages.](assets/agents-directory-map.png)
 
-**Owners:** 1 · **Machines:** 3 · **Hoods:** 1134 · **Runs:** 10464
+**Owners:** 1 · **Machines:** 3 · **Hoods:** 1135 · **Runs:** 10473
 
 ## Prompt And Artifact Archive
 
@@ -16,4 +16,4 @@ Deterministic, owner-sharded snapshots and canonical prompt archives published b
 
 | User | Machines | Hoods | Runs |
 |---|---:|---:|---:|
-| [bbugyi200](users/bbugyi200/README.md) | 3 | 1134 | 10464 |
+| [bbugyi200](users/bbugyi200/README.md) | 3 | 1135 | 10473 |
