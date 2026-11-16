@@ -24,7 +24,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5e82fc8`](https://github.com/bobs-org/bob-cli/commit/5e82fc8e7d3311326b1f924fd082021a7438439f) | feat(albums): remove records config fallback | 2026-11-12 13:27:28 EST |
+| — | `5e82fc8` | feat(albums): remove records config fallback | 2026-11-12 13:27:28 EST |
 
 ## Variables
 
@@ -59,17 +59,17 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-k3.4.1.3](../bbugyi200.athena.bob-cli-k3.4.1.3/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.4.1.4](../bbugyi200.athena.bob-cli-k3.4.1.4/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.4.1.land](../../sessions/bbugyi200.athena.bob-cli-k3.4.1.land.md) (session · 3) | bob-cli-k3 hood | completed 3 |
-| [bob-cli-k3.5](../../sessions/bbugyi200.athena.bob-cli-k3.5.md) (session · 3) | bob-cli-k3 hood | active 1, completed 2 |
+| [bob-cli-k3.5](../../sessions/bbugyi200.athena.bob-cli-k3.5.md) (session · 3) | bob-cli-k3 hood | completed 2, dismissed 1 |
 | [bob-cli-k3.5.1.1](../bbugyi200.athena.bob-cli-k3.5.1.1/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.5.1.2](../bbugyi200.athena.bob-cli-k3.5.1.2/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.5.1.3](../bbugyi200.athena.bob-cli-k3.5.1.3/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.5.1.land](../../sessions/bbugyi200.athena.bob-cli-k3.5.1.land.md) (session · 3) | bob-cli-k3 hood | completed 3 |
-| [bob-cli-k3.6](../../sessions/bbugyi200.athena.bob-cli-k3.6.md) (session · 3) | bob-cli-k3 hood | active 1, completed 2 |
+| [bob-cli-k3.6](../../sessions/bbugyi200.athena.bob-cli-k3.6.md) (session · 3) | bob-cli-k3 hood | completed 2, dismissed 1 |
 | [bob-cli-k3.6.1.1](../bbugyi200.athena.bob-cli-k3.6.1.1/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.6.1.2](../bbugyi200.athena.bob-cli-k3.6.1.2/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.6.1.3](../bbugyi200.athena.bob-cli-k3.6.1.3/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.6.1.land](../../sessions/bbugyi200.athena.bob-cli-k3.6.1.land.md) (session · 3) | bob-cli-k3 hood | completed 3 |
-| [bob-cli-k3.7](../../sessions/bbugyi200.athena.bob-cli-k3.7.md) (session · 3) | bob-cli-k3 hood | active 1, completed 2 |
+| [bob-cli-k3.7](../../sessions/bbugyi200.athena.bob-cli-k3.7.md) (session · 3) | bob-cli-k3 hood | completed 2, dismissed 1 |
 | [bob-cli-k3.7.1.1](../bbugyi200.athena.bob-cli-k3.7.1.1/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.7.1.2](../../sessions/bbugyi200.athena.bob-cli-k3.7.1.2.md) (session · 3) | bob-cli-k3 hood | completed 2, failed 1 |
 | [bob-cli-k3.7.1.3](../bbugyi200.athena.bob-cli-k3.7.1.3/README.md) | bob-cli-k3 hood | completed |

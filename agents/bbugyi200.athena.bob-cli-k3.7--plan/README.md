@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-k3](../../users/bbugyi200/machines/athena/hoods/bob-cli-k3/README.md) / [bob-cli-k3.7](../../sessions/bbugyi200.athena.bob-cli-k3.7.md) / bob-cli-k3.7--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-k3.7--plan` · **State:** active · **Source run:** `run-5c88101a3be1cf50d7551106339bfb60`
+**Global name:** `bbugyi200.athena.bob-cli-k3.7--plan` · **State:** dismissed · **Source run:** `run-5c88101a3be1cf50d7551106339bfb60`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-k3
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-k3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-k3/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-12T03:59:54.494771+00:00 → 2026-11-12T04:10:19.827407+00:00
+- Timing: 2026-11-11T22:59:54.494771 → 2026-11-11T23:10:20.082152
 - Commits: 0
 
 ## Files
@@ -40,12 +40,12 @@
 | [bob-cli-k3.4.1.3](../bbugyi200.athena.bob-cli-k3.4.1.3/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.4.1.4](../bbugyi200.athena.bob-cli-k3.4.1.4/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.4.1.land](../../sessions/bbugyi200.athena.bob-cli-k3.4.1.land.md) (session · 3) | bob-cli-k3 hood | completed 3 |
-| [bob-cli-k3.5](../../sessions/bbugyi200.athena.bob-cli-k3.5.md) (session · 3) | bob-cli-k3 hood | active 1, completed 2 |
+| [bob-cli-k3.5](../../sessions/bbugyi200.athena.bob-cli-k3.5.md) (session · 3) | bob-cli-k3 hood | completed 2, dismissed 1 |
 | [bob-cli-k3.5.1.1](../bbugyi200.athena.bob-cli-k3.5.1.1/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.5.1.2](../bbugyi200.athena.bob-cli-k3.5.1.2/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.5.1.3](../bbugyi200.athena.bob-cli-k3.5.1.3/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.5.1.land](../../sessions/bbugyi200.athena.bob-cli-k3.5.1.land.md) (session · 3) | bob-cli-k3 hood | completed 3 |
-| [bob-cli-k3.6](../../sessions/bbugyi200.athena.bob-cli-k3.6.md) (session · 3) | bob-cli-k3 hood | active 1, completed 2 |
+| [bob-cli-k3.6](../../sessions/bbugyi200.athena.bob-cli-k3.6.md) (session · 3) | bob-cli-k3 hood | completed 2, dismissed 1 |
 | [bob-cli-k3.6.1.1](../bbugyi200.athena.bob-cli-k3.6.1.1/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.6.1.2](../bbugyi200.athena.bob-cli-k3.6.1.2/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.6.1.3](../bbugyi200.athena.bob-cli-k3.6.1.3/README.md) | bob-cli-k3 hood | completed |

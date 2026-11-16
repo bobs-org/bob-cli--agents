@@ -54,7 +54,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-k3.5](../../sessions/bbugyi200.athena.bob-cli-k3.5.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-k3.5](../../sessions/bbugyi200.athena.bob-cli-k3.5.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-k3.5.1.1](../bbugyi200.athena.bob-cli-k3.5.1.1/README.md) | bob-cli-k3.5.1 hood | completed |
 | [bob-cli-k3.5.1.2](../bbugyi200.athena.bob-cli-k3.5.1.2/README.md) | bob-cli-k3.5.1 hood | completed |
 | [bob-cli-k3.5.1.3](../bbugyi200.athena.bob-cli-k3.5.1.3/README.md) | bob-cli-k3.5.1 hood | completed |
@@ -69,12 +69,12 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-k3.4.1.3](../bbugyi200.athena.bob-cli-k3.4.1.3/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.4.1.4](../bbugyi200.athena.bob-cli-k3.4.1.4/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.4.1.land](../../sessions/bbugyi200.athena.bob-cli-k3.4.1.land.md) (session · 3) | bob-cli-k3 hood | completed 3 |
-| [bob-cli-k3.6](../../sessions/bbugyi200.athena.bob-cli-k3.6.md) (session · 3) | bob-cli-k3 hood | active 1, completed 2 |
+| [bob-cli-k3.6](../../sessions/bbugyi200.athena.bob-cli-k3.6.md) (session · 3) | bob-cli-k3 hood | completed 2, dismissed 1 |
 | [bob-cli-k3.6.1.1](../bbugyi200.athena.bob-cli-k3.6.1.1/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.6.1.2](../bbugyi200.athena.bob-cli-k3.6.1.2/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.6.1.3](../bbugyi200.athena.bob-cli-k3.6.1.3/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.6.1.land](../../sessions/bbugyi200.athena.bob-cli-k3.6.1.land.md) (session · 3) | bob-cli-k3 hood | completed 3 |
-| [bob-cli-k3.7](../../sessions/bbugyi200.athena.bob-cli-k3.7.md) (session · 3) | bob-cli-k3 hood | active 1, completed 2 |
+| [bob-cli-k3.7](../../sessions/bbugyi200.athena.bob-cli-k3.7.md) (session · 3) | bob-cli-k3 hood | completed 2, dismissed 1 |
 | [bob-cli-k3.7.1.1](../bbugyi200.athena.bob-cli-k3.7.1.1/README.md) | bob-cli-k3 hood | completed |
 | [bob-cli-k3.7.1.2](../../sessions/bbugyi200.athena.bob-cli-k3.7.1.2.md) (session · 3) | bob-cli-k3 hood | completed 2, failed 1 |
 | [bob-cli-k3.7.1.3](../bbugyi200.athena.bob-cli-k3.7.1.3/README.md) | bob-cli-k3 hood | completed |
