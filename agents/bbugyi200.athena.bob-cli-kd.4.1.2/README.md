@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ee2d2cb`](https://github.com/bobs-org/bob-cli/commit/ee2d2cbf0a837c5b735d26d462fbce60e34d269c) | feat(bank): add import planner and payee naming for match-name plan | 2026-11-11 16:39:22 EST |
+| — | `ee2d2cb` | feat(bank): add import planner and payee naming for match-name plan | 2026-11-11 16:39:22 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-kd.4](../../sessions/bbugyi200.athena.bob-cli-kd.4.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-kd.4](../../sessions/bbugyi200.athena.bob-cli-kd.4.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-kd.4.1.1](../bbugyi200.athena.bob-cli-kd.4.1.1/README.md) | bob-cli-kd.4.1 hood | completed |
 | [bob-cli-kd.4.1.3](../../sessions/bbugyi200.athena.bob-cli-kd.4.1.3.md) (session · 7) | bob-cli-kd.4.1 hood | completed 5, failed 2 |
 | [bob-cli-kd.4.1.4](../bbugyi200.athena.bob-cli-kd.4.1.4/README.md) | bob-cli-kd.4.1 hood | completed |
@@ -38,7 +38,7 @@
 | [bob-cli-kd.2](../../sessions/bbugyi200.athena.bob-cli-kd.2.md) (session · 5) | bob-cli-kd hood | completed 4, failed 1 |
 | [bob-cli-kd.3](../bbugyi200.athena.bob-cli-kd.3/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.5](../bbugyi200.athena.bob-cli-kd.5/README.md) | bob-cli-kd hood | completed |
-| [bob-cli-kd.6](../../sessions/bbugyi200.athena.bob-cli-kd.6.md) (session · 3) | bob-cli-kd hood | active 1, completed 2 |
+| [bob-cli-kd.6](../../sessions/bbugyi200.athena.bob-cli-kd.6.md) (session · 3) | bob-cli-kd hood | completed 2, dismissed 1 |
 | [bob-cli-kd.6.1.1](../bbugyi200.athena.bob-cli-kd.6.1.1/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.6.1.2](../bbugyi200.athena.bob-cli-kd.6.1.2/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.6.1.3](../../sessions/bbugyi200.athena.bob-cli-kd.6.1.3.md) (session · 11) | bob-cli-kd hood | completed 7, failed 4 |

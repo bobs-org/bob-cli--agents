@@ -71,7 +71,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-kd.6](bbugyi200.athena.bob-cli-kd.6.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-kd.6](bbugyi200.athena.bob-cli-kd.6.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-kd.6.1.1](../agents/bbugyi200.athena.bob-cli-kd.6.1.1/README.md) | bob-cli-kd.6.1 hood | completed |
 | [bob-cli-kd.6.1.2](../agents/bbugyi200.athena.bob-cli-kd.6.1.2/README.md) | bob-cli-kd.6.1 hood | completed |
 | [bob-cli-kd.6.1.4](../agents/bbugyi200.athena.bob-cli-kd.6.1.4/README.md) | bob-cli-kd.6.1 hood | completed |
@@ -80,7 +80,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-kd.1](../agents/bbugyi200.athena.bob-cli-kd.1/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.2](bbugyi200.athena.bob-cli-kd.2.md) (session · 5) | bob-cli-kd hood | completed 4, failed 1 |
 | [bob-cli-kd.3](../agents/bbugyi200.athena.bob-cli-kd.3/README.md) | bob-cli-kd hood | completed |
-| [bob-cli-kd.4](bbugyi200.athena.bob-cli-kd.4.md) (session · 3) | bob-cli-kd hood | active 1, completed 2 |
+| [bob-cli-kd.4](bbugyi200.athena.bob-cli-kd.4.md) (session · 3) | bob-cli-kd hood | completed 2, dismissed 1 |
 | [bob-cli-kd.4.1.1](../agents/bbugyi200.athena.bob-cli-kd.4.1.1/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.4.1.2](../agents/bbugyi200.athena.bob-cli-kd.4.1.2/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.4.1.3](bbugyi200.athena.bob-cli-kd.4.1.3.md) (session · 7) | bob-cli-kd hood | completed 5, failed 2 |

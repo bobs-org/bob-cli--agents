@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-kd.4--gate [completed]"]
   n1["bob-cli-kd.4--mon [completed]"]
   n0 --> n1
-  n2["bob-cli-kd.4--plan [active]"]
+  n2["bob-cli-kd.4--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-kd.4--gate | completed | gpt-6-astra / codex | 2026-11-11T19:21:52.572646+00:00 → 2026-11-11T19:24:00.945530+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-kd.4--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-kd.4--mon | completed | gpt-6-astra / codex | 2026-11-11T19:23:59.271309+00:00 → 2026-11-11T19:27:37.711794+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-kd.4--mon/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-kd.4--plan | active | gpt-6-astra / codex | 2026-11-11T19:10:48.141090+00:00 → 2026-11-11T19:24:11.803327+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-kd.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-kd.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-kd.4--plan | dismissed | gpt-6-astra / codex | 2026-11-11T14:10:48.141090 → 2026-11-11T14:24:12.066875 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-kd.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-kd.4--plan/chat.md) |
 
 ## Neighbors
 
@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-kd.2](bbugyi200.athena.bob-cli-kd.2.md) (session · 5) | bob-cli-kd hood | completed 4, failed 1 |
 | [bob-cli-kd.3](../agents/bbugyi200.athena.bob-cli-kd.3/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.5](../agents/bbugyi200.athena.bob-cli-kd.5/README.md) | bob-cli-kd hood | completed |
-| [bob-cli-kd.6](bbugyi200.athena.bob-cli-kd.6.md) (session · 3) | bob-cli-kd hood | active 1, completed 2 |
+| [bob-cli-kd.6](bbugyi200.athena.bob-cli-kd.6.md) (session · 3) | bob-cli-kd hood | completed 2, dismissed 1 |
 | [bob-cli-kd.6.1.1](../agents/bbugyi200.athena.bob-cli-kd.6.1.1/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.6.1.2](../agents/bbugyi200.athena.bob-cli-kd.6.1.2/README.md) | bob-cli-kd hood | completed |
 | [bob-cli-kd.6.1.3](bbugyi200.athena.bob-cli-kd.6.1.3.md) (session · 11) | bob-cli-kd hood | completed 7, failed 4 |
