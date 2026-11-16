@@ -24,7 +24,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-mb.1](../agents/bbugyi200.athena.bob-cli-mb.1/README.md) | bob-cli-mb hood | active |
+| [bob-cli-mb.1](../agents/bbugyi200.athena.bob-cli-mb.1/README.md) | bob-cli-mb hood | completed |
 | [bob-cli-mb.2](../agents/bbugyi200.athena.bob-cli-mb.2/README.md) | bob-cli-mb hood | active |
 | [bob-cli-mb.4](../agents/bbugyi200.athena.bob-cli-mb.4/README.md) | bob-cli-mb hood | active |
 | [bob-cli-mb.5](../agents/bbugyi200.athena.bob-cli-mb.5/README.md) | bob-cli-mb hood | completed |
