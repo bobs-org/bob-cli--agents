@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.51.image
 
-**Global name:** `bbugyi200.apollo.research.51.image` · **State:** waiting · **Source run:** `run-4ffe148e65b8c4ed4277de4846b14144`
+**Global name:** `bbugyi200.apollo.research.51.image` · **State:** completed · **Source run:** `run-4ffe148e65b8c4ed4277de4846b14144`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,20 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261116135842
+- Timing: 2026-11-16T19:35:32.391765+00:00 → 2026-11-16T19:48:09.890291+00:00
 - Commits: 0
-- Variables: [1](#variables)
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
 | Variable | Value |
 |---|---|
 | `artifacts` | \[{kind: image, label: image:202611/schema\_editor\_emoji\_and\_multislot\_reorder/schema\_editor\_emoji\_and\_multislot\_reorder\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2… |
+| `diagrams` | {considered: 14, count: 3, manifest: 202611/schema\_editor\_emoji\_and\_multislot\_reorder/schema\_editor\_emoji\_and\_multislot\_reorder.diagrams.md, source\_ref: file:explicit:fd49cff3580e8e02e225725c, status… |
 
 #### artifacts
 
@@ -32,6 +33,21 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116135842/schema_editor_emoji_and_multislot_reorder_infographic-bdba1d244e0a.png
   ref: file:explicit:78d27b9ab09b8cc6e7ad3fa8
   source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/schema_editor_emoji_and_multislot_reorder/schema_editor_emoji_and_multislot_reorder_infographic.png
+- kind: markdown
+  label: diagrams:202611/schema_editor_emoji_and_multislot_reorder/schema_editor_emoji_and_multislot_reorder.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116135842/schema_editor_emoji_and_multislot_reorder.diagrams-6c2319e51c4f.md
+  ref: file:explicit:26054adb70ba295c85319c43
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/schema_editor_emoji_and_multislot_reorder/schema_editor_emoji_and_multislot_reorder.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 3
+manifest: 202611/schema_editor_emoji_and_multislot_reorder/schema_editor_emoji_and_multislot_reorder.diagrams.md
+source_ref: file:explicit:fd49cff3580e8e02e225725c
+status: ready
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
