@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4y.gem
 
-**Global name:** `bbugyi200.apollo.research.4y.gem` · **State:** active · **Source run:** `run-7add81afecfbe1f9b61b2f8db885868a`
+**Global name:** `bbugyi200.apollo.research.4y.gem` · **State:** completed · **Source run:** `run-7add81afecfbe1f9b61b2f8db885868a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-16T14:37:55.118042+00:00
+- Timing: 2026-11-16T14:37:55.118042+00:00 → 2026-11-16T14:54:23.119485+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_ctrl\_w\_tab\_jump\_hints\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261116093551/obsidian\_ctrl\_w\_tab\_jump\_hints\_\_gem-03ed4… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_ctrl_w_tab_jump_hints__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116093551/obsidian_ctrl_w_tab_jump_hints__gem-03ed4a1c2ca6.md
+  ref: file:explicit:7f64d1ba4c88f48b2b5ee876
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/obsidian_ctrl_w_tab_jump_hints__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
