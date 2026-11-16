@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-mb
 
-**Global hood:** `bbugyi200.athena.bob-cli-mb` · **Runs:** 16 · **Sessions:** 4 · **States:** active 2, completed 14
+**Global hood:** `bbugyi200.athena.bob-cli-mb` · **Runs:** 16 · **Sessions:** 4 · **States:** completed 16
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -11,10 +11,10 @@
 | [bob-cli-mb.5](../../../../../../agents/bbugyi200.athena.bob-cli-mb.5/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-16T15:30:49.749417+00:00 → 2026-11-16T15:42:54.974737+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mb.5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mb.5/chat.md) |
 | [bob-cli-mb.land--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-mb.land.md#member-gate) | completed | opus / claude | 2026-11-16T18:03:03.756212+00:00 → 2026-11-16T18:03:12.895300+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mb.land--gate/chat.md) |
 | [bob-cli-mb.4--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-mb.4.md#member-mon) | completed | grok-4.6 / grok | 2026-11-16T17:25:50.637670+00:00 → 2026-11-16T17:49:29.666139+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mb.4--mon/chat.md) |
-| [bob-cli-mb.land--code](../../../../../../sessions/bbugyi200.athena.bob-cli-mb.land.md#member-code) | active | grok-4.6 / grok | 2026-11-16T18:04:04.576760+00:00 | 0 | — |
+| [bob-cli-mb.land--code](../../../../../../sessions/bbugyi200.athena.bob-cli-mb.land.md#member-code) | completed | grok-4.6 / grok | 2026-11-16T18:04:04.576760+00:00 → 2026-11-16T18:27:27.867216+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mb.land--code/chat.md) |
 | [bob-cli-mb.3--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-mb.3.md#member-mon) | completed | muse-spark-1.3-contributor / muse | 2026-11-16T15:39:56.418238+00:00 → 2026-11-16T16:11:14.660901+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mb.3--mon/chat.md) |
 | [bob-cli-mb.2--1](../../../../../../sessions/bbugyi200.athena.bob-cli-mb.2.md#member-1) | completed | gpt-6-luna / codex | 2026-11-16T16:30:02.879878+00:00 → 2026-11-16T16:37:31.953493+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mb.2--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mb.2--1/chat.md) |
-| [bob-cli-mb.land--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-mb.land.md#member-plan) | active | opus / claude | 2026-11-16T17:53:41.649437+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mb.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mb.land--plan/chat.md) |
+| [bob-cli-mb.land--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-mb.land.md#member-plan) | completed | opus / claude | 2026-11-16T17:53:41.649437+00:00 → 2026-11-16T18:27:27.867216+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mb.land--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mb.land--plan/chat.md) |
 | [bob-cli-mb.3--mon-0](../../../../../../sessions/bbugyi200.athena.bob-cli-mb.3.md#member-mon-0) | completed | muse-spark-1.3-contributor / muse | 2026-11-16T16:14:06.399601+00:00 → 2026-11-16T16:39:55.791668+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mb.3--mon-0/chat.md) |
 | [bob-cli-mb.4--1](../../../../../../sessions/bbugyi200.athena.bob-cli-mb.4.md#member-1) | completed | grok-4.6 / grok | 2026-11-16T17:50:12.257352+00:00 → 2026-11-16T17:51:18.603472+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mb.4--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mb.4--1/chat.md) |
 | [bob-cli-mb.3--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-mb.3.md#member-plan) | completed | muse-spark-1.3-contributor / muse | 2026-11-16T15:16:59.966221+00:00 → 2026-11-16T15:43:37.293890+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mb.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mb.3--plan/chat.md) |
