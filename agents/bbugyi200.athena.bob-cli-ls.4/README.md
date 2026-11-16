@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-ls](../../users/bbugyi200/machines/athena/hoods/bob-cli-ls/README.md) / bob-cli-ls.4
 
-**Global name:** `bbugyi200.athena.bob-cli-ls.4` · **State:** waiting · **Source run:** `run-b58b8ef803395ebff93ebe2281786448`
+**Global name:** `bbugyi200.athena.bob-cli-ls.4` · **State:** completed · **Source run:** `run-b58b8ef803395ebff93ebe2281786448`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-ls
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ls](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ls/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261115131247
-- Commits: 0
+- Timing: 2026-11-15T22:55:45.040370+00:00 → 2026-11-16T00:02:00.186012+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`219e854`](https://github.com/bobs-org/bob-cli/commit/219e854eab66ef329e1b9a5b21873f98279153f0) | feat(bank): link import rows to subscriptions with summary | 2026-11-15 18:59:57 EST |
 
 ## Neighbors
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-b58b8ef803395ebff93ebe2281786448"}
+{"commits":[{"committed_at":1794787197,"sha":"219e854eab66ef329e1b9a5b21873f98279153f0","subject":"feat(bank): link import rows to subscriptions with summary"}],"schema_version":2,"source_run_id":"run-b58b8ef803395ebff93ebe2281786448"}

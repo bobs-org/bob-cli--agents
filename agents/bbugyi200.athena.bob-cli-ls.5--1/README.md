@@ -37,7 +37,7 @@
 | [bob-cli-ls.2.1.3](../bbugyi200.athena.bob-cli-ls.2.1.3/README.md) | bob-cli-ls hood | completed |
 | [bob-cli-ls.2.1.land](../../sessions/bbugyi200.athena.bob-cli-ls.2.1.land.md) (session · 3) | bob-cli-ls hood | completed 3 |
 | [bob-cli-ls.3](../bbugyi200.athena.bob-cli-ls.3/README.md) | bob-cli-ls hood | completed |
-| [bob-cli-ls.4](../bbugyi200.athena.bob-cli-ls.4/README.md) | bob-cli-ls hood | waiting |
+| [bob-cli-ls.4](../bbugyi200.athena.bob-cli-ls.4/README.md) | bob-cli-ls hood | completed |
 | [bob-cli-ls.6](../bbugyi200.athena.bob-cli-ls.6/README.md) | bob-cli-ls hood | waiting |
 | [bob-cli-ls.7](../bbugyi200.athena.bob-cli-ls.7/README.md) | bob-cli-ls hood | completed |
 | [bob-cli-ls.8](../bbugyi200.athena.bob-cli-ls.8/README.md) | bob-cli-ls hood | waiting |
