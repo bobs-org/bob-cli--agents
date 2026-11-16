@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`11abff0`](https://github.com/bobs-org/bob-cli/commit/11abff0b65b92959c3906df5661597e2530142be) | fix(ci): clear four release-train blockers on master | 2026-11-14 09:38:31 EST |
+| — | `11abff0` | fix(ci): clear four release-train blockers on master | 2026-11-14 09:38:31 EST |

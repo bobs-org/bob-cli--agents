@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`9574e61`](https://github.com/bobs-org/bob-cli/commit/9574e6185026b56744f75f60b1ec9e6e6c2a9b22) | fix(gmail): keep the archive epoch in dry-run once the receipt label id resolves | 2026-11-14 12:23:55 EST |
+| — | `9574e61` | fix(gmail): keep the archive epoch in dry-run once the receipt label id resolves | 2026-11-14 12:23:55 EST |
