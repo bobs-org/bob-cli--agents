@@ -1,0 +1,35 @@
+# Agent: bob-cli-mb.2--1
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-mb](../../users/bbugyi200/machines/athena/hoods/bob-cli-mb/README.md) / [bob-cli-mb.2](../../sessions/bbugyi200.athena.bob-cli-mb.2.md) / bob-cli-mb.2--1
+
+**Global name:** `bbugyi200.athena.bob-cli-mb.2--1` · **State:** completed · **Source run:** `run-8acb3aaa64889aeb8422a77f13c7cc5f`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-mb
+
+## Summary
+
+- Bead: [bob-cli-mb.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-mb/bob-cli-mb.2.md)
+- Model: gpt-6-luna
+- Provider: codex
+- Timing: 2026-11-16T16:30:02.879878+00:00 → 2026-11-16T16:37:31.953493+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`b73cf56`](https://github.com/bobs-org/bob-cli/commit/b73cf56f5fec9b4de6e95c9e326c6f6970e1d8f6) | feat(capture): prioritize living vault link suggestions | 2026-11-16 11:37:03 EST |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-mb.1](../bbugyi200.athena.bob-cli-mb.1/README.md) | bob-cli-mb hood | completed |
+| [bob-cli-mb.3](../../sessions/bbugyi200.athena.bob-cli-mb.3.md) (session · 5) | bob-cli-mb hood | active 1, completed 4 |
+| [bob-cli-mb.4](../bbugyi200.athena.bob-cli-mb.4/README.md) | bob-cli-mb hood | active |
+| [bob-cli-mb.5](../bbugyi200.athena.bob-cli-mb.5/README.md) | bob-cli-mb hood | completed |
+| [bob-cli-mb.land](../bbugyi200.athena.bob-cli-mb.land/README.md) | bob-cli-mb hood | active |
