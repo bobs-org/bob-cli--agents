@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.63.image
 
-**Global name:** `bbugyi200.athena.research.63.image` · **State:** waiting · **Source run:** `run-54ae76bb04af40f80ad653cdd6f7a2bf`
+**Global name:** `bbugyi200.athena.research.63.image` · **State:** completed · **Source run:** `run-54ae76bb04af40f80ad653cdd6f7a2bf`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261116161312
+- Timing: 2026-11-16T21:51:48.573972+00:00 → 2026-11-16T22:03:49.309071+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/task\_video\_capture\_z\_viewer/task\_video\_capture\_z\_viewer\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261116161312/task\_vid… |
+| `diagrams` | {considered: 20, count: 2, manifest: 202611/task\_video\_capture\_z\_viewer/task\_video\_capture\_z\_viewer.diagrams.md, source\_ref: file:explicit:fae4509c7e0c8863e10f3616, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/task_video_capture_z_viewer/task_video_capture_z_viewer_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116161312/task_video_capture_z_viewer_infographic-73e0c4242fdc.png
+  ref: file:explicit:b426961794918ebc06285892
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/task_video_capture_z_viewer/task_video_capture_z_viewer_infographic.png
+- kind: markdown
+  label: diagrams:202611/task_video_capture_z_viewer/task_video_capture_z_viewer.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116161312/task_video_capture_z_viewer.diagrams-54f8446115eb.md
+  ref: file:explicit:8b8d1de562e51fd6909a3c6a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/task_video_capture_z_viewer/task_video_capture_z_viewer.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 20
+count: 2
+manifest: 202611/task_video_capture_z_viewer/task_video_capture_z_viewer.diagrams.md
+source_ref: file:explicit:fae4509c7e0c8863e10f3616
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
