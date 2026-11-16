@@ -22,8 +22,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.51.cdx](../bbugyi200.apollo.research.51.cdx/README.md) | research.51 hood | completed |
-| [research.51.cld](../bbugyi200.apollo.research.51.cld/README.md) | research.51 hood | active |
-| [research.51.gem](../bbugyi200.apollo.research.51.gem/README.md) | research.51 hood | active |
+| [research.51.cld](../bbugyi200.apollo.research.51.cld/README.md) | research.51 hood | completed |
+| [research.51.gem](../bbugyi200.apollo.research.51.gem/README.md) | research.51 hood | completed |
 | [research.51.grk](../bbugyi200.apollo.research.51.grk/README.md) | research.51 hood | active |
 | [research.51.image](../bbugyi200.apollo.research.51.image/README.md) | research.51 hood | waiting |
 | [research.51.linker](../bbugyi200.apollo.research.51.linker/README.md) | research.51 hood | waiting |

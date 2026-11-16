@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.51.cld
 
-**Global name:** `bbugyi200.apollo.research.51.cld` · **State:** active · **Source run:** `run-85d8574d1fc0c1a01c976281ddc57878`
+**Global name:** `bbugyi200.apollo.research.51.cld` · **State:** completed · **Source run:** `run-85d8574d1fc0c1a01c976281ddc57878`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-16T19:00:10.110566+00:00
+- Timing: 2026-11-16T19:00:10.110566+00:00 → 2026-11-16T19:13:28.580185+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/schema\_editor\_reorder\_and\_emoji\_picker\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261116135837/schema\_editor\_reorder\_and\_emoji\_p… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/schema_editor_reorder_and_emoji_picker__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116135837/schema_editor_reorder_and_emoji_picker__cld-07d4333dbb4f.md
+  ref: file:explicit:46db2d6359161e1ea56a368f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202611/schema_editor_reorder_and_emoji_picker__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.51.cdx](../bbugyi200.apollo.research.51.cdx/README.md) | research.51 hood | completed |
 | [research.51.final](../bbugyi200.apollo.research.51.final/README.md) | research.51 hood | waiting |
-| [research.51.gem](../bbugyi200.apollo.research.51.gem/README.md) | research.51 hood | active |
+| [research.51.gem](../bbugyi200.apollo.research.51.gem/README.md) | research.51 hood | completed |
 | [research.51.grk](../bbugyi200.apollo.research.51.grk/README.md) | research.51 hood | active |
 | [research.51.image](../bbugyi200.apollo.research.51.image/README.md) | research.51 hood | waiting |
 | [research.51.linker](../bbugyi200.apollo.research.51.linker/README.md) | research.51 hood | waiting |
