@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.63.linker
 
-**Global name:** `bbugyi200.athena.research.63.linker` · **State:** waiting · **Source run:** `run-9763a5cd7534025d8de77953671c3816`
+**Global name:** `bbugyi200.athena.research.63.linker` · **State:** completed · **Source run:** `run-9763a5cd7534025d8de77953671c3816`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,17 +10,37 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261116161313
+- Timing: 2026-11-16T22:04:44.830169+00:00 → 2026-11-16T22:13:08.383433+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/task\_video\_capture\_z\_viewer/task\_video\_capture\_z\_viewer.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261116161313/task\_video\_capture\_z\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/task_video_capture_z_viewer/task_video_capture_z_viewer.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116161313/task_video_capture_z_viewer-a57470708553.md
+  ref: file:explicit:8c41a4511100743145bfa1bd
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/task_video_capture_z_viewer/task_video_capture_z_viewer.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.63.linker.w0](../bbugyi200.athena.research.63.linker.w0/README.md) | descendant | waiting |
 | [research.63.cdx](../bbugyi200.athena.research.63.cdx/README.md) | research.63 hood | completed |
 | [research.63.cld](../bbugyi200.athena.research.63.cld/README.md) | research.63 hood | completed |
 | [research.63.final](../bbugyi200.athena.research.63.final/README.md) | research.63 hood | completed |
