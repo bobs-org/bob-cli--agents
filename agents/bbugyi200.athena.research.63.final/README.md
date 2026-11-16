@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [research](../../users/bbugyi200/machines/athena/hoods/research/README.md) / research.63.final
 
-**Global name:** `bbugyi200.athena.research.63.final` · **State:** waiting · **Source run:** `run-3193d435f2d7684009c8e8c044121234`
+**Global name:** `bbugyi200.athena.research.63.final` · **State:** completed · **Source run:** `run-3193d435f2d7684009c8e8c044121234`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261116161311
+- Timing: 2026-11-16T21:33:34.135118+00:00 → 2026-11-16T21:49:21.245525+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/task\_video\_capture\_z\_viewer/task\_video\_capture\_z\_viewer\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261116161311/task\_video\_cap… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/task_video_capture_z_viewer/task_video_capture_z_viewer__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116161311/task_video_capture_z_viewer__final-40913b77956d.md
+  ref: file:explicit:fae4509c7e0c8863e10f3616
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/task_video_capture_z_viewer/task_video_capture_z_viewer__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
