@@ -33,13 +33,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`c59b5b8`](https://github.com/bobs-org/bob-cli/commit/c59b5b805f67d4011b6d7f41cb3d6b187ce925e9) | feat(bank): add subscription registry and matching | 2026-11-15 14:38:05 EST |
+| 2 | — | `c59b5b8` | feat(bank): add subscription registry and matching | 2026-11-15 14:38:05 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ls.2](bbugyi200.athena.bob-cli-ls.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-ls.2](bbugyi200.athena.bob-cli-ls.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-ls.2.1.2](bbugyi200.athena.bob-cli-ls.2.1.2.md) (session · 5) | bob-cli-ls.2.1 hood | completed 4, failed 1 |
 | [bob-cli-ls.2.1.3](../agents/bbugyi200.athena.bob-cli-ls.2.1.3/README.md) | bob-cli-ls.2.1 hood | completed |
 | [bob-cli-ls.2.1.land](bbugyi200.athena.bob-cli-ls.2.1.land.md) (session · 3) | bob-cli-ls.2.1 hood | completed 3 |
@@ -53,4 +53,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ls.7](../agents/bbugyi200.athena.bob-cli-ls.7/README.md) | bob-cli-ls hood | completed |
 | [bob-cli-ls.8](bbugyi200.athena.bob-cli-ls.8.md) (session · 5) | bob-cli-ls hood | completed 4, failed 1 |
 | [bob-cli-ls.9](../agents/bbugyi200.athena.bob-cli-ls.9/README.md) | bob-cli-ls hood | completed |
-| [bob-cli-ls.land](bbugyi200.athena.bob-cli-ls.land.md) (session · 7) | bob-cli-ls hood | active 1, completed 4, failed 2 |
+| [bob-cli-ls.land](bbugyi200.athena.bob-cli-ls.land.md) (session · 7) | bob-cli-ls hood | completed 4, dismissed 1, failed 2 |

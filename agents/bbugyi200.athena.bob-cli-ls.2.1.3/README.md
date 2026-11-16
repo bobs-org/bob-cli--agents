@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`055f9b6`](https://github.com/bobs-org/bob-cli/commit/055f9b6e0558c8458ac37a20d0533f22ac4d5d77) | feat(bank): integrate subscription core into rows, suggestions, and docs | 2026-11-15 16:51:38 EST |
+| — | `055f9b6` | feat(bank): integrate subscription core into rows, suggestions, and docs | 2026-11-15 16:51:38 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ls.2](../../sessions/bbugyi200.athena.bob-cli-ls.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-ls.2](../../sessions/bbugyi200.athena.bob-cli-ls.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-ls.2.1.1](../../sessions/bbugyi200.athena.bob-cli-ls.2.1.1.md) (session · 5) | bob-cli-ls.2.1 hood | completed 4, failed 1 |
 | [bob-cli-ls.2.1.2](../../sessions/bbugyi200.athena.bob-cli-ls.2.1.2.md) (session · 5) | bob-cli-ls.2.1 hood | completed 4, failed 1 |
 | [bob-cli-ls.2.1.land](../../sessions/bbugyi200.athena.bob-cli-ls.2.1.land.md) (session · 3) | bob-cli-ls.2.1 hood | completed 3 |
@@ -43,4 +43,4 @@
 | [bob-cli-ls.7](../bbugyi200.athena.bob-cli-ls.7/README.md) | bob-cli-ls hood | completed |
 | [bob-cli-ls.8](../../sessions/bbugyi200.athena.bob-cli-ls.8.md) (session · 5) | bob-cli-ls hood | completed 4, failed 1 |
 | [bob-cli-ls.9](../bbugyi200.athena.bob-cli-ls.9/README.md) | bob-cli-ls hood | completed |
-| [bob-cli-ls.land](../../sessions/bbugyi200.athena.bob-cli-ls.land.md) (session · 7) | bob-cli-ls hood | active 1, completed 4, failed 2 |
+| [bob-cli-ls.land](../../sessions/bbugyi200.athena.bob-cli-ls.land.md) (session · 7) | bob-cli-ls hood | completed 4, dismissed 1, failed 2 |

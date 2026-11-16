@@ -22,13 +22,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`96b35f4`](https://github.com/bobs-org/bob-cli/commit/96b35f41c4d20cecc065e85e2fe5ac1d8d191c2c) | feat(bank): add subscription attribution and ledger | 2026-11-15 16:08:32 EST |
+| — | `96b35f4` | feat(bank): add subscription attribution and ledger | 2026-11-15 16:08:32 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ls.2](../../sessions/bbugyi200.athena.bob-cli-ls.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-ls.2](../../sessions/bbugyi200.athena.bob-cli-ls.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-ls.2.1.1](../../sessions/bbugyi200.athena.bob-cli-ls.2.1.1.md) (session · 5) | bob-cli-ls.2.1 hood | completed 4, failed 1 |
 | [bob-cli-ls.2.1.3](../bbugyi200.athena.bob-cli-ls.2.1.3/README.md) | bob-cli-ls.2.1 hood | completed |
 | [bob-cli-ls.2.1.land](../../sessions/bbugyi200.athena.bob-cli-ls.2.1.land.md) (session · 3) | bob-cli-ls.2.1 hood | completed 3 |
@@ -42,4 +42,4 @@
 | [bob-cli-ls.7](../bbugyi200.athena.bob-cli-ls.7/README.md) | bob-cli-ls hood | completed |
 | [bob-cli-ls.8](../../sessions/bbugyi200.athena.bob-cli-ls.8.md) (session · 5) | bob-cli-ls hood | completed 4, failed 1 |
 | [bob-cli-ls.9](../bbugyi200.athena.bob-cli-ls.9/README.md) | bob-cli-ls hood | completed |
-| [bob-cli-ls.land](../../sessions/bbugyi200.athena.bob-cli-ls.land.md) (session · 7) | bob-cli-ls hood | active 1, completed 4, failed 2 |
+| [bob-cli-ls.land](../../sessions/bbugyi200.athena.bob-cli-ls.land.md) (session · 7) | bob-cli-ls hood | completed 4, dismissed 1, failed 2 |

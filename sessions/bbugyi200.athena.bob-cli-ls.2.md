@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-ls` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-ls.2--mon [completed]"]
-  n1["bob-cli-ls.2--plan [active]"]
+  n1["bob-cli-ls.2--plan [dismissed]"]
   n0 --> n1
   n2["bob-cli-ls.2--gate [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-ls.2--mon | completed | gpt-6-astra / codex | 2026-11-15T18:23:35.310567+00:00 → 2026-11-15T18:27:52.693816+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ls.2--mon/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ls.2--plan | active | gpt-6-astra / codex | 2026-11-15T18:14:10.596535+00:00 → 2026-11-15T18:23:49.154038+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ls.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ls.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ls.2--plan | dismissed | gpt-6-astra / codex | 2026-11-15T13:14:10.596535 → 2026-11-15T13:23:49.483573 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-ls.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-ls.2--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ls.2--gate | completed | gpt-6-astra / codex | 2026-11-15T18:23:12.180027+00:00 → 2026-11-15T18:23:38.966316+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-ls.2--gate/chat.md) |
 
 ## Neighbors
@@ -41,4 +41,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ls.7](../agents/bbugyi200.athena.bob-cli-ls.7/README.md) | bob-cli-ls hood | completed |
 | [bob-cli-ls.8](bbugyi200.athena.bob-cli-ls.8.md) (session · 5) | bob-cli-ls hood | completed 4, failed 1 |
 | [bob-cli-ls.9](../agents/bbugyi200.athena.bob-cli-ls.9/README.md) | bob-cli-ls hood | completed |
-| [bob-cli-ls.land](bbugyi200.athena.bob-cli-ls.land.md) (session · 7) | bob-cli-ls hood | active 1, completed 4, failed 2 |
+| [bob-cli-ls.land](bbugyi200.athena.bob-cli-ls.land.md) (session · 7) | bob-cli-ls hood | completed 4, dismissed 1, failed 2 |

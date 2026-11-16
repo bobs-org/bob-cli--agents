@@ -27,23 +27,23 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`f9b6159`](https://github.com/bobs-org/bob-cli/commit/f9b6159334dff607c681f90382693a0fa36c723a) | feat(capture): list new project notes in the parent Projects catalog at birth | 2026-11-13 16:13:44 EST |
+| 1 | — | `f9b6159` | feat(capture): list new project notes in the parent Projects catalog at birth | 2026-11-13 16:13:44 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-ld.1](../agents/bbugyi200.athena.bob-cli-ld.1/README.md) | bob-cli-ld hood | completed |
-| [bob-cli-ld.10](../agents/bbugyi200.athena.bob-cli-ld.10/README.md) | bob-cli-ld hood | waiting |
+| [bob-cli-ld.10](../agents/bbugyi200.athena.bob-cli-ld.10/README.md) | bob-cli-ld hood | dismissed |
 | [bob-cli-ld.2](../agents/bbugyi200.athena.bob-cli-ld.2/README.md) | bob-cli-ld hood | completed |
 | [bob-cli-ld.3](../agents/bbugyi200.athena.bob-cli-ld.3/README.md) | bob-cli-ld hood | completed |
 | [bob-cli-ld.4](../agents/bbugyi200.athena.bob-cli-ld.4/README.md) | bob-cli-ld hood | completed |
 | [bob-cli-ld.5](../agents/bbugyi200.athena.bob-cli-ld.5/README.md) | bob-cli-ld hood | completed |
 | [bob-cli-ld.6](bbugyi200.athena.bob-cli-ld.6.md) (session · 3) | bob-cli-ld hood | completed 2, failed 1 |
 | [bob-cli-ld.7](bbugyi200.athena.bob-cli-ld.7.md) (session · 5) | bob-cli-ld hood | completed 4, failed 1 |
-| [bob-cli-ld.9](bbugyi200.athena.bob-cli-ld.9.md) (session · 3) | bob-cli-ld hood | active 1, completed 2 |
+| [bob-cli-ld.9](bbugyi200.athena.bob-cli-ld.9.md) (session · 3) | bob-cli-ld hood | completed 2, dismissed 1 |
 | [bob-cli-ld.9.1.1](../agents/bbugyi200.athena.bob-cli-ld.9.1.1/README.md) | bob-cli-ld hood | completed |
 | [bob-cli-ld.9.1.2](../agents/bbugyi200.athena.bob-cli-ld.9.1.2/README.md) | bob-cli-ld hood | completed |
 | [bob-cli-ld.9.1.3](bbugyi200.athena.bob-cli-ld.9.1.3.md) (session · 13) | bob-cli-ld hood | completed 7, failed 6 |
-| [bob-cli-ld.9.1.land](../agents/bbugyi200.athena.bob-cli-ld.9.1.land/README.md) | bob-cli-ld hood | waiting |
-| [bob-cli-ld.land](../agents/bbugyi200.athena.bob-cli-ld.land/README.md) | bob-cli-ld hood | waiting |
+| [bob-cli-ld.9.1.land](../agents/bbugyi200.athena.bob-cli-ld.9.1.land/README.md) | bob-cli-ld hood | dismissed |
+| [bob-cli-ld.land](../agents/bbugyi200.athena.bob-cli-ld.land/README.md) | bob-cli-ld hood | dismissed |
