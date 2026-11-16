@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-mb` · Members: 5 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-mb.3--2 [active]"]
+  n0["bob-cli-mb.3--2 [completed]"]
   n1["bob-cli-mb.3--mon [completed]"]
   n0 --> n1
   n2["bob-cli-mb.3--mon-0 [completed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | bob-cli-mb.3--2 | active | muse-spark-1.3-contributor / muse | 20261116113855 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mb.3--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-mb.3--2 | completed | muse-spark-1.3-contributor / muse | 2026-11-16T16:40:36.066986+00:00 → 2026-11-16T16:42:13.223381+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mb.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mb.3--2/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-mb.3--mon | completed | muse-spark-1.3-contributor / muse | 2026-11-16T15:39:56.418238+00:00 → 2026-11-16T16:11:14.660901+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mb.3--mon/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-mb.3--mon-0 | completed | muse-spark-1.3-contributor / muse | 2026-11-16T16:14:06.399601+00:00 → 2026-11-16T16:39:55.791668+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mb.3--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-mb.3--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-16T15:16:59.966221+00:00 → 2026-11-16T15:43:37.293890+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mb.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mb.3--plan/chat.md) |
@@ -35,6 +35,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-mb.1](../agents/bbugyi200.athena.bob-cli-mb.1/README.md) | bob-cli-mb hood | completed |
 | [bob-cli-mb.2](bbugyi200.athena.bob-cli-mb.2.md) (session · 3) | bob-cli-mb hood | completed 3 |
-| [bob-cli-mb.4](../agents/bbugyi200.athena.bob-cli-mb.4/README.md) | bob-cli-mb hood | active |
+| [bob-cli-mb.4](bbugyi200.athena.bob-cli-mb.4.md) (session · 2) | bob-cli-mb hood | active 1, completed 1 |
 | [bob-cli-mb.5](../agents/bbugyi200.athena.bob-cli-mb.5/README.md) | bob-cli-mb hood | completed |
 | [bob-cli-mb.land](../agents/bbugyi200.athena.bob-cli-mb.land/README.md) | bob-cli-mb hood | active |
