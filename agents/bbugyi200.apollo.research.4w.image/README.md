@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.4w.image
 
-**Global name:** `bbugyi200.apollo.research.4w.image` · **State:** waiting · **Source run:** `run-15d235a9724cfa49f4ec3ee27a406094`
+**Global name:** `bbugyi200.apollo.research.4w.image` · **State:** completed · **Source run:** `run-15d235a9724cfa49f4ec3ee27a406094`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261115201010
+- Timing: 2026-11-16T01:52:13.103810+00:00 → 2026-11-16T02:03:06.475290+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/sase\_blog\_zettel\_section\_schema/sase\_blog\_zettel\_section\_schema\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261115201010/… |
+| `diagrams` | {considered: 14, count: 2, manifest: 202611/sase\_blog\_zettel\_section\_schema/sase\_blog\_zettel\_section\_schema.diagrams.md, source\_ref: file:explicit:fb11252979ea7ef2de04d4d8, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/sase_blog_zettel_section_schema/sase_blog_zettel_section_schema_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115201010/sase_blog_zettel_section_schema_infographic-cb398aff45d3.png
+  ref: file:explicit:d976f24fc42a9364da7bae6e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/sase_blog_zettel_section_schema/sase_blog_zettel_section_schema_infographic.png
+- kind: markdown
+  label: diagrams:202611/sase_blog_zettel_section_schema/sase_blog_zettel_section_schema.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261115201010/sase_blog_zettel_section_schema.diagrams-f6e51614a116.md
+  ref: file:explicit:74bb01a633a1c092e1badf61
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/sase_blog_zettel_section_schema/sase_blog_zettel_section_schema.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 2
+manifest: 202611/sase_blog_zettel_section_schema/sase_blog_zettel_section_schema.diagrams.md
+source_ref: file:explicit:fb11252979ea7ef2de04d4d8
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
