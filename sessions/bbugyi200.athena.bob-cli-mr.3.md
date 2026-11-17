@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-mr.3.1.1](../agents/bbugyi200.athena.bob-cli-mr.3.1.1/README.md) | descendant | completed |
-| [bob-cli-mr.3.1.2](../agents/bbugyi200.athena.bob-cli-mr.3.1.2/README.md) | descendant | active |
+| [bob-cli-mr.3.1.2](bbugyi200.athena.bob-cli-mr.3.1.2.md) (session · 5) | descendant | completed 4, failed 1 |
 | [bob-cli-mr.3.1.3](../agents/bbugyi200.athena.bob-cli-mr.3.1.3/README.md) | descendant | waiting |
 | [bob-cli-mr.3.1.land](../agents/bbugyi200.athena.bob-cli-mr.3.1.land/README.md) | descendant | waiting |
 | [bob-cli-mr.1](../agents/bbugyi200.athena.bob-cli-mr.1/README.md) | bob-cli-mr hood | completed |
