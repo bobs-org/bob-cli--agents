@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-mr](../../users/bbugyi200/machines/athena/hoods/bob-cli-mr/README.md) / [bob-cli-mr.3.1.land](../../sessions/bbugyi200.athena.bob-cli-mr.3.1.land.md) / bob-cli-mr.3.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-mr.3.1.land--code` · **State:** active · **Source run:** `run-377d6e3a83beafa4b43ca4cc288a06c6`
+**Global name:** `bbugyi200.athena.bob-cli-mr.3.1.land--code` · **State:** completed · **Source run:** `run-377d6e3a83beafa4b43ca4cc288a06c6`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-mr
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-mr.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-mr/bob-cli-mr.3.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-17T21:10:13.945366+00:00
-- Commits: 0
+- Timing: 2026-11-17T21:10:13.945366+00:00 → 2026-11-17T22:25:10.360651+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`0e83df4`](https://github.com/bobs-org/bob-cli/commit/0e83df4cd5797841998afffe227b14052c01f2d7) | feat(scan): finish highlights scan lock-window landing repairs | 2026-11-17 17:23:08 EST |
 
 ## Neighbors
 

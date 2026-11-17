@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-mr` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-mr.3.1.land--code [active]"]
+  n0["bob-cli-mr.3.1.land--code [completed]"]
   n1["bob-cli-mr.3.1.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-mr.3.1.land--plan [active]"]
+  n2["bob-cli-mr.3.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-mr.3.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-17T21:10:13.945366+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-mr.3.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-17T21:10:13.945366+00:00 → 2026-11-17T22:25:10.360651+00:00 | [1](../agents/bbugyi200.athena.bob-cli-mr.3.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-mr.3.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-mr.3.1.land--gate | completed | gpt-6-astra / codex | 2026-11-17T21:09:23.825293+00:00 → 2026-11-17T21:09:33.118152+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mr.3.1.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-mr.3.1.land--plan | active | gpt-6-astra / codex | 2026-11-17T20:57:15.701653+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mr.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mr.3.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-mr.3.1.land--plan | completed | gpt-6-astra / codex | 2026-11-17T20:57:15.701653+00:00 → 2026-11-17T22:25:10.360651+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mr.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mr.3.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`0e83df4`](https://github.com/bobs-org/bob-cli/commit/0e83df4cd5797841998afffe227b14052c01f2d7) | feat(scan): finish highlights scan lock-window landing repairs | 2026-11-17 17:23:08 EST |
 
 ## Variables
 
