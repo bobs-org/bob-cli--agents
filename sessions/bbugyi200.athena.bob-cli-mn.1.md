@@ -33,5 +33,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-mn.2](bbugyi200.athena.bob-cli-mn.2.md) (session · 2) | bob-cli-mn hood | active 1, completed 1 |
+| [bob-cli-mn.2](bbugyi200.athena.bob-cli-mn.2.md) (session · 5) | bob-cli-mn hood | active 1, completed 2, failed 2 |
 | [bob-cli-mn.land](../agents/bbugyi200.athena.bob-cli-mn.land/README.md) | bob-cli-mn hood | waiting |
