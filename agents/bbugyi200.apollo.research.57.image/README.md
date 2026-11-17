@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.57.image
 
-**Global name:** `bbugyi200.apollo.research.57.image` · **State:** waiting · **Source run:** `run-07f035cab41b76a6a56b2c7b76fa80ce`
+**Global name:** `bbugyi200.apollo.research.57.image` · **State:** completed · **Source run:** `run-07f035cab41b76a6a56b2c7b76fa80ce`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261117142802
+- Timing: 2026-11-17T19:57:38.572487+00:00 → 2026-11-17T20:07:03.190809+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/schema\_card\_field\_jump\_design/schema\_card\_field\_jump\_design\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261117142802/sche… |
+| `diagrams` | {considered: 14, count: 2, manifest: 202611/schema\_card\_field\_jump\_design/schema\_card\_field\_jump\_design.diagrams.md, source\_ref: file:explicit:2b6e04cca5ca48d74a755b48, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/schema_card_field_jump_design/schema_card_field_jump_design_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261117142802/schema_card_field_jump_design_infographic-9aa13dd26248.png
+  ref: file:explicit:829f7e1cbec665a5024d36ec
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/schema_card_field_jump_design/schema_card_field_jump_design_infographic.png
+- kind: markdown
+  label: diagrams:202611/schema_card_field_jump_design/schema_card_field_jump_design.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261117142802/schema_card_field_jump_design.diagrams-104e6c8f8a63.md
+  ref: file:explicit:fec70030a1c86037dc32b3ab
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/schema_card_field_jump_design/schema_card_field_jump_design.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 2
+manifest: 202611/schema_card_field_jump_design/schema_card_field_jump_design.diagrams.md
+source_ref: file:explicit:2b6e04cca5ca48d74a755b48
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +62,7 @@
 | [research.57.gem](../bbugyi200.apollo.research.57.gem/README.md) | research.57 hood | completed |
 | [research.57.grk](../bbugyi200.apollo.research.57.grk/README.md) | research.57 hood | completed |
 | [research.57.linker](../bbugyi200.apollo.research.57.linker/README.md) | research.57 hood | waiting |
+| [research.57.linker.w0](../bbugyi200.apollo.research.57.linker.w0/README.md) | research.57 hood | waiting |
 | [research.57.mus](../bbugyi200.apollo.research.57.mus/README.md) | research.57 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
