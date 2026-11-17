@@ -50,4 +50,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-mf.7](../bbugyi200.apollo.bob-cli-mf.7/README.md) | bob-cli-mf hood | completed |
 | [bob-cli-mf.8](../bbugyi200.apollo.bob-cli-mf.8/README.md) | bob-cli-mf hood | completed |
 | [bob-cli-mf.9](../bbugyi200.apollo.bob-cli-mf.9/README.md) | bob-cli-mf hood | completed |
-| [bob-cli-mf.land](../bbugyi200.apollo.bob-cli-mf.land/README.md) | bob-cli-mf hood | waiting |
+| [bob-cli-mf.land](../bbugyi200.apollo.bob-cli-mf.land/README.md) | bob-cli-mf hood | completed |
