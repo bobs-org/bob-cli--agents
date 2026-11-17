@@ -27,4 +27,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [1da.f0](../agents/bbugyi200.athena.1da.f0/README.md) | descendant | active |
+| [1da.f0](bbugyi200.athena.1da.f0.md) (session · 3) | descendant | completed 3 |
