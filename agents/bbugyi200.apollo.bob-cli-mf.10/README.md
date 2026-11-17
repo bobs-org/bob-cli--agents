@@ -2,22 +2,40 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-mf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-mf/README.md) / bob-cli-mf.10
 
-**Global name:** `bbugyi200.apollo.bob-cli-mf.10` · **State:** waiting · **Source run:** `run-44a92213bf71ca0cd508785d6580dfe4`
+**Global name:** `bbugyi200.apollo.bob-cli-mf.10` · **State:** completed · **Source run:** `run-0c6dd5269696b24fde98207be5261979`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-mf
 
 ## Summary
 
 - Bead: [bob-cli-mf.10](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-mf/bob-cli-mf.10.md)
-- Epic: [bob-cli-mf](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-mf/README.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261116153941
+- Timing: 2026-11-17T08:57:29.526740+00:00 → 2026-11-17T09:27:08.445355+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-mf.10, kind: file, label: Schema arrangement acceptance: reports, screenshots, and base comparison, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261117035651/bob-cl… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-mf.10
+  kind: file
+  label: Schema arrangement acceptance: reports, screenshots, and base comparison
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261117035651/bob-cli-mf.10-acceptance.tar-b59df56f1497.gz
+  ref: file:explicit:320a6276021490979e5d934b
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
