@@ -38,4 +38,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-mj.3](../agents/bbugyi200.athena.bob-cli-mj.3/README.md) | bob-cli-mj hood | completed |
 | [bob-cli-mj.4](../agents/bbugyi200.athena.bob-cli-mj.4/README.md) | bob-cli-mj hood | completed |
 | [bob-cli-mj.6](../agents/bbugyi200.athena.bob-cli-mj.6/README.md) | bob-cli-mj hood | completed |
-| [bob-cli-mj.land](../agents/bbugyi200.athena.bob-cli-mj.land/README.md) | bob-cli-mj hood | waiting |
+| [bob-cli-mj.land](../agents/bbugyi200.athena.bob-cli-mj.land/README.md) | bob-cli-mj hood | completed |

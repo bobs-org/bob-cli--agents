@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-mj
 
-**Global hood:** `bbugyi200.athena.bob-cli-mj` · **Runs:** 11 · **Sessions:** 1 · **States:** completed 10, waiting 1
+**Global hood:** `bbugyi200.athena.bob-cli-mj` · **Runs:** 11 · **Sessions:** 1 · **States:** completed 11
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-mj.3](../../../../../../agents/bbugyi200.athena.bob-cli-mj.3/README.md) | completed | gpt-6-luna / codex | 2026-11-16T23:34:20.207477+00:00 → 2026-11-17T00:41:18.043199+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mj.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mj.3/chat.md) |
-| [bob-cli-mj.land](../../../../../../agents/bbugyi200.athena.bob-cli-mj.land/README.md) | waiting | opus / claude | 20261116173240 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mj.land/prompt.md) |
+| [bob-cli-mj.land](../../../../../../agents/bbugyi200.athena.bob-cli-mj.land/README.md) | completed | opus / claude | 2026-11-17T01:47:20.099017+00:00 → 2026-11-17T02:03:18.325139+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mj.land/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mj.land/chat.md) |
 | [bob-cli-mj.5--mon-0](../../../../../../sessions/bbugyi200.athena.bob-cli-mj.5.md#member-mon-0) | completed | grok-4.6 / grok | 2026-11-17T00:58:05.105707+00:00 → 2026-11-17T01:25:39.569668+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mj.5--mon-0/chat.md) |
 | [bob-cli-mj.5--1](../../../../../../sessions/bbugyi200.athena.bob-cli-mj.5.md#member-1) | completed | grok-4.6 / grok | 2026-11-17T00:54:45.650215+00:00 → 2026-11-17T00:59:55.965774+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mj.5--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mj.5--1/chat.md) |
 | [bob-cli-mj.5--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-mj.5.md#member-mon) | completed | grok-4.6 / grok | 2026-11-17T00:28:11.362453+00:00 → 2026-11-17T00:54:02.525818+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mj.5--mon/chat.md) |
