@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1794935073,"sha":"b0bddbb98247331181bd0c9f6aa3ed07e6f6541e","subject":"fix(capture): never promote closed or archived prerequisites"}],"schema_version":2,"source_run_id":"run-235bdb7ac5242630af90d6ff32fc99ad"}
