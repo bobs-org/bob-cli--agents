@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.59.final
 
-**Global name:** `bbugyi200.apollo.research.59.final` · **State:** waiting · **Source run:** `run-d5eb50e86cd2943b3c8ccf815e018152`
+**Global name:** `bbugyi200.apollo.research.59.final` · **State:** completed · **Source run:** `run-d5eb50e86cd2943b3c8ccf815e018152`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,8 +10,27 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261117153805
+- Timing: 2026-11-17T20:54:54.628329+00:00 → 2026-11-17T21:10:16.695904+00:00
 - Commits: 0
+- Variables: [1](#variables)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/daily\_aim\_design/daily\_aim\_design\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261117153805/daily\_aim\_design\_\_final-a17013f138d7… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/daily_aim_design/daily_aim_design__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261117153805/daily_aim_design__final-a17013f138d7.md
+  ref: file:explicit:013e3eaa17b825b740dac5ca
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/daily_aim_design/daily_aim_design__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
