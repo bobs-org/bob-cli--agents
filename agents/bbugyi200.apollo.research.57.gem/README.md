@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-11-17T19:32:33.973399+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/schema\_card\_field\_jump\_keymaps\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261117142800/schema\_card\_field\_jump\_keymaps\_\_gem-d0458… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/schema_card_field_jump_keymaps__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261117142800/schema_card_field_jump_keymaps__gem-d04580570847.md
+  ref: file:explicit:f71cee9e720192ad6630491e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_19/sase/repos/research/202611/schema_card_field_jump_keymaps__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.57.cdx](../bbugyi200.apollo.research.57.cdx/README.md) | research.57 hood | completed |
 | [research.57.cld](../bbugyi200.apollo.research.57.cld/README.md) | research.57 hood | active |
 | [research.57.final](../bbugyi200.apollo.research.57.final/README.md) | research.57 hood | waiting |
-| [research.57.grk](../bbugyi200.apollo.research.57.grk/README.md) | research.57 hood | active |
+| [research.57.grk](../bbugyi200.apollo.research.57.grk/README.md) | research.57 hood | completed |
 | [research.57.image](../bbugyi200.apollo.research.57.image/README.md) | research.57 hood | waiting |
 | [research.57.linker](../bbugyi200.apollo.research.57.linker/README.md) | research.57 hood | waiting |
 | [research.57.mus](../bbugyi200.apollo.research.57.mus/README.md) | research.57 hood | completed |

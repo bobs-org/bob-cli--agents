@@ -12,10 +12,34 @@
 - Provider: claude
 - Timing: 2026-11-17T19:30:58.368001+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/schema\_card\_field\_jump\_keys\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261117142757/schema\_card\_field\_jump\_keys\_\_cld-7be4fcc3ac6… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/schema_card_field_jump_keys__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261117142757/schema_card_field_jump_keys__cld-7be4fcc3ac6d.md
+  ref: file:explicit:6d95269ddbc9efbeeb43676a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/schema_card_field_jump_keys__cld.md
+- kind: image
+  label: research:202611/schema_card_field_jump_keys__cld_mock.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261117142757/schema_card_field_jump_keys__cld_mock-4e99021af3aa.png
+  ref: file:explicit:4a55a7821a997543e75a8b81
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/schema_card_field_jump_keys__cld_mock.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +48,7 @@
 | [research.57.cdx](../bbugyi200.apollo.research.57.cdx/README.md) | research.57 hood | completed |
 | [research.57.final](../bbugyi200.apollo.research.57.final/README.md) | research.57 hood | waiting |
 | [research.57.gem](../bbugyi200.apollo.research.57.gem/README.md) | research.57 hood | active |
-| [research.57.grk](../bbugyi200.apollo.research.57.grk/README.md) | research.57 hood | active |
+| [research.57.grk](../bbugyi200.apollo.research.57.grk/README.md) | research.57 hood | completed |
 | [research.57.image](../bbugyi200.apollo.research.57.image/README.md) | research.57 hood | waiting |
 | [research.57.linker](../bbugyi200.apollo.research.57.linker/README.md) | research.57 hood | waiting |
 | [research.57.mus](../bbugyi200.apollo.research.57.mus/README.md) | research.57 hood | completed |
