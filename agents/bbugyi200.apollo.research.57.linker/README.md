@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.57.linker
 
-**Global name:** `bbugyi200.apollo.research.57.linker` · **State:** waiting · **Source run:** `run-fb721032c7440980293c51e575498058`
+**Global name:** `bbugyi200.apollo.research.57.linker` · **State:** completed · **Source run:** `run-fb721032c7440980293c51e575498058`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261117142803
+- Timing: 2026-11-17T20:07:21.009839+00:00 → 2026-11-17T20:13:48.899474+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/schema\_card\_field\_jump\_design/schema\_card\_field\_jump\_design.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261117142803/schema\_card\_field… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/schema_card_field_jump_design/schema_card_field_jump_design.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261117142803/schema_card_field_jump_design-090e8e95b695.md
+  ref: file:explicit:f1c561fcc2b1b6f679b66bc8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/schema_card_field_jump_design/schema_card_field_jump_design.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
