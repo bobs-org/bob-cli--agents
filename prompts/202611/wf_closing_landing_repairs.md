@@ -92,3 +92,15 @@ first (`sase bead epic-symbols <parent-bead>`), close it normally with
 parented plan ancestors while each remains fully complete. Stop at the first incomplete
 or ambiguous parent, record a note on that parent describing the blocker, and report it
 in your final response.
+
+%macros_enabled:false
+### Questions and Answers
+
+#### Q1: Plugin deployment
+
+> May I overwrite the deployed bob-ledger-tools bundle with the current source and discard any unpublished differences in that bundle? The protected bundle was built on commit 866bb77, which added album arrangement editing and one-envelope save; the current source also includes the approved Bank Period balance readout. The deployment stamp cannot be matched to any reachable commit. Overwriting completes the approved plugin repair; keeping the bundle leaves plugin deployment unfinished.
+
+- [x] **Overwrite bundle** — Replace the protected deployment with the current source and finish the repair.
+- [ ] **Keep installed bundle** — Preserve it and stop before plugin deployment.
+
+%macros_enabled:true
