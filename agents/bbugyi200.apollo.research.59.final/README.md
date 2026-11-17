@@ -18,9 +18,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.59.cdx](../bbugyi200.apollo.research.59.cdx/README.md) | research.59 hood | completed |
-| [research.59.cld](../bbugyi200.apollo.research.59.cld/README.md) | research.59 hood | active |
-| [research.59.gem](../bbugyi200.apollo.research.59.gem/README.md) | research.59 hood | active |
-| [research.59.grk](../bbugyi200.apollo.research.59.grk/README.md) | research.59 hood | active |
+| [research.59.cld](../bbugyi200.apollo.research.59.cld/README.md) | research.59 hood | completed |
+| [research.59.gem](../bbugyi200.apollo.research.59.gem/README.md) | research.59 hood | completed |
+| [research.59.grk](../bbugyi200.apollo.research.59.grk/README.md) | research.59 hood | completed |
 | [research.59.mus](../bbugyi200.apollo.research.59.mus/README.md) | research.59 hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
