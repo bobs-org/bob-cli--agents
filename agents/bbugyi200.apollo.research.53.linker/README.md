@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.53.linker
 
-**Global name:** `bbugyi200.apollo.research.53.linker` · **State:** waiting · **Source run:** `run-9254757748acbc1d9d374a3843a0c915`
+**Global name:** `bbugyi200.apollo.research.53.linker` · **State:** completed · **Source run:** `run-9254757748acbc1d9d374a3843a0c915`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261116211245
+- Timing: 2026-11-17T03:10:07.598604+00:00 → 2026-11-17T03:18:13.113179+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/plugin\_sync\_unblocking/plugin\_sync\_unblocking.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261116211245/plugin\_sync\_unblocking-1dad390f… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/plugin_sync_unblocking/plugin_sync_unblocking.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116211245/plugin_sync_unblocking-1dad390f6fd8.md
+  ref: file:explicit:e253f2e16621f377ad70b2c8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/plugin_sync_unblocking/plugin_sync_unblocking.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
