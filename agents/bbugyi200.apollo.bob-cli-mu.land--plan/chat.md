@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-mu.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_mu_land__plan-261117_153957.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_mu_land__code-261117_153957.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/schema_card_landing_repair.md
 
 

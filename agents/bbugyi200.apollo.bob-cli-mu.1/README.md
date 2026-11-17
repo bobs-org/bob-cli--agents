@@ -25,4 +25,4 @@
 |---|---|---|
 | [bob-cli-mu.2](../bbugyi200.apollo.bob-cli-mu.2/README.md) | bob-cli-mu hood | completed |
 | [bob-cli-mu.3](../bbugyi200.apollo.bob-cli-mu.3/README.md) | bob-cli-mu hood | completed |
-| [bob-cli-mu.land](../../sessions/bbugyi200.apollo.bob-cli-mu.land.md) (session · 3) | bob-cli-mu hood | active 2, completed 1 |
+| [bob-cli-mu.land](../../sessions/bbugyi200.apollo.bob-cli-mu.land.md) (session · 3) | bob-cli-mu hood | completed 3 |
