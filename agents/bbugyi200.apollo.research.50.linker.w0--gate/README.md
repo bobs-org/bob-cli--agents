@@ -13,6 +13,10 @@
 - Timing: 2026-11-16T19:55:47.135733+00:00 → 2026-11-16T20:40:23.893017+00:00
 - Commits: 0
 
+## Files
+
+[Chat](chat.md)
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -75,4 +79,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 969 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 977 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
