@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.55.linker.w0](../bbugyi200.apollo.research.55.linker.w0/README.md) | ancestor | waiting |
+| [research.55.linker.w0](../../sessions/bbugyi200.apollo.research.55.linker.w0.md) (session · 3) | ancestor | completed 3 |
 | [research.55.linker](../bbugyi200.apollo.research.55.linker/README.md) | ancestor | completed |
 | [research.55.linker.w0.w1](../bbugyi200.apollo.research.55.linker.w0.w1/README.md) | research.55.linker.w0 hood | waiting |
 | [research.55.cdx](../bbugyi200.apollo.research.55.cdx/README.md) | research.55 hood | completed |
@@ -81,4 +81,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 986 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 994 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
