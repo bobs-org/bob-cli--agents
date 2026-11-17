@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.53.image
 
-**Global name:** `bbugyi200.apollo.research.53.image` · **State:** waiting · **Source run:** `run-ad6ccfd99390e2c99557543e7f1d652b`
+**Global name:** `bbugyi200.apollo.research.53.image` · **State:** completed · **Source run:** `run-ad6ccfd99390e2c99557543e7f1d652b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261116211244
+- Timing: 2026-11-17T02:58:19.093319+00:00 → 2026-11-17T03:10:00.128657+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/plugin\_sync\_unblocking/plugin\_sync\_unblocking\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261116211244/plugin\_sync\_unblocking\_i… |
+| `diagrams` | {considered: 12, count: 1, manifest: 202611/plugin\_sync\_unblocking/plugin\_sync\_unblocking.diagrams.md, source\_ref: file:explicit:d73508acafbcaf6e8a1dc21a, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/plugin_sync_unblocking/plugin_sync_unblocking_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116211244/plugin_sync_unblocking_infographic-4f416a26f78a.png
+  ref: file:explicit:ec3cf33afa22c9cd65a88127
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/plugin_sync_unblocking/plugin_sync_unblocking_infographic.png
+- kind: markdown
+  label: diagrams:202611/plugin_sync_unblocking/plugin_sync_unblocking.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261116211244/plugin_sync_unblocking.diagrams-86d9da695ef2.md
+  ref: file:explicit:93e650072eb7d63b46432662
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/plugin_sync_unblocking/plugin_sync_unblocking.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 1
+manifest: 202611/plugin_sync_unblocking/plugin_sync_unblocking.diagrams.md
+source_ref: file:explicit:d73508acafbcaf6e8a1dc21a
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
