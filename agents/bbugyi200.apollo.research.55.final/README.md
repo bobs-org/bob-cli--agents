@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.55.final
 
-**Global name:** `bbugyi200.apollo.research.55.final` · **State:** waiting · **Source run:** `run-5b5132deb5c06b74da8f788ecf99602c`
+**Global name:** `bbugyi200.apollo.research.55.final` · **State:** completed · **Source run:** `run-5b5132deb5c06b74da8f788ecf99602c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261117101930
+- Timing: 2026-11-17T15:40:46.158593+00:00 → 2026-11-17T15:55:03.009072+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/record\_card/record\_card\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261117101930/record\_card\_\_final-47a133b759fb.md, ref: file:… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/record_card/record_card__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261117101930/record_card__final-47a133b759fb.md
+  ref: file:explicit:a592f378b44cf974e42091a7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/record_card/record_card__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
