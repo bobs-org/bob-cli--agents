@@ -29,4 +29,4 @@
 | [bob-cli-mr.3.1.2](../../sessions/bbugyi200.athena.bob-cli-mr.3.1.2.md) (session · 5) | bob-cli-mr hood | completed 4, failed 1 |
 | [bob-cli-mr.3.1.3](../../sessions/bbugyi200.athena.bob-cli-mr.3.1.3.md) (session · 3) | bob-cli-mr hood | completed 3 |
 | [bob-cli-mr.3.1.land](../../sessions/bbugyi200.athena.bob-cli-mr.3.1.land.md) (session · 3) | bob-cli-mr hood | completed 3 |
-| [bob-cli-mr.land](../../sessions/bbugyi200.athena.bob-cli-mr.land.md) (session · 3) | bob-cli-mr hood | active 2, completed 1 |
+| [bob-cli-mr.land](../../sessions/bbugyi200.athena.bob-cli-mr.land.md) (session · 6) | bob-cli-mr hood | active 1, completed 4, failed 1 |
