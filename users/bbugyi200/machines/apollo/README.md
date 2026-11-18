@@ -406,7 +406,7 @@
 | [bob-cli-mu](hoods/bob-cli-mu/README.md) | 6 | 1 | completed 6 |
 | [bob-cli-mx](hoods/bob-cli-mx/README.md) | 24 | 4 | completed 18, failed 6 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 1 | 0 | completed 1 |
-| [bob-cli-na](hoods/bob-cli-na/README.md) | 18 | 2 | active 3, completed 10, failed 1, waiting 4 |
+| [bob-cli-na](hoods/bob-cli-na/README.md) | 18 | 2 | active 2, completed 11, failed 1, waiting 4 |
 | [bob-cli-t](hoods/bob-cli-t/README.md) | 2 | 0 | completed 2 |
 | [bob-cli-u](hoods/bob-cli-u/README.md) | 1 | 0 | completed 1 |
 | [bob\_ref\_status](hoods/bob_ref_status/README.md) | 1 | 0 | completed 1 |

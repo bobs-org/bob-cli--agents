@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-na](../../users/bbugyi200/machines/apollo/hoods/bob-cli-na/README.md) / [bob-cli-na.4](../../sessions/bbugyi200.apollo.bob-cli-na.4.md) / bob-cli-na.4--1
 
-**Global name:** `bbugyi200.apollo.bob-cli-na.4--1` · **State:** active · **Source run:** `run-9ad10738ac048bfb8f17c6cb14d8a21e`
+**Global name:** `bbugyi200.apollo.bob-cli-na.4--1` · **State:** completed · **Source run:** `run-9ad10738ac048bfb8f17c6cb14d8a21e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-na
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-na.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-na/bob-cli-na.4.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-18T17:20:33.941491+00:00
-- Commits: 0
+- Timing: 2026-11-18T17:20:33.941491+00:00 → 2026-11-18T17:51:03.388802+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c02d405`](https://github.com/bobs-org/bob-cli/commit/c02d405da9126dadddf623014447e8a309ff7660) | feat(records): stage record walk neighbours atomically | 2026-11-18 12:49:59 EST |
 
 ## Neighbors
 

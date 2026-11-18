@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9ad10738ac048bfb8f17c6cb14d8a21e"}
+{"commits":[{"committed_at":1795024199,"sha":"c02d405da9126dadddf623014447e8a309ff7660","subject":"feat(records): stage record walk neighbours atomically"}],"schema_version":2,"source_run_id":"run-9ad10738ac048bfb8f17c6cb14d8a21e"}
