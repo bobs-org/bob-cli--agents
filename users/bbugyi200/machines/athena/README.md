@@ -632,7 +632,7 @@
 | [bob-cli-mw](hoods/bob-cli-mw/README.md) | 9 | 2 | active 2, completed 7 |
 | [bob-cli-my](hoods/bob-cli-my/README.md) | 9 | 2 | active 2, completed 7 |
 | [bob-cli-n](hoods/bob-cli-n/README.md) | 5 | 1 | completed 1, dismissed 4 |
-| [bob-cli-n5](hoods/bob-cli-n5/README.md) | 10 | 1 | active 1, completed 5, failed 1, waiting 3 |
+| [bob-cli-n5](hoods/bob-cli-n5/README.md) | 10 | 1 | completed 6, failed 1, waiting 3 |
 | [bob-cli-o](hoods/bob-cli-o/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [bob-cli-t](hoods/bob-cli-t/README.md) | 16 | 3 | active 1, completed 1, dismissed 12, failed 2 |
 | [bob-cli-u](hoods/bob-cli-u/README.md) | 6 | 1 | completed 2, dismissed 3, failed 1 |

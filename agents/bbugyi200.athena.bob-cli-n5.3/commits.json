@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ea1580e7ff5594272c060995454dca64"}
+{"commits":[{"committed_at":1794980778,"sha":"612d134278173c650dadfe5f63b14e9690c78b6e","subject":"fix(capture): keep record field punctuation literal during rewrite"}],"schema_version":2,"source_run_id":"run-ea1580e7ff5594272c060995454dca64"}
