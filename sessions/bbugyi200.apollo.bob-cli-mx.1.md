@@ -37,4 +37,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-mx.3](../agents/bbugyi200.apollo.bob-cli-mx.3/README.md) | bob-cli-mx hood | completed |
 | [bob-cli-mx.4](bbugyi200.apollo.bob-cli-mx.4.md) (session · 3) | bob-cli-mx hood | completed 2, failed 1 |
 | [bob-cli-mx.5](bbugyi200.apollo.bob-cli-mx.5.md) (session · 11) | bob-cli-mx hood | completed 8, failed 3 |
-| [bob-cli-mx.land](../agents/bbugyi200.apollo.bob-cli-mx.land/README.md) | bob-cli-mx hood | waiting |
+| [bob-cli-mx.land](../agents/bbugyi200.apollo.bob-cli-mx.land/README.md) | bob-cli-mx hood | completed |

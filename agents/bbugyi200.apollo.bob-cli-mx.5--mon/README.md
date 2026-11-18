@@ -27,4 +27,4 @@
 | [bob-cli-mx.2](../../sessions/bbugyi200.apollo.bob-cli-mx.2.md) (session · 5) | bob-cli-mx hood | completed 4, failed 1 |
 | [bob-cli-mx.3](../bbugyi200.apollo.bob-cli-mx.3/README.md) | bob-cli-mx hood | completed |
 | [bob-cli-mx.4](../../sessions/bbugyi200.apollo.bob-cli-mx.4.md) (session · 3) | bob-cli-mx hood | completed 2, failed 1 |
-| [bob-cli-mx.land](../bbugyi200.apollo.bob-cli-mx.land/README.md) | bob-cli-mx hood | waiting |
+| [bob-cli-mx.land](../bbugyi200.apollo.bob-cli-mx.land/README.md) | bob-cli-mx hood | completed |

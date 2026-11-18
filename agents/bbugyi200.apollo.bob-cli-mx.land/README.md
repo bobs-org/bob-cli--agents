@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-mx](../../users/bbugyi200/machines/apollo/hoods/bob-cli-mx/README.md) / bob-cli-mx.land
 
-**Global name:** `bbugyi200.apollo.bob-cli-mx.land` · **State:** waiting · **Source run:** `run-ef5a93336eafc636d06d8430a29fcffd`
+**Global name:** `bbugyi200.apollo.bob-cli-mx.land` · **State:** completed · **Source run:** `run-ef5a93336eafc636d06d8430a29fcffd`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-mx
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-mx](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-mx/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261117180101
-- Commits: 0
+- Timing: 2026-11-18T04:50:26.855274+00:00 → 2026-11-18T05:28:15.965200+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`71176f4`](https://github.com/bobs-org/bob-cli/commit/71176f47ebe1fcf182b6c3a8e7f3c2a07cebe9cc) | fix(walks): land walk attention marks epic | 2026-11-18 00:26:21 EST |
 
 ## Neighbors
 
