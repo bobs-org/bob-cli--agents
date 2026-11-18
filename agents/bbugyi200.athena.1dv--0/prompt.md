@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli #coder:~/.sase/plans/202611/record_card_link_completion.md %m:gpt-6-astra
