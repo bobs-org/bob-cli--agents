@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5c.image
 
-**Global name:** `bbugyi200.apollo.research.5c.image` · **State:** waiting · **Source run:** `run-83da23745e58c8f57bd18709426c08cb`
+**Global name:** `bbugyi200.apollo.research.5c.image` · **State:** completed · **Source run:** `run-83da23745e58c8f57bd18709426c08cb`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261118113859
+- Timing: 2026-11-18T17:20:50.501389+00:00 → 2026-11-18T17:29:10.219510+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/bob\_periodic\_orchestrator/bob\_periodic\_orchestrator\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261118113859/bob\_periodic\_orche… |
+| `diagrams` | {considered: 14, count: 2, manifest: 202611/bob\_periodic\_orchestrator/bob\_periodic\_orchestrator.diagrams.md, source\_ref: file:explicit:f7b6c86b8abb7c5457082d00, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/bob_periodic_orchestrator/bob_periodic_orchestrator_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261118113859/bob_periodic_orchestrator_infographic-59978b7c17c5.png
+  ref: file:explicit:62f46938dbb129b23b978f68
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/bob_periodic_orchestrator/bob_periodic_orchestrator_infographic.png
+- kind: markdown
+  label: diagrams:202611/bob_periodic_orchestrator/bob_periodic_orchestrator.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261118113859/bob_periodic_orchestrator.diagrams-454ff7bd984d.md
+  ref: file:explicit:271c5fdb69a5b75e0bf169c6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/bob_periodic_orchestrator/bob_periodic_orchestrator.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 2
+manifest: 202611/bob_periodic_orchestrator/bob_periodic_orchestrator.diagrams.md
+source_ref: file:explicit:f7b6c86b8abb7c5457082d00
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
