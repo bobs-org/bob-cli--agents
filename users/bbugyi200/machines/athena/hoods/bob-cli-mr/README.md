@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-mr
 
-**Global hood:** `bbugyi200.athena.bob-cli-mr` · **Runs:** 28 · **Sessions:** 6 · **States:** active 2, completed 24, failed 2
+**Global hood:** `bbugyi200.athena.bob-cli-mr` · **Runs:** 28 · **Sessions:** 6 · **States:** active 1, completed 25, failed 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-mr.land--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-mr.land.md#member-gate) | completed | gpt-6-astra / codex | 2026-11-17T22:36:01.652233+00:00 → 2026-11-17T22:36:09.392368+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mr.land--gate/chat.md) |
-| [bob-cli-mr.land--mon-1](../../../../../../sessions/bbugyi200.athena.bob-cli-mr.land.md#member-mon-1) | active | muse-spark-1.3-contributor / muse | 2026-11-18T00:17:47.781241+00:00 | 0 | — |
+| [bob-cli-mr.land--mon-1](../../../../../../sessions/bbugyi200.athena.bob-cli-mr.land.md#member-mon-1) | completed | muse-spark-1.3-contributor / muse | 2026-11-18T00:17:47.781241+00:00 → 2026-11-18T00:21:17.003558+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mr.land--mon-1/chat.md) |
 | [bob-cli-mr.3--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-mr.3.md#member-plan) | active | gpt-6-astra / codex | 2026-11-17T17:05:07.110871+00:00 → 2026-11-17T17:14:08.100170+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mr.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mr.3--plan/chat.md) |
 | [bob-cli-mr.2--1](../../../../../../sessions/bbugyi200.athena.bob-cli-mr.2.md#member-1) | completed | grok-4.6 / grok | 2026-11-17T16:55:45.689245+00:00 → 2026-11-17T17:05:00.909563+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-mr.2--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mr.2--1/chat.md) |
 | [bob-cli-mr.3.1.land--code](../../../../../../sessions/bbugyi200.athena.bob-cli-mr.3.1.land.md#member-code) | completed | muse-spark-1.3-contributor / muse | 2026-11-17T21:10:13.945366+00:00 → 2026-11-17T22:25:10.360651+00:00 | 1 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-mr.3.1.land--code/chat.md) |
