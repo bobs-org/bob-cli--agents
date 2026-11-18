@@ -33,4 +33,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-mr.3.1.land](bbugyi200.athena.bob-cli-mr.3.1.land.md) (session · 3) | descendant | completed 3 |
 | [bob-cli-mr.1](../agents/bbugyi200.athena.bob-cli-mr.1/README.md) | bob-cli-mr hood | completed |
 | [bob-cli-mr.2](bbugyi200.athena.bob-cli-mr.2.md) (session · 3) | bob-cli-mr hood | completed 3 |
-| [bob-cli-mr.land](bbugyi200.athena.bob-cli-mr.land.md) (session · 6) | bob-cli-mr hood | active 1, completed 4, failed 1 |
+| [bob-cli-mr.land](bbugyi200.athena.bob-cli-mr.land.md) (session · 9) | bob-cli-mr hood | active 1, completed 7, failed 1 |
