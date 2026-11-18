@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5b.linker
 
-**Global name:** `bbugyi200.apollo.research.5b.linker` · **State:** waiting · **Source run:** `run-8465612c97a93dda9a6f3daedabb139e`
+**Global name:** `bbugyi200.apollo.research.5b.linker` · **State:** completed · **Source run:** `run-8465612c97a93dda9a6f3daedabb139e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261118100140
+- Timing: 2026-11-18T15:40:38.753002+00:00 → 2026-11-18T15:48:09.658750+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/record\_nav\_ring/record\_nav\_ring.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261118100140/record\_nav\_ring-064d5f82b842.md, ref: file:ex… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/record_nav_ring/record_nav_ring.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261118100140/record_nav_ring-064d5f82b842.md
+  ref: file:explicit:5896636edcb062a8c3a7d7fb
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/record_nav_ring/record_nav_ring.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
