@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5c.linker
 
-**Global name:** `bbugyi200.apollo.research.5c.linker` · **State:** waiting · **Source run:** `run-af200facf749601a8ce7082360d452c9`
+**Global name:** `bbugyi200.apollo.research.5c.linker` · **State:** completed · **Source run:** `run-af200facf749601a8ce7082360d452c9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261118113900
+- Timing: 2026-11-18T17:29:20.451319+00:00 → 2026-11-18T17:40:19.637803+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bob\_periodic\_orchestrator/bob\_periodic\_orchestrator.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261118113900/bob\_periodic\_orchestrator… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bob_periodic_orchestrator/bob_periodic_orchestrator.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261118113900/bob_periodic_orchestrator-7e17198d9050.md
+  ref: file:explicit:1efdce80dc00e3588c6b16bb
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/bob_periodic_orchestrator/bob_periodic_orchestrator.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
