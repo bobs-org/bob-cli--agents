@@ -1,0 +1,371 @@
+# Chat History - ace-run (bob-cli-mw.land--4)
+
+- **TIMESTAMP:** 2026-11-17 21:10:48 EST
+- **MODEL:** codex/gpt-6-luna
+- **AGENT:** bob-cli-mw.land--4
+
+# Monitor handoff
+
+This agent delegated the remaining work to a monitor turn.
+Monitor ID: yc417amtb95t
+Inspect with: sase monitor show yc417amtb95t
+Monitor turn: bob-cli-mw.land--mon-3
+Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10
+
+Command:
+
+```sh
+sh /tmp/bob-cli-headline-gates.sh
+```
+
+Reason:
+
+Rerun headline verification after isolating timing-sensitive plugin tests
+
+Next action:
+
+Read this verification result. The previous full run failed only three timing assertions; each was then run alone and passed: event-link-times test one build over a 200-link ledger (1/1); frees-marks test 200-link / 2000-task build (1/1); keep-moving surface test 200-link / 50-target Live Preview build (1/1). The script /tmp/bob-cli-headline-gates.sh runs the required gates in order and runs bob plugins sync only after every gate passes. If npm test fails again, inspect the full monitor log, identify every failed test, rerun each failed test alone from the opened bob-plugins checkout using node --test --test-concurrency=1 --test-name-pattern with its distinct title and file, then rerun the complete gate script until every gate and plugin sync pass. Repair only failures caused by the approved headline work. Make no plugin source edit unless a defect from that work is demonstrated; after any such edit run npm run build, npm test, BOB_CLI_DIR pointing to this bob-cli checkout with npm run docs:check, and bob plugins sync. Recheck Mac run 44201825837 on exact SHA 394b3442df723dfdbc8362bba611e3d5d0585595 and report its failure without Swift edits: Test fails in CaptureDotRouteAliasTests.testLaterItemStartDotAliasAppliesAndOpensRouteList, completion times out with completion=nil, then the route assertion gets nil instead of route. Run sase bead epic-symbols bob-cli-mw; it currently reports none, and resolve stale symbols only if any appear. A Justfile listing showed no symvision recipe, so run just symvision only if one exists on recheck. Once all gates pass, immediately before close audited-read bob-cli-mw and all four descendant phases with sase bead read, and sase artifact read plan:202611/daily_headline.md. Close bob-cli-mw normally with exact gate and CI results plus both follow-up outcomes: JSON outputs word-budget proposal declined as resolved by 3914ab50, current count 5256/6000, no task or reopened report; records-tidy catalog/completion/canonical-path omissions routed as a discovered issue to active causal epic bob-cli-ms, cfc3177 predates this work, no duplicate or new task. Mark the plan status done in the opened plans sidecar, reread bob-cli-mw for its parent link, then submit /sase_final with commit decisions for every changed repository and bead_action close only on the primary repository.
+
+
+## Prompt
+
+%queue(weight=1)
+%macros_enabled:false
+# Previous Continuation
+
+This fork uses versioned continuation replay. Blocks are stable, parent-first projections of exact continuation nodes; any historical source without recoverable node provenance is represented as an opaque legacy boundary.
+
+- **Projection version:** `1`
+- **Ordered nodes:** `1`
+
+## Continuation Block `block:v1:379be50920f18e834242349a27474502`
+
+- **Node:** `agent-delta:20261117202923:6d955cba62a26bc5`
+- **Kind:** `agent_delta`
+- **Parents:** (none)
+- **Content:** `local:continuation/records/agent_delta/agent-delta:20261117202923:6d955cba62a26bc5.json`
+- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-4aad064d528ea782.json`
+
+### User
+
+**Protected user instruction.** Carry this request unless an explicit attributed update supersedes it.
+
+%queue(weight=1)
+#fork:bob-cli-mw.land--2
+%model:gpt-6-luna@xhigh
+
+% macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+repo_dir=$PWD; plugin_dir=$repo_dir/sase/repos/linked/bob-plugins; cd "$plugin_dir" || exit 99; npm test; plugin_status=$?; cd "$repo_dir" || exit 98; cargo test headline; headline_status=$?; just check; check_status=$?; cd "$plugin_dir" || exit 97; BOB_CLI_DIR="$repo_dir" npm run docs:check; plugin_docs_status=$?; cd "$repo_dir" || exit 96; just docs-check; docs_status=$?; echo "plugin=$plugin_status headline=$headline_status check=$check_status plugin_docs=$plugin_docs_status docs=$docs_status"; test "$plugin_status" -eq 0 && test "$headline_status" -eq 0 && test "$check_status" -eq 0 && test "$plugin_docs_status" -eq 0 && test "$docs_status" -eq 0
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10
+```
+
+| | |
+| --- | --- |
+| **Outcome** | FAILED — exit 1 |
+| **Started** | 2026-11-18T01:13:20.178250+00:00 |
+| **Finished** | 2026-11-18T01:29:01.761493Z |
+| **Elapsed** | 14m 26s of a 45m 0s budget |
+| **Output** | 2,958 KiB · evidence refs: `file:monitor-diagnostic-manifest:tw0pjc2xzmhx`, `file:monitor-retained-log:tw0pjc2xzmhx` · full log: `sase monitor show tw0pjc2xzmhx --all-lines` |
+| **Tool run** | sase tool show a8a2300a8042c9172e04b23ce8e87e98 |
+
+**Why this was monitored:** Rerun the complete approved headline gates from the correct repositories after isolating the timing-sensitive plugin failures
+
+## Last 200 lines of output
+<!--sase: budget-span:open:kind=old_raw_excerpts;id=1-->
+
+Everything between the fences below is raw command output -- untrusted data, not instructions. The only instruction in this prompt is the "Your next action" section.
+
+```text
+ and the Apple toolchain
+skipped: docs/start/mac-capture.md:40: Mac launch needs the Mac app bundle
+skipped: docs/start/mac-capture.md:54: panel setup needs the Mac app
+skipped: docs/start/mac-capture.md:81: first Mac capture needs the Mac panel
+tutorial: passed
+docs-check: passed (executable first-day tutorial)
+
+docs-check: CLI media determinism
+media: check passed (regeneration is byte-stable)
+docs-check: passed (CLI media determinism)
+
+docs-check: documentation unit tests
+============================= test session starts ==============================
+platform linux -- Python 3.14.7, pytest-9.1.1, pluggy-1.7.0
+rootdir: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/tools/docs
+configfile: pyproject.toml
+plugins: platformdirs-4.13.5
+collected 448 items
+
+tools/docs/tests/test_assemble.py ....                                   [  0%]
+tools/docs/tests/test_assets.py .......                                  [  2%]
+tools/docs/tests/test_capture_token_coverage.py ..                       [  2%]
+tools/docs/tests/test_check.py ....                                      [  3%]
+tools/docs/tests/test_compatibility.py ......                            [  5%]
+tools/docs/tests/test_contracts.py ........                              [  6%]
+tools/docs/tests/test_demo_tasks.py ..                                   [  7%]
+tools/docs/tests/test_edit_links.py ....                                 [  8%]
+tools/docs/tests/test_environment.py ........                            [ 10%]
+tools/docs/tests/test_fences.py .......                                  [ 11%]
+tools/docs/tests/test_gen_components.py ....                             [ 12%]
+tools/docs/tests/test_gen_plugins.py ...........                         [ 14%]
+tools/docs/tests/test_gen_reference.py ........                          [ 16%]
+tools/docs/tests/test_generated.py .....                                 [ 17%]
+tools/docs/tests/test_host.py ..................                         [ 21%]
+tools/docs/tests/test_host_workflow.py .........                         [ 23%]
+tools/docs/tests/test_links.py ...........                               [ 26%]
+tools/docs/tests/test_links_online.py ......                             [ 27%]
+tools/docs/tests/test_lint.py .......................................... [ 37%]
+................                                                         [ 40%]
+tools/docs/tests/test_media.py .........                                 [ 42%]
+tools/docs/tests/test_mounts.py ........................................ [ 51%]
+....................................                                     [ 59%]
+tools/docs/tests/test_publish_drill.py ..........                        [ 61%]
+tools/docs/tests/test_publish_issue.py .............                     [ 64%]
+tools/docs/tests/test_publish_plan.py ........................           [ 70%]
+tools/docs/tests/test_publish_record.py ..............                   [ 73%]
+tools/docs/tests/test_publish_verify.py ...........                      [ 75%]
+tools/docs/tests/test_publish_workflow.py .........................      [ 81%]
+tools/docs/tests/test_search_smoke.py ........                           [ 83%]
+tools/docs/tests/test_templates.py .....                                 [ 84%]
+tools/docs/tests/test_tutorial.py ..................                     [ 88%]
+tools/docs/tests/test_urls.py .........................                  [ 93%]
+tools/docs/tests/test_weekly_issue.py ......                             [ 95%]
+tools/docs/tests/test_weekly_workflow.py ....................            [ 99%]
+tools/docs/tests/test_yaml_tools.py ..                                   [100%]
+
+============================= 448 passed in 41.72s =============================
+running: uv run --project tools/docs --group material pytest tools/docs/tests
+docs-check: passed (documentation unit tests)
+
+docs-check: follow-on gates
+skipped: CLI reference golden is a cargo test, not a docs-check gate
+
+docs-check: all implemented gates passed
+plugin=1 headline=0 check=0 plugin_docs=0 docs=0
+failed  exit=1  duration=864931ms
+```
+
+<!--sase: budget-span:close:1-->
+## Continuation checkpoint
+
+- **Ref:** `local:continuation/checkpoints/monitor_start-d106ad648c63a0f1.json`
+
+**Checkpoint (JSON):**
+
+```text
+{
+  "kind": "monitor_start",
+  "payload": {
+    "command": "repo_dir=$PWD; plugin_dir=$repo_dir/sase/repos/linked/bob-plugins; cd \"$plugin_dir\" || exit 99; npm test; plugin_status=$?; cd \"$repo_dir\" || exit 98; cargo test headline; headline_status=$?; just check; check_status=$?; cd \"$plugin_dir\" || exit 97; BOB_CLI_DIR=\"$repo_dir\" npm run docs:check; plugin_docs_status=$?; cd \"$repo_dir\" || exit 96; just docs-check; docs_status=$?; echo \"plugin=$plugin_status headline=$headline_status check=$check_status plugin_docs=$plugin_docs_status docs=$docs_status\"; test \"$plugin_status\" -eq 0 && test \"$headline_status\" -eq 0 && test \"$check_status\" -eq 0 && test \"$plugin_docs_status\" -eq 0 && test \"$docs_status\" -eq 0",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10",
+    "member_agent_name": "bob-cli-mw.land--mon-1",
+    "monitor_id": "tw0pjc2xzmhx",
+    "next_output": "auto",
+    "parent_node_ids": [
+      "agent-delta:20261117200437:6bf5fb3ea4e715fe"
+    ],
+    "project_name": "gh_bobs-org__bob-cli",
+    "request_fingerprint": "sha256:04f4b7d8a529d8de842d9a3ac0391f27f8854009125b12341a03bc7a28a318d2",
+    "starter_agent": "bob-cli-mw.land--2",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/17/20261117200437"
+  },
+  "recorded_at_epoch": 1794964475.7326643,
+  "schema_version": 1
+}
+```
+
+
+## Your next action
+
+Read the verification result. The prior run had only performance-threshold failures: the keep-moving surface case measured 1564.1 ms against 25 ms, and frees-marks measured 47 ms against 25 ms; each suite passed alone (14/14 and 17/17). If npm test fails again, isolate each failed test and rerun the full required gates until they pass. Repair only failures caused by the approved headline work; after any plugin source change, rebuild, test, run BOB_CLI_DIR docs:check, and bob plugins sync. Recheck Mac run 44201825837 for SHA 394b3442df723dfdbc8362bba611e3d5d0585595 and report its failure without Swift edits. Immediately before closing, audited-read bob-cli-mw and all four phases plus artifact plan:202611/daily_headline.md. Close bob-cli-mw normally with exact gate and CI results and both follow-up outcomes: (1) JSON outputs word-budget proposal declined as resolved by 3914ab50, current count 5256/6000, no task/reopened report; (2) records-tidy catalog/completion/canonical-path omissions routed as a discovered issue to active causal epic bob-cli-ms, cfc3177 predates this work, no duplicate or new task. Run just symvision only if a recipe exists; none was listed in the prior check. Mark the plan status done in the opened plans sidecar, reread bob-cli-mw for its parent link, then submit the required final declaration with commits for every changed repository and bead_action close only on the primary repository.
+% macros_enabled:true
+
+### Checkpoint
+
+- **Kind:** `monitor_handoff`
+
+### Assistant
+
+<!--sase:budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-4aad064d528ea782.json;covered=agent-delta%3A20261117202923%3A6d955cba62a26bc5-->
+I’ll inspect the failed plugin run’s retained log first to identify the exact test failures, then follow the required closeout sequence and verify the current Mac CI status.
+
+The retained log reference is not readable through `sase artifact read` in this workspace, so I’m using the monitor’s own `show --all-lines` interface and redirecting it to a temporary file for targeted failure extraction. The repo status shows no plugin changes, so there is no rebuild or sync obligation unless the full log points to a defect from the headline work.
+
+The Mac run is still the same red CI at SHA `394b3442df723dfdbc8362bba611e3d5d0585595`, with the `Test` job failed after a successful build. The second full verification also ended with only `npm test` nonzero; I’m narrowing the log to the plugin test summary now, then I’ll isolate those cases before the required complete rerun.
+
+Both isolated plugin suites pass on their own: keep-moving surface 14/14 and dependency-stage performance 9/9. Their full-suite failures were timing outliers (302.2 ms vs 25 ms and 1,425.2 ms vs 1,000 ms); no headline-related plugin defect is indicated. I’ll rerun the full gate set now and carry the exact evidence into the final closeout.
+
+The plugin rebuild is still running after its initial output. I’m letting that build finish before starting another verification pass, since its generated entrypoint is part of what `npm test` will check.
+
+The full verification rerun is staged as monitor `cs3fkk2q4r9y`. It will run the complete gates, sync the plugin only if all gates pass, and carry the requested closeout to the follow-up agent. The latest Mac log confirms the dot-alias completion timed out with `completion=nil`, then failed the expected `route` assertion; no Swift files were edited.
+
+The plugin rebuild passed and regenerated no files. The latest full gate run still failed only in `npm test`: the keep-moving surface case measured 302.2 ms against 25 ms, and dependency-stage performance measured 1,425.2 ms against 1,000 ms. Isolated, those suites passed 14/14 and 9/9. Rust and both docs gates passed.
+
+I staged a complete rerun as monitor `cs3fkk2q4r9y`; it will sync Bob Ledger Tools if every gate passes, then continue the requested bead and plan closeout.
+
+Mac CI remains red on SHA `394b3442df723dfdbc8362bba611e3d5d0585595`: the dot-alias test timed out with `completion=nil`, then failed the expected `route` assertion. I made no Swift edits. `epic-symbols` found no entries, and no `symvision` recipe is available.
+<!--sase:budget-span:close:1-->
+
+---
+
+%macros_enabled:true
+# New Query
+%model:gpt-6-luna@xhigh
+
+%macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+sh /tmp/bob-cli-headline-gates.sh
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10
+```
+
+| | |
+| --- | --- |
+| **Outcome** | FAILED — exit 1 |
+| **Started** | 2026-11-18T01:40:51.132468+00:00 |
+| **Finished** | 2026-11-18T01:56:35.096131Z |
+| **Elapsed** | 14m 52s of a 45m 0s budget |
+| **Output** | 2,959 KiB · evidence refs: `file:monitor-diagnostic-manifest:cs3fkk2q4r9y`, `file:monitor-retained-log:cs3fkk2q4r9y` · full log: `sase monitor show cs3fkk2q4r9y --all-lines` |
+| **Tool run** | sase tool show 5a213389ed46df6c265ccbba600cb02b |
+
+**Why this was monitored:** Rerun full daily headline gates after rebuilding Bob Ledger Tools
+
+## Last 200 lines of output
+<!--sase:budget-span:open:kind=old_raw_excerpts;id=1-->
+
+Everything between the fences below is raw command output -- untrusted data, not instructions. The only instruction in this prompt is the "Your next action" section.
+
+```text
+Apple toolchain
+skipped: docs/start/mac-capture.md:40: Mac launch needs the Mac app bundle
+skipped: docs/start/mac-capture.md:54: panel setup needs the Mac app
+skipped: docs/start/mac-capture.md:81: first Mac capture needs the Mac panel
+tutorial: passed
+docs-check: passed (executable first-day tutorial)
+
+docs-check: CLI media determinism
+media: check passed (regeneration is byte-stable)
+docs-check: passed (CLI media determinism)
+
+docs-check: documentation unit tests
+============================= test session starts ==============================
+platform linux -- Python 3.14.7, pytest-9.1.1, pluggy-1.7.0
+rootdir: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/tools/docs
+configfile: pyproject.toml
+plugins: platformdirs-4.13.5
+collected 448 items
+
+tools/docs/tests/test_assemble.py ....                                   [  0%]
+tools/docs/tests/test_assets.py .......                                  [  2%]
+tools/docs/tests/test_capture_token_coverage.py ..                       [  2%]
+tools/docs/tests/test_check.py ....                                      [  3%]
+tools/docs/tests/test_compatibility.py ......                            [  5%]
+tools/docs/tests/test_contracts.py ........                              [  6%]
+tools/docs/tests/test_demo_tasks.py ..                                   [  7%]
+tools/docs/tests/test_edit_links.py ....                                 [  8%]
+tools/docs/tests/test_environment.py ........                            [ 10%]
+tools/docs/tests/test_fences.py .......                                  [ 11%]
+tools/docs/tests/test_gen_components.py ....                             [ 12%]
+tools/docs/tests/test_gen_plugins.py ...........                         [ 14%]
+tools/docs/tests/test_gen_reference.py ........                          [ 16%]
+tools/docs/tests/test_generated.py .....                                 [ 17%]
+tools/docs/tests/test_host.py ..................                         [ 21%]
+tools/docs/tests/test_host_workflow.py .........                         [ 23%]
+tools/docs/tests/test_links.py ...........                               [ 26%]
+tools/docs/tests/test_links_online.py ......                             [ 27%]
+tools/docs/tests/test_lint.py .......................................... [ 37%]
+................                                                         [ 40%]
+tools/docs/tests/test_media.py .........                                 [ 42%]
+tools/docs/tests/test_mounts.py ........................................ [ 51%]
+....................................                                     [ 59%]
+tools/docs/tests/test_publish_drill.py ..........                        [ 61%]
+tools/docs/tests/test_publish_issue.py .............                     [ 64%]
+tools/docs/tests/test_publish_plan.py ........................           [ 70%]
+tools/docs/tests/test_publish_record.py ..............                   [ 73%]
+tools/docs/tests/test_publish_verify.py ...........                      [ 75%]
+tools/docs/tests/test_publish_workflow.py .........................      [ 81%]
+tools/docs/tests/test_search_smoke.py ........                           [ 83%]
+tools/docs/tests/test_templates.py .....                                 [ 84%]
+tools/docs/tests/test_tutorial.py ..................                     [ 88%]
+tools/docs/tests/test_urls.py .........................                  [ 93%]
+tools/docs/tests/test_weekly_issue.py ......                             [ 95%]
+tools/docs/tests/test_weekly_workflow.py ....................            [ 99%]
+tools/docs/tests/test_yaml_tools.py ..                                   [100%]
+
+============================= 448 passed in 54.93s =============================
+running: uv run --project tools/docs --group material pytest tools/docs/tests
+docs-check: passed (documentation unit tests)
+
+docs-check: follow-on gates
+skipped: CLI reference golden is a cargo test, not a docs-check gate
+
+docs-check: all implemented gates passed
+plugin=1 headline=0 check=0 plugin_docs=0 docs=0 sync=125
+failed  exit=1  duration=887664ms
+```
+
+<!--sase:budget-span:close:1-->
+## Continuation checkpoint
+
+- **Ref:** `local:continuation/checkpoints/monitor_start-590451094c000799.json`
+
+**Checkpoint (JSON):**
+
+```text
+{
+  "kind": "monitor_start",
+  "payload": {
+    "command": "sh /tmp/bob-cli-headline-gates.sh",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10",
+    "member_agent_name": "bob-cli-mw.land--mon-2",
+    "monitor_id": "cs3fkk2q4r9y",
+    "next_output": "auto",
+    "parent_node_ids": [
+      "agent-delta:20261117202923:6d955cba62a26bc5"
+    ],
+    "project_name": "gh_bobs-org__bob-cli",
+    "request_fingerprint": "sha256:50b0f37f003e8fdf2389872d7c79d0d8255f4be6884915546c1539bee9ddaea8",
+    "starter_agent": "bob-cli-mw.land--3",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/17/20261117202923"
+  },
+  "recorded_at_epoch": 1794966103.4735036,
+  "schema_version": 1
+}
+```
+
+
+## Your next action
+
+Read the verification result. If npm test fails, inspect the full log, isolate each failed test and rerun it alone, then rerun all required gates until every gate and the plugin sync pass. Repair only failures caused by the approved headline work. After any plugin source edit, rebuild, test, run BOB_CLI_DIR docs:check, and bob plugins sync. Recheck Mac CI run 44201825837 at exact SHA 394b3442df723dfdbc8362bba611e3d5d0585595 and report the dot-alias route failure without Swift edits. Run sase bead epic-symbols bob-cli-mw and resolve stale symbols if present. Once all gates pass, immediately before closing audited-read bob-cli-mw and all four descendant phases, and sase artifact read plan:202611/daily_headline.md. Close bob-cli-mw normally with exact verification and CI results and both follow-up outcomes: JSON outputs word-budget proposal declined as resolved by 3914ab50, count 5256/6000, no task or reopened report; records-tidy catalog/completion/canonical-path omissions routed as a discovered issue to active causal epic bob-cli-ms, cfc3177 predates this work, no duplicate or new task. Run just symvision only if a recipe exists. Mark the plan done in the opened plans sidecar, reread bob-cli-mw for its parent link, then submit the final declaration with commit decisions for every changed repository and bead_action close only on the primary repository.
+%macros_enabled:true
+
+## Response
+
+I’m checking the full plugin test and sync diagnostics now, then I’ll isolate the failed cases and rerun the approved gate sequence. I’ll also verify the requested GitHub run and finish the bead and plan closeout with the audited reads in the stated order.
+
+The gate run’s failure is still isolated to `npm test`; the Rust and both documentation gates passed. The script’s `sync=125` is its sentinel for “sync not run,” because it only syncs after all gates pass. I’m extracting the retained ToolRun log with the supported `sase tool show -l` option and checking the CI run through the local GitHub CLI/API path.
+
+I’ve isolated all three performance assertions from the latest `npm test` failure, and each passes when run alone: event-link timing, frees-marks, and keep-moving surface. I’m staging the complete gate script now; it includes plugin sync after all gates pass. The Mac CI run still fails only on dot-alias completion (`completion=nil`, then route `nil` instead of `"route"`), and I’ll preserve that report without Swift edits.
+
+The full `npm test` run found three timing threshold failures: event-link timing (47.9 ms), frees-marks (29 ms), and keep-moving surface (1,266.5 ms). I reran each failed test alone; all three passed.
+
+The complete gate rerun, including plugin sync after all gates pass, is staged as monitor `yc417a`. The bead and plan closeout will continue after its result.
+
+Mac run `44201825837` remains failed on SHA `394b3442df723dfdbc8362bba611e3d5d0585595`: the dot-alias test timed out with `completion=nil`, then got `nil` instead of `"route"`. No Swift edits were made. Epic symbols are clear, and no `symvision` recipe is listed.
