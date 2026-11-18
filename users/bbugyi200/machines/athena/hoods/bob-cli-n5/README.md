@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-n5
 
-**Global hood:** `bbugyi200.athena.bob-cli-n5` · **Runs:** 10 · **Sessions:** 1 · **States:** completed 7, failed 1, waiting 2
+**Global hood:** `bbugyi200.athena.bob-cli-n5` · **Runs:** 10 · **Sessions:** 1 · **States:** completed 8, failed 1, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-n5.4](../../../../../../agents/bbugyi200.athena.bob-cli-n5.4/README.md) | completed | gpt-6-luna / codex | 2026-11-18T05:46:54.115001+00:00 → 2026-11-18T06:14:15.767598+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-n5.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-n5.4/chat.md) |
-| [bob-cli-n5.5](../../../../../../agents/bbugyi200.athena.bob-cli-n5.5/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261117222314 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-n5.5/prompt.md) |
+| [bob-cli-n5.5](../../../../../../agents/bbugyi200.athena.bob-cli-n5.5/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-18T06:14:54.154325+00:00 → 2026-11-18T06:22:57.032197+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-n5.5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-n5.5/chat.md) |
 | [bob-cli-n5.land](../../../../../../agents/bbugyi200.athena.bob-cli-n5.land/README.md) | waiting | opus / claude | 20261117222315 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-n5.land/prompt.md) |
 | [bob-cli-n5.2--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-n5.2.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-18T04:26:20.277101+00:00 → 2026-11-18T04:39:53.846200+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-n5.2--mon/chat.md) |
 | [bob-cli-n5.2--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-n5.2.md#member-plan) | completed | gpt-6-luna / codex | 2026-11-18T03:43:48.039089+00:00 → 2026-11-18T04:27:46.846692+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-n5.2--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-n5.2--plan/chat.md) |
