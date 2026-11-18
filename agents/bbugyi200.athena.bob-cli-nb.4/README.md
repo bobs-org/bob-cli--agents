@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nb](../../users/bbugyi200/machines/athena/hoods/bob-cli-nb/README.md) / bob-cli-nb.4
 
-**Global name:** `bbugyi200.athena.bob-cli-nb.4` · **State:** waiting · **Source run:** `run-1c862617c845775c14cfc2fff2b3b210`
+**Global name:** `bbugyi200.athena.bob-cli-nb.4` · **State:** completed · **Source run:** `run-1c862617c845775c14cfc2fff2b3b210`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nb
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-nb](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nb/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261118130757
-- Commits: 0
+- Timing: 2026-11-18T22:06:19.875724+00:00 → 2026-11-18T22:19:09.458993+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`2f1dca1`](https://github.com/bobs-org/bob-cli/commit/2f1dca1ce1e29383f52957dfb01e1e8c983d8f99) | docs(tick): document ordered background scheduler | 2026-11-18 17:18:44 EST |
 
 ## Neighbors
 
