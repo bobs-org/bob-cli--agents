@@ -1,1 +1,1 @@
-{"dismissed_at":null,"finished_at":null,"schema_version":2,"source_run_id":"run-1abb8353987ee25d993a71c07fa9c116","started_at":"2026-11-18T12:48:31.192542+00:00","state":"active"}
+{"dismissed_at":null,"finished_at":"2026-11-18T13:43:09.260264+00:00","schema_version":2,"source_run_id":"run-1abb8353987ee25d993a71c07fa9c116","started_at":"2026-11-18T12:48:31.192542+00:00","state":"failed"}
