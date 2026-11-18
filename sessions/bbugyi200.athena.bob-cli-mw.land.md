@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-mw](../users/bbugyi200/machines/athena/hoods/bob-cli-mw/README.md) / bob-cli-mw.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-mw` · Members: 42 · Bead: [bob-cli-mw](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-mw/README.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-mw` · Members: 47 · Bead: [bob-cli-mw](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-mw/README.md)
 
 ## Lineage
 
@@ -23,74 +23,84 @@ flowchart TD
   n0 --> n6
   n7["bob-cli-mw.land--8 [completed]"]
   n0 --> n7
-  n8["bob-cli-mw.land--9 [completed]"]
+  n8["bob-cli-mw.land--mon-j [failed]"]
   n0 --> n8
-  n9["bob-cli-mw.land--mon-b [failed]"]
+  n9["bob-cli-mw.land--9 [completed]"]
   n0 --> n9
-  n10["bob-cli-mw.land--3 [completed]"]
+  n10["bob-cli-mw.land--mon-b [failed]"]
   n0 --> n10
-  n11["bob-cli-mw.land--e [completed]"]
+  n11["bob-cli-mw.land--3 [completed]"]
   n0 --> n11
-  n12["bob-cli-mw.land--plan [completed]"]
+  n12["bob-cli-mw.land--e [completed]"]
   n0 --> n12
-  n13["bob-cli-mw.land--g [completed]"]
+  n13["bob-cli-mw.land--plan [completed]"]
   n0 --> n13
-  n14["bob-cli-mw.land--2 [completed]"]
+  n14["bob-cli-mw.land--g [completed]"]
   n0 --> n14
-  n15["bob-cli-mw.land--mon [failed]"]
+  n15["bob-cli-mw.land--l [completed]"]
   n0 --> n15
-  n16["bob-cli-mw.land--6 [completed]"]
+  n16["bob-cli-mw.land--2 [completed]"]
   n0 --> n16
-  n17["bob-cli-mw.land--mon-6 [failed]"]
+  n17["bob-cli-mw.land--mon [failed]"]
   n0 --> n17
-  n18["bob-cli-mw.land--mon-i [active]"]
+  n18["bob-cli-mw.land--6 [completed]"]
   n0 --> n18
-  n19["bob-cli-mw.land--mon-1 [failed]"]
+  n19["bob-cli-mw.land--mon-6 [failed]"]
   n0 --> n19
-  n20["bob-cli-mw.land--h [completed]"]
+  n20["bob-cli-mw.land--mon-i [failed]"]
   n0 --> n20
-  n21["bob-cli-mw.land--7 [completed]"]
+  n21["bob-cli-mw.land--mon-1 [failed]"]
   n0 --> n21
-  n22["bob-cli-mw.land--mon-4 [failed]"]
+  n22["bob-cli-mw.land--h [completed]"]
   n0 --> n22
-  n23["bob-cli-mw.land--mon-9 [failed]"]
+  n23["bob-cli-mw.land--7 [completed]"]
   n0 --> n23
-  n24["bob-cli-mw.land--mon-d [failed]"]
+  n24["bob-cli-mw.land--mon-4 [failed]"]
   n0 --> n24
-  n25["bob-cli-mw.land--mon-3 [failed]"]
+  n25["bob-cli-mw.land--mon-9 [failed]"]
   n0 --> n25
-  n26["bob-cli-mw.land--f [completed]"]
+  n26["bob-cli-mw.land--mon-d [failed]"]
   n0 --> n26
-  n27["bob-cli-mw.land--4 [completed]"]
+  n27["bob-cli-mw.land--mon-3 [failed]"]
   n0 --> n27
-  n28["bob-cli-mw.land--mon-8 [failed]"]
+  n28["bob-cli-mw.land--f [completed]"]
   n0 --> n28
-  n29["bob-cli-mw.land--mon-7 [failed]"]
+  n29["bob-cli-mw.land--4 [completed]"]
   n0 --> n29
-  n30["bob-cli-mw.land--mon-h [failed]"]
+  n30["bob-cli-mw.land--mon-8 [failed]"]
   n0 --> n30
-  n31["bob-cli-mw.land--mon-a [failed]"]
+  n31["bob-cli-mw.land--mon-7 [failed]"]
   n0 --> n31
-  n32["bob-cli-mw.land--mon-5 [failed]"]
+  n32["bob-cli-mw.land--mon-h [failed]"]
   n0 --> n32
-  n33["bob-cli-mw.land--mon-f [failed]"]
+  n33["bob-cli-mw.land--mon-a [failed]"]
   n0 --> n33
-  n34["bob-cli-mw.land--c [completed]"]
+  n34["bob-cli-mw.land--mon-5 [failed]"]
   n0 --> n34
-  n35["bob-cli-mw.land--mon-e [failed]"]
+  n35["bob-cli-mw.land--mon-f [failed]"]
   n0 --> n35
-  n36["bob-cli-mw.land--mon-0 [failed]"]
+  n36["bob-cli-mw.land--mon-k [completed]"]
   n0 --> n36
-  n37["bob-cli-mw.land--j [completed]"]
+  n37["bob-cli-mw.land--c [completed]"]
   n0 --> n37
-  n38["bob-cli-mw.land--mon-c [failed]"]
+  n38["bob-cli-mw.land--mon-e [failed]"]
   n0 --> n38
-  n39["bob-cli-mw.land--gate [completed]"]
+  n39["bob-cli-mw.land--mon-0 [failed]"]
   n0 --> n39
-  n40["bob-cli-mw.land--mon-g [failed]"]
+  n40["bob-cli-mw.land--m [completed]"]
   n0 --> n40
-  n41["bob-cli-mw.land--a [completed]"]
+  n41["bob-cli-mw.land--k [completed]"]
   n0 --> n41
+  n42["bob-cli-mw.land--j [completed]"]
+  n0 --> n42
+  n43["bob-cli-mw.land--mon-c [failed]"]
+  n0 --> n43
+  n44["bob-cli-mw.land--gate [completed]"]
+  n0 --> n44
+  n45["bob-cli-mw.land--mon-g [failed]"]
+  n0 --> n45
+  n46["bob-cli-mw.land--a [completed]"]
+  n0 --> n46
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -105,17 +115,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-b"></a>b | bob-cli-mw.land--b | completed | gpt-6-luna / codex | 2026-11-18T04:30:25.513142+00:00 → 2026-11-18T04:34:48.194018+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--b/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--b/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-mw.land--mon-2 | failed | gpt-6-luna / codex | 2026-11-18T01:40:51.132468+00:00 → 2026-11-18T01:59:18.576423+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-2/chat.md) |
 | <a id="member-8"></a>8 | bob-cli-mw.land--8 | completed | gpt-6-luna / codex | 2026-11-18T03:27:12.001902+00:00 → 2026-11-18T03:30:13.879086+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--8/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--8/chat.md) |
+| <a id="member-mon-j"></a>mon-j | bob-cli-mw.land--mon-j | failed | gpt-6-luna / codex | 2026-11-18T12:15:39.034650+00:00 → 2026-11-18T12:30:21.978346+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-j/chat.md) |
 | <a id="member-9"></a>9 | bob-cli-mw.land--9 | completed | gpt-6-luna / codex | 2026-11-18T03:46:01.824468+00:00 → 2026-11-18T03:50:00.471167+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--9/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--9/chat.md) |
 | <a id="member-mon-b"></a>mon-b | bob-cli-mw.land--mon-b | failed | gpt-6-luna / codex | 2026-11-18T04:54:13.753253+00:00 → 2026-11-18T05:11:07.661762+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-b/chat.md) |
 | <a id="member-3"></a>3 | bob-cli-mw.land--3 | completed | gpt-6-luna / codex | 2026-11-18T01:30:15.871082+00:00 → 2026-11-18T01:41:47.355265+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--3/chat.md) |
 | <a id="member-e"></a>e | bob-cli-mw.land--e | completed | gpt-6-luna / codex | 2026-11-18T05:29:25.425826+00:00 → 2026-11-18T05:34:16.127297+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--e/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--e/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-mw.land--plan | completed | gpt-6-astra / codex | 2026-11-17T23:47:16.390859+00:00 → 2026-11-18T00:33:29.665766+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--plan/chat.md) |
 | <a id="member-g"></a>g | bob-cli-mw.land--g | completed | gpt-6-luna / codex | 2026-11-18T10:28:34.148822+00:00 → 2026-11-18T10:35:32.188152+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--g/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--g/chat.md) |
+| <a id="member-l"></a>l | bob-cli-mw.land--l | completed | gpt-6-luna / codex | 2026-11-18T12:30:21.598868+00:00 → 2026-11-18T12:37:33.354937+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--l/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--l/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-mw.land--2 | completed | gpt-6-luna / codex | 2026-11-18T01:05:19.064372+00:00 → 2026-11-18T01:14:39.833125+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--2/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-mw.land--mon | failed | gpt-6-luna / codex | 2026-11-18T00:32:26.506742+00:00 → 2026-11-18T00:43:35.811749+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon/chat.md) |
 | <a id="member-6"></a>6 | bob-cli-mw.land--6 | completed | gpt-6-luna / codex | 2026-11-18T02:46:34.297055+00:00 → 2026-11-18T03:02:07.039135+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--6/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--6/chat.md) |
 | <a id="member-mon-6"></a>mon-6 | bob-cli-mw.land--mon-6 | failed | gpt-6-luna / codex | 2026-11-18T03:11:22.926558+00:00 → 2026-11-18T03:27:12.400780+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-6/chat.md) |
-| <a id="member-mon-i"></a>mon-i | bob-cli-mw.land--mon-i | active | gpt-6-luna / codex | 2026-11-18T11:55:18.228846+00:00 | 0 | — | — |
+| <a id="member-mon-i"></a>mon-i | bob-cli-mw.land--mon-i | failed | gpt-6-luna / codex | 2026-11-18T11:55:18.228846+00:00 → 2026-11-18T12:10:30.256029+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-i/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-mw.land--mon-1 | failed | gpt-6-luna / codex | 2026-11-18T01:13:20.178250+00:00 → 2026-11-18T01:30:16.309413+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-1/chat.md) |
 | <a id="member-h"></a>h | bob-cli-mw.land--h | completed | gpt-6-luna / codex | 2026-11-18T10:52:18.836127+00:00 → 2026-11-18T10:56:58.942734+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--h/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--h/chat.md) |
 | <a id="member-7"></a>7 | bob-cli-mw.land--7 | completed | gpt-6-luna / codex | 2026-11-18T03:08:38.179371+00:00 → 2026-11-18T03:12:25.616072+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--7/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--7/chat.md) |
@@ -131,9 +143,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-a"></a>mon-a | bob-cli-mw.land--mon-a | failed | gpt-6-luna / codex | 2026-11-18T04:33:41.531121+00:00 → 2026-11-18T04:50:33.783801+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-a/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | bob-cli-mw.land--mon-5 | failed | gpt-6-luna / codex | 2026-11-18T03:00:53.825191+00:00 → 2026-11-18T03:08:38.470303+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-5/chat.md) |
 | <a id="member-mon-f"></a>mon-f | bob-cli-mw.land--mon-f | failed | gpt-6-luna / codex | 2026-11-18T10:34:36.801891+00:00 → 2026-11-18T10:52:19.234671+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-f/chat.md) |
+| <a id="member-mon-k"></a>mon-k | bob-cli-mw.land--mon-k | completed | gpt-6-luna / codex | 2026-11-18T12:36:58.080210+00:00 → 2026-11-18T12:54:32.485434+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-k/chat.md) |
 | <a id="member-c"></a>c | bob-cli-mw.land--c | completed | gpt-6-luna / codex | 2026-11-18T04:50:33.342933+00:00 → 2026-11-18T04:55:08.621908+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--c/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--c/chat.md) |
 | <a id="member-mon-e"></a>mon-e | bob-cli-mw.land--mon-e | failed | gpt-6-luna / codex | 2026-11-18T06:26:04.528410+00:00 → 2026-11-18T10:28:34.348171+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-e/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-mw.land--mon-0 | failed | gpt-6-luna / codex | 2026-11-18T00:48:03.085424+00:00 → 2026-11-18T01:05:19.543611+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-0/chat.md) |
+| <a id="member-m"></a>m | bob-cli-mw.land--m | completed | gpt-6-luna / codex | 2026-11-18T12:54:32.107528+00:00 → 2026-11-18T13:02:38.480087+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--m/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--m/chat.md) |
+| <a id="member-k"></a>k | bob-cli-mw.land--k | completed | gpt-6-luna / codex | 2026-11-18T12:10:29.801375+00:00 → 2026-11-18T12:16:14.261485+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--k/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--k/chat.md) |
 | <a id="member-j"></a>j | bob-cli-mw.land--j | completed | gpt-6-luna / codex | 2026-11-18T11:46:52.590138+00:00 → 2026-11-18T11:57:53.556775+00:00 | [1](../agents/bbugyi200.athena.bob-cli-mw.land--j/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-mw.land--j/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--j/chat.md) |
 | <a id="member-mon-c"></a>mon-c | bob-cli-mw.land--mon-c | failed | gpt-6-luna / codex | 2026-11-18T05:13:49.958561+00:00 → 2026-11-18T05:29:25.645170+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--mon-c/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-mw.land--gate | completed | gpt-6-astra / codex | 2026-11-17T23:58:03.744672+00:00 → 2026-11-17T23:58:11.728512+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-mw.land--gate/chat.md) |
