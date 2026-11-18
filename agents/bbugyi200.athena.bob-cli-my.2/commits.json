@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-6305f5d23184d3f7e5298797fb891474"}
+{"commits":[{"committed_at":1794967656,"sha":"0a3099506e6d2629b9dd1d4c0e176126ffa68e1d","subject":"fix(capture): preserve Pomodoro preview identity and report settled name"}],"schema_version":2,"source_run_id":"run-6305f5d23184d3f7e5298797fb891474"}
