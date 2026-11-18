@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-na.1](../agents/bbugyi200.apollo.bob-cli-na.1/README.md) | bob-cli-na hood | completed |
 | [bob-cli-na.2](../agents/bbugyi200.apollo.bob-cli-na.2/README.md) | bob-cli-na hood | completed |
 | [bob-cli-na.3](../agents/bbugyi200.apollo.bob-cli-na.3/README.md) | bob-cli-na hood | completed |
-| [bob-cli-na.5](bbugyi200.apollo.bob-cli-na.5.md) (session · 8) | bob-cli-na hood | active 1, completed 7 |
+| [bob-cli-na.5](bbugyi200.apollo.bob-cli-na.5.md) (session · 15) | bob-cli-na hood | completed 13, failed 2 |
 | [bob-cli-na.6](../agents/bbugyi200.apollo.bob-cli-na.6/README.md) | bob-cli-na hood | waiting |
 | [bob-cli-na.7](../agents/bbugyi200.apollo.bob-cli-na.7/README.md) | bob-cli-na hood | waiting |
 | [bob-cli-na.8](../agents/bbugyi200.apollo.bob-cli-na.8/README.md) | bob-cli-na hood | waiting |
