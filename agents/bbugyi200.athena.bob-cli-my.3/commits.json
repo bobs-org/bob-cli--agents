@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3b3c4b606aa858e12a6e21d0e92e8c81"}
+{"commits":[{"committed_at":1794969464,"sha":"97f844caf4a942f275dc22336136834a94ed2cfa","subject":"fix(capture): refuse past-midnight Pomodoro offset starts"}],"schema_version":2,"source_run_id":"run-3b3c4b606aa858e12a6e21d0e92e8c81"}

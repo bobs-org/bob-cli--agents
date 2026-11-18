@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-my](../../users/bbugyi200/machines/athena/hoods/bob-cli-my/README.md) / bob-cli-my.3
 
-**Global name:** `bbugyi200.athena.bob-cli-my.3` · **State:** waiting · **Source run:** `run-3b3c4b606aa858e12a6e21d0e92e8c81`
+**Global name:** `bbugyi200.athena.bob-cli-my.3` · **State:** completed · **Source run:** `run-3b3c4b606aa858e12a6e21d0e92e8c81`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-my
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-my](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-my/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261117192013
-- Commits: 0
+- Timing: 2026-11-18T02:09:36.510359+00:00 → 2026-11-18T02:38:20.852018+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`97f844c`](https://github.com/bobs-org/bob-cli/commit/97f844caf4a942f275dc22336136834a94ed2cfa) | fix(capture): refuse past-midnight Pomodoro offset starts | 2026-11-17 21:37:44 EST |
 
 ## Neighbors
 
