@@ -1,6 +1,6 @@
-#gh:gh_bobs-org__bob-cli
 %id(3, clan=bob-cli-ms.8.3.1, bead=bob-cli-ms.8.3.1.3)
-%model:@medium
+#gh:gh_bobs-org__bob-cli
+%m:gpt-6-astra 
 %auto
 %w(bob-cli-ms.8.3.1.2, for_epic=false)
 %w(bead=bob-cli-ms.8.3.1.2)

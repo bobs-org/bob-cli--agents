@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ms](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ms/README.md) / [bob-cli-ms.8.3.1.1](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.1.md) / bob-cli-ms.8.3.1.1--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-ms.8.3.1.1--plan` · **State:** completed · **Source run:** `run-5131e42f80da817f7141e8172e2c4db6`
+**Global name:** `bbugyi200.apollo.bob-cli-ms.8.3.1.1--plan` · **State:** completed · **Source run:** `run-36e8923534ee30dac74d2b3780138ff8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ms
 
 ## Summary
 
 - Bead: [bob-cli-ms.8.3.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ms/bob-cli-ms.8.3.1.1.md)
-- Epic: [bob-cli-ms.8.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ms/bob-cli-ms.8.3.1.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-18T14:01:01.141062+00:00 → 2026-11-18T14:32:43.290689+00:00
+- Timing: 2026-11-18T20:37:24.405697+00:00 → 2026-11-18T20:53:27.040569+00:00
 - Commits: 0
 
 ## Files
@@ -24,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-ms.8.3](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-ms.8.3.1.2](../bbugyi200.apollo.bob-cli-ms.8.3.1.2/README.md) | bob-cli-ms.8.3.1 hood | waiting |
+| [bob-cli-ms.8.3.1.2](../bbugyi200.apollo.bob-cli-ms.8.3.1.2/README.md) | bob-cli-ms.8.3.1 hood | active |
 | [bob-cli-ms.8.3.1.3](../bbugyi200.apollo.bob-cli-ms.8.3.1.3/README.md) | bob-cli-ms.8.3.1 hood | waiting |
 | [bob-cli-ms.8.3.1.land](../bbugyi200.apollo.bob-cli-ms.8.3.1.land/README.md) | bob-cli-ms.8.3.1 hood | waiting |
 | [bob-cli-ms.8.1](../../sessions/bbugyi200.apollo.bob-cli-ms.8.1.md) (session · 5) | bob-cli-ms.8 hood | completed 4, failed 1 |

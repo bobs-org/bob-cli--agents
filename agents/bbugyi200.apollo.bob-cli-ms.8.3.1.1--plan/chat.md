@@ -1,38 +1,37 @@
 # Chat History - ace-run (bob-cli-ms.8.3.1.1--plan)
 
-- **TIMESTAMP:** 2026-11-18 09:32:35 EST
-- **MODEL:** codex/gpt-6-luna
+- **TIMESTAMP:** 2026-11-18 15:53:14 EST
+- **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-ms.8.3.1.1--plan
 
 # Monitor handoff
 
 This agent delegated the remaining work to a monitor turn.
-Monitor ID: kf0tpdn3yy4j
-Inspect with: sase monitor show kf0tpdn3yy4j
+Monitor ID: fr2mj57spd75
+Inspect with: sase monitor show fr2mj57spd75
 Monitor turn: bob-cli-ms.8.3.1.1--mon
 Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10
 
 Command:
 
 ```sh
-bash /tmp/bob-record-card-first-pass.sh
+python3 .build/property-hiding/verify.py
 ```
 
 Reason:
 
-Build current Bob and capture the first isolated Record Card DOM report on athena
+Verify schema-only Properties hiding, compare pre-existing failures, and deploy without force
 
 Next action:
 
-Review the captured athena report and inspect every screenshot. Use the recorded Live Preview and Reading DOM paths to repair the Properties selectors and editor scope; pin the observed structure and nested embed exclusion in a regression test that fails the current selectors. Finish phase-one acceptance, the generated plugin build, focused tests, all required plugin gates, deployment without force, the post-sync startup smoke, artifact registration, a detailed note on bob-cli-ms.8.3.1.1, the epic-symbol check, and close only bob-cli-ms.8.3.1.1. Keep phase-two interaction work pending. Use the documented infrastructure skip only if the host prerequisite truly fails; fix product failures on a working host.
+Finish bob-cli-ms.8.3.1.1 from .build/property-hiding/verification/summary.json and retained logs. The user explicitly requires only title and album-schema properties represented by the card to hide; parent/type/created/legacy/unknown keys and Add property remain visible. The narrow repair and tests are implemented, 40 focused tests passed, upstream record-walk 281ee8a is integrated, and source bundle matches fragments. The monitor runs full plugin gates, a clean-base npm comparison if needed, clean bob-cli just check/build, real Athena sheet proof, pre-sync smoke, non-force sync and post-sync smoke through an audited read-only apollo bridge if checks permit. Inspect every screenshot under verification/results/screenshots and register JSON reports/screenshots as SASE artifacts, with visual verdicts. If the script stopped, repair only introduced failures and complete missing validation/deployment. Current bob-cli is entirely unchanged: a just-check failure on its clean SHA is clean-base evidence and does not hold this bead open. Do not strand this phase on the already documented timing failures bob-cli-km/io/ki/ju; use baseline comparison and the parent known-red policy, recording a PROPOSED FOLLOW-UP on this bead only when required. Recent record-walk changes may require adapting stale harness assumptions that a synced frontmatter-only record ends at the closing delimiter. Preserve exact real-bob reports; do not mask new product failures. Before any new deploy, fetch/merge and rebuild, use the deployment runbook on protection refusal, never force. Do not create beads or edit memory. Run epic-symbols and close only bob-cli-ms.8.3.1.1 with verified evidence when done; leave phase two and ancestors unchanged. Finish through /sase_final, with a commit decision for every changed repository.
 
 
 ## Prompt
 
+%id(1, clan=bob-cli-ms.8.3.1, bead=bob-cli-ms.8.3.1.1)
 #gh:gh_bobs-org__bob-cli
-%id(bob-cli-ms.8.3.1.1, bead=bob-cli-ms.8.3.1.1)
-%clan(bob-cli-ms.8.3.1, tribe=epic, summary_script=sase_clan_summary_epic)
-%model:@medium
+%m:gpt-6-astra 
 %auto
 Can you complete the work for bead bob-cli-ms.8.3.1.1? The bead is already reserved for you and assigned to your agent
 name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
@@ -60,22 +59,24 @@ open: record it as a `PROPOSED FOLLOW-UP:` entry (citing any task bead that alre
 nothing relaunches a phase left open. Before planning, check the phase's notes: if an earlier agent already
 worked this phase and left it open with recorded remaining work, that remainder did not fit one agent, so author
 a child epic whose phases each fit one coding agent and whose land agent closes this phase instead of another
-single-agent tale unless one coder can clearly finish everything left.
+single-agent tale unless one coder can clearly finish everything left. See the ~/tmp/screencasts/20261118_153252.mp4 screencast for an example of the issues property hiding is experiencing (only the properties associated with the album and shown in the schema card should be hidden).
 
 ## Response
 
-I’ll inspect the bead, its notes, and the current worktree first, then continue only with what remains in scope.
+I’m using the SASE bead and memory skills to read the phase scope and earlier notes, then I’ll inspect the screencast and check what has already landed.
 
-The plan confirms this phase is the first harness and selector-proof pass; existing H1 cleanup and sheet-title work have already landed and should not be repeated. I’m checking the governing acceptance contract and plugin checkout now.
+The earlier implementation and Obsidian proof have landed. The remaining recorded failures are timing assertions in the full plugin test suite. I’m also checking your new screencast for a separate hiding defect, since that may need a focused repair before closing the phase.
 
-The selector behavior still needs real DOM evidence before changing CSS. I’m verifying the epic’s binding decisions and the current runner conventions, then I’ll build the isolated probe and use athena only with disposable test data.
+The screencast shows the whole Properties panel disappearing, then briefly returning after a tab switch. The landed CSS does hide the entire panel. I’ll narrow it to the record title and album-defined fields shown by the card, keeping general metadata and unrelated properties visible.
 
-The design contract confirms the hide must remain fail-open and scoped to each note view. The current CSS targets direct children, while Live Preview and Reading may nest those elements deeper; I’ll let the real DOM probe identify the correct ownership path before changing styles.
+The repair now leaves the Properties panel and “Add property” control available, hiding only rows represented by the record card. It also handles Obsidian replacing those rows after a tab switch. I’m adding regression checks for unrelated keys, embedded notes, and cleanup when the sheet loses eligibility.
 
-The offline harness and negative visibility assertions are in place. I’ve also corrected it to record the real Bob binary provenance and preserve diagnostics on failure; next I’m checking athena availability before the real Obsidian run.
+All 34 focused sheet and harness tests pass. Another plugin change landed during the repair, so I’m integrating it before verification and deployment to preserve the record-walk work. The next checks will verify individual native property rows in real Obsidian.
 
-Athena is reachable and has the required Node, Xvfb, and Obsidian binaries. I’m staging a monitored current-Bob build and isolated CDP capture; the follow-up will use its DOM report to make the selector repair and finish this bead’s acceptance work.
+The repair is integrated with the latest record-walk changes, and all 40 focused tests pass. I’m staging the full test suite, real Obsidian walkthrough, and guarded deployment through the SASE monitor. I’ll compare any full-suite failures against the clean base so existing timing failures don’t leave this phase open again.
 
-The earlier title and H1-cleanup work had already landed, so I left it untouched. I added the Record Card CDP runner, offline wrapper, fixture and negative visibility checks, and validation docs. The offline self-test and wrapper tests pass.
+The verification and guarded-deployment monitor is staged. I’m using the SASE finalizer to preserve the repair and start that continuation. The bead remains open until the Obsidian results and screenshots have been checked.
 
-Monitor `kf0tpd` is staged to build current Bob and capture the real DOM on athena. The selector repair, full acceptance gates, deployment, artifact registration, and bead closure are still pending; the staged successor will continue that work.
+Implemented selective hiding: title and album-schema fields hide; general metadata and unrelated properties remain visible. All 40 focused tests pass.
+
+Full Obsidian verification and guarded deployment are queued automatically. The bead remains open pending verification and screenshot review.
