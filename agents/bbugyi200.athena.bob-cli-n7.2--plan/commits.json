@@ -1,0 +1,1 @@
+{"commits":[{"committed_at":1795006527,"sha":"1f6cc7bedbeb6786202d9e003dad3b1cbccd4911","subject":"fix(note-catalog): canonicalize library roots for symlinked vaults"}],"schema_version":2,"source_run_id":"run-dc4a23644d86fe3a43f2f981bb8c79c6"}
