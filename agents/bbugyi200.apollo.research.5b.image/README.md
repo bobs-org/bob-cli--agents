@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5b.image
 
-**Global name:** `bbugyi200.apollo.research.5b.image` · **State:** waiting · **Source run:** `run-770894b05281dfc2968801bd6684ab8d`
+**Global name:** `bbugyi200.apollo.research.5b.image` · **State:** completed · **Source run:** `run-770894b05281dfc2968801bd6684ab8d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,60 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261118100139
+- Timing: 2026-11-18T15:31:32.348293+00:00 → 2026-11-18T15:40:22.269764+00:00
 - Commits: 0
+- Variables: [3](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/record\_nav\_ring/record\_nav\_ring\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261118100139/record\_nav\_ring\_infographic-b57d24d6c0… |
+| `diagrams` | {considered: 15, count: 1, manifest: 202611/record\_nav\_ring/record\_nav\_ring.diagrams.md, source\_ref: file:explicit:1a092bfb32c78de599da8740, status: ready} |
+| `infographic` | {dimensions: \[1086, 1448\], generator: built-in image\_gen, path: 202611/record\_nav\_ring/record\_nav\_ring\_infographic.png, ref: file:explicit:215fc340d608fcc47425c46e, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/record_nav_ring/record_nav_ring_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261118100139/record_nav_ring_infographic-b57d24d6c0fb.png
+  ref: file:explicit:215fc340d608fcc47425c46e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/record_nav_ring/record_nav_ring_infographic.png
+- kind: markdown
+  label: diagrams:202611/record_nav_ring/record_nav_ring.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261118100139/record_nav_ring.diagrams-f7437a876671.md
+  ref: file:explicit:a3deecc6d271a51d49f73707
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/record_nav_ring/record_nav_ring.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 1
+manifest: 202611/record_nav_ring/record_nav_ring.diagrams.md
+source_ref: file:explicit:1a092bfb32c78de599da8740
+status: ready
+```
+
+#### infographic
+
+```yaml
+dimensions:
+  - 1086
+  - 1448
+generator: built-in image_gen
+path: 202611/record_nav_ring/record_nav_ring_infographic.png
+ref: file:explicit:215fc340d608fcc47425c46e
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
