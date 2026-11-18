@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-na](../../users/bbugyi200/machines/apollo/hoods/bob-cli-na/README.md) / bob-cli-na.8
 
-**Global name:** `bbugyi200.apollo.bob-cli-na.8` · **State:** waiting · **Source run:** `run-f63efba3518910bd505e2689c5d82900`
+**Global name:** `bbugyi200.apollo.bob-cli-na.8` · **State:** completed · **Source run:** `run-f63efba3518910bd505e2689c5d82900`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-na
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-na](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-na/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261118110827
-- Commits: 0
+- Timing: 2026-11-18T21:33:45.610461+00:00 → 2026-11-18T21:47:24.204181+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`b96bbe7`](https://github.com/bobs-org/bob-cli/commit/b96bbe7da6fb54a9f089c0d0d9d3d91bbafd39c0) | docs(records): link record walk plugin references | 2026-11-18 16:46:37 EST |
 
 ## Neighbors
 
