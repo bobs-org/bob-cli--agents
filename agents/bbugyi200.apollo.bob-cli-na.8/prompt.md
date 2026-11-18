@@ -1,7 +1,7 @@
+%auto
 #gh:gh_bobs-org__bob-cli
 %id(8, clan=bob-cli-na, bead=bob-cli-na.8)
 %model:@small
-%auto
 %w(bob-cli-na.2,bob-cli-na.3,bob-cli-na.4,bob-cli-na.7, for_epic=false)
 %w(bead=bob-cli-na.2)
 %w(bead=bob-cli-na.3)
