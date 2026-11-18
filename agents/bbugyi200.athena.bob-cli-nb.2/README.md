@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nb](../../users/bbugyi200/machines/athena/hoods/bob-cli-nb/README.md) / bob-cli-nb.2
 
-**Global name:** `bbugyi200.athena.bob-cli-nb.2` · **State:** active · **Source run:** `run-f3b0f0da85ccde01111b05639521b84a`
+**Global name:** `bbugyi200.athena.bob-cli-nb.2` · **State:** completed · **Source run:** `run-f3b0f0da85ccde01111b05639521b84a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nb
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-nb](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nb/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-18T21:12:45.798815+00:00
-- Commits: 0
+- Timing: 2026-11-18T21:12:45.798815+00:00 → 2026-11-18T22:05:42.798261+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`75de001`](https://github.com/bobs-org/bob-cli/commit/75de001f8c3202241ee9b2f3f65936f9f0db7147) | feat(tick): add step gates and per-step adapters | 2026-11-18 17:05:09 EST |
 
 ## Neighbors
 
