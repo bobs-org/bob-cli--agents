@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / [bob-cli-nh.6.1.land](../../sessions/bbugyi200.athena.bob-cli-nh.6.1.land.md) / bob-cli-nh.6.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.6.1.land--code` · **State:** active · **Source run:** `run-1ee4c881f49cb94e6ec5b90097e7cc32`
+**Global name:** `bbugyi200.athena.bob-cli-nh.6.1.land--code` · **State:** completed · **Source run:** `run-1ee4c881f49cb94e6ec5b90097e7cc32`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
@@ -11,9 +11,13 @@
 - Bead: [bob-cli-nh.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/bob-cli-nh.6.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-19T22:34:59.255789+00:00
+- Timing: 2026-11-19T22:34:59.255789+00:00 → 2026-11-19T23:13:41.858797+00:00
 - Commits: 0
 - Variables: [1](#variables)
+
+## Files
+
+[Chat](chat.md)
 
 ## Variables
 
@@ -61,7 +65,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-nh.4.1.4](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.4.md) (session · 9) | bob-cli-nh hood | completed 5, failed 4 |
 | [bob-cli-nh.4.1.land](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.land.md) (session · 3) | bob-cli-nh hood | active 2, completed 1 |
 | [bob-cli-nh.5](../bbugyi200.athena.bob-cli-nh.5/README.md) | bob-cli-nh hood | completed |
-| [bob-cli-nh.7](../bbugyi200.athena.bob-cli-nh.7/README.md) | bob-cli-nh hood | waiting |
+| [bob-cli-nh.7](../../sessions/bbugyi200.athena.bob-cli-nh.7.md) (session · 3) | bob-cli-nh hood | active 2, completed 1 |
 | [bob-cli-nh.8](../bbugyi200.athena.bob-cli-nh.8/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.9](../bbugyi200.athena.bob-cli-nh.9/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.land](../bbugyi200.athena.bob-cli-nh.land/README.md) | bob-cli-nh hood | waiting |
