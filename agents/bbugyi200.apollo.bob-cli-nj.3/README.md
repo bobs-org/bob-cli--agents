@@ -1,0 +1,33 @@
+# Agent: bob-cli-nj.3
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-nj](../../users/bbugyi200/machines/apollo/hoods/bob-cli-nj/README.md) / bob-cli-nj.3
+
+**Global name:** `bbugyi200.apollo.bob-cli-nj.3` · **State:** waiting · **Source run:** `run-2b96aacfd66f4fbfe5b7732981ee7b7b`
+
+**Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-nj
+
+## Summary
+
+- Bead: [bob-cli-nj.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nj/bob-cli-nj.3.md)
+- Epic: [bob-cli-nj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nj/README.md)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 20261119121621
+- Commits: 0
+
+## Files
+
+[Prompt](prompt.md)
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-nj.1](../bbugyi200.apollo.bob-cli-nj.1/README.md) | bob-cli-nj hood | completed |
+| [bob-cli-nj.2](../bbugyi200.apollo.bob-cli-nj.2/README.md) | bob-cli-nj hood | active |
+| [bob-cli-nj.4](../bbugyi200.apollo.bob-cli-nj.4/README.md) | bob-cli-nj hood | waiting |
+| [bob-cli-nj.5](../bbugyi200.apollo.bob-cli-nj.5/README.md) | bob-cli-nj hood | active |
+| [bob-cli-nj.6](../bbugyi200.apollo.bob-cli-nj.6/README.md) | bob-cli-nj hood | active |
+| [bob-cli-nj.7](../bbugyi200.apollo.bob-cli-nj.7/README.md) | bob-cli-nj hood | waiting |
+| [bob-cli-nj.8](../bbugyi200.apollo.bob-cli-nj.8/README.md) | bob-cli-nj hood | waiting |
+| [bob-cli-nj.land](../bbugyi200.apollo.bob-cli-nj.land/README.md) | bob-cli-nj hood | waiting |
