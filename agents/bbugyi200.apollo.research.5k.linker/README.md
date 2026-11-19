@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5k.linker
 
-**Global name:** `bbugyi200.apollo.research.5k.linker` · **State:** waiting · **Source run:** `run-ece92ef4211d4aebc54de4988f2668b5`
+**Global name:** `bbugyi200.apollo.research.5k.linker` · **State:** completed · **Source run:** `run-ece92ef4211d4aebc54de4988f2668b5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261119164556
+- Timing: 2026-11-19T22:44:23.948297+00:00 → 2026-11-19T22:53:25.911751+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_command\_chips/obsidian\_command\_chips.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119164556/obsidian\_command\_chips-d8b88fba… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_command_chips/obsidian_command_chips.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119164556/obsidian_command_chips-d8b88fba0378.md
+  ref: file:explicit:88880cb1c53e3dd5a13e3cdf
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/obsidian_command_chips/obsidian_command_chips.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
