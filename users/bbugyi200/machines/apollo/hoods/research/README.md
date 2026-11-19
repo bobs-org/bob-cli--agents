@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 1226 · **Sessions:** 59 · **States:** active 126, completed 572, dismissed 486, failed 40, waiting 2
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 1226 · **Sessions:** 59 · **States:** active 126, completed 573, dismissed 486, failed 40, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -119,7 +119,7 @@
 | [research.1m.mus](../../../../../../agents/bbugyi200.apollo.research.1m.mus/README.md) | dismissed | muse-spark-1.3-contributor / muse | 2026-10-15T16:34:43.020905 → 2026-10-15T16:40:57.291658 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.1m.mus/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.1m.mus/chat.md) |
 | [research.9.cdx](../../../../../../agents/bbugyi200.apollo.research.9.cdx/README.md) | completed | — | 2026-06-12T11:43:47+00:00 → 2026-06-12T11:43:47+00:00 | 1 | — |
 | [research.v.linker.w0--mon](../../../../../../sessions/bbugyi200.apollo.research.v.linker.w0.md#member-mon) | failed | opus / claude | 2026-09-30T23:31:56.931267+00:00 → 2026-09-30T23:32:47.866449+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.research.v.linker.w0--mon/chat.md) |
-| [research.5h.linker](../../../../../../agents/bbugyi200.apollo.research.5h.linker/README.md) | waiting | opus / claude | 20261119102637 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.5h.linker/prompt.md) |
+| [research.5h.linker](../../../../../../agents/bbugyi200.apollo.research.5h.linker/README.md) | completed | opus / claude | 2026-11-19T16:27:21.042761+00:00 → 2026-11-19T16:35:29.440563+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.5h.linker/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.5h.linker/chat.md) |
 | [research.4h.cdx](../../../../../../agents/bbugyi200.apollo.research.4h.cdx/README.md) | completed | gpt-6-astra / codex | 2026-11-12T20:11:23.486979+00:00 → 2026-11-12T20:25:16.019455+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.4h.cdx/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.4h.cdx/chat.md) |
 | [research.v.final](../../../../../../agents/bbugyi200.apollo.research.v.final/README.md) | dismissed | opus / claude | 2026-09-30T18:37:33.434649 → 2026-09-30T18:53:20.279298 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.v.final/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.v.final/chat.md) |
 | [research.4q.linker.w1--mon](../../../../../../sessions/bbugyi200.apollo.research.4q.linker.w1.md#member-mon) | completed | opus / claude | 2026-11-15T17:23:58.250732+00:00 → 2026-11-15T17:27:38.224087+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.research.4q.linker.w1--mon/chat.md) |

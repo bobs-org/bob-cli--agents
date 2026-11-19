@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5h.linker
 
-**Global name:** `bbugyi200.apollo.research.5h.linker` · **State:** waiting · **Source run:** `run-15380d96daf26f7afd0d2c478ae3b477`
+**Global name:** `bbugyi200.apollo.research.5h.linker` · **State:** completed · **Source run:** `run-15380d96daf26f7afd0d2c478ae3b477`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261119102637
+- Timing: 2026-11-19T16:27:21.042761+00:00 → 2026-11-19T16:35:29.440563+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/log\_reason\_history/log\_reason\_history.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119102637/log\_reason\_history-ed7afba24b77.md, ref… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/log_reason_history/log_reason_history.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119102637/log_reason_history-ed7afba24b77.md
+  ref: file:explicit:de122cd218e23df098f8c449
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/log_reason_history/log_reason_history.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
