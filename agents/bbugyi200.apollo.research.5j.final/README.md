@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5j.final
 
-**Global name:** `bbugyi200.apollo.research.5j.final` · **State:** waiting · **Source run:** `run-97216dc8b75c973a209e7ca41debe01c`
+**Global name:** `bbugyi200.apollo.research.5j.final` · **State:** completed · **Source run:** `run-97216dc8b75c973a209e7ca41debe01c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261119133153
+- Timing: 2026-11-19T18:55:20.134651+00:00 → 2026-11-19T19:13:57.358122+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_import\_delete\_flag/bank\_import\_delete\_flag\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119133153/bank\_import\_delete\_fla… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_import_delete_flag/bank_import_delete_flag__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119133153/bank_import_delete_flag__final-331fc1903362.md
+  ref: file:explicit:1f1e66a1ae4673fd97a4ddc9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/bank_import_delete_flag/bank_import_delete_flag__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
