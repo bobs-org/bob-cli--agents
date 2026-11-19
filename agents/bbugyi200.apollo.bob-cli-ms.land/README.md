@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`03ab2b3`](https://github.com/bobs-org/bob-cli/commit/03ab2b3d41dc5734e15be04a61da71b80455d43f) | docs(glossary): regenerate the capture alias item-start dot entry | 2026-11-17 22:23:24 EST |
+| — | `03ab2b3` | docs(glossary): regenerate the capture alias item-start dot entry | 2026-11-17 22:23:24 EST |
 
 ## Neighbors
 

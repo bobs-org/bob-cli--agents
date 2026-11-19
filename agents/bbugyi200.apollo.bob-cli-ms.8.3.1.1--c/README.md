@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3b5490c`](https://github.com/bobs-org/bob-cli/commit/3b5490c1ad415f61b710f3fe4eea500378c1210d) | feat(records): show, check, and tidy learn the record walk line | 2026-11-18 13:45:59 EST |
+| — | `3b5490c` | feat(records): show, check, and tidy learn the record walk line | 2026-11-18 13:45:59 EST |
 
 ## Neighbors
 
@@ -43,5 +43,5 @@
 | [bob-cli-ms.6](../../sessions/bbugyi200.apollo.bob-cli-ms.6.md) (session · 5) | bob-cli-ms hood | completed 4, failed 1 |
 | [bob-cli-ms.6](../bbugyi200.apollo.bob-cli-ms.6/README.md) | bob-cli-ms hood | completed |
 | [bob-cli-ms.7](../bbugyi200.apollo.bob-cli-ms.7/README.md) | bob-cli-ms hood | completed |
-| [bob-cli-ms.land](../../sessions/bbugyi200.apollo.bob-cli-ms.land.md) (session · 3) | bob-cli-ms hood | active 1, completed 2 |
+| [bob-cli-ms.land](../../sessions/bbugyi200.apollo.bob-cli-ms.land.md) (session · 3) | bob-cli-ms hood | completed 2, dismissed 1 |
 | [bob-cli-ms.land](../bbugyi200.apollo.bob-cli-ms.land/README.md) | bob-cli-ms hood | completed |

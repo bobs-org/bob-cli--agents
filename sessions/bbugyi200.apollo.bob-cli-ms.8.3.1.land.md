@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`5b4c263`](https://github.com/bobs-org/bob-cli/commit/5b4c26360efe9d90d20b8371ac53a05bef7492b6) | fix(records): validate stored literal lists without CLI comma splitting | 2026-11-19 08:11:18 EST |
+| code | — | `5b4c263` | fix(records): validate stored literal lists without CLI comma splitting | 2026-11-19 08:11:18 EST |
 
 ## Variables
 
@@ -73,5 +73,5 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-ms.6](bbugyi200.apollo.bob-cli-ms.6.md) (session · 5) | bob-cli-ms hood | completed 4, failed 1 |
 | [bob-cli-ms.6](../agents/bbugyi200.apollo.bob-cli-ms.6/README.md) | bob-cli-ms hood | completed |
 | [bob-cli-ms.7](../agents/bbugyi200.apollo.bob-cli-ms.7/README.md) | bob-cli-ms hood | completed |
-| [bob-cli-ms.land](bbugyi200.apollo.bob-cli-ms.land.md) (session · 3) | bob-cli-ms hood | active 1, completed 2 |
+| [bob-cli-ms.land](bbugyi200.apollo.bob-cli-ms.land.md) (session · 3) | bob-cli-ms hood | completed 2, dismissed 1 |
 | [bob-cli-ms.land](../agents/bbugyi200.apollo.bob-cli-ms.land/README.md) | bob-cli-ms hood | completed |

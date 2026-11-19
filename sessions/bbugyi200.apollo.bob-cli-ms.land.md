@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-ms.land--gate [completed]"]
   n1["bob-cli-ms.land--mon [completed]"]
   n0 --> n1
-  n2["bob-cli-ms.land--plan [active]"]
+  n2["bob-cli-ms.land--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,13 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-ms.land--gate | completed | opus / claude | 2026-11-18T03:24:52.697075+00:00 → 2026-11-18T03:25:20.806576+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.land--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-ms.land--mon | completed | opus / claude | 2026-11-18T03:25:17.566738+00:00 → 2026-11-18T03:28:44.234687+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.land--mon/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ms.land--plan | active | opus / claude | 2026-11-18T02:57:01.362932+00:00 → 2026-11-18T03:25:33.286276+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ms.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ms.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ms.land--plan | dismissed | opus / claude | 2026-11-17T21:57:01.362932 → 2026-11-17T22:25:33.845312 | [1](../agents/bbugyi200.apollo.bob-cli-ms.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ms.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.land--plan/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | bob-cli | [`03ab2b3`](https://github.com/bobs-org/bob-cli/commit/03ab2b3d41dc5734e15be04a61da71b80455d43f) | docs(glossary): regenerate the capture alias item-start dot entry | 2026-11-17 22:23:24 EST |
+| plan | — | `03ab2b3` | docs(glossary): regenerate the capture alias item-start dot entry | 2026-11-17 22:23:24 EST |
 
 ## Neighbors
 

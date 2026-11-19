@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e07a26b`](https://github.com/bobs-org/bob-cli/commit/e07a26bf86b93fe12df571ac6cb00f8b71d28cca) | fix(records): preserve literal YAML values in reads and undo | 2026-11-19 04:10:03 EST |
+| — | `e07a26b` | fix(records): preserve literal YAML values in reads and undo | 2026-11-19 04:10:03 EST |
 
 ## Variables
 
@@ -69,5 +69,5 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-ms.6](../../sessions/bbugyi200.apollo.bob-cli-ms.6.md) (session · 5) | bob-cli-ms hood | completed 4, failed 1 |
 | [bob-cli-ms.6](../bbugyi200.apollo.bob-cli-ms.6/README.md) | bob-cli-ms hood | completed |
 | [bob-cli-ms.7](../bbugyi200.apollo.bob-cli-ms.7/README.md) | bob-cli-ms hood | completed |
-| [bob-cli-ms.land](../../sessions/bbugyi200.apollo.bob-cli-ms.land.md) (session · 3) | bob-cli-ms hood | active 1, completed 2 |
+| [bob-cli-ms.land](../../sessions/bbugyi200.apollo.bob-cli-ms.land.md) (session · 3) | bob-cli-ms hood | completed 2, dismissed 1 |
 | [bob-cli-ms.land](../bbugyi200.apollo.bob-cli-ms.land/README.md) | bob-cli-ms hood | completed |

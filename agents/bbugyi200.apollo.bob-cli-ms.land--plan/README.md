@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ms](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ms/README.md) / [bob-cli-ms.land](../../sessions/bbugyi200.apollo.bob-cli-ms.land.md) / bob-cli-ms.land--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-ms.land--plan` · **State:** active · **Source run:** `run-b976945841198707585f075cb248a16b`
+**Global name:** `bbugyi200.apollo.bob-cli-ms.land--plan` · **State:** dismissed · **Source run:** `run-b976945841198707585f075cb248a16b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ms
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-ms](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ms/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-18T02:57:01.362932+00:00 → 2026-11-18T03:25:33.286276+00:00
+- Timing: 2026-11-17T21:57:01.362932 → 2026-11-17T22:25:33.845312
 - Commits: [1](#commits)
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`03ab2b3`](https://github.com/bobs-org/bob-cli/commit/03ab2b3d41dc5734e15be04a61da71b80455d43f) | docs(glossary): regenerate the capture alias item-start dot entry | 2026-11-17 22:23:24 EST |
+| — | `03ab2b3` | docs(glossary): regenerate the capture alias item-start dot entry | 2026-11-17 22:23:24 EST |
 
 ## Neighbors
 
