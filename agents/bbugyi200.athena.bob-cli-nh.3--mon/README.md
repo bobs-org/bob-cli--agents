@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / [bob-cli-nh.3](../../sessions/bbugyi200.athena.bob-cli-nh.3.md) / bob-cli-nh.3--mon
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.3--mon` · **State:** active · **Source run:** `run-85b99c617f161b14b38bb7cf0ac711a4`
+**Global name:** `bbugyi200.athena.bob-cli-nh.3--mon` · **State:** completed · **Source run:** `run-85b99c617f161b14b38bb7cf0ac711a4`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
@@ -12,8 +12,12 @@
 - Epic: [bob-cli-nh](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-19T19:51:30.852357+00:00
+- Timing: 2026-11-19T19:51:30.852357+00:00 → 2026-11-19T20:46:16.326461+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -26,7 +30,7 @@
 | [bob-cli-nh.4.1.1](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.1.md) (session · 7) | bob-cli-nh hood | completed 5, failed 2 |
 | [bob-cli-nh.4.1.2](../bbugyi200.athena.bob-cli-nh.4.1.2/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.4.1.3](../bbugyi200.athena.bob-cli-nh.4.1.3/README.md) | bob-cli-nh hood | waiting |
-| [bob-cli-nh.4.1.4](../bbugyi200.athena.bob-cli-nh.4.1.4/README.md) | bob-cli-nh hood | waiting |
+| [bob-cli-nh.4.1.4](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.4.md) (session · 5) | bob-cli-nh hood | active 1, completed 2, failed 2 |
 | [bob-cli-nh.4.1.land](../bbugyi200.athena.bob-cli-nh.4.1.land/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.5](../bbugyi200.athena.bob-cli-nh.5/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.6](../../sessions/bbugyi200.athena.bob-cli-nh.6.md) (session · 3) | bob-cli-nh hood | active 1, completed 2 |
@@ -34,7 +38,7 @@
 | [bob-cli-nh.6.1.1](../bbugyi200.athena.bob-cli-nh.6.1.1/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.6.1.2](../../sessions/bbugyi200.athena.bob-cli-nh.6.1.2.md) (session · 5) | bob-cli-nh hood | completed 2, failed 3 |
 | [bob-cli-nh.6.1.2](../bbugyi200.athena.bob-cli-nh.6.1.2/README.md) | bob-cli-nh hood | completed |
-| [bob-cli-nh.6.1.3](../../sessions/bbugyi200.athena.bob-cli-nh.6.1.3.md) (session · 4) | bob-cli-nh hood | active 1, completed 2, failed 1 |
+| [bob-cli-nh.6.1.3](../../sessions/bbugyi200.athena.bob-cli-nh.6.1.3.md) (session · 7) | bob-cli-nh hood | active 1, completed 3, failed 3 |
 | [bob-cli-nh.6.1.land](../bbugyi200.athena.bob-cli-nh.6.1.land/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.7](../bbugyi200.athena.bob-cli-nh.7/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.8](../bbugyi200.athena.bob-cli-nh.8/README.md) | bob-cli-nh hood | waiting |
