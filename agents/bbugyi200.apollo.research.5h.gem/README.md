@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5h.gem
 
-**Global name:** `bbugyi200.apollo.research.5h.gem` · **State:** active · **Source run:** `run-53aebe9208e40f5c35d571be0a05306b`
+**Global name:** `bbugyi200.apollo.research.5h.gem` · **State:** completed · **Source run:** `run-53aebe9208e40f5c35d571be0a05306b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-19T15:29:41.449204+00:00
+- Timing: 2026-11-19T15:29:41.449204+00:00 → 2026-11-19T15:45:53.518088+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -43,7 +43,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.5h.cdx](../bbugyi200.apollo.research.5h.cdx/README.md) | research.5h hood | completed |
 | [research.5h.cld](../bbugyi200.apollo.research.5h.cld/README.md) | research.5h hood | active |
 | [research.5h.final](../bbugyi200.apollo.research.5h.final/README.md) | research.5h hood | waiting |
-| [research.5h.grk](../bbugyi200.apollo.research.5h.grk/README.md) | research.5h hood | active |
+| [research.5h.grk](../bbugyi200.apollo.research.5h.grk/README.md) | research.5h hood | completed |
 | [research.5h.image](../bbugyi200.apollo.research.5h.image/README.md) | research.5h hood | waiting |
 | [research.5h.linker](../bbugyi200.apollo.research.5h.linker/README.md) | research.5h hood | waiting |
 | [research.5h.mus](../bbugyi200.apollo.research.5h.mus/README.md) | research.5h hood | completed |
