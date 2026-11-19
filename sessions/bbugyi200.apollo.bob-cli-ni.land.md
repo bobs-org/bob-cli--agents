@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-ni` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ni.land--code [active]"]
+  n0["bob-cli-ni.land--code [completed]"]
   n1["bob-cli-ni.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-ni.land--plan [active]"]
+  n2["bob-cli-ni.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-ni.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-19T19:31:02.965435+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-ni.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-19T19:31:02.965435+00:00 → 2026-11-19T20:14:49.895972+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ni.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ni.land--gate | completed | opus / claude | 2026-11-19T19:30:07.990141+00:00 → 2026-11-19T19:30:18.622932+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ni.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ni.land--plan | active | opus / claude | 2026-11-19T19:11:40.030481+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ni.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ni.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ni.land--plan | completed | opus / claude | 2026-11-19T19:11:40.030481+00:00 → 2026-11-19T20:14:49.895972+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ni.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ni.land--plan/chat.md) |
 
 ## Neighbors
 
