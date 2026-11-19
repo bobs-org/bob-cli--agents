@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / bob-cli-nh.4.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.4.1.2` · **State:** waiting · **Source run:** `run-283581b1fa9d726e0cf130aaefd3adda`
+**Global name:** `bbugyi200.athena.bob-cli-nh.4.1.2` · **State:** completed · **Source run:** `run-283581b1fa9d726e0cf130aaefd3adda`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-nh.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/bob-cli-nh.4.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261119130354
-- Commits: 0
+- Timing: 2026-11-19T20:37:31.455395+00:00 → 2026-11-19T22:27:02.583468+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`0f990b1`](https://github.com/bobs-org/bob-cli/commit/0f990b1d7fc39dec993aa7e921a72d78121dea59) | feat(intentions): repair owned links through task move, merge, and split | 2026-11-19 17:26:18 EST |
 
 ## Neighbors
 

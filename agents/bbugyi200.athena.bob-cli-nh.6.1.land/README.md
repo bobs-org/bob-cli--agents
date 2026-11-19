@@ -13,10 +13,30 @@
 - Provider: codex
 - Timing: 20261119094543
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-nh.6.1, kind: file, label: Property-card landing: unregister and host cleanup reproductions on 2f1e016, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119094543/nh… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-nh.6.1
+  kind: file
+  label: Property-card landing: unregister and host cleanup reproductions on 2f1e016
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119094543/nh61-landing-probes-0e95b3acdd32.tgz
+  ref: file:explicit:dec33b788961cadeb2b4261a
+  source_path: /tmp/nh61-landing-probes.tgz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -34,7 +54,7 @@
 | [bob-cli-nh.3](../../sessions/bbugyi200.athena.bob-cli-nh.3.md) (session · 5) | bob-cli-nh hood | completed 5 |
 | [bob-cli-nh.4](../../sessions/bbugyi200.athena.bob-cli-nh.4.md) (session · 3) | bob-cli-nh hood | active 1, completed 2 |
 | [bob-cli-nh.4.1.1](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.1.md) (session · 7) | bob-cli-nh hood | completed 5, failed 2 |
-| [bob-cli-nh.4.1.2](../bbugyi200.athena.bob-cli-nh.4.1.2/README.md) | bob-cli-nh hood | waiting |
+| [bob-cli-nh.4.1.2](../bbugyi200.athena.bob-cli-nh.4.1.2/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.4.1.3](../bbugyi200.athena.bob-cli-nh.4.1.3/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.4.1.4](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.4.md) (session · 9) | bob-cli-nh hood | completed 5, failed 4 |
 | [bob-cli-nh.4.1.land](../bbugyi200.athena.bob-cli-nh.4.1.land/README.md) | bob-cli-nh hood | waiting |
