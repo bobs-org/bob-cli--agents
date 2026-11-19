@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-nj](../../users/bbugyi200/machines/apollo/hoods/bob-cli-nj/README.md) / bob-cli-nj.6
 
-**Global name:** `bbugyi200.apollo.bob-cli-nj.6` · **State:** active · **Source run:** `run-b64abd877d66748695ba49cdfdeb4779`
+**Global name:** `bbugyi200.apollo.bob-cli-nj.6` · **State:** completed · **Source run:** `run-b64abd877d66748695ba49cdfdeb4779`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-nj
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-nj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nj/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-19T19:31:58.108789+00:00
-- Commits: 0
+- Timing: 2026-11-19T19:31:58.108789+00:00 → 2026-11-19T20:23:27.760331+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`ddf28f6`](https://github.com/bobs-org/bob-cli/commit/ddf28f64fbe831671b4c0dc438f2a9b85c7255b5) | feat(capture): add work log phrase completion | 2026-11-19 15:22:18 EST |
 
 ## Neighbors
 
