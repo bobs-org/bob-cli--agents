@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-nh` · Members: 5 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-nh.4.1.land--1 [active]"]
+  n0["bob-cli-nh.4.1.land--1 [completed]"]
   n1["bob-cli-nh.4.1.land--plan [completed]"]
   n0 --> n1
   n2["bob-cli-nh.4.1.land--mon [failed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-nh.4.1.land--1 | active | gpt-6-luna / codex | 2026-11-19T23:26:19.763366+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.4.1.land--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-nh.4.1.land--1 | completed | gpt-6-luna / codex | 2026-11-19T23:26:19.763366+00:00 → 2026-11-19T23:55:34.749083+00:00 | [1](../agents/bbugyi200.athena.bob-cli-nh.4.1.land--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.4.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4.1.land--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-nh.4.1.land--plan | completed | gpt-6-astra / codex | 2026-11-19T22:27:30.834380+00:00 → 2026-11-19T23:21:19.207037+00:00 | [1](../agents/bbugyi200.athena.bob-cli-nh.4.1.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4.1.land--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-nh.4.1.land--mon | failed | gpt-6-luna / codex | 2026-11-19T23:19:00.438836+00:00 → 2026-11-19T23:25:55.881004+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4.1.land--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-nh.4.1.land--gate | completed | gpt-6-astra / codex | 2026-11-19T22:39:00.404855+00:00 → 2026-11-19T22:39:06.386178+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4.1.land--gate/chat.md) |
@@ -34,6 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | plan | bob-cli | [`8bbb304`](https://github.com/bobs-org/bob-cli/commit/8bbb3041cd33412e67f297c0e481534e927b0b3f) | feat(intentions): recover task rewrite integration | 2026-11-19 17:38:16 EST |
+| 1 | bob-cli | [`f811397`](https://github.com/bobs-org/bob-cli/commit/f811397d5a98c56490adc68bd3e6b88d4be4b547) | fix(intentions): preserve links through vault rewrites | 2026-11-19 18:54:20 EST |
 
 ## Neighbors
 

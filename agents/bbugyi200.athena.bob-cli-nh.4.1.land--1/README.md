@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / [bob-cli-nh.4.1.land](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.land.md) / bob-cli-nh.4.1.land--1
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.4.1.land--1` · **State:** active · **Source run:** `run-19bd7aa0755dea7c725a3eb85ff105c9`
+**Global name:** `bbugyi200.athena.bob-cli-nh.4.1.land--1` · **State:** completed · **Source run:** `run-19bd7aa0755dea7c725a3eb85ff105c9`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-nh.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/bob-cli-nh.4.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-19T23:26:19.763366+00:00
-- Commits: 0
+- Timing: 2026-11-19T23:26:19.763366+00:00 → 2026-11-19T23:55:34.749083+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f811397`](https://github.com/bobs-org/bob-cli/commit/f811397d5a98c56490adc68bd3e6b88d4be4b547) | fix(intentions): preserve links through vault rewrites | 2026-11-19 18:54:20 EST |
 
 ## Neighbors
 
