@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5f.cdx
 
-**Global name:** `bbugyi200.apollo.research.5f.cdx` · **State:** active · **Source run:** `run-ea6a485bcf9d9f84e5280ddf6621db14`
+**Global name:** `bbugyi200.apollo.research.5f.cdx` · **State:** completed · **Source run:** `run-ea6a485bcf9d9f84e5280ddf6621db14`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-19T12:43:46.643458+00:00
+- Timing: 2026-11-19T12:43:46.643458+00:00 → 2026-11-19T13:00:58.398027+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/period\_intentions\_property\_cards\_design\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119074240/period\_intentions\_property\_cards… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/period_intentions_property_cards_design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119074240/period_intentions_property_cards_design__cdx-9eb82841e630.md
+  ref: file:explicit:2a2cc5e26015856ea5e63ae7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/period_intentions_property_cards_design__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
