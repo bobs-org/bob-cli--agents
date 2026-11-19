@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-nj.1](../bbugyi200.apollo.bob-cli-nj.1/README.md) | bob-cli-nj hood | completed |
-| [bob-cli-nj.2](../bbugyi200.apollo.bob-cli-nj.2/README.md) | bob-cli-nj hood | active |
+| [bob-cli-nj.2](../bbugyi200.apollo.bob-cli-nj.2/README.md) | bob-cli-nj hood | completed |
 | [bob-cli-nj.3](../bbugyi200.apollo.bob-cli-nj.3/README.md) | bob-cli-nj hood | waiting |
 | [bob-cli-nj.4](../bbugyi200.apollo.bob-cli-nj.4/README.md) | bob-cli-nj hood | waiting |
 | [bob-cli-nj.6](../bbugyi200.apollo.bob-cli-nj.6/README.md) | bob-cli-nj hood | completed |

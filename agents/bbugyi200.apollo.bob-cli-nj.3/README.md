@@ -10,8 +10,8 @@
 
 - Bead: [bob-cli-nj.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nj/bob-cli-nj.3.md)
 - Epic: [bob-cli-nj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nj/README.md)
-- Model: grok-4.6
-- Provider: grok
+- Model: muse-spark-1.3-contributor
+- Provider: muse
 - Timing: 20261119121621
 - Commits: 0
 
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-nj.1](../bbugyi200.apollo.bob-cli-nj.1/README.md) | bob-cli-nj hood | completed |
-| [bob-cli-nj.2](../bbugyi200.apollo.bob-cli-nj.2/README.md) | bob-cli-nj hood | active |
+| [bob-cli-nj.2](../bbugyi200.apollo.bob-cli-nj.2/README.md) | bob-cli-nj hood | completed |
 | [bob-cli-nj.4](../bbugyi200.apollo.bob-cli-nj.4/README.md) | bob-cli-nj hood | waiting |
 | [bob-cli-nj.5](../bbugyi200.apollo.bob-cli-nj.5/README.md) | bob-cli-nj hood | completed |
 | [bob-cli-nj.6](../bbugyi200.apollo.bob-cli-nj.6/README.md) | bob-cli-nj hood | completed |
