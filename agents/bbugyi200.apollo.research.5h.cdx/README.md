@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5h.cdx
 
-**Global name:** `bbugyi200.apollo.research.5h.cdx` · **State:** active · **Source run:** `run-237430bf5016c68bf32a28727a520508`
+**Global name:** `bbugyi200.apollo.research.5h.cdx` · **State:** completed · **Source run:** `run-237430bf5016c68bf32a28727a520508`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-19T15:27:33.806729+00:00
+- Timing: 2026-11-19T15:27:33.806729+00:00 → 2026-11-19T15:40:12.138186+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/task\_log\_input\_history\_design\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119102629/task\_log\_input\_history\_design\_\_cdx-be5fc8b… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/task_log_input_history_design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119102629/task_log_input_history_design__cdx-be5fc8b841f2.md
+  ref: file:explicit:dd99a0c42ab8313ce1bf57f9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/task_log_input_history_design__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
