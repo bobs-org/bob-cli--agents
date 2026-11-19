@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5g.image
 
-**Global name:** `bbugyi200.apollo.research.5g.image` · **State:** waiting · **Source run:** `run-ff5f7325387d9e5a4479cea5191a9d4a`
+**Global name:** `bbugyi200.apollo.research.5g.image` · **State:** completed · **Source run:** `run-ff5f7325387d9e5a4479cea5191a9d4a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261119085610
+- Timing: 2026-11-19T14:26:57.407075+00:00 → 2026-11-19T14:34:52.255750+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/obsidian\_copy\_chips/obsidian\_copy\_chips\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119085610/obsidian\_copy\_chips\_infographi… |
+| `diagrams` | {considered: 16, count: 1, manifest: 202611/obsidian\_copy\_chips/obsidian\_copy\_chips.diagrams.md, source\_ref: file:explicit:c2129862967ef104a992d4cf, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/obsidian_copy_chips/obsidian_copy_chips_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119085610/obsidian_copy_chips_infographic-4eff94caec66.png
+  ref: file:explicit:96f3c65adbdfa3895ff06f73
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/obsidian_copy_chips/obsidian_copy_chips_infographic.png
+- kind: markdown
+  label: diagrams:202611/obsidian_copy_chips/obsidian_copy_chips.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119085610/obsidian_copy_chips.diagrams-0d3462a7307d.md
+  ref: file:explicit:5e21fe5a4b6373186b165dd2
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/obsidian_copy_chips/obsidian_copy_chips.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 16
+count: 1
+manifest: 202611/obsidian_copy_chips/obsidian_copy_chips.diagrams.md
+source_ref: file:explicit:c2129862967ef104a992d4cf
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
