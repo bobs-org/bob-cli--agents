@@ -22,8 +22,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.5j.cdx](../bbugyi200.apollo.research.5j.cdx/README.md) | research.5j hood | completed |
-| [research.5j.cld](../bbugyi200.apollo.research.5j.cld/README.md) | research.5j hood | active |
-| [research.5j.gem](../bbugyi200.apollo.research.5j.gem/README.md) | research.5j hood | active |
+| [research.5j.cld](../bbugyi200.apollo.research.5j.cld/README.md) | research.5j hood | completed |
+| [research.5j.gem](../bbugyi200.apollo.research.5j.gem/README.md) | research.5j hood | completed |
 | [research.5j.grk](../bbugyi200.apollo.research.5j.grk/README.md) | research.5j hood | active |
 | [research.5j.image](../bbugyi200.apollo.research.5j.image/README.md) | research.5j hood | waiting |
 | [research.5j.linker](../bbugyi200.apollo.research.5j.linker/README.md) | research.5j hood | waiting |
