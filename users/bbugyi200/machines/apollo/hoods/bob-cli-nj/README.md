@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-nj
 
-**Global hood:** `bbugyi200.apollo.bob-cli-nj` · **Runs:** 9 · **Sessions:** 0 · **States:** active 3, completed 1, waiting 5
+**Global hood:** `bbugyi200.apollo.bob-cli-nj` · **Runs:** 9 · **Sessions:** 0 · **States:** active 2, completed 2, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -14,4 +14,4 @@
 | [bob-cli-nj.4](../../../../../../agents/bbugyi200.apollo.bob-cli-nj.4/README.md) | waiting | gpt-6-luna / codex | 20261119121622 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-nj.4/prompt.md) |
 | [bob-cli-nj.land](../../../../../../agents/bbugyi200.apollo.bob-cli-nj.land/README.md) | waiting | opus / claude | 20261119121625 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-nj.land/prompt.md) |
 | [bob-cli-nj.2](../../../../../../agents/bbugyi200.apollo.bob-cli-nj.2/README.md) | active | gpt-6-luna / codex | 2026-11-19T19:32:22.411674+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-nj.2/prompt.md) |
-| [bob-cli-nj.5](../../../../../../agents/bbugyi200.apollo.bob-cli-nj.5/README.md) | active | muse-spark-1.3-contributor / muse | 2026-11-19T19:32:10.884995+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-nj.5/prompt.md) |
+| [bob-cli-nj.5](../../../../../../agents/bbugyi200.apollo.bob-cli-nj.5/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-19T19:32:10.884995+00:00 → 2026-11-19T19:55:25.777421+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-nj.5/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-nj.5/chat.md) |
