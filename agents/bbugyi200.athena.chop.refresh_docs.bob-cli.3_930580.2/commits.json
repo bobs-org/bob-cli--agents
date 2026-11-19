@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a54ee2e37956d0011ec3336c3fa27c24"}
+{"commits":[{"committed_at":1795062249,"sha":"e6395f2e52f08fce2807f2c1ca86363e3615d51b","subject":"docs: clarify capture and scheduler behavior after source review"}],"schema_version":2,"source_run_id":"run-a54ee2e37956d0011ec3336c3fa27c24"}
