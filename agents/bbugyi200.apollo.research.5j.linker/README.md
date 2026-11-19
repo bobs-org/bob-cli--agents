@@ -40,7 +40,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5j.linker.w0](../bbugyi200.apollo.research.5j.linker.w0/README.md) | descendant | active |
+| [research.5j.linker.w0](../../sessions/bbugyi200.apollo.research.5j.linker.w0.md) (session · 3) | descendant | completed 3 |
 | [research.5j.cdx](../bbugyi200.apollo.research.5j.cdx/README.md) | research.5j hood | completed |
 | [research.5j.cld](../bbugyi200.apollo.research.5j.cld/README.md) | research.5j hood | completed |
 | [research.5j.final](../bbugyi200.apollo.research.5j.final/README.md) | research.5j hood | completed |
