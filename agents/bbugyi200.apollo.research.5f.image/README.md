@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5f.image
 
-**Global name:** `bbugyi200.apollo.research.5f.image` · **State:** waiting · **Source run:** `run-fa9682be95dcf046ce6dd4968a8ef9c6`
+**Global name:** `bbugyi200.apollo.research.5f.image` · **State:** completed · **Source run:** `run-fa9682be95dcf046ce6dd4968a8ef9c6`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261119074248
+- Timing: 2026-11-19T13:19:39.614137+00:00 → 2026-11-19T13:29:21.886064+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/period\_intentions\_card/period\_intentions\_card\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119074248/period\_intentions\_card\_i… |
+| `diagrams` | {considered: 15, count: 2, manifest: 202611/period\_intentions\_card/period\_intentions\_card.diagrams.md, source\_ref: file:explicit:35017e345792ac15245cf841, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/period_intentions_card/period_intentions_card_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119074248/period_intentions_card_infographic-6878c308d0b5.png
+  ref: file:explicit:4bedef2f4f5cb7864cef98fb
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/period_intentions_card/period_intentions_card_infographic.png
+- kind: markdown
+  label: diagrams:202611/period_intentions_card/period_intentions_card.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119074248/period_intentions_card.diagrams-ace47bebb02d.md
+  ref: file:explicit:14eebabee5a2fbcfd5681e00
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/period_intentions_card/period_intentions_card.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 2
+manifest: 202611/period_intentions_card/period_intentions_card.diagrams.md
+source_ref: file:explicit:35017e345792ac15245cf841
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
