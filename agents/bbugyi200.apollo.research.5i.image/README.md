@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5i.image
 
-**Global name:** `bbugyi200.apollo.research.5i.image` · **State:** waiting · **Source run:** `run-1c98288da562a25358fd7eb8ecad8fb9`
+**Global name:** `bbugyi200.apollo.research.5i.image` · **State:** completed · **Source run:** `run-1c98288da562a25358fd7eb8ecad8fb9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261119114253
+- Timing: 2026-11-19T17:26:46.014604+00:00 → 2026-11-19T17:38:18.348238+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/property\_card\_title\_block/property\_card\_title\_block\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119114253/property\_car… |
+| `diagrams` | {considered: 12, count: 2, manifest: 202611/property\_card\_title\_block/property\_card\_title\_block.diagrams.md, source\_ref: file:explicit:e88aadb424ee2c0b952d32aa, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/property_card_title_block/property_card_title_block_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119114253/property_card_title_block_infographic-9ef6e07ea84f.png
+  ref: file:explicit:5778bfb78b57375f17e8b2c3
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/property_card_title_block/property_card_title_block_infographic.png
+- kind: markdown
+  label: diagrams:202611/property_card_title_block/property_card_title_block.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119114253/property_card_title_block.diagrams-1ce92f070868.md
+  ref: file:explicit:49427597bf2852ddab0df73f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/property_card_title_block/property_card_title_block.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 2
+manifest: 202611/property_card_title_block/property_card_title_block.diagrams.md
+source_ref: file:explicit:e88aadb424ee2c0b952d32aa
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
