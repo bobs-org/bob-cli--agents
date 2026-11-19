@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / [bob-cli-nh.6.1.3](../../sessions/bbugyi200.athena.bob-cli-nh.6.1.3.md) / bob-cli-nh.6.1.3--3
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.6.1.3--3` · **State:** active · **Source run:** `run-15002dc25442a795e0f9260dd11d8d1a`
+**Global name:** `bbugyi200.athena.bob-cli-nh.6.1.3--3` · **State:** completed · **Source run:** `run-15002dc25442a795e0f9260dd11d8d1a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
@@ -11,12 +11,38 @@
 - Bead: [bob-cli-nh.6.1.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/bob-cli-nh.6.1.3.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-19T21:04:06.765636+00:00
+- Timing: 2026-11-19T21:04:06.765636+00:00 → 2026-11-19T22:20:07.591939+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-nh.6.1.3, kind: file, label: Final property-card acceptance evidence bundle (reports, screenshots, logs, provenance, comparison), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-nh.6.1.3
+  kind: file
+  label: Final property-card acceptance evidence bundle (reports, screenshots, logs, provenance, comparison)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119155747/nh613-final-evidence-4b80713fa1b6.tgz
+  ref: file:explicit:a50033287bd8564938d9063a
+  source_path: /tmp/nh613-final-evidence.tgz
+- bead: bob-cli-nh.6.1.3
+  kind: markdown
+  label: Final property-card acceptance comparison and status
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119155747/README-15b5e7f0c4d3.md
+  ref: file:explicit:57b7adc6f806ce185b185519
+  source_path: /tmp/nh613-final-evidence/README.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -36,7 +62,7 @@
 | [bob-cli-nh.4.1.1](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.1.md) (session · 7) | bob-cli-nh hood | completed 5, failed 2 |
 | [bob-cli-nh.4.1.2](../bbugyi200.athena.bob-cli-nh.4.1.2/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.4.1.3](../bbugyi200.athena.bob-cli-nh.4.1.3/README.md) | bob-cli-nh hood | completed |
-| [bob-cli-nh.4.1.4](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.4.md) (session · 9) | bob-cli-nh hood | active 1, completed 4, failed 4 |
+| [bob-cli-nh.4.1.4](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.4.md) (session · 9) | bob-cli-nh hood | completed 5, failed 4 |
 | [bob-cli-nh.4.1.land](../bbugyi200.athena.bob-cli-nh.4.1.land/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.5](../bbugyi200.athena.bob-cli-nh.5/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.7](../bbugyi200.athena.bob-cli-nh.7/README.md) | bob-cli-nh hood | waiting |

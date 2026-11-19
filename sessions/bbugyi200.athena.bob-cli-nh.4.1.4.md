@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-nh` · Members: 9 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-nh.4.1.4--4 [active]"]
+  n0["bob-cli-nh.4.1.4--4 [completed]"]
   n1["bob-cli-nh.4.1.4--mon-2 [failed]"]
   n0 --> n1
   n2["bob-cli-nh.4.1.4--mon [failed]"]
@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-4"></a>4 | bob-cli-nh.4.1.4--4 | active | gpt-6-luna / codex | 2026-11-19T22:07:45.074417+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--4/prompt.md) | — |
+| <a id="member-4"></a>4 | bob-cli-nh.4.1.4--4 | completed | gpt-6-luna / codex | 2026-11-19T22:07:45.074417+00:00 → 2026-11-19T22:20:02.495397+00:00 | [1](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--4/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-nh.4.1.4--mon-2 | failed | gpt-6-luna / codex | 2026-11-19T21:55:01.331746+00:00 → 2026-11-19T22:07:45.311653+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--mon-2/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-nh.4.1.4--mon | failed | gpt-6-luna / codex | 2026-11-19T21:09:08.443222+00:00 → 2026-11-19T21:16:46.034316+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--mon/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-nh.4.1.4--mon-1 | failed | gpt-6-luna / codex | 2026-11-19T21:41:40.875364+00:00 → 2026-11-19T21:50:28.275218+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--mon-1/chat.md) |
@@ -40,6 +40,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-3"></a>3 | bob-cli-nh.4.1.4--3 | completed | gpt-6-luna / codex | 2026-11-19T21:50:28.023631+00:00 → 2026-11-19T21:56:23.716916+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--3/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-nh.4.1.4--2 | completed | gpt-6-luna / codex | 2026-11-19T21:33:18.525144+00:00 → 2026-11-19T21:42:23.247482+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--2/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-nh.4.1.4--plan | completed | gpt-6-luna / codex | 2026-11-19T20:37:37.112973+00:00 → 2026-11-19T21:11:38.506593+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4.1.4--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 4 | bob-cli | [`992fd33`](https://github.com/bobs-org/bob-cli/commit/992fd33d72dcb0d0b80382666a73da94559322c1) | feat(periods): report legacy and malformed intention findings | 2026-11-19 17:19:17 EST |
 
 ## Neighbors
 
@@ -60,7 +66,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-nh.6.1.1](../agents/bbugyi200.athena.bob-cli-nh.6.1.1/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.6.1.2](bbugyi200.athena.bob-cli-nh.6.1.2.md) (session · 5) | bob-cli-nh hood | completed 2, failed 3 |
 | [bob-cli-nh.6.1.2](../agents/bbugyi200.athena.bob-cli-nh.6.1.2/README.md) | bob-cli-nh hood | completed |
-| [bob-cli-nh.6.1.3](bbugyi200.athena.bob-cli-nh.6.1.3.md) (session · 7) | bob-cli-nh hood | active 1, completed 3, failed 3 |
+| [bob-cli-nh.6.1.3](bbugyi200.athena.bob-cli-nh.6.1.3.md) (session · 7) | bob-cli-nh hood | completed 4, failed 3 |
 | [bob-cli-nh.6.1.land](../agents/bbugyi200.athena.bob-cli-nh.6.1.land/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.7](../agents/bbugyi200.athena.bob-cli-nh.7/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.8](../agents/bbugyi200.athena.bob-cli-nh.8/README.md) | bob-cli-nh hood | waiting |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-291ca07beaefdc120c27da70cb19a508"}
+{"commits":[{"committed_at":1795126757,"sha":"992fd33d72dcb0d0b80382666a73da94559322c1","subject":"feat(periods): report legacy and malformed intention findings"}],"schema_version":2,"source_run_id":"run-291ca07beaefdc120c27da70cb19a508"}
