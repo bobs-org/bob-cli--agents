@@ -27,13 +27,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-nh.4.1.1](../agents/bbugyi200.athena.bob-cli-nh.4.1.1/README.md) | descendant | active |
+| [bob-cli-nh.4.1.1](bbugyi200.athena.bob-cli-nh.4.1.1.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [bob-cli-nh.4.1.2](../agents/bbugyi200.athena.bob-cli-nh.4.1.2/README.md) | descendant | waiting |
 | [bob-cli-nh.4.1.3](../agents/bbugyi200.athena.bob-cli-nh.4.1.3/README.md) | descendant | waiting |
 | [bob-cli-nh.4.1.4](../agents/bbugyi200.athena.bob-cli-nh.4.1.4/README.md) | descendant | waiting |
 | [bob-cli-nh.4.1.land](../agents/bbugyi200.athena.bob-cli-nh.4.1.land/README.md) | descendant | waiting |
 | [bob-cli-nh.1](bbugyi200.athena.bob-cli-nh.1.md) (session · 11) | bob-cli-nh hood | completed 8, failed 3 |
-| [bob-cli-nh.2](../agents/bbugyi200.athena.bob-cli-nh.2/README.md) | bob-cli-nh hood | waiting |
+| [bob-cli-nh.2](bbugyi200.athena.bob-cli-nh.2.md) (session · 3) | bob-cli-nh hood | completed 3 |
 | [bob-cli-nh.3](bbugyi200.athena.bob-cli-nh.3.md) (session · 3) | bob-cli-nh hood | active 2, completed 1 |
 | [bob-cli-nh.5](../agents/bbugyi200.athena.bob-cli-nh.5/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.6](bbugyi200.athena.bob-cli-nh.6.md) (session · 3) | bob-cli-nh hood | active 1, completed 2 |
