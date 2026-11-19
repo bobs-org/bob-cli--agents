@@ -31,4 +31,4 @@
 |---|---|---|
 | [bob-cli-no.2](../bbugyi200.apollo.bob-cli-no.2/README.md) | bob-cli-no hood | completed |
 | [bob-cli-no.3](../bbugyi200.apollo.bob-cli-no.3/README.md) | bob-cli-no hood | completed |
-| [bob-cli-no.land](../../sessions/bbugyi200.apollo.bob-cli-no.land.md) (session · 4) | bob-cli-no hood | active 1, completed 3 |
+| [bob-cli-no.land](../../sessions/bbugyi200.apollo.bob-cli-no.land.md) (session · 9) | bob-cli-no hood | completed 8, failed 1 |
