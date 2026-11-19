@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-ni.5--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_ni_5__plan-261119_100646.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_ni_5__code-261119_100646.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/copy_chip_authoring.md
 
 

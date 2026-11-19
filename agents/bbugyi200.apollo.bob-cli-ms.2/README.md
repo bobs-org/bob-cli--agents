@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `48a3116` | feat(records): guarded JSON envelope for bob records update | 2026-11-17 15:41:57 EST |
+| bob-cli | [`48a3116`](https://github.com/bobs-org/bob-cli/commit/48a3116d8aacce34fc3093c97048dcdcd913f7c1) | feat(records): guarded JSON envelope for bob records update | 2026-11-17 15:41:57 EST |
 
 ## Neighbors
 
@@ -43,6 +43,6 @@
 | [bob-cli-ms.8.3.1.2](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.2.md) (session · 35) | bob-cli-ms hood | completed 18, failed 17 |
 | [bob-cli-ms.8.3.1.3](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.3.md) (session · 7) | bob-cli-ms hood | completed 5, failed 2 |
 | [bob-cli-ms.8.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.land.md) (session · 3) | bob-cli-ms hood | completed 3 |
-| [bob-cli-ms.8.land](../bbugyi200.apollo.bob-cli-ms.8.land/README.md) | bob-cli-ms hood | waiting |
+| [bob-cli-ms.8.land](../../sessions/bbugyi200.apollo.bob-cli-ms.8.land.md) (session · 4) | bob-cli-ms hood | completed 2, failed 2 |
 | [bob-cli-ms.land](../../sessions/bbugyi200.apollo.bob-cli-ms.land.md) (session · 3) | bob-cli-ms hood | completed 2, dismissed 1 |
 | [bob-cli-ms.land](../bbugyi200.apollo.bob-cli-ms.land/README.md) | bob-cli-ms hood | completed |

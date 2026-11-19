@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `03ab2b3` | docs(glossary): regenerate the capture alias item-start dot entry | 2026-11-17 22:23:24 EST |
+| bob-cli | [`03ab2b3`](https://github.com/bobs-org/bob-cli/commit/03ab2b3d41dc5734e15be04a61da71b80455d43f) | docs(glossary): regenerate the capture alias item-start dot entry | 2026-11-17 22:23:24 EST |
 
 ## Neighbors
 
@@ -39,4 +39,4 @@
 | [bob-cli-ms.8.3.1.2](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.2.md) (session · 35) | bob-cli-ms hood | completed 18, failed 17 |
 | [bob-cli-ms.8.3.1.3](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.3.md) (session · 7) | bob-cli-ms hood | completed 5, failed 2 |
 | [bob-cli-ms.8.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.land.md) (session · 3) | bob-cli-ms hood | completed 3 |
-| [bob-cli-ms.8.land](../bbugyi200.apollo.bob-cli-ms.8.land/README.md) | bob-cli-ms hood | waiting |
+| [bob-cli-ms.8.land](../../sessions/bbugyi200.apollo.bob-cli-ms.8.land.md) (session · 4) | bob-cli-ms hood | completed 2, failed 2 |

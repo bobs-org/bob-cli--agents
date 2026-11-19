@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `5b4c263` | fix(records): validate stored literal lists without CLI comma splitting | 2026-11-19 08:11:18 EST |
+| bob-cli | [`5b4c263`](https://github.com/bobs-org/bob-cli/commit/5b4c26360efe9d90d20b8371ac53a05bef7492b6) | fix(records): validate stored literal lists without CLI comma splitting | 2026-11-19 08:11:18 EST |
 
 ## Neighbors
 
@@ -34,7 +34,7 @@
 | [bob-cli-ms.8.3.1.3](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.3.md) (session · 7) | bob-cli-ms.8.3.1 hood | completed 5, failed 2 |
 | [bob-cli-ms.8.1](../../sessions/bbugyi200.apollo.bob-cli-ms.8.1.md) (session · 5) | bob-cli-ms.8 hood | completed 4, failed 1 |
 | [bob-cli-ms.8.2](../bbugyi200.apollo.bob-cli-ms.8.2/README.md) | bob-cli-ms.8 hood | completed |
-| [bob-cli-ms.8.land](../bbugyi200.apollo.bob-cli-ms.8.land/README.md) | bob-cli-ms.8 hood | waiting |
+| [bob-cli-ms.8.land](../../sessions/bbugyi200.apollo.bob-cli-ms.8.land.md) (session · 4) | bob-cli-ms.8 hood | completed 2, failed 2 |
 | [bob-cli-ms.1](../../sessions/bbugyi200.apollo.bob-cli-ms.1.md) (session · 7) | bob-cli-ms hood | completed 5, failed 2 |
 | [bob-cli-ms.2](../bbugyi200.apollo.bob-cli-ms.2/README.md) | bob-cli-ms hood | completed |
 | [bob-cli-ms.3](../../sessions/bbugyi200.apollo.bob-cli-ms.3.md) (session · 5) | bob-cli-ms hood | completed 5 |
