@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5g.final
 
-**Global name:** `bbugyi200.apollo.research.5g.final` · **State:** waiting · **Source run:** `run-2389a5cc280f271ac0f8884fa4b3130f`
+**Global name:** `bbugyi200.apollo.research.5g.final` · **State:** completed · **Source run:** `run-2389a5cc280f271ac0f8884fa4b3130f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261119085609
+- Timing: 2026-11-19T14:13:54.652962+00:00 → 2026-11-19T14:26:26.064492+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_copy\_chips/obsidian\_copy\_chips\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119085609/obsidian\_copy\_chips\_\_final-ea3… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_copy_chips/obsidian_copy_chips__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119085609/obsidian_copy_chips__final-ea3eaf4e3322.md
+  ref: file:explicit:c2129862967ef104a992d4cf
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/obsidian_copy_chips/obsidian_copy_chips__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
