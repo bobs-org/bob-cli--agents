@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nb](../../users/bbugyi200/machines/athena/hoods/bob-cli-nb/README.md) / bob-cli-nb.land
 
-**Global name:** `bbugyi200.athena.bob-cli-nb.land` · **State:** waiting · **Source run:** `run-3cc7fdea53adbcb18b4ca8bacc327f2d`
+**Global name:** `bbugyi200.athena.bob-cli-nb.land` · **State:** completed · **Source run:** `run-3cc7fdea53adbcb18b4ca8bacc327f2d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nb
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-nb](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nb/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261118130759
-- Commits: 0
+- Timing: 2026-11-18T23:32:05.243873+00:00 → 2026-11-18T23:59:21.758678+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`3617c2e`](https://github.com/bobs-org/bob-cli/commit/3617c2eaaae080131522a1d7e317072c0292ce79) | fix(tick): count changed PDFs in refs summaries and finish the tick landing | 2026-11-18 18:58:34 EST |
 
 ## Neighbors
 
