@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5h.image
 
-**Global name:** `bbugyi200.apollo.research.5h.image` · **State:** waiting · **Source run:** `run-f4d12d5a626cf94f3ae309aa76e74150`
+**Global name:** `bbugyi200.apollo.research.5h.image` · **State:** completed · **Source run:** `run-f4d12d5a626cf94f3ae309aa76e74150`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261119102636
+- Timing: 2026-11-19T16:17:59.264399+00:00 → 2026-11-19T16:27:03.690394+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/log\_reason\_history/log\_reason\_history\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119102636/log\_reason\_history\_infographic-c… |
+| `diagrams` | {considered: 13, count: 2, manifest: 202611/log\_reason\_history/log\_reason\_history.diagrams.md, source\_ref: file:explicit:07d7c9b371a16b19c6100381, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/log_reason_history/log_reason_history_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119102636/log_reason_history_infographic-c5b685108c6e.png
+  ref: file:explicit:9a524fd38792e929130ebd84
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/log_reason_history/log_reason_history_infographic.png
+- kind: markdown
+  label: diagrams:202611/log_reason_history/log_reason_history.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119102636/log_reason_history.diagrams-9497a8feea9e.md
+  ref: file:explicit:a120c181c8606dfafa6d16e4
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/log_reason_history/log_reason_history.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 13
+count: 2
+manifest: 202611/log_reason_history/log_reason_history.diagrams.md
+source_ref: file:explicit:07d7c9b371a16b19c6100381
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
