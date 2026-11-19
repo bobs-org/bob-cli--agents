@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / bob-cli-nh.6.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.6.1.1` · **State:** active · **Source run:** `run-a14e1924751f8b2a1807aa853a8d7ee5`
+**Global name:** `bbugyi200.athena.bob-cli-nh.6.1.1` · **State:** completed · **Source run:** `run-a14e1924751f8b2a1807aa853a8d7ee5`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
@@ -12,12 +12,41 @@
 - Epic: [bob-cli-nh.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/bob-cli-nh.6.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-19T14:46:20.894560+00:00
+- Timing: 2026-11-19T14:46:20.894560+00:00 → 2026-11-19T15:11:35.295928+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: ownership-phase-evidence, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119094540/property\_kit\_ownership\_evidence-dbcb4d76b19b.md, ref: file:explicit:0f3… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: ownership-phase-evidence
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119094540/property_kit_ownership_evidence-dbcb4d76b19b.md
+  ref: file:explicit:0f3ef158298d15417a5fa040
+  source_path: /tmp/property_kit_ownership_evidence.md
+- kind: file
+  label: ownership-new-tests-log
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119094540/new_tests-06b655f3b2da.log
+  ref: file:explicit:f52763f9461789cd6c4d266e
+  source_path: /tmp/new_tests.log
+- kind: file
+  label: ownership-ownership-tests-log
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119094540/ownership_test2-e7a535d633c9.log
+  ref: file:explicit:a157201efa8e932c585ec287
+  source_path: /tmp/ownership_test2.log
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
