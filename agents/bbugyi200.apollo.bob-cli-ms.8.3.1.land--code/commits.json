@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4ed16c1692e0331bb099523468c0ee9c"}
+{"commits":[{"committed_at":1795093878,"sha":"5b4c26360efe9d90d20b8371ac53a05bef7492b6","subject":"fix(records): validate stored literal lists without CLI comma splitting"}],"schema_version":2,"source_run_id":"run-4ed16c1692e0331bb099523468c0ee9c"}

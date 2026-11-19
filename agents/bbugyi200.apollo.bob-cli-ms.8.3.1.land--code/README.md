@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ms](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ms/README.md) / [bob-cli-ms.8.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.land.md) / bob-cli-ms.8.3.1.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-ms.8.3.1.land--code` · **State:** active · **Source run:** `run-4ed16c1692e0331bb099523468c0ee9c`
+**Global name:** `bbugyi200.apollo.bob-cli-ms.8.3.1.land--code` · **State:** completed · **Source run:** `run-4ed16c1692e0331bb099523468c0ee9c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ms
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-ms.8.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ms/bob-cli-ms.8.3.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-19T12:18:58.286494+00:00
-- Commits: 0
+- Timing: 2026-11-19T12:18:58.286494+00:00 → 2026-11-19T13:12:44.153951+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`5b4c263`](https://github.com/bobs-org/bob-cli/commit/5b4c26360efe9d90d20b8371ac53a05bef7492b6) | fix(records): validate stored literal lists without CLI comma splitting | 2026-11-19 08:11:18 EST |
 
 ## Neighbors
 

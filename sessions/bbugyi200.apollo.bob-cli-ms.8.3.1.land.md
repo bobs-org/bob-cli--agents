@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-ms` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ms.8.3.1.land--code [active]"]
+  n0["bob-cli-ms.8.3.1.land--code [completed]"]
   n1["bob-cli-ms.8.3.1.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-ms.8.3.1.land--plan [active]"]
+  n2["bob-cli-ms.8.3.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-ms.8.3.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-19T12:18:58.286494+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-ms.8.3.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-19T12:18:58.286494+00:00 → 2026-11-19T13:12:44.153951+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ms.8.3.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.8.3.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ms.8.3.1.land--gate | completed | gpt-6-astra / codex | 2026-11-19T12:18:11.361888+00:00 → 2026-11-19T12:18:20.382569+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.8.3.1.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ms.8.3.1.land--plan | active | gpt-6-astra / codex | 2026-11-19T12:06:02.586525+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ms.8.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.8.3.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ms.8.3.1.land--plan | completed | gpt-6-astra / codex | 2026-11-19T12:06:02.586525+00:00 → 2026-11-19T13:12:44.153951+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ms.8.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.8.3.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`5b4c263`](https://github.com/bobs-org/bob-cli/commit/5b4c26360efe9d90d20b8371ac53a05bef7492b6) | fix(records): validate stored literal lists without CLI comma splitting | 2026-11-19 08:11:18 EST |
 
 ## Variables
 
