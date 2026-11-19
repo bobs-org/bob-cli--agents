@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | — | `42dd945` | docs: refresh capture syntax and JSON contracts | 2026-11-01 23:17:12 EST |
+| 3 | bob-cli | [`42dd945`](https://github.com/bobs-org/bob-cli/commit/42dd94533957ae22991531d32f9c2dc7d5ead7be) | docs: refresh capture syntax and JSON contracts | 2026-11-01 23:17:12 EST |
 
 ## Neighbors
 
@@ -66,6 +66,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.bob-cli.3\_052834.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.3\_686898.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.3_686898.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.3\_686898.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.3_686898.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
+| [chop.refresh\_docs.bob-cli.3\_930580.1](bbugyi200.athena.chop.refresh_docs.bob-cli.3_930580.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 3 |
+| [chop.refresh\_docs.bob-cli.3\_930580.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.3_930580.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
 | [chop.refresh\_docs.bob-cli.4\_902214.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.4\_902214.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.5\_555411.1](bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
@@ -94,6 +96,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.bob-cli.8\_638105.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_638105.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.8\_638105.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_638105.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.9\_058546.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.9_058546.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
-| [chop.refresh\_docs.bob-cli.9\_058546.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.9_058546.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
-| [chop.refresh\_docs.bob-cli.9\_066735.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.9_066735.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
-| … and 1 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.bob-cli hood | — |
+| … and 3 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.bob-cli hood | — |
