@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5f.linker
 
-**Global name:** `bbugyi200.apollo.research.5f.linker` · **State:** waiting · **Source run:** `run-7a8c919d5d00cb2ece1943b3d3ef0e51`
+**Global name:** `bbugyi200.apollo.research.5f.linker` · **State:** completed · **Source run:** `run-7a8c919d5d00cb2ece1943b3d3ef0e51`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261119074249
+- Timing: 2026-11-19T13:30:06.851128+00:00 → 2026-11-19T13:37:17.751321+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/period\_intentions\_card/period\_intentions\_card.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119074249/period\_intentions\_card-69c58689… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/period_intentions_card/period_intentions_card.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119074249/period_intentions_card-69c58689720a.md
+  ref: file:explicit:d905ae440e65e884ce90a143
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/period_intentions_card/period_intentions_card.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
