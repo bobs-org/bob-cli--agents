@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5k.image
 
-**Global name:** `bbugyi200.apollo.research.5k.image` · **State:** waiting · **Source run:** `run-a398d84268b04ffa4732f7c4ad21eeb4`
+**Global name:** `bbugyi200.apollo.research.5k.image` · **State:** completed · **Source run:** `run-a398d84268b04ffa4732f7c4ad21eeb4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261119164555
+- Timing: 2026-11-19T22:33:42.976932+00:00 → 2026-11-19T22:43:54.160149+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/obsidian\_command\_chips/obsidian\_command\_chips\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119164555/obsidian\_command\_chips\_i… |
+| `diagrams` | {considered: 18, count: 2, manifest: 202611/obsidian\_command\_chips/obsidian\_command\_chips.diagrams.md, source\_ref: file:explicit:f73f29bf4e4c5c5b257a7b6f, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/obsidian_command_chips/obsidian_command_chips_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119164555/obsidian_command_chips_infographic-c09c129e0b64.png
+  ref: file:explicit:5679588f3f2bde5aad73dd74
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/obsidian_command_chips/obsidian_command_chips_infographic.png
+- kind: markdown
+  label: diagrams:202611/obsidian_command_chips/obsidian_command_chips.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119164555/obsidian_command_chips.diagrams-3b82f902f48d.md
+  ref: file:explicit:66ff97a29103a9ede5370b04
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/obsidian_command_chips/obsidian_command_chips.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 18
+count: 2
+manifest: 202611/obsidian_command_chips/obsidian_command_chips.diagrams.md
+source_ref: file:explicit:f73f29bf4e4c5c5b257a7b6f
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
