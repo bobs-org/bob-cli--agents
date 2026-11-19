@@ -25,7 +25,7 @@
 | [bob-cli-ms.8.3](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-ms.8.3.1.2](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.2.md) (session · 35) | bob-cli-ms.8.3.1 hood | completed 18, failed 17 |
 | [bob-cli-ms.8.3.1.3](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.3.md) (session · 7) | bob-cli-ms.8.3.1 hood | completed 5, failed 2 |
-| [bob-cli-ms.8.3.1.land](../bbugyi200.apollo.bob-cli-ms.8.3.1.land/README.md) | bob-cli-ms.8.3.1 hood | waiting |
+| [bob-cli-ms.8.3.1.land](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.1.land.md) (session · 3) | bob-cli-ms.8.3.1 hood | active 2, completed 1 |
 | [bob-cli-ms.8.1](../../sessions/bbugyi200.apollo.bob-cli-ms.8.1.md) (session · 5) | bob-cli-ms.8 hood | completed 4, failed 1 |
 | [bob-cli-ms.8.2](../bbugyi200.apollo.bob-cli-ms.8.2/README.md) | bob-cli-ms.8 hood | completed |
 | [bob-cli-ms.8.land](../bbugyi200.apollo.bob-cli-ms.8.land/README.md) | bob-cli-ms.8 hood | waiting |
