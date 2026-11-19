@@ -12,19 +12,38 @@
 - Provider: agy
 - Timing: 2026-11-19T21:48:54.296224+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_command\_chips\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119164553/obsidian\_command\_chips\_\_gem-7d5c369cbe60.md, ref:… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_command_chips__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119164553/obsidian_command_chips__gem-7d5c369cbe60.md
+  ref: file:explicit:1186bbb845e99b56d4cc4f86
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_21/sase/repos/research/202611/obsidian_command_chips__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.5k.cdx](../bbugyi200.apollo.research.5k.cdx/README.md) | research.5k hood | completed |
-| [research.5k.cld](../bbugyi200.apollo.research.5k.cld/README.md) | research.5k hood | active |
+| [research.5k.cld](../bbugyi200.apollo.research.5k.cld/README.md) | research.5k hood | completed |
 | [research.5k.final](../bbugyi200.apollo.research.5k.final/README.md) | research.5k hood | waiting |
-| [research.5k.grk](../bbugyi200.apollo.research.5k.grk/README.md) | research.5k hood | active |
+| [research.5k.grk](../bbugyi200.apollo.research.5k.grk/README.md) | research.5k hood | completed |
 | [research.5k.image](../bbugyi200.apollo.research.5k.image/README.md) | research.5k hood | waiting |
 | [research.5k.linker](../bbugyi200.apollo.research.5k.linker/README.md) | research.5k hood | waiting |
 | [research.5k.mus](../bbugyi200.apollo.research.5k.mus/README.md) | research.5k hood | completed |
