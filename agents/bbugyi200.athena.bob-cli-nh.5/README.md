@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / bob-cli-nh.5
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.5` · **State:** waiting · **Source run:** `run-f05b3d36ef8711a9ac42d630dea4710d`
+**Global name:** `bbugyi200.athena.bob-cli-nh.5` · **State:** completed · **Source run:** `run-f05b3d36ef8711a9ac42d630dea4710d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-nh](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261119145432
-- Commits: 0
+- Timing: 2026-11-19T21:38:23.546517+00:00 → 2026-11-19T23:11:36.816121+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`eaa52d0`](https://github.com/bobs-org/bob-cli/commit/eaa52d06c8f99c1f08b6068e10d3a10b0b47cca0) | feat(periods): add intentions step to migrate and new scaffolds | 2026-11-19 18:10:58 EST |
 
 ## Neighbors
 
@@ -39,7 +45,7 @@
 | [bob-cli-nh.6.1.2](../../sessions/bbugyi200.athena.bob-cli-nh.6.1.2.md) (session · 5) | bob-cli-nh hood | completed 2, failed 3 |
 | [bob-cli-nh.6.1.2](../bbugyi200.athena.bob-cli-nh.6.1.2/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.6.1.3](../../sessions/bbugyi200.athena.bob-cli-nh.6.1.3.md) (session · 7) | bob-cli-nh hood | completed 4, failed 3 |
-| [bob-cli-nh.6.1.land](../../sessions/bbugyi200.athena.bob-cli-nh.6.1.land.md) (session · 3) | bob-cli-nh hood | active 2, completed 1 |
+| [bob-cli-nh.6.1.land](../../sessions/bbugyi200.athena.bob-cli-nh.6.1.land.md) (session · 4) | bob-cli-nh hood | active 3, completed 1 |
 | [bob-cli-nh.7](../bbugyi200.athena.bob-cli-nh.7/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.8](../bbugyi200.athena.bob-cli-nh.8/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.9](../bbugyi200.athena.bob-cli-nh.9/README.md) | bob-cli-nh hood | waiting |

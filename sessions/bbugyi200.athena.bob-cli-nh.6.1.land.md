@@ -2,17 +2,19 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / bob-cli-nh.6.1.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-nh` · Members: 3 · Bead: [bob-cli-nh.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/bob-cli-nh.6.1.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-nh` · Members: 4 · Bead: [bob-cli-nh.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/bob-cli-nh.6.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["bob-cli-nh.6.1.land--code [active]"]
-  n1["bob-cli-nh.6.1.land--plan [active]"]
+  n1["bob-cli-nh.6.1.land--mon [active]"]
   n0 --> n1
-  n2["bob-cli-nh.6.1.land--gate [completed]"]
+  n2["bob-cli-nh.6.1.land--plan [active]"]
   n0 --> n2
+  n3["bob-cli-nh.6.1.land--gate [completed]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -20,6 +22,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-code"></a>code | bob-cli-nh.6.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-19T22:34:59.255789+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-nh.6.1.land--mon | active | muse-spark-1.3-contributor / muse | 2026-11-19T22:53:34.830500+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | bob-cli-nh.6.1.land--plan | active | gpt-6-astra / codex | 2026-11-19T22:20:41.467375+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.6.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-nh.6.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-nh.6.1.land--gate | completed | gpt-6-astra / codex | 2026-11-19T22:34:13.845616+00:00 → 2026-11-19T22:34:21.790511+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-nh.6.1.land--gate/chat.md) |
 
@@ -27,7 +30,27 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Variable | Value |
 |---|---|---|
+| code | `artifacts` | \[{bead: bob-cli-nh.6.1, kind: markdown, label: Property-card closeout verification summary, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119173429/nh61-closeout-summary-89bea882… |
 | plan | `artifacts` | \[{bead: bob-cli-nh.6.1, kind: file, label: Property-card landing: unregister and host cleanup reproductions on 2f1e016, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119094543/nh… |
+
+#### artifacts
+
+**Role:** `code`
+
+```yaml
+- bead: bob-cli-nh.6.1
+  kind: markdown
+  label: Property-card closeout verification summary
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119173429/nh61-closeout-summary-89bea882bdd5.md
+  ref: file:explicit:14696680ebb0a23080ad9414
+  source_path: /tmp/nh61-closeout-summary.md
+- bead: bob-cli-nh.6.1
+  kind: file
+  label: Property-card closeout full evidence bundle
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119173429/nh61-closeout-evidence-7da120cfe971.tgz
+  ref: file:explicit:e5c34f58f439dc2d795d5d93
+  source_path: /tmp/nh61-closeout-evidence.tgz
+```
 
 #### artifacts
 
@@ -64,7 +87,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-nh.4.1.3](../agents/bbugyi200.athena.bob-cli-nh.4.1.3/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.4.1.4](bbugyi200.athena.bob-cli-nh.4.1.4.md) (session · 9) | bob-cli-nh hood | completed 5, failed 4 |
 | [bob-cli-nh.4.1.land](bbugyi200.athena.bob-cli-nh.4.1.land.md) (session · 3) | bob-cli-nh hood | active 2, completed 1 |
-| [bob-cli-nh.5](../agents/bbugyi200.athena.bob-cli-nh.5/README.md) | bob-cli-nh hood | waiting |
+| [bob-cli-nh.5](../agents/bbugyi200.athena.bob-cli-nh.5/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.7](../agents/bbugyi200.athena.bob-cli-nh.7/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.8](../agents/bbugyi200.athena.bob-cli-nh.8/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.9](../agents/bbugyi200.athena.bob-cli-nh.9/README.md) | bob-cli-nh hood | waiting |

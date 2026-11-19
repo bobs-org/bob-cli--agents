@@ -13,6 +13,32 @@
 - Provider: muse
 - Timing: 2026-11-19T22:34:59.255789+00:00
 - Commits: 0
+- Variables: [1](#variables)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-nh.6.1, kind: markdown, label: Property-card closeout verification summary, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119173429/nh61-closeout-summary-89bea882… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-nh.6.1
+  kind: markdown
+  label: Property-card closeout verification summary
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119173429/nh61-closeout-summary-89bea882bdd5.md
+  ref: file:explicit:14696680ebb0a23080ad9414
+  source_path: /tmp/nh61-closeout-summary.md
+- bead: bob-cli-nh.6.1
+  kind: file
+  label: Property-card closeout full evidence bundle
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119173429/nh61-closeout-evidence-7da120cfe971.tgz
+  ref: file:explicit:e5c34f58f439dc2d795d5d93
+  source_path: /tmp/nh61-closeout-evidence.tgz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -34,7 +60,7 @@
 | [bob-cli-nh.4.1.3](../bbugyi200.athena.bob-cli-nh.4.1.3/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.4.1.4](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.4.md) (session · 9) | bob-cli-nh hood | completed 5, failed 4 |
 | [bob-cli-nh.4.1.land](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.land.md) (session · 3) | bob-cli-nh hood | active 2, completed 1 |
-| [bob-cli-nh.5](../bbugyi200.athena.bob-cli-nh.5/README.md) | bob-cli-nh hood | waiting |
+| [bob-cli-nh.5](../bbugyi200.athena.bob-cli-nh.5/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.7](../bbugyi200.athena.bob-cli-nh.7/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.8](../bbugyi200.athena.bob-cli-nh.8/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.9](../bbugyi200.athena.bob-cli-nh.9/README.md) | bob-cli-nh hood | waiting |
