@@ -2,21 +2,21 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-n7](../../users/bbugyi200/machines/athena/hoods/bob-cli-n7/README.md) / bob-cli-n7.land
 
-**Global name:** `bbugyi200.athena.bob-cli-n7.land` · **State:** waiting · **Source run:** `run-257ab0296cc98b43315772895bf55978`
+**Global name:** `bbugyi200.athena.bob-cli-n7.land` · **State:** completed · **Source run:** `run-394b78d601c70122da65c7499d566d91`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-n7
 
 ## Summary
 
 - Bead: [bob-cli-n7](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-n7/README.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 20261118015701
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-19T09:51:45.545753+00:00 → 2026-11-19T09:57:53.185520+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
