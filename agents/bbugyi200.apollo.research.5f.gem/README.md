@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5f.gem
 
-**Global name:** `bbugyi200.apollo.research.5f.gem` · **State:** active · **Source run:** `run-998e4becb65d7af5fc50a6239458d92d`
+**Global name:** `bbugyi200.apollo.research.5f.gem` · **State:** completed · **Source run:** `run-998e4becb65d7af5fc50a6239458d92d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-19T12:46:33.653781+00:00
+- Timing: 2026-11-19T12:46:33.653781+00:00 → 2026-11-19T12:57:47.119210+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/unifying\_intentions\_and\_property\_cards\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261119074246/unifying\_intentions\_and\_property\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/unifying_intentions_and_property_cards__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261119074246/unifying_intentions_and_property_cards__gem-ce6970454b43.md
+  ref: file:explicit:7791a07df04a2c38ea32f52a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_19/sase/repos/research/202611/unifying_intentions_and_property_cards__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
