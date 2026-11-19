@@ -24,4 +24,4 @@
 |---|---|---|
 | [bob-cli-no.1](../bbugyi200.apollo.bob-cli-no.1/README.md) | bob-cli-no hood | completed |
 | [bob-cli-no.2](../bbugyi200.apollo.bob-cli-no.2/README.md) | bob-cli-no hood | completed |
-| [bob-cli-no.3](../bbugyi200.apollo.bob-cli-no.3/README.md) | bob-cli-no hood | waiting |
+| [bob-cli-no.3](../bbugyi200.apollo.bob-cli-no.3/README.md) | bob-cli-no hood | completed |
