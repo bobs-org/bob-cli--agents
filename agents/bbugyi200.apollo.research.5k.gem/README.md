@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5k.gem
 
-**Global name:** `bbugyi200.apollo.research.5k.gem` · **State:** active · **Source run:** `run-648757478a9c39a1054002d7269f2546`
+**Global name:** `bbugyi200.apollo.research.5k.gem` · **State:** completed · **Source run:** `run-648757478a9c39a1054002d7269f2546`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-19T21:48:54.296224+00:00
+- Timing: 2026-11-19T21:48:54.296224+00:00 → 2026-11-19T22:18:50.855558+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -42,10 +42,11 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [research.5k.cdx](../bbugyi200.apollo.research.5k.cdx/README.md) | research.5k hood | completed |
 | [research.5k.cld](../bbugyi200.apollo.research.5k.cld/README.md) | research.5k hood | completed |
-| [research.5k.final](../bbugyi200.apollo.research.5k.final/README.md) | research.5k hood | waiting |
+| [research.5k.final](../bbugyi200.apollo.research.5k.final/README.md) | research.5k hood | completed |
 | [research.5k.grk](../bbugyi200.apollo.research.5k.grk/README.md) | research.5k hood | completed |
 | [research.5k.image](../bbugyi200.apollo.research.5k.image/README.md) | research.5k hood | waiting |
 | [research.5k.linker](../bbugyi200.apollo.research.5k.linker/README.md) | research.5k hood | waiting |
+| [research.5k.linker.w0](../bbugyi200.apollo.research.5k.linker.w0/README.md) | research.5k hood | waiting |
 | [research.5k.mus](../bbugyi200.apollo.research.5k.mus/README.md) | research.5k hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
