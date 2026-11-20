@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5l.gem
 
-**Global name:** `bbugyi200.apollo.research.5l.gem` · **State:** active · **Source run:** `run-c65cf6c78cad327c7cb5f1e213fd88cc`
+**Global name:** `bbugyi200.apollo.research.5l.gem` · **State:** completed · **Source run:** `run-c65cf6c78cad327c7cb5f1e213fd88cc`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-20T14:42:11.206555+00:00
+- Timing: 2026-11-20T14:42:11.206555+00:00 → 2026-11-20T15:01:44.185828+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/coarse\_group\_bracket\_nav\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120093915/coarse\_group\_bracket\_nav\_\_gem-edf63e8cbaaf.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/coarse_group_bracket_nav__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120093915/coarse_group_bracket_nav__gem-edf63e8cbaaf.md
+  ref: file:explicit:f9be6c21147ca04851f950af
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/coarse_group_bracket_nav__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
