@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1300710be76ac391d7c2d4aaecdb71f8"}
+{"commits":[{"committed_at":1795145908,"sha":"d15432aa4609ea9641c9ff5987dbf03b4ff68b23","subject":"feat(capture): implement work_log log-reason recall completion"}],"schema_version":2,"source_run_id":"run-1300710be76ac391d7c2d4aaecdb71f8"}

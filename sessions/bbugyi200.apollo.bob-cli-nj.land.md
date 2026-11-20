@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-nj` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-nj.land--code [active]"]
+  n0["bob-cli-nj.land--code [completed]"]
   n1["bob-cli-nj.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-nj.land--plan [active]"]
+  n2["bob-cli-nj.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-nj.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-20T01:48:04.604055+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-nj.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-20T01:48:04.604055+00:00 → 2026-11-20T03:42:00.123262+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-nj.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-nj.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-nj.land--gate | completed | opus / claude | 2026-11-20T01:47:15.000334+00:00 → 2026-11-20T01:47:24.434062+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-nj.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-nj.land--plan | active | opus / claude | 2026-11-20T01:16:04.738533+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-nj.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-nj.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-nj.land--plan | completed | opus / claude | 2026-11-20T01:16:04.738533+00:00 → 2026-11-20T03:42:00.123262+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-nj.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-nj.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`d15432a`](https://github.com/bobs-org/bob-cli/commit/d15432aa4609ea9641c9ff5987dbf03b4ff68b23) | feat(capture): implement work\_log log-reason recall completion | 2026-11-19 22:38:28 EST |
 
 ## Neighbors
 
