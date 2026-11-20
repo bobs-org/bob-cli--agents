@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-nu` · Members: 5 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-nu.2--2 [active]"]
+  n0["bob-cli-nu.2--2 [completed]"]
   n1["bob-cli-nu.2--mon-0 [failed]"]
   n0 --> n1
   n2["bob-cli-nu.2--1 [completed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-2"></a>2 | bob-cli-nu.2--2 | active | gpt-6-luna / codex | 2026-11-20T11:52:35.426539+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-nu.2--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-nu.2--2 | completed | gpt-6-luna / codex | 2026-11-20T11:52:35.426539+00:00 → 2026-11-20T12:15:37.719861+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-nu.2--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-nu.2--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-nu.2--mon-0 | failed | gpt-6-luna / codex | 2026-11-20T11:46:48.285848+00:00 → 2026-11-20T11:52:35.569533+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-nu.2--mon-0/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-nu.2--1 | completed | gpt-6-luna / codex | 2026-11-20T11:44:24.296581+00:00 → 2026-11-20T11:47:42.451570+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-nu.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-nu.2--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-nu.2--plan | completed | gpt-6-luna / codex | 2026-11-20T11:01:10.072948+00:00 → 2026-11-20T11:39:35.372276+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-nu.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-nu.2--plan/chat.md) |

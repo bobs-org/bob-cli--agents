@@ -29,7 +29,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-nu.2](../../sessions/bbugyi200.apollo.bob-cli-nu.2.md) (session · 5) | bob-cli-nu hood | active 1, completed 2, failed 2 |
+| [bob-cli-nu.2](../../sessions/bbugyi200.apollo.bob-cli-nu.2.md) (session · 5) | bob-cli-nu hood | completed 3, failed 2 |
 | [bob-cli-nu.3](../bbugyi200.apollo.bob-cli-nu.3/README.md) | bob-cli-nu hood | active |
 | [bob-cli-nu.4](../bbugyi200.apollo.bob-cli-nu.4/README.md) | bob-cli-nu hood | waiting |
 | [bob-cli-nu.5](../bbugyi200.apollo.bob-cli-nu.5/README.md) | bob-cli-nu hood | waiting |

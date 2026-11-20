@@ -10,8 +10,8 @@
 
 - Bead: [bob-cli-nu.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nu/bob-cli-nu.3.md)
 - Epic: [bob-cli-nu](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nu/README.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
+- Model: opus
+- Provider: claude
 - Timing: 20261120060045
 - Commits: 0
 
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-nu.1](../bbugyi200.apollo.bob-cli-nu.1/README.md) | bob-cli-nu hood | completed |
-| [bob-cli-nu.2](../../sessions/bbugyi200.apollo.bob-cli-nu.2.md) (session · 5) | bob-cli-nu hood | active 1, completed 2, failed 2 |
+| [bob-cli-nu.2](../../sessions/bbugyi200.apollo.bob-cli-nu.2.md) (session · 5) | bob-cli-nu hood | completed 3, failed 2 |
 | [bob-cli-nu.4](../bbugyi200.apollo.bob-cli-nu.4/README.md) | bob-cli-nu hood | waiting |
 | [bob-cli-nu.5](../bbugyi200.apollo.bob-cli-nu.5/README.md) | bob-cli-nu hood | waiting |
 | [bob-cli-nu.6](../bbugyi200.apollo.bob-cli-nu.6/README.md) | bob-cli-nu hood | waiting |
