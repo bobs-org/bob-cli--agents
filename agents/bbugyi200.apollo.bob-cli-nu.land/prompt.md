@@ -2,7 +2,7 @@
 %id(land, clan=bob-cli-nu, bead=bob-cli-nu)
 %model:@xlarge
 %auto
-%w(bob-cli-nu.1,bob-cli-nu.2,bob-cli-nu.3,bob-cli-nu.4,bob-cli-nu.5,bob-cli-nu.6,bob-cli-nu.7,bob-cli-nu.8, for_epic=false)
+%w(bob-cli-nu.5,bob-cli-nu.6,bob-cli-nu.7,bob-cli-nu.8, for_epic=false)
 %w(bead=bob-cli-nu.1)
 %w(bead=bob-cli-nu.2)
 %w(bead=bob-cli-nu.3)

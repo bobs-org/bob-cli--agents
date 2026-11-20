@@ -2,6 +2,5 @@
 %id(5, clan=bob-cli-nu, bead=bob-cli-nu.5)
 %model:@medium
 %auto
-%w(bob-cli-nu.4, for_epic=false)
 %w(bead=bob-cli-nu.4)
 #bd/work_phase_bead:bob-cli-nu.5

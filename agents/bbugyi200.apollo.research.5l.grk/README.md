@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5l.grk
 
-**Global name:** `bbugyi200.apollo.research.5l.grk` · **State:** active · **Source run:** `run-d0a1c6f7ae950b1d6190ca537f701e19`
+**Global name:** `bbugyi200.apollo.research.5l.grk` · **State:** completed · **Source run:** `run-d0a1c6f7ae950b1d6190ca537f701e19`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-20T14:41:11.443060+00:00
+- Timing: 2026-11-20T14:41:11.443060+00:00 → 2026-11-20T15:04:33.775080+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/n\_family\_group\_jump\_keymaps/n\_family\_group\_jump\_keymaps\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120093913/n\_family\_group\_j… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/n_family_group_jump_keymaps/n_family_group_jump_keymaps__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120093913/n_family_group_jump_keymaps__grk-1c2061b13247.md
+  ref: file:explicit:1320a05a0e05cca9e0b645a8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_18/sase/repos/research/202611/n_family_group_jump_keymaps/n_family_group_jump_keymaps__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
