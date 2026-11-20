@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-o6.4.1.1--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_o6_4_1_1__plan-261120_134400.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_o6_4_1_1__code-261120_134400.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/album_card_title_block.md
 
 
