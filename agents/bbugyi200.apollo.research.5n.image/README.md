@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5n.image
 
-**Global name:** `bbugyi200.apollo.research.5n.image` · **State:** waiting · **Source run:** `run-da1409e6d64ee735eeb1959e23ad5479`
+**Global name:** `bbugyi200.apollo.research.5n.image` · **State:** completed · **Source run:** `run-da1409e6d64ee735eeb1959e23ad5479`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261120160106
+- Timing: 2026-11-20T21:59:51.800254+00:00 → 2026-11-20T22:17:13.275187+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/explicit\_micro\_tasks/explicit\_micro\_tasks\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120160106/explicit\_micro\_tasks\_i… |
+| `diagrams` | {considered: 22, count: 3, manifest: 202611/explicit\_micro\_tasks/explicit\_micro\_tasks.diagrams.md, source\_ref: file:explicit:ee3634ee34ba27e4fdba592f, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/explicit_micro_tasks/explicit_micro_tasks_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120160106/explicit_micro_tasks_infographic-4abcb328591e.png
+  ref: file:explicit:b039277340ecf3dc9fd687ae
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/explicit_micro_tasks/explicit_micro_tasks_infographic.png
+- kind: markdown
+  label: diagrams:202611/explicit_micro_tasks/explicit_micro_tasks.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120160106/explicit_micro_tasks.diagrams-97a0a51e5285.md
+  ref: file:explicit:5258aece552d838652197b25
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/explicit_micro_tasks/explicit_micro_tasks.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 22
+count: 3
+manifest: 202611/explicit_micro_tasks/explicit_micro_tasks.diagrams.md
+source_ref: file:explicit:ee3634ee34ba27e4fdba592f
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
