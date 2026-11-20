@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-o6` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-o6.4.1.3--mon [completed]"]
-  n1["bob-cli-o6.4.1.3--1 [waiting]"]
+  n1["bob-cli-o6.4.1.3--1 [completed]"]
   n0 --> n1
   n2["bob-cli-o6.4.1.3--plan [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-o6.4.1.3--mon | completed | opus / claude | 2026-11-20T19:33:42.550016+00:00 → 2026-11-20T19:46:30.257395+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-o6.4.1.3--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-o6.4.1.3--1 | waiting | opus / claude | 20261120144529 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-o6.4.1.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-o6.4.1.3--1 | completed | opus / claude | 2026-11-20T20:10:44.193997+00:00 → 2026-11-20T20:14:07.264698+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-o6.4.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-o6.4.1.3--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-o6.4.1.3--plan | completed | opus / claude | 2026-11-20T18:44:34.624994+00:00 → 2026-11-20T19:35:01.083369+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-o6.4.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-o6.4.1.3--plan/chat.md) |
 
 ## Variables
@@ -68,7 +68,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 |---|---|---|
 | [bob-cli-o6.4](bbugyi200.athena.bob-cli-o6.4.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-o6.4.1.1](bbugyi200.athena.bob-cli-o6.4.1.1.md) (session · 3) | bob-cli-o6.4.1 hood | completed 3 |
-| [bob-cli-o6.4.1.2](../agents/bbugyi200.athena.bob-cli-o6.4.1.2/README.md) | bob-cli-o6.4.1 hood | waiting |
+| [bob-cli-o6.4.1.2](bbugyi200.athena.bob-cli-o6.4.1.2.md) (session · 3) | bob-cli-o6.4.1 hood | active 2, completed 1 |
 | [bob-cli-o6.4.1.land](../agents/bbugyi200.athena.bob-cli-o6.4.1.land/README.md) | bob-cli-o6.4.1 hood | waiting |
 | [bob-cli-o6.1](bbugyi200.athena.bob-cli-o6.1.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.2](bbugyi200.athena.bob-cli-o6.2.md) (session · 3) | bob-cli-o6 hood | completed 3 |
