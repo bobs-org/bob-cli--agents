@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `e696d92` | docs(research): investigate highlights tab switcher filter for bob-mac-capture | 2026-10-15 16:46:02 EDT |
+| bob-cli | [`e696d92`](https://github.com/bobs-org/bob-cli/commit/e696d9281f19615509deac97d3c59ebd066d3148) | docs(research): investigate highlights tab switcher filter for bob-mac-capture | 2026-10-15 16:46:02 EDT |
 
 ## Variables
 

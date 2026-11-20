@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `099ad2a` | docs: add Bob Obsidian plugins infographic | 2026-06-20 10:33:14 EDT |
+| bob-cli | [`099ad2a`](https://github.com/bobs-org/bob-cli/commit/099ad2aa061ae74c1a91a2aac22444635a8b228a) | docs: add Bob Obsidian plugins infographic | 2026-06-20 10:33:14 EDT |
 
 ## Neighbors
 
