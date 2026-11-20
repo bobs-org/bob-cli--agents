@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5l.mus
 
-**Global name:** `bbugyi200.apollo.research.5l.mus` · **State:** active · **Source run:** `run-5b3aeaf89b129631a26f08dc6fb37c49`
+**Global name:** `bbugyi200.apollo.research.5l.mus` · **State:** completed · **Source run:** `run-5b3aeaf89b129631a26f08dc6fb37c49`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,18 +10,37 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-20T14:41:17.922625+00:00
+- Timing: 2026-11-20T14:41:17.922625+00:00 → 2026-11-20T14:51:38.737657+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bracket\_N\_walk\_\_mus.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120093914/bracket\_N\_walk\_\_mus-d84bc2062802.md, ref: file:explicit:b… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bracket_N_walk__mus.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120093914/bracket_N_walk__mus-d84bc2062802.md
+  ref: file:explicit:b1c61cde143a5ea9bb8bc1f5
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_19/sase/repos/research/202611/bracket_N_walk__mus.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5l.cdx](../bbugyi200.apollo.research.5l.cdx/README.md) | research.5l hood | active |
+| [research.5l.cdx](../bbugyi200.apollo.research.5l.cdx/README.md) | research.5l hood | completed |
 | [research.5l.cld](../bbugyi200.apollo.research.5l.cld/README.md) | research.5l hood | active |
 | [research.5l.final](../bbugyi200.apollo.research.5l.final/README.md) | research.5l hood | waiting |
 | [research.5l.gem](../bbugyi200.apollo.research.5l.gem/README.md) | research.5l hood | active |
