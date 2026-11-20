@@ -10,8 +10,8 @@
 
 - Bead: [bob-cli-nh.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/bob-cli-nh.8.md)
 - Epic: [bob-cli-nh](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/README.md)
-- Model: gpt-6-luna
-- Provider: codex
+- Model: opus
+- Provider: claude
 - Timing: 20261119145434
 - Commits: 0
 
@@ -46,6 +46,6 @@
 | [bob-cli-nh.7.1.2](../bbugyi200.athena.bob-cli-nh.7.1.2/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.7.1.3](../bbugyi200.athena.bob-cli-nh.7.1.3/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.7.1.4](../bbugyi200.athena.bob-cli-nh.7.1.4/README.md) | bob-cli-nh hood | completed |
-| [bob-cli-nh.7.1.land](../../sessions/bbugyi200.athena.bob-cli-nh.7.1.land.md) (session · 3) | bob-cli-nh hood | active 2, completed 1 |
+| [bob-cli-nh.7.1.land](../../sessions/bbugyi200.athena.bob-cli-nh.7.1.land.md) (session · 3) | bob-cli-nh hood | completed 3 |
 | [bob-cli-nh.9](../bbugyi200.athena.bob-cli-nh.9/README.md) | bob-cli-nh hood | waiting |
 | [bob-cli-nh.land](../bbugyi200.athena.bob-cli-nh.land/README.md) | bob-cli-nh hood | waiting |
