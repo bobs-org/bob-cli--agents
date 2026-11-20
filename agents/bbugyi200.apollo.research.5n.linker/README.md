@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5n.linker
 
-**Global name:** `bbugyi200.apollo.research.5n.linker` · **State:** waiting · **Source run:** `run-ca0e54619c54f61a1e0f6fd7e510317d`
+**Global name:** `bbugyi200.apollo.research.5n.linker` · **State:** completed · **Source run:** `run-ca0e54619c54f61a1e0f6fd7e510317d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261120160107
+- Timing: 2026-11-20T22:17:29.790712+00:00 → 2026-11-20T22:26:52.645802+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/explicit\_micro\_tasks/explicit\_micro\_tasks.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120160107/explicit\_micro\_tasks-3e0f177b1574.m… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/explicit_micro_tasks/explicit_micro_tasks.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120160107/explicit_micro_tasks-3e0f177b1574.md
+  ref: file:explicit:53855172cabdbaef8b53ac73
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/explicit_micro_tasks/explicit_micro_tasks.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
