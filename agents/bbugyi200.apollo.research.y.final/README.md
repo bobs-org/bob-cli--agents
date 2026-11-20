@@ -17,7 +17,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `85d1869` | docs: consolidate Bob Obsidian plugin repo research | 2026-06-20 10:22:55 EDT |
+| bob-cli | [`85d1869`](https://github.com/bobs-org/bob-cli/commit/85d18691a8c06ef9c106a4f8e16796a32ec7736e) | docs: consolidate Bob Obsidian plugin repo research | 2026-06-20 10:22:55 EDT |
 
 ## Neighbors
 

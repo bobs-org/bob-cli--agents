@@ -17,9 +17,9 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `44cd117` | chore: Add SDD prompt and plan for bob\_plugins\_repo | 2026-06-20 11:00:34 EDT |
-| — | `415a37c` | chore(sdd): create bob plugins epic beads | 2026-06-20 11:03:18 EDT |
-| — | `eebad25` | chore(sdd): update bead db after bob-cli-8 launch | 2026-06-20 11:04:46 EDT |
+| bob-cli | [`44cd117`](https://github.com/bobs-org/bob-cli/commit/44cd1174de8674dd3c343b3eeb5f44bd98fdc3f8) | chore: Add SDD prompt and plan for bob\_plugins\_repo | 2026-06-20 11:00:34 EDT |
+| bob-cli | [`415a37c`](https://github.com/bobs-org/bob-cli/commit/415a37c66fba5b1020dcb3ea130cab27a84bfe77) | chore(sdd): create bob plugins epic beads | 2026-06-20 11:03:18 EDT |
+| bob-cli | [`eebad25`](https://github.com/bobs-org/bob-cli/commit/eebad25ea023f72e6b5f6d9507319d944ed4720c) | chore(sdd): update bead db after bob-cli-8 launch | 2026-06-20 11:04:46 EDT |
 
 ## Neighbors
 
