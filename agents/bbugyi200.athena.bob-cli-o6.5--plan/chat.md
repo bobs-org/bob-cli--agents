@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-o6.5--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_o6_5__plan-261120_115033.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_o6_5__code-261120_115033.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/day_period_cards.md
 
 
