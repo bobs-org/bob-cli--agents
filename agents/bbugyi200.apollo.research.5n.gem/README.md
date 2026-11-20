@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5n.gem
 
-**Global name:** `bbugyi200.apollo.research.5n.gem` · **State:** active · **Source run:** `run-58fe36cd341e1f523dcbe56df99d9dd6`
+**Global name:** `bbugyi200.apollo.research.5n.gem` · **State:** completed · **Source run:** `run-58fe36cd341e1f523dcbe56df99d9dd6`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-20T21:18:44.530989+00:00
+- Timing: 2026-11-20T21:18:44.530989+00:00 → 2026-11-20T21:31:33.048245+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/explicit\_micro\_tasks\_design\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120160104/explicit\_micro\_tasks\_design\_\_gem-322c88a1aee… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/explicit_micro_tasks_design__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120160104/explicit_micro_tasks_design__gem-322c88a1aee7.md
+  ref: file:explicit:8403637a96abdd181015de09
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_18/sase/repos/research/202611/explicit_micro_tasks_design__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

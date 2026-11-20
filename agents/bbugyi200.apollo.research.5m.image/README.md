@@ -12,10 +12,45 @@
 - Provider: codex
 - Timing: 20261120154436
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/successor\_jump\_pin/successor\_jump\_pin.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120154436/successor\_jump\_pin.diagrams-d0… |
+| `diagrams` | {considered: 12, count: 2, manifest: 202611/successor\_jump\_pin/successor\_jump\_pin.diagrams.md, source\_ref: file:explicit:c978e680f84c88a665772025, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/successor_jump_pin/successor_jump_pin.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120154436/successor_jump_pin.diagrams-d028bed309b0.md
+  ref: file:explicit:528426a8d0c5440d9bfc6d96
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/successor_jump_pin/successor_jump_pin.diagrams.md
+- kind: image
+  label: infographic:202611/successor_jump_pin/successor_jump_pin_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120154436/successor_jump_pin_infographic-8da5fc5b43eb.png
+  ref: file:explicit:31c14331a5a83bc2914a047b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/successor_jump_pin/successor_jump_pin_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 2
+manifest: 202611/successor_jump_pin/successor_jump_pin.diagrams.md
+source_ref: file:explicit:c978e680f84c88a665772025
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
