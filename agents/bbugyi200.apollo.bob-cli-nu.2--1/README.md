@@ -25,6 +25,7 @@
 | [bob-cli-nu.1](../bbugyi200.apollo.bob-cli-nu.1/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.3](../bbugyi200.apollo.bob-cli-nu.3/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.4](../../sessions/bbugyi200.apollo.bob-cli-nu.4.md) (session · 3) | bob-cli-nu hood | active 1, completed 2 |
+| [bob-cli-nu.4.1.1](../bbugyi200.apollo.bob-cli-nu.4.1.1/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.4.1.2](../bbugyi200.apollo.bob-cli-nu.4.1.2/README.md) | bob-cli-nu hood | waiting |
 | [bob-cli-nu.4.1.3](../bbugyi200.apollo.bob-cli-nu.4.1.3/README.md) | bob-cli-nu hood | active |
 | [bob-cli-nu.4.1.4](../bbugyi200.apollo.bob-cli-nu.4.1.4/README.md) | bob-cli-nu hood | waiting |
