@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.58.final
 
-**Global name:** `bbugyi200.apollo.research.58.final` · **State:** active · **Source run:** `run-80749c7d3d99df3f2b15739f54cc8c7f`
+**Global name:** `bbugyi200.apollo.research.58.final` · **State:** dismissed · **Source run:** `run-80749c7d3d99df3f2b15739f54cc8c7f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261117153055
+- Timing: 2026-11-17T15:30:55
 - Commits: 0
 
 ## Neighbors
