@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-o6` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-o6.4.1.2--code [active]"]
-  n1["bob-cli-o6.4.1.2--gate [completed]"]
+  n0["bob-cli-o6.4.1.2--gate [completed]"]
+  n1["bob-cli-o6.4.1.2--code [active]"]
   n0 --> n1
   n2["bob-cli-o6.4.1.2--plan [active]"]
   n0 --> n2
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-o6.4.1.2--code | active | grok-4.6 / grok | 2026-11-20T20:22:58.960595+00:00 | 0 | — | — |
-| <a id="member-gate"></a>gate | bob-cli-o6.4.1.2--gate | completed | gpt-6-astra / codex | 2026-11-20T20:20:57.085622+00:00 → 2026-11-20T20:21:05.562646+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-o6.4.1.2--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-o6.4.1.2--plan | active | gpt-6-astra / codex | 2026-11-20T20:14:08.312849+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-o6.4.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-o6.4.1.2--plan/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-o6.4.1.2--gate | completed | opus / claude | 2026-11-20T23:07:07.951789+00:00 → 2026-11-20T23:07:15.553015+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-o6.4.1.2--gate/chat.md) |
+| <a id="member-code"></a>code | bob-cli-o6.4.1.2--code | active | grok-4.6 / grok | 2026-11-20T23:07:47.890686+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-o6.4.1.2--plan | active | opus / claude | 2026-11-20T22:56:55.344602+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-o6.4.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-o6.4.1.2--plan/chat.md) |
 
 ## Neighbors
 

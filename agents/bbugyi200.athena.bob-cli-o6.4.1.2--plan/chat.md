@@ -1,36 +1,36 @@
 # Chat History - ace-run (bob-cli-o6.4.1.2--plan)
 
-- **TIMESTAMP:** 2026-11-20 15:21:05 EST
+- **TIMESTAMP:** 2026-11-20 18:07:15 EST
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-o6.4.1.2--plan
 
-**Plan:** /home/bryan/.sase/plans/202611/record_card_title_block.md
+**Plan:** /home/bryan/.sase/plans/202611/record_card_title_slot.md
 
 
 ## Proposed Plan Preview
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202611/record_card_title_block.md`
+**Plan file:** `/home/bryan/.sase/plans/202611/record_card_title_slot.md`
 
-> - **PARENT:**
->   [202611/collection_cards_title_block.md](202611/collection_cards_title_block.md)
 > - **BEAD:** bob-cli-o6.4.1.2
-> # Record card owns the note title from the title slot
-> ## Scope and current evidence
-> Complete **bob-cli-o6.4.1.2**, the `record-card` phase of
-> `plan:202611/collection_cards_title_block.md`. Only close this phase after its work is
-> verified. Keep every ancestor open. Record discoveries as `PROPOSED FOLLOW-UP:` notes on
-> this bead; create no task beads. No memory edits are authorized here. The outer epic's
-> glossary changes belong to bob-cli-o6.7; its decision-record choice is no.
+> # Record card: title block in the title slot
+> ## Scope and status
+> This tale completes **bob-cli-o6.4.1.2**, the `record-card` phase of the child epic
+> `plan:202611/collection_cards_title_block.md` (bead `bob-cli-o6.4.1`). Close only this
+> bead. Never close `bob-cli-o6.4.1`, `bob-cli-o6.4`, `bob-cli-o6`, or any `bob-cli-ms`
+> bead. Create no beads. Record discovered work with
+> `sase bead note bob-cli-o6.4.1.2 'PROPOSED FOLLOW-UP: <summary — detail>'`. No phase of
+> this epic edits any memory file.
+> An earlier plan for this phase (`plan:202611/record_card_title_block.md`) was approved,
 
 *See full plan file for details.*
 
 ## Prompt
 
-#gh:gh_bobs-org__bob-cli
 %id(2, clan=bob-cli-o6.4.1, bead=bob-cli-o6.4.1.2)
-%model:@large
+#gh:gh_bobs-org__bob-cli
+%m:@xlarge 
 %auto
 %w(bob-cli-o6.4.1.1, for_epic=false)
 %w(bead=bob-cli-o6.4.1.1)
@@ -68,26 +68,43 @@ before making any file changes.
 
 ## Response
 
-I’ll read the bead, its design, and any earlier work, then use `/sase_plan` to prepare and submit a validated plan before changing files. I’ll also use `/sase_memory_read` for the required project context.
+I'm reading the record-card phase scope and the album-card phase's handoff notes, then I'll look at the bob-plugins code before writing the plan.
 
+Exploring the record sheet and the album card's adoption of the shared glue so the plan can point at exact code.
 
-The album-card prerequisite is complete and provides the shared title-slot helper this phase needs. The record phase has no earlier progress notes. I’m checking its mount and walk-rail code to make the plan concrete and confirm it fits one coding agent.
+Still mapping the kit: now the ownership fragment's Reading path, which decides how the walk paragraph would be hidden.
 
+An earlier run already proposed an approved plan for this same phase. Checking whether its coder landed anything or is still running before I plan again.
 
-The record card still uses its old header and body placement, so the requested work has not landed. The main work is separating title rendering from the report gate and moving the existing walk rail into the title-slot card. The shared helper supports the necessary mount and cleanup behavior.
+Nothing from the earlier coder landed (empty transcript, clean checkout), so I'll re-plan. Reading the previously approved plan as a reference.
 
+Now verifying the details the earlier plan left vague: whether album resolution works without a report, and how CSS, tests, and e2e probe the record card today.
 
-I’m choosing a `medium` tale: the existing kit and album helper make this a bounded implementation for one coding agent. The plan will explicitly separate title ownership from Properties-row hiding, preserve the walk behavior, and update the e2e expectations. It will also leave the record-writer harness untouched, as the parent plan requires.
+Checking which other plugins and scripts locate the record card by selector, since moving it into the title slot could break them.
 
+Checking where the record noun comes from (report vs. album frontmatter) and the kit's sheet-tile defaults.
 
-The plan is written and validation is running. I also caught two details that matter for implementation: the walk classifier rejects a bare line without frontmatter, and the full record-card e2e already runs the workflow checks—the workflow file is not a separate executable.
+Checking how fragments and mixins are registered so the plan names the right wiring points.
 
+I have what I need. Writing the plan now: a single medium tale, building on the earlier approved plan but fixing the gaps I found in the code.
 
-The plan passed validation with no warnings and the proposal is staged. I’m using `/sase_final` to finish the handoff.
+The plan is staged. Finishing the turn through the finalizer.
 
-The [plan skill](/home/bryan/.codex/skills/sase_plan/SKILL.md) requires: “Nothing starts until your turn ends: finish through `/sase_final`.” Implementation therefore awaits plan review; the bead remains open.
+I've written and submitted a new plan for bead `bob-cli-o6.4.1.2`. It's waiting for your approval, and no code has changed yet.
 
+**Why there's a new plan.** This phase already had an approved plan, `record_card_title_block.md`, but its coding run (on grok-4.6, launched at the `@medium` size) returned an empty response. Nothing landed in bob-plugins, the checkout is clean, and the bead has no notes. The new plan replaces that one.
 
-Validated and staged a medium tale plan for `bob-cli-o6.4.1.2`. Confirmed the album prerequisite landed; record adoption remains unfinished.
+**What the plan covers.** It's a single-agent plan (tale, size medium), checked against bob-plugins `63cd4ee` (bob-ledger-tools 1.147.0):
 
-Implementation awaits plan review. The [required plan workflow](/home/bryan/.codex/skills/sase_plan/SKILL.md) says, “Nothing starts until your turn ends.” No product files changed; the bead remains in progress.
+- **Card before the report.** The record card's title block shows up straight away, before bob's album report arrives. It has the sheet tile, the `RECORD · <Album> · <noun>` kicker, and the title; the noun and the field rows fill in later without the card remounting. Today the card can't appear at all until the report arrives. The plan adds a separate report-free model and leaves the existing report-based model unchanged, because the Record Card editor, the subscription header, the e2e scripts and the unit tests all depend on it.
+- **Title slot and walk line.** The card moves into the title slot using the shared mounting code the album card phase built, with the album card as the pattern to copy. A new record recognizer hides the walk line or a legacy H1 that matches the title, and only when it's the first thing in the note body. Moving the cursor onto it shows the raw line while the card and its walk rail stay put.
+- **Traps I found in the code:**
+  - The Reading-view cleanup searches the whole note container. That container includes the header area where the card will now live, so the cleanup would rip the card out unless the card's slot is released first, as the album card does.
+  - The walk line has to be checked against the whole note's source, not as a bare line, or the check always fails.
+  - Before the report arrives, the walk rail names the album differently from the kicker. Aligning them also makes the computed walk line match what bob actually writes for albums that haven't been tidied.
+- **CSS cleanup.** Inline-title hiding moves to the shared ownership class. The old record-only class for hidden Properties rows is removed after its three users are updated: two test files and the unload-leak check in the record e2e script.
+- **Test updates, docs, release.** The record e2e script's native-visibility check splits into two separate expectations: title ownership and row hiding. One expectation changes on purpose: on a record with a broken schema, the card now takes over the title while the Properties rows stay visible. The walk e2e will check that the card and rail stay in place during the cursor reveal. Record joins the adopted kinds in the preview script. The plan then covers the docs, bumping to 1.148.0, syncing to the vault, and closing the bead.
+
+**Before you approve.** If you approve without changing anything, the plan goes to the same `@medium` size that produced the empty run, so the same failure could repeat. I didn't override the model on my own; you may want to pick one when you approve.
+
+The bead stays open, with no deadline symbols to clear and no memory edits.

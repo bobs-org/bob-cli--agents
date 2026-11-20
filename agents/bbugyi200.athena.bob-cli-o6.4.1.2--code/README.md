@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-o6](../../users/bbugyi200/machines/athena/hoods/bob-cli-o6/README.md) / [bob-cli-o6.4.1.2](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.2.md) / bob-cli-o6.4.1.2--code
 
-**Global name:** `bbugyi200.athena.bob-cli-o6.4.1.2--code` · **State:** active · **Source run:** `run-6cf6ad238833758b6576da2be271bd76`
+**Global name:** `bbugyi200.athena.bob-cli-o6.4.1.2--code` · **State:** active · **Source run:** `run-9994e48671d6d07e4cc51b2068b4b2d2`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-o6
 
 ## Summary
 
 - Bead: [bob-cli-o6.4.1.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-o6/bob-cli-o6.4.1.2.md)
-- Epic: [bob-cli-o6.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-o6/bob-cli-o6.4.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-20T20:22:58.960595+00:00
+- Timing: 2026-11-20T23:07:47.890686+00:00
 - Commits: 0
 
 ## Neighbors

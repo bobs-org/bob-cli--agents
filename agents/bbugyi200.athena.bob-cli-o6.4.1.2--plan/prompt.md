@@ -1,6 +1,6 @@
-#gh:gh_bobs-org__bob-cli
 %id(2, clan=bob-cli-o6.4.1, bead=bob-cli-o6.4.1.2)
-%model:@large
+#gh:gh_bobs-org__bob-cli
+%m:@xlarge 
 %auto
 %w(bob-cli-o6.4.1.1, for_epic=false)
 %w(bead=bob-cli-o6.4.1.1)
