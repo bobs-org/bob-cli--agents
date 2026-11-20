@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5m.grk
 
-**Global name:** `bbugyi200.apollo.research.5m.grk` · **State:** active · **Source run:** `run-c361b889073a1f5bc8cea1ce346116b0`
+**Global name:** `bbugyi200.apollo.research.5m.grk` · **State:** completed · **Source run:** `run-c361b889073a1f5bc8cea1ce346116b0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-20T20:46:35.293165+00:00
+- Timing: 2026-11-20T20:46:35.293165+00:00 → 2026-11-20T21:00:39.623728+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/successor\_jump\_ctrl\_j\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120154432/successor\_jump\_ctrl\_j\_\_grk-a1781ae98df4.md, ref: f… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/successor_jump_ctrl_j__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120154432/successor_jump_ctrl_j__grk-a1781ae98df4.md
+  ref: file:explicit:39450417ef29918344944b67
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/successor_jump_ctrl_j__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.5m.cdx](../bbugyi200.apollo.research.5m.cdx/README.md) | research.5m hood | completed |
 | [research.5m.cld](../bbugyi200.apollo.research.5m.cld/README.md) | research.5m hood | completed |
 | [research.5m.final](../bbugyi200.apollo.research.5m.final/README.md) | research.5m hood | waiting |
-| [research.5m.gem](../bbugyi200.apollo.research.5m.gem/README.md) | research.5m hood | active |
+| [research.5m.gem](../bbugyi200.apollo.research.5m.gem/README.md) | research.5m hood | completed |
 | [research.5m.image](../bbugyi200.apollo.research.5m.image/README.md) | research.5m hood | waiting |
 | [research.5m.linker](../bbugyi200.apollo.research.5m.linker/README.md) | research.5m hood | waiting |
 | [research.5m.mus](../bbugyi200.apollo.research.5m.mus/README.md) | research.5m hood | completed |
