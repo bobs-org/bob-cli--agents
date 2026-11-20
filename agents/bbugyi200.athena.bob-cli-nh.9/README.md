@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / bob-cli-nh.9
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.9` · **State:** waiting · **Source run:** `run-1d62c272c8128f45d81cadd31acabc79`
+**Global name:** `bbugyi200.athena.bob-cli-nh.9` · **State:** completed · **Source run:** `run-1d62c272c8128f45d81cadd31acabc79`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-nh](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261119145435
-- Commits: 0
+- Timing: 2026-11-20T14:39:21.666892+00:00 → 2026-11-20T14:46:25.642592+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`b700701`](https://github.com/bobs-org/bob-cli/commit/b70070114fa5861c8552dd5fc3285da265e8fe52) | docs(memory): add intention and property-card glossary family | 2026-11-20 09:45:44 EST |
 
 ## Neighbors
 
