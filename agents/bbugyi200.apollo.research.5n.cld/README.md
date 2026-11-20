@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5n.cld
 
-**Global name:** `bbugyi200.apollo.research.5n.cld` · **State:** active · **Source run:** `run-8727a963ab14a006681256b455b1b4a9`
+**Global name:** `bbugyi200.apollo.research.5n.cld` · **State:** completed · **Source run:** `run-8727a963ab14a006681256b455b1b4a9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-20T21:19:03.039519+00:00
+- Timing: 2026-11-20T21:19:03.039519+00:00 → 2026-11-20T21:42:25.150179+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/micro\_tasks\_as\_checkbox\_steps\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120160101/micro\_tasks\_as\_checkbox\_steps\_\_cld-3f7d08e… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/micro_tasks_as_checkbox_steps__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120160101/micro_tasks_as_checkbox_steps__cld-3f7d08e2749f.md
+  ref: file:explicit:8eed7981b72e59b92d92ac94
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_20/sase/repos/research/202611/micro_tasks_as_checkbox_steps__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
