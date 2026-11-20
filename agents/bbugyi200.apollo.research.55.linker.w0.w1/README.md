@@ -23,7 +23,7 @@
 |---|---|---|
 | [research.55.linker.w0](../../sessions/bbugyi200.apollo.research.55.linker.w0.md) (session · 3) | ancestor | completed 3 |
 | [research.55.linker](../bbugyi200.apollo.research.55.linker/README.md) | ancestor | completed |
-| [research.55.linker.w0.w0](../bbugyi200.apollo.research.55.linker.w0.w0/README.md) | research.55.linker.w0 hood | active |
+| [research.55.linker.w0.w0](../bbugyi200.apollo.research.55.linker.w0.w0/README.md) | research.55.linker.w0 hood | dismissed |
 | [research.55.cdx](../bbugyi200.apollo.research.55.cdx/README.md) | research.55 hood | completed |
 | [research.55.cld](../bbugyi200.apollo.research.55.cld/README.md) | research.55 hood | completed |
 | [research.55.final](../bbugyi200.apollo.research.55.final/README.md) | research.55 hood | completed |

@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [research.55.linker](../agents/bbugyi200.apollo.research.55.linker/README.md) | ancestor | completed |
-| [research.55.linker.w0.w0](../agents/bbugyi200.apollo.research.55.linker.w0.w0/README.md) | descendant | active |
+| [research.55.linker.w0.w0](../agents/bbugyi200.apollo.research.55.linker.w0.w0/README.md) | descendant | dismissed |
 | [research.55.linker.w0.w1](../agents/bbugyi200.apollo.research.55.linker.w0.w1/README.md) | descendant | waiting |
 | [research.55.cdx](../agents/bbugyi200.apollo.research.55.cdx/README.md) | research.55 hood | completed |
 | [research.55.cld](../agents/bbugyi200.apollo.research.55.cld/README.md) | research.55 hood | completed |
