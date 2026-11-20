@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-oe](../../users/bbugyi200/machines/apollo/hoods/bob-cli-oe/README.md) / bob-cli-oe.3
 
-**Global name:** `bbugyi200.apollo.bob-cli-oe.3` · **State:** active · **Source run:** `run-17e5e052475ac033956efb0ca3dc1d17`
+**Global name:** `bbugyi200.apollo.bob-cli-oe.3` · **State:** completed · **Source run:** `run-17e5e052475ac033956efb0ca3dc1d17`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-oe
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-oe](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oe/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-20T22:37:06.185981+00:00
+- Timing: 2026-11-20T22:37:06.185981+00:00 → 2026-11-20T23:07:55.658550+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
