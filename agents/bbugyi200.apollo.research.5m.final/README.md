@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5m.final
 
-**Global name:** `bbugyi200.apollo.research.5m.final` · **State:** waiting · **Source run:** `run-e1fb958fa82632cfd042483e8e06644f`
+**Global name:** `bbugyi200.apollo.research.5m.final` · **State:** completed · **Source run:** `run-e1fb958fa82632cfd042483e8e06644f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261120154435
+- Timing: 2026-11-20T21:00:50.262540+00:00 → 2026-11-20T21:22:08.874710+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -46,6 +46,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.5m.grk](../bbugyi200.apollo.research.5m.grk/README.md) | research.5m hood | completed |
 | [research.5m.image](../bbugyi200.apollo.research.5m.image/README.md) | research.5m hood | waiting |
 | [research.5m.linker](../bbugyi200.apollo.research.5m.linker/README.md) | research.5m hood | waiting |
+| [research.5m.linker.w0](../bbugyi200.apollo.research.5m.linker.w0/README.md) | research.5m hood | waiting |
 | [research.5m.mus](../bbugyi200.apollo.research.5m.mus/README.md) | research.5m hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
