@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / [bob-cli-nh.land](../../sessions/bbugyi200.athena.bob-cli-nh.land.md) / bob-cli-nh.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.land--code` · **State:** active · **Source run:** `run-8df8e906b952aa04f1b6a8766cf94d4e`
+**Global name:** `bbugyi200.athena.bob-cli-nh.land--code` · **State:** completed · **Source run:** `run-8df8e906b952aa04f1b6a8766cf94d4e`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-nh](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-20T16:03:28.556260+00:00
-- Commits: 0
+- Timing: 2026-11-20T16:03:28.556260+00:00 → 2026-11-20T16:34:19.955169+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`1fa1b4e`](https://github.com/bobs-org/bob-cli/commit/1fa1b4e711fc9e6ffd51746e936616d3c02af7f6) | fix(periods): register update, keep fenced migrate bodies | 2026-11-20 11:32:43 EST |
 
 ## Neighbors
 

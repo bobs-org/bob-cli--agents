@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-8df8e906b952aa04f1b6a8766cf94d4e"}
+{"commits":[{"committed_at":1795192363,"sha":"1fa1b4e711fc9e6ffd51746e936616d3c02af7f6","subject":"fix(periods): register update, keep fenced migrate bodies"}],"schema_version":2,"source_run_id":"run-8df8e906b952aa04f1b6a8766cf94d4e"}

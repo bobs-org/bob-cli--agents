@@ -2,21 +2,23 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / bob-cli-nh.land
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.land` · **State:** waiting · **Source run:** `run-0d9c3df8057950b813eebee75f094acd`
+**Global name:** `bbugyi200.athena.bob-cli-nh.land` · **State:** completed · **Source run:** `run-0207aa45047af5197ac05908dbcb5c8a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
 ## Summary
 
 - Bead: [bob-cli-nh](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/README.md)
-- Model: opus
-- Provider: claude
-- Timing: 20261119145436
-- Commits: 0
+- Model: —
+- Provider: —
+- Timing: 2026-11-20T16:01:55+00:00 → 2026-11-20T16:01:55+00:00
+- Commits: [1](#commits)
 
-## Files
+## Commits
 
-[Prompt](prompt.md)
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c91fbee`](https://github.com/bobs-org/bob-cli/commit/c91fbee63e3d9e838fbf9f4dec4c0f52b9797d66) | chore(intentions): retire epic symbols and regenerate glossary reference | 2026-11-20 11:01:55 EST |
 
 ## Neighbors
 

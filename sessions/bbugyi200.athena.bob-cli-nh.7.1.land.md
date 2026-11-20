@@ -105,4 +105,5 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-nh.6.1.land](bbugyi200.athena.bob-cli-nh.6.1.land.md) (session · 5) | bob-cli-nh hood | completed 5 |
 | [bob-cli-nh.8](../agents/bbugyi200.athena.bob-cli-nh.8/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.9](../agents/bbugyi200.athena.bob-cli-nh.9/README.md) | bob-cli-nh hood | completed |
-| [bob-cli-nh.land](bbugyi200.athena.bob-cli-nh.land.md) (session · 3) | bob-cli-nh hood | active 2, completed 1 |
+| [bob-cli-nh.land](bbugyi200.athena.bob-cli-nh.land.md) (session · 3) | bob-cli-nh hood | completed 3 |
+| [bob-cli-nh.land](../agents/bbugyi200.athena.bob-cli-nh.land/README.md) | bob-cli-nh hood | completed |

@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-nh` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-nh.land--plan [active]"]
-  n1["bob-cli-nh.land--code [active]"]
+  n0["bob-cli-nh.land--plan [completed]"]
+  n1["bob-cli-nh.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-nh.land--gate [completed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-nh.land--plan | active | opus / claude | 2026-11-20T15:40:01.377205+00:00 | [1](../agents/bbugyi200.athena.bob-cli-nh.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-nh.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-nh.land--code | active | grok-4.6 / grok | 2026-11-20T16:03:28.556260+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-nh.land--plan | completed | opus / claude | 2026-11-20T15:40:01.377205+00:00 → 2026-11-20T16:34:19.955169+00:00 | [1](../agents/bbugyi200.athena.bob-cli-nh.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-nh.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-nh.land--code | completed | grok-4.6 / grok | 2026-11-20T16:03:28.556260+00:00 → 2026-11-20T16:34:19.955169+00:00 | [1](../agents/bbugyi200.athena.bob-cli-nh.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-nh.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-nh.land--gate | completed | opus / claude | 2026-11-20T16:02:47.800043+00:00 → 2026-11-20T16:02:54.652073+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-nh.land--gate/chat.md) |
 
 ## Commits
@@ -28,6 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | plan | bob-cli | [`c91fbee`](https://github.com/bobs-org/bob-cli/commit/c91fbee63e3d9e838fbf9f4dec4c0f52b9797d66) | chore(intentions): retire epic symbols and regenerate glossary reference | 2026-11-20 11:01:55 EST |
+| code | bob-cli | [`1fa1b4e`](https://github.com/bobs-org/bob-cli/commit/1fa1b4e711fc9e6ffd51746e936616d3c02af7f6) | fix(periods): register update, keep fenced migrate bodies | 2026-11-20 11:32:43 EST |
 
 ## Neighbors
 
