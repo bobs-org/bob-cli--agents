@@ -21,4 +21,4 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [fa.f0](../bbugyi200.apollo.fa.f0/README.md) | descendant | waiting |
+| [fa.f0](../../sessions/bbugyi200.apollo.fa.f0.md) (session · 3) | descendant | completed 3 |

@@ -58,4 +58,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [fa.f0](../agents/bbugyi200.apollo.fa.f0/README.md) | descendant | waiting |
+| [fa.f0](bbugyi200.apollo.fa.f0.md) (session · 3) | descendant | completed 3 |

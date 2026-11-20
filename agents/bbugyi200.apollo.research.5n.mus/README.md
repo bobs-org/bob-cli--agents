@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5n.mus
 
-**Global name:** `bbugyi200.apollo.research.5n.mus` · **State:** active · **Source run:** `run-4725c022b7021b67051aba14dc2903a4`
+**Global name:** `bbugyi200.apollo.research.5n.mus` · **State:** completed · **Source run:** `run-4725c022b7021b67051aba14dc2903a4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-20T21:18:49.701089+00:00
+- Timing: 2026-11-20T21:18:49.701089+00:00 → 2026-11-20T21:25:48.439943+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/micro\_tasks\_explicit\_marker\_successors\_\_mus.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120160103/micro\_tasks\_explicit\_marker\_succe… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/micro_tasks_explicit_marker_successors__mus.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120160103/micro_tasks_explicit_marker_successors__mus-5b66d69499cb.md
+  ref: file:explicit:7244bfcdc1cfe3ca187a6536
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_19/sase/repos/research/202611/micro_tasks_explicit_marker_successors__mus.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
