@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-nj](../../users/bbugyi200/machines/apollo/hoods/bob-cli-nj/README.md) / bob-cli-nj.8
 
-**Global name:** `bbugyi200.apollo.bob-cli-nj.8` · **State:** waiting · **Source run:** `run-1115312b0be883898c9f4c0fc4b038a2`
+**Global name:** `bbugyi200.apollo.bob-cli-nj.8` · **State:** completed · **Source run:** `run-1115312b0be883898c9f4c0fc4b038a2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-nj
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-nj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nj/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261119121624
+- Timing: 2026-11-20T01:10:42.735339+00:00 → 2026-11-20T01:15:47.731054+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

@@ -29,5 +29,5 @@
 | [bob-cli-nj.4](../../sessions/bbugyi200.apollo.bob-cli-nj.4.md) (session · 3) | bob-cli-nj hood | completed 2, failed 1 |
 | [bob-cli-nj.5](../bbugyi200.apollo.bob-cli-nj.5/README.md) | bob-cli-nj hood | completed |
 | [bob-cli-nj.6](../bbugyi200.apollo.bob-cli-nj.6/README.md) | bob-cli-nj hood | completed |
-| [bob-cli-nj.8](../bbugyi200.apollo.bob-cli-nj.8/README.md) | bob-cli-nj hood | waiting |
+| [bob-cli-nj.8](../bbugyi200.apollo.bob-cli-nj.8/README.md) | bob-cli-nj hood | completed |
 | [bob-cli-nj.land](../bbugyi200.apollo.bob-cli-nj.land/README.md) | bob-cli-nj hood | waiting |
