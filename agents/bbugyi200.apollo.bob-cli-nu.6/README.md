@@ -75,4 +75,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-nu.5](../bbugyi200.apollo.bob-cli-nu.5/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.7](../bbugyi200.apollo.bob-cli-nu.7/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.8](../bbugyi200.apollo.bob-cli-nu.8/README.md) | bob-cli-nu hood | completed |
-| [bob-cli-nu.land](../../sessions/bbugyi200.apollo.bob-cli-nu.land.md) (session · 3) | bob-cli-nu hood | active 2, completed 1 |
+| [bob-cli-nu.land](../../sessions/bbugyi200.apollo.bob-cli-nu.land.md) (session · 3) | bob-cli-nu hood | completed 3 |
