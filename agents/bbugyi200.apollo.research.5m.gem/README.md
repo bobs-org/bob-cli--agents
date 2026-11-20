@@ -12,17 +12,36 @@
 - Provider: agy
 - Timing: 2026-11-20T20:47:39.728975+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/successor\_panel\_ctrl\_j\_jump\_design\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120154434/successor\_panel\_ctrl\_j\_jump\_design\_\_g… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/successor_panel_ctrl_j_jump_design__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120154434/successor_panel_ctrl_j_jump_design__gem-73e121c26a25.md
+  ref: file:explicit:d05130ee53e48d2ba2a360ce
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_19/sase/repos/research/202611/successor_panel_ctrl_j_jump_design__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.5m.cdx](../bbugyi200.apollo.research.5m.cdx/README.md) | research.5m hood | completed |
-| [research.5m.cld](../bbugyi200.apollo.research.5m.cld/README.md) | research.5m hood | active |
+| [research.5m.cld](../bbugyi200.apollo.research.5m.cld/README.md) | research.5m hood | completed |
 | [research.5m.final](../bbugyi200.apollo.research.5m.final/README.md) | research.5m hood | waiting |
 | [research.5m.grk](../bbugyi200.apollo.research.5m.grk/README.md) | research.5m hood | active |
 | [research.5m.image](../bbugyi200.apollo.research.5m.image/README.md) | research.5m hood | waiting |
