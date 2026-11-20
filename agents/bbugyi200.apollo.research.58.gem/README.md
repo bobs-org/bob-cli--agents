@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.58.gem
 
-**Global name:** `bbugyi200.apollo.research.58.gem` · **State:** active · **Source run:** `run-8b178898ab2139a78b9036be51fc99bc`
+**Global name:** `bbugyi200.apollo.research.58.gem` · **State:** dismissed · **Source run:** `run-8b178898ab2139a78b9036be51fc99bc`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: gemini-4-hydrogen-xhigh
 - Provider: agy
-- Timing: 2026-11-17T20:34:03.274727+00:00
+- Timing: 2026-11-17T15:34:03.274727
 - Commits: 0
 
 ## Files
