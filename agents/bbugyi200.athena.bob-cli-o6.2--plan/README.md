@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-o6](../../users/bbugyi200/machines/athena/hoods/bob-cli-o6/README.md) / [bob-cli-o6.2](../../sessions/bbugyi200.athena.bob-cli-o6.2.md) / bob-cli-o6.2--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-o6.2--plan` · **State:** active · **Source run:** `run-b2abc8000554d3ac8fb95bc5a0caed9e`
+**Global name:** `bbugyi200.athena.bob-cli-o6.2--plan` · **State:** completed · **Source run:** `run-b2abc8000554d3ac8fb95bc5a0caed9e`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-o6
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-o6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-o6/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-20T16:51:21.856621+00:00
+- Timing: 2026-11-20T16:51:21.856621+00:00 → 2026-11-20T17:49:20.947979+00:00
 - Commits: 0
 
 ## Files
@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-o6.1](../../sessions/bbugyi200.athena.bob-cli-o6.1.md) (session · 3) | bob-cli-o6 hood | active 2, completed 1 |
-| [bob-cli-o6.3](../../sessions/bbugyi200.athena.bob-cli-o6.3.md) (session · 3) | bob-cli-o6 hood | active 2, completed 1 |
+| [bob-cli-o6.3](../../sessions/bbugyi200.athena.bob-cli-o6.3.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.4](../bbugyi200.athena.bob-cli-o6.4/README.md) | bob-cli-o6 hood | waiting |
 | [bob-cli-o6.5](../bbugyi200.athena.bob-cli-o6.5/README.md) | bob-cli-o6 hood | waiting |
 | [bob-cli-o6.6](../bbugyi200.athena.bob-cli-o6.6/README.md) | bob-cli-o6 hood | waiting |

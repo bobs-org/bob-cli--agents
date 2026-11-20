@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-o6` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-o6.3--code [active]"]
-  n1["bob-cli-o6.3--plan [active]"]
+  n0["bob-cli-o6.3--code [completed]"]
+  n1["bob-cli-o6.3--plan [completed]"]
   n0 --> n1
   n2["bob-cli-o6.3--gate [completed]"]
   n0 --> n2
@@ -19,16 +19,22 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-o6.3--code | active | opus / claude | 2026-11-20T17:01:28.903667+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-o6.3--plan | active | opus / claude | 2026-11-20T16:51:34.656160+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-o6.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-o6.3--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-o6.3--code | completed | opus / claude | 2026-11-20T17:01:28.903667+00:00 → 2026-11-20T17:49:36.457561+00:00 | [1](../agents/bbugyi200.athena.bob-cli-o6.3--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-o6.3--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-o6.3--plan | completed | opus / claude | 2026-11-20T16:51:34.656160+00:00 → 2026-11-20T17:49:36.457561+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-o6.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-o6.3--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-o6.3--gate | completed | opus / claude | 2026-11-20T17:00:34.616839+00:00 → 2026-11-20T17:00:41.679950+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-o6.3--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`bb91c37`](https://github.com/bobs-org/bob-cli/commit/bb91c370bac2c4dac6311ed543c30639f38afa84) | feat(albums): read frontmatter title first and add bob albums tidy | 2026-11-20 12:48:36 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-o6.1](bbugyi200.athena.bob-cli-o6.1.md) (session · 3) | bob-cli-o6 hood | active 2, completed 1 |
-| [bob-cli-o6.2](bbugyi200.athena.bob-cli-o6.2.md) (session · 3) | bob-cli-o6 hood | active 2, completed 1 |
+| [bob-cli-o6.2](bbugyi200.athena.bob-cli-o6.2.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.4](../agents/bbugyi200.athena.bob-cli-o6.4/README.md) | bob-cli-o6 hood | waiting |
 | [bob-cli-o6.5](../agents/bbugyi200.athena.bob-cli-o6.5/README.md) | bob-cli-o6 hood | waiting |
 | [bob-cli-o6.6](../agents/bbugyi200.athena.bob-cli-o6.6/README.md) | bob-cli-o6 hood | waiting |

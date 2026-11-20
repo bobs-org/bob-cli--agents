@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0ea304d7226acac6acbf72e15729e5b2"}
+{"commits":[{"committed_at":1795196916,"sha":"bb91c370bac2c4dac6311ed543c30639f38afa84","subject":"feat(albums): read frontmatter title first and add bob albums tidy"}],"schema_version":2,"source_run_id":"run-0ea304d7226acac6acbf72e15729e5b2"}
