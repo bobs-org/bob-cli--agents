@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5l.linker
 
-**Global name:** `bbugyi200.apollo.research.5l.linker` · **State:** waiting · **Source run:** `run-8422a524fe2d45d7d29480464734d0e0`
+**Global name:** `bbugyi200.apollo.research.5l.linker` · **State:** completed · **Source run:** `run-8422a524fe2d45d7d29480464734d0e0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261120093918
+- Timing: 2026-11-20T15:43:17.682722+00:00 → 2026-11-20T15:52:18.201640+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bracket\_n\_group\_jumps/bracket\_n\_group\_jumps.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120093918/bracket\_n\_group\_jumps-a879396a1a1… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bracket_n_group_jumps/bracket_n_group_jumps.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120093918/bracket_n_group_jumps-a879396a1a17.md
+  ref: file:explicit:24e222815a73779954856a59
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/bracket_n_group_jumps/bracket_n_group_jumps.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
