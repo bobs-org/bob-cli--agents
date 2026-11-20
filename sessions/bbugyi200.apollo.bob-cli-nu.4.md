@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-nu.4.1.1](../agents/bbugyi200.apollo.bob-cli-nu.4.1.1/README.md) | descendant | completed |
 | [bob-cli-nu.4.1.2](../agents/bbugyi200.apollo.bob-cli-nu.4.1.2/README.md) | descendant | completed |
-| [bob-cli-nu.4.1.3](../agents/bbugyi200.apollo.bob-cli-nu.4.1.3/README.md) | descendant | active |
+| [bob-cli-nu.4.1.3](../agents/bbugyi200.apollo.bob-cli-nu.4.1.3/README.md) | descendant | completed |
 | [bob-cli-nu.4.1.4](../agents/bbugyi200.apollo.bob-cli-nu.4.1.4/README.md) | descendant | waiting |
 | [bob-cli-nu.4.1.5](../agents/bbugyi200.apollo.bob-cli-nu.4.1.5/README.md) | descendant | active |
 | [bob-cli-nu.4.1.land](../agents/bbugyi200.apollo.bob-cli-nu.4.1.land/README.md) | descendant | active |
