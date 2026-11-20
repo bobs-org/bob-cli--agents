@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 20261120154437
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/successor\_jump\_pin/successor\_jump\_pin.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120154437/successor\_jump\_pin-096a457aabad.md, ref… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/successor_jump_pin/successor_jump_pin.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120154437/successor_jump_pin-096a457aabad.md
+  ref: file:explicit:7ae73bfad8dceffe6444d0de
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/successor_jump_pin/successor_jump_pin.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
