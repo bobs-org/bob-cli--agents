@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-nu](../../users/bbugyi200/machines/apollo/hoods/bob-cli-nu/README.md) / bob-cli-nu.8
 
-**Global name:** `bbugyi200.apollo.bob-cli-nu.8` · **State:** waiting · **Source run:** `run-92f794ad1512f76e00b84e1030afa697`
+**Global name:** `bbugyi200.apollo.bob-cli-nu.8` · **State:** completed · **Source run:** `run-92f794ad1512f76e00b84e1030afa697`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-nu
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-nu](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nu/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261120094616
-- Commits: 0
+- Timing: 2026-11-20T18:19:45.693886+00:00 → 2026-11-20T18:37:29.604069+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`2443e0a`](https://github.com/bobs-org/bob-cli/commit/2443e0a4e1580f1ce956ef8a576caa1ba2d8ac66) | docs(chips): add the command-chip guide section and glossary term | 2026-11-20 13:36:33 EST |
 
 ## Neighbors
 
