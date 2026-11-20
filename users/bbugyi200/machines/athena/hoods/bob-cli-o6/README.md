@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-o6
 
-**Global hood:** `bbugyi200.athena.bob-cli-o6` · **Runs:** 14 · **Sessions:** 3 · **States:** active 2, completed 7, waiting 5
+**Global hood:** `bbugyi200.athena.bob-cli-o6` · **Runs:** 14 · **Sessions:** 3 · **States:** completed 9, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -14,9 +14,9 @@
 | [bob-cli-o6.2--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-o6.2.md#member-gate) | completed | opus / claude | 2026-11-20T17:01:02.350274+00:00 → 2026-11-20T17:01:09.247714+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-o6.2--gate/chat.md) |
 | [bob-cli-o6.5](../../../../../../agents/bbugyi200.athena.bob-cli-o6.5/README.md) | waiting | opus / claude | 20261120115033 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-o6.5/prompt.md) |
 | [bob-cli-o6.land](../../../../../../agents/bbugyi200.athena.bob-cli-o6.land/README.md) | waiting | opus / claude | 20261120115036 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-o6.land/prompt.md) |
-| [bob-cli-o6.1--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-o6.1.md#member-plan) | active | opus / claude | 2026-11-20T16:51:28.769353+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-o6.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-o6.1--plan/chat.md) |
+| [bob-cli-o6.1--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-o6.1.md#member-plan) | completed | opus / claude | 2026-11-20T16:51:28.769353+00:00 → 2026-11-20T18:26:51.688205+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-o6.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-o6.1--plan/chat.md) |
 | [bob-cli-o6.2--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-o6.2.md#member-plan) | completed | opus / claude | 2026-11-20T16:51:21.856621+00:00 → 2026-11-20T17:49:20.947979+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-o6.2--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-o6.2--plan/chat.md) |
 | [bob-cli-o6.2--code](../../../../../../sessions/bbugyi200.athena.bob-cli-o6.2.md#member-code) | completed | opus / claude | 2026-11-20T17:02:06.587053+00:00 → 2026-11-20T17:49:20.947979+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-o6.2--code/chat.md) |
 | [bob-cli-o6.3--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-o6.3.md#member-gate) | completed | opus / claude | 2026-11-20T17:00:34.616839+00:00 → 2026-11-20T17:00:41.679950+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-o6.3--gate/chat.md) |
-| [bob-cli-o6.1--code](../../../../../../sessions/bbugyi200.athena.bob-cli-o6.1.md#member-code) | active | opus / claude | 2026-11-20T17:01:47.333631+00:00 | 0 | — |
+| [bob-cli-o6.1--code](../../../../../../sessions/bbugyi200.athena.bob-cli-o6.1.md#member-code) | completed | opus / claude | 2026-11-20T17:01:47.333631+00:00 → 2026-11-20T18:26:51.688205+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-o6.1--code/chat.md) |
 | [bob-cli-o6.6](../../../../../../agents/bbugyi200.athena.bob-cli-o6.6/README.md) | waiting | opus / claude | 20261120115034 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-o6.6/prompt.md) |

@@ -60,7 +60,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-o6.1](bbugyi200.athena.bob-cli-o6.1.md) (session · 3) | bob-cli-o6 hood | active 2, completed 1 |
+| [bob-cli-o6.1](bbugyi200.athena.bob-cli-o6.1.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.3](bbugyi200.athena.bob-cli-o6.3.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.4](../agents/bbugyi200.athena.bob-cli-o6.4/README.md) | bob-cli-o6 hood | waiting |
 | [bob-cli-o6.5](../agents/bbugyi200.athena.bob-cli-o6.5/README.md) | bob-cli-o6 hood | waiting |
