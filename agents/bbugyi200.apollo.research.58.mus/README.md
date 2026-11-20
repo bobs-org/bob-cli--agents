@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.58.mus
 
-**Global name:** `bbugyi200.apollo.research.58.mus` · **State:** active · **Source run:** `run-d331a3b303d3c60dc1df4b3ef3c677cf`
+**Global name:** `bbugyi200.apollo.research.58.mus` · **State:** dismissed · **Source run:** `run-d331a3b303d3c60dc1df4b3ef3c677cf`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-17T20:33:22.802318+00:00
+- Timing: 2026-11-17T15:33:22.802318
 - Commits: 0
 
 ## Files
