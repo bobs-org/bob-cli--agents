@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / bob-cli-nh.8
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.8` · **State:** waiting · **Source run:** `run-d92302e0e3114dc83d8562857b398692`
+**Global name:** `bbugyi200.athena.bob-cli-nh.8` · **State:** completed · **Source run:** `run-d92302e0e3114dc83d8562857b398692`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-nh](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261119145434
-- Commits: 0
+- Timing: 2026-11-20T14:34:43.103344+00:00 → 2026-11-20T15:39:07.669380+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`46bb654`](https://github.com/bobs-org/bob-cli/commit/46bb654a8eb9cf30c358a4ea4ed8031c18751d9e) | fix(periods): remove empty legacy slots during intentions migrate | 2026-11-20 10:36:33 EST |
 
 ## Neighbors
 

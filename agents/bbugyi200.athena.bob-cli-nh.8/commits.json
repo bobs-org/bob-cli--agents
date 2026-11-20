@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d92302e0e3114dc83d8562857b398692"}
+{"commits":[{"committed_at":1795188993,"sha":"46bb654a8eb9cf30c358a4ea4ed8031c18751d9e","subject":"fix(periods): remove empty legacy slots during intentions migrate"}],"schema_version":2,"source_run_id":"run-d92302e0e3114dc83d8562857b398692"}
