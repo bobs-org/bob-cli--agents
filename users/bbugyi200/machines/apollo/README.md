@@ -473,7 +473,7 @@
 | [ep](hoods/ep/README.md) | 3 | 1 | completed 3 |
 | [et](hoods/et/README.md) | 3 | 1 | completed 3 |
 | [eu](hoods/eu/README.md) | 7 | 1 | completed 7 |
-| [ew](hoods/ew/README.md) | 10 | 1 | active 1, completed 9 |
+| [ew](hoods/ew/README.md) | 10 | 1 | completed 10 |
 | [ey](hoods/ey/README.md) | 1 | 0 | completed 1 |
 | [ez](hoods/ez/README.md) | 3 | 1 | completed 3 |
 | [f0](hoods/f0/README.md) | 5 | 1 | completed 4, failed 1 |
