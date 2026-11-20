@@ -482,7 +482,7 @@
 | [f2](hoods/f2/README.md) | 21 | 1 | completed 13, failed 8 |
 | [f4](hoods/f4/README.md) | 5 | 1 | completed 5 |
 | [f7](hoods/f7/README.md) | 3 | 1 | completed 3 |
-| [fa](hoods/fa/README.md) | 4 | 1 | active 1, completed 2, waiting 1 |
+| [fa](hoods/fa/README.md) | 4 | 1 | completed 3, waiting 1 |
 | [gh\_bobs-org\_\_bob-cli-2](hoods/gh_bobs-org__bob-cli-2/README.md) | 4 | 0 | completed 4 |
 | [gh\_bobs-org\_\_bob-cli-5](hoods/gh_bobs-org__bob-cli-5/README.md) | 1 | 0 | completed 1 |
 | [hf](hoods/hf/README.md) | 1 | 0 | completed 1 |

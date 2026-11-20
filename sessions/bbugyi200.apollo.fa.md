@@ -11,7 +11,7 @@ flowchart TD
   n0["fa--plan [completed]"]
   n1["fa--gate [completed]"]
   n0 --> n1
-  n2["fa--code [active]"]
+  n2["fa--code [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | fa--plan | completed | opus / claude | 2026-11-20T17:35:52.391689+00:00 → 2026-11-20T17:58:51.444829+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.fa--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.fa--plan/chat.md) |
 | <a id="member-gate"></a>gate | fa--gate | completed | opus / claude | 2026-11-20T17:59:05.601064+00:00 → 2026-11-20T18:00:03.363298+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.fa--gate/chat.md) |
-| <a id="member-code"></a>code | fa--code | active | opus / claude | 2026-11-20T18:02:31.387297+00:00 | [1](../agents/bbugyi200.apollo.fa--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.fa--code/prompt.md) | — |
+| <a id="member-code"></a>code | fa--code | completed | opus / claude | 2026-11-20T18:02:31.387297+00:00 → 2026-11-20T19:24:41.399285+00:00 | [1](../agents/bbugyi200.apollo.fa--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.fa--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.fa--code/chat.md) |
 
 ## Commits
 

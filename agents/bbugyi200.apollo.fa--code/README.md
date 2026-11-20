@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [fa](../../users/bbugyi200/machines/apollo/hoods/fa/README.md) / [fa](../../sessions/bbugyi200.apollo.fa.md) / fa--code
 
-**Global name:** `bbugyi200.apollo.fa--code` · **State:** active · **Source run:** `run-d6fe033ee89e3bebdbef2fbdd8524a46`
+**Global name:** `bbugyi200.apollo.fa--code` · **State:** completed · **Source run:** `run-d6fe033ee89e3bebdbef2fbdd8524a46`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** fa
 
@@ -10,12 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-20T18:02:31.387297+00:00
+- Timing: 2026-11-20T18:02:31.387297+00:00 → 2026-11-20T19:24:41.399285+00:00
 - Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
