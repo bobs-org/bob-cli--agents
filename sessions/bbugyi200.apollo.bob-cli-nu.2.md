@@ -46,4 +46,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-nu.6](../agents/bbugyi200.apollo.bob-cli-nu.6/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.7](../agents/bbugyi200.apollo.bob-cli-nu.7/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.8](../agents/bbugyi200.apollo.bob-cli-nu.8/README.md) | bob-cli-nu hood | completed |
-| [bob-cli-nu.land](../agents/bbugyi200.apollo.bob-cli-nu.land/README.md) | bob-cli-nu hood | waiting |
+| [bob-cli-nu.land](bbugyi200.apollo.bob-cli-nu.land.md) (session · 3) | bob-cli-nu hood | active 2, completed 1 |
