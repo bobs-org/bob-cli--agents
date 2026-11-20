@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.58.cdx](../bbugyi200.apollo.research.58.cdx/README.md) | research.58 hood | active |
+| [research.58.cdx](../bbugyi200.apollo.research.58.cdx/README.md) | research.58 hood | dismissed |
 | [research.58.cld](../bbugyi200.apollo.research.58.cld/README.md) | research.58 hood | dismissed |
 | [research.58.final](../bbugyi200.apollo.research.58.final/README.md) | research.58 hood | active |
 | [research.58.gem](../bbugyi200.apollo.research.58.gem/README.md) | research.58 hood | active |
