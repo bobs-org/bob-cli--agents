@@ -38,6 +38,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-nu.3](../agents/bbugyi200.apollo.bob-cli-nu.3/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.5](../agents/bbugyi200.apollo.bob-cli-nu.5/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.6](../agents/bbugyi200.apollo.bob-cli-nu.6/README.md) | bob-cli-nu hood | completed |
-| [bob-cli-nu.7](../agents/bbugyi200.apollo.bob-cli-nu.7/README.md) | bob-cli-nu hood | waiting |
+| [bob-cli-nu.7](../agents/bbugyi200.apollo.bob-cli-nu.7/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.8](../agents/bbugyi200.apollo.bob-cli-nu.8/README.md) | bob-cli-nu hood | waiting |
 | [bob-cli-nu.land](../agents/bbugyi200.apollo.bob-cli-nu.land/README.md) | bob-cli-nu hood | waiting |

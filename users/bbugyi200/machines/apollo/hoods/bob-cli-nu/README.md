@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-nu
 
-**Global hood:** `bbugyi200.apollo.bob-cli-nu` · **Runs:** 21 · **Sessions:** 2 · **States:** active 1, completed 15, failed 2, waiting 3
+**Global hood:** `bbugyi200.apollo.bob-cli-nu` · **Runs:** 21 · **Sessions:** 2 · **States:** active 1, completed 16, failed 2, waiting 2
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-nu.4--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-nu.4.md#member-plan) | active | gpt-6-astra / codex | 2026-11-20T12:27:50.150935+00:00 → 2026-11-20T12:37:01.224590+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.4--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.4--plan/chat.md) |
-| [bob-cli-nu.7](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.7/README.md) | waiting | opus / claude | 20261120094615 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.7/prompt.md) |
+| [bob-cli-nu.7](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.7/README.md) | completed | opus / claude | 2026-11-20T16:44:20.641185+00:00 → 2026-11-20T18:19:27.927815+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.7/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.7/chat.md) |
 | [bob-cli-nu.5](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.5/README.md) | completed | opus / claude | 2026-11-20T16:00:25.049563+00:00 → 2026-11-20T16:43:59.695931+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.5/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.5/chat.md) |
 | [bob-cli-nu.6](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.6/README.md) | completed | opus / claude | 2026-11-20T16:00:32.495176+00:00 → 2026-11-20T17:21:22.922888+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.6/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.6/chat.md) |
 | [bob-cli-nu.4.1.5](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.4.1.5/README.md) | completed | opus / claude | 2026-11-20T15:03:58.451303+00:00 → 2026-11-20T15:44:43.882834+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.4.1.5/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-nu.4.1.5/chat.md) |
