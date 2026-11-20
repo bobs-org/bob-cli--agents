@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5l.image
 
-**Global name:** `bbugyi200.apollo.research.5l.image` · **State:** waiting · **Source run:** `run-f5c193e2847f55127fe4df126d822817`
+**Global name:** `bbugyi200.apollo.research.5l.image` · **State:** completed · **Source run:** `run-f5c193e2847f55127fe4df126d822817`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,20 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261120093917
+- Timing: 2026-11-20T15:32:38.196647+00:00 → 2026-11-20T15:42:49.433665+00:00
 - Commits: 0
-- Variables: [1](#variables)
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
 | Variable | Value |
 |---|---|
 | `artifacts` | \[{kind: image, label: image:202611/bracket\_n\_group\_jumps/bracket\_n\_group\_jumps\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120093917/bracket\_n\_group\_jumps\_info… |
+| `diagrams` | {considered: 20, count: 2, manifest: 202611/bracket\_n\_group\_jumps/bracket\_n\_group\_jumps.diagrams.md, source\_ref: file:explicit:e979d0f511698f1cfb0579b3, status: ready} |
 
 #### artifacts
 
@@ -32,6 +33,21 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120093917/bracket_n_group_jumps_infographic-6e2d9eafa84d.png
   ref: file:explicit:6d5ee55c2ffb878708ef9624
   source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/bracket_n_group_jumps/bracket_n_group_jumps_infographic.png
+- kind: markdown
+  label: diagrams:202611/bracket_n_group_jumps/bracket_n_group_jumps.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120093917/bracket_n_group_jumps.diagrams-31a4ca8c2323.md
+  ref: file:explicit:fbf5a27d539cf71c087f0e5c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/bracket_n_group_jumps/bracket_n_group_jumps.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 20
+count: 2
+manifest: 202611/bracket_n_group_jumps/bracket_n_group_jumps.diagrams.md
+source_ref: file:explicit:e979d0f511698f1cfb0579b3
+status: ready
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
