@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5o.cld
 
-**Global name:** `bbugyi200.apollo.research.5o.cld` · **State:** active · **Source run:** `run-857cfe37acaaf037cf1b0a5771187104`
+**Global name:** `bbugyi200.apollo.research.5o.cld` · **State:** completed · **Source run:** `run-857cfe37acaaf037cf1b0a5771187104`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-21T13:54:44.473703+00:00
+- Timing: 2026-11-21T13:54:44.473703+00:00 → 2026-11-21T14:22:35.295937+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/prompt\_wikilink\_completion\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121085353/prompt\_wikilink\_completion\_\_cld-2b3fb30db80d.… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/prompt_wikilink_completion__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121085353/prompt_wikilink_completion__cld-2b3fb30db80d.md
+  ref: file:explicit:77c02a4809fce4eae5f2451b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/prompt_wikilink_completion__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
