@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5r.final
 
-**Global name:** `bbugyi200.apollo.research.5r.final` · **State:** waiting · **Source run:** `run-82837197dc037abb8856102d434e86c9`
+**Global name:** `bbugyi200.apollo.research.5r.final` · **State:** completed · **Source run:** `run-82837197dc037abb8856102d434e86c9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261121122730
+- Timing: 2026-11-21T18:02:16.395680+00:00 → 2026-11-21T18:48:03.565782+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/spotify\_episode\_capture\_route/spotify\_episode\_capture\_route\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121122730/spotify\_ep… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/spotify_episode_capture_route/spotify_episode_capture_route__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121122730/spotify_episode_capture_route__final-757b6bd26ffa.md
+  ref: file:explicit:643f2d6036effaed10ec0915
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/spotify_episode_capture_route/spotify_episode_capture_route__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +46,7 @@
 | [research.5r.grk](../bbugyi200.apollo.research.5r.grk/README.md) | research.5r hood | completed |
 | [research.5r.image](../bbugyi200.apollo.research.5r.image/README.md) | research.5r hood | waiting |
 | [research.5r.linker](../bbugyi200.apollo.research.5r.linker/README.md) | research.5r hood | waiting |
+| [research.5r.linker.w0](../bbugyi200.apollo.research.5r.linker.w0/README.md) | research.5r hood | waiting |
 | [research.5r.mus](../bbugyi200.apollo.research.5r.mus/README.md) | research.5r hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
