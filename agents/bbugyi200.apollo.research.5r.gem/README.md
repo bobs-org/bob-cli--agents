@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5r.gem
 
-**Global name:** `bbugyi200.apollo.research.5r.gem` · **State:** active · **Source run:** `run-e011665f7ee3e813fe1f7d5744c89707`
+**Global name:** `bbugyi200.apollo.research.5r.gem` · **State:** completed · **Source run:** `run-e011665f7ee3e813fe1f7d5744c89707`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,21 +10,40 @@
 
 - Model: gemini-4-neon-xhigh
 - Provider: agy
-- Timing: 2026-11-21T17:32:32.951088+00:00
+- Timing: 2026-11-21T17:32:32.951088+00:00 → 2026-11-21T17:50:09.201398+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bob\_ref\_create\_spotify\_urls\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121122729/bob\_ref\_create\_spotify\_urls\_\_gem-5dabace69dc… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bob_ref_create_spotify_urls__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121122729/bob_ref_create_spotify_urls__gem-5dabace69dcc.md
+  ref: file:explicit:1a4796375e31306196cf2921
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_20/sase/repos/research/202611/bob_ref_create_spotify_urls__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.5r.cdx](../bbugyi200.apollo.research.5r.cdx/README.md) | research.5r hood | completed |
-| [research.5r.cld](../bbugyi200.apollo.research.5r.cld/README.md) | research.5r hood | active |
+| [research.5r.cld](../bbugyi200.apollo.research.5r.cld/README.md) | research.5r hood | completed |
 | [research.5r.final](../bbugyi200.apollo.research.5r.final/README.md) | research.5r hood | waiting |
-| [research.5r.grk](../bbugyi200.apollo.research.5r.grk/README.md) | research.5r hood | active |
+| [research.5r.grk](../bbugyi200.apollo.research.5r.grk/README.md) | research.5r hood | completed |
 | [research.5r.image](../bbugyi200.apollo.research.5r.image/README.md) | research.5r hood | waiting |
 | [research.5r.linker](../bbugyi200.apollo.research.5r.linker/README.md) | research.5r hood | waiting |
 | [research.5r.mus](../bbugyi200.apollo.research.5r.mus/README.md) | research.5r hood | completed |
