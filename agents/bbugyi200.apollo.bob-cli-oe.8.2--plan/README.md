@@ -26,7 +26,7 @@
 | [bob-cli-oe.8.1](../../sessions/bbugyi200.apollo.bob-cli-oe.8.1.md) (session · 3) | bob-cli-oe.8 hood | completed 3 |
 | [bob-cli-oe.8.3](../bbugyi200.apollo.bob-cli-oe.8.3/README.md) | bob-cli-oe.8 hood | completed |
 | [bob-cli-oe.8.4](../../sessions/bbugyi200.apollo.bob-cli-oe.8.4.md) (session · 3) | bob-cli-oe.8 hood | completed 3 |
-| [bob-cli-oe.8.land](../bbugyi200.apollo.bob-cli-oe.8.land/README.md) | bob-cli-oe.8 hood | waiting |
+| [bob-cli-oe.8.land](../../sessions/bbugyi200.apollo.bob-cli-oe.8.land.md) (session · 3) | bob-cli-oe.8 hood | active 2, completed 1 |
 | [bob-cli-oe.1](../bbugyi200.apollo.bob-cli-oe.1/README.md) | bob-cli-oe hood | completed |
 | [bob-cli-oe.2](../bbugyi200.apollo.bob-cli-oe.2/README.md) | bob-cli-oe hood | completed |
 | [bob-cli-oe.3](../bbugyi200.apollo.bob-cli-oe.3/README.md) | bob-cli-oe hood | completed |
