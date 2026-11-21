@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5p.gem
 
-**Global name:** `bbugyi200.apollo.research.5p.gem` · **State:** active · **Source run:** `run-1667b9c439cccdd19816649611daa2c0`
+**Global name:** `bbugyi200.apollo.research.5p.gem` · **State:** completed · **Source run:** `run-1667b9c439cccdd19816649611daa2c0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gemini-4-neon-xhigh
 - Provider: agy
-- Timing: 2026-11-21T14:41:45.106652+00:00
+- Timing: 2026-11-21T14:41:45.106652+00:00 → 2026-11-21T14:59:39.671998+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
