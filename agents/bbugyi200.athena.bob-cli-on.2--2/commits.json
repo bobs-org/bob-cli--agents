@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-cc80dd94c8004d0c9433a3ba348f62b4"}
+{"commits":[{"committed_at":1795287046,"sha":"532df8259187f65b6f66864669eb80b133fcb35e","subject":"feat(task-reqs): keep readers and writers off requirement lines"}],"schema_version":2,"source_run_id":"run-cc80dd94c8004d0c9433a3ba348f62b4"}
