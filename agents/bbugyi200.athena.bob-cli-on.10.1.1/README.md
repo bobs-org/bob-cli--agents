@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.10.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-on.10.1.1` · **State:** waiting · **Source run:** `run-b1d8bc8ed1c92e911c82e279a878521f`
+**Global name:** `bbugyi200.athena.bob-cli-on.10.1.1` · **State:** completed · **Source run:** `run-b1d8bc8ed1c92e911c82e279a878521f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-on.10.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.10.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261121141212
+- Timing: 2026-11-21T19:34:20.570269+00:00 → 2026-11-21T20:12:21.464685+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -51,5 +51,5 @@
 | [bob-cli-on.6.1.land](../bbugyi200.athena.bob-cli-on.6.1.land/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.7](../bbugyi200.athena.bob-cli-on.7/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.8](../bbugyi200.athena.bob-cli-on.8/README.md) | bob-cli-on hood | waiting |
-| [bob-cli-on.9](../../sessions/bbugyi200.athena.bob-cli-on.9.md) (session · 3) | bob-cli-on hood | completed 2, waiting 1 |
+| [bob-cli-on.9](../../sessions/bbugyi200.athena.bob-cli-on.9.md) (session · 5) | bob-cli-on hood | completed 4, waiting 1 |
 | [bob-cli-on.land](../bbugyi200.athena.bob-cli-on.land/README.md) | bob-cli-on hood | waiting |

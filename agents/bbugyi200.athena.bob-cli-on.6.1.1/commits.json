@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a317e086b3c2474186c11a9fbdfcce1f"}
+{"commits":[{"committed_at":1795291953,"sha":"1d89d95f3b2288601111965abad896eff5fd0195","subject":"refactor(capture): make authored bullet depth a numeric level"}],"schema_version":2,"source_run_id":"run-a317e086b3c2474186c11a9fbdfcce1f"}

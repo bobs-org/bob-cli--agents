@@ -54,7 +54,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-o6.6.1.3](../bbugyi200.athena.bob-cli-o6.6.1.3/README.md) | bob-cli-o6.6.1 hood | completed |
 | [bob-cli-o6.6.1.4](../bbugyi200.athena.bob-cli-o6.6.1.4/README.md) | bob-cli-o6.6.1 hood | completed |
 | [bob-cli-o6.6.1.5](../bbugyi200.athena.bob-cli-o6.6.1.5/README.md) | bob-cli-o6.6.1 hood | completed |
-| [bob-cli-o6.6.1.land](../bbugyi200.athena.bob-cli-o6.6.1.land/README.md) | bob-cli-o6.6.1 hood | waiting |
+| [bob-cli-o6.6.1.land](../bbugyi200.athena.bob-cli-o6.6.1.land/README.md) | bob-cli-o6.6.1 hood | completed |
 | [bob-cli-o6.1](../../sessions/bbugyi200.athena.bob-cli-o6.1.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.2](../../sessions/bbugyi200.athena.bob-cli-o6.2.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.3](../../sessions/bbugyi200.athena.bob-cli-o6.3.md) (session · 3) | bob-cli-o6 hood | completed 3 |
