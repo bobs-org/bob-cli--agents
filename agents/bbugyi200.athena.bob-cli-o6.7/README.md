@@ -37,7 +37,7 @@
 | [bob-cli-o6.6.1.1](../bbugyi200.athena.bob-cli-o6.6.1.1/README.md) | bob-cli-o6 hood | completed |
 | [bob-cli-o6.6.1.2](../../sessions/bbugyi200.athena.bob-cli-o6.6.1.2.md) (session · 23) | bob-cli-o6 hood | completed 12, failed 11 |
 | [bob-cli-o6.6.1.3](../bbugyi200.athena.bob-cli-o6.6.1.3/README.md) | bob-cli-o6 hood | completed |
-| [bob-cli-o6.6.1.4](../bbugyi200.athena.bob-cli-o6.6.1.4/README.md) | bob-cli-o6 hood | waiting |
-| [bob-cli-o6.6.1.5](../bbugyi200.athena.bob-cli-o6.6.1.5/README.md) | bob-cli-o6 hood | waiting |
+| [bob-cli-o6.6.1.4](../bbugyi200.athena.bob-cli-o6.6.1.4/README.md) | bob-cli-o6 hood | completed |
+| [bob-cli-o6.6.1.5](../bbugyi200.athena.bob-cli-o6.6.1.5/README.md) | bob-cli-o6 hood | completed |
 | [bob-cli-o6.6.1.land](../bbugyi200.athena.bob-cli-o6.6.1.land/README.md) | bob-cli-o6 hood | waiting |
 | [bob-cli-o6.land](../bbugyi200.athena.bob-cli-o6.land/README.md) | bob-cli-o6 hood | waiting |
