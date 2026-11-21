@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5q.linker
 
-**Global name:** `bbugyi200.apollo.research.5q.linker` · **State:** waiting · **Source run:** `run-747c6e694270421ceb9a244a7ee39920`
+**Global name:** `bbugyi200.apollo.research.5q.linker` · **State:** completed · **Source run:** `run-747c6e694270421ceb9a244a7ee39920`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261121102509
+- Timing: 2026-11-21T16:07:21.422407+00:00 → 2026-11-21T16:11:48.621299+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_row\_note\_stage/bank\_row\_note\_stage.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121102509/bank\_row\_note\_stage-6a3c16c8c755.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_row_note_stage/bank_row_note_stage.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121102509/bank_row_note_stage-6a3c16c8c755.md
+  ref: file:explicit:0cfb93cfd21d74f50ca7c311
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/bank_row_note_stage/bank_row_note_stage.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
