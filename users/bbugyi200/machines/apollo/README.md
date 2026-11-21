@@ -412,7 +412,7 @@
 | [bob-cli-no](hoods/bob-cli-no/README.md) | 12 | 1 | completed 11, failed 1 |
 | [bob-cli-nu](hoods/bob-cli-nu/README.md) | 23 | 3 | active 1, completed 20, failed 2 |
 | [bob-cli-oe](hoods/bob-cli-oe/README.md) | 29 | 7 | active 3, completed 24, failed 2 |
-| [bob-cli-om](hoods/bob-cli-om/README.md) | 13 | 1 | completed 5, failed 1, waiting 7 |
+| [bob-cli-om](hoods/bob-cli-om/README.md) | 13 | 1 | completed 6, failed 1, waiting 6 |
 | [bob-cli-oo](hoods/bob-cli-oo/README.md) | 5 | 0 | active 1, waiting 4 |
 | [bob-cli-t](hoods/bob-cli-t/README.md) | 2 | 0 | completed 2 |
 | [bob-cli-u](hoods/bob-cli-u/README.md) | 1 | 0 | completed 1 |
