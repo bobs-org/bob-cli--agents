@@ -13,11 +13,17 @@
 - Model: opus
 - Provider: claude
 - Timing: 20261121130252
-- Commits: 0
+- Commits: [1](#commits)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`fc27bf1`](https://github.com/bobs-org/bob-cli/commit/fc27bf1ad8694d35bf5ce3729d7a2b3adb5f9d1e) | docs(bank): document the Category card note stage and regenerate the glossary | 2026-11-21 16:03:16 EST |
 
 ## Neighbors
 
@@ -25,5 +31,5 @@
 |---|---|---|
 | [bob-cli-oo.1](../bbugyi200.apollo.bob-cli-oo.1/README.md) | bob-cli-oo hood | completed |
 | [bob-cli-oo.2](../bbugyi200.apollo.bob-cli-oo.2/README.md) | bob-cli-oo hood | completed |
-| [bob-cli-oo.3](../../sessions/bbugyi200.apollo.bob-cli-oo.3.md) (session · 5) | bob-cli-oo hood | active 1, completed 2, failed 2 |
+| [bob-cli-oo.3](../../sessions/bbugyi200.apollo.bob-cli-oo.3.md) (session · 5) | bob-cli-oo hood | completed 3, failed 2 |
 | [bob-cli-oo.land](../bbugyi200.apollo.bob-cli-oo.land/README.md) | bob-cli-oo hood | waiting |
