@@ -2,30 +2,29 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-oe](../../users/bbugyi200/machines/apollo/hoods/bob-cli-oe/README.md) / bob-cli-oe.8.2
 
-**Global name:** `bbugyi200.apollo.bob-cli-oe.8.2` · **State:** active · **Source run:** `run-88a19ed5bd0fd0b9d5fb3cdf8b172d22`
+**Global name:** `bbugyi200.apollo.bob-cli-oe.8.2` · **State:** completed · **Source run:** `run-bf82eed968972ae16fbeeaa109a88ca1`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-oe
 
 ## Summary
 
 - Bead: [bob-cli-oe.8.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oe/bob-cli-oe.8.2.md)
-- Epic: [bob-cli-oe.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oe/bob-cli-oe.8.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-21T02:41:07.013466+00:00
+- Timing: 2026-11-21T12:47:50.055319+00:00 → 2026-11-21T12:58:08.465850+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-oe.8.1](../bbugyi200.apollo.bob-cli-oe.8.1/README.md) | bob-cli-oe.8 hood | active |
+| [bob-cli-oe.8.1](../../sessions/bbugyi200.apollo.bob-cli-oe.8.1.md) (session · 3) | bob-cli-oe.8 hood | completed 3 |
 | [bob-cli-oe.8.3](../bbugyi200.apollo.bob-cli-oe.8.3/README.md) | bob-cli-oe.8 hood | waiting |
-| [bob-cli-oe.8.4](../../sessions/bbugyi200.apollo.bob-cli-oe.8.4.md) (session · 2) | bob-cli-oe.8 hood | active 1, completed 1 |
+| [bob-cli-oe.8.4](../../sessions/bbugyi200.apollo.bob-cli-oe.8.4.md) (session · 3) | bob-cli-oe.8 hood | completed 3 |
 | [bob-cli-oe.8.land](../bbugyi200.apollo.bob-cli-oe.8.land/README.md) | bob-cli-oe.8 hood | waiting |
 | [bob-cli-oe.1](../bbugyi200.apollo.bob-cli-oe.1/README.md) | bob-cli-oe hood | completed |
 | [bob-cli-oe.2](../bbugyi200.apollo.bob-cli-oe.2/README.md) | bob-cli-oe hood | completed |
