@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-oj
 
-**Global hood:** `bbugyi200.athena.bob-cli-oj` · **Runs:** 40 · **Sessions:** 6 · **States:** active 3, completed 27, failed 3, waiting 7
+**Global hood:** `bbugyi200.athena.bob-cli-oj` · **Runs:** 40 · **Sessions:** 6 · **States:** active 3, completed 28, failed 3, waiting 6
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -45,4 +45,4 @@
 | [bob-cli-oj.2](../../../../../../agents/bbugyi200.athena.bob-cli-oj.2/README.md) | completed | grok-4.6 / grok | 2026-11-21T12:43:36.024945+00:00 → 2026-11-21T13:07:11.454513+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-oj.2/chat.md) |
 | [bob-cli-oj.3.1.2--2](../../../../../../sessions/bbugyi200.athena.bob-cli-oj.3.1.2.md#member-2) | completed | gpt-6-luna / codex | 2026-11-21T13:55:42.142942+00:00 → 2026-11-21T13:58:52.497874+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.2--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.2--2/chat.md) |
 | [bob-cli-oj.1--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-oj.1.md#member-plan) | completed | gpt-6-astra / codex | 2026-11-21T14:22:29.176712+00:00 → 2026-11-21T14:34:17.685756+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-oj.1--plan/chat.md) |
-| [bob-cli-oj.5.1.2](../../../../../../agents/bbugyi200.athena.bob-cli-oj.5.1.2/README.md) | waiting | sonnet / claude | 20261121122301 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.5.1.2/prompt.md) |
+| [bob-cli-oj.5.1.2](../../../../../../agents/bbugyi200.athena.bob-cli-oj.5.1.2/README.md) | completed | opus / claude | 2026-11-21T17:58:38.700842+00:00 → 2026-11-21T18:16:41.185353+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.5.1.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-oj.5.1.2/chat.md) |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-oj](../../users/bbugyi200/machines/athena/hoods/bob-cli-oj/README.md) / bob-cli-oj.5.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-oj.5.1.2` · **State:** waiting · **Source run:** `run-ff58609e9da76b9355b5e8a9d29b7faf`
+**Global name:** `bbugyi200.athena.bob-cli-oj.5.1.2` · **State:** completed · **Source run:** `run-ff58609e9da76b9355b5e8a9d29b7faf`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-oj
 
@@ -10,14 +10,14 @@
 
 - Bead: [bob-cli-oj.5.1.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oj/bob-cli-oj.5.1.2.md)
 - Epic: [bob-cli-oj.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oj/bob-cli-oj.5.1.md)
-- Model: sonnet
+- Model: opus
 - Provider: claude
-- Timing: 20261121122301
+- Timing: 2026-11-21T17:58:38.700842+00:00 → 2026-11-21T18:16:41.185353+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
