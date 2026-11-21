@@ -10,8 +10,8 @@
 
 - Bead: [bob-cli-o6.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-o6/bob-cli-o6.6.md)
 - Epic: [bob-cli-o6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-o6/README.md)
-- Model: opus
-- Provider: claude
+- Model: gpt-6-astra
+- Provider: codex
 - Timing: 20261120115034
 - Commits: 0
 
@@ -31,6 +31,7 @@
 | [bob-cli-o6.4.1.2](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.2.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.4.1.3](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.3.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.4.1.land](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.land.md) (session · 3) | bob-cli-o6 hood | active 2, completed 1 |
+| [bob-cli-o6.4.1.land](../bbugyi200.athena.bob-cli-o6.4.1.land/README.md) | bob-cli-o6 hood | completed |
 | [bob-cli-o6.5](../../sessions/bbugyi200.athena.bob-cli-o6.5.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.7](../bbugyi200.athena.bob-cli-o6.7/README.md) | bob-cli-o6 hood | waiting |
 | [bob-cli-o6.land](../bbugyi200.athena.bob-cli-o6.land/README.md) | bob-cli-o6 hood | waiting |
