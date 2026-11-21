@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5q.cld
 
-**Global name:** `bbugyi200.apollo.research.5q.cld` · **State:** active · **Source run:** `run-7aaaed6632a4515b952a37fa7c5e2388`
+**Global name:** `bbugyi200.apollo.research.5q.cld` · **State:** completed · **Source run:** `run-7aaaed6632a4515b952a37fa7c5e2388`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,21 +10,40 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-21T15:25:57.092345+00:00
+- Timing: 2026-11-21T15:25:57.092345+00:00 → 2026-11-21T15:36:05.681207+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_row\_notes\_category\_card\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121102503/bank\_row\_notes\_category\_card\_\_cld-d2155662c… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_row_notes_category_card__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121102503/bank_row_notes_category_card__cld-d2155662cf52.md
+  ref: file:explicit:2e7639366c3a1a659dd472e5
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/bank_row_notes_category_card__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5q.cdx](../bbugyi200.apollo.research.5q.cdx/README.md) | research.5q hood | active |
+| [research.5q.cdx](../bbugyi200.apollo.research.5q.cdx/README.md) | research.5q hood | completed |
 | [research.5q.final](../bbugyi200.apollo.research.5q.final/README.md) | research.5q hood | waiting |
-| [research.5q.gem](../bbugyi200.apollo.research.5q.gem/README.md) | research.5q hood | active |
-| [research.5q.grk](../bbugyi200.apollo.research.5q.grk/README.md) | research.5q hood | active |
+| [research.5q.gem](../bbugyi200.apollo.research.5q.gem/README.md) | research.5q hood | completed |
+| [research.5q.grk](../bbugyi200.apollo.research.5q.grk/README.md) | research.5q hood | completed |
 | [research.5q.image](../bbugyi200.apollo.research.5q.image/README.md) | research.5q hood | waiting |
 | [research.5q.linker](../bbugyi200.apollo.research.5q.linker/README.md) | research.5q hood | waiting |
 | [research.5q.mus](../bbugyi200.apollo.research.5q.mus/README.md) | research.5q hood | completed |

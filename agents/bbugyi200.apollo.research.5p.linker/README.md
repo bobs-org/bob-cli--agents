@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 20261121093901
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/task\_reqs\_design/task\_reqs\_design.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121093901/task\_reqs\_design-9ff920d92835.md, ref: file… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/task_reqs_design/task_reqs_design.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121093901/task_reqs_design-9ff920d92835.md
+  ref: file:explicit:a977b9b27a3395abddeebb87
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/task_reqs_design/task_reqs_design.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

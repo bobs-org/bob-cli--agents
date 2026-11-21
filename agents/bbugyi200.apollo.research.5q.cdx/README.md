@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5q.cdx
 
-**Global name:** `bbugyi200.apollo.research.5q.cdx` · **State:** active · **Source run:** `run-8e866d732cd23345b0a07e00d8905b2a`
+**Global name:** `bbugyi200.apollo.research.5q.cdx` · **State:** completed · **Source run:** `run-8e866d732cd23345b0a07e00d8905b2a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-21T15:25:51.909782+00:00
+- Timing: 2026-11-21T15:25:51.909782+00:00 → 2026-11-21T15:35:07.042224+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -40,10 +40,10 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5q.cld](../bbugyi200.apollo.research.5q.cld/README.md) | research.5q hood | active |
+| [research.5q.cld](../bbugyi200.apollo.research.5q.cld/README.md) | research.5q hood | completed |
 | [research.5q.final](../bbugyi200.apollo.research.5q.final/README.md) | research.5q hood | waiting |
-| [research.5q.gem](../bbugyi200.apollo.research.5q.gem/README.md) | research.5q hood | active |
-| [research.5q.grk](../bbugyi200.apollo.research.5q.grk/README.md) | research.5q hood | active |
+| [research.5q.gem](../bbugyi200.apollo.research.5q.gem/README.md) | research.5q hood | completed |
+| [research.5q.grk](../bbugyi200.apollo.research.5q.grk/README.md) | research.5q hood | completed |
 | [research.5q.image](../bbugyi200.apollo.research.5q.image/README.md) | research.5q hood | waiting |
 | [research.5q.linker](../bbugyi200.apollo.research.5q.linker/README.md) | research.5q hood | waiting |
 | [research.5q.mus](../bbugyi200.apollo.research.5q.mus/README.md) | research.5q hood | completed |
