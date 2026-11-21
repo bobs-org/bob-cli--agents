@@ -24,8 +24,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-oe.8.1](../agents/bbugyi200.apollo.bob-cli-oe.8.1/README.md) | bob-cli-oe.8 hood | active |
-| [bob-cli-oe.8.2](../agents/bbugyi200.apollo.bob-cli-oe.8.2/README.md) | bob-cli-oe.8 hood | active |
+| [bob-cli-oe.8.1](bbugyi200.apollo.bob-cli-oe.8.1.md) (session · 2) | bob-cli-oe.8 hood | active 1, completed 1 |
+| [bob-cli-oe.8.2](bbugyi200.apollo.bob-cli-oe.8.2.md) (session · 2) | bob-cli-oe.8 hood | active 2 |
 | [bob-cli-oe.8.3](../agents/bbugyi200.apollo.bob-cli-oe.8.3/README.md) | bob-cli-oe.8 hood | waiting |
 | [bob-cli-oe.8.land](../agents/bbugyi200.apollo.bob-cli-oe.8.land/README.md) | bob-cli-oe.8 hood | waiting |
 | [bob-cli-oe.1](../agents/bbugyi200.apollo.bob-cli-oe.1/README.md) | bob-cli-oe hood | completed |
