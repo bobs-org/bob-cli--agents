@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-oj](../../users/bbugyi200/machines/athena/hoods/bob-cli-oj/README.md) / bob-cli-oj.3.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-oj.3.1.1` · **State:** active · **Source run:** `run-a7c1c16c7b66d80b2794958fdcaf6750`
+**Global name:** `bbugyi200.athena.bob-cli-oj.3.1.1` · **State:** completed · **Source run:** `run-a7c1c16c7b66d80b2794958fdcaf6750`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-oj
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-oj.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oj/bob-cli-oj.3.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-21T12:52:24.573668+00:00
-- Commits: 0
+- Timing: 2026-11-21T12:52:24.573668+00:00 → 2026-11-21T13:26:13.286019+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e11f2a0`](https://github.com/bobs-org/bob-cli/commit/e11f2a0c5e9fa1cb0aefe01a4ccb1ca1785e0af1) | feat(albums): group record walks by declared walk\_by | 2026-11-21 08:25:36 EST |
 
 ## Neighbors
 
