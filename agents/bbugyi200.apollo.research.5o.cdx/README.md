@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5o.cdx
 
-**Global name:** `bbugyi200.apollo.research.5o.cdx` · **State:** active · **Source run:** `run-24df580e81da29a5ad15d6f745d22ac7`
+**Global name:** `bbugyi200.apollo.research.5o.cdx` · **State:** completed · **Source run:** `run-24df580e81da29a5ad15d6f745d22ac7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-21T13:54:39.652013+00:00
+- Timing: 2026-11-21T13:54:39.652013+00:00 → 2026-11-21T14:04:30.592080+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_prose\_prompt\_link\_completion\_design\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121085351/obsidian\_prose\_prompt\_link\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_prose_prompt_link_completion_design__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121085351/obsidian_prose_prompt_link_completion_design__cdx-6a5e5dd434a8.md
+  ref: file:explicit:89db80b3f822867e2c5e78be
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/obsidian_prose_prompt_link_completion_design__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

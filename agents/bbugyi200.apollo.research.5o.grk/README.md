@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-11-21T13:55:26.827918+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_prompt\_wikilink\_completion/obsidian\_prompt\_wikilink\_completion\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121085354/… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_prompt_wikilink_completion/obsidian_prompt_wikilink_completion__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121085354/obsidian_prompt_wikilink_completion__grk-0a42146df833.md
+  ref: file:explicit:752c48f6ea638d4fb9b7eeab
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202611/obsidian_prompt_wikilink_completion/obsidian_prompt_wikilink_completion__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5o.cdx](../bbugyi200.apollo.research.5o.cdx/README.md) | research.5o hood | active |
+| [research.5o.cdx](../bbugyi200.apollo.research.5o.cdx/README.md) | research.5o hood | completed |
 | [research.5o.cld](../bbugyi200.apollo.research.5o.cld/README.md) | research.5o hood | active |
 | [research.5o.final](../bbugyi200.apollo.research.5o.final/README.md) | research.5o hood | waiting |
 | [research.5o.gem](../bbugyi200.apollo.research.5o.gem/README.md) | research.5o hood | active |
