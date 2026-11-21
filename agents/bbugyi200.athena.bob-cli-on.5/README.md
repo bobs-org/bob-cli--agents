@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.5
 
-**Global name:** `bbugyi200.athena.bob-cli-on.5` · **State:** waiting · **Source run:** `run-0fca3b11d89ca078b7d1a44a51b0fa75`
+**Global name:** `bbugyi200.athena.bob-cli-on.5` · **State:** completed · **Source run:** `run-0fca3b11d89ca078b7d1a44a51b0fa75`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-on](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261121111442
-- Commits: 0
+- Timing: 2026-11-21T19:40:07.929717+00:00 → 2026-11-21T20:34:21.161207+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`d8fae3e`](https://github.com/bobs-org/bob-cli/commit/d8fae3e5c734404864da0376818953733743ce56) | feat(task): add bob task rename-drawer to rename and merge drawers vault-wide | 2026-11-21 15:33:08 EST |
 
 ## Neighbors
 
