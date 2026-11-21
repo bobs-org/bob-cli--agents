@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-o6](../../users/bbugyi200/machines/athena/hoods/bob-cli-o6/README.md) / bob-cli-o6.7
 
-**Global name:** `bbugyi200.athena.bob-cli-o6.7` · **State:** waiting · **Source run:** `run-09a60a29da1cbb881a97be469559e1bd`
+**Global name:** `bbugyi200.athena.bob-cli-o6.7` · **State:** completed · **Source run:** `run-09a60a29da1cbb881a97be469559e1bd`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-o6
 
@@ -10,14 +10,20 @@
 
 - Bead: [bob-cli-o6.7](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-o6/bob-cli-o6.7.md)
 - Epic: [bob-cli-o6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-o6/README.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 20261120115035
-- Commits: 0
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-21T22:13:07.370481+00:00 → 2026-11-21T22:23:01.597119+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`ff84542`](https://github.com/bobs-org/bob-cli/commit/ff84542431857364408e9f63c6174d48e2d2c7fb) | docs(glossary): describe property cards as the note title block | 2026-11-21 17:22:20 EST |
 
 ## Neighbors
 
