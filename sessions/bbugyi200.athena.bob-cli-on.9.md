@@ -2,22 +2,25 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.9
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-on` · Members: 2 · Bead: [bob-cli-on.9](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.9.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-on` · Members: 3 · Bead: [bob-cli-on.9](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.9.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-on.9--mon [active]"]
-  n1["bob-cli-on.9--plan [completed]"]
+  n0["bob-cli-on.9--mon [completed]"]
+  n1["bob-cli-on.9--1 [waiting]"]
   n0 --> n1
+  n2["bob-cli-on.9--plan [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-on.9--mon | active | gpt-6-luna / codex | 2026-11-21T18:34:13.442039+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-on.9--mon | completed | gpt-6-luna / codex | 2026-11-21T18:34:13.442039+00:00 → 2026-11-21T19:17:06.690390+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-on.9--mon/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-on.9--1 | waiting | gpt-6-luna / codex | 20261121141604 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-on.9--1/prompt.md) | — |
 | <a id="member-plan"></a>plan | bob-cli-on.9--plan | completed | gpt-6-luna / codex | 2026-11-21T17:17:16.428747+00:00 → 2026-11-21T18:38:51.986593+00:00 | [1](../agents/bbugyi200.athena.bob-cli-on.9--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-on.9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-on.9--plan/chat.md) |
 
 ## Commits
@@ -57,6 +60,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-on.6.1.4](../agents/bbugyi200.athena.bob-cli-on.6.1.4/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.6.1.5](../agents/bbugyi200.athena.bob-cli-on.6.1.5/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.6.1.land](../agents/bbugyi200.athena.bob-cli-on.6.1.land/README.md) | bob-cli-on hood | waiting |
-| [bob-cli-on.7](../agents/bbugyi200.athena.bob-cli-on.7/README.md) | bob-cli-on hood | waiting |
+| [bob-cli-on.7](../agents/bbugyi200.athena.bob-cli-on.7/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.8](../agents/bbugyi200.athena.bob-cli-on.8/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.land](../agents/bbugyi200.athena.bob-cli-on.land/README.md) | bob-cli-on hood | waiting |
