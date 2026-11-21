@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5o.final
 
-**Global name:** `bbugyi200.apollo.research.5o.final` · **State:** waiting · **Source run:** `run-d19fe9eb5a655d0a173fad077f41c541`
+**Global name:** `bbugyi200.apollo.research.5o.final` · **State:** completed · **Source run:** `run-d19fe9eb5a655d0a173fad077f41c541`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261121085357
+- Timing: 2026-11-21T14:23:04.699955+00:00 → 2026-11-21T14:36:04.987169+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/prose\_prompt\_wikilink\_completion/prose\_prompt\_wikilink\_completion\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121085357/pros… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/prose_prompt_wikilink_completion/prose_prompt_wikilink_completion__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121085357/prose_prompt_wikilink_completion__final-90e7caea9961.md
+  ref: file:explicit:10edc8c5879523066c209770
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/prose_prompt_wikilink_completion/prose_prompt_wikilink_completion__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
