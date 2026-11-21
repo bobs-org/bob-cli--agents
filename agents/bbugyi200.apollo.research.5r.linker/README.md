@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5r.linker
 
-**Global name:** `bbugyi200.apollo.research.5r.linker` · **State:** waiting · **Source run:** `run-f9cb25452c0f926986779c08a2d490ad`
+**Global name:** `bbugyi200.apollo.research.5r.linker` · **State:** completed · **Source run:** `run-f9cb25452c0f926986779c08a2d490ad`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261121122732
+- Timing: 2026-11-21T19:12:30.052409+00:00 → 2026-11-21T19:27:59.484333+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/spotify\_episode\_capture\_route/spotify\_episode\_capture\_route.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121122732/spotify\_episode\_c… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/spotify_episode_capture_route/spotify_episode_capture_route.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121122732/spotify_episode_capture_route-f7e524b7b8aa.md
+  ref: file:explicit:f74fe63faff3482a5357dc61
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/spotify_episode_capture_route/spotify_episode_capture_route.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,7 +46,7 @@
 | [research.5r.final](../bbugyi200.apollo.research.5r.final/README.md) | research.5r hood | completed |
 | [research.5r.gem](../bbugyi200.apollo.research.5r.gem/README.md) | research.5r hood | completed |
 | [research.5r.grk](../bbugyi200.apollo.research.5r.grk/README.md) | research.5r hood | completed |
-| [research.5r.image](../bbugyi200.apollo.research.5r.image/README.md) | research.5r hood | waiting |
+| [research.5r.image](../bbugyi200.apollo.research.5r.image/README.md) | research.5r hood | completed |
 | [research.5r.mus](../bbugyi200.apollo.research.5r.mus/README.md) | research.5r hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
