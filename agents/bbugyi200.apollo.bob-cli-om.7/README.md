@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-om](../../users/bbugyi200/machines/apollo/hoods/bob-cli-om/README.md) / bob-cli-om.7
 
-**Global name:** `bbugyi200.apollo.bob-cli-om.7` · **State:** waiting · **Source run:** `run-a0e7f8b12969cf3fe01385c0e574dbd7`
+**Global name:** `bbugyi200.apollo.bob-cli-om.7` · **State:** completed · **Source run:** `run-a0e7f8b12969cf3fe01385c0e574dbd7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-om
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-om](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-om/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261121103329
+- Timing: 2026-11-21T18:37:32.698322+00:00 → 2026-11-21T19:37:36.142838+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
