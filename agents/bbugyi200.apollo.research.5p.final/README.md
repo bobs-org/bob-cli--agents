@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5p.final
 
-**Global name:** `bbugyi200.apollo.research.5p.final` · **State:** waiting · **Source run:** `run-8410f9e75e4ba806c733938680d2b712`
+**Global name:** `bbugyi200.apollo.research.5p.final` · **State:** completed · **Source run:** `run-8410f9e75e4ba806c733938680d2b712`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,17 +10,37 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261121093859
+- Timing: 2026-11-21T15:05:45.216326+00:00 → 2026-11-21T15:21:51.025149+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/task\_reqs\_design/task\_reqs\_design\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121093859/task\_reqs\_design\_\_final-8737d60c5e8d… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/task_reqs_design/task_reqs_design__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121093859/task_reqs_design__final-8737d60c5e8d.md
+  ref: file:explicit:36faf36a3b9815a489efeccc
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/task_reqs_design/task_reqs_design__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.5p.final.w0](../bbugyi200.apollo.research.5p.final.w0/README.md) | descendant | active |
 | [research.5p.cdx](../bbugyi200.apollo.research.5p.cdx/README.md) | research.5p hood | completed |
 | [research.5p.cld](../bbugyi200.apollo.research.5p.cld/README.md) | research.5p hood | completed |
 | [research.5p.gem](../bbugyi200.apollo.research.5p.gem/README.md) | research.5p hood | completed |
