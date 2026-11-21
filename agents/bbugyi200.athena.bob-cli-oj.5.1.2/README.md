@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-oj.5](../../sessions/bbugyi200.athena.bob-cli-oj.5.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-oj.5.1.1](../bbugyi200.athena.bob-cli-oj.5.1.1/README.md) | bob-cli-oj.5.1 hood | active |
+| [bob-cli-oj.5.1.1](../bbugyi200.athena.bob-cli-oj.5.1.1/README.md) | bob-cli-oj.5.1 hood | completed |
 | [bob-cli-oj.5.1.3](../bbugyi200.athena.bob-cli-oj.5.1.3/README.md) | bob-cli-oj.5.1 hood | waiting |
 | [bob-cli-oj.5.1.4](../bbugyi200.athena.bob-cli-oj.5.1.4/README.md) | bob-cli-oj.5.1 hood | waiting |
 | [bob-cli-oj.5.1.land](../bbugyi200.athena.bob-cli-oj.5.1.land/README.md) | bob-cli-oj.5.1 hood | waiting |
