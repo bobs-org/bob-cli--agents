@@ -39,4 +39,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-oe.5](../agents/bbugyi200.apollo.bob-cli-oe.5/README.md) | bob-cli-oe hood | completed |
 | [bob-cli-oe.6](bbugyi200.apollo.bob-cli-oe.6.md) (session · 3) | bob-cli-oe hood | completed 3 |
 | [bob-cli-oe.7](../agents/bbugyi200.apollo.bob-cli-oe.7/README.md) | bob-cli-oe hood | completed |
-| [bob-cli-oe.land](bbugyi200.apollo.bob-cli-oe.land.md) (session · 3) | bob-cli-oe hood | active 2, completed 1 |
+| [bob-cli-oe.8.1](../agents/bbugyi200.apollo.bob-cli-oe.8.1/README.md) | bob-cli-oe hood | active |
+| [bob-cli-oe.8.2](../agents/bbugyi200.apollo.bob-cli-oe.8.2/README.md) | bob-cli-oe hood | active |
+| [bob-cli-oe.8.3](../agents/bbugyi200.apollo.bob-cli-oe.8.3/README.md) | bob-cli-oe hood | waiting |
+| [bob-cli-oe.8.4](bbugyi200.apollo.bob-cli-oe.8.4.md) (session · 2) | bob-cli-oe hood | active 1, completed 1 |
+| [bob-cli-oe.8.land](../agents/bbugyi200.apollo.bob-cli-oe.8.land/README.md) | bob-cli-oe hood | waiting |
+| [bob-cli-oe.land](bbugyi200.apollo.bob-cli-oe.land.md) (session · 3) | bob-cli-oe hood | active 1, completed 2 |
