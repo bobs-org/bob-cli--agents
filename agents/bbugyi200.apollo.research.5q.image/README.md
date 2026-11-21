@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5q.image
 
-**Global name:** `bbugyi200.apollo.research.5q.image` · **State:** waiting · **Source run:** `run-9cd7edcce49936c34ba92ef996d80965`
+**Global name:** `bbugyi200.apollo.research.5q.image` · **State:** completed · **Source run:** `run-9cd7edcce49936c34ba92ef996d80965`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,42 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261121102508
+- Timing: 2026-11-21T15:58:01.191596+00:00 → 2026-11-21T16:06:44.439928+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/bank\_row\_note\_stage/bank\_row\_note\_stage\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121102508/bank\_row\_note\_stage\_infographi… |
+| `diagrams` | {considered: 15, count: 0, reason: One content candidate passed selection and mmdc 12.0.0 PDF-config SVG validation (568.078x505 px, fit 100%), but the required PNG export timed out at 90 seconds wit… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/bank_row_note_stage/bank_row_note_stage_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121102508/bank_row_note_stage_infographic-ba9cf076e470.png
+  ref: file:explicit:b8a9cdfc36656460bb960bb8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/bank_row_note_stage/bank_row_note_stage_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 0
+reason: One content candidate passed selection and mmdc 12.0.0 PDF-config SVG validation (568.078x505 px, fit 100%), but the required PNG export timed out at 90 seconds without a Puppeteer connection error. No allowed retry or visual validation; no manifest written. The infographic was created and registered successfully.
+source_ref: file:explicit:a07fb9d65217f3762a494f43
+status: failed
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
