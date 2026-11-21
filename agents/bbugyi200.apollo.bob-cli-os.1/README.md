@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-os](../../users/bbugyi200/machines/apollo/hoods/bob-cli-os/README.md) / bob-cli-os.1
 
-**Global name:** `bbugyi200.apollo.bob-cli-os.1` · **State:** active · **Source run:** `run-28b779de04e7d324b43bb4fae4c5fcf6`
+**Global name:** `bbugyi200.apollo.bob-cli-os.1` · **State:** completed · **Source run:** `run-28b779de04e7d324b43bb4fae4c5fcf6`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-os
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-os](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-os/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-21T20:03:58.156288+00:00
-- Commits: 0
+- Timing: 2026-11-21T20:03:58.156288+00:00 → 2026-11-21T21:25:33.647254+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`0114a6c`](https://github.com/bobs-org/bob-cli/commit/0114a6cc1e560df93de50edaa8821db627055702) | fix(ref): keep base62 ids out of stems, save ingest source stores, and print the recorded URL in mastheads | 2026-11-21 16:24:37 EST |
 
 ## Neighbors
 

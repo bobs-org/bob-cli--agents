@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-os
 
-**Global hood:** `bbugyi200.apollo.bob-cli-os` · **Runs:** 11 · **Sessions:** 0 · **States:** active 2, completed 1, waiting 8
+**Global hood:** `bbugyi200.apollo.bob-cli-os` · **Runs:** 11 · **Sessions:** 0 · **States:** active 1, completed 2, waiting 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-os.8](../../../../../../agents/bbugyi200.apollo.bob-cli-os.8/README.md) | waiting | opus / claude | 20261121150246 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-os.8/prompt.md) |
-| [bob-cli-os.1](../../../../../../agents/bbugyi200.apollo.bob-cli-os.1/README.md) | active | opus / claude | 2026-11-21T20:03:58.156288+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-os.1/prompt.md) |
+| [bob-cli-os.1](../../../../../../agents/bbugyi200.apollo.bob-cli-os.1/README.md) | completed | opus / claude | 2026-11-21T20:03:58.156288+00:00 → 2026-11-21T21:25:33.647254+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-os.1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-os.1/chat.md) |
 | [bob-cli-os.2](../../../../../../agents/bbugyi200.apollo.bob-cli-os.2/README.md) | completed | opus / claude | 2026-11-21T20:03:21.227273+00:00 → 2026-11-21T21:06:49.309542+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-os.2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-os.2/chat.md) |
 | [bob-cli-os.7](../../../../../../agents/bbugyi200.apollo.bob-cli-os.7/README.md) | waiting | opus / claude | 20261121150245 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-os.7/prompt.md) |
 | [bob-cli-os.4](../../../../../../agents/bbugyi200.apollo.bob-cli-os.4/README.md) | waiting | opus / claude | 20261121150243 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-os.4/prompt.md) |
