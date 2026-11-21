@@ -32,4 +32,4 @@
 | [bob-cli-om.6](../bbugyi200.apollo.bob-cli-om.6/README.md) | bob-cli-om hood | completed |
 | [bob-cli-om.7](../bbugyi200.apollo.bob-cli-om.7/README.md) | bob-cli-om hood | completed |
 | [bob-cli-om.8](../bbugyi200.apollo.bob-cli-om.8/README.md) | bob-cli-om hood | completed |
-| [bob-cli-om.land](../bbugyi200.apollo.bob-cli-om.land/README.md) | bob-cli-om hood | waiting |
+| [bob-cli-om.land](../bbugyi200.apollo.bob-cli-om.land/README.md) | bob-cli-om hood | completed |

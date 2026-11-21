@@ -121,4 +121,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-om.7](../bbugyi200.apollo.bob-cli-om.7/README.md) | bob-cli-om hood | completed |
 | [bob-cli-om.8](../bbugyi200.apollo.bob-cli-om.8/README.md) | bob-cli-om hood | completed |
 | [bob-cli-om.9](../bbugyi200.apollo.bob-cli-om.9/README.md) | bob-cli-om hood | completed |
-| [bob-cli-om.land](../bbugyi200.apollo.bob-cli-om.land/README.md) | bob-cli-om hood | waiting |
+| [bob-cli-om.land](../bbugyi200.apollo.bob-cli-om.land/README.md) | bob-cli-om hood | completed |

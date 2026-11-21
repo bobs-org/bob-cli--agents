@@ -14,10 +14,44 @@
 - Provider: claude
 - Timing: 20261121150243
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: Episode dossier visual check: page 1, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121150243/dossier-page-1-532bedc917c6.png, ref: file:explicit:f961c2af21… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: Episode dossier visual check: page 1
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121150243/dossier-page-1-532bedc917c6.png
+  ref: file:explicit:f961c2af21dfd931a580d332
+  source_path: /tmp/bob-os4-artifacts/dossier-page-1.png
+- kind: image
+  label: Episode dossier visual check: page 2
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121150243/dossier-page-2-3b6360815ce2.png
+  ref: file:explicit:832796f116d9189089f4d580
+  source_path: /tmp/bob-os4-artifacts/dossier-page-2.png
+- kind: image
+  label: Episode dossier visual check: bare card variant
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121150243/dossier-bare-card-page-1-6f54e8b42530.png
+  ref: file:explicit:65e025fca761902b2c5e4b4f
+  source_path: /tmp/bob-os4-artifacts/dossier-bare-card-page-1.png
+- kind: pdf
+  label: Episode dossier fixture PDF
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121150243/dossier-fixture-6c11de827356.pdf
+  ref: file:explicit:f1abd845ad8347e2a9224d7b
+  source_path: /tmp/bob-os4-artifacts/dossier-fixture.pdf
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -26,7 +60,7 @@
 | [bob-cli-os.1](../bbugyi200.apollo.bob-cli-os.1/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.10](../bbugyi200.apollo.bob-cli-os.10/README.md) | bob-cli-os hood | waiting |
 | [bob-cli-os.2](../bbugyi200.apollo.bob-cli-os.2/README.md) | bob-cli-os hood | completed |
-| [bob-cli-os.3](../bbugyi200.apollo.bob-cli-os.3/README.md) | bob-cli-os hood | active |
+| [bob-cli-os.3](../bbugyi200.apollo.bob-cli-os.3/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.5](../bbugyi200.apollo.bob-cli-os.5/README.md) | bob-cli-os hood | waiting |
 | [bob-cli-os.6](../bbugyi200.apollo.bob-cli-os.6/README.md) | bob-cli-os hood | waiting |
 | [bob-cli-os.7](../bbugyi200.apollo.bob-cli-os.7/README.md) | bob-cli-os hood | waiting |
