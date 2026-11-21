@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-oe.8.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_oe_8_land__plan-261120_214034.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_oe_8_land__code-261120_214034.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/successor_jump_final_gaps.md
 
 

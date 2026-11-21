@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-oe` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-oe.8.land--plan [active]"]
+  n0["bob-cli-oe.8.land--plan [completed]"]
   n1["bob-cli-oe.8.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-oe.8.land--code [active]"]
+  n2["bob-cli-oe.8.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-oe.8.land--plan | active | gpt-6-astra / codex | 2026-11-21T13:27:15.550226+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-oe.8.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.8.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-oe.8.land--plan | completed | gpt-6-astra / codex | 2026-11-21T13:27:15.550226+00:00 → 2026-11-21T15:10:36.876901+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-oe.8.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.8.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-oe.8.land--gate | completed | gpt-6-astra / codex | 2026-11-21T13:40:12.358940+00:00 → 2026-11-21T13:40:21.060569+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.8.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-oe.8.land--code | active | grok-4.6 / grok | 2026-11-21T13:40:51.853499+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-oe.8.land--code/README.md#commits) | — | — |
+| <a id="member-code"></a>code | bob-cli-oe.8.land--code | completed | grok-4.6 / grok | 2026-11-21T13:40:51.853499+00:00 → 2026-11-21T15:10:36.876901+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-oe.8.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.8.land--code/chat.md) |
 
 ## Commits
 
