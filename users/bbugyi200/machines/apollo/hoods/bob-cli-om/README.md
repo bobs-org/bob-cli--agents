@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-om
 
-**Global hood:** `bbugyi200.apollo.bob-cli-om` · **Runs:** 13 · **Sessions:** 1 · **States:** active 1, completed 3, failed 1, waiting 8
+**Global hood:** `bbugyi200.apollo.bob-cli-om` · **Runs:** 13 · **Sessions:** 1 · **States:** completed 4, failed 1, waiting 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -17,5 +17,5 @@
 | [bob-cli-om.4](../../../../../../agents/bbugyi200.apollo.bob-cli-om.4/README.md) | waiting | gpt-6-luna / codex | 20261121103326 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-om.4/prompt.md) |
 | [bob-cli-om.1--1](../../../../../../sessions/bbugyi200.apollo.bob-cli-om.1.md#member-1) | completed | gpt-6-luna / codex | 2026-11-21T16:18:59.385058+00:00 → 2026-11-21T16:23:45.301821+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-om.1--1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-om.1--1/chat.md) |
 | [bob-cli-om.land](../../../../../../agents/bbugyi200.apollo.bob-cli-om.land/README.md) | waiting | opus / claude | 20261121103331 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-om.land/prompt.md) |
-| [bob-cli-om.8](../../../../../../agents/bbugyi200.apollo.bob-cli-om.8/README.md) | active | muse-spark-1.3-contributor / muse | 2026-11-21T16:24:04.672768+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-om.8/prompt.md) |
+| [bob-cli-om.8](../../../../../../agents/bbugyi200.apollo.bob-cli-om.8/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-21T16:24:04.672768+00:00 → 2026-11-21T17:22:10.714632+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-om.8/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-om.8/chat.md) |
 | [bob-cli-om.5](../../../../../../agents/bbugyi200.apollo.bob-cli-om.5/README.md) | waiting | grok-4.6 / grok | 20261121103327 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-om.5/prompt.md) |
