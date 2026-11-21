@@ -38,6 +38,6 @@
 | [bob-cli-oj.5.1.3](../bbugyi200.athena.bob-cli-oj.5.1.3/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.5.1.4](../bbugyi200.athena.bob-cli-oj.5.1.4/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.5.1.land](../../sessions/bbugyi200.athena.bob-cli-oj.5.1.land.md) (session · 3) | bob-cli-oj hood | completed 3 |
-| [bob-cli-oj.7](../bbugyi200.athena.bob-cli-oj.7/README.md) | bob-cli-oj hood | waiting |
+| [bob-cli-oj.7](../bbugyi200.athena.bob-cli-oj.7/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.8](../bbugyi200.athena.bob-cli-oj.8/README.md) | bob-cli-oj hood | waiting |
 | [bob-cli-oj.land](../bbugyi200.athena.bob-cli-oj.land/README.md) | bob-cli-oj hood | waiting |
