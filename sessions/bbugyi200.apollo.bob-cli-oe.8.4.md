@@ -2,29 +2,32 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-oe](../users/bbugyi200/machines/apollo/hoods/bob-cli-oe/README.md) / bob-cli-oe.8.4
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-oe` · Members: 2 · Bead: [bob-cli-oe.8.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oe/bob-cli-oe.8.4.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-oe` · Members: 3 · Bead: [bob-cli-oe.8.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oe/bob-cli-oe.8.4.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-oe.8.4--mon [active]"]
-  n1["bob-cli-oe.8.4--plan [completed]"]
+  n0["bob-cli-oe.8.4--mon [completed]"]
+  n1["bob-cli-oe.8.4--1 [completed]"]
   n0 --> n1
+  n2["bob-cli-oe.8.4--plan [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-oe.8.4--mon | active | grok-4.6 / grok | 2026-11-21T03:05:35.827043+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-oe.8.4--mon | completed | grok-4.6 / grok | 2026-11-21T03:05:35.827043+00:00 → 2026-11-21T03:31:24.670804+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.8.4--mon/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-oe.8.4--1 | completed | grok-4.6 / grok | 2026-11-21T03:31:24.462643+00:00 → 2026-11-21T03:34:21.727174+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-oe.8.4--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.8.4--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-oe.8.4--plan | completed | grok-4.6 / grok | 2026-11-21T02:41:11.148361+00:00 → 2026-11-21T03:07:58.058084+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-oe.8.4--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.8.4--plan/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-oe.8.1](bbugyi200.apollo.bob-cli-oe.8.1.md) (session · 2) | bob-cli-oe.8 hood | active 1, completed 1 |
+| [bob-cli-oe.8.1](bbugyi200.apollo.bob-cli-oe.8.1.md) (session · 3) | bob-cli-oe.8 hood | completed 3 |
 | [bob-cli-oe.8.2](bbugyi200.apollo.bob-cli-oe.8.2.md) (session · 2) | bob-cli-oe.8 hood | active 2 |
 | [bob-cli-oe.8.3](../agents/bbugyi200.apollo.bob-cli-oe.8.3/README.md) | bob-cli-oe.8 hood | waiting |
 | [bob-cli-oe.8.land](../agents/bbugyi200.apollo.bob-cli-oe.8.land/README.md) | bob-cli-oe.8 hood | waiting |
