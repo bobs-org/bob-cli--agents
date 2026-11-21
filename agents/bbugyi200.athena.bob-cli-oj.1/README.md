@@ -23,8 +23,13 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-oj.2](../bbugyi200.athena.bob-cli-oj.2/README.md) | bob-cli-oj hood | active |
-| [bob-cli-oj.3](../../sessions/bbugyi200.athena.bob-cli-oj.3.md) (session · 3) | bob-cli-oj hood | active 2, completed 1 |
+| [bob-cli-oj.2](../bbugyi200.athena.bob-cli-oj.2/README.md) | bob-cli-oj hood | completed |
+| [bob-cli-oj.3](../../sessions/bbugyi200.athena.bob-cli-oj.3.md) (session · 3) | bob-cli-oj hood | active 1, completed 2 |
+| [bob-cli-oj.3.1.1](../bbugyi200.athena.bob-cli-oj.3.1.1/README.md) | bob-cli-oj hood | active |
+| [bob-cli-oj.3.1.2](../bbugyi200.athena.bob-cli-oj.3.1.2/README.md) | bob-cli-oj hood | waiting |
+| [bob-cli-oj.3.1.3](../bbugyi200.athena.bob-cli-oj.3.1.3/README.md) | bob-cli-oj hood | waiting |
+| [bob-cli-oj.3.1.4](../bbugyi200.athena.bob-cli-oj.3.1.4/README.md) | bob-cli-oj hood | waiting |
+| [bob-cli-oj.3.1.land](../bbugyi200.athena.bob-cli-oj.3.1.land/README.md) | bob-cli-oj hood | waiting |
 | [bob-cli-oj.4](../bbugyi200.athena.bob-cli-oj.4/README.md) | bob-cli-oj hood | waiting |
 | [bob-cli-oj.5](../bbugyi200.athena.bob-cli-oj.5/README.md) | bob-cli-oj hood | waiting |
 | [bob-cli-oj.6](../bbugyi200.athena.bob-cli-oj.6/README.md) | bob-cli-oj hood | waiting |
