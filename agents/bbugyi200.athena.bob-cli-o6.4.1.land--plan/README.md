@@ -1,0 +1,55 @@
+# Agent: bob-cli-o6.4.1.land--plan
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-o6](../../users/bbugyi200/machines/athena/hoods/bob-cli-o6/README.md) / [bob-cli-o6.4.1.land](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.land.md) / bob-cli-o6.4.1.land--plan
+
+**Global name:** `bbugyi200.athena.bob-cli-o6.4.1.land--plan` · **State:** active · **Source run:** `run-f19738030ec3674428ee110f67a1711b`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-o6
+
+## Summary
+
+- Bead: [bob-cli-o6.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-o6/bob-cli-o6.4.1.md)
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-11-21T02:09:59.322773+00:00
+- Commits: 0
+- Variables: [1](#variables)
+
+## Files
+
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-o6.4.1, kind: file, label: Collection-card landing focused unit audit: 213 passing tests on b8b7baf, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261120134403/o6-co… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-o6.4.1
+  kind: file
+  label: Collection-card landing focused unit audit: 213 passing tests on b8b7baf
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261120134403/o6-collection-audit-tests-ecc010b53183.log
+  ref: file:explicit:853697ae77344b5b2c077384
+  source_path: /tmp/o6-collection-audit-tests.log
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-o6.4](../../sessions/bbugyi200.athena.bob-cli-o6.4.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-o6.4.1.1](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.1.md) (session · 3) | bob-cli-o6.4.1 hood | completed 3 |
+| [bob-cli-o6.4.1.2](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.2.md) (session · 3) | bob-cli-o6.4.1 hood | completed 3 |
+| [bob-cli-o6.4.1.3](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.3.md) (session · 3) | bob-cli-o6.4.1 hood | completed 3 |
+| [bob-cli-o6.1](../../sessions/bbugyi200.athena.bob-cli-o6.1.md) (session · 3) | bob-cli-o6 hood | completed 3 |
+| [bob-cli-o6.2](../../sessions/bbugyi200.athena.bob-cli-o6.2.md) (session · 3) | bob-cli-o6 hood | completed 3 |
+| [bob-cli-o6.3](../../sessions/bbugyi200.athena.bob-cli-o6.3.md) (session · 3) | bob-cli-o6 hood | completed 3 |
+| [bob-cli-o6.5](../../sessions/bbugyi200.athena.bob-cli-o6.5.md) (session · 3) | bob-cli-o6 hood | completed 3 |
+| [bob-cli-o6.6](../bbugyi200.athena.bob-cli-o6.6/README.md) | bob-cli-o6 hood | waiting |
+| [bob-cli-o6.7](../bbugyi200.athena.bob-cli-o6.7/README.md) | bob-cli-o6 hood | waiting |
+| [bob-cli-o6.land](../bbugyi200.athena.bob-cli-o6.land/README.md) | bob-cli-o6 hood | waiting |
