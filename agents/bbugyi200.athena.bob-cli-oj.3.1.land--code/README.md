@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-oj](../../users/bbugyi200/machines/athena/hoods/bob-cli-oj/README.md) / [bob-cli-oj.3.1.land](../../sessions/bbugyi200.athena.bob-cli-oj.3.1.land.md) / bob-cli-oj.3.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-oj.3.1.land--code` · **State:** active · **Source run:** `run-7d744f50f9526a3e1818490d97c585c5`
+**Global name:** `bbugyi200.athena.bob-cli-oj.3.1.land--code` · **State:** completed · **Source run:** `run-7d744f50f9526a3e1818490d97c585c5`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-oj
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-oj.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oj/bob-cli-oj.3.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-21T15:26:45.186939+00:00
-- Commits: 0
+- Timing: 2026-11-21T15:26:45.186939+00:00 → 2026-11-21T16:16:55.628941+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`7ac4fee`](https://github.com/bobs-org/bob-cli/commit/7ac4feeb043503a050e253dfe499da32c9ac1e04) | fix(albums): restore walk\_by at original slot and bind emitted selection | 2026-11-21 11:15:03 EST |
 
 ## Neighbors
 

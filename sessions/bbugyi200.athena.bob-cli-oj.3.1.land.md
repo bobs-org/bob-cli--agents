@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-oj` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-oj.3.1.land--gate [completed]"]
-  n1["bob-cli-oj.3.1.land--code [active]"]
+  n1["bob-cli-oj.3.1.land--code [completed]"]
   n0 --> n1
-  n2["bob-cli-oj.3.1.land--plan [active]"]
+  n2["bob-cli-oj.3.1.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-oj.3.1.land--gate | completed | gpt-6-astra / codex | 2026-11-21T15:26:04.545731+00:00 → 2026-11-21T15:26:11.585847+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-oj.3.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-oj.3.1.land--code | active | grok-4.6 / grok | 2026-11-21T15:26:45.186939+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-oj.3.1.land--plan | active | gpt-6-astra / codex | 2026-11-21T15:16:45.384941+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-oj.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-oj.3.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-oj.3.1.land--code | completed | grok-4.6 / grok | 2026-11-21T15:26:45.186939+00:00 → 2026-11-21T16:16:55.628941+00:00 | [1](../agents/bbugyi200.athena.bob-cli-oj.3.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-oj.3.1.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-oj.3.1.land--plan | completed | gpt-6-astra / codex | 2026-11-21T15:16:45.384941+00:00 → 2026-11-21T16:16:55.628941+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-oj.3.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-oj.3.1.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`7ac4fee`](https://github.com/bobs-org/bob-cli/commit/7ac4feeb043503a050e253dfe499da32c9ac1e04) | fix(albums): restore walk\_by at original slot and bind emitted selection | 2026-11-21 11:15:03 EST |
 
 ## Neighbors
 
