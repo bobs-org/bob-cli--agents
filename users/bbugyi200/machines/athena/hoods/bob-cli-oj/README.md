@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-oj
 
-**Global hood:** `bbugyi200.athena.bob-cli-oj` · **Runs:** 25 · **Sessions:** 3 · **States:** active 3, completed 11, failed 2, waiting 9
+**Global hood:** `bbugyi200.athena.bob-cli-oj` · **Runs:** 25 · **Sessions:** 3 · **States:** active 2, completed 13, failed 2, waiting 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -21,11 +21,11 @@
 | [bob-cli-oj.3.1.2--mon-0](../../../../../../sessions/bbugyi200.athena.bob-cli-oj.3.1.2.md#member-mon-0) | completed | gpt-6-luna / codex | 2026-11-21T13:51:33.207246+00:00 → 2026-11-21T13:55:42.273262+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.2--mon-0/chat.md) |
 | [bob-cli-oj.3.1.1](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.1/README.md) | completed | grok-4.6 / grok | 2026-11-21T12:52:24.573668+00:00 → 2026-11-21T13:26:13.286019+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.1/chat.md) |
 | [bob-cli-oj.land](../../../../../../agents/bbugyi200.athena.bob-cli-oj.land/README.md) | waiting | opus / claude | 20261121074252 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.land/prompt.md) |
-| [bob-cli-oj.1--2](../../../../../../sessions/bbugyi200.athena.bob-cli-oj.1.md#member-2) | active | gpt-6-astra / codex | 2026-11-21T14:44:44.664054+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.1--2/prompt.md) |
+| [bob-cli-oj.1--2](../../../../../../sessions/bbugyi200.athena.bob-cli-oj.1.md#member-2) | completed | gpt-6-astra / codex | 2026-11-21T14:44:44.664054+00:00 → 2026-11-21T14:47:13.357100+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.1--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-oj.1--2/chat.md) |
 | [bob-cli-oj.8](../../../../../../agents/bbugyi200.athena.bob-cli-oj.8/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261121074251 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.8/prompt.md) |
 | [bob-cli-oj.3.1.2--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-oj.3.1.2.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-21T13:44:47.781354+00:00 → 2026-11-21T13:49:20.564215+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.2--mon/chat.md) |
 | [bob-cli-oj.3--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-oj.3.md#member-plan) | active | gpt-6-astra / codex | 2026-11-21T12:43:47.858808+00:00 → 2026-11-21T12:50:40.750456+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3--plan/chat.md) |
-| [bob-cli-oj.3.1.3](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.3/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261121075145 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.3/prompt.md) |
+| [bob-cli-oj.3.1.3](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.3/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-21T13:58:54.917890+00:00 → 2026-11-21T14:49:37.840883+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.3/chat.md) |
 | [bob-cli-oj.3.1.land](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.land/README.md) | waiting | gpt-6-astra / codex | 20261121075147 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.3.1.land/prompt.md) |
 | [bob-cli-oj.6](../../../../../../agents/bbugyi200.athena.bob-cli-oj.6/README.md) | waiting | grok-4.6 / grok | 20261121074249 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.6/prompt.md) |
 | [bob-cli-oj.2](../../../../../../agents/bbugyi200.athena.bob-cli-oj.2/README.md) | completed | grok-4.6 / grok | 2026-11-21T12:43:36.024945+00:00 → 2026-11-21T13:07:11.454513+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-oj.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-oj.2/chat.md) |
