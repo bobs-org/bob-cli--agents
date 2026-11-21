@@ -12,10 +12,45 @@
 - Provider: codex
 - Timing: 20261121122731
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/spotify\_episode\_capture\_route/spotify\_episode\_capture\_route\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121122731/spotify\_ep… |
+| `diagrams` | {considered: 14, count: 2, manifest: 202611/spotify\_episode\_capture\_route/spotify\_episode\_capture\_route.diagrams.md, source\_ref: file:explicit:643f2d6036effaed10ec0915, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/spotify_episode_capture_route/spotify_episode_capture_route_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121122731/spotify_episode_capture_route_infographic-d22b9f7116fc.png
+  ref: file:explicit:406bd8c68e43afff5d893219
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/spotify_episode_capture_route/spotify_episode_capture_route_infographic.png
+- kind: markdown
+  label: diagrams:202611/spotify_episode_capture_route/spotify_episode_capture_route.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121122731/spotify_episode_capture_route.diagrams-22c4462000ae.md
+  ref: file:explicit:87596b95356f6f358d548ba8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/spotify_episode_capture_route/spotify_episode_capture_route.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 2
+manifest: 202611/spotify_episode_capture_route/spotify_episode_capture_route.diagrams.md
+source_ref: file:explicit:643f2d6036effaed10ec0915
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
