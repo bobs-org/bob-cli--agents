@@ -12,10 +12,45 @@
 - Provider: codex
 - Timing: 20261121093900
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/task\_reqs\_design/task\_reqs\_design.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121093900/task\_reqs\_design.diagrams-cce96543… |
+| `diagrams` | {considered: 16, count: 3, manifest: 202611/task\_reqs\_design/task\_reqs\_design.diagrams.md, source\_ref: file:explicit:36faf36a3b9815a489efeccc, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/task_reqs_design/task_reqs_design.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121093900/task_reqs_design.diagrams-cce965437f80.md
+  ref: file:explicit:cfdf4c4c749785ee49f429be
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/task_reqs_design/task_reqs_design.diagrams.md
+- kind: image
+  label: Task requirements infographic
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121093900/task_reqs_design_infographic-c6fe85718be6.png
+  ref: file:explicit:e2c157e7197c25b0e5e7f445
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_14/sase/repos/research/202611/task_reqs_design/task_reqs_design_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 16
+count: 3
+manifest: 202611/task_reqs_design/task_reqs_design.diagrams.md
+source_ref: file:explicit:36faf36a3b9815a489efeccc
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +59,7 @@
 | [research.5p.cdx](../bbugyi200.apollo.research.5p.cdx/README.md) | research.5p hood | completed |
 | [research.5p.cld](../bbugyi200.apollo.research.5p.cld/README.md) | research.5p hood | completed |
 | [research.5p.final](../bbugyi200.apollo.research.5p.final/README.md) | research.5p hood | completed |
-| [research.5p.final.w0](../bbugyi200.apollo.research.5p.final.w0/README.md) | research.5p hood | active |
+| [research.5p.final.w0](../bbugyi200.apollo.research.5p.final.w0/README.md) | research.5p hood | completed |
 | [research.5p.gem](../bbugyi200.apollo.research.5p.gem/README.md) | research.5p hood | completed |
 | [research.5p.grk](../bbugyi200.apollo.research.5p.grk/README.md) | research.5p hood | completed |
 | [research.5p.linker](../bbugyi200.apollo.research.5p.linker/README.md) | research.5p hood | waiting |
@@ -79,4 +114,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 1121 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 1129 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
