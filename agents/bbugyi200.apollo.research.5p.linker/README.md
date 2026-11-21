@@ -27,7 +27,7 @@
 | [research.5p.final.w0](../bbugyi200.apollo.research.5p.final.w0/README.md) | research.5p hood | completed |
 | [research.5p.gem](../bbugyi200.apollo.research.5p.gem/README.md) | research.5p hood | completed |
 | [research.5p.grk](../bbugyi200.apollo.research.5p.grk/README.md) | research.5p hood | completed |
-| [research.5p.image](../bbugyi200.apollo.research.5p.image/README.md) | research.5p hood | waiting |
+| [research.5p.image](../bbugyi200.apollo.research.5p.image/README.md) | research.5p hood | completed |
 | [research.5p.mus](../bbugyi200.apollo.research.5p.mus/README.md) | research.5p hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
