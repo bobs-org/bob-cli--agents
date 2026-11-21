@@ -40,7 +40,7 @@
 | [bob-cli-oj.5.1.1](../bbugyi200.athena.bob-cli-oj.5.1.1/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.5.1.2](../bbugyi200.athena.bob-cli-oj.5.1.2/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.5.1.3](../bbugyi200.athena.bob-cli-oj.5.1.3/README.md) | bob-cli-oj hood | completed |
-| [bob-cli-oj.5.1.4](../bbugyi200.athena.bob-cli-oj.5.1.4/README.md) | bob-cli-oj hood | waiting |
+| [bob-cli-oj.5.1.4](../bbugyi200.athena.bob-cli-oj.5.1.4/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.5.1.land](../bbugyi200.athena.bob-cli-oj.5.1.land/README.md) | bob-cli-oj hood | waiting |
 | [bob-cli-oj.6](../bbugyi200.athena.bob-cli-oj.6/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.7](../bbugyi200.athena.bob-cli-oj.7/README.md) | bob-cli-oj hood | waiting |
