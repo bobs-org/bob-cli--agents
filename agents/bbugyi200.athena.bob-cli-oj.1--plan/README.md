@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-oj](../../users/bbugyi200/machines/athena/hoods/bob-cli-oj/README.md) / [bob-cli-oj.1](../../sessions/bbugyi200.athena.bob-cli-oj.1.md) / bob-cli-oj.1--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-oj.1--plan` · **State:** completed · **Source run:** `run-8ee06e109f5f0cd598e0a95149ee24dd`
+**Global name:** `bbugyi200.athena.bob-cli-oj.1--plan` · **State:** completed · **Source run:** `run-fa45779315bf1062d044ca821c70a3c1`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-oj
 
@@ -11,12 +11,32 @@
 - Bead: [bob-cli-oj.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oj/bob-cli-oj.1.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-21T13:17:13.899550+00:00 → 2026-11-21T13:35:15.244951+00:00
+- Timing: 2026-11-21T14:22:29.176712+00:00 → 2026-11-21T14:34:17.685756+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-oj.1, kind: file, label: Recovered Navigation 2.96.1 source and tests matching approved deployment hashes, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121092148… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-oj.1
+  kind: file
+  label: Recovered Navigation 2.96.1 source and tests matching approved deployment hashes
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121092148/bob-cli-oj1-restored-source.tar-114014f49575.gz
+  ref: file:explicit:f0588487197e47234e4910fc
+  source_path: /tmp/bob-cli-oj1-restored-source.tar.gz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

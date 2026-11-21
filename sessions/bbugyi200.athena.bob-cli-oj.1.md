@@ -8,12 +8,12 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-oj` · Members: 4 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-oj.1--gate [active]"]
-  n1["bob-cli-oj.1--plan [completed]"]
+  n0["bob-cli-oj.1--mon [active]"]
+  n1["bob-cli-oj.1--gate [active]"]
   n0 --> n1
   n2["bob-cli-oj.1--1 [completed]"]
   n0 --> n2
-  n3["bob-cli-oj.1--mon [failed]"]
+  n3["bob-cli-oj.1--plan [completed]"]
   n0 --> n3
 ```
 
@@ -21,10 +21,31 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
+| <a id="member-mon"></a>mon | bob-cli-oj.1--mon | active | gpt-6-astra / codex | 2026-11-21T14:32:42.034015+00:00 | 0 | — | — |
 | <a id="member-gate"></a>gate | bob-cli-oj.1--gate | active | gpt-6-astra / codex | 2026-11-21T13:48:03.650356+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-oj.1--plan | completed | gpt-6-astra / codex | 2026-11-21T13:17:13.899550+00:00 → 2026-11-21T13:35:15.244951+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-oj.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-oj.1--plan/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-oj.1--1 | completed | gpt-6-astra / codex | 2026-11-21T13:37:42.667094+00:00 → 2026-11-21T13:46:29.803529+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-oj.1--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-oj.1--1/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-oj.1--mon | failed | gpt-6-astra / codex | 2026-11-21T13:34:39.551879+00:00 → 2026-11-21T13:37:42.777588+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-oj.1--mon/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-oj.1--plan | completed | gpt-6-astra / codex | 2026-11-21T14:22:29.176712+00:00 → 2026-11-21T14:34:17.685756+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-oj.1--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-oj.1--plan/chat.md) |
+
+## Variables
+
+| Role | Variable | Value |
+|---|---|---|
+| plan | `artifacts` | \[{bead: bob-cli-oj.1, kind: file, label: Recovered Navigation 2.96.1 source and tests matching approved deployment hashes, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261121092148… |
+
+#### artifacts
+
+**Role:** `plan`
+
+```yaml
+- bead: bob-cli-oj.1
+  kind: file
+  label: Recovered Navigation 2.96.1 source and tests matching approved deployment hashes
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261121092148/bob-cli-oj1-restored-source.tar-114014f49575.gz
+  ref: file:explicit:f0588487197e47234e4910fc
+  source_path: /tmp/bob-cli-oj1-restored-source.tar.gz
+```
+
+Values are truncated for display; see each member's agent meta.json for the full values.
 
 ## Neighbors
 
