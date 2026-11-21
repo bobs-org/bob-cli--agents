@@ -9,8 +9,8 @@
 ## Summary
 
 - Bead: [bob-cli-o6.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-o6/bob-cli-o6.4.1.md)
-- Model: opus
-- Provider: claude
+- Model: gpt-6-astra
+- Provider: codex
 - Timing: 20261120134403
 - Commits: 0
 
@@ -24,7 +24,7 @@
 |---|---|---|
 | [bob-cli-o6.4](../../sessions/bbugyi200.athena.bob-cli-o6.4.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-o6.4.1.1](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.1.md) (session · 3) | bob-cli-o6.4.1 hood | completed 3 |
-| [bob-cli-o6.4.1.2](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.2.md) (session · 3) | bob-cli-o6.4.1 hood | active 2, completed 1 |
+| [bob-cli-o6.4.1.2](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.2.md) (session · 3) | bob-cli-o6.4.1 hood | completed 3 |
 | [bob-cli-o6.4.1.3](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.3.md) (session · 3) | bob-cli-o6.4.1 hood | completed 3 |
 | [bob-cli-o6.1](../../sessions/bbugyi200.athena.bob-cli-o6.1.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.2](../../sessions/bbugyi200.athena.bob-cli-o6.2.md) (session · 3) | bob-cli-o6 hood | completed 3 |
