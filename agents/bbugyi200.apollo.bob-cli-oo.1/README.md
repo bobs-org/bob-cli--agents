@@ -31,5 +31,5 @@
 |---|---|---|
 | [bob-cli-oo.2](../bbugyi200.apollo.bob-cli-oo.2/README.md) | bob-cli-oo hood | completed |
 | [bob-cli-oo.3](../../sessions/bbugyi200.apollo.bob-cli-oo.3.md) (session · 5) | bob-cli-oo hood | completed 3, failed 2 |
-| [bob-cli-oo.4](../bbugyi200.apollo.bob-cli-oo.4/README.md) | bob-cli-oo hood | waiting |
+| [bob-cli-oo.4](../bbugyi200.apollo.bob-cli-oo.4/README.md) | bob-cli-oo hood | completed |
 | [bob-cli-oo.land](../bbugyi200.apollo.bob-cli-oo.land/README.md) | bob-cli-oo hood | waiting |
