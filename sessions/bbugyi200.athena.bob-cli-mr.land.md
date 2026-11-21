@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`da13fee`](https://github.com/bobs-org/bob-cli/commit/da13fee39e9c8c1dc2f7a12284bdb195ad48b705) | feat(scan): snapshot the full pre-planning read-set | 2026-11-17 18:56:04 EST |
+| 1 | — | `da13fee` | feat(scan): snapshot the full pre-planning read-set | 2026-11-17 18:56:04 EST |
 
 ## Variables
 
@@ -86,7 +86,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 |---|---|---|
 | [bob-cli-mr.1](../agents/bbugyi200.athena.bob-cli-mr.1/README.md) | bob-cli-mr hood | completed |
 | [bob-cli-mr.2](bbugyi200.athena.bob-cli-mr.2.md) (session · 3) | bob-cli-mr hood | completed 3 |
-| [bob-cli-mr.3](bbugyi200.athena.bob-cli-mr.3.md) (session · 3) | bob-cli-mr hood | active 1, completed 2 |
+| [bob-cli-mr.3](bbugyi200.athena.bob-cli-mr.3.md) (session · 3) | bob-cli-mr hood | completed 2, dismissed 1 |
 | [bob-cli-mr.3.1.1](../agents/bbugyi200.athena.bob-cli-mr.3.1.1/README.md) | bob-cli-mr hood | completed |
 | [bob-cli-mr.3.1.2](bbugyi200.athena.bob-cli-mr.3.1.2.md) (session · 5) | bob-cli-mr hood | completed 4, failed 1 |
 | [bob-cli-mr.3.1.3](bbugyi200.athena.bob-cli-mr.3.1.3.md) (session · 3) | bob-cli-mr hood | completed 3 |

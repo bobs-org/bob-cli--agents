@@ -48,7 +48,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-mr.3](../../sessions/bbugyi200.athena.bob-cli-mr.3.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-mr.3](../../sessions/bbugyi200.athena.bob-cli-mr.3.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-mr.3.1.1](../bbugyi200.athena.bob-cli-mr.3.1.1/README.md) | bob-cli-mr.3.1 hood | completed |
 | [bob-cli-mr.3.1.2](../../sessions/bbugyi200.athena.bob-cli-mr.3.1.2.md) (session · 5) | bob-cli-mr.3.1 hood | completed 4, failed 1 |
 | [bob-cli-mr.3.1.3](../../sessions/bbugyi200.athena.bob-cli-mr.3.1.3.md) (session · 3) | bob-cli-mr.3.1 hood | completed 3 |

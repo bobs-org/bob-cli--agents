@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2f14eef`](https://github.com/bobs-org/bob-cli/commit/2f14eef5dcbdcd46151ae9b87fb94ac4784496c9) | fix(vault-sync): corroborate created-time identity matches | 2026-11-17 22:00:47 EST |
+| — | `2f14eef` | fix(vault-sync): corroborate created-time identity matches | 2026-11-17 22:00:47 EST |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-my.1](../../sessions/bbugyi200.athena.bob-cli-my.1.md) (session · 3) | bob-cli-my hood | completed 3 |
 | [bob-cli-my.2](../bbugyi200.athena.bob-cli-my.2/README.md) | bob-cli-my hood | completed |
 | [bob-cli-my.3](../bbugyi200.athena.bob-cli-my.3/README.md) | bob-cli-my hood | completed |
-| [bob-cli-my.land](../../sessions/bbugyi200.athena.bob-cli-my.land.md) (session · 3) | bob-cli-my hood | active 2, completed 1 |
+| [bob-cli-my.land](../../sessions/bbugyi200.athena.bob-cli-my.land.md) (session · 3) | bob-cli-my hood | completed 1, dismissed 2 |

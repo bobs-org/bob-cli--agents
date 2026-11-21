@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`0a30995`](https://github.com/bobs-org/bob-cli/commit/0a3099506e6d2629b9dd1d4c0e176126ffa68e1d) | fix(capture): preserve Pomodoro preview identity and report settled name | 2026-11-17 21:07:36 EST |
+| — | `0a30995` | fix(capture): preserve Pomodoro preview identity and report settled name | 2026-11-17 21:07:36 EST |
 
 ## Neighbors
 
@@ -32,4 +32,4 @@
 | [bob-cli-my.1](../../sessions/bbugyi200.athena.bob-cli-my.1.md) (session · 3) | bob-cli-my hood | completed 3 |
 | [bob-cli-my.3](../bbugyi200.athena.bob-cli-my.3/README.md) | bob-cli-my hood | completed |
 | [bob-cli-my.4](../bbugyi200.athena.bob-cli-my.4/README.md) | bob-cli-my hood | completed |
-| [bob-cli-my.land](../../sessions/bbugyi200.athena.bob-cli-my.land.md) (session · 3) | bob-cli-my hood | active 2, completed 1 |
+| [bob-cli-my.land](../../sessions/bbugyi200.athena.bob-cli-my.land.md) (session · 3) | bob-cli-my hood | completed 1, dismissed 2 |

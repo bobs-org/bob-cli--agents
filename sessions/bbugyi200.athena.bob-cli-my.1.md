@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`9950a3d`](https://github.com/bobs-org/bob-cli/commit/9950a3d4f4c4793774308587696929fb22502e32) | fix(capture): refuse ambiguous notebook bullets | 2026-11-17 20:18:53 EST |
+| 1 | — | `9950a3d` | fix(capture): refuse ambiguous notebook bullets | 2026-11-17 20:18:53 EST |
 
 ## Neighbors
 
@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-my.2](../agents/bbugyi200.athena.bob-cli-my.2/README.md) | bob-cli-my hood | completed |
 | [bob-cli-my.3](../agents/bbugyi200.athena.bob-cli-my.3/README.md) | bob-cli-my hood | completed |
 | [bob-cli-my.4](../agents/bbugyi200.athena.bob-cli-my.4/README.md) | bob-cli-my hood | completed |
-| [bob-cli-my.land](bbugyi200.athena.bob-cli-my.land.md) (session · 3) | bob-cli-my hood | active 2, completed 1 |
+| [bob-cli-my.land](bbugyi200.athena.bob-cli-my.land.md) (session · 3) | bob-cli-my hood | completed 1, dismissed 2 |

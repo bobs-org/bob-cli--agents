@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-my` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-my.land--plan [active]"]
-  n1["bob-cli-my.land--mon [active]"]
+  n0["bob-cli-my.land--plan [dismissed]"]
+  n1["bob-cli-my.land--mon [dismissed]"]
   n0 --> n1
   n2["bob-cli-my.land--gate [completed]"]
   n0 --> n2
@@ -19,8 +19,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-my.land--plan | active | gpt-6-astra / codex | 2026-11-18T03:03:54.839757+00:00 → 2026-11-18T03:21:26.662103+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-my.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-my.land--plan/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-my.land--mon | active | gpt-6-astra / codex | 2026-11-18T03:21:07.588725+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-my.land--plan | dismissed | gpt-6-astra / codex | 2026-11-17T22:03:54.839757 → 2026-11-17T22:21:27.081033 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-my.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-my.land--plan/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-my.land--mon | dismissed | gpt-6-astra / codex | 2026-11-17T22:21:07.588725 → 2026-11-17T22:24:20.192934 | 0 | — | — |
 | <a id="member-gate"></a>gate | bob-cli-my.land--gate | completed | gpt-6-astra / codex | 2026-11-18T03:20:44.019662+00:00 → 2026-11-18T03:21:12.174495+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-my.land--gate/chat.md) |
 
 ## Neighbors
