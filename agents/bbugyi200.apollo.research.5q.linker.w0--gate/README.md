@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / [research.5q.linker.w0](../../sessions/bbugyi200.apollo.research.5q.linker.w0.md) / research.5q.linker.w0--gate
 
-**Global name:** `bbugyi200.apollo.research.5q.linker.w0--gate` · **State:** active · **Source run:** `run-d264300961af0fb25e1e521e0779bc71`
+**Global name:** `bbugyi200.apollo.research.5q.linker.w0--gate` · **State:** completed · **Source run:** `run-d264300961af0fb25e1e521e0779bc71`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,8 +10,12 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-21T16:25:48.738448+00:00
+- Timing: 2026-11-21T17:06:34.807984+00:00 → 2026-11-21T17:07:03.434089+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -75,4 +79,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 1130 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 1138 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
