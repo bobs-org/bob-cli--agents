@@ -12,7 +12,13 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 2026-11-21T13:40:51.853499+00:00
-- Commits: 0
+- Commits: [1](#commits)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`05c1679`](https://github.com/bobs-org/bob-cli/commit/05c1679a0c2377822b27d6915273acd26fa70d0f) | fix(capture): preserve ID-less jump identity across later insertions | 2026-11-21 09:55:39 EST |
 
 ## Neighbors
 

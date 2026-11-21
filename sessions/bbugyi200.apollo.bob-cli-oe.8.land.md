@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-oe.8.land--plan | active | gpt-6-astra / codex | 2026-11-21T13:27:15.550226+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-oe.8.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.8.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-oe.8.land--gate | completed | gpt-6-astra / codex | 2026-11-21T13:40:12.358940+00:00 → 2026-11-21T13:40:21.060569+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.8.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-oe.8.land--code | active | grok-4.6 / grok | 2026-11-21T13:40:51.853499+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-oe.8.land--code | active | grok-4.6 / grok | 2026-11-21T13:40:51.853499+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-oe.8.land--code/README.md#commits) | — | — |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`05c1679`](https://github.com/bobs-org/bob-cli/commit/05c1679a0c2377822b27d6915273acd26fa70d0f) | fix(capture): preserve ID-less jump identity across later insertions | 2026-11-21 09:55:39 EST |
 
 ## Variables
 
