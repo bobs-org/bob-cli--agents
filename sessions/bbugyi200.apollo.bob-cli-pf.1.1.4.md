@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / bob-cli-pf.1.1.4
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-pf` · Members: 6 · Bead: [bob-cli-pf.1.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.1.1.4.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-pf` · Members: 7 · Bead: [bob-cli-pf.1.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.1.1.4.md)
 
 ## Lineage
 
@@ -15,10 +15,12 @@ flowchart TD
   n0 --> n2
   n3["bob-cli-pf.1.1.4--2 [completed]"]
   n0 --> n3
-  n4["bob-cli-pf.1.1.4--mon-1 [active]"]
+  n4["bob-cli-pf.1.1.4--mon-1 [failed]"]
   n0 --> n4
-  n5["bob-cli-pf.1.1.4--plan [completed]"]
+  n5["bob-cli-pf.1.1.4--3 [active]"]
   n0 --> n5
+  n6["bob-cli-pf.1.1.4--plan [completed]"]
+  n0 --> n6
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -29,7 +31,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | bob-cli-pf.1.1.4--1 | completed | gpt-6-luna / codex | 2026-11-22T23:11:56.955383+00:00 → 2026-11-22T23:15:24.808557+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-pf.1.1.4--mon | failed | gpt-6-luna / codex | 2026-11-22T23:06:01.531189+00:00 → 2026-11-22T23:11:57.018081+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--mon/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-pf.1.1.4--2 | completed | gpt-6-luna / codex | 2026-11-22T23:20:29.853707+00:00 → 2026-11-22T23:27:24.307971+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--2/chat.md) |
-| <a id="member-mon-1"></a>mon-1 | bob-cli-pf.1.1.4--mon-1 | active | gpt-6-luna / codex | 2026-11-22T23:23:43.073933+00:00 | 0 | — | — |
+| <a id="member-mon-1"></a>mon-1 | bob-cli-pf.1.1.4--mon-1 | failed | gpt-6-luna / codex | 2026-11-22T23:23:43.073933+00:00 → 2026-11-22T23:32:51.030019+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--mon-1/chat.md) |
+| <a id="member-3"></a>3 | bob-cli-pf.1.1.4--3 | active | gpt-6-luna / codex | 2026-11-22T23:32:50.632285+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--3/prompt.md) | — |
 | <a id="member-plan"></a>plan | bob-cli-pf.1.1.4--plan | completed | gpt-6-luna / codex | 2026-11-22T22:53:46.367825+00:00 → 2026-11-22T23:07:09.246740+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--plan/chat.md) |
 
 ## Neighbors
@@ -44,7 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-pf.1.1.land](../agents/bbugyi200.apollo.bob-cli-pf.1.1.land/README.md) | bob-cli-pf.1.1 hood | waiting |
 | [bob-cli-pf.2](bbugyi200.apollo.bob-cli-pf.2.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
 | [bob-cli-pf.2.1.1](bbugyi200.apollo.bob-cli-pf.2.1.1.md) (session · 3) | bob-cli-pf hood | completed 3 |
-| [bob-cli-pf.2.1.2](bbugyi200.apollo.bob-cli-pf.2.1.2.md) (session · 2) | bob-cli-pf hood | active 1, completed 1 |
+| [bob-cli-pf.2.1.2](bbugyi200.apollo.bob-cli-pf.2.1.2.md) (session · 3) | bob-cli-pf hood | active 1, completed 1, failed 1 |
 | [bob-cli-pf.2.1.3](../agents/bbugyi200.apollo.bob-cli-pf.2.1.3/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.2.1.land](../agents/bbugyi200.apollo.bob-cli-pf.2.1.land/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.3](../agents/bbugyi200.apollo.bob-cli-pf.3/README.md) | bob-cli-pf hood | completed |
