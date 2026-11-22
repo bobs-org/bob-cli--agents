@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5y.linker
 
-**Global name:** `bbugyi200.apollo.research.5y.linker` · **State:** waiting · **Source run:** `run-1cca9123b653d680cf663c256e59eed3`
+**Global name:** `bbugyi200.apollo.research.5y.linker` · **State:** completed · **Source run:** `run-1cca9123b653d680cf663c256e59eed3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261122172238
+- Timing: 2026-11-22T23:26:12.770173+00:00 → 2026-11-22T23:38:43.632833+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/area\_project\_property\_cards/area\_project\_property\_cards.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122172238/area\_project\_property… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/area_project_property_cards/area_project_property_cards.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122172238/area_project_property_cards-45f3ed39bc9b.md
+  ref: file:explicit:de193bbfb888dedd3907f0a9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/area_project_property_cards/area_project_property_cards.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
