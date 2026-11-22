@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.8.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-on.8.1.2` · **State:** waiting · **Source run:** `run-55e74b695e857189d839709b328d653e`
+**Global name:** `bbugyi200.athena.bob-cli-on.8.1.2` · **State:** completed · **Source run:** `run-55e74b695e857189d839709b328d653e`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-on.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.8.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261122072338
-- Commits: 0
+- Timing: 2026-11-22T13:05:20.025004+00:00 → 2026-11-22T13:44:00.457506+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`0a83bb1`](https://github.com/bobs-org/bob-cli/commit/0a83bb1c4f7a4466e5cd218afa7a0999556e2fbb) | feat(task-complete): add requirement verdict selection model | 2026-11-22 08:42:58 EST |
 
 ## Neighbors
 
