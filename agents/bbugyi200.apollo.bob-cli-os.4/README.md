@@ -72,4 +72,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-os.7](../bbugyi200.apollo.bob-cli-os.7/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.8](../bbugyi200.apollo.bob-cli-os.8/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.9](../../sessions/bbugyi200.apollo.bob-cli-os.9.md) (session · 3) | bob-cli-os hood | completed 3 |
-| [bob-cli-os.land](../bbugyi200.apollo.bob-cli-os.land/README.md) | bob-cli-os hood | waiting |
+| [bob-cli-os.land](../bbugyi200.apollo.bob-cli-os.land/README.md) | bob-cli-os hood | completed |
