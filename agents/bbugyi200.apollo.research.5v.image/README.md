@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5v.image
 
-**Global name:** `bbugyi200.apollo.research.5v.image` · **State:** waiting · **Source run:** `run-31f58e13c26e0c8dc337d53eadebbea2`
+**Global name:** `bbugyi200.apollo.research.5v.image` · **State:** completed · **Source run:** `run-31f58e13c26e0c8dc337d53eadebbea2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261122120057
+- Timing: 2026-11-22T17:56:25.131448+00:00 → 2026-11-22T18:06:38.896818+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/card\_owned\_frontmatter/card\_owned\_frontmatter\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122120057/card\_owned\_frontma… |
+| `diagrams` | {considered: 9, count: 2, manifest: 202611/card\_owned\_frontmatter/card\_owned\_frontmatter.diagrams.md, source\_ref: file:explicit:059d3a55518d45f72ce4ecb7, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/card_owned_frontmatter/card_owned_frontmatter_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122120057/card_owned_frontmatter_infographic-fd07e6769144.png
+  ref: file:explicit:d5fa0e7039ac8afe3d295f7a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/card_owned_frontmatter/card_owned_frontmatter_infographic.png
+- kind: markdown
+  label: diagrams:202611/card_owned_frontmatter/card_owned_frontmatter.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122120057/card_owned_frontmatter.diagrams-bacd1d15f727.md
+  ref: file:explicit:478c2abc8dcabc9d7f11454e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/card_owned_frontmatter/card_owned_frontmatter.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 9
+count: 2
+manifest: 202611/card_owned_frontmatter/card_owned_frontmatter.diagrams.md
+source_ref: file:explicit:059d3a55518d45f72ce4ecb7
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
