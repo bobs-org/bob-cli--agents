@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me finish whatever work remains on the bob-cli-oz bead and then close it? %m:gpt-6-astra
