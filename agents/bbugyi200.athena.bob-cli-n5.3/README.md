@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`612d134`](https://github.com/bobs-org/bob-cli/commit/612d134278173c650dadfe5f63b14e9690c78b6e) | fix(capture): keep record field punctuation literal during rewrite | 2026-11-18 00:46:18 EST |
+| — | `612d134` | fix(capture): keep record field punctuation literal during rewrite | 2026-11-18 00:46:18 EST |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-n5.2](../../sessions/bbugyi200.athena.bob-cli-n5.2.md) (session · 5) | bob-cli-n5 hood | completed 4, failed 1 |
 | [bob-cli-n5.4](../bbugyi200.athena.bob-cli-n5.4/README.md) | bob-cli-n5 hood | completed |
 | [bob-cli-n5.5](../bbugyi200.athena.bob-cli-n5.5/README.md) | bob-cli-n5 hood | completed |
-| [bob-cli-n5.land](../../sessions/bbugyi200.athena.bob-cli-n5.land.md) (session · 3) | bob-cli-n5 hood | active 1, completed 2 |
+| [bob-cli-n5.land](../../sessions/bbugyi200.athena.bob-cli-n5.land.md) (session · 3) | bob-cli-n5 hood | completed 2, dismissed 1 |

@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f1d98b7`](https://github.com/bobs-org/bob-cli/commit/f1d98b7fc1f79a42759573ca6fa748d6a473d243) | fix(gmail): honor Reply-To for plain replies | 2026-11-18 01:13:24 EST |
+| — | `f1d98b7` | fix(gmail): honor Reply-To for plain replies | 2026-11-18 01:13:24 EST |
 
 ## Neighbors
 
@@ -33,4 +33,4 @@
 | [bob-cli-n5.2](../../sessions/bbugyi200.athena.bob-cli-n5.2.md) (session · 5) | bob-cli-n5 hood | completed 4, failed 1 |
 | [bob-cli-n5.3](../bbugyi200.athena.bob-cli-n5.3/README.md) | bob-cli-n5 hood | completed |
 | [bob-cli-n5.5](../bbugyi200.athena.bob-cli-n5.5/README.md) | bob-cli-n5 hood | completed |
-| [bob-cli-n5.land](../../sessions/bbugyi200.athena.bob-cli-n5.land.md) (session · 3) | bob-cli-n5 hood | active 1, completed 2 |
+| [bob-cli-n5.land](../../sessions/bbugyi200.athena.bob-cli-n5.land.md) (session · 3) | bob-cli-n5 hood | completed 2, dismissed 1 |

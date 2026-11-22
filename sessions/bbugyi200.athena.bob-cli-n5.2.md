@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | bob-cli | [`f2a6179`](https://github.com/bobs-org/bob-cli/commit/f2a61792ad1c1cae50d9fd0cbc6ba97994c689ec) | fix(capture): guard unknown short options | 2026-11-18 00:03:48 EST |
+| 2 | — | `f2a6179` | fix(capture): guard unknown short options | 2026-11-18 00:03:48 EST |
 
 ## Neighbors
 
@@ -43,4 +43,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-n5.3](../agents/bbugyi200.athena.bob-cli-n5.3/README.md) | bob-cli-n5 hood | completed |
 | [bob-cli-n5.4](../agents/bbugyi200.athena.bob-cli-n5.4/README.md) | bob-cli-n5 hood | completed |
 | [bob-cli-n5.5](../agents/bbugyi200.athena.bob-cli-n5.5/README.md) | bob-cli-n5 hood | completed |
-| [bob-cli-n5.land](bbugyi200.athena.bob-cli-n5.land.md) (session · 3) | bob-cli-n5 hood | active 1, completed 2 |
+| [bob-cli-n5.land](bbugyi200.athena.bob-cli-n5.land.md) (session · 3) | bob-cli-n5 hood | completed 2, dismissed 1 |
