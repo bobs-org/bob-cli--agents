@@ -32,11 +32,17 @@
 | [bob-cli-on.10.1.5](../bbugyi200.athena.bob-cli-on.10.1.5/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.10.1.6](../bbugyi200.athena.bob-cli-on.10.1.6/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.10.1.land](../../sessions/bbugyi200.athena.bob-cli-on.10.1.land.md) (session · 3) | bob-cli-on hood | completed 3 |
-| [bob-cli-on.11](../bbugyi200.athena.bob-cli-on.11/README.md) | bob-cli-on hood | waiting |
+| [bob-cli-on.11](../../sessions/bbugyi200.athena.bob-cli-on.11.md) (session · 3) | bob-cli-on hood | active 2, completed 1 |
 | [bob-cli-on.12](../bbugyi200.athena.bob-cli-on.12/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.13](../../sessions/bbugyi200.athena.bob-cli-on.13.md) (session · 5) | bob-cli-on hood | completed 4, failed 1 |
 | [bob-cli-on.14](../bbugyi200.athena.bob-cli-on.14/README.md) | bob-cli-on hood | completed |
-| [bob-cli-on.15](../bbugyi200.athena.bob-cli-on.15/README.md) | bob-cli-on hood | waiting |
+| [bob-cli-on.15](../../sessions/bbugyi200.athena.bob-cli-on.15.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
+| [bob-cli-on.15.1.1](../bbugyi200.athena.bob-cli-on.15.1.1/README.md) | bob-cli-on hood | active |
+| [bob-cli-on.15.1.2](../bbugyi200.athena.bob-cli-on.15.1.2/README.md) | bob-cli-on hood | waiting |
+| [bob-cli-on.15.1.3](../bbugyi200.athena.bob-cli-on.15.1.3/README.md) | bob-cli-on hood | waiting |
+| [bob-cli-on.15.1.4](../bbugyi200.athena.bob-cli-on.15.1.4/README.md) | bob-cli-on hood | waiting |
+| [bob-cli-on.15.1.5](../bbugyi200.athena.bob-cli-on.15.1.5/README.md) | bob-cli-on hood | waiting |
+| [bob-cli-on.15.1.land](../bbugyi200.athena.bob-cli-on.15.1.land/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.16](../../sessions/bbugyi200.athena.bob-cli-on.16.md) (session · 9) | bob-cli-on hood | completed 9 |
 | [bob-cli-on.17](../bbugyi200.athena.bob-cli-on.17/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.2](../../sessions/bbugyi200.athena.bob-cli-on.2.md) (session · 5) | bob-cli-on hood | completed 4, failed 1 |
