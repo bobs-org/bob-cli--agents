@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5y.cdx
 
-**Global name:** `bbugyi200.apollo.research.5y.cdx` · **State:** active · **Source run:** `run-e042c41b0d3c7e37b30c37fe643dcc5e`
+**Global name:** `bbugyi200.apollo.research.5y.cdx` · **State:** completed · **Source run:** `run-e042c41b0d3c7e37b30c37fe643dcc5e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,41 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-22T22:23:41.344069+00:00
+- Timing: 2026-11-22T22:23:41.344069+00:00 → 2026-11-22T22:36:40.201408+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: file, label: research:202611/area\_project\_property\_cards\_\_cdx.svg, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122172230/area\_project\_property\_cards\_\_cdx-9cccd617741c.s… |
+
+#### artifacts
+
+```yaml
+- kind: file
+  label: research:202611/area_project_property_cards__cdx.svg
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122172230/area_project_property_cards__cdx-9cccd617741c.svg
+  ref: file:explicit:06894434e70f962f2d4a5aa5
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/area_project_property_cards__cdx.svg
+- kind: image
+  label: research:202611/area_project_property_cards__cdx.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122172230/area_project_property_cards__cdx-732002e16c67.png
+  ref: file:explicit:0836b8f01a52a9affeec3250
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/area_project_property_cards__cdx.png
+- kind: markdown
+  label: research:202611/area_project_property_cards__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122172230/area_project_property_cards__cdx-6dfb267459a0.md
+  ref: file:explicit:b6f2b9bccfc061ba37abfcb9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/area_project_property_cards__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
