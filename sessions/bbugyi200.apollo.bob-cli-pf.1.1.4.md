@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["bob-cli-pf.1.1.4--mon-1 [failed]"]
   n0 --> n4
-  n5["bob-cli-pf.1.1.4--3 [active]"]
+  n5["bob-cli-pf.1.1.4--3 [completed]"]
   n0 --> n5
   n6["bob-cli-pf.1.1.4--plan [completed]"]
   n0 --> n6
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | bob-cli-pf.1.1.4--mon | failed | gpt-6-luna / codex | 2026-11-22T23:06:01.531189+00:00 → 2026-11-22T23:11:57.018081+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--mon/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-pf.1.1.4--2 | completed | gpt-6-luna / codex | 2026-11-22T23:20:29.853707+00:00 → 2026-11-22T23:27:24.307971+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--2/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-pf.1.1.4--mon-1 | failed | gpt-6-luna / codex | 2026-11-22T23:23:43.073933+00:00 → 2026-11-22T23:32:51.030019+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--mon-1/chat.md) |
-| <a id="member-3"></a>3 | bob-cli-pf.1.1.4--3 | active | gpt-6-luna / codex | 2026-11-22T23:32:50.632285+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-pf.1.1.4--3 | completed | gpt-6-luna / codex | 2026-11-22T23:32:50.632285+00:00 → 2026-11-22T23:57:16.913471+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--3/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-pf.1.1.4--plan | completed | gpt-6-luna / codex | 2026-11-22T22:53:46.367825+00:00 → 2026-11-22T23:07:09.246740+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4--plan/chat.md) |
 
 ## Neighbors
@@ -47,7 +47,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-pf.1.1.land](../agents/bbugyi200.apollo.bob-cli-pf.1.1.land/README.md) | bob-cli-pf.1.1 hood | waiting |
 | [bob-cli-pf.2](bbugyi200.apollo.bob-cli-pf.2.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
 | [bob-cli-pf.2.1.1](bbugyi200.apollo.bob-cli-pf.2.1.1.md) (session · 3) | bob-cli-pf hood | completed 3 |
-| [bob-cli-pf.2.1.2](bbugyi200.apollo.bob-cli-pf.2.1.2.md) (session · 3) | bob-cli-pf hood | active 1, completed 1, failed 1 |
+| [bob-cli-pf.2.1.2](bbugyi200.apollo.bob-cli-pf.2.1.2.md) (session · 4) | bob-cli-pf hood | active 1, completed 2, failed 1 |
 | [bob-cli-pf.2.1.3](../agents/bbugyi200.apollo.bob-cli-pf.2.1.3/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.2.1.land](../agents/bbugyi200.apollo.bob-cli-pf.2.1.land/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.3](../agents/bbugyi200.apollo.bob-cli-pf.3/README.md) | bob-cli-pf hood | completed |
