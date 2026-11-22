@@ -32,7 +32,7 @@
 | [bob-cli-on.10.1.land](../../sessions/bbugyi200.athena.bob-cli-on.10.1.land.md) (session · 3) | bob-cli-on.10.1 hood | completed 3 |
 | [bob-cli-on.1](../bbugyi200.athena.bob-cli-on.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.11](../../sessions/bbugyi200.athena.bob-cli-on.11.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
-| [bob-cli-on.11.1.1](../bbugyi200.athena.bob-cli-on.11.1.1/README.md) | bob-cli-on hood | active |
+| [bob-cli-on.11.1.1](../bbugyi200.athena.bob-cli-on.11.1.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.11.1.2](../bbugyi200.athena.bob-cli-on.11.1.2/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.11.1.3](../bbugyi200.athena.bob-cli-on.11.1.3/README.md) | bob-cli-on hood | active |
 | [bob-cli-on.11.1.4](../bbugyi200.athena.bob-cli-on.11.1.4/README.md) | bob-cli-on hood | waiting |
