@@ -650,7 +650,7 @@
 | [bob-cli-o](hoods/bob-cli-o/README.md) | 2 | 1 | completed 1, dismissed 1 |
 | [bob-cli-o6](hoods/bob-cli-o6/README.md) | 61 | 11 | active 4, completed 46, failed 11 |
 | [bob-cli-oj](hoods/bob-cli-oj/README.md) | 42 | 7 | active 3, completed 34, failed 3, waiting 2 |
-| [bob-cli-on](hoods/bob-cli-on/README.md) | 43 | 4 | active 2, completed 23, failed 1, waiting 17 |
+| [bob-cli-on](hoods/bob-cli-on/README.md) | 43 | 4 | active 2, completed 24, failed 1, waiting 16 |
 | [bob-cli-t](hoods/bob-cli-t/README.md) | 16 | 3 | active 1, completed 1, dismissed 12, failed 2 |
 | [bob-cli-u](hoods/bob-cli-u/README.md) | 6 | 1 | completed 2, dismissed 3, failed 1 |
 | [bob-cli-w](hoods/bob-cli-w/README.md) | 1 | 0 | dismissed 1 |
