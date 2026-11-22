@@ -29,4 +29,4 @@
 | [bob-cli-oz.4](../../sessions/bbugyi200.apollo.bob-cli-oz.4.md) (session · 3) | bob-cli-oz hood | completed 3 |
 | [bob-cli-oz.6](../bbugyi200.apollo.bob-cli-oz.6/README.md) | bob-cli-oz hood | completed |
 | [bob-cli-oz.7](../bbugyi200.apollo.bob-cli-oz.7/README.md) | bob-cli-oz hood | completed |
-| [bob-cli-oz.land](../../sessions/bbugyi200.apollo.bob-cli-oz.land.md) (session · 3) | bob-cli-oz hood | active 2, completed 1 |
+| [bob-cli-oz.land](../../sessions/bbugyi200.apollo.bob-cli-oz.land.md) (session · 3) | bob-cli-oz hood | completed 3 |
