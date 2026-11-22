@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5v.gem
 
-**Global name:** `bbugyi200.apollo.research.5v.gem` · **State:** active · **Source run:** `run-7d93975531799751c3d33d33bb6ebb52`
+**Global name:** `bbugyi200.apollo.research.5v.gem` · **State:** completed · **Source run:** `run-7d93975531799751c3d33d33bb6ebb52`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-neon-xhigh
 - Provider: agy
-- Timing: 2026-11-22T17:17:24.721077+00:00
+- Timing: 2026-11-22T17:17:24.721077+00:00 → 2026-11-22T17:34:46.983260+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/property\_card\_frontmatter\_takeover\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122120055/property\_card\_frontmatter\_takeover\_\_g… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/property_card_frontmatter_takeover__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122120055/property_card_frontmatter_takeover__gem-33d4e3b036ac.md
+  ref: file:explicit:b2d7788dff4f3963e34cd0f0
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/property_card_frontmatter_takeover__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
