@@ -10,7 +10,7 @@
 
 - Bead: [bob-cli-on.10.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.10.1.4.md)
 - Epic: [bob-cli-on.10.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.10.1.md)
-- Model: opus
+- Model: sonnet
 - Provider: claude
 - Timing: 20261121141216
 - Commits: 0
@@ -47,7 +47,7 @@
 | [bob-cli-on.6.1.2](../bbugyi200.athena.bob-cli-on.6.1.2/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.6.1.3](../bbugyi200.athena.bob-cli-on.6.1.3/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.6.1.4](../bbugyi200.athena.bob-cli-on.6.1.4/README.md) | bob-cli-on hood | waiting |
-| [bob-cli-on.6.1.5](../bbugyi200.athena.bob-cli-on.6.1.5/README.md) | bob-cli-on hood | waiting |
+| [bob-cli-on.6.1.5](../bbugyi200.athena.bob-cli-on.6.1.5/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.6.1.land](../bbugyi200.athena.bob-cli-on.6.1.land/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.7](../bbugyi200.athena.bob-cli-on.7/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.8](../bbugyi200.athena.bob-cli-on.8/README.md) | bob-cli-on hood | waiting |

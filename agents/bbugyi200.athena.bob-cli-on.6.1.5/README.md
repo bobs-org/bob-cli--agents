@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.6.1.5
 
-**Global name:** `bbugyi200.athena.bob-cli-on.6.1.5` · **State:** waiting · **Source run:** `run-2dbe2b5ec4a760fac9e0fe039a461add`
+**Global name:** `bbugyi200.athena.bob-cli-on.6.1.5` · **State:** completed · **Source run:** `run-2dbe2b5ec4a760fac9e0fe039a461add`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-on.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.6.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261121135202
-- Commits: 0
+- Timing: 2026-11-22T00:42:08.494037+00:00 → 2026-11-22T01:16:11.772607+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c05deef`](https://github.com/bobs-org/bob-cli/commit/c05deef26b80d09c3f69181c8ab0f4dd60637168) | feat(capture): add requirement marker typing rewrite | 2026-11-21 20:14:58 EST |
 
 ## Neighbors
 

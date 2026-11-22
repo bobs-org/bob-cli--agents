@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-2dbe2b5ec4a760fac9e0fe039a461add"}
+{"commits":[{"committed_at":1795310098,"sha":"c05deef26b80d09c3f69181c8ab0f4dd60637168","subject":"feat(capture): add requirement marker typing rewrite"}],"schema_version":2,"source_run_id":"run-2dbe2b5ec4a760fac9e0fe039a461add"}
