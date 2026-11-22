@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-os](../../users/bbugyi200/machines/apollo/hoods/bob-cli-os/README.md) / bob-cli-os.6
 
-**Global name:** `bbugyi200.apollo.bob-cli-os.6` · **State:** waiting · **Source run:** `run-93822119e712ae0ba238da4bba1e03b7`
+**Global name:** `bbugyi200.apollo.bob-cli-os.6` · **State:** completed · **Source run:** `run-93822119e712ae0ba238da4bba1e03b7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-os
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-os](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-os/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261121150247
-- Commits: 0
+- Timing: 2026-11-22T04:45:38.060372+00:00 → 2026-11-22T05:54:38.588308+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`005f4c2`](https://github.com/bobs-org/bob-cli/commit/005f4c2b6e4e89319698d6080dfd71089ec9978d) | feat(ref): ingest Spotify episodes from capture jobs and Keep through the podcast route | 2026-11-22 00:53:30 EST |
 
 ## Neighbors
 
