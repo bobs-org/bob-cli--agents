@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.6.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-on.6.1.2` · **State:** waiting · **Source run:** `run-e36c35a8700681c5e7151408507a41ea`
+**Global name:** `bbugyi200.athena.bob-cli-on.6.1.2` · **State:** completed · **Source run:** `run-e36c35a8700681c5e7151408507a41ea`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-on.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.6.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261121135200
-- Commits: 0
+- Timing: 2026-11-21T22:23:02.680989+00:00 → 2026-11-22T00:07:16.770891+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`7cc9493`](https://github.com/bobs-org/bob-cli/commit/7cc94933c2b3922e9a4c6eb80c9fc8415ce09311) | feat(capture)!: admit requirement bullets with req\_marker spans (grammar 29) | 2026-11-21 19:06:20 EST |
 
 ## Neighbors
 
