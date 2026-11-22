@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-7639640bf91253257dbbabbc17a79f5b"}
+{"commits":[{"committed_at":1795311010,"sha":"0a623b7036fbc9ccb86ebd4ef28889374affc604","subject":"feat(capture): write new-task requirement bullets into the reqs zone"}],"schema_version":2,"source_run_id":"run-7639640bf91253257dbbabbc17a79f5b"}

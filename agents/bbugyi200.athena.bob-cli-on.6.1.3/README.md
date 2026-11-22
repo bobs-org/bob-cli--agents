@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.6.1.3
 
-**Global name:** `bbugyi200.athena.bob-cli-on.6.1.3` · **State:** waiting · **Source run:** `run-7639640bf91253257dbbabbc17a79f5b`
+**Global name:** `bbugyi200.athena.bob-cli-on.6.1.3` · **State:** completed · **Source run:** `run-7639640bf91253257dbbabbc17a79f5b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-on.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.6.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261121135201
-- Commits: 0
+- Timing: 2026-11-22T00:45:45.645061+00:00 → 2026-11-22T01:30:56.011629+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`0a623b7`](https://github.com/bobs-org/bob-cli/commit/0a623b7036fbc9ccb86ebd4ef28889374affc604) | feat(capture): write new-task requirement bullets into the reqs zone | 2026-11-21 20:30:10 EST |
 
 ## Neighbors
 
