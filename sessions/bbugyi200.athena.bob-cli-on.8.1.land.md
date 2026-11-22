@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-on` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-on.8.1.land--plan [active]"]
-  n1["bob-cli-on.8.1.land--code [active]"]
+  n0["bob-cli-on.8.1.land--plan [completed]"]
+  n1["bob-cli-on.8.1.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-on.8.1.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-on.8.1.land--plan | active | opus / claude | 2026-11-22T19:00:03.785220+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-on.8.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-on.8.1.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-on.8.1.land--code | active | grok-4.6 / grok | 2026-11-22T19:11:51.000677+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-on.8.1.land--plan | completed | opus / claude | 2026-11-22T19:00:03.785220+00:00 → 2026-11-22T19:53:18.684874+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-on.8.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-on.8.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-on.8.1.land--code | completed | grok-4.6 / grok | 2026-11-22T19:11:51.000677+00:00 → 2026-11-22T19:53:18.684874+00:00 | [1](../agents/bbugyi200.athena.bob-cli-on.8.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-on.8.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-on.8.1.land--gate | completed | opus / claude | 2026-11-22T19:11:10.906044+00:00 → 2026-11-22T19:11:18.105873+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-on.8.1.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`c72c941`](https://github.com/bobs-org/bob-cli/commit/c72c941deb7329e65e1899ae475a55136fe80f79) | fix(capture): land requirement-close overlap, x! pull-in, and dead-code cleanup | 2026-11-22 14:51:26 EST |
 
 ## Neighbors
 

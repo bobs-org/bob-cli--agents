@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-on.8.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_on_8_1_land__plan-261122_072343.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_on_8_1_land__code-261122_072343.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/req_close_landing_fixes.md
 
 

@@ -58,6 +58,6 @@
 | [bob-cli-on.8.1.4](../bbugyi200.athena.bob-cli-on.8.1.4/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.8.1.5](../../sessions/bbugyi200.athena.bob-cli-on.8.1.5.md) (session · 5) | bob-cli-on hood | completed 4, failed 1 |
 | [bob-cli-on.8.1.6](../bbugyi200.athena.bob-cli-on.8.1.6/README.md) | bob-cli-on hood | completed |
-| [bob-cli-on.8.1.land](../../sessions/bbugyi200.athena.bob-cli-on.8.1.land.md) (session · 3) | bob-cli-on hood | active 2, completed 1 |
+| [bob-cli-on.8.1.land](../../sessions/bbugyi200.athena.bob-cli-on.8.1.land.md) (session · 3) | bob-cli-on hood | completed 3 |
 | [bob-cli-on.9](../../sessions/bbugyi200.athena.bob-cli-on.9.md) (session · 5) | bob-cli-on hood | completed 5 |
 | [bob-cli-on.land](../bbugyi200.athena.bob-cli-on.land/README.md) | bob-cli-on hood | waiting |
