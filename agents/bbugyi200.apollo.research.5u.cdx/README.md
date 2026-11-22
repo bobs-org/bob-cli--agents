@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5u.cdx
 
-**Global name:** `bbugyi200.apollo.research.5u.cdx` · **State:** active · **Source run:** `run-34a1c31528b7681a543e7434d12886a5`
+**Global name:** `bbugyi200.apollo.research.5u.cdx` · **State:** completed · **Source run:** `run-34a1c31528b7681a543e7434d12886a5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,36 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-22T16:50:06.349918+00:00
+- Timing: 2026-11-22T16:50:06.349918+00:00 → 2026-11-22T17:00:03.827761+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/task\_requirements\_typographic\_markers\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122114900/task\_requirements\_typographic\_mark… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/task_requirements_typographic_markers__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122114900/task_requirements_typographic_markers__cdx-df4dbc6ba634.md
+  ref: file:explicit:50ce016baab8f4c7c34f3124
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/task_requirements_typographic_markers__cdx.md
+- kind: file
+  label: research:202611/task_requirements_typographic_markers__cdx.svg
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122114900/task_requirements_typographic_markers__cdx-86b1eb3f6ac2.svg
+  ref: file:explicit:abb9821cb291a3a0f8c8be2c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/task_requirements_typographic_markers__cdx.svg
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
