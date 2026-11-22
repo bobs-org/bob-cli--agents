@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / [bob-cli-on.11](../../sessions/bbugyi200.athena.bob-cli-on.11.md) / bob-cli-on.11--mon
 
-**Global name:** `bbugyi200.athena.bob-cli-on.11--mon` · **State:** active · **Source run:** `run-598867e331bce04c6bb0153991917bfb`
+**Global name:** `bbugyi200.athena.bob-cli-on.11--mon` · **State:** completed · **Source run:** `run-598867e331bce04c6bb0153991917bfb`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,13 +12,24 @@
 - Epic: [bob-cli-on](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-22T19:59:25.951886+00:00
+- Timing: 2026-11-22T19:59:25.951886+00:00 → 2026-11-22T20:02:01.119799+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-on.11.1.1](../bbugyi200.athena.bob-cli-on.11.1.1/README.md) | descendant | active |
+| [bob-cli-on.11.1.2](../bbugyi200.athena.bob-cli-on.11.1.2/README.md) | descendant | completed |
+| [bob-cli-on.11.1.3](../bbugyi200.athena.bob-cli-on.11.1.3/README.md) | descendant | active |
+| [bob-cli-on.11.1.4](../bbugyi200.athena.bob-cli-on.11.1.4/README.md) | descendant | waiting |
+| [bob-cli-on.11.1.5](../bbugyi200.athena.bob-cli-on.11.1.5/README.md) | descendant | waiting |
+| [bob-cli-on.11.1.6](../bbugyi200.athena.bob-cli-on.11.1.6/README.md) | descendant | waiting |
+| [bob-cli-on.11.1.land](../bbugyi200.athena.bob-cli-on.11.1.land/README.md) | descendant | waiting |
 | [bob-cli-on.1](../bbugyi200.athena.bob-cli-on.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.10](../../sessions/bbugyi200.athena.bob-cli-on.10.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
 | [bob-cli-on.10.1.1](../bbugyi200.athena.bob-cli-on.10.1.1/README.md) | bob-cli-on hood | completed |
