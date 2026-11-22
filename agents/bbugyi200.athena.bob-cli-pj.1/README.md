@@ -29,5 +29,5 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-pj.2](../bbugyi200.athena.bob-cli-pj.2/README.md) | bob-cli-pj hood | waiting |
+| [bob-cli-pj.2](../../sessions/bbugyi200.athena.bob-cli-pj.2.md) (session · 3) | bob-cli-pj hood | active 2, completed 1 |
 | [bob-cli-pj.land](../bbugyi200.athena.bob-cli-pj.land/README.md) | bob-cli-pj hood | waiting |
