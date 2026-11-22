@@ -10,8 +10,8 @@
 
 - Bead: [bob-cli-oz.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oz/bob-cli-oz.5.md)
 - Epic: [bob-cli-oz](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-oz/README.md)
-- Model: opus
-- Provider: claude
+- Model: gpt-6-luna
+- Provider: codex
 - Timing: 20261121174059
 - Commits: 0
 
@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-oz.1](../bbugyi200.apollo.bob-cli-oz.1/README.md) | bob-cli-oz hood | completed |
 | [bob-cli-oz.2](../../sessions/bbugyi200.apollo.bob-cli-oz.2.md) (session · 5) | bob-cli-oz hood | completed 3, failed 2 |
-| [bob-cli-oz.3](../bbugyi200.apollo.bob-cli-oz.3/README.md) | bob-cli-oz hood | waiting |
+| [bob-cli-oz.3](../bbugyi200.apollo.bob-cli-oz.3/README.md) | bob-cli-oz hood | completed |
 | [bob-cli-oz.4](../bbugyi200.apollo.bob-cli-oz.4/README.md) | bob-cli-oz hood | waiting |
 | [bob-cli-oz.6](../bbugyi200.apollo.bob-cli-oz.6/README.md) | bob-cli-oz hood | completed |
 | [bob-cli-oz.7](../bbugyi200.apollo.bob-cli-oz.7/README.md) | bob-cli-oz hood | waiting |
