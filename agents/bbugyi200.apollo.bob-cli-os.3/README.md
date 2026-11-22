@@ -33,7 +33,7 @@
 | [bob-cli-os.10](../bbugyi200.apollo.bob-cli-os.10/README.md) | bob-cli-os hood | waiting |
 | [bob-cli-os.2](../bbugyi200.apollo.bob-cli-os.2/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.4](../bbugyi200.apollo.bob-cli-os.4/README.md) | bob-cli-os hood | completed |
-| [bob-cli-os.5](../bbugyi200.apollo.bob-cli-os.5/README.md) | bob-cli-os hood | waiting |
+| [bob-cli-os.5](../bbugyi200.apollo.bob-cli-os.5/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.6](../bbugyi200.apollo.bob-cli-os.6/README.md) | bob-cli-os hood | waiting |
 | [bob-cli-os.7](../bbugyi200.apollo.bob-cli-os.7/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.8](../bbugyi200.apollo.bob-cli-os.8/README.md) | bob-cli-os hood | completed |

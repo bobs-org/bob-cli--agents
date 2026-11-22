@@ -10,8 +10,8 @@
 
 - Bead: [bob-cli-os.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-os/bob-cli-os.6.md)
 - Epic: [bob-cli-os](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-os/README.md)
-- Model: opus
-- Provider: claude
+- Model: grok-4.6
+- Provider: grok
 - Timing: 20261121150247
 - Commits: 0
 
@@ -28,7 +28,7 @@
 | [bob-cli-os.2](../bbugyi200.apollo.bob-cli-os.2/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.3](../bbugyi200.apollo.bob-cli-os.3/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.4](../bbugyi200.apollo.bob-cli-os.4/README.md) | bob-cli-os hood | completed |
-| [bob-cli-os.5](../bbugyi200.apollo.bob-cli-os.5/README.md) | bob-cli-os hood | waiting |
+| [bob-cli-os.5](../bbugyi200.apollo.bob-cli-os.5/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.7](../bbugyi200.apollo.bob-cli-os.7/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.8](../bbugyi200.apollo.bob-cli-os.8/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.9](../bbugyi200.apollo.bob-cli-os.9/README.md) | bob-cli-os hood | waiting |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-os](../../users/bbugyi200/machines/apollo/hoods/bob-cli-os/README.md) / bob-cli-os.5
 
-**Global name:** `bbugyi200.apollo.bob-cli-os.5` · **State:** waiting · **Source run:** `run-cfeabc38c25ada7c14a83666740e40a9`
+**Global name:** `bbugyi200.apollo.bob-cli-os.5` · **State:** completed · **Source run:** `run-cfeabc38c25ada7c14a83666740e40a9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-os
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-os](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-os/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261121150244
-- Commits: 0
+- Timing: 2026-11-21T22:28:23.340146+00:00 → 2026-11-22T04:45:21.153144+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`145b00d`](https://github.com/bobs-org/bob-cli/commit/145b00d50e56a47c2a288a9405d044956b2e0ced) | feat(capture): complete (( task links in plain prose with capture-complete -L -T | 2026-11-21 23:26:26 EST |
 
 ## Neighbors
 
