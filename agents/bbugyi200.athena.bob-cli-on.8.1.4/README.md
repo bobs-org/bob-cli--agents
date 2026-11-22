@@ -2,22 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.8.1.4
 
-**Global name:** `bbugyi200.athena.bob-cli-on.8.1.4` · **State:** waiting · **Source run:** `run-d063a149074d57e8eddbbb38d5bc3e18`
+**Global name:** `bbugyi200.athena.bob-cli-on.8.1.4` · **State:** completed · **Source run:** `run-bb85e8f4d914a6f1ccde18ac06c3e1d8`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
 ## Summary
 
 - Bead: [bob-cli-on.8.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.8.1.4.md)
-- Epic: [bob-cli-on.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.8.1.md)
-- Model: gpt-6-luna
-- Provider: codex
-- Timing: 20261122072340
-- Commits: 0
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-22T14:43:27.995493+00:00 → 2026-11-22T16:10:24.436153+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`bddf386`](https://github.com/bobs-org/bob-cli/commit/bddf3868bf341287df9a5b8f0e1d5e931ac2155e) | feat(task-complete): place pulled requirement carries and resolve req jump landings | 2026-11-22 11:09:26 EST |
 
 ## Neighbors
 
@@ -26,7 +31,7 @@
 | [bob-cli-on.8](../../sessions/bbugyi200.athena.bob-cli-on.8.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-on.8.1.1](../bbugyi200.athena.bob-cli-on.8.1.1/README.md) | bob-cli-on.8.1 hood | completed |
 | [bob-cli-on.8.1.2](../bbugyi200.athena.bob-cli-on.8.1.2/README.md) | bob-cli-on.8.1 hood | completed |
-| [bob-cli-on.8.1.3](../bbugyi200.athena.bob-cli-on.8.1.3/README.md) | bob-cli-on.8.1 hood | waiting |
+| [bob-cli-on.8.1.3](../bbugyi200.athena.bob-cli-on.8.1.3/README.md) | bob-cli-on.8.1 hood | completed |
 | [bob-cli-on.8.1.5](../bbugyi200.athena.bob-cli-on.8.1.5/README.md) | bob-cli-on.8.1 hood | waiting |
 | [bob-cli-on.8.1.6](../bbugyi200.athena.bob-cli-on.8.1.6/README.md) | bob-cli-on.8.1 hood | waiting |
 | [bob-cli-on.8.1.land](../bbugyi200.athena.bob-cli-on.8.1.land/README.md) | bob-cli-on.8.1 hood | waiting |
