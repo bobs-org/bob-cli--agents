@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5x.image
 
-**Global name:** `bbugyi200.apollo.research.5x.image` · **State:** waiting · **Source run:** `run-12df8d03733bbd952a8b2b3fd77ae39c`
+**Global name:** `bbugyi200.apollo.research.5x.image` · **State:** completed · **Source run:** `run-12df8d03733bbd952a8b2b3fd77ae39c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261122160610
+- Timing: 2026-11-22T21:46:13.771745+00:00 → 2026-11-22T21:57:48.013551+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/true\_case\_drawers/true\_case\_drawers\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122160610/true\_case\_drawers\_infographic-86b5… |
+| `diagrams` | {considered: 15, count: 2, manifest: 202611/true\_case\_drawers/true\_case\_drawers.diagrams.md, source\_ref: file:explicit:5cdddef6e7bbddc2181d65bd, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/true_case_drawers/true_case_drawers_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122160610/true_case_drawers_infographic-86b5eed09c1e.png
+  ref: file:explicit:8aebbc304ddff2369da9b18f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/true_case_drawers/true_case_drawers_infographic.png
+- kind: markdown
+  label: diagrams:202611/true_case_drawers/true_case_drawers.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122160610/true_case_drawers.diagrams-eb916d2787bd.md
+  ref: file:explicit:ab3df2766c5f83ace4718675
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/true_case_drawers/true_case_drawers.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 2
+manifest: 202611/true_case_drawers/true_case_drawers.diagrams.md
+source_ref: file:explicit:5cdddef6e7bbddc2181d65bd
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
