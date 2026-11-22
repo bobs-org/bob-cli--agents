@@ -64,7 +64,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-os.1](../bbugyi200.apollo.bob-cli-os.1/README.md) | bob-cli-os hood | completed |
-| [bob-cli-os.10](../bbugyi200.apollo.bob-cli-os.10/README.md) | bob-cli-os hood | waiting |
+| [bob-cli-os.10](../bbugyi200.apollo.bob-cli-os.10/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.2](../bbugyi200.apollo.bob-cli-os.2/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.3](../bbugyi200.apollo.bob-cli-os.3/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.5](../bbugyi200.apollo.bob-cli-os.5/README.md) | bob-cli-os hood | completed |

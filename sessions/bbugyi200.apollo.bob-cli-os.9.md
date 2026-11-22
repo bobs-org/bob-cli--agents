@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-os.1](../agents/bbugyi200.apollo.bob-cli-os.1/README.md) | bob-cli-os hood | completed |
-| [bob-cli-os.10](../agents/bbugyi200.apollo.bob-cli-os.10/README.md) | bob-cli-os hood | waiting |
+| [bob-cli-os.10](../agents/bbugyi200.apollo.bob-cli-os.10/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.2](../agents/bbugyi200.apollo.bob-cli-os.2/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.3](../agents/bbugyi200.apollo.bob-cli-os.3/README.md) | bob-cli-os hood | completed |
 | [bob-cli-os.4](../agents/bbugyi200.apollo.bob-cli-os.4/README.md) | bob-cli-os hood | completed |
