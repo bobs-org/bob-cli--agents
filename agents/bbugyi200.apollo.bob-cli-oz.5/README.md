@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-oz.1](../bbugyi200.apollo.bob-cli-oz.1/README.md) | bob-cli-oz hood | completed |
-| [bob-cli-oz.2](../bbugyi200.apollo.bob-cli-oz.2/README.md) | bob-cli-oz hood | active |
+| [bob-cli-oz.2](../../sessions/bbugyi200.apollo.bob-cli-oz.2.md) (session · 2) | bob-cli-oz hood | active 1, completed 1 |
 | [bob-cli-oz.3](../bbugyi200.apollo.bob-cli-oz.3/README.md) | bob-cli-oz hood | waiting |
 | [bob-cli-oz.4](../bbugyi200.apollo.bob-cli-oz.4/README.md) | bob-cli-oz hood | waiting |
 | [bob-cli-oz.6](../bbugyi200.apollo.bob-cli-oz.6/README.md) | bob-cli-oz hood | active |
