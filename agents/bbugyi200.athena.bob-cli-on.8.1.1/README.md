@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.8.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-on.8.1.1` · **State:** active · **Source run:** `run-b20e8ea63b1cd731d0388827e7f84be5`
+**Global name:** `bbugyi200.athena.bob-cli-on.8.1.1` · **State:** completed · **Source run:** `run-b20e8ea63b1cd731d0388827e7f84be5`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-on.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.8.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-22T12:24:17.706831+00:00
-- Commits: 0
+- Timing: 2026-11-22T12:24:17.706831+00:00 → 2026-11-22T13:04:23.973914+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e4ee55b`](https://github.com/bobs-org/bob-cli/commit/e4ee55bdfe14f6b43ca71d2a3deaace7480b029b) | feat(task-complete): collect pre-close requirement groups and snapshot identity | 2026-11-22 08:03:26 EST |
 
 ## Neighbors
 
@@ -41,7 +47,7 @@
 | [bob-cli-on.10.1.land](../../sessions/bbugyi200.athena.bob-cli-on.10.1.land.md) (session · 3) | bob-cli-on hood | completed 3 |
 | [bob-cli-on.11](../bbugyi200.athena.bob-cli-on.11/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.12](../bbugyi200.athena.bob-cli-on.12/README.md) | bob-cli-on hood | waiting |
-| [bob-cli-on.13](../bbugyi200.athena.bob-cli-on.13/README.md) | bob-cli-on hood | waiting |
+| [bob-cli-on.13](../../sessions/bbugyi200.athena.bob-cli-on.13.md) (session · 5) | bob-cli-on hood | completed 4, failed 1 |
 | [bob-cli-on.14](../bbugyi200.athena.bob-cli-on.14/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.15](../bbugyi200.athena.bob-cli-on.15/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.16](../../sessions/bbugyi200.athena.bob-cli-on.16.md) (session · 9) | bob-cli-on hood | completed 9 |
