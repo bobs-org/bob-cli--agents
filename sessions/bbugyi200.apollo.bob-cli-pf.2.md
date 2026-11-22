@@ -1,0 +1,45 @@
+# Session: bob-cli-pf.2
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / bob-cli-pf.2
+
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-pf` · Members: 3 · Bead: [bob-cli-pf.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.2.md)
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["bob-cli-pf.2--gate [completed]"]
+  n1["bob-cli-pf.2--plan [active]"]
+  n0 --> n1
+  n2["bob-cli-pf.2--mon [completed]"]
+  n0 --> n2
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-gate"></a>gate | bob-cli-pf.2--gate | completed | gpt-6-astra / codex | 2026-11-22T19:45:49.829053+00:00 → 2026-11-22T19:47:10.711314+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2--gate/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-pf.2--plan | active | gpt-6-astra / codex | 2026-11-22T19:37:01.461025+00:00 → 2026-11-22T19:47:18.089617+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2--plan/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-pf.2--mon | completed | gpt-6-astra / codex | 2026-11-22T19:47:09.232418+00:00 → 2026-11-22T19:48:28.509720+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2--mon/chat.md) |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-pf.2.1.1](../agents/bbugyi200.apollo.bob-cli-pf.2.1.1/README.md) | descendant | active |
+| [bob-cli-pf.2.1.2](../agents/bbugyi200.apollo.bob-cli-pf.2.1.2/README.md) | descendant | waiting |
+| [bob-cli-pf.2.1.3](../agents/bbugyi200.apollo.bob-cli-pf.2.1.3/README.md) | descendant | waiting |
+| [bob-cli-pf.2.1.land](../agents/bbugyi200.apollo.bob-cli-pf.2.1.land/README.md) | descendant | waiting |
+| [bob-cli-pf.1](bbugyi200.apollo.bob-cli-pf.1.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
+| [bob-cli-pf.1.1.1](../agents/bbugyi200.apollo.bob-cli-pf.1.1.1/README.md) | bob-cli-pf hood | active |
+| [bob-cli-pf.1.1.2](../agents/bbugyi200.apollo.bob-cli-pf.1.1.2/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.1.1.3](../agents/bbugyi200.apollo.bob-cli-pf.1.1.3/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.1.1.4](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.1.1.5](../agents/bbugyi200.apollo.bob-cli-pf.1.1.5/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.1.1.land](../agents/bbugyi200.apollo.bob-cli-pf.1.1.land/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.3](../agents/bbugyi200.apollo.bob-cli-pf.3/README.md) | bob-cli-pf hood | active |
+| [bob-cli-pf.4](../agents/bbugyi200.apollo.bob-cli-pf.4/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.5](../agents/bbugyi200.apollo.bob-cli-pf.5/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.6](../agents/bbugyi200.apollo.bob-cli-pf.6/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.land](../agents/bbugyi200.apollo.bob-cli-pf.land/README.md) | bob-cli-pf hood | waiting |
