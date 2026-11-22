@@ -33,7 +33,7 @@
 | [bob-cli-pf.1.1.4](../bbugyi200.apollo.bob-cli-pf.1.1.4/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.1.1.5](../bbugyi200.apollo.bob-cli-pf.1.1.5/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.1.1.land](../bbugyi200.apollo.bob-cli-pf.1.1.land/README.md) | bob-cli-pf hood | waiting |
-| [bob-cli-pf.3](../bbugyi200.apollo.bob-cli-pf.3/README.md) | bob-cli-pf hood | active |
+| [bob-cli-pf.3](../bbugyi200.apollo.bob-cli-pf.3/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.4](../bbugyi200.apollo.bob-cli-pf.4/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.5](../bbugyi200.apollo.bob-cli-pf.5/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.6](../bbugyi200.apollo.bob-cli-pf.6/README.md) | bob-cli-pf hood | waiting |
