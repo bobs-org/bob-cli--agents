@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5v.linker
 
-**Global name:** `bbugyi200.apollo.research.5v.linker` · **State:** waiting · **Source run:** `run-7410d424facaa8708b7b666d5dd94e0f`
+**Global name:** `bbugyi200.apollo.research.5v.linker` · **State:** completed · **Source run:** `run-7410d424facaa8708b7b666d5dd94e0f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261122120058
+- Timing: 2026-11-22T18:07:03.698948+00:00 → 2026-11-22T18:15:43.765779+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/card\_owned\_frontmatter/card\_owned\_frontmatter.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122120058/card\_owned\_frontmatter-c7f6e355… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/card_owned_frontmatter/card_owned_frontmatter.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122120058/card_owned_frontmatter-c7f6e355b14a.md
+  ref: file:explicit:a2be172e8a79c3b74101f51f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/card_owned_frontmatter/card_owned_frontmatter.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
