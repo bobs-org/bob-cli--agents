@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-nh](../../users/bbugyi200/machines/athena/hoods/bob-cli-nh/README.md) / [bob-cli-nh.6](../../sessions/bbugyi200.athena.bob-cli-nh.6.md) / bob-cli-nh.6--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-nh.6--plan` · **State:** active · **Source run:** `run-3781a08e0fcb8269c8a8fa834fb3d25b`
+**Global name:** `bbugyi200.athena.bob-cli-nh.6--plan` · **State:** dismissed · **Source run:** `run-3781a08e0fcb8269c8a8fa834fb3d25b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-nh
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-nh](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-nh/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-19T14:37:19.081441+00:00 → 2026-11-19T14:44:36.759861+00:00
+- Timing: 2026-11-19T09:37:19.081441 → 2026-11-19T09:44:37.009326
 - Commits: 0
 
 ## Files
@@ -33,14 +33,14 @@
 | [bob-cli-nh.2](../../sessions/bbugyi200.athena.bob-cli-nh.2.md) (session · 3) | bob-cli-nh hood | completed 3 |
 | [bob-cli-nh.2](../bbugyi200.athena.bob-cli-nh.2/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.3](../../sessions/bbugyi200.athena.bob-cli-nh.3.md) (session · 5) | bob-cli-nh hood | completed 5 |
-| [bob-cli-nh.4](../../sessions/bbugyi200.athena.bob-cli-nh.4.md) (session · 3) | bob-cli-nh hood | active 1, completed 2 |
+| [bob-cli-nh.4](../../sessions/bbugyi200.athena.bob-cli-nh.4.md) (session · 3) | bob-cli-nh hood | completed 2, dismissed 1 |
 | [bob-cli-nh.4.1.1](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.1.md) (session · 7) | bob-cli-nh hood | completed 5, failed 2 |
 | [bob-cli-nh.4.1.2](../bbugyi200.athena.bob-cli-nh.4.1.2/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.4.1.3](../bbugyi200.athena.bob-cli-nh.4.1.3/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.4.1.4](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.4.md) (session · 9) | bob-cli-nh hood | completed 5, failed 4 |
 | [bob-cli-nh.4.1.land](../../sessions/bbugyi200.athena.bob-cli-nh.4.1.land.md) (session · 5) | bob-cli-nh hood | completed 4, failed 1 |
 | [bob-cli-nh.5](../bbugyi200.athena.bob-cli-nh.5/README.md) | bob-cli-nh hood | completed |
-| [bob-cli-nh.7](../../sessions/bbugyi200.athena.bob-cli-nh.7.md) (session · 3) | bob-cli-nh hood | active 1, completed 2 |
+| [bob-cli-nh.7](../../sessions/bbugyi200.athena.bob-cli-nh.7.md) (session · 3) | bob-cli-nh hood | completed 2, dismissed 1 |
 | [bob-cli-nh.7.1.1](../../sessions/bbugyi200.athena.bob-cli-nh.7.1.1.md) (session · 7) | bob-cli-nh hood | completed 4, failed 3 |
 | [bob-cli-nh.7.1.2](../bbugyi200.athena.bob-cli-nh.7.1.2/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.7.1.3](../bbugyi200.athena.bob-cli-nh.7.1.3/README.md) | bob-cli-nh hood | completed |

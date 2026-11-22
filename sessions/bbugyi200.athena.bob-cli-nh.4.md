@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-nh` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-nh.4--gate [completed]"]
-  n1["bob-cli-nh.4--plan [active]"]
+  n1["bob-cli-nh.4--plan [dismissed]"]
   n0 --> n1
   n2["bob-cli-nh.4--mon [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-nh.4--gate | completed | gpt-6-astra / codex | 2026-11-19T18:00:58.072973+00:00 → 2026-11-19T18:01:09.072068+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-nh.4--plan | active | gpt-6-astra / codex | 2026-11-19T17:54:04.325692+00:00 → 2026-11-19T18:01:14.033996+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-nh.4--plan | dismissed | gpt-6-astra / codex | 2026-11-19T12:54:04.325692 → 2026-11-19T13:01:14.267716 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-nh.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-nh.4--mon | completed | gpt-6-astra / codex | 2026-11-19T18:01:08.182485+00:00 → 2026-11-19T18:05:23.713613+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-nh.4--mon/chat.md) |
 
 ## Neighbors
@@ -37,14 +37,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-nh.2](../agents/bbugyi200.athena.bob-cli-nh.2/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.3](bbugyi200.athena.bob-cli-nh.3.md) (session · 5) | bob-cli-nh hood | completed 5 |
 | [bob-cli-nh.5](../agents/bbugyi200.athena.bob-cli-nh.5/README.md) | bob-cli-nh hood | completed |
-| [bob-cli-nh.6](bbugyi200.athena.bob-cli-nh.6.md) (session · 3) | bob-cli-nh hood | active 1, completed 2 |
+| [bob-cli-nh.6](bbugyi200.athena.bob-cli-nh.6.md) (session · 3) | bob-cli-nh hood | completed 2, dismissed 1 |
 | [bob-cli-nh.6.1.1](bbugyi200.athena.bob-cli-nh.6.1.1.md) (session · 3) | bob-cli-nh hood | completed 3 |
 | [bob-cli-nh.6.1.1](../agents/bbugyi200.athena.bob-cli-nh.6.1.1/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.6.1.2](bbugyi200.athena.bob-cli-nh.6.1.2.md) (session · 5) | bob-cli-nh hood | completed 2, failed 3 |
 | [bob-cli-nh.6.1.2](../agents/bbugyi200.athena.bob-cli-nh.6.1.2/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.6.1.3](bbugyi200.athena.bob-cli-nh.6.1.3.md) (session · 7) | bob-cli-nh hood | completed 4, failed 3 |
 | [bob-cli-nh.6.1.land](bbugyi200.athena.bob-cli-nh.6.1.land.md) (session · 5) | bob-cli-nh hood | completed 5 |
-| [bob-cli-nh.7](bbugyi200.athena.bob-cli-nh.7.md) (session · 3) | bob-cli-nh hood | active 1, completed 2 |
+| [bob-cli-nh.7](bbugyi200.athena.bob-cli-nh.7.md) (session · 3) | bob-cli-nh hood | completed 2, dismissed 1 |
 | [bob-cli-nh.7.1.1](bbugyi200.athena.bob-cli-nh.7.1.1.md) (session · 7) | bob-cli-nh hood | completed 4, failed 3 |
 | [bob-cli-nh.7.1.2](../agents/bbugyi200.athena.bob-cli-nh.7.1.2/README.md) | bob-cli-nh hood | completed |
 | [bob-cli-nh.7.1.3](../agents/bbugyi200.athena.bob-cli-nh.7.1.3/README.md) | bob-cli-nh hood | completed |
