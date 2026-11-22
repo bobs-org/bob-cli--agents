@@ -29,7 +29,7 @@
 | [bob-cli-on.8.1.4](../bbugyi200.athena.bob-cli-on.8.1.4/README.md) | descendant | completed |
 | [bob-cli-on.8.1.5](../../sessions/bbugyi200.athena.bob-cli-on.8.1.5.md) (session · 5) | descendant | completed 4, failed 1 |
 | [bob-cli-on.8.1.6](../bbugyi200.athena.bob-cli-on.8.1.6/README.md) | descendant | completed |
-| [bob-cli-on.8.1.land](../bbugyi200.athena.bob-cli-on.8.1.land/README.md) | descendant | waiting |
+| [bob-cli-on.8.1.land](../../sessions/bbugyi200.athena.bob-cli-on.8.1.land.md) (session · 3) | descendant | active 2, completed 1 |
 | [bob-cli-on.1](../bbugyi200.athena.bob-cli-on.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.10](../../sessions/bbugyi200.athena.bob-cli-on.10.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
 | [bob-cli-on.10.1.1](../bbugyi200.athena.bob-cli-on.10.1.1/README.md) | bob-cli-on hood | completed |
