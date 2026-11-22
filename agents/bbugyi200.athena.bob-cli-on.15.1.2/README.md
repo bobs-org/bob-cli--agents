@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.15.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-on.15.1.2` · **State:** waiting · **Source run:** `run-71effb053e3ec2c2a9150d570250cc4e`
+**Global name:** `bbugyi200.athena.bob-cli-on.15.1.2` · **State:** completed · **Source run:** `run-71effb053e3ec2c2a9150d570250cc4e`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-on.15.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.15.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261122145814
+- Timing: 2026-11-22T20:53:09.826310+00:00 → 2026-11-22T21:10:18.883620+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -41,7 +41,7 @@
 | [bob-cli-on.11](../../sessions/bbugyi200.athena.bob-cli-on.11.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
 | [bob-cli-on.11.1.1](../bbugyi200.athena.bob-cli-on.11.1.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.11.1.2](../bbugyi200.athena.bob-cli-on.11.1.2/README.md) | bob-cli-on hood | completed |
-| [bob-cli-on.11.1.3](../bbugyi200.athena.bob-cli-on.11.1.3/README.md) | bob-cli-on hood | active |
+| [bob-cli-on.11.1.3](../../sessions/bbugyi200.athena.bob-cli-on.11.1.3.md) (session · 2) | bob-cli-on hood | active 2 |
 | [bob-cli-on.11.1.4](../bbugyi200.athena.bob-cli-on.11.1.4/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.11.1.5](../bbugyi200.athena.bob-cli-on.11.1.5/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.11.1.6](../bbugyi200.athena.bob-cli-on.11.1.6/README.md) | bob-cli-on hood | waiting |
