@@ -73,5 +73,5 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-oj.5.1.land](bbugyi200.athena.bob-cli-oj.5.1.land.md) (session · 3) | bob-cli-oj hood | completed 3 |
 | [bob-cli-oj.6](../agents/bbugyi200.athena.bob-cli-oj.6/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.7](../agents/bbugyi200.athena.bob-cli-oj.7/README.md) | bob-cli-oj hood | completed |
-| [bob-cli-oj.8](../agents/bbugyi200.athena.bob-cli-oj.8/README.md) | bob-cli-oj hood | waiting |
+| [bob-cli-oj.8](bbugyi200.athena.bob-cli-oj.8.md) (session · 3) | bob-cli-oj hood | completed 3 |
 | [bob-cli-oj.land](../agents/bbugyi200.athena.bob-cli-oj.land/README.md) | bob-cli-oj hood | waiting |
