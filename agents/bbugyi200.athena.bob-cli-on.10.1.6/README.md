@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.10.1.6
 
-**Global name:** `bbugyi200.athena.bob-cli-on.10.1.6` · **State:** waiting · **Source run:** `run-47a1dc49aabab529d371be8e5d7a6d99`
+**Global name:** `bbugyi200.athena.bob-cli-on.10.1.6` · **State:** completed · **Source run:** `run-47a1dc49aabab529d371be8e5d7a6d99`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-on.10.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.10.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261121141217
-- Commits: 0
+- Timing: 2026-11-22T02:51:10.554391+00:00 → 2026-11-22T03:10:16.174987+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e5ee4a8`](https://github.com/bobs-org/bob-cli/commit/e5ee4a8d9e942b7bbd9478ac1fa66a52d5c70ddf) | docs(task-reqs): add §5 Obsidian gestures table with exact copy and undo rule | 2026-11-21 22:08:54 EST |
 
 ## Neighbors
 
@@ -48,7 +54,7 @@
 | [bob-cli-on.6.1.3](../bbugyi200.athena.bob-cli-on.6.1.3/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.6.1.4](../bbugyi200.athena.bob-cli-on.6.1.4/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.6.1.5](../bbugyi200.athena.bob-cli-on.6.1.5/README.md) | bob-cli-on hood | completed |
-| [bob-cli-on.6.1.land](../bbugyi200.athena.bob-cli-on.6.1.land/README.md) | bob-cli-on hood | waiting |
+| [bob-cli-on.6.1.land](../../sessions/bbugyi200.athena.bob-cli-on.6.1.land.md) (session · 3) | bob-cli-on hood | active 2, completed 1 |
 | [bob-cli-on.7](../bbugyi200.athena.bob-cli-on.7/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.8](../bbugyi200.athena.bob-cli-on.8/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.9](../../sessions/bbugyi200.athena.bob-cli-on.9.md) (session · 5) | bob-cli-on hood | completed 5 |
