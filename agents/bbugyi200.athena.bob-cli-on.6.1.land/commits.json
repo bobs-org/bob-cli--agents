@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a23f000b3da59c55114b902077ef9aba"}
+{"commits":[{"committed_at":1795316660,"sha":"536455acc9f2999bc46aeea8ec021970bdc9b9c9","subject":"fix(capture): count nested requirements added to existing tasks"},{"committed_at":1795349665,"sha":"ffeae199611e17eb6d8367e9a66ddee1e8c2aac4","subject":"fix(capture): read deep requirement-chain lines like level 2 in completion, selectors, and aliases"}],"schema_version":2,"source_run_id":"run-60760dcfe1fd5fb85aacca22a90f74de"}
