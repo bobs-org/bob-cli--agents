@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5v.mus
 
-**Global name:** `bbugyi200.apollo.research.5v.mus` · **State:** active · **Source run:** `run-a30a62bfe56499221cb9c51f443b6c7e`
+**Global name:** `bbugyi200.apollo.research.5v.mus` · **State:** completed · **Source run:** `run-a30a62bfe56499221cb9c51f443b6c7e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,22 +10,41 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-22T17:17:19.396007+00:00
+- Timing: 2026-11-22T17:17:19.396007+00:00 → 2026-11-22T17:23:06.187645+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/property\_cards\_frontmatter\_takeover\_design\_\_mus.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122120054/property\_cards\_frontmatter\_ta… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/property_cards_frontmatter_takeover_design__mus.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122120054/property_cards_frontmatter_takeover_design__mus-c5512e18f098.md
+  ref: file:explicit:f9a25af49365d964415855f4
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/research/202611/property_cards_frontmatter_takeover_design__mus.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.5v.cdx](../bbugyi200.apollo.research.5v.cdx/README.md) | research.5v hood | completed |
-| [research.5v.cld](../bbugyi200.apollo.research.5v.cld/README.md) | research.5v hood | active |
+| [research.5v.cld](../bbugyi200.apollo.research.5v.cld/README.md) | research.5v hood | completed |
 | [research.5v.final](../bbugyi200.apollo.research.5v.final/README.md) | research.5v hood | waiting |
 | [research.5v.gem](../bbugyi200.apollo.research.5v.gem/README.md) | research.5v hood | active |
-| [research.5v.grk](../bbugyi200.apollo.research.5v.grk/README.md) | research.5v hood | active |
+| [research.5v.grk](../bbugyi200.apollo.research.5v.grk/README.md) | research.5v hood | completed |
 | [research.5v.image](../bbugyi200.apollo.research.5v.image/README.md) | research.5v hood | waiting |
 | [research.5v.linker](../bbugyi200.apollo.research.5v.linker/README.md) | research.5v hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
