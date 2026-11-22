@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-on` · Members: 2 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-on.11.1.3--plan [active]"]
+  n0["bob-cli-on.11.1.3--plan [completed]"]
   n1["bob-cli-on.11.1.3--mon [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-on.11.1.3--plan | active | gpt-6-luna / codex | 2026-11-22T20:26:00.582005+00:00 | [1](../agents/bbugyi200.athena.bob-cli-on.11.1.3--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-on.11.1.3--plan/prompt.md) | — |
+| <a id="member-plan"></a>plan | bob-cli-on.11.1.3--plan | completed | gpt-6-luna / codex | 2026-11-22T20:26:00.582005+00:00 → 2026-11-22T21:37:14.040912+00:00 | [1](../agents/bbugyi200.athena.bob-cli-on.11.1.3--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-on.11.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-on.11.1.3--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-on.11.1.3--mon | active | gpt-6-luna / codex | 2026-11-22T21:03:53.111184+00:00 | 0 | — | — |
 
 ## Commits
