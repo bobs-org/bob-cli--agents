@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5x.final
 
-**Global name:** `bbugyi200.apollo.research.5x.final` · **State:** waiting · **Source run:** `run-c824362fd646ee37cdff0c280aa8d262`
+**Global name:** `bbugyi200.apollo.research.5x.final` · **State:** completed · **Source run:** `run-c824362fd646ee37cdff0c280aa8d262`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261122160609
+- Timing: 2026-11-22T21:32:03.849448+00:00 → 2026-11-22T21:45:41.988490+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/true\_case\_drawers/true\_case\_drawers\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122160609/true\_case\_drawers\_\_final-8bcfebb7f… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/true_case_drawers/true_case_drawers__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122160609/true_case_drawers__final-8bcfebb7f9b3.md
+  ref: file:explicit:5cdddef6e7bbddc2181d65bd
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/true_case_drawers/true_case_drawers__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
