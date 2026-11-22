@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 1355 · **Sessions:** 67 · **States:** active 123, completed 695, dismissed 494, failed 40, waiting 3
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 1355 · **Sessions:** 67 · **States:** active 122, completed 696, dismissed 494, failed 40, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -342,7 +342,7 @@
 | [research.3o.linker.w0--plan](../../../../../../sessions/bbugyi200.apollo.research.3o.linker.w0.md#member-plan) | completed | opus / claude | 2026-11-08T15:26:47.244525+00:00 → 2026-11-08T15:39:17.975435+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.3o.linker.w0--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.3o.linker.w0--plan/chat.md) |
 | [research.r.gem](../../../../../../agents/bbugyi200.apollo.research.r.gem/README.md) | dismissed | gemini-3.8-flash-high / agy | 2026-09-29T17:51:55.689837 → 2026-09-29T17:58:01.478277 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.r.gem/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.r.gem/chat.md) |
 | [research.29.linker.w0.w0](../../../../../../agents/bbugyi200.apollo.research.29.linker.w0.w0/README.md) | dismissed | opus / claude | 2026-10-21T10:00:15 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.29.linker.w0.w0/prompt.md) |
-| [research.5x.grk](../../../../../../agents/bbugyi200.apollo.research.5x.grk/README.md) | active | grok-4.6 / grok | 2026-11-22T21:08:30.066606+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.5x.grk/prompt.md) |
+| [research.5x.grk](../../../../../../agents/bbugyi200.apollo.research.5x.grk/README.md) | completed | grok-4.6 / grok | 2026-11-22T21:08:30.066606+00:00 → 2026-11-22T21:24:03.563074+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.5x.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.5x.grk/chat.md) |
 | [research.5p.grk](../../../../../../agents/bbugyi200.apollo.research.5p.grk/README.md) | completed | grok-4.6 / grok | 2026-11-21T14:40:51.296612+00:00 → 2026-11-21T15:05:38.126683+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.5p.grk/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.5p.grk/chat.md) |
 | [research.5i.linker](../../../../../../agents/bbugyi200.apollo.research.5i.linker/README.md) | completed | opus / claude | 2026-11-19T17:38:45.712048+00:00 → 2026-11-19T17:47:46.558405+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.5i.linker/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.5i.linker/chat.md) |
 | [research.2c.gem](../../../../../../agents/bbugyi200.apollo.research.2c.gem/README.md) | dismissed | gemini-3.8-flash-high / agy | 2026-10-24T06:13:42.658493 → 2026-10-24T06:25:23.257068 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.research.2c.gem/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.research.2c.gem/chat.md) |
