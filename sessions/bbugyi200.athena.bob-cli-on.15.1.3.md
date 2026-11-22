@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-on.15](bbugyi200.athena.bob-cli-on.15.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-on.15.1.1](../agents/bbugyi200.athena.bob-cli-on.15.1.1/README.md) | bob-cli-on.15.1 hood | completed |
 | [bob-cli-on.15.1.2](../agents/bbugyi200.athena.bob-cli-on.15.1.2/README.md) | bob-cli-on.15.1 hood | completed |
-| [bob-cli-on.15.1.4](../agents/bbugyi200.athena.bob-cli-on.15.1.4/README.md) | bob-cli-on.15.1 hood | waiting |
+| [bob-cli-on.15.1.4](bbugyi200.athena.bob-cli-on.15.1.4.md) (session · 2) | bob-cli-on.15.1 hood | active 1, completed 1 |
 | [bob-cli-on.15.1.5](../agents/bbugyi200.athena.bob-cli-on.15.1.5/README.md) | bob-cli-on.15.1 hood | waiting |
 | [bob-cli-on.15.1.land](../agents/bbugyi200.athena.bob-cli-on.15.1.land/README.md) | bob-cli-on.15.1 hood | waiting |
 | [bob-cli-on.1](../agents/bbugyi200.athena.bob-cli-on.1/README.md) | bob-cli-on hood | completed |
