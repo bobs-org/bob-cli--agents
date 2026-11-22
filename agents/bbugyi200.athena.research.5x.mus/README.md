@@ -47,7 +47,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.5x.grk](../bbugyi200.athena.research.5x.grk/README.md) | research.5x hood | completed |
 | [research.5x.image](../bbugyi200.athena.research.5x.image/README.md) | research.5x hood | completed |
 | [research.5x.linker](../bbugyi200.athena.research.5x.linker/README.md) | research.5x hood | completed |
-| [research.5x.linker.w0](../../sessions/bbugyi200.athena.research.5x.linker.w0.md) (session · 3) | research.5x hood | active 1, completed 2 |
+| [research.5x.linker.w0](../../sessions/bbugyi200.athena.research.5x.linker.w0.md) (session · 3) | research.5x hood | completed 2, dismissed 1 |
 | [research.0.cdx](../bbugyi200.athena.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.athena.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.athena.research.0.final/README.md) | research hood | completed |
