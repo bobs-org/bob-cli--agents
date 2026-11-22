@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.8.1.6
 
-**Global name:** `bbugyi200.athena.bob-cli-on.8.1.6` · **State:** waiting · **Source run:** `run-0d95862ac9f9e6292981830dfb2ffe3d`
+**Global name:** `bbugyi200.athena.bob-cli-on.8.1.6` · **State:** completed · **Source run:** `run-0d95862ac9f9e6292981830dfb2ffe3d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-on.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.8.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261122072342
-- Commits: 0
+- Timing: 2026-11-22T18:37:57.336750+00:00 → 2026-11-22T18:59:46.773310+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`96a23f5`](https://github.com/bobs-org/bob-cli/commit/96a23f506f072ec577b6891b605937c47d4d82a6) | docs(task-dependencies): publish requirement close contract and RV inventory | 2026-11-22 13:58:46 EST |
 
 ## Neighbors
 
