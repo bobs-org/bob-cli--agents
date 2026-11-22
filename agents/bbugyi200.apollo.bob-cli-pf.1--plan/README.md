@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-pf.1.1.1](../bbugyi200.apollo.bob-cli-pf.1.1.1/README.md) | descendant | active |
+| [bob-cli-pf.1.1.1](../../sessions/bbugyi200.apollo.bob-cli-pf.1.1.1.md) (session · 3) | descendant | active 2, completed 1 |
 | [bob-cli-pf.1.1.2](../bbugyi200.apollo.bob-cli-pf.1.1.2/README.md) | descendant | waiting |
 | [bob-cli-pf.1.1.3](../bbugyi200.apollo.bob-cli-pf.1.1.3/README.md) | descendant | waiting |
 | [bob-cli-pf.1.1.4](../bbugyi200.apollo.bob-cli-pf.1.1.4/README.md) | descendant | waiting |

@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-pf.2.1.3](../agents/bbugyi200.apollo.bob-cli-pf.2.1.3/README.md) | descendant | waiting |
 | [bob-cli-pf.2.1.land](../agents/bbugyi200.apollo.bob-cli-pf.2.1.land/README.md) | descendant | waiting |
 | [bob-cli-pf.1](bbugyi200.apollo.bob-cli-pf.1.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
-| [bob-cli-pf.1.1.1](../agents/bbugyi200.apollo.bob-cli-pf.1.1.1/README.md) | bob-cli-pf hood | active |
+| [bob-cli-pf.1.1.1](bbugyi200.apollo.bob-cli-pf.1.1.1.md) (session · 3) | bob-cli-pf hood | active 2, completed 1 |
 | [bob-cli-pf.1.1.2](../agents/bbugyi200.apollo.bob-cli-pf.1.1.2/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.1.1.3](../agents/bbugyi200.apollo.bob-cli-pf.1.1.3/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.1.1.4](../agents/bbugyi200.apollo.bob-cli-pf.1.1.4/README.md) | bob-cli-pf hood | waiting |

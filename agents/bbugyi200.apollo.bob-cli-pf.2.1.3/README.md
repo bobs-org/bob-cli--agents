@@ -28,7 +28,7 @@
 | [bob-cli-pf.2.1.2](../bbugyi200.apollo.bob-cli-pf.2.1.2/README.md) | bob-cli-pf.2.1 hood | waiting |
 | [bob-cli-pf.2.1.land](../bbugyi200.apollo.bob-cli-pf.2.1.land/README.md) | bob-cli-pf.2.1 hood | waiting |
 | [bob-cli-pf.1](../../sessions/bbugyi200.apollo.bob-cli-pf.1.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
-| [bob-cli-pf.1.1.1](../bbugyi200.apollo.bob-cli-pf.1.1.1/README.md) | bob-cli-pf hood | active |
+| [bob-cli-pf.1.1.1](../../sessions/bbugyi200.apollo.bob-cli-pf.1.1.1.md) (session · 3) | bob-cli-pf hood | active 2, completed 1 |
 | [bob-cli-pf.1.1.2](../bbugyi200.apollo.bob-cli-pf.1.1.2/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.1.1.3](../bbugyi200.apollo.bob-cli-pf.1.1.3/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.1.1.4](../bbugyi200.apollo.bob-cli-pf.1.1.4/README.md) | bob-cli-pf hood | waiting |
