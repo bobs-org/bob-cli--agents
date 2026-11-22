@@ -53,7 +53,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-on.12](../agents/bbugyi200.athena.bob-cli-on.12/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.14](../agents/bbugyi200.athena.bob-cli-on.14/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.15](bbugyi200.athena.bob-cli-on.15.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
-| [bob-cli-on.15.1.1](../agents/bbugyi200.athena.bob-cli-on.15.1.1/README.md) | bob-cli-on hood | active |
+| [bob-cli-on.15.1.1](../agents/bbugyi200.athena.bob-cli-on.15.1.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.15.1.2](../agents/bbugyi200.athena.bob-cli-on.15.1.2/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.15.1.3](../agents/bbugyi200.athena.bob-cli-on.15.1.3/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.15.1.4](../agents/bbugyi200.athena.bob-cli-on.15.1.4/README.md) | bob-cli-on hood | waiting |
