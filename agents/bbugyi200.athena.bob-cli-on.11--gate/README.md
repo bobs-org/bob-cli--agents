@@ -27,7 +27,7 @@
 | [bob-cli-on.11.1.2](../bbugyi200.athena.bob-cli-on.11.1.2/README.md) | descendant | completed |
 | [bob-cli-on.11.1.3](../../sessions/bbugyi200.athena.bob-cli-on.11.1.3.md) (session · 5) | descendant | completed 3, failed 2 |
 | [bob-cli-on.11.1.4](../bbugyi200.athena.bob-cli-on.11.1.4/README.md) | descendant | completed |
-| [bob-cli-on.11.1.5](../bbugyi200.athena.bob-cli-on.11.1.5/README.md) | descendant | waiting |
+| [bob-cli-on.11.1.5](../bbugyi200.athena.bob-cli-on.11.1.5/README.md) | descendant | completed |
 | [bob-cli-on.11.1.6](../bbugyi200.athena.bob-cli-on.11.1.6/README.md) | descendant | waiting |
 | [bob-cli-on.11.1.land](../bbugyi200.athena.bob-cli-on.11.1.land/README.md) | descendant | waiting |
 | [bob-cli-on.1](../bbugyi200.athena.bob-cli-on.1/README.md) | bob-cli-on hood | completed |
