@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.5y.image
 
-**Global name:** `bbugyi200.apollo.research.5y.image` · **State:** waiting · **Source run:** `run-912f031793ce8e29171a471177ab45f2`
+**Global name:** `bbugyi200.apollo.research.5y.image` · **State:** completed · **Source run:** `run-912f031793ce8e29171a471177ab45f2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,42 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261122172237
+- Timing: 2026-11-22T23:14:12.275335+00:00 → 2026-11-22T23:25:22.391388+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/area\_project\_property\_cards/area\_project\_property\_cards.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122172237/area\_project… |
+| `diagrams` | {considered: 14, count: 2, manifest: 202611/area\_project\_property\_cards/area\_project\_property\_cards.diagrams.md, source\_ref: file:explicit:e6f90f54376bbceeadc1b5bd, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/area_project_property_cards/area_project_property_cards.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122172237/area_project_property_cards.diagrams-3d74b89503be.md
+  ref: file:explicit:5782cf224ea54b9e9ebd8e90
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/area_project_property_cards/area_project_property_cards.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 2
+manifest: 202611/area_project_property_cards/area_project_property_cards.diagrams.md
+source_ref: file:explicit:e6f90f54376bbceeadc1b5bd
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -28,6 +58,7 @@
 | [research.5y.grk](../bbugyi200.apollo.research.5y.grk/README.md) | research.5y hood | completed |
 | [research.5y.linker](../bbugyi200.apollo.research.5y.linker/README.md) | research.5y hood | waiting |
 | [research.5y.linker.w0](../bbugyi200.apollo.research.5y.linker.w0/README.md) | research.5y hood | waiting |
+| [research.5y.linker.w1](../bbugyi200.apollo.research.5y.linker.w1/README.md) | research.5y hood | waiting |
 | [research.5y.mus](../bbugyi200.apollo.research.5y.mus/README.md) | research.5y hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
