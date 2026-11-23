@@ -2,11 +2,11 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-pq
 
-**Global hood:** `bbugyi200.athena.bob-cli-pq` · **Runs:** 14 · **Sessions:** 3 · **States:** active 2, completed 8, waiting 4
+**Global hood:** `bbugyi200.athena.bob-cli-pq` · **Runs:** 14 · **Sessions:** 3 · **States:** active 2, completed 9, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
-| [bob-cli-pq.4](../../../../../../agents/bbugyi200.athena.bob-cli-pq.4/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261123035529 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-pq.4/prompt.md) |
+| [bob-cli-pq.4](../../../../../../agents/bbugyi200.athena.bob-cli-pq.4/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-23T15:48:24.399835+00:00 → 2026-11-23T16:14:06.404411+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-pq.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-pq.4/chat.md) |
 | [bob-cli-pq.2--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-pq.2.md#member-mon) | completed | grok-4.6 / grok | 2026-11-23T09:59:21.499825+00:00 → 2026-11-23T10:06:21.418605+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-pq.2--mon/chat.md) |
 | [bob-cli-pq.5](../../../../../../agents/bbugyi200.athena.bob-cli-pq.5/README.md) | completed | gpt-6-luna / codex | 2026-11-23T08:56:27.034117+00:00 → 2026-11-23T08:58:54.931117+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-pq.5/chat.md), [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-pq.5/prompt.md) |
 | [bob-cli-pq.5--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-pq.5.md#member-plan) | completed | gpt-6-astra / codex | 2026-11-23T15:13:12.415560+00:00 → 2026-11-23T15:15:57.984988+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-pq.5--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-pq.5--plan/chat.md) |
