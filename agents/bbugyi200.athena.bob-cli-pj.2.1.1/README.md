@@ -34,4 +34,4 @@
 | [bob-cli-pj.2.1.3](../bbugyi200.athena.bob-cli-pj.2.1.3/README.md) | bob-cli-pj.2.1 hood | completed |
 | [bob-cli-pj.2.1.land](../../sessions/bbugyi200.athena.bob-cli-pj.2.1.land.md) (session · 3) | bob-cli-pj.2.1 hood | completed 3 |
 | [bob-cli-pj.1](../bbugyi200.athena.bob-cli-pj.1/README.md) | bob-cli-pj hood | completed |
-| [bob-cli-pj.land](../bbugyi200.athena.bob-cli-pj.land/README.md) | bob-cli-pj hood | waiting |
+| [bob-cli-pj.land](../../sessions/bbugyi200.athena.bob-cli-pj.land.md) (session · 3) | bob-cli-pj hood | active 2, completed 1 |

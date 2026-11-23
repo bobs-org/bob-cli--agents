@@ -32,4 +32,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-pj.2.1.3](../agents/bbugyi200.athena.bob-cli-pj.2.1.3/README.md) | descendant | completed |
 | [bob-cli-pj.2.1.land](bbugyi200.athena.bob-cli-pj.2.1.land.md) (session · 3) | descendant | completed 3 |
 | [bob-cli-pj.1](../agents/bbugyi200.athena.bob-cli-pj.1/README.md) | bob-cli-pj hood | completed |
-| [bob-cli-pj.land](../agents/bbugyi200.athena.bob-cli-pj.land/README.md) | bob-cli-pj hood | waiting |
+| [bob-cli-pj.land](bbugyi200.athena.bob-cli-pj.land.md) (session · 3) | bob-cli-pj hood | active 2, completed 1 |

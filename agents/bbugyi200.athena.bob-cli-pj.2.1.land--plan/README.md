@@ -47,4 +47,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pj.2.1.2](../bbugyi200.athena.bob-cli-pj.2.1.2/README.md) | bob-cli-pj.2.1 hood | completed |
 | [bob-cli-pj.2.1.3](../bbugyi200.athena.bob-cli-pj.2.1.3/README.md) | bob-cli-pj.2.1 hood | completed |
 | [bob-cli-pj.1](../bbugyi200.athena.bob-cli-pj.1/README.md) | bob-cli-pj hood | completed |
-| [bob-cli-pj.land](../bbugyi200.athena.bob-cli-pj.land/README.md) | bob-cli-pj hood | waiting |
+| [bob-cli-pj.land](../../sessions/bbugyi200.athena.bob-cli-pj.land.md) (session · 3) | bob-cli-pj hood | active 2, completed 1 |
