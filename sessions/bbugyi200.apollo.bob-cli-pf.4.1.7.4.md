@@ -21,7 +21,7 @@ flowchart TD
   n0 --> n5
   n6["bob-cli-pf.4.1.7.4--7 [completed]"]
   n0 --> n6
-  n7["bob-cli-pf.4.1.7.4--a [active]"]
+  n7["bob-cli-pf.4.1.7.4--a [completed]"]
   n0 --> n7
   n8["bob-cli-pf.4.1.7.4--mon-7 [failed]"]
   n0 --> n8
@@ -62,7 +62,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-9"></a>9 | bob-cli-pf.4.1.7.4--9 | completed | grok-4.6 / grok | 2026-11-23T15:48:15.379319+00:00 → 2026-11-23T15:57:30.816590+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--9/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--9/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-pf.4.1.7.4--mon | failed | grok-4.6 / grok | 2026-11-23T13:59:21.384788+00:00 → 2026-11-23T14:05:20.849893+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--mon/chat.md) |
 | <a id="member-7"></a>7 | bob-cli-pf.4.1.7.4--7 | completed | grok-4.6 / grok | 2026-11-23T15:21:29.385624+00:00 → 2026-11-23T15:33:28.495329+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--7/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--7/chat.md) |
-| <a id="member-a"></a>a | bob-cli-pf.4.1.7.4--a | active | grok-4.6 / grok | 2026-11-23T16:00:34.765889+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--a/prompt.md) | — |
+| <a id="member-a"></a>a | bob-cli-pf.4.1.7.4--a | completed | grok-4.6 / grok | 2026-11-23T16:00:34.765889+00:00 → 2026-11-23T16:20:47.701907+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--a/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--a/chat.md) |
 | <a id="member-mon-7"></a>mon-7 | bob-cli-pf.4.1.7.4--mon-7 | failed | grok-4.6 / grok | 2026-11-23T15:43:10.398794+00:00 → 2026-11-23T15:48:15.500007+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--mon-7/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | bob-cli-pf.4.1.7.4--mon-5 | failed | grok-4.6 / grok | 2026-11-23T15:15:43.059351+00:00 → 2026-11-23T15:21:29.806693+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--mon-5/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-pf.4.1.7.4--mon-1 | failed | grok-4.6 / grok | 2026-11-23T14:24:40.030832+00:00 → 2026-11-23T14:30:53.869761+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--mon-1/chat.md) |
@@ -77,6 +77,57 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-3"></a>mon-3 | bob-cli-pf.4.1.7.4--mon-3 | failed | grok-4.6 / grok | 2026-11-23T14:55:28.583876+00:00 → 2026-11-23T15:00:47.994790+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--mon-3/chat.md) |
 | <a id="member-4"></a>4 | bob-cli-pf.4.1.7.4--4 | completed | grok-4.6 / grok | 2026-11-23T14:49:49.365625+00:00 → 2026-11-23T14:58:01.911714+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.4--4/chat.md) |
 
+## Variables
+
+| Role | Variable | Value |
+|---|---|---|
+| a | `artifacts` | \[{bead: bob-cli-pf.4.1.7.4, kind: file, label: Property Editor Athena e2e report (monitor 7c632j, 129/129), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261123105948/property-edito… |
+
+#### artifacts
+
+**Role:** `a`
+
+```yaml
+- bead: bob-cli-pf.4.1.7.4
+  kind: file
+  label: Property Editor Athena e2e report (monitor 7c632j, 129/129)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123105948/property-editor-report-eb263ab5772f.json
+  ref: file:explicit:49ee66906e8ea8acb9a84f58
+  source_path: /tmp/bob-cli-pf-4.1.7.4-surfaces/property-editor-report.json
+- bead: bob-cli-pf.4.1.7.4
+  kind: image
+  label: Property Editor wide-light screenshot (Athena 7c632j)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123105948/property-editor-wide-light-0136fbed3ab9.png
+  ref: file:explicit:5920b45f8a4e4c729e2d738e
+  source_path: /tmp/bob-cli-pf-4.1.7.4-surfaces/property-editor-wide-light.png
+- bead: bob-cli-pf.4.1.7.4
+  kind: image
+  label: Property Editor wide-dark screenshot (Athena 7c632j)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123105948/property-editor-wide-dark-fbfee02eff43.png
+  ref: file:explicit:bdd1744c20a50aa51751a550
+  source_path: /tmp/bob-cli-pf-4.1.7.4-surfaces/property-editor-wide-dark.png
+- bead: bob-cli-pf.4.1.7.4
+  kind: image
+  label: Property Editor narrow-light screenshot (Athena 7c632j)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123105948/property-editor-narrow-light-fb13a934f9ea.png
+  ref: file:explicit:8168a7fbdad3b7c39330defb
+  source_path: /tmp/bob-cli-pf-4.1.7.4-surfaces/property-editor-narrow-light.png
+- bead: bob-cli-pf.4.1.7.4
+  kind: image
+  label: Property Editor narrow-dark screenshot (Athena 7c632j)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123105948/property-editor-narrow-dark-9a58420c1316.png
+  ref: file:explicit:848daf017651f258b7137e00
+  source_path: /tmp/bob-cli-pf-4.1.7.4-surfaces/property-editor-narrow-dark.png
+- bead: bob-cli-pf.4.1.7.4
+  kind: file
+  label: Property Editor Athena e2e evidence zip (report + four PNGs, monitor 7c632j)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123105948/bob-cli-pf-4.1.7.4-property-editor-athena-e2e-fda9a7b4c695.zip
+  ref: file:explicit:36d3fab3790612136e5f0ca8
+  source_path: /tmp/bob-cli-pf-4.1.7.4-property-editor-athena-e2e.zip
+```
+
+Values are truncated for display; see each member's agent meta.json for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
@@ -85,7 +136,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-pf.4.1.7.1](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.1/README.md) | bob-cli-pf.4.1.7 hood | completed |
 | [bob-cli-pf.4.1.7.2](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.2/README.md) | bob-cli-pf.4.1.7 hood | completed |
 | [bob-cli-pf.4.1.7.3](bbugyi200.apollo.bob-cli-pf.4.1.7.3.md) (session · 13) | bob-cli-pf.4.1.7 hood | completed 7, failed 6 |
-| [bob-cli-pf.4.1.7.land](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.land/README.md) | bob-cli-pf.4.1.7 hood | waiting |
+| [bob-cli-pf.4.1.7.land](bbugyi200.apollo.bob-cli-pf.4.1.7.land.md) (session · 3) | bob-cli-pf.4.1.7 hood | active 2, completed 1 |
 | [bob-cli-pf.4.1.1](../agents/bbugyi200.apollo.bob-cli-pf.4.1.1/README.md) | bob-cli-pf.4.1 hood | completed |
 | [bob-cli-pf.4.1.2](../agents/bbugyi200.apollo.bob-cli-pf.4.1.2/README.md) | bob-cli-pf.4.1 hood | completed |
 | [bob-cli-pf.4.1.3](bbugyi200.apollo.bob-cli-pf.4.1.3.md) (session · 5) | bob-cli-pf.4.1 hood | completed 3, failed 2 |
