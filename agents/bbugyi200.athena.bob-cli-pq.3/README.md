@@ -75,8 +75,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pq.1](../bbugyi200.athena.bob-cli-pq.1/README.md) | bob-cli-pq hood | completed |
 | [bob-cli-pq.2](../../sessions/bbugyi200.athena.bob-cli-pq.2.md) (session · 3) | bob-cli-pq hood | completed 3 |
 | [bob-cli-pq.4](../bbugyi200.athena.bob-cli-pq.4/README.md) | bob-cli-pq hood | completed |
-| [bob-cli-pq.5](../../sessions/bbugyi200.athena.bob-cli-pq.5.md) (session · 2) | bob-cli-pq hood | active 1, completed 1 |
+| [bob-cli-pq.5](../../sessions/bbugyi200.athena.bob-cli-pq.5.md) (session · 9) | bob-cli-pq hood | completed 6, failed 3 |
 | [bob-cli-pq.5](../bbugyi200.athena.bob-cli-pq.5/README.md) | bob-cli-pq hood | completed |
-| [bob-cli-pq.6](../bbugyi200.athena.bob-cli-pq.6/README.md) | bob-cli-pq hood | waiting |
+| [bob-cli-pq.6](../bbugyi200.athena.bob-cli-pq.6/README.md) | bob-cli-pq hood | active |
 | [bob-cli-pq.7](../bbugyi200.athena.bob-cli-pq.7/README.md) | bob-cli-pq hood | waiting |
 | [bob-cli-pq.land](../bbugyi200.athena.bob-cli-pq.land/README.md) | bob-cli-pq hood | waiting |
