@@ -31,7 +31,7 @@
 | [bob-cli-pf.4.1.6](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.6.md) (session · 3) | descendant | completed 2, failed 1 |
 | [bob-cli-pf.4.1.7.1](../bbugyi200.apollo.bob-cli-pf.4.1.7.1/README.md) | descendant | completed |
 | [bob-cli-pf.4.1.7.2](../bbugyi200.apollo.bob-cli-pf.4.1.7.2/README.md) | descendant | completed |
-| [bob-cli-pf.4.1.7.3](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.3.md) (session · 8) | descendant | active 1, completed 4, failed 3 |
+| [bob-cli-pf.4.1.7.3](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.3.md) (session · 10) | descendant | active 1, completed 5, failed 4 |
 | [bob-cli-pf.4.1.7.4](../bbugyi200.apollo.bob-cli-pf.4.1.7.4/README.md) | descendant | waiting |
 | [bob-cli-pf.4.1.7.land](../bbugyi200.apollo.bob-cli-pf.4.1.7.land/README.md) | descendant | waiting |
 | [bob-cli-pf.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.land.md) (session · 3) | descendant | active 1, completed 2 |
