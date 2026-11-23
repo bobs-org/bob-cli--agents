@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / bob-cli-pf.1.1.5
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.1.1.5` · **State:** waiting · **Source run:** `run-a186c36090c3f9d717b5bc20d903b592`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.1.1.5` · **State:** completed · **Source run:** `run-a186c36090c3f9d717b5bc20d903b592`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
@@ -12,13 +12,13 @@
 - Epic: [bob-cli-pf.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.1.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261122144638
+- Timing: 2026-11-22T23:57:58.170812+00:00 → 2026-11-23T01:56:49.543258+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -35,6 +35,12 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122144638/card-foot-final-da8dcbc14676.json
   ref: file:explicit:dcd27f31fa7fb913287fdb6a
   source_path: /tmp/card-foot-final.json
+- bead: bob-cli-pf.1.1.5
+  kind: file
+  label: Card foot real-Obsidian screenshot matrix (27 PNGs)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122144638/card-foot-e2e-final-shots.tar-f79885a7387e.gz
+  ref: file:explicit:c7135143af9a4a7d2df51467
+  source_path: /tmp/card-foot-e2e-final-shots.tar.gz
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
@@ -53,7 +59,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pf.2.1.1](../../sessions/bbugyi200.apollo.bob-cli-pf.2.1.1.md) (session · 3) | bob-cli-pf hood | completed 3 |
 | [bob-cli-pf.2.1.2](../../sessions/bbugyi200.apollo.bob-cli-pf.2.1.2.md) (session · 5) | bob-cli-pf hood | completed 4, failed 1 |
 | [bob-cli-pf.2.1.3](../bbugyi200.apollo.bob-cli-pf.2.1.3/README.md) | bob-cli-pf hood | completed |
-| [bob-cli-pf.2.1.land](../bbugyi200.apollo.bob-cli-pf.2.1.land/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-pf.2.1.land.md) (session · 3) | bob-cli-pf hood | active 2, completed 1 |
 | [bob-cli-pf.3](../bbugyi200.apollo.bob-cli-pf.3/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.4](../bbugyi200.apollo.bob-cli-pf.4/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.5](../bbugyi200.apollo.bob-cli-pf.5/README.md) | bob-cli-pf hood | waiting |
