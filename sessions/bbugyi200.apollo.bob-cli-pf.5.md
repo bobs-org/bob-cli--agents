@@ -28,7 +28,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-pf.5.1.1](bbugyi200.apollo.bob-cli-pf.5.1.1.md) (session · 3) | descendant | completed 3 |
-| [bob-cli-pf.5.1.2](../agents/bbugyi200.apollo.bob-cli-pf.5.1.2/README.md) | descendant | waiting |
+| [bob-cli-pf.5.1.2](../agents/bbugyi200.apollo.bob-cli-pf.5.1.2/README.md) | descendant | completed |
 | [bob-cli-pf.5.1.3](../agents/bbugyi200.apollo.bob-cli-pf.5.1.3/README.md) | descendant | waiting |
 | [bob-cli-pf.5.1.4](../agents/bbugyi200.apollo.bob-cli-pf.5.1.4/README.md) | descendant | waiting |
 | [bob-cli-pf.5.1.5](../agents/bbugyi200.apollo.bob-cli-pf.5.1.5/README.md) | descendant | waiting |
