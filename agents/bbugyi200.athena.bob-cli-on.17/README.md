@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / bob-cli-on.17
 
-**Global name:** `bbugyi200.athena.bob-cli-on.17` · **State:** waiting · **Source run:** `run-b9c548d6801138591e8ab96ab9bd28fc`
+**Global name:** `bbugyi200.athena.bob-cli-on.17` · **State:** completed · **Source run:** `run-b9c548d6801138591e8ab96ab9bd28fc`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-on](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261121111450
-- Commits: 0
+- Timing: 2026-11-23T06:17:59.046549+00:00 → 2026-11-23T06:27:59.550171+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`2b626d0`](https://github.com/bobs-org/bob-cli/commit/2b626d01ebf6f0f474537264e69f216ca9023285) | docs(memory): record that task requirements are met with their task | 2026-11-23 01:26:54 EST |
 
 ## Neighbors
 
