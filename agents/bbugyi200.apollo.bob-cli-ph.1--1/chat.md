@@ -1,30 +1,44 @@
-# Chat History - ace-run (bob-cli-ph.1--1--plan)
+# Chat History - ace-run (bob-cli-ph.1--1)
 
-- **TIMESTAMP:** 2026-11-23 03:47:22 EST
-- **MODEL:** codex/gpt-6-astra
-- **AGENT:** bob-cli-ph.1--1--plan
+- **TIMESTAMP:** 2026-11-23 08:27:37 EST
+- **MODEL:** codex/gpt-6-luna
+- **AGENT:** bob-cli-ph.1--1
 
-**Plan:** /home/bryan/.sase/plans/202611/dual_read_task_drawers.md
+# Monitor handoff
 
+This agent delegated the remaining work to a monitor turn.
+Monitor ID: 9x2grfn9kc4r
+Inspect with: sase monitor show 9x2grfn9kc4r
+Monitor turn: bob-cli-ph.1--mon-0
+Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13
 
-## Proposed Plan Preview
+Command:
 
-*Plan submitted for review.*
+```sh
+set -e
+cargo test --lib capture_drawers
+cargo test --lib task_block_layout
+cargo test --lib task_split
+cargo test --lib task_text_escape
+cargo test --lib gcal::description::bullets
+cargo test --lib gmail::body::inert
+cargo test --test cli drawer
+cargo test --test cli req
+cargo test --test cli clip
+cargo test --test cli docs_reference
+uv run --project tools/docs pytest tools/docs/tests/test_contracts.py
+just check
+just docs-check
+```
 
-**Plan file:** `/home/bryan/.sase/plans/202611/dual_read_task_drawers.md`
+Reason:
 
-> - **BEAD:** bob-cli-ph.1
-> # Plan: Dual-read task drawers in Rust
-> ## Scope and authority
-> Complete assigned phase `bob-cli-ph.1` (`drawer-contract`) of
-> `plan:202611/true_case_drawers.md`. Read that plan, this phase's latest notes, and
-> `research:202611/true_case_drawers/true_case_drawers.md` with audited SASE reads before
-> implementing. The epic's design supersedes the research wherever they differ: ship dual
-> readers first, preserve header writers and capture draft grammar, and defuse both legacy
-> ALL-CAPS and whole-bold imported text during this window.
-> This is one medium tale because the architecture and caller inventory are known: one
+Run focused task drawer regressions and repository gates
 
-*See full plan file for details.*
+Next action:
+
+Review the monitor results. If anything fails, diagnose and fix it, then rerun the focused regressions and failed gates. Once all checks pass, record concise verified evidence on bob-cli-ph.1, confirm epic-symbols is clear, and close only bob-cli-ph.1. Do not commit or modify other repositories. Finish through sase_final.
+
 
 ## Prompt
 
@@ -37,53 +51,23 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 - **Projection version:** `1`
 - **Ordered nodes:** `1`
 
-## Continuation Block `block:v1:3e2e392d14a109d92f59c04cf69b10c8`
+## Continuation Block `block:v1:00c6b083499ae4e95a73593ca107e39c`
 
-- **Node:** `agent-delta:20261122173804:73b9ac71e52b4970`
+- **Node:** `agent-delta:20261123070625:6c7500d7ac3b7da7`
 - **Kind:** `agent_delta`
 - **Parents:** (none)
-- **Content:** `local:continuation/records/agent_delta/agent-delta:20261122173804:73b9ac71e52b4970.json`
-- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-08226d8c588db242.json`
+- **Content:** `local:continuation/records/agent_delta/agent-delta:20261123070625:6c7500d7ac3b7da7.json`
+- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-cd495d733322b8c4.json`
 
 ### User
 
 **Protected user instruction.** Carry this request unless an explicit attributed update supersedes it.
 
+%model:@medium
 #gh:gh_bobs-org__bob-cli
-%id(bob-cli-ph.1, bead=bob-cli-ph.1)
-%clan(bob-cli-ph, tribe=epic, summary_script=sase_clan_summary_epic)
-%model:@large
-%auto
-Can you complete the work for bead bob-cli-ph.1? The bead is already reserved for you and assigned to your agent
-name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
-checkpoint or by the runtime promoting an ad-hoc wait-time claim. Do not set the status by hand. If the host
-notice says the bead was already closed when this run started, the run is attached to the closed bead. Only the
-host notice tells you that; if `sase bead read` shows a closed bead and no host notice said so, you copied the
-wrong ID — re-copy `bob-cli-ph.1` from this prompt before concluding anything. Check
-whether the earlier work landed before redoing anything. Only when the host notice said the bead was already
-closed and the work is genuinely unfinished, run `sase bead open bob-cli-ph.1` first. Otherwise never run
-`sase bead open` on your own bead: it demotes an `in_progress` bead back to `open`. To view a bead, run
-`sase bead read bob-cli-ph.1 -r "<why you need this bead>"`. Read its
-description and design file with `sase bead read bob-cli-ph.1 -r "Need the phase scope and design file"`, do the work, and close only this bead with
-`sase bead close bob-cli-ph.1 --note "<what you verified>"`. Honor the epic's DECISIONS shown by
-`sase bead read`; they are final, and only memory notes they authorize may be edited. Before closing, run
-`sase bead epic-symbols bob-cli-ph.1`. If this phase still has `--epic-symbol` entries, resolve each symbol or
-re-key the Justfile line to a still-open bead (the parent epic or a later phase). `sase bead close` refuses while
-leftovers remain; they go stale the instant this phase closes and turn unrelated agents' `just check` red. Closing
-an assigned phase bead is unaffected by the parent-close descendant guard. Do NOT close the parent epic or any ancestor plan bead. Any instruction in a phase
-description or child plan to close an ancestor is preparation and evidence for that ancestor's land agent, not
-authorization for a phase worker. Do not create beads yourself: record discovered follow-up work as a
-`PROPOSED FOLLOW-UP:` entry via
-`sase bead note bob-cli-ph.1 'PROPOSED FOLLOW-UP: <one-line summary — detail>'`; the epic's land agent triages
-these into task beads. A check failure that reproduces identically on the clean base tree does not keep this bead
-open: record it as a `PROPOSED FOLLOW-UP:` entry (citing any task bead that already tracks it) and close anyway;
-nothing relaunches a phase left open. Before planning, check the phase's notes: if an earlier agent already
-worked this phase and left it open with recorded remaining work, that remainder did not fit one agent, so author
-a child epic whose phases each fit one coding agent and whose land agent closes this phase instead of another
-single-agent tale unless one coder can clearly finish everything left.
-Think this through thoroughly and create a plan using your `/sase_plan` skill. Choose and author the appropriate
-tier, validate and revalidate until it passes, then submit it with `sase plan propose` (as the skill instructs)
-before making any file changes.
+@plan:202611/task_drawer_readers.md
+
+The above plan has been reviewed and approved. Implement it now.
 
 ### Checkpoint
 
@@ -91,32 +75,39 @@ before making any file changes.
 
 ### Assistant
 
-<!--sase:budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-08226d8c588db242.json;covered=agent-delta%3A20261122173804%3A73b9ac71e52b4970-->
-I’ll read the bead’s scope, notes, and design, check what has already landed, then use the `sase_plan` skill to validate and submit a plan before editing files.
+<!--sase:budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-cd495d733322b8c4.json;covered=agent-delta%3A20261123070625%3A6c7500d7ac3b7da7-->
+I’ll open the plans sidecar through the SASE repo workflow, read the approved plan with the audited artifact command, then implement it in this checkout. I’m applying the `sase_repo` and `sase_artifact` workflows because the plan lives in a sidecar repo.
 
+The approved plan defines this as phase `bob-cli-ph.1` and requires audited reads of its epic, research report, phase bead, and the CLI/docs reference memory before edits. I’ve read the phase plan; I’m loading those sources and the bead workflow now, then I’ll map each implementation surface before changing code.
 
-The bead is in progress and has no prior work notes. Its scope is the Rust drawer contract and readers, including imported-text escaping and conformance tests; writer changes belong to later phases. I’m using `sase_beads` and `sase_memory_read` to check those boundaries before sizing the plan.
+The shared reader now has the dual marker model and contextual recognition; task layout, requirement filtering, split selection, and drawer lookup are being moved onto it. I’m at the first compile pass to catch structural issues before I finish import escaping and the fixture/doc surfaces.
 
+The first compile pass now succeeds. The recognizer preserves the legacy creation predicate, reports source ranges and marker provenance, and treats bold/legacy titles by Unicode key; I’m finishing importer defusing and end-to-end regression vectors next.
 
-The approved design requires this phase to wait for `bob-cli-on` to close. That epic is still in progress, with promotion, successor-card, and memory work unfinished. No implementation files have changed. I’ll check how to stage that wait so this bead can resume after the prerequisite closes.
+The core reader changes and shared fixture set are in place. I’m finishing the importer and clipboard cases, then I’ll run the plan’s Rust and documentation gates and record the verified result on the phase bead.
 
+The reader now exposes marker provenance, and imported child text plus clipboard output is defused when it could be mistaken for a drawer. I’ve added shared cases for requirements, Notes-home reuse, and splitting bold notes inside a drawer; I’m moving into the compile and regression pass now.
 
-The prerequisite still has phases `.11`, `.12`, `.15`, and `.17` open. I also found that the research reference required by the design resolves as missing, and recorded that on this bead. I’m using `sase_monitor` to resume planning after `bob-cli-on` closes, leaving `bob-cli-ph.1` in progress.
+The check suite can run longer than a single tool window, so I’m using the project’s SASE monitor handoff for the required gates and will review the completed results here.
 
+`just docs-gen` is still compiling the CLI test target from the workspace’s clean build cache, so it hasn’t reached the documentation assertions yet. I’m letting this run finish before starting any other build or test command.
 
-The wait is staged and will resume this task after `bob-cli-on` closes. I’ll finish this turn through `sase_final`; the bead remains open for its plan and implementation.
+The CLI test binary has compiled far enough to expose only expected-unused warnings on the new migration mapping helpers; the generator’s integration test is still running. I’ll mark those helpers intentionally available for the next migration phase once this generator exits, then continue through the full gates.
 
+The CLI reference test passed, but the docs generator stopped on a duplicate contract order (`56`) in the new registry entry. I’m correcting the registry order, then I’ll rerun generation and the remaining checks.
 
-`bob-cli-ph.1` is waiting on an explicit design prerequisite: `bob-cli-on` must close first. Its phases `.11`, `.12`, `.15`, and `.17` remain open.
+The documentation generator is staged, with a successor tasked to finish the focused regressions, full gates, and phase-bead evidence/closure. I’m ending this turn through the required SASE finalizer so that continuation can start.
 
-I recorded the dependency and staged automatic resumption. No source changes were made; planning and implementation remain pending. I also recorded the missing required research reference.
+The dual-read reader changes, marker JSON, catalog provenance, fixture vectors, and drawer-safe import/clipboard handling are prepared. The first `just docs-gen` run passed its CLI reference test but found a duplicate contract order; I fixed the order and staged a rerun.
+
+A follow-up is queued to finish docs generation, run the focused regressions and remaining gates, then record evidence and close `bob-cli-ph.1` if they pass. No action is needed from you.
 <!--sase:budget-span:close:1-->
 
 ---
 
 %macros_enabled:true
 # New Query
-%model:gpt-6-astra@xhigh
+%model:gpt-6-luna@xhigh
 
 %macros_enabled:false
 # Monitored command finished
@@ -124,7 +115,7 @@ I recorded the dependency and staged automatic resumption. No source changes wer
 **Command:**
 
 ```text
-until [ "$(sase bead read bob-cli-on -N -f json -r "Poll prerequisite status for bob-cli-ph.1" | jq -r .issue.status)" = closed ]; do sleep 300; done
+just docs-gen
 ```
 
 **Directory:**
@@ -136,16 +127,16 @@ until [ "$(sase bead read bob-cli-on -N -f json -r "Poll prerequisite status for
 | | |
 | --- | --- |
 | **Outcome** | COMPLETED — exit 0 |
-| **Started** | 2026-11-22T22:42:56.533610+00:00 |
-| **Finished** | 2026-11-23T08:37:09.588533Z |
-| **Elapsed** | 9h 53m 32s of a 168h 0m 0s budget |
-| **Output** | 11 KiB · evidence refs: `file:monitor-diagnostic-manifest:ty9qdrxc9bk1`, `file:monitor-retained-log:ty9qdrxc9bk1` · raw output omitted: `facts_only` · full log: `sase monitor show ty9qdrxc9bk1 --all-lines` |
+| **Started** | 2026-11-23T13:05:02.988973+00:00 |
+| **Finished** | 2026-11-23T13:12:12.346245Z |
+| **Elapsed** | 4m 37s of a 20m 0s budget |
+| **Output** | 982 bytes · evidence refs: `file:monitor-diagnostic-manifest:jwxwae73m1wb`, `file:monitor-retained-log:jwxwae73m1wb` · raw output omitted: `facts_only` · full log: `sase monitor show jwxwae73m1wb --all-lines` |
 
-**Why this was monitored:** Approved drawer-contract precondition requires bob-cli-on to close before any changes
+**Why this was monitored:** Generate current task drawer documentation
 
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-f4458c8d7c743ab9.json`
+- **Ref:** `local:continuation/checkpoints/monitor_start-81fd5357fbbee665.json`
 
 **Checkpoint (JSON):**
 
@@ -153,20 +144,20 @@ until [ "$(sase bead read bob-cli-on -N -f json -r "Poll prerequisite status for
 {
   "kind": "monitor_start",
   "payload": {
-    "command": "until [ \"$(sase bead read bob-cli-on -N -f json -r \"Poll prerequisite status for bob-cli-ph.1\" | jq -r .issue.status)\" = closed ]; do sleep 300; done",
+    "command": "just docs-gen",
     "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13",
     "member_agent_name": "bob-cli-ph.1--mon",
-    "monitor_id": "ty9qdrxc9bk1",
+    "monitor_id": "jwxwae73m1wb",
     "next_output": "auto",
     "parent_node_ids": [
-      "agent-delta:20261122173804:73b9ac71e52b4970"
+      "agent-delta:20261123070625:6c7500d7ac3b7da7"
     ],
     "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:7274a2de3e84f70b041d015e87fb84af06993271f6c63c2b85beed3ad4a9c5de",
-    "starter_agent": "bob-cli-ph.1--plan",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/22/20261122173804"
+    "request_fingerprint": "sha256:64e52de3b7acc29fdb4451a07a08c9cc838b2d3294e7be01cf0ee87abc0bdc32",
+    "starter_agent": "bob-cli-ph.1--code",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/23/20261123071803"
   },
-  "recorded_at_epoch": 1795387417.4261568,
+  "recorded_at_epoch": 1795439255.046562,
   "schema_version": 1
 }
 ```
@@ -174,35 +165,19 @@ until [ "$(sase bead read bob-cli-on -N -f json -r "Poll prerequisite status for
 
 ## Your next action
 
-Resume the original user task for assigned phase bob-cli-ph.1. Read bob-cli-on and verify resolution done; a canceled prerequisite is not success. Read bob-cli-ph.1 notes and the approved true_case_drawers epic via audited reads. No implementation or plan file has been authored yet: the previous turn stopped solely at the explicit prerequisite, so there is no oversized unfinished coding remainder. Resolve the missing required research artifact reference before implementing. Recheck landed work and current source after the prerequisite; then thoroughly size and author the appropriate plan through /sase_plan, validate with --explain and revalidate, and submit with sase plan propose before source edits. Preserve the final epic decisions and readers-first/writers-unchanged boundary. Do not change bead status by hand, create follow-up task beads, or close any ancestor. Eventual completion must check epic-symbols and close only bob-cli-ph.1 with verified evidence. If still blocked, stage another appropriate wait.
+Review the docs-gen result and generated docs. Continue from this session: run focused Rust and CLI regressions for task drawer readers, requirements/layout, task split, clipboard, and importers; fix failures. Then run just check, just docs-check, and the docs contract tests, fixing and rerunning as needed. Check sase bead epic-symbols bob-cli-ph.1, record concise verified evidence on that phase bead per the approved plan, and close only bob-cli-ph.1 after all gates pass. Do not commit or modify other repositories. Finish the root turn through sase_final.
 %macros_enabled:true
 
 ## Response
 
-The prerequisite wait finished. I’ll verify that it completed successfully, reread the phase and approved design, and resolve the missing research reference before using `sase_plan` to prepare and submit the implementation plan.
+`just docs-gen` finished successfully. I’ll inspect its retained output and generated docs, then run the requested focused regressions and full gates. I’ll also check the phase bead and record evidence only after the gates pass.
 
+The monitored docs generation passed its CLI reference test and regenerated the contract indexes and navigation. The evidence refs themselves were denied by `sase artifact read`, but `sase monitor show --all-lines` exposes the retained output and exit 0. I’m narrowing down the focused test targets and checking the generated task drawer page before running them.
 
-`bob-cli-on` is closed with resolution **done**. Its landing work also fixed the project-task Notes section that this phase listed as step 0. The phase notes confirm that no coding attempt occurred. I’m now checking the drawer design and current source to size the remaining work.
+The generated [task drawer contract](docs/task-drawers.md) is present and its indexes now link it. The phase is still in progress, and `sase bead epic-symbols` reports no blocking symbols. I’ve identified the focused reader, layout/requirements, split, clipboard, and import escape tests; I’m preparing the longer verification run under the SASE monitor workflow.
 
+The focused regression set and full gates are staged as monitor `9x2grf`; they will start after this turn finalizes. The handoff instructs the follow-up to fix any failures, then add evidence to and close `bob-cli-ph.1` only after everything passes.
 
-The clean checkout has been fast-forwarded to `7703011d`, which contains the prerequisite’s landing fixes. The required research path still reports “missing”; I’m using `sase_repo` and audited artifact reads to find its canonical location. The core drawer work remains: readers still recognize only ALL-CAPS headers and use ASCII keys.
+`just docs-gen` completed successfully. I reviewed the generated [task drawer contract](</home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/docs/task-drawers.md>) and its updated indexes.
 
-
-The report exists at the original path after refreshing the research sidecar, so the reference appears recoverable. The source audit also confirms two boundaries for the plan: capture draft grammar stays unchanged, while imported text needs escaping because Google Calendar currently uses `**…**` to neutralize ALL-CAPS text—the syntax new readers will recognize as a drawer.
-
-
-The research reference now reads successfully, and all eight documentation contract tests pass on the updated base. The remaining work is bounded enough for one medium tale: a shared recognizer, reader updates, import escaping, and conformance fixtures. I’ll make the writer-preservation checks explicit in the plan, especially around shared normalization helpers.
-
-
-The plan is written. It names the reader and importer call sites, defines the DV/DH fixtures, and includes checks that new headers still use legacy syntax. It also carries forward the landed `^prj` tests and records the repaired research reference. I’m validating it before submission.
-
-
-The plan passes revalidation with zero warnings. I’m submitting it through `sase plan propose`. The [`sase_plan` skill](/home/bryan/.codex/skills/sase_plan/SKILL.md) says that after a staged proposal, “Nothing starts until your turn ends,” so a successful submission will hand the plan to SASE’s approval and coding flow.
-
-
-The proposal is staged. I’m finishing through `sase_final` so SASE can continue the approval flow. `bob-cli-ph.1` remains in progress; this turn verified the prerequisite and prepared the plan without changing implementation files.
-
-
-Verified the prerequisite completed successfully and recovered the required research reference. The medium tale passed validation and is staged for SASE approval. Baseline documentation tests passed 8/8.
-
-`bob-cli-ph.1` remains in progress; implementation has not started. The [`sase_plan` skill](/home/bryan/.codex/skills/sase_plan/SKILL.md) requires this handoff: “Nothing starts until your turn ends.”
+The focused regressions, `just check`, the docs contract tests, and `just docs-check` are staged in monitor `9x2grf`; they start after this turn ends. The phase bead remains in progress until those checks pass and the follow-up records evidence. I left the changes uncommitted as requested.

@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / [bob-cli-ph.1](../../sessions/bbugyi200.apollo.bob-cli-ph.1.md) / bob-cli-ph.1--1
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.1--1` · **State:** failed · **Source run:** `run-bf9677b2725e39cc75267c9e7e04968e`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.1--1` · **State:** completed · **Source run:** `run-f42bf9a26c4a9e82763bc02882991db8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
 ## Summary
 
 - Bead: [bob-cli-ph.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.1.md)
-- Model: gpt-6-astra
+- Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-23T08:38:15.099155+00:00 → 2026-11-23T08:47:39.085883+00:00
+- Timing: 2026-11-23T13:21:40.333789+00:00 → 2026-11-23T13:27:46.540938+00:00
 - Commits: 0
 
 ## Files
