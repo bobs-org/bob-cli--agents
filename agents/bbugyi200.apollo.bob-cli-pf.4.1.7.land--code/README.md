@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / [bob-cli-pf.4.1.7.land](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.land.md) / bob-cli-pf.4.1.7.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.4.1.7.land--code` · **State:** active · **Source run:** `run-d996568520a3a22ec3b5eda42db13c9b`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.4.1.7.land--code` · **State:** completed · **Source run:** `run-d996568520a3a22ec3b5eda42db13c9b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
@@ -11,8 +11,62 @@
 - Bead: [bob-cli-pf.4.1.7](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.4.1.7.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-23T16:34:04.482593+00:00
+- Timing: 2026-11-23T16:34:04.482593+00:00 → 2026-11-23T17:37:40.292843+00:00
 - Commits: 0
+- Variables: [1](#variables)
+
+## Files
+
+[Chat](chat.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-pf.4.1.7, kind: file, label: Property editor YAML-Done raw athena report, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261123113333/property-editor-e2e-054eb4752efb… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-pf.4.1.7
+  kind: file
+  label: Property editor YAML-Done raw athena report
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123113333/property-editor-e2e-054eb4752efb.json
+  ref: file:explicit:100794501f510b52e4d301a2
+  source_path: /tmp/pf417-e2e/property-editor-e2e.json
+- bead: bob-cli-pf.4.1.7
+  kind: file
+  label: Property editor YAML-Done reviewed athena report
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123113333/property-editor-e2e-reviewed-968ccf7d013d.json
+  ref: file:explicit:67292147c2af0fb1dbc34095
+  source_path: /tmp/pf417-e2e/property-editor-e2e-reviewed.json
+- bead: bob-cli-pf.4.1.7
+  kind: image
+  label: Property editor wide light screenshot
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123113333/property-editor-wide-light-0136fbed3ab9.png
+  ref: file:explicit:fc123a59cb45c2d89a6be43e
+  source_path: /tmp/pf417-e2e/property-editor-wide-light.png
+- bead: bob-cli-pf.4.1.7
+  kind: image
+  label: Property editor wide dark screenshot
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123113333/property-editor-wide-dark-fbfee02eff43.png
+  ref: file:explicit:bfad2cb954f520df8821b7b4
+  source_path: /tmp/pf417-e2e/property-editor-wide-dark.png
+- bead: bob-cli-pf.4.1.7
+  kind: image
+  label: Property editor narrow light screenshot
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123113333/property-editor-narrow-light-fb13a934f9ea.png
+  ref: file:explicit:6613646d2f833b8c8fd3468b
+  source_path: /tmp/pf417-e2e/property-editor-narrow-light.png
+- bead: bob-cli-pf.4.1.7
+  kind: image
+  label: Property editor narrow dark screenshot
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123113333/property-editor-narrow-dark-9a58420c1316.png
+  ref: file:explicit:3dd66eae5b7b4285c7d4a2db
+  source_path: /tmp/pf417-e2e/property-editor-narrow-dark.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

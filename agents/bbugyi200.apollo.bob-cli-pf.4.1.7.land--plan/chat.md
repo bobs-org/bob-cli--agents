@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-pf.4.1.7.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_pf_4_1_7_land__plan-261123_031102.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_pf_4_1_7_land__code-261123_031102.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/property_editor_yaml_return.md
 
 

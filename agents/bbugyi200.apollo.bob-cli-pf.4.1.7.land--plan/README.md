@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / [bob-cli-pf.4.1.7.land](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.land.md) / bob-cli-pf.4.1.7.land--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.4.1.7.land--plan` · **State:** active · **Source run:** `run-c48d17c21d01d8b6f643e89659dcdad9`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.4.1.7.land--plan` · **State:** completed · **Source run:** `run-c48d17c21d01d8b6f643e89659dcdad9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-pf.4.1.7](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.4.1.7.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-23T16:21:04.352456+00:00
+- Timing: 2026-11-23T16:21:04.352456+00:00 → 2026-11-23T17:37:40.292843+00:00
 - Commits: 0
 
 ## Files
