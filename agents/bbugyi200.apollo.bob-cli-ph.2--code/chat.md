@@ -1,71 +1,72 @@
 # Chat History - ace-run (bob-cli-ph.2--code)
 
-- **TIMESTAMP:** 2026-11-23 13:07:09 EST
-- **MODEL:** codex/gpt-6-luna
+- **TIMESTAMP:** 2026-11-23 16:52:48 EST
 - **AGENT:** bob-cli-ph.2--code
-
-# Monitor handoff
-
-This agent delegated the remaining work to a monitor turn.
-Monitor ID: svw0r146g4tn
-Inspect with: sase monitor show svw0r146g4tn
-Monitor turn: bob-cli-ph.2--mon
-Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13
-
-Command:
-
-```sh
-npm --prefix sase/repos/linked/bob-plugins test && just check
-```
-
-Reason:
-
-Run the full plugin suite and bob-cli repository check for task drawer reader parity
-
-Next action:
-
-Review both gate results. If either fails, fix regressions from the task drawer reader work and rerun the required checks. When green, deploy block-id-prompt, bob-ledger-tools, bob-navigation-hotkeys, and task-status-cycler from the opened bob-plugins checkout with `bob plugins sync --repo "$PWD" --no-pull -p <plugin-id>` from its repo root; do not use force. Verify each deployed bundle contains bob-task-drawer-dual-read-v1 and matches its source bundle hash. Record the exact bob-plugins commit, four plugin ids, marker and hashes, and the completed check results on bob-cli-ph.2. Run `sase bead epic-symbols bob-cli-ph.2`, then close only bob-cli-ph.2 with those verification and deployment details. Finish through /sase_final.
-
 
 ## Prompt
 
 %model:@medium
 #gh:gh_bobs-org__bob-cli
-@plan:202611/plugin_drawer_readers.md
+@plan:202611/plugin_drawer_completion.md
 
 The above plan has been reviewed and approved. Implement it now.
 
 
 ## Response
 
-I’ll open the plans sidecar through SASE, read the approved plan with the audited artifact command, then implement its steps in this checkout.
+I'll start by reading the SASE repo, artifact, and plan skills, then load the approved plan from the sidecar.
 
-The plan assigns a broad but bounded rollout across bob-cli and four bob-plugins, including canonical fixture synchronization, generated bundles, verification, deployment, and phase evidence. I’m loading the required bead and plugin-repo guidance now, then I’ll trace the current trees before making changes.
+I'll record skill use, read the artifacts memory, and open the plans sidecar so I can load the approved plan.
 
-The assigned phase is already in progress and the epic’s final choices confirm this slice keeps writers on legacy headers and uses the `tray` selection for later rendering. I’ve also opened bob-plugins and read its source-fragment/build/deploy rules. I’m now checking both working trees and the current fixture/twin layout so changes preserve anything already landed.
+Next I’ll audit-read the approved plan and inspect the workspace so I can implement it.
 
-The core integration is in place: one pure JS recognizer is now the source for all four plugin copies; the task requirement and layout readers delegate to it, Notes reuse is key based, and task splitting decodes drawer titles. I’ve also copied bob-cli’s current drawer, requirements, and split fixtures into the plugin checkout. I’m updating the promotion adapter and documentation next, then I’ll build and run the focused suites to catch any contract gaps.
+The approved phase is a test-fixture repair plus deployment closeout. I’ll load the bead, related plans, and plugin checkout next.
 
-The first verification pass found a mixed-indentation edge case: tabs must count as two columns for drawer ancestry, per Rust. I aligned the JS recognizer and layout adapter with that rule; the DV/DH bundle suite now passes for all four plugins, and the focused requirements, split, promotion/reversal, and writer suites pass 265 tests. I’m auditing remaining legacy grammar and loading the vault deployment rules before the full gates.
+The phase is still in progress with no notes. I’ll open the plugin repo and load the related plans next.
 
-The plugin build and validation gates are clean. `just docs-gen` is compiling the bob-cli test target from a cold build and is still running; once it finishes I’ll run the paired docs checks, then the full test/check gates and deployment.
+While the plan artifacts finish loading, I’ll read the plugin repo’s agent rules and the current drawer test.
 
-`just docs-gen` is still quiet in its Rust build step, while `npm run validate` completed successfully. I’m keeping that process alive to avoid throwing away its compile progress; after it settles, the docs check and full Rust/plugin gates can reuse the built target.
+I’ll inspect the current drawer tests, the reqs twin-copy pattern, and the repo state so the fixture fix matches the established approach.
 
-The implementation and focused validation are complete. I’m checking the remaining documentation gates now, then I’ll verify the working tree and finish deployment evidence and phase closeout.
+I have the fixture-loading defect. Next I’ll patch the test to use the plugin-local canonical copy, then confirm standalone and linked runs.
 
-The documentation build, published URL checks, link checks, source edit links, and search smoke have passed. The docs gate is finishing its executable tutorial check; I stopped one accidental duplicate invocation so it won’t contend with the active run.
+I'll update the drawer twin-copy test so vectors load from the plugin-local fixture and bob-cli comparison is optional.
 
-The tutorial check is still compiling its isolated Bob CLI executable, with no new output. I’m letting that required gate complete before starting the full repository check.
+I’ll write a disposable shim that proves standalone DV/DH still run, a mismatched plugin copy fails, and linked bob-cli drift is still caught.
 
-The executable first day tutorial passed, including its capture, plan, start, link, close, and review examples. The docs gate is now running its 448 documentation unit tests.
+The first shim would double-run the tests. I’ll patch `fs` only, then execute the real test file.
 
-All docs checks passed (447 tests passed, one optional assets test skipped because font generation dependencies are absent). I’m handing the remaining long gates to the SASE monitor so the full plugin and Rust checks can finish without leaving a subprocess attached to this turn.
+Standalone and linked fixture checks passed. Next I’ll run the focused plugin suites from the plan.
 
-The full plugin suite and `just check` are staged under SASE monitor `svw0r1`. The follow-up is set to repair any gate failures, deploy and hash-verify all four plugins, then record and close the assigned phase bead. I’m declaring the current implementation changes now so the staged continuation inherits committed source.
+Focused suites passed 107/107. I’ll run the plugin build next, then the independent longer gates.
 
-Implemented the approved drawer-reader changes. Four plugins now share the same drawer recognition rules for task layout, requirements, task splitting, and project promotion. I added shared fixtures and tests, and updated [task-drawers.md](/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/docs/task-drawers.md).
+Build is clean. I’ll run validate and docs:check now, then start the longer independent test gates with logs.
 
-Focused tests (265), plugin validation, docs generation, and docs checks passed. The docs suite had 447 passes and one optional assets test skipped because font-generation dependencies were absent.
+docs:check is still compiling. I’ll start `npm test` and `just check` independently so a slow gate does not block the others.
 
-The full `npm test` and `just check` gates, plugin deployment and bundle verification, and phase bead closeout are staged in SASE monitor `svw0r1`; its continuation will handle those remaining steps.
+docs:check passed; `npm test` failed. I’ll inspect the full log and keep waiting on `just check`.
+
+Isolation passed. I’ll reproduce the timing failures on the clean pre-fix tree, then wait for `just check`.
+
+The restore `cp` was blocked by an overwrite prompt. I’ll put the repaired test file back and inspect the clean-tree results.
+
+Clean-tree `npm test` failed the same two 25 ms flakes; `just check` passed. I’ll record those follow-ups, then deploy the four dual-read plugins.
+
+Sync is blocking two plugins deployed from other checkouts. I’ll fetch, inspect those plugin paths, and see whether those agents are still running.
+
+Nav’s vault copy is an abandoned pre-dual-read deploy, and workspace 15 is idle. I’ll fast-forward onto origin, then ask before using `-F`.
+
+The drawer twin suite now runs standalone, and the test repair is committed. Deployment is waiting on one overwrite question.
+
+**Fixture repair.** `scripts/test-task-drawers-twin-copies.cjs` loads DV/DH vectors from task-status-cycler's plugin-local fixture, always compares all four plugin copies to that canonical copy, and only compares to bob-cli when that directory exists. A missing bob-cli tree emits a diagnostic; missing or malformed plugin-local fixtures still fail.
+
+**Verification.** A filesystem shim (real bob-cli fixtures left in place) passed linked and standalone runs, still executed all four DV/DH tests, caught a mismatched plugin copy in isolation, and caught bob-cli drift when linked. Focused suites passed 107/107. `npm run build`, `npm run validate`, and `npm run docs:check` exited 0. `just check` on bob-cli 588c6210 exited 0.
+
+**Unrelated `npm test` red.** Full `npm test` failed only the two tracked 25 ms ledger nodes: `test-ledger-tools-event-link-times.cjs:1069` (82.4 ms) and `test-ledger-tools-frees-marks.cjs:481` (201 ms). Isolation passed 40/40. The same two failed on clean `a73f70bf` (68.6 ms and 183 ms). Tracked by `bob-cli-km` and `bob-cli-io`; recorded as a `PROPOSED FOLLOW-UP` on `bob-cli-ph.2`.
+
+**Deploy.** After fast-forward to `d3a17f0c`:
+- `task-status-cycler` and `block-id-prompt` are `synced`, vault `main.js` matches source, and `bob-task-drawer-dual-read-v1` is present.
+- `bob-ledger-tools` is blocked: uncommitted deploy from workspace 10, and `bob-cli-pf.5.1.7` is still running. No `-F`.
+- `bob-navigation-hotkeys` is an abandoned pre-dual-read vault copy (no marker). Sync refuses without `-F`. That overwrite question is staged.
+
+The follow-up should wait for `bob-cli-pf.5.1.7`, honor the nav answer, deploy the four plugins from the committed tree, run smoke, then close `bob-cli-ph.2`.
