@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / [bob-cli-on.11.1.7.land](../../sessions/bbugyi200.athena.bob-cli-on.11.1.7.land.md) / bob-cli-on.11.1.7.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-on.11.1.7.land--code` · **State:** active · **Source run:** `run-2f04d02062b298bb03f7a7f7f82c5b34`
+**Global name:** `bbugyi200.athena.bob-cli-on.11.1.7.land--code` · **State:** completed · **Source run:** `run-2f04d02062b298bb03f7a7f7f82c5b34`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-on.11.1.7](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.11.1.7.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-23T05:24:54.692693+00:00
-- Commits: 0
+- Timing: 2026-11-23T05:24:54.692693+00:00 → 2026-11-23T05:59:16.877334+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`9c9c972`](https://github.com/bobs-org/bob-cli/commit/9c9c972c2873a23bb62ea44d89b756fd37823cbf) | docs(task-requirements): cover mixed close-card Undo in one gesture | 2026-11-23 00:56:01 EST |
 
 ## Neighbors
 

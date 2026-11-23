@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-on` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-on.11.1.7.land--code [active]"]
+  n0["bob-cli-on.11.1.7.land--code [completed]"]
   n1["bob-cli-on.11.1.7.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-on.11.1.7.land--plan [active]"]
+  n2["bob-cli-on.11.1.7.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-on.11.1.7.land--code | active | grok-4.6 / grok | 2026-11-23T05:24:54.692693+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-on.11.1.7.land--code | completed | grok-4.6 / grok | 2026-11-23T05:24:54.692693+00:00 → 2026-11-23T05:59:16.877334+00:00 | [1](../agents/bbugyi200.athena.bob-cli-on.11.1.7.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-on.11.1.7.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-on.11.1.7.land--gate | completed | gpt-6-astra / codex | 2026-11-23T05:24:10.156047+00:00 → 2026-11-23T05:24:16.621983+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-on.11.1.7.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-on.11.1.7.land--plan | active | gpt-6-astra / codex | 2026-11-23T05:13:40.964275+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-on.11.1.7.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-on.11.1.7.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-on.11.1.7.land--plan | completed | gpt-6-astra / codex | 2026-11-23T05:13:40.964275+00:00 → 2026-11-23T05:59:16.877334+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-on.11.1.7.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-on.11.1.7.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`9c9c972`](https://github.com/bobs-org/bob-cli/commit/9c9c972c2873a23bb62ea44d89b756fd37823cbf) | docs(task-requirements): cover mixed close-card Undo in one gesture | 2026-11-23 00:56:01 EST |
 
 ## Neighbors
 
