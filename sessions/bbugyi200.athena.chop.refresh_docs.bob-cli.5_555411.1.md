@@ -36,6 +36,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.bob-cli.5\_555411.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.2/README.md) | chop.refresh\_docs.bob-cli.5\_555411 hood | dismissed |
 | [chop.refresh\_docs.bob-cli.0\_587608.1](bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.1.md) (session · 5) | chop.refresh\_docs.bob-cli hood | completed 2, dismissed 1, failed 2 |
 | [chop.refresh\_docs.bob-cli.0\_587608.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
+| [chop.refresh\_docs.bob-cli.0\_713245.1](bbugyi200.athena.chop.refresh_docs.bob-cli.0_713245.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
+| [chop.refresh\_docs.bob-cli.0\_713245.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.0_713245.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
 | [chop.refresh\_docs.bob-cli.0\_794067.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.0\_794067.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.0_794067.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
@@ -82,6 +84,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.bob-cli.8\_406070.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_406070.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.8\_406070.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_406070.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.8\_638105.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_638105.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
-| [chop.refresh\_docs.bob-cli.8\_638105.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.8_638105.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
-| [chop.refresh\_docs.bob-cli.9\_058546.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.9_058546.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
-| … and 3 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.bob-cli hood | — |
+| … and 5 more in the [hood roster](../users/bbugyi200/machines/athena/hoods/chop/README.md) | chop.refresh\_docs.bob-cli hood | — |
