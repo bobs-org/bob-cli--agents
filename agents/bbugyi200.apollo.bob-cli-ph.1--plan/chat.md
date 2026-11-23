@@ -1,38 +1,36 @@
 # Chat History - ace-run (bob-cli-ph.1--plan)
 
-- **TIMESTAMP:** 2026-11-22 17:43:31 EST
-- **MODEL:** codex/gpt-6-astra
+- **TIMESTAMP:** 2026-11-23 07:17:55 EST
+- **MODEL:** claude/opus
 - **AGENT:** bob-cli-ph.1--plan
 
-# Monitor handoff
+**Plan:** /home/bryan/.sase/plans/202611/task_drawer_readers.md
 
-This agent delegated the remaining work to a monitor turn.
-Monitor ID: ty9qdrxc9bk1
-Inspect with: sase monitor show ty9qdrxc9bk1
-Monitor turn: bob-cli-ph.1--mon
-Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13
 
-Command:
+## Proposed Plan Preview
 
-```sh
-until [ "$(sase bead read bob-cli-on -N -f json -r "Poll prerequisite status for bob-cli-ph.1" | jq -r .issue.status)" = closed ]; do sleep 300; done
-```
+*Plan submitted for review.*
 
-Reason:
+**Plan file:** `/home/bryan/.sase/plans/202611/task_drawer_readers.md`
 
-Approved drawer-contract precondition requires bob-cli-on to close before any changes
+> - **BEAD:** bob-cli-ph.1
+> # Plan: Dual-read task drawers in Rust
+> ## Scope and authority
+> This tale completes the assigned phase `bob-cli-ph.1` (`drawer-contract`) of epic
+> `plan:202611/true_case_drawers.md` (bead `bob-cli-ph`). Before you write code, read
+> these three sources with audited reads:
+> - that epic plan, especially design-of-record §§1–4 and §8 and the `drawer-contract`
+>   phase steps;
+> - `research:202611/true_case_drawers/true_case_drawers.md`;
+> - `sase bead read bob-cli-ph.1`.
 
-Next action:
-
-Resume the original user task for assigned phase bob-cli-ph.1. Read bob-cli-on and verify resolution done; a canceled prerequisite is not success. Read bob-cli-ph.1 notes and the approved true_case_drawers epic via audited reads. No implementation or plan file has been authored yet: the previous turn stopped solely at the explicit prerequisite, so there is no oversized unfinished coding remainder. Resolve the missing required research artifact reference before implementing. Recheck landed work and current source after the prerequisite; then thoroughly size and author the appropriate plan through /sase_plan, validate with --explain and revalidate, and submit with sase plan propose before source edits. Preserve the final epic decisions and readers-first/writers-unchanged boundary. Do not change bead status by hand, create follow-up task beads, or close any ancestor. Eventual completion must check epic-symbols and close only bob-cli-ph.1 with verified evidence. If still blocked, stage another appropriate wait.
-
+*See full plan file for details.*
 
 ## Prompt
 
+%id(1, clan=bob-cli-ph, bead=bob-cli-ph.1)
 #gh:gh_bobs-org__bob-cli
-%id(bob-cli-ph.1, bead=bob-cli-ph.1)
-%clan(bob-cli-ph, tribe=epic, summary_script=sase_clan_summary_epic)
-%model:@large
+%m:@xlarge 
 %auto
 Can you complete the work for bead bob-cli-ph.1? The bead is already reserved for you and assigned to your agent
 name: it was set to status=in_progress before you started reading this, either by the `sase bead work` launch
@@ -68,21 +66,45 @@ before making any file changes.
 
 ## Response
 
-I’ll read the bead’s scope, notes, and design, check what has already landed, then use the `sase_plan` skill to validate and submit a plan before editing files.
+Checking whether an earlier coder already implemented the approved drawer tale before I plan anything.
 
+Looking up earlier ph.1 agent transcripts to see whether the approved tale was ever implemented.
 
-The bead is in progress and has no prior work notes. Its scope is the Rust drawer contract and readers, including imported-text escaping and conformance tests; writer changes belong to later phases. I’m using `sase_beads` and `sase_memory_read` to check those boundaries before sizing the plan.
+Refreshing the research sidecar so I can read the required drawers research report.
 
+Surveying the drawer code that the approved tale targets, to confirm its inventory still matches current master.
 
-The approved design requires this phase to wait for `bob-cli-on` to close. That epic is still in progress, with promotion, successor-card, and memory work unfinished. No implementation files have changed. I’ll check how to stage that wait so this bead can resume after the prerequisite closes.
+Verified the inventory; checking how `%c` clipboard text is escaped today, then I'll write the refreshed plan.
 
+Recording audited reads of the epic plan and the earlier approved tale so the new plan links to them.
 
-The prerequisite still has phases `.11`, `.12`, `.15`, and `.17` open. I also found that the research reference required by the design resolves as missing, and recorded that on this bead. I’m using `sase_monitor` to resume planning after `bob-cli-on` closes, leaving `bob-cli-ph.1` in progress.
+Writing the refreshed tale plan now.
 
+I haven't written any code for bob-cli-ph.1 yet. Instead I've submitted a refreshed implementation plan, which now goes to plan approval. The bead stays in progress until a coder implements and closes it.
 
-The wait is staged and will resume this task after `bob-cli-on` closes. I’ll finish this turn through `sase_final`; the bead remains open for its plan and implementation.
+**Why re-plan instead of coding:**
+- An earlier planner wrote a plan for this same phase, `plan:202611/dual_read_task_drawers.md`, and it was approved at 03:47 EST today with "run coder" set.
+- No coder ever ran: there's no transcript, no note on the bead, and no drawer commits on master.
+- The earlier work hadn't been started, so it doesn't need splitting into a child epic. One medium plan is still the right size.
 
+**What I checked before writing it:**
+- `bob-cli-on` is closed, and its landing commit already fixed the `^prj` Notes home. Step 0 of the phase is done.
+- I read the drawers research report. Its reference resolved again after I refreshed the research sidecar.
+- Master has moved four commits since the earlier plan. The new requirement annotations on capture previews and agendas use the `task_reqs` reader, so they pick up bold drawers once that reader is changed. I added a test for this.
+- Every drawer-predicate caller I found in `src/native` is covered by the plan's table, and the docs registry still pins 56 contracts.
 
-`bob-cli-ph.1` is waiting on an explicit design prerequisite: `bob-cli-on` must close first. Its phases `.11`, `.12`, `.15`, and `.17` remain open.
+**The plan (`sase_plan_task_drawer_readers.md`, size medium) covers:**
+- **Recognizer:** one function that reads both `- **Title**` and legacy ALL-CAPS drawers, with a separate rule for which titles may be created.
+- **Model:** a Unicode case-folded key, a `marker` field and byte ranges on each drawer, and `NOTES_KEY` split from `NOTES_TITLE`.
+- **Pomodoro names:** they get their own check first, with behavior unchanged.
+- **Readers:** every bob-cli vault reader moves to the new recognizer, and the drawer catalog goes to version 3, recording which form each spelling used.
+- **`bob capture-drawers`:** its JSON gains an additive `marker` field.
+- **Imported text:** a shared `defuse_drawer_header` writes would-be drawer lines as `__…__`. It applies to gcal, gkeep, highlights, Gmail and `%c` clipboard text.
+- **Test vectors and docs:** new recognition (DV) and title-mapping (DH) vectors, bold-drawer reading cases added to the existing fixtures, and a `docs/task-drawers.md` contract page.
+- **Unchanged:** writers, capture draft grammar, and the grammar revision.
 
-I recorded the dependency and staged automatic resumption. No source changes were made; planning and implementation remain pending. I also recorded the missing required research reference.
+I made two scoping calls the earlier plan left open:
+- **Escape depth:** the escape applies to imported lines at every depth, as the gcal escape does today.
+- **`%c` checkboxes:** `%c` gets only the drawer escape, not a checkbox escape, because it doesn't escape checkboxes today. If the coder confirms a clipboard `[ ] x` line becomes a requirement, they record it as a proposed follow-up.
+
+The turn changed no repository files, so the host didn't ask for a commit.
