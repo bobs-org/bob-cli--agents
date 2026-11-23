@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / bob-cli-pf.2.1.3
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.2.1.3` · **State:** waiting · **Source run:** `run-58c6a3942480a765ee9de1af2f2f685e`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.2.1.3` · **State:** completed · **Source run:** `run-58c6a3942480a765ee9de1af2f2f685e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-pf.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261122144807
-- Commits: 0
+- Timing: 2026-11-23T00:13:36.724193+00:00 → 2026-11-23T01:40:41.462827+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`3e480e4`](https://github.com/bobs-org/bob-cli/commit/3e480e4a3075245fee1b6369fbda3c5a325d5652) | feat(props): add bob props show and update commands | 2026-11-22 20:39:30 EST |
 
 ## Neighbors
 

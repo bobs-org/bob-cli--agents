@@ -14,10 +14,30 @@
 - Provider: muse
 - Timing: 20261122144638
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-pf.1.1.5, kind: file, label: Card foot real-Obsidian walkthrough report (116 checks pass), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122144638/card-foot-final… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-pf.1.1.5
+  kind: file
+  label: Card foot real-Obsidian walkthrough report (116 checks pass)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122144638/card-foot-final-da8dcbc14676.json
+  ref: file:explicit:dcd27f31fa7fb913287fdb6a
+  source_path: /tmp/card-foot-final.json
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -32,7 +52,7 @@
 | [bob-cli-pf.2](../../sessions/bbugyi200.apollo.bob-cli-pf.2.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
 | [bob-cli-pf.2.1.1](../../sessions/bbugyi200.apollo.bob-cli-pf.2.1.1.md) (session · 3) | bob-cli-pf hood | completed 3 |
 | [bob-cli-pf.2.1.2](../../sessions/bbugyi200.apollo.bob-cli-pf.2.1.2.md) (session · 5) | bob-cli-pf hood | completed 4, failed 1 |
-| [bob-cli-pf.2.1.3](../bbugyi200.apollo.bob-cli-pf.2.1.3/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.2.1.3](../bbugyi200.apollo.bob-cli-pf.2.1.3/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.2.1.land](../bbugyi200.apollo.bob-cli-pf.2.1.land/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.3](../bbugyi200.apollo.bob-cli-pf.3/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.4](../bbugyi200.apollo.bob-cli-pf.4/README.md) | bob-cli-pf hood | waiting |
