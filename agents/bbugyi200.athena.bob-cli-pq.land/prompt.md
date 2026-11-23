@@ -1,7 +1,7 @@
+%auto
 #gh:gh_bobs-org__bob-cli
 %id(land, clan=bob-cli-pq, bead=bob-cli-pq)
 %model:@xlarge
-%auto
 %w(bob-cli-pq.1,bob-cli-pq.3,bob-cli-pq.5,bob-cli-pq.2,bob-cli-pq.4,bob-cli-pq.6,bob-cli-pq.7, for_epic=false)
 %w(bead=bob-cli-pq.1)
 %w(bead=bob-cli-pq.2)
