@@ -70,7 +70,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pf.4.1.6](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.6.md) (session · 3) | bob-cli-pf hood | completed 2, failed 1 |
 | [bob-cli-pf.4.1.7.1](../bbugyi200.apollo.bob-cli-pf.4.1.7.1/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.4.1.7.2](../bbugyi200.apollo.bob-cli-pf.4.1.7.2/README.md) | bob-cli-pf hood | completed |
-| [bob-cli-pf.4.1.7.3](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.3.md) (session · 5) | bob-cli-pf hood | active 2, completed 2, failed 1 |
+| [bob-cli-pf.4.1.7.3](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.3.md) (session · 5) | bob-cli-pf hood | active 3, completed 2 |
 | [bob-cli-pf.4.1.7.4](../bbugyi200.apollo.bob-cli-pf.4.1.7.4/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.4.1.7.land](../bbugyi200.apollo.bob-cli-pf.4.1.7.land/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.land.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
