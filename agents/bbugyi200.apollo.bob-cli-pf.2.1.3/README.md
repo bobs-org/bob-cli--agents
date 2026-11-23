@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `3e480e4` | feat(props): add bob props show and update commands | 2026-11-22 20:39:30 EST |
+| bob-cli | [`3e480e4`](https://github.com/bobs-org/bob-cli/commit/3e480e4a3075245fee1b6369fbda3c5a325d5652) | feat(props): add bob props show and update commands | 2026-11-22 20:39:30 EST |
 
 ## Neighbors
 
@@ -50,7 +50,7 @@
 | [bob-cli-pf.4.1.6](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.6.md) (session · 3) | bob-cli-pf hood | completed 2, failed 1 |
 | [bob-cli-pf.4.1.7.1](../bbugyi200.apollo.bob-cli-pf.4.1.7.1/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.4.1.7.2](../bbugyi200.apollo.bob-cli-pf.4.1.7.2/README.md) | bob-cli-pf hood | completed |
-| [bob-cli-pf.4.1.7.3](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.3.md) (session · 5) | bob-cli-pf hood | active 1, completed 2, failed 2 |
+| [bob-cli-pf.4.1.7.3](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.3.md) (session · 6) | bob-cli-pf hood | active 1, completed 3, failed 2 |
 | [bob-cli-pf.4.1.7.4](../bbugyi200.apollo.bob-cli-pf.4.1.7.4/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.4.1.7.land](../bbugyi200.apollo.bob-cli-pf.4.1.7.land/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.land.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
