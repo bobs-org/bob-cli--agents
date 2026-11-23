@@ -8,8 +8,8 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-pf` · Members: 5 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-pf.4.1.7.3--mon [active]"]
-  n1["bob-cli-pf.4.1.7.3--1 [completed]"]
+  n0["bob-cli-pf.4.1.7.3--1 [completed]"]
+  n1["bob-cli-pf.4.1.7.3--mon [failed]"]
   n0 --> n1
   n2["bob-cli-pf.4.1.7.3--mon-0 [active]"]
   n0 --> n2
@@ -23,9 +23,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-pf.4.1.7.3--mon | active | gpt-6-astra / codex | 2026-11-23T10:38:12.858116+00:00 | 0 | — | — |
-| <a id="member-1"></a>1 | bob-cli-pf.4.1.7.3--1 | completed | gpt-6-luna / codex | 2026-11-23T09:30:56.792284+00:00 → 2026-11-23T09:37:01.649159+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.3--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.3--1/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | bob-cli-pf.4.1.7.3--mon-0 | active | gpt-6-luna / codex | 2026-11-23T09:34:50.439297+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | bob-cli-pf.4.1.7.3--1 | completed | gpt-6-astra / codex | 2026-11-23T10:48:37.143312+00:00 → 2026-11-23T10:55:51.575873+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.3--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.3--1/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-pf.4.1.7.3--mon | failed | gpt-6-astra / codex | 2026-11-23T10:38:12.858116+00:00 → 2026-11-23T10:48:37.319341+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.3--mon/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-pf.4.1.7.3--mon-0 | active | gpt-6-astra / codex | 2026-11-23T10:53:47.534694+00:00 | 0 | — | — |
 | <a id="member-2"></a>2 | bob-cli-pf.4.1.7.3--2 | active | gpt-6-luna / codex | 20261123044019 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.3--2/prompt.md) | — |
 | <a id="member-plan"></a>plan | bob-cli-pf.4.1.7.3--plan | completed | gpt-6-astra / codex | 2026-11-23T10:26:54.421750+00:00 → 2026-11-23T10:40:19.566131+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.3--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.4.1.7.3--plan/chat.md) |
 
