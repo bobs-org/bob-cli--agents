@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-pf.4](../../sessions/bbugyi200.apollo.bob-cli-pf.4.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-pf.4.1.7.2](../bbugyi200.apollo.bob-cli-pf.4.1.7.2/README.md) | bob-cli-pf.4.1.7 hood | waiting |
+| [bob-cli-pf.4.1.7.2](../bbugyi200.apollo.bob-cli-pf.4.1.7.2/README.md) | bob-cli-pf.4.1.7 hood | completed |
 | [bob-cli-pf.4.1.7.3](../bbugyi200.apollo.bob-cli-pf.4.1.7.3/README.md) | bob-cli-pf.4.1.7 hood | waiting |
 | [bob-cli-pf.4.1.7.4](../bbugyi200.apollo.bob-cli-pf.4.1.7.4/README.md) | bob-cli-pf.4.1.7 hood | waiting |
 | [bob-cli-pf.4.1.7.land](../bbugyi200.apollo.bob-cli-pf.4.1.7.land/README.md) | bob-cli-pf.4.1.7 hood | waiting |
