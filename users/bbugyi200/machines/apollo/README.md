@@ -492,7 +492,7 @@
 | [fa](hoods/fa/README.md) | 6 | 2 | completed 6 |
 | [fe](hoods/fe/README.md) | 7 | 1 | completed 6, failed 1 |
 | [fg](hoods/fg/README.md) | 3 | 1 | completed 3 |
-| [fi](hoods/fi/README.md) | 4 | 1 | active 1, completed 2, failed 1 |
+| [fi](hoods/fi/README.md) | 4 | 1 | completed 2, failed 2 |
 | [fj](hoods/fj/README.md) | 1 | 0 | completed 1 |
 | [fk](hoods/fk/README.md) | 3 | 1 | completed 3 |
 | [fl](hoods/fl/README.md) | 3 | 1 | completed 3 |
