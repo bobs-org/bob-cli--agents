@@ -65,7 +65,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-nu.1](../bbugyi200.apollo.bob-cli-nu.1/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.2](../../sessions/bbugyi200.apollo.bob-cli-nu.2.md) (session · 5) | bob-cli-nu hood | completed 3, failed 2 |
 | [bob-cli-nu.3](../bbugyi200.apollo.bob-cli-nu.3/README.md) | bob-cli-nu hood | completed |
-| [bob-cli-nu.4](../../sessions/bbugyi200.apollo.bob-cli-nu.4.md) (session · 3) | bob-cli-nu hood | active 1, completed 2 |
+| [bob-cli-nu.4](../../sessions/bbugyi200.apollo.bob-cli-nu.4.md) (session · 3) | bob-cli-nu hood | completed 2, dismissed 1 |
 | [bob-cli-nu.4.1.1](../bbugyi200.apollo.bob-cli-nu.4.1.1/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.4.1.2](../bbugyi200.apollo.bob-cli-nu.4.1.2/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.4.1.3](../bbugyi200.apollo.bob-cli-nu.4.1.3/README.md) | bob-cli-nu hood | completed |

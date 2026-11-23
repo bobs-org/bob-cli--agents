@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-oe` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-oe.land--plan [active]"]
+  n0["bob-cli-oe.land--plan [dismissed]"]
   n1["bob-cli-oe.land--gate [completed]"]
   n0 --> n1
   n2["bob-cli-oe.land--mon [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-oe.land--plan | active | opus / claude | 2026-11-21T02:04:15.387861+00:00 → 2026-11-21T02:39:29.077539+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-oe.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-oe.land--plan | dismissed | opus / claude | 2026-11-20T21:04:15.387861 → 2026-11-20T21:39:29.458925 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-oe.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-oe.land--gate | completed | opus / claude | 2026-11-21T02:39:03.765019+00:00 → 2026-11-21T02:39:21.614878+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.land--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-oe.land--mon | completed | opus / claude | 2026-11-21T02:39:20.100106+00:00 → 2026-11-21T02:41:17.650744+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-oe.land--mon/chat.md) |
 

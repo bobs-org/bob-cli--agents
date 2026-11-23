@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`d27041c`](https://github.com/bobs-org/bob-cli/commit/d27041cd82437310afa818909363f5e0c66cdae6) | fix(capture): settle ID-less successor jump landings | 2026-11-20 22:42:31 EST |
+| — | `d27041c` | fix(capture): settle ID-less successor jump landings | 2026-11-20 22:42:31 EST |
 
 ## Neighbors
 
@@ -40,4 +40,4 @@
 | [bob-cli-oe.5](../bbugyi200.apollo.bob-cli-oe.5/README.md) | bob-cli-oe hood | completed |
 | [bob-cli-oe.6](../../sessions/bbugyi200.apollo.bob-cli-oe.6.md) (session · 3) | bob-cli-oe hood | completed 3 |
 | [bob-cli-oe.7](../bbugyi200.apollo.bob-cli-oe.7/README.md) | bob-cli-oe hood | completed |
-| [bob-cli-oe.land](../../sessions/bbugyi200.apollo.bob-cli-oe.land.md) (session · 3) | bob-cli-oe hood | active 1, completed 2 |
+| [bob-cli-oe.land](../../sessions/bbugyi200.apollo.bob-cli-oe.land.md) (session · 3) | bob-cli-oe hood | completed 2, dismissed 1 |

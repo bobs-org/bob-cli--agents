@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`853246f`](https://github.com/bobs-org/bob-cli/commit/853246f0ee582f4559767323c101dd2d2597cf91) | feat(capture): add successor jump offer contract | 2026-11-20 17:53:09 EST |
+| — | `853246f` | feat(capture): add successor jump offer contract | 2026-11-20 17:53:09 EST |
 
 ## Neighbors
 
@@ -41,4 +41,4 @@
 | [bob-cli-oe.8.3](../bbugyi200.apollo.bob-cli-oe.8.3/README.md) | bob-cli-oe hood | completed |
 | [bob-cli-oe.8.4](../../sessions/bbugyi200.apollo.bob-cli-oe.8.4.md) (session · 3) | bob-cli-oe hood | completed 3 |
 | [bob-cli-oe.8.land](../../sessions/bbugyi200.apollo.bob-cli-oe.8.land.md) (session · 3) | bob-cli-oe hood | completed 3 |
-| [bob-cli-oe.land](../../sessions/bbugyi200.apollo.bob-cli-oe.land.md) (session · 3) | bob-cli-oe hood | active 1, completed 2 |
+| [bob-cli-oe.land](../../sessions/bbugyi200.apollo.bob-cli-oe.land.md) (session · 3) | bob-cli-oe hood | completed 2, dismissed 1 |

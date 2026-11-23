@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2443e0a`](https://github.com/bobs-org/bob-cli/commit/2443e0a4e1580f1ce956ef8a576caa1ba2d8ac66) | docs(chips): add the command-chip guide section and glossary term | 2026-11-20 13:36:33 EST |
+| — | `2443e0a` | docs(chips): add the command-chip guide section and glossary term | 2026-11-20 13:36:33 EST |
 
 ## Neighbors
 
@@ -32,7 +32,7 @@
 | [bob-cli-nu.1](../bbugyi200.apollo.bob-cli-nu.1/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.2](../../sessions/bbugyi200.apollo.bob-cli-nu.2.md) (session · 5) | bob-cli-nu hood | completed 3, failed 2 |
 | [bob-cli-nu.3](../bbugyi200.apollo.bob-cli-nu.3/README.md) | bob-cli-nu hood | completed |
-| [bob-cli-nu.4](../../sessions/bbugyi200.apollo.bob-cli-nu.4.md) (session · 3) | bob-cli-nu hood | active 1, completed 2 |
+| [bob-cli-nu.4](../../sessions/bbugyi200.apollo.bob-cli-nu.4.md) (session · 3) | bob-cli-nu hood | completed 2, dismissed 1 |
 | [bob-cli-nu.4.1.1](../bbugyi200.apollo.bob-cli-nu.4.1.1/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.4.1.2](../bbugyi200.apollo.bob-cli-nu.4.1.2/README.md) | bob-cli-nu hood | completed |
 | [bob-cli-nu.4.1.3](../bbugyi200.apollo.bob-cli-nu.4.1.3/README.md) | bob-cli-nu hood | completed |

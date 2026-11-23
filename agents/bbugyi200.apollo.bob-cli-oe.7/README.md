@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`8f703cc`](https://github.com/bobs-org/bob-cli/commit/8f703ccbe4c5ee6a7b087be6ee5d5f6edac89b08) | docs(freshness): park the walk on a pinned successor close | 2026-11-20 21:03:21 EST |
+| — | `8f703cc` | docs(freshness): park the walk on a pinned successor close | 2026-11-20 21:03:21 EST |
 
 ## Neighbors
 
@@ -41,4 +41,4 @@
 | [bob-cli-oe.8.3](../bbugyi200.apollo.bob-cli-oe.8.3/README.md) | bob-cli-oe hood | completed |
 | [bob-cli-oe.8.4](../../sessions/bbugyi200.apollo.bob-cli-oe.8.4.md) (session · 3) | bob-cli-oe hood | completed 3 |
 | [bob-cli-oe.8.land](../../sessions/bbugyi200.apollo.bob-cli-oe.8.land.md) (session · 3) | bob-cli-oe hood | completed 3 |
-| [bob-cli-oe.land](../../sessions/bbugyi200.apollo.bob-cli-oe.land.md) (session · 3) | bob-cli-oe hood | active 1, completed 2 |
+| [bob-cli-oe.land](../../sessions/bbugyi200.apollo.bob-cli-oe.land.md) (session · 3) | bob-cli-oe hood | completed 2, dismissed 1 |

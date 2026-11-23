@@ -42,7 +42,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-nu.4](../../sessions/bbugyi200.apollo.bob-cli-nu.4.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-nu.4](../../sessions/bbugyi200.apollo.bob-cli-nu.4.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-nu.4.1.1](../bbugyi200.apollo.bob-cli-nu.4.1.1/README.md) | bob-cli-nu.4.1 hood | completed |
 | [bob-cli-nu.4.1.2](../bbugyi200.apollo.bob-cli-nu.4.1.2/README.md) | bob-cli-nu.4.1 hood | completed |
 | [bob-cli-nu.4.1.3](../bbugyi200.apollo.bob-cli-nu.4.1.3/README.md) | bob-cli-nu.4.1 hood | completed |
