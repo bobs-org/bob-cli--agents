@@ -77,6 +77,6 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pq.4](../bbugyi200.athena.bob-cli-pq.4/README.md) | bob-cli-pq hood | completed |
 | [bob-cli-pq.5](../../sessions/bbugyi200.athena.bob-cli-pq.5.md) (session · 9) | bob-cli-pq hood | completed 6, failed 3 |
 | [bob-cli-pq.5](../bbugyi200.athena.bob-cli-pq.5/README.md) | bob-cli-pq hood | completed |
-| [bob-cli-pq.6](../bbugyi200.athena.bob-cli-pq.6/README.md) | bob-cli-pq hood | active |
+| [bob-cli-pq.6](../../sessions/bbugyi200.athena.bob-cli-pq.6.md) (session · 7) | bob-cli-pq hood | completed 4, failed 3 |
 | [bob-cli-pq.7](../bbugyi200.athena.bob-cli-pq.7/README.md) | bob-cli-pq hood | waiting |
 | [bob-cli-pq.land](../bbugyi200.athena.bob-cli-pq.land/README.md) | bob-cli-pq hood | waiting |
