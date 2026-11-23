@@ -151,4 +151,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-on.8.1.6](../agents/bbugyi200.athena.bob-cli-on.8.1.6/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.8.1.land](bbugyi200.athena.bob-cli-on.8.1.land.md) (session · 3) | bob-cli-on hood | completed 3 |
 | [bob-cli-on.9](bbugyi200.athena.bob-cli-on.9.md) (session · 5) | bob-cli-on hood | completed 5 |
-| [bob-cli-on.land](bbugyi200.athena.bob-cli-on.land.md) (session · 3) | bob-cli-on hood | active 2, completed 1 |
+| [bob-cli-on.land](bbugyi200.athena.bob-cli-on.land.md) (session · 3) | bob-cli-on hood | completed 3 |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / [bob-cli-on.land](../../sessions/bbugyi200.athena.bob-cli-on.land.md) / bob-cli-on.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-on.land--code` · **State:** active · **Source run:** `run-71a9d270903e59f226beae8b3cc7d48f`
+**Global name:** `bbugyi200.athena.bob-cli-on.land--code` · **State:** completed · **Source run:** `run-71a9d270903e59f226beae8b3cc7d48f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-on](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-23T06:48:55.822749+00:00
-- Commits: 0
+- Timing: 2026-11-23T06:48:55.822749+00:00 → 2026-11-23T08:36:58.672539+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`7703011`](https://github.com/bobs-org/bob-cli/commit/7703011d6df8bfd0a6a40683d1ec61a774350979) | fix(capture): file ^prj notes under ## Notes and report implicit NOTES | 2026-11-23 03:32:39 EST |
 
 ## Neighbors
 

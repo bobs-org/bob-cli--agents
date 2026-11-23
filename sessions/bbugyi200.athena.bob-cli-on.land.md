@@ -8,8 +8,8 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-on` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-on.land--code [active]"]
-  n1["bob-cli-on.land--plan [active]"]
+  n0["bob-cli-on.land--code [completed]"]
+  n1["bob-cli-on.land--plan [completed]"]
   n0 --> n1
   n2["bob-cli-on.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-on.land--code | active | grok-4.6 / grok | 2026-11-23T06:48:55.822749+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-on.land--plan | active | opus / claude | 2026-11-23T06:28:23.227004+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-on.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-on.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-on.land--code | completed | grok-4.6 / grok | 2026-11-23T06:48:55.822749+00:00 → 2026-11-23T08:36:58.672539+00:00 | [1](../agents/bbugyi200.athena.bob-cli-on.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-on.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-on.land--plan | completed | opus / claude | 2026-11-23T06:28:23.227004+00:00 → 2026-11-23T08:36:58.672539+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-on.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-on.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-on.land--gate | completed | opus / claude | 2026-11-23T06:47:23.934270+00:00 → 2026-11-23T06:47:30.820974+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-on.land--gate/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`7703011`](https://github.com/bobs-org/bob-cli/commit/7703011d6df8bfd0a6a40683d1ec61a774350979) | fix(capture): file ^prj notes under ## Notes and report implicit NOTES | 2026-11-23 03:32:39 EST |
 
 ## Neighbors
 
