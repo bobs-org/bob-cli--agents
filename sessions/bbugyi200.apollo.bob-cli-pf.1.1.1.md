@@ -74,7 +74,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-pf.4.1.2](../agents/bbugyi200.apollo.bob-cli-pf.4.1.2/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.4.1.3](bbugyi200.apollo.bob-cli-pf.4.1.3.md) (session · 5) | bob-cli-pf hood | completed 3, failed 2 |
 | [bob-cli-pf.4.1.4](../agents/bbugyi200.apollo.bob-cli-pf.4.1.4/README.md) | bob-cli-pf hood | completed |
-| [bob-cli-pf.4.1.5](../agents/bbugyi200.apollo.bob-cli-pf.4.1.5/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.4.1.5](../agents/bbugyi200.apollo.bob-cli-pf.4.1.5/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.4.1.6](../agents/bbugyi200.apollo.bob-cli-pf.4.1.6/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.4.1.land](../agents/bbugyi200.apollo.bob-cli-pf.4.1.land/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.5](../agents/bbugyi200.apollo.bob-cli-pf.5/README.md) | bob-cli-pf hood | waiting |
