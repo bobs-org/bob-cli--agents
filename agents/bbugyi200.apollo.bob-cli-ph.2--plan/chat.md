@@ -1,37 +1,37 @@
 # Chat History - ace-run (bob-cli-ph.2--plan)
 
-- **TIMESTAMP:** 2026-11-23 12:23:00 EST
+- **TIMESTAMP:** 2026-11-23 16:11:32 EST
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-ph.2--plan
 
-**Plan:** /home/bryan/.sase/plans/202611/plugin_drawer_readers.md
+**Plan:** /home/bryan/.sase/plans/202611/plugin_drawer_completion.md
 
 
 ## Proposed Plan Preview
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202611/plugin_drawer_readers.md`
+**Plan file:** `/home/bryan/.sase/plans/202611/plugin_drawer_completion.md`
 
-> - **PARENT:** [202611/true_case_drawers.md](202611/true_case_drawers.md)
 > - **BEAD:** bob-cli-ph.2
-> # Complete bob-cli-ph.2: shared dual-read task drawer readers
+> # Finish bob-cli-ph.2 from the landed plugin readers
 > ## Outcome and scope
-> Complete assigned phase `bob-cli-ph.2` of `bob-cli-ph`. All four Obsidian plugins must
-> read existing legacy ALL-CAPS and whole-bold task drawer headers using one
-> byte-identical JavaScript recognizer twin. Preserve authored bold titles, find the Notes
-> role by its Unicode key, pass bob-cli's canonical fixtures, and deploy the four updated
-> bundles. Newly created drawer headers remain legacy throughout this phase, so the
-> following reader-rollout phase can safely verify every host before any writer changes.
+> Complete only assigned phase `bob-cli-ph.2`: preserve the landed dual-read plugin
+> readers, repair their standalone fixture test, finish verification and deployment,
+> record usable rollout evidence, and close the phase. Do not redo the recognizer or
+> advance the writer, rendering, migration, or memory phases.
+> This remainder fits one coding agent. The implementation and documentation already
+> landed; the prior continuations stopped on unrelated timing assertions rather than an
+> unfinished reader implementation. The only newly confirmed implementation gap is a
 
 *See full plan file for details.*
 
 ## Prompt
 
+%id(2, clan=bob-cli-ph, bead=bob-cli-ph.2)
 %auto
 #gh:gh_bobs-org__bob-cli
-%id(2, clan=bob-cli-ph, bead=bob-cli-ph.2)
-%model:@large
+%m:gpt-6-astra 
 %w(bob-cli-ph.1, for_epic=false)
 %w(bead=bob-cli-ph.1)
 Can you complete the work for bead bob-cli-ph.2? The bead is already reserved for you and assigned to your agent
@@ -68,28 +68,27 @@ before making any file changes.
 
 ## Response
 
-I’ll read the phase, its design, and any prior-work notes, then use `/sase_plan` to validate and submit an appropriately scoped plan before changing files. I’m also using `/sase_beads` and `/sase_memory_read` to follow the project’s bead workflow.
+I’ll read the phase scope, decisions, and prior notes, then check what has already landed. I’ll use the SASE bead and planning skills to submit a validated plan before changing files.
 
 
-The phase has no prior-work notes, and its Rust-reader prerequisite has landed. I’ll check the plugin code for completed work and identify the remaining reader changes. I’m using `/sase_repo` to inspect the source plugin repository.
+The phase has had several earlier runs, so I’m checking their recorded work and closeout evidence before proposing anything further.
 
 
-The plugin readers still use several separate ALL-CAPS checks. The Rust contract and DV/DH fixtures are available, so the plan can require exact parity for bold headers, Unicode names, and source ranges. It will also cover the writer-side readers, which must recognize existing bold drawers while continuing to create legacy headers.
+The core plugin changes have landed in commit `19ac4a3e`, and this phase has no remaining `--epic-symbol` entries. I’ll use the repository-access and prior-chat skills to check what remains—particularly verification and deployment—so the plan builds on that work.
 
 
-The focused baseline passed 93 of 94 tests. The failure is the fixture mismatch already recorded on the parent epic, which this phase is responsible for fixing.
-
-I’m choosing a medium tale for one coding agent: add the shared recognizer, update its callers, verify fixture parity, and deploy the four plugins. There’s no unfinished earlier attempt that calls for a child epic.
+The last run stopped on two ledger timing failures; its log reported no drawer failures. The current focused drawer, requirement-copy, and split checks are passing so far. The remaining work appears to fit one coding agent: verify the landed implementation, document any unchanged-base failures, deploy the four bundles, and record evidence before closing the phase.
 
 
-The plan validates with zero warnings. It covers the shared readers, fixture mismatch, regression checks, and deployment evidence needed by the next phase.
-
-I’m submitting it now. The requested [`sase_plan` workflow](/home/bryan/.codex/skills/sase_plan/SKILL.md) says, “Nothing starts until your turn ends,” so this turn will hand the proposal to approval before implementation begins.
+I found one in-scope gap: the new drawer test suite requires bob-cli fixtures at a fixed relative path, so it fails to load in a standalone bob-plugins checkout. The approved plan required that case to work. I’ll include a small fixture-loading fix in the completion plan. All 22 focused tests pass in the linked checkout.
 
 
-The proposal is staged. I’m using `/sase_final` to finish the handoff; `bob-cli-ph.2` remains in progress for implementation, verification, and deployment after approval.
+The plan covers the fixture test fix, independent verification gates, and deployment evidence for all four plugins. It also explicitly allows closure after documenting failures reproduced on the clean base, as you requested. I’m validating it before submitting the handoff.
 
 
-Validated and staged a medium tale for `bob-cli-ph.2`, covering the shared recognizer, fixture fixes, tests, and deployment. Baseline: 93/94 tests passed; the known fixture mismatch is included.
+The plan passed validation and is staged for review. I’m using `/sase_final` to complete the handoff; implementation and phase closure remain pending under the requested planning workflow.
 
-Implementation remains pending approval. The requested [`sase_plan` workflow](/home/bryan/.codex/skills/sase_plan/SKILL.md) requires this handoff: “Nothing starts until your turn ends.” The bead remains in progress.
+
+Validated and staged the completion plan. Existing reader changes have landed, and 22 focused tests pass. Remaining work covers the standalone-fixture test fix, verification, deployment, and closure.
+
+`bob-cli-ph.2` remains in progress. The requested [sase_plan workflow](/home/bryan/.codex/skills/sase_plan/SKILL.md) requires “finish through `/sase_final`” after staging; that handoff is complete.

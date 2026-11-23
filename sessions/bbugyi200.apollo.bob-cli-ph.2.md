@@ -8,16 +8,16 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-ph` · Members: 6 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ph.2--plan [completed]"]
-  n1["bob-cli-ph.2--code [completed]"]
+  n0["bob-cli-ph.2--plan [active]"]
+  n1["bob-cli-ph.2--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-ph.2--mon-0 [active]"]
+  n2["bob-cli-ph.2--code [active]"]
   n0 --> n2
-  n3["bob-cli-ph.2--1 [completed]"]
+  n3["bob-cli-ph.2--mon-0 [active]"]
   n0 --> n3
-  n4["bob-cli-ph.2--mon [failed]"]
+  n4["bob-cli-ph.2--1 [completed]"]
   n0 --> n4
-  n5["bob-cli-ph.2--gate [completed]"]
+  n5["bob-cli-ph.2--mon [failed]"]
   n0 --> n5
 ```
 
@@ -25,18 +25,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-ph.2--plan | completed | gpt-6-astra / codex | 2026-11-23T17:15:29.894668+00:00 → 2026-11-23T18:07:26.489124+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.2--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-ph.2--code | completed | gpt-6-luna / codex | 2026-11-23T17:23:55.559468+00:00 → 2026-11-23T18:07:26.489124+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ph.2--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.2--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ph.2--plan | active | gpt-6-astra / codex | 2026-11-23T21:04:14.140984+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.2--plan/chat.md) |
+| <a id="member-gate"></a>gate | bob-cli-ph.2--gate | completed | gpt-6-astra / codex | 2026-11-23T21:11:23.488306+00:00 → 2026-11-23T21:11:31.988519+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.2--gate/chat.md) |
+| <a id="member-code"></a>code | bob-cli-ph.2--code | active | grok-4.6 / grok | 2026-11-23T21:15:08.045717+00:00 | 0 | — | — |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-ph.2--mon-0 | active | gpt-6-luna / codex | 2026-11-23T18:19:44.098936+00:00 | 0 | — | — |
 | <a id="member-1"></a>1 | bob-cli-ph.2--1 | completed | gpt-6-luna / codex | 2026-11-23T18:13:09.117414+00:00 → 2026-11-23T18:21:39.269851+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.2--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-ph.2--mon | failed | gpt-6-luna / codex | 2026-11-23T18:02:59.843500+00:00 → 2026-11-23T18:13:06.843160+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.2--mon/chat.md) |
-| <a id="member-gate"></a>gate | bob-cli-ph.2--gate | completed | gpt-6-astra / codex | 2026-11-23T17:22:50.773698+00:00 → 2026-11-23T17:23:00.305055+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.2--gate/chat.md) |
-
-## Commits
-
-| Role | Repo | Commit | Subject | Committed |
-|---|---|---|---|---|
-| code | bob-cli | [`b1fa8ad`](https://github.com/bobs-org/bob-cli/commit/b1fa8ad6de8c3818152296f7c9af7cb2ec21ed1e) | docs: document plugin task drawer reader parity | 2026-11-23 13:04:10 EST |
 
 ## Neighbors
 
