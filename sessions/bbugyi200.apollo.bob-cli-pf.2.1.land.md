@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-pf` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-pf.2.1.land--plan [active]"]
+  n0["bob-cli-pf.2.1.land--plan [completed]"]
   n1["bob-cli-pf.2.1.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-pf.2.1.land--code [active]"]
+  n2["bob-cli-pf.2.1.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-pf.2.1.land--plan | active | gpt-6-astra / codex | 2026-11-23T01:40:59.928480+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-pf.2.1.land--plan | completed | gpt-6-astra / codex | 2026-11-23T01:40:59.928480+00:00 → 2026-11-23T03:58:19.925526+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.2.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-pf.2.1.land--gate | completed | gpt-6-astra / codex | 2026-11-23T01:51:24.759724+00:00 → 2026-11-23T01:51:35.494342+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-pf.2.1.land--code | active | grok-4.6 / grok | 2026-11-23T01:52:17.286441+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-pf.2.1.land--code | completed | grok-4.6 / grok | 2026-11-23T01:52:17.286441+00:00 → 2026-11-23T03:58:19.925526+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-pf.2.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2.1.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`3966100`](https://github.com/bobs-org/bob-cli/commit/396610031495186d77f64f580a02a3ceb8f114ac) | feat(props): repair ownership, reversible writes, and CLI contract | 2026-11-22 22:55:51 EST |
 
 ## Neighbors
 

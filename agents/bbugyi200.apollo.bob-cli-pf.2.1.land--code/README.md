@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / [bob-cli-pf.2.1.land](../../sessions/bbugyi200.apollo.bob-cli-pf.2.1.land.md) / bob-cli-pf.2.1.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.2.1.land--code` · **State:** active · **Source run:** `run-f861f629ce9ff4be256890ea5c069b58`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.2.1.land--code` · **State:** completed · **Source run:** `run-f861f629ce9ff4be256890ea5c069b58`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-pf.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.2.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-23T01:52:17.286441+00:00
-- Commits: 0
+- Timing: 2026-11-23T01:52:17.286441+00:00 → 2026-11-23T03:58:19.925526+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`3966100`](https://github.com/bobs-org/bob-cli/commit/396610031495186d77f64f580a02a3ceb8f114ac) | feat(props): repair ownership, reversible writes, and CLI contract | 2026-11-22 22:55:51 EST |
 
 ## Neighbors
 
