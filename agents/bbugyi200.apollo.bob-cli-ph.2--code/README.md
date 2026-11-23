@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / [bob-cli-ph.2](../../sessions/bbugyi200.apollo.bob-cli-ph.2.md) / bob-cli-ph.2--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.2--code` · **State:** active · **Source run:** `run-43e3558328f8ccd5585b3767f6e8592a`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.2--code` · **State:** completed · **Source run:** `run-43e3558328f8ccd5585b3767f6e8592a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -12,8 +12,18 @@
 - Epic: [bob-cli-ph](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-23T17:23:55.559468+00:00
-- Commits: 0
+- Timing: 2026-11-23T17:23:55.559468+00:00 → 2026-11-23T18:07:26.489124+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`b1fa8ad`](https://github.com/bobs-org/bob-cli/commit/b1fa8ad6de8c3818152296f7c9af7cb2ec21ed1e) | docs: document plugin task drawer reader parity | 2026-11-23 13:04:10 EST |
 
 ## Neighbors
 
