@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / [bob-cli-on.15.1.4](../../sessions/bbugyi200.athena.bob-cli-on.15.1.4.md) / bob-cli-on.15.1.4--mon-0
 
-**Global name:** `bbugyi200.athena.bob-cli-on.15.1.4--mon-0` · **State:** active · **Source run:** `run-d45ac384da7a872f9c3761770b5d1b6f`
+**Global name:** `bbugyi200.athena.bob-cli-on.15.1.4--mon-0` · **State:** completed · **Source run:** `run-d45ac384da7a872f9c3761770b5d1b6f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -11,8 +11,12 @@
 - Bead: [bob-cli-on.15.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.15.1.4.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-22T23:45:19.813380+00:00
+- Timing: 2026-11-22T23:45:19.813380+00:00 → 2026-11-23T00:12:34.844330+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -22,7 +26,7 @@
 | [bob-cli-on.15.1.1](../bbugyi200.athena.bob-cli-on.15.1.1/README.md) | bob-cli-on.15.1 hood | completed |
 | [bob-cli-on.15.1.2](../bbugyi200.athena.bob-cli-on.15.1.2/README.md) | bob-cli-on.15.1 hood | completed |
 | [bob-cli-on.15.1.3](../../sessions/bbugyi200.athena.bob-cli-on.15.1.3.md) (session · 5) | bob-cli-on.15.1 hood | completed 4, failed 1 |
-| [bob-cli-on.15.1.5](../bbugyi200.athena.bob-cli-on.15.1.5/README.md) | bob-cli-on.15.1 hood | waiting |
+| [bob-cli-on.15.1.5](../../sessions/bbugyi200.athena.bob-cli-on.15.1.5.md) (session · 2) | bob-cli-on.15.1 hood | active 1, completed 1 |
 | [bob-cli-on.15.1.land](../bbugyi200.athena.bob-cli-on.15.1.land/README.md) | bob-cli-on.15.1 hood | waiting |
 | [bob-cli-on.1](../bbugyi200.athena.bob-cli-on.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.10](../../sessions/bbugyi200.athena.bob-cli-on.10.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
@@ -39,7 +43,7 @@
 | [bob-cli-on.11.1.3](../../sessions/bbugyi200.athena.bob-cli-on.11.1.3.md) (session · 5) | bob-cli-on hood | completed 3, failed 2 |
 | [bob-cli-on.11.1.4](../bbugyi200.athena.bob-cli-on.11.1.4/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.11.1.5](../bbugyi200.athena.bob-cli-on.11.1.5/README.md) | bob-cli-on hood | completed |
-| [bob-cli-on.11.1.6](../../sessions/bbugyi200.athena.bob-cli-on.11.1.6.md) (session · 3) | bob-cli-on hood | active 1, completed 1, failed 1 |
+| [bob-cli-on.11.1.6](../../sessions/bbugyi200.athena.bob-cli-on.11.1.6.md) (session · 8) | bob-cli-on hood | active 1, completed 6, failed 1 |
 | [bob-cli-on.11.1.land](../bbugyi200.athena.bob-cli-on.11.1.land/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.12](../bbugyi200.athena.bob-cli-on.12/README.md) | bob-cli-on hood | waiting |
 | [bob-cli-on.13](../../sessions/bbugyi200.athena.bob-cli-on.13.md) (session · 5) | bob-cli-on hood | completed 4, failed 1 |
