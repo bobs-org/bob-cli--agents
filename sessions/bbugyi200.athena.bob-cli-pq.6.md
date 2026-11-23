@@ -82,4 +82,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-pq.5](bbugyi200.athena.bob-cli-pq.5.md) (session · 9) | bob-cli-pq hood | completed 6, failed 3 |
 | [bob-cli-pq.5](../agents/bbugyi200.athena.bob-cli-pq.5/README.md) | bob-cli-pq hood | completed |
 | [bob-cli-pq.7](../agents/bbugyi200.athena.bob-cli-pq.7/README.md) | bob-cli-pq hood | completed |
-| [bob-cli-pq.land](../agents/bbugyi200.athena.bob-cli-pq.land/README.md) | bob-cli-pq hood | waiting |
+| [bob-cli-pq.land](../agents/bbugyi200.athena.bob-cli-pq.land/README.md) | bob-cli-pq hood | completed |
