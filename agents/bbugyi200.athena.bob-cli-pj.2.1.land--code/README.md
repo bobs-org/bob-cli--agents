@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-pj](../../users/bbugyi200/machines/athena/hoods/bob-cli-pj/README.md) / [bob-cli-pj.2.1.land](../../sessions/bbugyi200.athena.bob-cli-pj.2.1.land.md) / bob-cli-pj.2.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-pj.2.1.land--code` · **State:** active · **Source run:** `run-1235139c032f5ac1857bd904b93c8db6`
+**Global name:** `bbugyi200.athena.bob-cli-pj.2.1.land--code` · **State:** completed · **Source run:** `run-1235139c032f5ac1857bd904b93c8db6`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-pj
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-pj.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pj/bob-cli-pj.2.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-23T02:13:15.891203+00:00
-- Commits: 0
+- Timing: 2026-11-23T02:13:15.891203+00:00 → 2026-11-23T03:02:56.949782+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`15225a6`](https://github.com/bobs-org/bob-cli/commit/15225a6a7b86e887c7b35a655c719ce197efbc88) | feat(highlights-ref): converge refresh with live dependencies and lock-window settle | 2026-11-22 22:01:49 EST |
 
 ## Neighbors
 
