@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-on](../../users/bbugyi200/machines/athena/hoods/bob-cli-on/README.md) / [bob-cli-on.11.1.7.2](../../sessions/bbugyi200.athena.bob-cli-on.11.1.7.2.md) / bob-cli-on.11.1.7.2--2
 
-**Global name:** `bbugyi200.athena.bob-cli-on.11.1.7.2--2` · **State:** active · **Source run:** `run-9e729a19cb70427e3f842a753af8fc45`
+**Global name:** `bbugyi200.athena.bob-cli-on.11.1.7.2--2` · **State:** completed · **Source run:** `run-9e729a19cb70427e3f842a753af8fc45`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-on
 
@@ -11,18 +11,37 @@
 - Bead: [bob-cli-on.11.1.7.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-on/bob-cli-on.11.1.7.2.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-23T02:19:55.221203+00:00
+- Timing: 2026-11-23T02:19:55.221203+00:00 → 2026-11-23T03:07:14.533875+00:00
 - Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
 | bob-cli | [`bf00529`](https://github.com/bobs-org/bob-cli/commit/bf005290ab7e2da5f019102b16ff81d495fe6855) | docs(task-requirements): document requirement close behavior | 2026-11-22 21:33:47 EST |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-m1, kind: markdown, label: bob-plugins full-suite timing evidence 2026-11-23, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261122211916/sase-plugin-perf-flake-evide… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-m1
+  kind: markdown
+  label: bob-plugins full-suite timing evidence 2026-11-23
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261122211916/sase-plugin-perf-flake-evidence-c8be14b8aa99.md
+  ref: file:explicit:2044c3e6f2658ebe4d459b4f
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
