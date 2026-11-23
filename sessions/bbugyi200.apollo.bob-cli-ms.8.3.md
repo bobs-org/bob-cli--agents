@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-ms` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ms.8.3--plan [active]"]
+  n0["bob-cli-ms.8.3--plan [dismissed]"]
   n1["bob-cli-ms.8.3--gate [completed]"]
   n0 --> n1
   n2["bob-cli-ms.8.3--mon [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-ms.8.3--plan | active | gpt-6-astra / codex | 2026-11-18T13:52:30.442651+00:00 → 2026-11-18T13:59:25.291664+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ms.8.3--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.8.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ms.8.3--plan | dismissed | gpt-6-astra / codex | 2026-11-18T08:52:30.442651 → 2026-11-18T08:59:25.717876 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ms.8.3--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.8.3--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ms.8.3--gate | completed | gpt-6-astra / codex | 2026-11-18T13:58:59.620245+00:00 → 2026-11-18T13:59:16.885331+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.8.3--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-ms.8.3--mon | completed | gpt-6-astra / codex | 2026-11-18T13:59:15.357305+00:00 → 2026-11-18T14:00:52.428045+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ms.8.3--mon/chat.md) |
 

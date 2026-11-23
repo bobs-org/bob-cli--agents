@@ -123,7 +123,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| h | bob-cli | [`e07a26b`](https://github.com/bobs-org/bob-cli/commit/e07a26bf86b93fe12df571ac6cb00f8b71d28cca) | fix(records): preserve literal YAML values in reads and undo | 2026-11-19 04:10:03 EST |
+| h | — | `e07a26b` | fix(records): preserve literal YAML values in reads and undo | 2026-11-19 04:10:03 EST |
 
 ## Variables
 
@@ -1964,7 +1964,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-ms.8.3](bbugyi200.apollo.bob-cli-ms.8.3.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-ms.8.3](bbugyi200.apollo.bob-cli-ms.8.3.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-ms.8.3.1.1](bbugyi200.apollo.bob-cli-ms.8.3.1.1.md) (session · 25) | bob-cli-ms.8.3.1 hood | active 1, completed 12, failed 12 |
 | [bob-cli-ms.8.3.1.3](bbugyi200.apollo.bob-cli-ms.8.3.1.3.md) (session · 7) | bob-cli-ms.8.3.1 hood | completed 5, failed 2 |
 | [bob-cli-ms.8.3.1.land](bbugyi200.apollo.bob-cli-ms.8.3.1.land.md) (session · 3) | bob-cli-ms.8.3.1 hood | completed 3 |

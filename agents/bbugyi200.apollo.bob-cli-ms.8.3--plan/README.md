@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ms](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ms/README.md) / [bob-cli-ms.8.3](../../sessions/bbugyi200.apollo.bob-cli-ms.8.3.md) / bob-cli-ms.8.3--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-ms.8.3--plan` · **State:** active · **Source run:** `run-a011e0f14e4dc1131cc1b0ca30e89490`
+**Global name:** `bbugyi200.apollo.bob-cli-ms.8.3--plan` · **State:** dismissed · **Source run:** `run-a011e0f14e4dc1131cc1b0ca30e89490`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ms
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-ms.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ms/bob-cli-ms.8.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-18T13:52:30.442651+00:00 → 2026-11-18T13:59:25.291664+00:00
+- Timing: 2026-11-18T08:52:30.442651 → 2026-11-18T08:59:25.717876
 - Commits: 0
 
 ## Files
