@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-pj.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_pj_land__plan-261122_180243.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_pj_land__code-261122_180243.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/tick_contention_acceptance.md
 
 

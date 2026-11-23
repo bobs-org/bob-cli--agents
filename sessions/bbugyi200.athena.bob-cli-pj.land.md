@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-pj` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-pj.land--plan [active]"]
+  n0["bob-cli-pj.land--plan [completed]"]
   n1["bob-cli-pj.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-pj.land--code [active]"]
+  n2["bob-cli-pj.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-pj.land--plan | active | gpt-6-astra / codex | 2026-11-23T03:00:23.445273+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-pj.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-pj.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-pj.land--plan | completed | gpt-6-astra / codex | 2026-11-23T03:00:23.445273+00:00 → 2026-11-23T03:54:03.139400+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-pj.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-pj.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-pj.land--gate | completed | gpt-6-astra / codex | 2026-11-23T03:09:12.329549+00:00 → 2026-11-23T03:09:18.830050+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-pj.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-pj.land--code | active | gpt-6-luna / codex | 2026-11-23T03:09:51.456279+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-pj.land--code | completed | gpt-6-luna / codex | 2026-11-23T03:09:51.456279+00:00 → 2026-11-23T03:54:03.139400+00:00 | [1](../agents/bbugyi200.athena.bob-cli-pj.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-pj.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`4fed68f`](https://github.com/bobs-org/bob-cli/commit/4fed68fce90e080e679ec49a49397a0e48a5bb08) | test(highlights-ref): cover incremental scan refresh contention | 2026-11-22 22:52:58 EST |
 
 ## Neighbors
 

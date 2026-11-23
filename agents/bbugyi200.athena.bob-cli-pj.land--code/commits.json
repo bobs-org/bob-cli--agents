@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-bb61ede7e4af56b816e8d9b0751c19ed"}
+{"commits":[{"committed_at":1795405978,"sha":"4fed68fce90e080e679ec49a49397a0e48a5bb08","subject":"test(highlights-ref): cover incremental scan refresh contention"}],"schema_version":2,"source_run_id":"run-bb61ede7e4af56b816e8d9b0751c19ed"}
