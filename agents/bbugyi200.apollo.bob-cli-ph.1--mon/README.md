@@ -2,22 +2,17 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / [bob-cli-ph.1](../../sessions/bbugyi200.apollo.bob-cli-ph.1.md) / bob-cli-ph.1--mon
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.1--mon` · **State:** completed · **Source run:** `run-c85379934797fc45915164dbbd4b3d8e`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.1--mon` · **State:** active · **Source run:** `run-d115c4700fcd7585534b1e2db1618f33`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
 ## Summary
 
 - Bead: [bob-cli-ph.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.1.md)
-- Epic: [bob-cli-ph](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/README.md)
-- Model: gpt-6-astra
+- Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-22T22:42:56.533610+00:00 → 2026-11-23T08:38:15.487990+00:00
+- Timing: 2026-11-23T13:05:02.988973+00:00
 - Commits: 0
-
-## Files
-
-[Chat](chat.md)
 
 ## Neighbors
 
