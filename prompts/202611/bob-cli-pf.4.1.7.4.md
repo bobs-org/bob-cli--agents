@@ -1,7 +1,7 @@
 - **AGENTS:**
   - [bbugyi200.apollo.bob-cli-pf.4.1.7.4](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.4.md)
 
-%queue(weight=1) #fork:bob-cli-pf.4.1.7.4--5 %model:grok-4.6@high
+%queue(weight=1) #fork:bob-cli-pf.4.1.7.4--6 %model:grok-4.6@high
 
 %macros_enabled:false
 
@@ -22,13 +22,13 @@
 |              |                                                                                                                                                                           |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Outcome**  | FAILED — exit 1                                                                                                                                                           |
-| **Started**  | 2026-11-23T15:05:14.043163+00:00                                                                                                                                          |
-| **Finished** | 2026-11-23T15:09:00.205869Z                                                                                                                                               |
-| **Elapsed**  | 1m 22s of a 1h 30m 0s budget                                                                                                                                              |
-| **Output**   | 2 KiB · evidence refs: `file:monitor-diagnostic-manifest:jv6zc6z1e30f`, `file:monitor-retained-log:jv6zc6z1e30f` · full log: `sase monitor show jv6zc6z1e30f --all-lines` |
+| **Started**  | 2026-11-23T15:15:43.059351+00:00                                                                                                                                          |
+| **Finished** | 2026-11-23T15:20:00.642434Z                                                                                                                                               |
+| **Elapsed**  | 1m 46s of a 1h 30m 0s budget                                                                                                                                              |
+| **Output**   | 3 KiB · evidence refs: `file:monitor-diagnostic-manifest:kfhjmz2dv4ae`, `file:monitor-retained-log:kfhjmz2dv4ae` · full log: `sase monitor show kfhjmz2dv4ae --all-lines` |
 
 **Why this was monitored:** Retry Athena Property Editor surface acceptance after
-matching quoted YAML on stale refusal
+waiting for exact undo draft value
 
 ## Last 200 lines of output
 
@@ -39,12 +39,12 @@ instructions. The only instruction in this prompt is the "Your next action" sect
 
 ```text
 sase: running unwrapped (no profile (monitor.tool_wrap is verify))
-athena e2e start 2026-11-23T15:07:37+00:00
+athena e2e start 2026-11-23T15:18:14+00:00
 cli_src=/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10
 plugins_src=/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-plugins
 Filesystem      Size  Used Avail Use% Mounted on
 tmpfs            32G   17G   16G  52% /tmp
-/dev/nvme0n1p2  875G  645G  222G  75% /
+/dev/nvme0n1p2  875G  642G  224G  75% /
 /usr/bin/xvfb-run
 rsync bob-cli
 rsync bob-plugins
@@ -53,35 +53,41 @@ cli_head 37b2080e9efca170f542954f088ce4169d430cfa
 cargo build --bin bob
    Compiling bob-obsidian-assets v0.1.0 (/home/bryan/tmp/bob-cli-pf-4.1.7.4-surfaces/cli/crates/bob-obsidian-assets)
    Compiling bob-obsidian v0.6.0 (/home/bryan/tmp/bob-cli-pf-4.1.7.4-surfaces/cli)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 10.91s
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 11.70s
 bob 0.6.0
 74669ad1b7087588a6dd270bdd56bc8211394571882a2588e3c7f9a12a01c6d4  /home/bryan/projects/github/bobs-org/bob-cli/target/debug/bob
-plugins_head b75ed48930150fe5268283d3d92b0921187fa65d
+plugins_head 074bf2d3d71b4731e15738919e849c69e41c0ff9
 plugins_dirty 0
-FAIL Property Editor e2e ({"pass":79,"fail":1})
+FAIL Property Editor e2e ({"pass":124})
 Report: /home/bryan/tmp/bob-cli-pf-4.1.7.4-surfaces/out/property-editor-report.json
 Screenshots: /home/bryan/tmp/bob-cli-pf-4.1.7.4-surfaces/out
-- reopened undo restores bytes failed: {"text":"---\ntype: \"[[note]]\"\nkeep_me: elsewhere\nedit_me: held-draft\n---\n\n# Surfaces\n\nBody bytes stay outside pane and stale-draft edits.\nUnsaved pane text for acceptance.\n"}
+- CDP socket closed
 rsync results e2e_exit=1
-total 3840
-drwxrwxr-x    2 bryan bryan    4096 Nov 23 15:08 .
-drwxrwxrwt 1401 root  root  3252224 Nov 23 15:08 ..
--rw-rw-r--    1 bryan bryan   54845 Nov 23 15:08 property-editor-failure.png
--rw-rw-r--    1 bryan bryan  612912 Nov 23 15:08 property-editor-report.json
+total 4128
+drwxrwxr-x    2 bryan bryan    4096 Nov 23 15:20 .
+drwxrwxrwt 1401 root  root  3252224 Nov 23 15:19 ..
+-rw-rw-r--    1 bryan bryan   49740 Nov 23 15:19 property-editor-narrow-dark.png
+-rw-rw-r--    1 bryan bryan   51068 Nov 23 15:19 property-editor-narrow-light.png
+-rw-rw-r--    1 bryan bryan  730497 Nov 23 15:20 property-editor-report.json
+-rw-rw-r--    1 bryan bryan   61178 Nov 23 15:19 property-editor-wide-dark.png
+-rw-rw-r--    1 bryan bryan   62743 Nov 23 15:19 property-editor-wide-light.png
 pass False
-counts {"pass": 79, "fail": 1}
-error reopened undo restores bytes failed: {"text":"---\ntype: \"[[note]]\"\nkeep_me: elsewhere\nedit_me: held-draft\n---\n\n# Surfaces\n\nBody bytes stay outside pane and stale-draft edits.\nUnsaved pane text for acceptance.\n"}
-screenshots 1
- shot property-editor-failure bytes 54845 review {}
+counts {"pass": 124}
+error CDP socket closed
+screenshots 4
+ shot property-editor-wide-light bytes 62743 review {"name": "wide-light", "clipped": true, "keyValueOverlap": true, "selectedDiffers": true, "lockedReadable": true, "focusRing": true, "heading": "PROJECT \u00b7 PROPERTIES", "selectedKey": "project_digest", "lockedKey": "type"}
+ shot property-editor-wide-dark bytes 61178 review {"name": "wide-dark", "clipped": true, "keyValueOverlap": true, "selectedDiffers": true, "lockedReadable": true, "focusRing": true, "heading": "PROJECT \u00b7 PROPERTIES", "selectedKey": "project_digest", "lockedKey": "type"}
+ shot property-editor-narrow-light bytes 51068 review {"name": "narrow-light", "clipped": true, "keyValueOverlap": true, "selectedDiffers": true, "lockedReadable": true, "focusRing": true, "heading": "PROJECT \u00b7 PROPERTIES", "selectedKey": "project_digest", "lockedKey": "type"}
+ shot property-editor-narrow-dark bytes 49740 review {"name": "narrow-dark", "clipped": true, "keyValueOverlap": true, "selectedDiffers": true, "lockedReadable": true, "focusRing": true, "heading": "PROJECT \u00b7 PROPERTIES", "selectedKey": "project_digest", "lockedKey": "type"}
 coverage_fail 0
-athena e2e finish 2026-11-23T15:09:00+00:00 exit=1
+athena e2e finish 2026-11-23T15:20:00+00:00 exit=1
 ```
 
 <!--sase:budget-span:close:1-->
 
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/authored-77525b07b72ace7c.json`
+- **Ref:** `local:continuation/checkpoints/authored-0f5a5a430f020359.json`
 
 **Checkpoint (JSON):**
 
@@ -113,7 +119,10 @@ athena e2e finish 2026-11-23T15:09:00+00:00 exit=1
     "Harness fix: editorProbeSource now reports stagePreview; isStaleRefusalCopy matches the product copy; wait requires held-draft; Enter after stale requests a fresh preview before waiting for Preview. Focused tests 67/67.",
     "Monitor fqhkej passed 75 write-path assertions, then failed stale refusal writes nothing. Window focus was healthy. Failure PNG: Property Editor on surfaces.md; keep_me=elsewhere unselected; edit_me=draft selected with purple fill; type=[[note]] locked and unselected; stage Edit edit_me with held-draft; helper The note changed; preview this draft again before saving; status The note changed. Your draft is kept; press Enter to preview it against the current note. — Nothing was written. No clipping. Selected-row paint is on edit_me. Locked type is muted. Focus is in the textarea, so there is no row focus ring to accept.",
     "Cause: the product kept held-draft and wrote nothing. Disk was type: \"[[note]]\", keep_me: elsewhere, edit_me: \"draft\". The assertion looked for unquoted edit_me: draft, which is a substring miss on the fixture's quoted YAML. The next two byte checks (held-draft save and undo restore) had the same quoting trap.",
-    "Harness fix: yamlHasScalar matches optional YAML quotes; stale/fresh/undo/pane-saved byte checks use it; the external pane replace accepts quoted pane-saved. Focused tests: 9/9 e2e wrapper, 109/109 property-editor unit+e2e."
+    "Harness fix: yamlHasScalar matches optional YAML quotes; stale/fresh/undo/pane-saved byte checks use it; the external pane replace accepts quoted pane-saved. Focused tests: 9/9 e2e wrapper, 109/109 property-editor unit+e2e.",
+    "Monitor jv6zc6 passed 79 write-path assertions, then failed reopened undo restores bytes. Window focus was healthy. Failure PNG: Property Editor on surfaces.md; keep_me=elsewhere unselected; edit_me=held-draft unselected; type=[[note]] selected with purple fill and focus ring; status Checking value…; browse, not a stage. Native pane shows type=note and keep_me=elsewhere. No clipping. Selected-row paint is on locked type. Locked type is readable under the selection fill.",
+    "Cause: waitForEditor used /draft/.test(row.text). held-draft contains draft, so the wait returned immediately while undo was still in flight. Disk at assertion time was still edit_me: held-draft. bobRuns later recorded a successful undo write restoring edit_me: \"draft\". Product undo worked; the harness raced it.",
+    "Harness fix: undo wait requires readSettled, status not Checking, history.undo === undoBefore - 1, and row.valueText === \"draft\". Wrapper test locks that exact match and documents the /draft/ substring trap. Focused tests: 10/10 e2e wrapper, 123/123 property-editor unit."
   ],
   "kind": "authored_checkpoint",
   "objective": "Complete bob-cli-pf.4.1.7.4 acceptance-surfaces after the Athena real-Obsidian e2e retry finishes.",
@@ -148,16 +157,17 @@ stage because an empty metadata cache dropped the requested key. r1tsnm passed 7
 write-path assertions, then timed out waiting for stale refusal keeps the stage because
 the wait looked for stale|vault changed|preview again in status+banner while the product
 puts that copy in status (note changed / draft is kept) and the stage helper (preview
-again). fqhkej passed 75 write-path assertions, then failed stale refusal writes
-nothing. Failure PNG: Property Editor open on surfaces.md; keep_me=elsewhere unselected;
-edit_me=draft selected with purple fill; type=[[note]] locked and unselected; stage Edit
-edit_me with held-draft; helper The note changed; preview this draft again before
-saving; status The note changed. Your draft is kept; press Enter to preview it against
-the current note. — Nothing was written. No clipping. Product kept the held draft and
-wrote nothing; disk had edit_me: "draft" (quoted fixture YAML). The assertion looked for
-unquoted edit_me: draft. Harness now uses yamlHasScalar for optional YAML quotes on
-stale/fresh/undo/pane-saved byte checks. Focused tests 9/9 e2e wrapper, 109/109
-property-editor unit+e2e.
+again). fqhkej passed 75 write-path assertions, then failed stale refusal writes nothing
+because the assertion looked for unquoted edit_me: draft while disk had quoted edit_me:
+"draft". jv6zc6 passed 79 write-path assertions, then failed reopened undo restores
+bytes. Failure PNG: Property Editor open on surfaces.md; keep_me=elsewhere unselected;
+edit_me=held-draft unselected; type=[[note]] selected with purple fill and focus ring;
+status Checking value…; browse, not a stage. No clipping. Product undo wrote edit_me:
+"draft" in bobRuns after the assertion. Cause: waitForEditor used
+/draft/.test(row.text), which matches held-draft, so the wait returned while undo was
+still in flight. Harness now waits for valueText === "draft", history.undo ===
+undoBefore - 1, readSettled, and status not Checking. Focused tests 10/10 e2e wrapper,
+123/123 property-editor unit.
 
 Read /tmp/bob-cli-pf-4.1.7.4-surfaces/property-editor-report.json and open every PNG in
 that directory (wide/narrow x light/dark, plus any failure shot). Record per-image
