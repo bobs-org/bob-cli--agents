@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / bob-cli-pf.2.1.2
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-pf` · Members: 4 · Bead: [bob-cli-pf.2.1.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.2.1.2.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-pf` · Members: 5 · Bead: [bob-cli-pf.2.1.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.2.1.2.md)
 
 ## Lineage
 
@@ -11,10 +11,12 @@ flowchart TD
   n0["bob-cli-pf.2.1.2--1 [completed]"]
   n1["bob-cli-pf.2.1.2--mon [failed]"]
   n0 --> n1
-  n2["bob-cli-pf.2.1.2--mon-0 [active]"]
+  n2["bob-cli-pf.2.1.2--mon-0 [completed]"]
   n0 --> n2
-  n3["bob-cli-pf.2.1.2--plan [completed]"]
+  n3["bob-cli-pf.2.1.2--2 [completed]"]
   n0 --> n3
+  n4["bob-cli-pf.2.1.2--plan [completed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -23,8 +25,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | bob-cli-pf.2.1.2--1 | completed | grok-4.6 / grok | 2026-11-22T23:34:00.713156+00:00 → 2026-11-22T23:44:58.066470+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.2.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2.1.2--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-pf.2.1.2--mon | failed | grok-4.6 / grok | 2026-11-22T23:19:11.959599+00:00 → 2026-11-22T23:34:01.172294+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2.1.2--mon/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | bob-cli-pf.2.1.2--mon-0 | active | grok-4.6 / grok | 2026-11-22T23:43:28.016806+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-pf.2.1.2--mon-0 | completed | grok-4.6 / grok | 2026-11-22T23:43:28.016806+00:00 → 2026-11-23T00:00:21.133939+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2.1.2--mon-0/chat.md) |
+| <a id="member-2"></a>2 | bob-cli-pf.2.1.2--2 | completed | grok-4.6 / grok | 2026-11-23T00:00:20.676961+00:00 → 2026-11-23T00:13:01.802290+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-pf.2.1.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.2.1.2--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2.1.2--2/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-pf.2.1.2--plan | completed | grok-4.6 / grok | 2026-11-22T22:08:14.372666+00:00 → 2026-11-22T23:21:08.323229+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.2.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.2.1.2--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | bob-cli | [`fdd9472`](https://github.com/bobs-org/bob-cli/commit/fdd94725e315babce6ff79668d2b01ec97016b72) | feat(props): add strict span operations and byte-exact undo | 2026-11-22 19:11:52 EST |
 
 ## Neighbors
 
