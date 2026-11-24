@@ -24,8 +24,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-px.1](../bbugyi200.athena.bob-cli-px.1/README.md) | bob-cli-px hood | completed |
-| [bob-cli-px.2](../bbugyi200.athena.bob-cli-px.2/README.md) | bob-cli-px hood | active |
-| [bob-cli-px.3](../bbugyi200.athena.bob-cli-px.3/README.md) | bob-cli-px hood | active |
+| [bob-cli-px.2](../bbugyi200.athena.bob-cli-px.2/README.md) | bob-cli-px hood | completed |
+| [bob-cli-px.3](../../sessions/bbugyi200.athena.bob-cli-px.3.md) (session · 5) | bob-cli-px hood | active 1, completed 2, failed 2 |
 | [bob-cli-px.5](../bbugyi200.athena.bob-cli-px.5/README.md) | bob-cli-px hood | waiting |
 | [bob-cli-px.6](../bbugyi200.athena.bob-cli-px.6/README.md) | bob-cli-px hood | waiting |
 | [bob-cli-px.land](../bbugyi200.athena.bob-cli-px.land/README.md) | bob-cli-px hood | waiting |

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-0f5d618847b5900410c86555c0bf3b47"}
+{"commits":[{"committed_at":1795547632,"sha":"976f53ba4e6f47ca80a723ac4f1f9d94495db01a","subject":"feat(capture)!: refuse unconfirmed Gmail Task closes"}],"schema_version":2,"source_run_id":"run-0f5d618847b5900410c86555c0bf3b47"}
