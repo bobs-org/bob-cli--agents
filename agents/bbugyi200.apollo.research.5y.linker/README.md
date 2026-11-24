@@ -40,8 +40,8 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.5y.linker.w0](../bbugyi200.apollo.research.5y.linker.w0/README.md) | descendant | waiting |
-| [research.5y.linker.w1](../bbugyi200.apollo.research.5y.linker.w1/README.md) | descendant | waiting |
+| [research.5y.linker.w0](../bbugyi200.apollo.research.5y.linker.w0/README.md) | descendant | dismissed |
+| [research.5y.linker.w1](../bbugyi200.apollo.research.5y.linker.w1/README.md) | descendant | dismissed |
 | [research.5y.cdx](../bbugyi200.apollo.research.5y.cdx/README.md) | research.5y hood | completed |
 | [research.5y.cld](../bbugyi200.apollo.research.5y.cld/README.md) | research.5y hood | completed |
 | [research.5y.final](../bbugyi200.apollo.research.5y.final/README.md) | research.5y hood | completed |
