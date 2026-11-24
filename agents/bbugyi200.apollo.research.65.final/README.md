@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.65.final
 
-**Global name:** `bbugyi200.apollo.research.65.final` · **State:** waiting · **Source run:** `run-2dd6974dec3dff2516050579e37e9c75`
+**Global name:** `bbugyi200.apollo.research.65.final` · **State:** completed · **Source run:** `run-2dd6974dec3dff2516050579e37e9c75`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261124084945
+- Timing: 2026-11-24T14:27:20.341266+00:00 → 2026-11-24T14:39:57.020710+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/meeting\_notes\_event\_refs/meeting\_notes\_event\_refs\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124084945/meeting\_notes\_event\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/meeting_notes_event_refs/meeting_notes_event_refs__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124084945/meeting_notes_event_refs__final-d081ee130507.md
+  ref: file:explicit:c0d2db0c52b8785b440e5c62
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/meeting_notes_event_refs/meeting_notes_event_refs__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
