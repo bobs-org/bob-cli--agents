@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pw](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pw/README.md) / bob-cli-pw.4
 
-**Global name:** `bbugyi200.apollo.bob-cli-pw.4` · **State:** waiting · **Source run:** `run-02920c7f68d319ee869095304527b1e0`
+**Global name:** `bbugyi200.apollo.bob-cli-pw.4` · **State:** completed · **Source run:** `run-02920c7f68d319ee869095304527b1e0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pw
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-pw](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pw/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261124104004
-- Commits: 0
+- Timing: 2026-11-24T18:15:55.723206+00:00 → 2026-11-24T19:07:13.765344+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`923df1a`](https://github.com/bobs-org/bob-cli/commit/923df1a63e771bcaa13488b3e0bc64152b97cac4) | feat(meetings): marker-carried meeting identity births LINKS relation and recap | 2026-11-24 14:06:22 EST |
 
 ## Neighbors
 
