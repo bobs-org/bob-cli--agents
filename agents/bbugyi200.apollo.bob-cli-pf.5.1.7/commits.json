@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1dc009bcc2dea1c1abcae51db3fd0b2e"}
+{"commits":[{"committed_at":1795482334,"sha":"8d82c621b25d1595ec8a495c30f6087fbc87f524","subject":"fix(props): keep trailing newline on multiline set_yaml replace"}],"schema_version":2,"source_run_id":"run-1dc009bcc2dea1c1abcae51db3fd0b2e"}
