@@ -71,4 +71,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-px.3](bbugyi200.athena.bob-cli-px.3.md) (session · 9) | bob-cli-px hood | completed 5, failed 4 |
 | [bob-cli-px.4](../agents/bbugyi200.athena.bob-cli-px.4/README.md) | bob-cli-px hood | completed |
 | [bob-cli-px.5](../agents/bbugyi200.athena.bob-cli-px.5/README.md) | bob-cli-px hood | completed |
-| [bob-cli-px.land](bbugyi200.athena.bob-cli-px.land.md) (session · 3) | bob-cli-px hood | active 2, completed 1 |
+| [bob-cli-px.land](bbugyi200.athena.bob-cli-px.land.md) (session · 4) | bob-cli-px hood | active 1, completed 3 |
