@@ -69,4 +69,4 @@
 | [bob-cli-pf.6.1.4](../../sessions/bbugyi200.apollo.bob-cli-pf.6.1.4.md) (session · 50) | bob-cli-pf hood | active 1, completed 25, failed 24 |
 | [bob-cli-pf.6.1.5](../bbugyi200.apollo.bob-cli-pf.6.1.5/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.6.1.land](../bbugyi200.apollo.bob-cli-pf.6.1.land/README.md) | bob-cli-pf hood | completed |
-| [bob-cli-pf.land](../bbugyi200.apollo.bob-cli-pf.land/README.md) | bob-cli-pf hood | waiting |
+| [bob-cli-pf.land](../bbugyi200.apollo.bob-cli-pf.land/README.md) | bob-cli-pf hood | completed |
