@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-db86836861d203453f70ddcd4d5f143c"}
+{"commits":[{"committed_at":1795542740,"sha":"b832e58df449d9d422a488f1d8f3bf0828a93487","subject":"feat(meetings): add read-only meeting resolver and agenda wiring"}],"schema_version":2,"source_run_id":"run-db86836861d203453f70ddcd4d5f143c"}
