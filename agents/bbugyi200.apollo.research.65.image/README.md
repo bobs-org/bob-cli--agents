@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.65.image
 
-**Global name:** `bbugyi200.apollo.research.65.image` · **State:** waiting · **Source run:** `run-2b2ea314b112943a1699e961636c2e8f`
+**Global name:** `bbugyi200.apollo.research.65.image` · **State:** completed · **Source run:** `run-2b2ea314b112943a1699e961636c2e8f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261124084946
+- Timing: 2026-11-24T14:40:29.152288+00:00 → 2026-11-24T14:53:20.537559+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/meeting\_notes\_event\_refs/meeting\_notes\_event\_refs\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124084946/meeting\_notes\_event\_… |
+| `diagrams` | {considered: 14, count: 3, manifest: 202611/meeting\_notes\_event\_refs/meeting\_notes\_event\_refs.diagrams.md, source\_ref: file:explicit:c0d2db0c52b8785b440e5c62, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/meeting_notes_event_refs/meeting_notes_event_refs_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124084946/meeting_notes_event_refs_infographic-41b5d7ff4dfb.png
+  ref: file:explicit:248f24d0dfb07ece02defd7b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/meeting_notes_event_refs/meeting_notes_event_refs_infographic.png
+- kind: markdown
+  label: diagrams:202611/meeting_notes_event_refs/meeting_notes_event_refs.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124084946/meeting_notes_event_refs.diagrams-fa341810cb57.md
+  ref: file:explicit:ffc3de57818920b85f1a130d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/meeting_notes_event_refs/meeting_notes_event_refs.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 3
+manifest: 202611/meeting_notes_event_refs/meeting_notes_event_refs.diagrams.md
+source_ref: file:explicit:c0d2db0c52b8785b440e5c62
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
