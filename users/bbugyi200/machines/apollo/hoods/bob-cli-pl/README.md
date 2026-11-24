@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-pl
 
-**Global hood:** `bbugyi200.apollo.bob-cli-pl` · **Runs:** 22 · **Sessions:** 3 · **States:** active 3, completed 9, waiting 10
+**Global hood:** `bbugyi200.apollo.bob-cli-pl` · **Runs:** 23 · **Sessions:** 3 · **States:** active 4, completed 9, waiting 10
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -27,4 +27,5 @@
 | [bob-cli-pl.4.1.3](../../../../../../agents/bbugyi200.apollo.bob-cli-pl.4.1.3/README.md) | waiting | gpt-6-luna / codex | 20261124095225 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-pl.4.1.3/prompt.md) |
 | [bob-cli-pl.6](../../../../../../agents/bbugyi200.apollo.bob-cli-pl.6/README.md) | waiting | gpt-6-astra / codex | 20261122205823 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-pl.6/prompt.md) |
 | [bob-cli-pl.2--1](../../../../../../sessions/bbugyi200.apollo.bob-cli-pl.2.md#member-1) | active | gpt-6-astra / codex | 2026-11-24T14:42:52.423089+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-pl.2--1/prompt.md) |
+| [bob-cli-pl.1--mon-0](../../../../../../sessions/bbugyi200.apollo.bob-cli-pl.1.md#member-mon-0) | active | gpt-6-astra / codex | 2026-11-24T14:56:15.553091+00:00 | 0 | — |
 | [bob-cli-pl.9](../../../../../../agents/bbugyi200.apollo.bob-cli-pl.9/README.md) | waiting | gpt-6-astra / codex | 20261122205826 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-pl.9/prompt.md) |
