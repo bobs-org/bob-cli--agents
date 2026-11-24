@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-pl.6.1.1--mon [completed]"]
   n1["bob-cli-pl.6.1.1--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-pl.6.1.1--1 [active]"]
+  n2["bob-cli-pl.6.1.1--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-pl.6.1.1--mon | completed | grok-4.6 / grok | 2026-11-24T21:08:54.621110+00:00 → 2026-11-24T21:27:26.802495+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.1--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-pl.6.1.1--plan | completed | grok-4.6 / grok | 2026-11-24T20:51:14.021295+00:00 → 2026-11-24T21:12:00.919385+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.1--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-pl.6.1.1--1 | active | grok-4.6 / grok | 2026-11-24T21:27:26.428212+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-pl.6.1.1--1 | completed | grok-4.6 / grok | 2026-11-24T21:27:26.428212+00:00 → 2026-11-24T21:47:26.608505+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-pl.6.1.1--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.1--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | bob-cli | [`447ef1a`](https://github.com/bobs-org/bob-cli/commit/447ef1a5815924ca08329aee256598eaa9f999f9) | feat(props): return settings contract from successful property updates | 2026-11-24 16:46:13 EST |
 
 ## Neighbors
 

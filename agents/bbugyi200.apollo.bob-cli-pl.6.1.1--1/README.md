@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / [bob-cli-pl.6.1.1](../../sessions/bbugyi200.apollo.bob-cli-pl.6.1.1.md) / bob-cli-pl.6.1.1--1
 
-**Global name:** `bbugyi200.apollo.bob-cli-pl.6.1.1--1` · **State:** active · **Source run:** `run-f0f6808ac83ace2e1f449895949564e4`
+**Global name:** `bbugyi200.apollo.bob-cli-pl.6.1.1--1` · **State:** completed · **Source run:** `run-f0f6808ac83ace2e1f449895949564e4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pl
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-pl.6.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.6.1.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-24T21:27:26.428212+00:00
-- Commits: 0
+- Timing: 2026-11-24T21:27:26.428212+00:00 → 2026-11-24T21:47:26.608505+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`447ef1a`](https://github.com/bobs-org/bob-cli/commit/447ef1a5815924ca08329aee256598eaa9f999f9) | feat(props): return settings contract from successful property updates | 2026-11-24 16:46:13 EST |
 
 ## Neighbors
 
