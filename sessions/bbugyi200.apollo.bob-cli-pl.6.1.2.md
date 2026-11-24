@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / bob-cli-pl.6.1.2
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-pl` · Members: 3 · Bead: [bob-cli-pl.6.1.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.6.1.2.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-pl` · Members: 4 · Bead: [bob-cli-pl.6.1.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.6.1.2.md)
 
 ## Lineage
 
@@ -11,8 +11,10 @@ flowchart TD
   n0["bob-cli-pl.6.1.2--plan [completed]"]
   n1["bob-cli-pl.6.1.2--mon [failed]"]
   n0 --> n1
-  n2["bob-cli-pl.6.1.2--1 [active]"]
+  n2["bob-cli-pl.6.1.2--1 [completed]"]
   n0 --> n2
+  n3["bob-cli-pl.6.1.2--mon-0 [active]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -21,7 +23,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-pl.6.1.2--plan | completed | gpt-6-luna / codex | 2026-11-24T21:47:45.255432+00:00 → 2026-11-24T22:30:17.046935+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-pl.6.1.2--mon | failed | gpt-6-luna / codex | 2026-11-24T22:27:39.855076+00:00 → 2026-11-24T22:32:33.749014+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.2--mon/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-pl.6.1.2--1 | active | gpt-6-luna / codex | 2026-11-24T22:32:33.734973+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-pl.6.1.2--1 | completed | gpt-6-luna / codex | 2026-11-24T22:32:33.734973+00:00 → 2026-11-24T22:41:34.719321+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.2--1/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-pl.6.1.2--mon-0 | active | gpt-6-luna / codex | 2026-11-24T22:39:13.614847+00:00 | 0 | — | — |
 
 ## Neighbors
 
