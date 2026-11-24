@@ -49,5 +49,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-px.2](../agents/bbugyi200.athena.bob-cli-px.2/README.md) | bob-cli-px hood | completed |
 | [bob-cli-px.4](../agents/bbugyi200.athena.bob-cli-px.4/README.md) | bob-cli-px hood | completed |
 | [bob-cli-px.5](../agents/bbugyi200.athena.bob-cli-px.5/README.md) | bob-cli-px hood | completed |
-| [bob-cli-px.6](../agents/bbugyi200.athena.bob-cli-px.6/README.md) | bob-cli-px hood | waiting |
-| [bob-cli-px.land](../agents/bbugyi200.athena.bob-cli-px.land/README.md) | bob-cli-px hood | waiting |
+| [bob-cli-px.6](bbugyi200.athena.bob-cli-px.6.md) (session · 3) | bob-cli-px hood | completed 2, failed 1 |
+| [bob-cli-px.land](bbugyi200.athena.bob-cli-px.land.md) (session · 3) | bob-cli-px hood | active 2, completed 1 |
