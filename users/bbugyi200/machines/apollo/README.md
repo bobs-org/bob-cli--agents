@@ -496,7 +496,7 @@
 | [fj](hoods/fj/README.md) | 1 | 0 | completed 1 |
 | [fk](hoods/fk/README.md) | 3 | 1 | completed 3 |
 | [fl](hoods/fl/README.md) | 3 | 1 | completed 3 |
-| [fn](hoods/fn/README.md) | 3 | 1 | active 1, completed 2 |
+| [fn](hoods/fn/README.md) | 3 | 1 | completed 3 |
 | [fr](hoods/fr/README.md) | 3 | 1 | completed 3 |
 | [gh\_bobs-org\_\_bob-cli-2](hoods/gh_bobs-org__bob-cli-2/README.md) | 4 | 0 | completed 4 |
 | [gh\_bobs-org\_\_bob-cli-5](hoods/gh_bobs-org__bob-cli-5/README.md) | 1 | 0 | completed 1 |
