@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.65.gem
 
-**Global name:** `bbugyi200.apollo.research.65.gem` · **State:** active · **Source run:** `run-ce7d0d12b765756383bea1d056f7046b`
+**Global name:** `bbugyi200.apollo.research.65.gem` · **State:** completed · **Source run:** `run-ce7d0d12b765756383bea1d056f7046b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-neon-xhigh
 - Provider: agy
-- Timing: 2026-11-24T13:53:03.214322+00:00
+- Timing: 2026-11-24T13:53:03.214322+00:00 → 2026-11-24T14:26:43.793896+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/wispr\_flow\_meeting\_notes\_integration\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124084944/wispr\_flow\_meeting\_notes\_integratio… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/wispr_flow_meeting_notes_integration__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124084944/wispr_flow_meeting_notes_integration__gem-431bfee09d28.md
+  ref: file:explicit:3e6aa1713d6fff5ac60169b8
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_23/sase/repos/research/202611/wispr_flow_meeting_notes_integration__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
