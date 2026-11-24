@@ -1,0 +1,57 @@
+# Agent: bob-cli-pl.1--2
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / [bob-cli-pl.1](../../sessions/bbugyi200.apollo.bob-cli-pl.1.md) / bob-cli-pl.1--2
+
+**Global name:** `bbugyi200.apollo.bob-cli-pl.1--2` · **State:** active · **Source run:** `run-f04fe55baa3863bd56852789aa665142`
+
+**Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pl
+
+## Summary
+
+- Bead: [bob-cli-pl.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.1.md)
+- Model: gpt-6-astra
+- Provider: codex
+- Timing: 2026-11-24T15:15:09.188538+00:00
+- Commits: 0
+- Variables: [1](#variables)
+
+## Files
+
+[Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-pl.1, kind: image, label: Project Base Active after count retirement, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124101410/active-c3c91644958d.png, ref: file:e… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-pl.1
+  kind: image
+  label: Project Base Active after count retirement
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124101410/active-c3c91644958d.png
+  ref: file:explicit:18af8a410edfdba7f8a5506b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/.git/pl1-acceptance/active.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-pl.2](../../sessions/bbugyi200.apollo.bob-cli-pl.2.md) (session · 4) | bob-cli-pl hood | active 1, completed 3 |
+| [bob-cli-pl.3](../bbugyi200.apollo.bob-cli-pl.3/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.4](../../sessions/bbugyi200.apollo.bob-cli-pl.4.md) (session · 5) | bob-cli-pl hood | completed 5 |
+| [bob-cli-pl.4.1.1](../bbugyi200.apollo.bob-cli-pl.4.1.1/README.md) | bob-cli-pl hood | completed |
+| [bob-cli-pl.4.1.2](../bbugyi200.apollo.bob-cli-pl.4.1.2/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.4.1.3](../bbugyi200.apollo.bob-cli-pl.4.1.3/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.4.1.land](../bbugyi200.apollo.bob-cli-pl.4.1.land/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.5](../bbugyi200.apollo.bob-cli-pl.5/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.6](../bbugyi200.apollo.bob-cli-pl.6/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.7](../bbugyi200.apollo.bob-cli-pl.7/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.8](../bbugyi200.apollo.bob-cli-pl.8/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.9](../bbugyi200.apollo.bob-cli-pl.9/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.land](../bbugyi200.apollo.bob-cli-pl.land/README.md) | bob-cli-pl hood | waiting |
