@@ -59,6 +59,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pf.6.1.2](../bbugyi200.apollo.bob-cli-pf.6.1.2/README.md) | bob-cli-pf.6.1 hood | completed |
 | [bob-cli-pf.6.1.3](../bbugyi200.apollo.bob-cli-pf.6.1.3/README.md) | bob-cli-pf.6.1 hood | completed |
 | [bob-cli-pf.6.1.4](../../sessions/bbugyi200.apollo.bob-cli-pf.6.1.4.md) (session · 50) | bob-cli-pf.6.1 hood | active 1, completed 25, failed 24 |
+| [bob-cli-pf.6.1.4](../bbugyi200.apollo.bob-cli-pf.6.1.4/README.md) | bob-cli-pf.6.1 hood | active |
 | [bob-cli-pf.6.1.5](../bbugyi200.apollo.bob-cli-pf.6.1.5/README.md) | bob-cli-pf.6.1 hood | waiting |
 | [bob-cli-pf.6.1.land](../bbugyi200.apollo.bob-cli-pf.6.1.land/README.md) | bob-cli-pf.6.1 hood | waiting |
 | [bob-cli-pf.1](../../sessions/bbugyi200.apollo.bob-cli-pf.1.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
