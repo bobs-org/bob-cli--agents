@@ -28,4 +28,4 @@
 | [bob-cli-px.3](../../sessions/bbugyi200.athena.bob-cli-px.3.md) (session · 9) | bob-cli-px hood | completed 5, failed 4 |
 | [bob-cli-px.4](../bbugyi200.athena.bob-cli-px.4/README.md) | bob-cli-px hood | completed |
 | [bob-cli-px.5](../bbugyi200.athena.bob-cli-px.5/README.md) | bob-cli-px hood | completed |
-| [bob-cli-px.land](../../sessions/bbugyi200.athena.bob-cli-px.land.md) (session · 4) | bob-cli-px hood | active 1, completed 3 |
+| [bob-cli-px.land](../../sessions/bbugyi200.athena.bob-cli-px.land.md) (session · 5) | bob-cli-px hood | completed 4, failed 1 |
