@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / bob-cli-pf.6.1.1
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.6.1.1` · **State:** active · **Source run:** `run-f4ee30d98e5168e4b8c604f59c4ba871`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.6.1.1` · **State:** completed · **Source run:** `run-f4ee30d98e5168e4b8c604f59c4ba871`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
@@ -12,12 +12,44 @@
 - Epic: [bob-cli-pf.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.6.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-24T01:40:07.228750+00:00
+- Timing: 2026-11-24T01:40:07.228750+00:00 → 2026-11-24T02:22:56.100705+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-pf.6.1.1, kind: file, label: S1 GO report (Obsidian 1.15.1, 18-18, both modes), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261123203924/bob-pf611-20261124-014325-… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-pf.6.1.1
+  kind: file
+  label: S1 GO report (Obsidian 1.15.1, 18-18, both modes)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123203924/bob-pf611-20261124-014325-report-2176bee54790.json
+  ref: file:explicit:934db24e538e78fe20a37f64
+  source_path: /tmp/s1-final-shots/bob-pf611-20261124-014325-report.json
+- bead: bob-cli-pf.6.1.1
+  kind: image
+  label: S1 owned-owned-live-light (inspected pass)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123203924/owned-live-light-7f9be9407514.png
+  ref: file:explicit:817ec5a2f4f13360442b081c
+  source_path: /tmp/s1-final-shots/owned-live-light.png
+- bead: bob-cli-pf.6.1.1
+  kind: image
+  label: S1 owned-owned-live-dark (inspected pass)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261123203924/owned-live-dark-c2e3d376fdc2.png
+  ref: file:explicit:9361b027911b8426729dd3be
+  source_path: /tmp/s1-final-shots/owned-live-dark.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
