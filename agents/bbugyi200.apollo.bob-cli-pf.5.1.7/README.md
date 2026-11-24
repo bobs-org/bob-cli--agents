@@ -87,7 +87,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pf.6.1.1](../bbugyi200.apollo.bob-cli-pf.6.1.1/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.6.1.2](../bbugyi200.apollo.bob-cli-pf.6.1.2/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.6.1.3](../bbugyi200.apollo.bob-cli-pf.6.1.3/README.md) | bob-cli-pf hood | completed |
-| [bob-cli-pf.6.1.4](../../sessions/bbugyi200.apollo.bob-cli-pf.6.1.4.md) (session · 32) | bob-cli-pf hood | active 1, completed 16, failed 15 |
+| [bob-cli-pf.6.1.4](../../sessions/bbugyi200.apollo.bob-cli-pf.6.1.4.md) (session · 35) | bob-cli-pf hood | active 1, completed 17, failed 17 |
 | [bob-cli-pf.6.1.5](../bbugyi200.apollo.bob-cli-pf.6.1.5/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.6.1.land](../bbugyi200.apollo.bob-cli-pf.6.1.land/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.land](../bbugyi200.apollo.bob-cli-pf.land/README.md) | bob-cli-pf hood | waiting |
