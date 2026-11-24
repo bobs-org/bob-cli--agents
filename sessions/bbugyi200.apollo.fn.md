@@ -11,7 +11,7 @@ flowchart TD
   n0["fn--0 [completed]"]
   n1["fn--gate [completed]"]
   n0 --> n1
-  n2["fn--1 [active]"]
+  n2["fn--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-0"></a>0 | fn--0 | completed | gpt-6-astra / codex | 2026-11-22T16:38:41.635791+00:00 → 2026-11-22T17:14:10.717973+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.fn--0/prompt.md) | [Chat](../agents/bbugyi200.apollo.fn--0/chat.md) |
 | <a id="member-gate"></a>gate | fn--gate | completed | gpt-6-astra / codex | 2026-11-22T17:14:38.151430+00:00 → 2026-11-22T17:15:27.560878+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.fn--gate/chat.md) |
-| <a id="member-1"></a>1 | fn--1 | active | gpt-6-astra / codex | 2026-11-22T17:17:31.946753+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.fn--1/prompt.md) | — |
+| <a id="member-1"></a>1 | fn--1 | completed | gpt-6-astra / codex | 2026-11-22T17:17:31.946753+00:00 → 2026-11-22T17:24:42.896386+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.fn--1/prompt.md) | — |
 
 ## Variables
 
