@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.65.linker
 
-**Global name:** `bbugyi200.apollo.research.65.linker` · **State:** waiting · **Source run:** `run-d49f6d95c86ae1fd6cfc3c1d8caf5e2c`
+**Global name:** `bbugyi200.apollo.research.65.linker` · **State:** completed · **Source run:** `run-d49f6d95c86ae1fd6cfc3c1d8caf5e2c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,17 +10,37 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261124084947
+- Timing: 2026-11-24T14:53:47.145569+00:00 → 2026-11-24T15:01:52.535382+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/meeting\_notes\_event\_refs/meeting\_notes\_event\_refs.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124084947/meeting\_notes\_event\_refs-6d… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/meeting_notes_event_refs/meeting_notes_event_refs.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124084947/meeting_notes_event_refs-6d06ba56ed6e.md
+  ref: file:explicit:af58b39cf12d85fd1ebdee68
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/meeting_notes_event_refs/meeting_notes_event_refs.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.65.linker.w0](../bbugyi200.apollo.research.65.linker.w0/README.md) | descendant | active |
 | [research.65.cdx](../bbugyi200.apollo.research.65.cdx/README.md) | research.65 hood | completed |
 | [research.65.cld](../bbugyi200.apollo.research.65.cld/README.md) | research.65 hood | completed |
 | [research.65.final](../bbugyi200.apollo.research.65.final/README.md) | research.65 hood | completed |
