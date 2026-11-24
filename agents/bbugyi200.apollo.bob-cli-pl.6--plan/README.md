@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-pl.6.1.1](../../sessions/bbugyi200.apollo.bob-cli-pl.6.1.1.md) (session · 3) | descendant | completed 3 |
-| [bob-cli-pl.6.1.2](../../sessions/bbugyi200.apollo.bob-cli-pl.6.1.2.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
+| [bob-cli-pl.6.1.2](../../sessions/bbugyi200.apollo.bob-cli-pl.6.1.2.md) (session · 8) | descendant | active 1, completed 4, failed 3 |
 | [bob-cli-pl.6.1.3](../bbugyi200.apollo.bob-cli-pl.6.1.3/README.md) | descendant | waiting |
 | [bob-cli-pl.6.1.4](../bbugyi200.apollo.bob-cli-pl.6.1.4/README.md) | descendant | waiting |
 | [bob-cli-pl.6.1.5](../bbugyi200.apollo.bob-cli-pl.6.1.5/README.md) | descendant | waiting |
