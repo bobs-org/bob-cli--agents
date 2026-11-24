@@ -33,11 +33,11 @@ flowchart TD
   n0 --> n11
   n12["bob-cli-pf.6.1.4--b [completed]"]
   n0 --> n12
-  n13["bob-cli-pf.6.1.4--7 [completed]"]
+  n13["bob-cli-pf.6.1.4--6 [completed]"]
   n0 --> n13
-  n14["bob-cli-pf.6.1.4--6 [completed]"]
+  n14["bob-cli-pf.6.1.4--2 [completed]"]
   n0 --> n14
-  n15["bob-cli-pf.6.1.4--2 [completed]"]
+  n15["bob-cli-pf.6.1.4--7 [completed]"]
   n0 --> n15
   n16["bob-cli-pf.6.1.4--mon-6 [failed]"]
   n0 --> n16
@@ -81,7 +81,7 @@ flowchart TD
   n0 --> n35
   n36["bob-cli-pf.6.1.4--e [completed]"]
   n0 --> n36
-  n37["bob-cli-pf.6.1.4--mon-5 [active]"]
+  n37["bob-cli-pf.6.1.4--mon-5 [failed]"]
   n0 --> n37
   n38["bob-cli-pf.6.1.4--mon-3 [failed]"]
   n0 --> n38
@@ -126,9 +126,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-a"></a>mon-a | bob-cli-pf.6.1.4--mon-a | failed | gpt-6-luna / codex | 2026-11-24T07:50:21.248900+00:00 → 2026-11-24T07:55:32.382780+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-a/chat.md) |
 | <a id="member-5"></a>5 | bob-cli-pf.6.1.4--5 | completed | gpt-6-astra / codex | 2026-11-24T12:51:17.979507+00:00 → 2026-11-24T13:00:28.508799+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--5/chat.md) |
 | <a id="member-b"></a>b | bob-cli-pf.6.1.4--b | completed | gpt-6-luna / codex | 2026-11-24T07:44:23.922561+00:00 → 2026-11-24T07:53:05.684506+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--b/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--b/chat.md) |
-| <a id="member-7"></a>7 | bob-cli-pf.6.1.4--7 | completed | gpt-6-luna / codex | 2026-11-24T06:34:51.954972+00:00 → 2026-11-24T06:46:04.015368+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--7/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--7/chat.md) |
 | <a id="member-6"></a>6 | bob-cli-pf.6.1.4--6 | completed | gpt-6-astra / codex | 2026-11-24T13:03:19.080433+00:00 → 2026-11-24T13:18:02.383213+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--6/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--6/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-pf.6.1.4--2 | completed | gpt-6-astra / codex | 2026-11-24T11:59:39.792033+00:00 → 2026-11-24T12:12:26.379561+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--2/chat.md) |
+| <a id="member-7"></a>7 | bob-cli-pf.6.1.4--7 | completed | gpt-6-astra / codex | 2026-11-24T13:23:00.034999+00:00 → 2026-11-24T13:33:13.819847+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--7/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--7/chat.md) |
 | <a id="member-mon-6"></a>mon-6 | bob-cli-pf.6.1.4--mon-6 | failed | gpt-6-luna / codex | 2026-11-24T06:43:04.841366+00:00 → 2026-11-24T06:52:18.467603+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-6/chat.md) |
 | <a id="member-c"></a>c | bob-cli-pf.6.1.4--c | completed | gpt-6-luna / codex | 2026-11-24T07:55:31.864245+00:00 → 2026-11-24T08:07:44.650187+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--c/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--c/chat.md) |
 | <a id="member-f"></a>f | bob-cli-pf.6.1.4--f | completed | gpt-6-luna / codex | 2026-11-24T08:38:24.506050+00:00 → 2026-11-24T08:53:01.026892+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--f/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--f/chat.md) |
@@ -150,7 +150,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-d"></a>mon-d | bob-cli-pf.6.1.4--mon-d | failed | gpt-6-luna / codex | 2026-11-24T08:31:34.861978+00:00 → 2026-11-24T08:38:24.832015+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-d/chat.md) |
 | <a id="member-mon-l"></a>mon-l | bob-cli-pf.6.1.4--mon-l | failed | gpt-6-luna / codex | 2026-11-24T10:25:59.519692+00:00 → 2026-11-24T10:36:07.469564+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-l/chat.md) |
 | <a id="member-e"></a>e | bob-cli-pf.6.1.4--e | completed | gpt-6-luna / codex | 2026-11-24T08:23:00.655341+00:00 → 2026-11-24T08:35:37.130559+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--e/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--e/chat.md) |
-| <a id="member-mon-5"></a>mon-5 | bob-cli-pf.6.1.4--mon-5 | active | gpt-6-astra / codex | 2026-11-24T13:15:09.779320+00:00 | 0 | — | — |
+| <a id="member-mon-5"></a>mon-5 | bob-cli-pf.6.1.4--mon-5 | failed | gpt-6-astra / codex | 2026-11-24T13:15:09.779320+00:00 → 2026-11-24T13:23:00.163539+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-5/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | bob-cli-pf.6.1.4--mon-3 | failed | gpt-6-astra / codex | 2026-11-24T12:47:19.870109+00:00 → 2026-11-24T12:51:18.441204+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-3/chat.md) |
 | <a id="member-mon-9"></a>mon-9 | bob-cli-pf.6.1.4--mon-9 | failed | gpt-6-luna / codex | 2026-11-24T07:38:46.039865+00:00 → 2026-11-24T07:44:24.299763+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-9/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-pf.6.1.4--mon | failed | gpt-6-astra / codex | 2026-11-24T11:31:26.916837+00:00 → 2026-11-24T11:42:02.395401+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon/chat.md) |
@@ -173,6 +173,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | 4 | `artifacts` | \[{bead: bob-cli-pf.6.1.4, kind: file, label: Rejected btfkgq acceptance: 22 inspected screenshots and exact provenance, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124073750/re… |
 | 5 | `artifacts` | \[{bead: bob-cli-pf.6.1.4, kind: file, label: Failed full trace and validated collector repair (diagnostic only), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124075029/trace-col… |
 | 6 | `artifacts` | \[{bead: bob-cli-pf.6.1.4, kind: file, label: Reading slot restoration diagnosis and regression evidence (not acceptance), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124080232/… |
+| 7 | `artifacts` | \[{bead: bob-cli-pf.6.1.4, kind: file, label: Frontmatter takeover final GO: 51 checks, 46 reviewed captures, exact provenance, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2026112408… |
 
 #### artifacts
 
@@ -239,6 +240,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
   source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/.build/frontmatter-acceptance/reinsert-diagnosis-evidence.tar.gz
 ```
 
+#### artifacts
+
+**Role:** `7`
+
+```yaml
+- bead: bob-cli-pf.6.1.4
+  kind: file
+  label: Frontmatter takeover final GO: 51 checks, 46 reviewed captures, exact provenance
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124082212/final-acceptance-evidence.tar-3ad1198d78ef.gz
+  ref: file:explicit:85b3b710894edb85fafa6063
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/.build/frontmatter-acceptance/final-acceptance-evidence.tar.gz
+```
+
 Values are truncated for display; see each member's agent meta.json for the full values.
 
 ## Neighbors
@@ -249,7 +263,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-pf.6.1.1](../agents/bbugyi200.apollo.bob-cli-pf.6.1.1/README.md) | bob-cli-pf.6.1 hood | completed |
 | [bob-cli-pf.6.1.2](../agents/bbugyi200.apollo.bob-cli-pf.6.1.2/README.md) | bob-cli-pf.6.1 hood | completed |
 | [bob-cli-pf.6.1.3](../agents/bbugyi200.apollo.bob-cli-pf.6.1.3/README.md) | bob-cli-pf.6.1 hood | completed |
-| [bob-cli-pf.6.1.5](../agents/bbugyi200.apollo.bob-cli-pf.6.1.5/README.md) | bob-cli-pf.6.1 hood | waiting |
+| [bob-cli-pf.6.1.5](../agents/bbugyi200.apollo.bob-cli-pf.6.1.5/README.md) | bob-cli-pf.6.1 hood | completed |
 | [bob-cli-pf.6.1.land](../agents/bbugyi200.apollo.bob-cli-pf.6.1.land/README.md) | bob-cli-pf.6.1 hood | waiting |
 | [bob-cli-pf.1](bbugyi200.apollo.bob-cli-pf.1.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
 | [bob-cli-pf.1.1.1](bbugyi200.apollo.bob-cli-pf.1.1.1.md) (session · 13) | bob-cli-pf hood | completed 7, failed 6 |

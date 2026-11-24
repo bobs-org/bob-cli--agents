@@ -2,22 +2,27 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / bob-cli-pf.6.1.5
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.6.1.5` · **State:** waiting · **Source run:** `run-27e822f27e5f996fae62bfe2689578cf`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.6.1.5` · **State:** completed · **Source run:** `run-d286b13d92f260fe215cb827b93fce40`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
 ## Summary
 
 - Bead: [bob-cli-pf.6.1.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.6.1.5.md)
-- Epic: [bob-cli-pf.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.6.1.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261123203928
-- Commits: 0
+- Timing: 2026-11-24T13:40:00.222165+00:00 → 2026-11-24T14:03:21.331646+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e3e437b`](https://github.com/bobs-org/bob-cli/commit/e3e437baccb765fa93dc7620d45fc4f35c2fea5c) | docs(cards): correct glossary for verified frontmatter ownership | 2026-11-24 08:59:47 EST |
 
 ## Neighbors
 
@@ -27,7 +32,7 @@
 | [bob-cli-pf.6.1.1](../bbugyi200.apollo.bob-cli-pf.6.1.1/README.md) | bob-cli-pf.6.1 hood | completed |
 | [bob-cli-pf.6.1.2](../bbugyi200.apollo.bob-cli-pf.6.1.2/README.md) | bob-cli-pf.6.1 hood | completed |
 | [bob-cli-pf.6.1.3](../bbugyi200.apollo.bob-cli-pf.6.1.3/README.md) | bob-cli-pf.6.1 hood | completed |
-| [bob-cli-pf.6.1.4](../../sessions/bbugyi200.apollo.bob-cli-pf.6.1.4.md) (session · 50) | bob-cli-pf.6.1 hood | active 2, completed 25, failed 23 |
+| [bob-cli-pf.6.1.4](../../sessions/bbugyi200.apollo.bob-cli-pf.6.1.4.md) (session · 50) | bob-cli-pf.6.1 hood | active 1, completed 25, failed 24 |
 | [bob-cli-pf.6.1.land](../bbugyi200.apollo.bob-cli-pf.6.1.land/README.md) | bob-cli-pf.6.1 hood | waiting |
 | [bob-cli-pf.1](../../sessions/bbugyi200.apollo.bob-cli-pf.1.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
 | [bob-cli-pf.1.1.1](../../sessions/bbugyi200.apollo.bob-cli-pf.1.1.1.md) (session · 13) | bob-cli-pf hood | completed 7, failed 6 |

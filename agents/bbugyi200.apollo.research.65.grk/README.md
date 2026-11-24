@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-11-24T13:51:52.933985+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/ai\_meeting\_notes\_event\_task\_refs/ai\_meeting\_notes\_event\_task\_refs\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124084942/ai\_mee… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/ai_meeting_notes_event_task_refs/ai_meeting_notes_event_task_refs__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124084942/ai_meeting_notes_event_task_refs__grk-ad3d7c521000.md
+  ref: file:explicit:23ce079366bb864a5cf891b9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_21/sase/repos/research/202611/ai_meeting_notes_event_task_refs/ai_meeting_notes_event_task_refs__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.65.cdx](../bbugyi200.apollo.research.65.cdx/README.md) | research.65 hood | active |
+| [research.65.cdx](../bbugyi200.apollo.research.65.cdx/README.md) | research.65 hood | completed |
 | [research.65.cld](../bbugyi200.apollo.research.65.cld/README.md) | research.65 hood | active |
 | [research.65.final](../bbugyi200.apollo.research.65.final/README.md) | research.65 hood | waiting |
 | [research.65.gem](../bbugyi200.apollo.research.65.gem/README.md) | research.65 hood | active |

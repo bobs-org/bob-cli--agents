@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.65.cdx
 
-**Global name:** `bbugyi200.apollo.research.65.cdx` · **State:** active · **Source run:** `run-453db73cb43f6488fff8786124b584c8`
+**Global name:** `bbugyi200.apollo.research.65.cdx` · **State:** completed · **Source run:** `run-453db73cb43f6488fff8786124b584c8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-24T13:50:50.094585+00:00
+- Timing: 2026-11-24T13:50:50.094585+00:00 → 2026-11-24T14:05:29.891328+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/event\_linked\_meeting\_references\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124084939/event\_linked\_meeting\_references\_\_cdx-21f… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/event_linked_meeting_references__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124084939/event_linked_meeting_references__cdx-21f4dc902422.md
+  ref: file:explicit:8f6509195b8c7a3021ab1d5d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_19/sase/repos/research/202611/event_linked_meeting_references__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
