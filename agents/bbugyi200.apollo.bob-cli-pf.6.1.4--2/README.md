@@ -2,21 +2,41 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / [bob-cli-pf.6.1.4](../../sessions/bbugyi200.apollo.bob-cli-pf.6.1.4.md) / bob-cli-pf.6.1.4--2
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.6.1.4--2` · **State:** completed · **Source run:** `run-cc55932c4de56c8756237be0caa283c5`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.6.1.4--2` · **State:** completed · **Source run:** `run-3a55e1e782840689c37f630e32a8c11e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
 ## Summary
 
 - Bead: [bob-cli-pf.6.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.6.1.4.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-24T05:04:33.193363+00:00 → 2026-11-24T05:13:06.445764+00:00
+- Timing: 2026-11-24T11:59:39.792033+00:00 → 2026-11-24T12:12:26.379561+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-pf.6.1.4, kind: file, label: Rejected visual acceptance ghcg62 — all 46 inspected images, report, logs and exact runner sources, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-pf.6.1.4
+  kind: file
+  label: Rejected visual acceptance ghcg62 — all 46 inspected images, report, logs and exact runner sources
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124065853/rejected-ghcg62-inspected.tar-584010f06fb1.gz
+  ref: file:explicit:f4e751a976c731bafe5dbf7a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/.build/frontmatter-acceptance/rejected-ghcg62-inspected.tar.gz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
