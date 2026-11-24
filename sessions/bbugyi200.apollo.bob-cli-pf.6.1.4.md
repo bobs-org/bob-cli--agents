@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / bob-cli-pf.6.1.4
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-pf` · Members: 44 · Bead: [bob-cli-pf.6.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.6.1.4.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-pf` · Members: 46 · Bead: [bob-cli-pf.6.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.6.1.4.md)
 
 ## Lineage
 
@@ -53,7 +53,7 @@ flowchart TD
   n0 --> n21
   n22["bob-cli-pf.6.1.4--mon-b [failed]"]
   n0 --> n22
-  n23["bob-cli-pf.6.1.4--mon-k [active]"]
+  n23["bob-cli-pf.6.1.4--mon-k [failed]"]
   n0 --> n23
   n24["bob-cli-pf.6.1.4--a [completed]"]
   n0 --> n24
@@ -61,40 +61,44 @@ flowchart TD
   n0 --> n25
   n26["bob-cli-pf.6.1.4--mon-g [failed]"]
   n0 --> n26
-  n27["bob-cli-pf.6.1.4--mon-d [failed]"]
+  n27["bob-cli-pf.6.1.4--m [completed]"]
   n0 --> n27
-  n28["bob-cli-pf.6.1.4--e [completed]"]
+  n28["bob-cli-pf.6.1.4--mon-d [failed]"]
   n0 --> n28
-  n29["bob-cli-pf.6.1.4--5 [completed]"]
+  n29["bob-cli-pf.6.1.4--mon-l [active]"]
   n0 --> n29
-  n30["bob-cli-pf.6.1.4--mon-9 [failed]"]
+  n30["bob-cli-pf.6.1.4--e [completed]"]
   n0 --> n30
-  n31["bob-cli-pf.6.1.4--mon-0 [failed]"]
+  n31["bob-cli-pf.6.1.4--5 [completed]"]
   n0 --> n31
-  n32["bob-cli-pf.6.1.4--8 [completed]"]
+  n32["bob-cli-pf.6.1.4--mon-9 [failed]"]
   n0 --> n32
-  n33["bob-cli-pf.6.1.4--6 [completed]"]
+  n33["bob-cli-pf.6.1.4--mon-0 [failed]"]
   n0 --> n33
-  n34["bob-cli-pf.6.1.4--2 [completed]"]
+  n34["bob-cli-pf.6.1.4--8 [completed]"]
   n0 --> n34
-  n35["bob-cli-pf.6.1.4--mon-4 [failed]"]
+  n35["bob-cli-pf.6.1.4--6 [completed]"]
   n0 --> n35
-  n36["bob-cli-pf.6.1.4--mon-3 [failed]"]
+  n36["bob-cli-pf.6.1.4--2 [completed]"]
   n0 --> n36
-  n37["bob-cli-pf.6.1.4--3 [completed]"]
+  n37["bob-cli-pf.6.1.4--mon-4 [failed]"]
   n0 --> n37
-  n38["bob-cli-pf.6.1.4--d [completed]"]
+  n38["bob-cli-pf.6.1.4--mon-3 [failed]"]
   n0 --> n38
-  n39["bob-cli-pf.6.1.4--mon-h [failed]"]
+  n39["bob-cli-pf.6.1.4--3 [completed]"]
   n0 --> n39
-  n40["bob-cli-pf.6.1.4--mon-i [failed]"]
+  n40["bob-cli-pf.6.1.4--d [completed]"]
   n0 --> n40
-  n41["bob-cli-pf.6.1.4--mon-5 [failed]"]
+  n41["bob-cli-pf.6.1.4--mon-h [failed]"]
   n0 --> n41
-  n42["bob-cli-pf.6.1.4--mon-8 [failed]"]
+  n42["bob-cli-pf.6.1.4--mon-i [failed]"]
   n0 --> n42
-  n43["bob-cli-pf.6.1.4--i [completed]"]
+  n43["bob-cli-pf.6.1.4--mon-5 [failed]"]
   n0 --> n43
+  n44["bob-cli-pf.6.1.4--mon-8 [failed]"]
+  n0 --> n44
+  n45["bob-cli-pf.6.1.4--i [completed]"]
+  n0 --> n45
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -124,11 +128,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-4"></a>4 | bob-cli-pf.6.1.4--4 | completed | gpt-6-luna / codex | 2026-11-24T05:44:24.174940+00:00 → 2026-11-24T05:57:04.729192+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--4/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-pf.6.1.4--mon-1 | failed | gpt-6-luna / codex | 2026-11-24T05:10:18.391178+00:00 → 2026-11-24T05:20:25.777171+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-1/chat.md) |
 | <a id="member-mon-b"></a>mon-b | bob-cli-pf.6.1.4--mon-b | failed | gpt-6-luna / codex | 2026-11-24T08:04:41.267623+00:00 → 2026-11-24T08:10:33.443169+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-b/chat.md) |
-| <a id="member-mon-k"></a>mon-k | bob-cli-pf.6.1.4--mon-k | active | gpt-6-luna / codex | 2026-11-24T10:12:14.955192+00:00 | 0 | — | — |
+| <a id="member-mon-k"></a>mon-k | bob-cli-pf.6.1.4--mon-k | failed | gpt-6-luna / codex | 2026-11-24T10:12:14.955192+00:00 → 2026-11-24T10:21:08.644510+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-k/chat.md) |
 | <a id="member-a"></a>a | bob-cli-pf.6.1.4--a | completed | gpt-6-luna / codex | 2026-11-24T07:29:01.783871+00:00 → 2026-11-24T07:41:39.386887+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--a/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--a/chat.md) |
 | <a id="member-h"></a>h | bob-cli-pf.6.1.4--h | completed | gpt-6-luna / codex | 2026-11-24T09:09:49.355376+00:00 → 2026-11-24T09:25:55.433861+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--h/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--h/chat.md) |
 | <a id="member-mon-g"></a>mon-g | bob-cli-pf.6.1.4--mon-g | failed | gpt-6-luna / codex | 2026-11-24T09:22:58.715850+00:00 → 2026-11-24T09:29:03.062515+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-g/chat.md) |
+| <a id="member-m"></a>m | bob-cli-pf.6.1.4--m | completed | gpt-6-luna / codex | 2026-11-24T10:21:08.289852+00:00 → 2026-11-24T10:28:47.872489+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--m/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--m/chat.md) |
 | <a id="member-mon-d"></a>mon-d | bob-cli-pf.6.1.4--mon-d | failed | gpt-6-luna / codex | 2026-11-24T08:31:34.861978+00:00 → 2026-11-24T08:38:24.832015+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-d/chat.md) |
+| <a id="member-mon-l"></a>mon-l | bob-cli-pf.6.1.4--mon-l | active | gpt-6-luna / codex | 2026-11-24T10:25:59.519692+00:00 | 0 | — | — |
 | <a id="member-e"></a>e | bob-cli-pf.6.1.4--e | completed | gpt-6-luna / codex | 2026-11-24T08:23:00.655341+00:00 → 2026-11-24T08:35:37.130559+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--e/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--e/chat.md) |
 | <a id="member-5"></a>5 | bob-cli-pf.6.1.4--5 | completed | gpt-6-luna / codex | 2026-11-24T06:03:37.528173+00:00 → 2026-11-24T06:11:50.549580+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--5/chat.md) |
 | <a id="member-mon-9"></a>mon-9 | bob-cli-pf.6.1.4--mon-9 | failed | gpt-6-luna / codex | 2026-11-24T07:38:46.039865+00:00 → 2026-11-24T07:44:24.299763+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pf.6.1.4--mon-9/chat.md) |
