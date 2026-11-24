@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-pl.2--mon [completed]"]
   n1["bob-cli-pl.2--mon-0 [failed]"]
   n0 --> n1
-  n2["bob-cli-pl.2--2 [active]"]
+  n2["bob-cli-pl.2--2 [completed]"]
   n0 --> n2
   n3["bob-cli-pl.2--plan [completed]"]
   n0 --> n3
@@ -25,15 +25,21 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-pl.2--mon | completed | gpt-6-astra / codex | 2026-11-23T02:34:00.159861+00:00 → 2026-11-24T14:42:52.774676+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.2--mon/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-pl.2--mon-0 | failed | gpt-6-astra / codex | 2026-11-24T15:26:33.398518+00:00 → 2026-11-24T15:33:35.971150+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.2--mon-0/chat.md) |
-| <a id="member-2"></a>2 | bob-cli-pl.2--2 | active | gpt-6-astra / codex | 2026-11-24T15:33:39.740526+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.2--2/prompt.md) | — |
+| <a id="member-2"></a>2 | bob-cli-pl.2--2 | completed | gpt-6-astra / codex | 2026-11-24T15:33:39.740526+00:00 → 2026-11-24T16:01:19.248284+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-pl.2--2/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.2--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.2--2/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-pl.2--plan | completed | gpt-6-astra / codex | 2026-11-23T02:29:31.555283+00:00 → 2026-11-23T02:34:39.401684+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.2--plan/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-pl.2--1 | completed | gpt-6-astra / codex | 2026-11-24T14:42:52.423089+00:00 → 2026-11-24T15:27:24.970743+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.2--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 2 | bob-cli | [`d39680d`](https://github.com/bobs-org/bob-cli/commit/d39680dda4120b90602467ec812ec819d7a984d2) | feat(props): validate area and project setting writes | 2026-11-24 10:59:57 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-pl.1](bbugyi200.apollo.bob-cli-pl.1.md) (session · 6) | bob-cli-pl hood | active 1, completed 4, failed 1 |
+| [bob-cli-pl.1](bbugyi200.apollo.bob-cli-pl.1.md) (session · 7) | bob-cli-pl hood | completed 4, failed 2, waiting 1 |
 | [bob-cli-pl.3](../agents/bbugyi200.apollo.bob-cli-pl.3/README.md) | bob-cli-pl hood | waiting |
 | [bob-cli-pl.4](bbugyi200.apollo.bob-cli-pl.4.md) (session · 5) | bob-cli-pl hood | completed 5 |
 | [bob-cli-pl.4.1.1](../agents/bbugyi200.apollo.bob-cli-pl.4.1.1/README.md) | bob-cli-pl hood | completed |
