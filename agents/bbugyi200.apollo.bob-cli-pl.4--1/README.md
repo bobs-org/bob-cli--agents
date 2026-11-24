@@ -24,7 +24,7 @@
 |---|---|---|
 | [bob-cli-pl.4.1.1](../bbugyi200.apollo.bob-cli-pl.4.1.1/README.md) | descendant | completed |
 | [bob-cli-pl.4.1.2](../bbugyi200.apollo.bob-cli-pl.4.1.2/README.md) | descendant | completed |
-| [bob-cli-pl.4.1.3](../../sessions/bbugyi200.apollo.bob-cli-pl.4.1.3.md) (session · 5) | descendant | active 1, completed 2, failed 2 |
+| [bob-cli-pl.4.1.3](../../sessions/bbugyi200.apollo.bob-cli-pl.4.1.3.md) (session · 9) | descendant | active 1, completed 4, failed 4 |
 | [bob-cli-pl.4.1.land](../bbugyi200.apollo.bob-cli-pl.4.1.land/README.md) | descendant | waiting |
 | [bob-cli-pl.1](../../sessions/bbugyi200.apollo.bob-cli-pl.1.md) (session · 9) | bob-cli-pl hood | completed 7, failed 2 |
 | [bob-cli-pl.2](../../sessions/bbugyi200.apollo.bob-cli-pl.2.md) (session · 5) | bob-cli-pl hood | completed 4, failed 1 |
