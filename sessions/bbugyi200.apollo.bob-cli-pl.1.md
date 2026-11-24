@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["bob-cli-pl.1--plan [completed]"]
   n0 --> n5
-  n6["bob-cli-pl.1--4 [active]"]
+  n6["bob-cli-pl.1--4 [completed]"]
   n0 --> n6
   n7["bob-cli-pl.1--2 [completed]"]
   n0 --> n7
@@ -37,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-2"></a>mon-2 | bob-cli-pl.1--mon-2 | completed | gpt-6-astra / codex | 2026-11-24T16:23:12.594085+00:00 → 2026-11-24T16:48:31.047213+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.1--mon-2/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-pl.1--1 | completed | gpt-6-astra / codex | 2026-11-24T14:43:48.984065+00:00 → 2026-11-24T14:57:36.905432+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.1--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-pl.1--plan | completed | gpt-6-astra / codex | 2026-11-23T02:07:50.463579+00:00 → 2026-11-23T02:12:00.773286+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.1--plan/chat.md) |
-| <a id="member-4"></a>4 | bob-cli-pl.1--4 | active | gpt-6-astra / codex | 2026-11-24T16:51:26.352822+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-pl.1--4/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.1--4/prompt.md) | — |
+| <a id="member-4"></a>4 | bob-cli-pl.1--4 | completed | gpt-6-astra / codex | 2026-11-24T16:51:26.352822+00:00 → 2026-11-24T17:33:38.810381+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-pl.1--4/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.1--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.1--4/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-pl.1--2 | completed | gpt-6-astra / codex | 2026-11-24T15:15:09.188538+00:00 → 2026-11-24T15:38:21.409370+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.1--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.1--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-pl.1--mon-0 | failed | gpt-6-astra / codex | 2026-11-24T14:56:15.553091+00:00 → 2026-11-24T15:15:09.334345+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.1--mon-0/chat.md) |
 
