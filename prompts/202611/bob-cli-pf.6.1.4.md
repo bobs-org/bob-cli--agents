@@ -1,7 +1,7 @@
 - **AGENTS:**
   - [bbugyi200.apollo.bob-cli-pf.6.1.4](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.bob-cli-pf.6.1.4.md)
 
-%queue(weight=1) #fork:bob-cli-pf.6.1.4--9 %model:gpt-6-luna@xhigh
+%queue(weight=1) #fork:bob-cli-pf.6.1.4--a %model:gpt-6-luna@xhigh
 
 %macros_enabled:false
 
@@ -22,13 +22,13 @@ ssh -o BatchMode=yes -o ConnectTimeout=20 athena /tmp/bob-frontmatter-takeover-e
 |              |                                                                                                                                                                           |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Outcome**  | FAILED — exit 1                                                                                                                                                           |
-| **Started**  | 2026-11-24T07:22:55.807271+00:00                                                                                                                                          |
-| **Finished** | 2026-11-24T07:27:36.575177Z                                                                                                                                               |
-| **Elapsed**  | 1m 37s of a 45m 0s budget                                                                                                                                                 |
-| **Output**   | 2 KiB · evidence refs: `file:monitor-diagnostic-manifest:ce4zqc0rwjyy`, `file:monitor-retained-log:ce4zqc0rwjyy` · full log: `sase monitor show ce4zqc0rwjyy --all-lines` |
+| **Started**  | 2026-11-24T07:38:46.039865+00:00                                                                                                                                          |
+| **Finished** | 2026-11-24T07:42:56.947858Z                                                                                                                                               |
+| **Elapsed**  | 1m 22s of a 45m 0s budget                                                                                                                                                 |
+| **Output**   | 2 KiB · evidence refs: `file:monitor-diagnostic-manifest:5wa1rj2rncx1`, `file:monitor-retained-log:5wa1rj2rncx1` · full log: `sase monitor show 5wa1rj2rncx1 --all-lines` |
 
-**Why this was monitored:** Run the athena real-Obsidian takeover matrix with a
-non-mutating stale-cache probe.
+**Why this was monitored:** Run the athena real-Obsidian takeover matrix after
+correcting stale-cache release observation and fixture restoration
 
 ## Last 200 lines of output
 
@@ -87,7 +87,6 @@ beb821ff9395d73c64a9114445ef98fc086b1080
     "exactMatches": 1
   },
   "failed": [
-    "stale-cache-releases",
     "bytes-unchanged"
   ],
   "screenshots": 46,
@@ -101,7 +100,7 @@ screenshots: /tmp/bob-frontmatter-takeover-e2e/shots
 
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-ad6ccfaaf8a43fa5.json`
+- **Ref:** `local:continuation/checkpoints/monitor_start-2bd937910ecc7268.json`
 
 **Checkpoint (JSON):**
 
@@ -111,35 +110,36 @@ screenshots: /tmp/bob-frontmatter-takeover-e2e/shots
   "payload": {
     "command": "ssh -o BatchMode=yes -o ConnectTimeout=20 athena /tmp/bob-frontmatter-takeover-e2e/run.sh",
     "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10",
-    "member_agent_name": "bob-cli-pf.6.1.4--mon-8",
-    "monitor_id": "ce4zqc0rwjyy",
+    "member_agent_name": "bob-cli-pf.6.1.4--mon-9",
+    "monitor_id": "5wa1rj2rncx1",
     "next_output": "auto",
     "parent_node_ids": [
-      "agent-delta:20261124021240:f5415b311db73d1f"
+      "agent-delta:20261124022816:8683f2496303add8"
     ],
     "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:c36b8f6c7f16128703504e02f0932f5ba5932400a7291302708239a704612f80",
-    "starter_agent": "bob-cli-pf.6.1.4--9",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/24/20261124021240"
+    "request_fingerprint": "sha256:cf1b0cd8a6a2bbe8fa36e90d713d1843c8381e30784e497a7c3510f0f9eeb3c6",
+    "starter_agent": "bob-cli-pf.6.1.4--a",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/24/20261124022816"
   },
-  "recorded_at_epoch": 1795505158.8230112,
+  "recorded_at_epoch": 1795506094.5653422,
   "schema_version": 1
 }
 ```
 
 ## Your next action
 
-Copy report.json and every screenshots PNG into
+When the run settles, copy report.json and every screenshot PNG into
 /tmp/bob-frontmatter-takeover-results/<monitor-id>/ and inspect the exact failures.
-Compare the result with the clean-base run at plugin commit 57bcb470, which failed
-before the stale-cache probe because initial Live Preview ownership did not acquire; do
-not treat later cascade failures as independent. If GO, inspect every PNG, register the
-report and inspected screenshots as artifacts labeled bob-cli-pf.6.1.4 with the exact
-Bob and plugin hashes, run sase bead epic-symbols bob-cli-pf.6.1.4 and resolve remaining
-entries, then close only that phase with verdict, counts, artifact refs, and inspection.
-Never close parent beads or create beads. If NO-GO, classify harness versus plugin
-behavior using the detailed report and clean-base comparison; make only
-evidence-supported fixes and rerun. If a failure is identical on clean base, append a
-PROPOSED FOLLOW-UP note and close only this phase. Run bob plugins sync without -F after
-any repo edits. Finish through /sase_final and set bead_action close only if the phase
-is closed. %macros_enabled:true
+Compare with the clean-base plugin commit 57bcb470, which failed before stale-cache
+because initial Live Preview ownership did not acquire. Assess the current runner
+changes: it records the coordinator release count under a non-mutating stale cache view
+and restores the day fixture after any live Tab edit. If GO, inspect every PNG across
+owned day/week/record/album, bank/ordinary native, light/dark, narrow/wide, and fallback
+states; register the report and inspected screenshots as artifacts labeled
+bob-cli-pf.6.1.4 with exact Bob and plugin hashes; run sase bead epic-symbols
+bob-cli-pf.6.1.4 and resolve remaining entries; then close only bob-cli-pf.6.1.4 with
+verdict, counts, artifact refs, and inspection. Never create beads or close parent
+beads. If NO-GO, classify harness versus plugin using detailed report and clean-base
+comparison; make only evidence-supported fixes and rerun. Run bob plugins sync without
+-F after any further repo edits. Finish through /sase_final and set primary bead_action
+close only if the phase is closed. %macros_enabled:true
