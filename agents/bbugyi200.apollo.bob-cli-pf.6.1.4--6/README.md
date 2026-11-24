@@ -2,21 +2,41 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / [bob-cli-pf.6.1.4](../../sessions/bbugyi200.apollo.bob-cli-pf.6.1.4.md) / bob-cli-pf.6.1.4--6
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.6.1.4--6` · **State:** completed · **Source run:** `run-c568da6cd848c4238d6fa11fc6c85cdc`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.6.1.4--6` · **State:** completed · **Source run:** `run-36e8444ff0baef7515da46fe2515577f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
 ## Summary
 
 - Bead: [bob-cli-pf.6.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.6.1.4.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-24T06:18:28.996977+00:00 → 2026-11-24T06:28:22.489678+00:00
+- Timing: 2026-11-24T13:03:19.080433+00:00 → 2026-11-24T13:18:02.383213+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-pf.6.1.4, kind: file, label: Reading slot restoration diagnosis and regression evidence (not acceptance), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124080232/… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-pf.6.1.4
+  kind: file
+  label: Reading slot restoration diagnosis and regression evidence (not acceptance)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124080232/reinsert-diagnosis-evidence.tar-7c78c80cf0da.gz
+  ref: file:explicit:c34d8f4e656efd3110e34dac
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/.build/frontmatter-acceptance/reinsert-diagnosis-evidence.tar.gz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

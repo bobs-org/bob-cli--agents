@@ -2,21 +2,41 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / [bob-cli-pf.6.1.4](../../sessions/bbugyi200.apollo.bob-cli-pf.6.1.4.md) / bob-cli-pf.6.1.4--5
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.6.1.4--5` · **State:** completed · **Source run:** `run-a4d1fb0a64d495942c415a219bbdb2f0`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.6.1.4--5` · **State:** completed · **Source run:** `run-2e2dd9c09fdf8b145ef240ab4ff0311b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
 ## Summary
 
 - Bead: [bob-cli-pf.6.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.6.1.4.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-24T06:03:37.528173+00:00 → 2026-11-24T06:11:50.549580+00:00
+- Timing: 2026-11-24T12:51:17.979507+00:00 → 2026-11-24T13:00:28.508799+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-pf.6.1.4, kind: file, label: Failed full trace and validated collector repair (diagnostic only), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124075029/trace-col… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-pf.6.1.4
+  kind: file
+  label: Failed full trace and validated collector repair (diagnostic only)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124075029/trace-collector-evidence.tar-1f4dcd4d3fed.gz
+  ref: file:explicit:4a30b9c004edcd281d464aaf
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/.build/frontmatter-acceptance/trace-collector-evidence.tar.gz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
