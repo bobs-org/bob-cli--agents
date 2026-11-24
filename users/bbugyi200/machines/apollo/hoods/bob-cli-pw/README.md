@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-pw
 
-**Global hood:** `bbugyi200.apollo.bob-cli-pw` · **Runs:** 15 · **Sessions:** 1 · **States:** active 1, completed 5, failed 2, waiting 7
+**Global hood:** `bbugyi200.apollo.bob-cli-pw` · **Runs:** 15 · **Sessions:** 1 · **States:** completed 6, failed 2, waiting 7
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-pw.4](../../../../../../agents/bbugyi200.apollo.bob-cli-pw.4/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261124104004 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-pw.4/prompt.md) |
-| [bob-cli-pw.1--3](../../../../../../sessions/bbugyi200.apollo.bob-cli-pw.1.md#member-3) | active | gpt-6-luna / codex | 2026-11-24T17:07:59.367049+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-pw.1--3/prompt.md) |
+| [bob-cli-pw.1--3](../../../../../../sessions/bbugyi200.apollo.bob-cli-pw.1.md#member-3) | completed | gpt-6-luna / codex | 2026-11-24T17:07:59.367049+00:00 → 2026-11-24T18:15:16.144026+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-pw.1--3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-pw.1--3/chat.md) |
 | [bob-cli-pw.7](../../../../../../agents/bbugyi200.apollo.bob-cli-pw.7/README.md) | waiting | gpt-6-luna / codex | 20261124104007 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-pw.7/prompt.md) |
 | [bob-cli-pw.5](../../../../../../agents/bbugyi200.apollo.bob-cli-pw.5/README.md) | waiting | gpt-6-astra / codex | 20261124104005 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-pw.5/prompt.md) |
 | [bob-cli-pw.1--2](../../../../../../sessions/bbugyi200.apollo.bob-cli-pw.1.md#member-2) | completed | gpt-6-luna / codex | 2026-11-24T16:36:26.398085+00:00 → 2026-11-24T16:54:05.500186+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-pw.1--2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-pw.1--2/chat.md) |
