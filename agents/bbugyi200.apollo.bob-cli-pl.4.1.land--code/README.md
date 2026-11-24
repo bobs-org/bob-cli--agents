@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / [bob-cli-pl.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-pl.4.1.land.md) / bob-cli-pl.4.1.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-pl.4.1.land--code` · **State:** active · **Source run:** `run-82857d6333d36d2f68491447fd43bf13`
+**Global name:** `bbugyi200.apollo.bob-cli-pl.4.1.land--code` · **State:** completed · **Source run:** `run-82857d6333d36d2f68491447fd43bf13`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pl
 
@@ -11,8 +11,44 @@
 - Bead: [bob-cli-pl.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.4.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-24T19:17:54.154124+00:00
+- Timing: 2026-11-24T19:17:54.154124+00:00 → 2026-11-24T20:44:16.719286+00:00
 - Commits: 0
+- Variables: [1](#variables)
+
+## Files
+
+[Chat](chat.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-pl.4.1, kind: file, label: Home-card real-Obsidian e2e report, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124141719/home-cards-e2e-475a114dc642.json, ref: file… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-pl.4.1
+  kind: file
+  label: Home-card real-Obsidian e2e report
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124141719/home-cards-e2e-475a114dc642.json
+  ref: file:explicit:cb88c4643f511cce58e35444
+  source_path: /tmp/home-cards-e2e-local/home-cards-e2e.json
+- bead: bob-cli-pl.4.1
+  kind: image
+  label: Home-card e2e dev-live-dark-narrow
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124141719/dev-live-dark-narrow-3d0b3e0851ce.png
+  ref: file:explicit:450a479cc73a6f86a9c661cc
+  source_path: /tmp/home-cards-e2e-local/shots/dev-live-dark-narrow.png
+- bead: bob-cli-pl.4.1
+  kind: file
+  label: Home-card real-Obsidian e2e 28 inspected screenshots
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124141719/home-cards-e2e-shots.tar-e8357ee59f3d.gz
+  ref: file:explicit:d802ce1e232a7fed3b693268
+  source_path: /tmp/home-cards-e2e-local/home-cards-e2e-shots.tar.gz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

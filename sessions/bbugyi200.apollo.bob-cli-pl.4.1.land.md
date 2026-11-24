@@ -8,8 +8,8 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-pl` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-pl.4.1.land--plan [active]"]
-  n1["bob-cli-pl.4.1.land--code [active]"]
+  n0["bob-cli-pl.4.1.land--plan [completed]"]
+  n1["bob-cli-pl.4.1.land--code [completed]"]
   n0 --> n1
   n2["bob-cli-pl.4.1.land--gate [completed]"]
   n0 --> n2
@@ -19,9 +19,42 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-pl.4.1.land--plan | active | gpt-6-astra / codex | 2026-11-24T19:06:01.774970+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.4.1.land--plan/chat.md) |
-| <a id="member-code"></a>code | bob-cli-pl.4.1.land--code | active | grok-4.6 / grok | 2026-11-24T19:17:54.154124+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-pl.4.1.land--plan | completed | gpt-6-astra / codex | 2026-11-24T19:06:01.774970+00:00 → 2026-11-24T20:44:16.719286+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.4.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.4.1.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-pl.4.1.land--code | completed | grok-4.6 / grok | 2026-11-24T19:17:54.154124+00:00 → 2026-11-24T20:44:16.719286+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.4.1.land--code/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-pl.4.1.land--gate | completed | gpt-6-astra / codex | 2026-11-24T19:16:59.055561+00:00 → 2026-11-24T19:17:09.451922+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.4.1.land--gate/chat.md) |
+
+## Variables
+
+| Role | Variable | Value |
+|---|---|---|
+| code | `artifacts` | \[{bead: bob-cli-pl.4.1, kind: file, label: Home-card real-Obsidian e2e report, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261124141719/home-cards-e2e-475a114dc642.json, ref: file… |
+
+#### artifacts
+
+**Role:** `code`
+
+```yaml
+- bead: bob-cli-pl.4.1
+  kind: file
+  label: Home-card real-Obsidian e2e report
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124141719/home-cards-e2e-475a114dc642.json
+  ref: file:explicit:cb88c4643f511cce58e35444
+  source_path: /tmp/home-cards-e2e-local/home-cards-e2e.json
+- bead: bob-cli-pl.4.1
+  kind: image
+  label: Home-card e2e dev-live-dark-narrow
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124141719/dev-live-dark-narrow-3d0b3e0851ce.png
+  ref: file:explicit:450a479cc73a6f86a9c661cc
+  source_path: /tmp/home-cards-e2e-local/shots/dev-live-dark-narrow.png
+- bead: bob-cli-pl.4.1
+  kind: file
+  label: Home-card real-Obsidian e2e 28 inspected screenshots
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261124141719/home-cards-e2e-shots.tar-e8357ee59f3d.gz
+  ref: file:explicit:d802ce1e232a7fed3b693268
+  source_path: /tmp/home-cards-e2e-local/home-cards-e2e-shots.tar.gz
+```
+
+Values are truncated for display; see each member's agent meta.json for the full values.
 
 ## Neighbors
 
