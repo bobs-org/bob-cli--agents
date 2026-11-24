@@ -24,7 +24,7 @@
 |---|---|---|
 | [bob-cli-px.1](../bbugyi200.athena.bob-cli-px.1/README.md) | bob-cli-px hood | completed |
 | [bob-cli-px.2](../bbugyi200.athena.bob-cli-px.2/README.md) | bob-cli-px hood | completed |
-| [bob-cli-px.4](../bbugyi200.athena.bob-cli-px.4/README.md) | bob-cli-px hood | waiting |
+| [bob-cli-px.4](../bbugyi200.athena.bob-cli-px.4/README.md) | bob-cli-px hood | completed |
 | [bob-cli-px.5](../bbugyi200.athena.bob-cli-px.5/README.md) | bob-cli-px hood | completed |
 | [bob-cli-px.6](../bbugyi200.athena.bob-cli-px.6/README.md) | bob-cli-px hood | waiting |
 | [bob-cli-px.land](../bbugyi200.athena.bob-cli-px.land/README.md) | bob-cli-px hood | waiting |
