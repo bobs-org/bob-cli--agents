@@ -1,38 +1,38 @@
 # Chat History - ace-run (bob-cli-pf.6.1.4--plan)
 
-- **TIMESTAMP:** 2026-11-23 23:45:41 EST
-- **MODEL:** grok/grok-4.6
+- **TIMESTAMP:** 2026-11-24 06:33:51 EST
+- **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-pf.6.1.4--plan
 
 # Monitor handoff
 
 This agent delegated the remaining work to a monitor turn.
-Monitor ID: f83jrejd85ze
-Inspect with: sase monitor show f83jrejd85ze
+Monitor ID: g5645dfc9na3
+Inspect with: sase monitor show g5645dfc9na3
 Monitor turn: bob-cli-pf.6.1.4--mon
 Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10
 
 Command:
 
 ```sh
-ssh -o BatchMode=yes -o ConnectTimeout=20 athena /tmp/bob-frontmatter-takeover-e2e/run.sh
+bash .build/frontmatter-acceptance/run-and-collect.sh
 ```
 
 Reason:
 
-Run real-Obsidian frontmatter takeover matrix on athena xvfb
+Build the exact CLI and verify frontmatter takeover after isolating intentional native writes
 
 Next action:
 
-The athena xvfb takeover matrix has finished. Complete bob-cli-pf.6.1.4 (already in_progress; never sase bead open; never close parents). 1) scp athena:/tmp/bob-frontmatter-takeover-e2e/report.json and shots/*.png into /tmp/bob-frontmatter-takeover-results/. 2) Read the report. On failure, fix the integration regression in the linked bob-plugins checkout (sase/repos/linked/bob-plugins). After plugin fragment edits run npm run build then bob plugins sync without -F, re-rsync to athena:/tmp/bob-frontmatter-takeover-e2e/bob-plugins/, and re-stage /tmp/bob-frontmatter-takeover-e2e/run.sh via /sase_monitor; wait only for Staged then /sase_final with bead_action keep. 3) On pass, inspect EVERY PNG with the image reader: owned day/week/record/album hide the Properties container; bank/ordinary keep native Properties across light/dark x narrow/wide. 4) sase skill use sase_artifact then sase artifact create for the report and PNGs, bound to bead bob-cli-pf.6.1.4 and the bob/plugin hashes in the report. 5) sase bead epic-symbols bob-cli-pf.6.1.4 and resolve leftover --epic-symbol entries. 6) Close only this bead: sase bead close bob-cli-pf.6.1.4 --note with verdict, check counts, artifact refs, and PNG inspection. Do not create beads; use PROPOSED FOLLOW-UP notes. A check failure identical on the clean base tree does not keep the bead open. 7) bob plugins sync without -F. Finish through /sase_final with a commit decision for bob-plugins describing the takeover e2e plus assertion updates, and bead_action close on the primary repo after this bead is closed. Do not run git commit yourself. Local scripts already exist; do not rewrite them unless the report shows a real failure. Offline self-test already passed. Docs/memory belong to 6.1.5.
+Complete bob-cli-pf.6.1.4 using the checkpoint and collected .build/frontmatter-acceptance/results. Read build.log, npm-test.log, e2e.log, status.txt and report.json; fix any remaining evidence-supported acceptance failures. The old repeated save-wait increases were a misdiagnosis: native failed-opener-fallback on the protected day caused the later write; it now uses a disposable note and dedicated leaf. Do not restore the speculative wait. On real GO inspect every PNG with image tools, retain report and inspected images with exact binary/plugin/runner hashes using sase_artifact, add evidence to this phase, recheck epic-symbols and close only bob-cli-pf.6.1.4. Do not close ancestors, create beads or edit memory. Known identical clean-base generic test failures are proposed follow-up notes, not reasons to strand otherwise completed work. Finish through sase_final.
 
 
 ## Prompt
 
+%id(4, clan=bob-cli-pf.6.1, bead=bob-cli-pf.6.1.4)
 %auto
 #gh:gh_bobs-org__bob-cli
-%id(4, clan=bob-cli-pf.6.1, bead=bob-cli-pf.6.1.4)
-%model:@medium
+%m:gpt-6-astra 
 %w(bob-cli-pf.6.1.3, for_epic=false)
 %w(bead=bob-cli-pf.6.1.3)
 Can you complete the work for bead bob-cli-pf.6.1.4? The bead is already reserved for you and assigned to your agent
@@ -65,63 +65,27 @@ single-agent tale unless one coder can clearly finish everything left.
 
 ## Response
 
-I'll start by reading the bead, its design, and the beads skill so I can see what landed already and what this phase still owns.
+I’ll use the SASE bead and memory skills to read the phase scope and prior notes, then check what has already landed before making changes.
 
-The bead is in progress; next I’ll pull the full description, notes, and the epic plan so I can see what this phase still needs.
 
-The phase has no notes yet, so I’ll read the epic plan, prior phase evidence, and the repo/artifact skills before changing anything.
+The phase has a substantial earlier validation history. I’m checking the retained results and current code to identify the remaining work.
 
-I’ll read the plan as an audited artifact, the artifacts memory, and the close notes from phases 6.1.2 and 6.1.3.
 
-The acceptance phase is the real-Obsidian matrix plus an offline wrapper. I’ll open bob-plugins, check whether that work already landed, and pull the prior-phase notes.
+The takeover harness and several integration fixes are already landed. The recent commits repeatedly extend a wait for an Obsidian save event; I’m checking whether that event should occur before running another long test.
 
-The takeover e2e is not in the tree yet. Next I’ll study the existing runners, adapter tests, and the athena route so the new matrix can reuse them.
 
-Athena has Obsidian and Xvfb; apollo does not. I’ll study the production adapters and the reusable e2e helpers next so the matrix can test real mounts.
+The earlier reports show the write arriving about 16 seconds after each timeout, even as the timeout grows. That points to a later test action rather than a delayed save. The harness deliberately invokes native Add property on the protected day note when testing editor failure; I’ll give that action a disposable note, remove the speculative wait, and label writes by test stage.
 
-I have the runner shape. Next I’ll read a few remaining helpers, then write the takeover matrix and update the existing visibility assertions.
 
-I'll resume the phase by reading the bead, checking whether any takeover work already landed, and then implementing from that state.
+The focused suite passes all 30 checks. I also found two gaps in the acceptance harness: it could pass with no Properties sidebar, and its “ordinary property editor” screenshots invoked native Properties. Those checks now require the intended UI. Next I’ll run the full matrix on Athena with the current CLI source and plugin build.
 
-Next I’ll load the remaining SASE skills and confirm the bead plus repo state before writing the takeover tests.
 
-I’ll record skill use, open the linked repos, and read the bead plus existing e2e helpers so we can implement from a known baseline.
+The updated checks and build check pass, and plugin sync completed. The local and Athena harness files have matching hashes. I’m using the SASE monitor for the CLI build, full plugin suite, and real Obsidian run; its follow-up will inspect and retain the screenshots before closing the bead.
 
-The bead is still in progress with no takeover files yet. I’ll pull the full description and the existing e2e helpers next.
 
-I’ll pull the epic plan’s phase 6.1.4 acceptance criteria and the existing e2e helpers in parallel.
+The verification handoff is staged. I’m using `sase_final` to commit the harness fixes. The bead remains in progress until the real test results and screenshots have been reviewed.
 
-The plan read is still running; I’ll inspect the existing e2e helpers and wait for that result.
 
-I’ll read the existing runners and validation docs so the takeover matrix can reuse their launch, provenance, and probe patterns.
+Fixed the acceptance harness’s native-write isolation and UI checks. Focused tests and build validation pass.
 
-I’ll write the takeover lib, runner, and offline wrapper next, then patch the existing visibility assertions.
-
-The lib is in place. Next I’ll write the real-Obsidian runner that drives the full takeover matrix.
-
-I’ll update the existing visibility assertions and register the offline wrapper in `package.json`.
-
-Offline tests passed. Next I’ll build bob, read the tailnet notes, and set up the real Obsidian run on athena.
-
-I’ll rsync the checkouts to athena and start a local `bob` build so the real matrix can run against the exact binary.
-
-I'll pick up from the rsync and local bob build: confirm the takeover scripts and bead state, then stage the athena xvfb matrix through `/sase_monitor`.
-
-Bead JSON didn’t parse and athena still lacks the bob binary. I’ll confirm bead status, copy the built binary, then stage the xvfb matrix.
-
-The provenance check failed on quoting; I’ll verify the copied binary and cargo metadata with a simpler command.
-
-Provenance matches. I’ll drop a remote runner on athena and stage the xvfb matrix with a follow-up that inspects shots, files artifacts, and closes the bead.
-
-The checkpoint YAML broke on unquoted colons. I’ll rewrite it as JSON and restage the monitor.
-
-The xvfb matrix is staged. I’ll gather the finalizer context and submit a keep-commit so the follow-up inherits the scripts.
-
-The takeover e2e is written and offline-tested. The real Obsidian matrix is now staged on athena.
-
-What landed in bob-plugins:
-- `scripts/obsidian-frontmatter-takeover-e2e.cjs` plus lib and `test:unit` wrapper
-- Record-card and intention-card visibility assertions updated for whole-container hide
-- Offline self-test plus 34 unit tests passed; no Obsidian launched for that pass
-
-Athena is running `/tmp/bob-frontmatter-takeover-e2e/run.sh` under xvfb against bob `0.6.0` at SHA `8d82c621` and plugin `57bcb470`. A follow-up will inspect every PNG, retain artifacts, resolve epic symbols, and close only `bob-cli-pf.6.1.4`. The bead stays `in_progress` until that verification finishes.
+Full Obsidian verification is queued under monitor `g5645d`, with an automatic follow-up to inspect screenshots and close `bob-cli-pf.6.1.4` once verified. The bead remains in progress.
