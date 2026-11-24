@@ -95,7 +95,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-pf.6.1.1](../agents/bbugyi200.apollo.bob-cli-pf.6.1.1/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.6.1.2](../agents/bbugyi200.apollo.bob-cli-pf.6.1.2/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.6.1.3](../agents/bbugyi200.apollo.bob-cli-pf.6.1.3/README.md) | bob-cli-pf hood | completed |
-| [bob-cli-pf.6.1.4](bbugyi200.apollo.bob-cli-pf.6.1.4.md) (session · 39) | bob-cli-pf hood | active 1, completed 19, failed 19 |
+| [bob-cli-pf.6.1.4](bbugyi200.apollo.bob-cli-pf.6.1.4.md) (session · 40) | bob-cli-pf hood | active 1, completed 20, failed 19 |
 | [bob-cli-pf.6.1.5](../agents/bbugyi200.apollo.bob-cli-pf.6.1.5/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.6.1.land](../agents/bbugyi200.apollo.bob-cli-pf.6.1.land/README.md) | bob-cli-pf hood | waiting |
 | [bob-cli-pf.land](../agents/bbugyi200.apollo.bob-cli-pf.land/README.md) | bob-cli-pf hood | waiting |
