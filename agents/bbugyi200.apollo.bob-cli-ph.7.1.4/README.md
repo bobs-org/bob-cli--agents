@@ -13,12 +13,18 @@
 - Model: grok-4.6
 - Provider: grok
 - Timing: 20261125085328
-- Commits: 0
+- Commits: [1](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`0742684`](https://github.com/bobs-org/bob-cli/commit/0742684de3390415ffb5dbb3423c0dbc841f4b3e) | docs(task-drawers): document Obsidian trays, typing, and conversion | 2026-11-25 12:51:09 EST |
 
 ## Variables
 
