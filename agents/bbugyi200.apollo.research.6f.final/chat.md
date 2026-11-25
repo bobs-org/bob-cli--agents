@@ -1,0 +1,157 @@
+# Chat History - ace-run (research.6f.final)
+
+- **TIMESTAMP:** 2026-11-25 16:59:02 EST
+- **MODEL:** claude/claude-fable-5
+- **AGENT:** research.6f.final
+- **PROMPT:** `~/.sase/multi_prompts/202611/gh_bobs_org__bob_cli-multiprompt-261125_161645.md`
+
+## Prompt
+
+%clan(research.6f, tribe=research, summary=[[[bold]RESEARCH PROMPT:[/bold] When a task, say A, has a dependency on another task, say B, then A should not also have
+a relationless link to the same task (in either direction). I would like to make this
+invalid/confusing state impossible.
+
+- When adding a relationless link to a task B, we should remove any existing dependency
+  to task B from the current task. Similarly, when adding a dependency to a task B, we
+  should remove any existing relationless link to task B from the current task.
+- We should add the `<ctrl+b>` keymap to the link panel in Obsidian, which should be
+  able to be used to mark the task as a dependency instead of linking to it. We should
+  also be able to do the reverse (make a dependency a relationless link) from the
+  dependency panel in Obsidian.
+- Make sure it is clear when looking at the dependency/link panels in Obsidian if the
+  task already has a relationless link/dependency, respectively.
+- I want you to lead the design on this one. Make sure you design this feature so it is intuitive, reliable, and (last but not least) beautiful!
+
+Can you do some research with the goal of helping me decide the best way to implement
+this? Also, critique this plan in general. Is this a good idea? Would you take a
+different approach? Make any adjustments to the requirements that you think are
+justified but clearly call these out. End your analysis with a recommended solution.]]) %id:research.6f.final %m:claude-fable-5
+%wait:research.6f.cdx %wait:research.6f.cld %wait:research.6f.grk %wait:research.6f.mus %wait:research.6f.gem %q(1.5x, w=0.25)
+#gh:gh_bobs-org__bob-cli 
+You are the lead researcher: 5 independent researchers have reported on the request
+below, and you will add your own research and merge every perspective into one
+consolidated report.
+
+SASE derives your plan's links from the artifacts you read this turn; use
+`sase artifact read` for context you actually used.
+
+Research request:
+
+When a task, say A, has a dependency on another task, say B, then A should not also have
+a relationless link to the same task (in either direction). I would like to make this
+invalid/confusing state impossible.
+
+- When adding a relationless link to a task B, we should remove any existing dependency
+  to task B from the current task. Similarly, when adding a dependency to a task B, we
+  should remove any existing relationless link to task B from the current task.
+- We should add the `<ctrl+b>` keymap to the link panel in Obsidian, which should be
+  able to be used to mark the task as a dependency instead of linking to it. We should
+  also be able to do the reverse (make a dependency a relationless link) from the
+  dependency panel in Obsidian.
+- Make sure it is clear when looking at the dependency/link panels in Obsidian if the
+  task already has a relationless link/dependency, respectively.
+- I want you to lead the design on this one. Make sure you design this feature so it is intuitive, reliable, and (last but not least) beautiful!
+
+Can you do some research with the goal of helping me decide the best way to implement
+this? Also, critique this plan in general. Is this a good idea? Would you take a
+different approach? Make any adjustments to the requirements that you think are
+justified but clearly call these out. End your analysis with a recommended solution.
+
+When you author or carry over Mermaid diagrams, load `/mermaid_diagrams` before
+drafting, even when no image or diagrams companion runs. The skill has the shared
+figure-selection, styling, and PDF-render review rules. If the provider skill is not
+deployed, verify the edited plugin's guide with `sase macro show skill/mermaid_diagrams --format raw` (or
+`sase macro show /mermaid_diagrams --format raw`) and use the form this host supports.
+This guidance does not enable a companion diagrams agent.
+
+The researchers' registered reports:
+
+{% for a in wait.artifacts if a.kind == "markdown" and a.label and a.label.startswith("research:") %}
+- wait_name={{ a.wait_name }} label={{ a.label }} source_path={{ a.source_path }} path={{ a.path }} ref={{ a.ref }}
+{% endfor %}
+
+Month directory (create it if missing):
+
+First run `sase repo open research -r "Write the swarm research reports"` and use
+the path it prints as `<research checkout>`. The month directory is
+`<research checkout>/202611`; create it if missing.
+
+Steps:
+
+1. From the registered reports above, identify exactly one report per expected suffix
+   in cdx, cld, grk, mus, gem, belonging to this
+   dispatch's `research.6f.cdx`, `research.6f.cld`, `research.6f.grk`, `research.6f.mus`, `research.6f.gem` dependencies, matching by `wait_name` and the canonical research
+   label's existing `__<suffix>.md` suffix. Never reassign suffixes from list order.
+   Read each report through its canonical research reference (or the `ref` field's
+   `file:<id>` reference if the original has
+   moved) using `sase artifact read`. Do not read predecessor chat transcripts. If the
+   records above do not identify exactly one report per expected suffix, stop and report
+   the missing or ambiguous input instead of guessing.
+2. Research the request yourself, prioritizing gaps, weak evidence, and disagreements
+   between the reports.
+3. Pick a descriptive stem `<name>` that collides with nothing in the month directory
+   (do NOT end the name with `_consolidated` or `_<YYYYmmdd>` or anything similar unless
+   it relates to the research topic), create `<month-dir>/<name>/`, and move each report
+   inside it as `<name>__<suffix>.md`, preserving its existing suffix. Each report's
+   `source_path` is provenance for where it lives in your own opened research checkout;
+   resolve its canonical repo-relative path there before moving it. Never modify the
+   other agents' checkouts or the stored snapshot recorded at `ref` — only the copy in
+   your own checkout moves. Preserve every file and never overwrite: on any collision,
+   pick a different stem first.
+4. Write the consolidated report to `<name>/<name>__final.md`: merge the strongest findings
+   from every report above and your own research, resolve conflicts, cut duplication,
+   and add missing critical context without unnecessary length.
+
+   Do not create `<name>/<name>.md`, not even as a placeholder, because the linker
+   agent `research.6f.linker` publishes it from your report.
+
+5. After the write succeeds, register the consolidated report as a durable snapshot so
+   the linker agent, `research.6f.linker`, can find it:
+
+   sase artifact create -p "<absolute-report-path>" -l "research:<repo-relative-report-path>"
+
+   Use the consolidated report's actual absolute path and its path relative to the
+   research repo root, for example `research:202609/<name>/<name>__final.md`. Register
+   only the consolidated report, and do not pass `--move`. If registration fails,
+   report that failure; do not report the task as fully complete.
+
+Final layout:
+
+```text
+<month-dir>/<name>/
+├── <name>__cdx.md
+├── <name>__cld.md
+├── <name>__grk.md
+├── <name>__mus.md
+├── <name>__gem.md
+└── <name>__final.md
+```
+
+## Response
+
+I'll lead this consolidation: open the research repo, read the five researcher reports, do my own investigation of the bob-cli/bob-plugins code, then merge everything into a final report.
+
+Now let me read all five researcher reports through their artifact references.
+
+Two reports read. Now the remaining three.
+
+Now a batched read of the decision records and glossary terms this design touches.
+
+The figure rendered (CLI 12.0.0 via the no-sandbox retry) but is too wide at 55% fit. Revising: shorter edge labels with line breaks and tighter wrapping.
+
+71.9% — just under the floor. One more revision (fold the "coexists" edge into the labelled node's gloss and shorten the widest edge label).
+
+Now register the consolidated report as a durable artifact for the linker agent.
+
+Consolidation complete. The final report is at `research:202611/plain_link_dependency_exclusivity/plain_link_dependency_exclusivity__final.md`, registered as `file:explicit:658d79d257cf35f3509fc975`, with all five researcher reports moved alongside it (grk's figure assets preserved so its images still render) and the research repo commit declared.
+
+**The consolidated verdict: build it, with four adjustments to your brief.** All five researchers said yes, and two independent vault scans agreed on the decisive evidence: of 274 dependency edges and 58 plain links, there are exactly two overlaps — and both are in the *reverse* direction your literal rules ("remove from the current task") would never catch. One is live in `bob.md`, where you added a plain link and then the dependency from the other panel nineteen seconds later — exactly the two-panel dance this feature collapses to one keystroke.
+
+The design I landed after resolving the swarm's disagreements:
+
+- **Pair-level invariant, both directions; labelled relations exempt.** One researcher (mus) wanted labelled relations included too; I rejected that — 263 of your 321 LINKS entries are labelled and carry meaning a dependency can't replace, and your one labelled-plus-dependency pair is legitimate.
+- **Asymmetric conversion.** Adding a dependency absorbs plain links everywhere (stages, capture `&`/`*`, task merge) because it loses nothing. Releasing a dependency to a plain link happens *only* through an explicit Obsidian gesture with the consequence shown first — because it un-blocks a task, possibly a different one than the panel you're in, possibly a whole `^prj`. Capture `~`, hand edits, and agents never release; reconcile heals leftovers with the dependency always winning.
+- **Key grammar: Ctrl + the Task Card key, in all four stages** — ⌃B "this waits on it", ⌃⇧B "it waits on this", ⌃L "plain link". Your `bob.md` case needed the reverse direction from the Links panel, so a single ⌃B can't cover it. Habitual ↵ on a tie-converting row arms a 2-press confirm (reusing the existing cancel/merge confirm machinery); deliberate chords commit in one press with the strip showing the result.
+- **Visibility**: tie badges in both directions in all four panels, a `⇄` badge wherever ↵ converts, an empty-filter "TIED BY A DEPENDENCY"/"PLAIN LINKS" band, and the consequence strip the Depends-on stage is the only panel missing.
+
+I verified the load-bearing claims myself: the enforcement predicate already exists (`dependency_joins`, `relations.rs:1227` — built for mention suppression), the contract hole is one sentence at `docs/task-relations.md:1865`, and gem's three pre-existing plugin bugs are real (`isCtrlKey` missing its shift guard, stale-conflict recovery reopening the wrong stage, the 190px badge clip) — all worth fixing in the same work. The report ends with a phased roadmap (contract+vectors → Rust core → nav plugin → Mac) and a minimum viable cut if the epic needs to shrink.

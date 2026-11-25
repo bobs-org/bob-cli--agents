@@ -23,10 +23,11 @@
 |---|---|---|
 | [research.6f.cdx](../bbugyi200.apollo.research.6f.cdx/README.md) | research.6f hood | completed |
 | [research.6f.cld](../bbugyi200.apollo.research.6f.cld/README.md) | research.6f hood | completed |
-| [research.6f.final](../bbugyi200.apollo.research.6f.final/README.md) | research.6f hood | waiting |
+| [research.6f.final](../bbugyi200.apollo.research.6f.final/README.md) | research.6f hood | completed |
 | [research.6f.gem](../bbugyi200.apollo.research.6f.gem/README.md) | research.6f hood | completed |
 | [research.6f.grk](../bbugyi200.apollo.research.6f.grk/README.md) | research.6f hood | completed |
 | [research.6f.linker](../bbugyi200.apollo.research.6f.linker/README.md) | research.6f hood | waiting |
+| [research.6f.linker.w0](../bbugyi200.apollo.research.6f.linker.w0/README.md) | research.6f hood | waiting |
 | [research.6f.mus](../bbugyi200.apollo.research.6f.mus/README.md) | research.6f hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
