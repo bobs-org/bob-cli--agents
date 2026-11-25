@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q7](../../users/bbugyi200/machines/athena/hoods/bob-cli-q7/README.md) / bob-cli-q7.2
 
-**Global name:** `bbugyi200.athena.bob-cli-q7.2` · **State:** waiting · **Source run:** `run-a2aae29d76784f7399abd79b487c06ee`
+**Global name:** `bbugyi200.athena.bob-cli-q7.2` · **State:** completed · **Source run:** `run-a2aae29d76784f7399abd79b487c06ee`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q7
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q7](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q7/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261125152759
-- Commits: 0
+- Timing: 2026-11-25T22:12:06.892300+00:00 → 2026-11-25T23:17:31.780194+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`d883e56`](https://github.com/bobs-org/bob-cli/commit/d883e564ecac1aecc9c3b6d4a1c72517cae87379) | feat(capture): scoped browse block\_id.goto with archive rows, mint-collision hint, route^block-id search | 2026-11-25 18:16:48 EST |
 
 ## Neighbors
 

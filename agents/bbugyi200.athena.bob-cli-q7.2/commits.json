@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a2aae29d76784f7399abd79b487c06ee"}
+{"commits":[{"committed_at":1795648608,"sha":"d883e564ecac1aecc9c3b6d4a1c72517cae87379","subject":"feat(capture): scoped browse block_id.goto with archive rows, mint-collision hint, route^block-id search"}],"schema_version":2,"source_run_id":"run-a2aae29d76784f7399abd79b487c06ee"}
