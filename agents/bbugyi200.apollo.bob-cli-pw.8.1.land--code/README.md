@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pw](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pw/README.md) / [bob-cli-pw.8.1.land](../../sessions/bbugyi200.apollo.bob-cli-pw.8.1.land.md) / bob-cli-pw.8.1.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-pw.8.1.land--code` · **State:** active · **Source run:** `run-b900ba3f3d16dc04ef8149b74c384390`
+**Global name:** `bbugyi200.apollo.bob-cli-pw.8.1.land--code` · **State:** completed · **Source run:** `run-b900ba3f3d16dc04ef8149b74c384390`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pw
 
@@ -11,8 +11,12 @@
 - Bead: [bob-cli-pw.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pw/bob-cli-pw.8.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-25T09:35:15.761195+00:00
+- Timing: 2026-11-25T09:35:15.761195+00:00 → 2026-11-25T10:41:32.291012+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -33,5 +37,6 @@
 | [bob-cli-pw.5.1.4](../bbugyi200.apollo.bob-cli-pw.5.1.4/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.5.1.land](../../sessions/bbugyi200.apollo.bob-cli-pw.5.1.land.md) (session · 3) | bob-cli-pw hood | completed 3 |
 | [bob-cli-pw.6](../../sessions/bbugyi200.apollo.bob-cli-pw.6.md) (session · 5) | bob-cli-pw hood | completed 5 |
+| [bob-cli-pw.6](../bbugyi200.apollo.bob-cli-pw.6/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.7](../bbugyi200.apollo.bob-cli-pw.7/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.land](../bbugyi200.apollo.bob-cli-pw.land/README.md) | bob-cli-pw hood | waiting |

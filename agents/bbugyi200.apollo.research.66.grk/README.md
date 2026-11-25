@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.66.grk
 
-**Global name:** `bbugyi200.apollo.research.66.grk` · **State:** active · **Source run:** `run-fa238a2c0e0fe57955fcd307e61f858a`
+**Global name:** `bbugyi200.apollo.research.66.grk` · **State:** completed · **Source run:** `run-fa238a2c0e0fe57955fcd307e61f858a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-25T12:09:41.673677+00:00
+- Timing: 2026-11-25T12:09:41.673677+00:00 → 2026-11-25T12:28:49.881035+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/better\_o\_and\_all\_ops\_reconcile\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125070730/better\_o\_and\_all\_ops\_reconcile\_\_grk-8612b… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/better_o_and_all_ops_reconcile__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125070730/better_o_and_all_ops_reconcile__grk-8612b057f1a1.md
+  ref: file:explicit:c169ed4f6f3d4e50e6ffedd0
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_18/sase/repos/research/202611/better_o_and_all_ops_reconcile__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.66.cdx](../bbugyi200.apollo.research.66.cdx/README.md) | research.66 hood | completed |
 | [research.66.cld](../bbugyi200.apollo.research.66.cld/README.md) | research.66 hood | active |
 | [research.66.final](../bbugyi200.apollo.research.66.final/README.md) | research.66 hood | waiting |
-| [research.66.gem](../bbugyi200.apollo.research.66.gem/README.md) | research.66 hood | active |
+| [research.66.gem](../bbugyi200.apollo.research.66.gem/README.md) | research.66 hood | completed |
 | [research.66.image](../bbugyi200.apollo.research.66.image/README.md) | research.66 hood | waiting |
 | [research.66.linker](../bbugyi200.apollo.research.66.linker/README.md) | research.66 hood | waiting |
 | [research.66.mus](../bbugyi200.apollo.research.66.mus/README.md) | research.66 hood | completed |

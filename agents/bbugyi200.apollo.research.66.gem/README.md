@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.66.gem
 
-**Global name:** `bbugyi200.apollo.research.66.gem` · **State:** active · **Source run:** `run-c29347841035548398c8bfe8e4a4a276`
+**Global name:** `bbugyi200.apollo.research.66.gem` · **State:** completed · **Source run:** `run-c29347841035548398c8bfe8e4a4a276`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-neon-xhigh
 - Provider: agy
-- Timing: 2026-11-25T12:10:49.282201+00:00
+- Timing: 2026-11-25T12:10:49.282201+00:00 → 2026-11-25T12:32:25.764265+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/better\_o\_and\_reconcile\_respecting\_ops\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125070732/better\_o\_and\_reconcile\_respecting\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/better_o_and_reconcile_respecting_ops__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125070732/better_o_and_reconcile_respecting_ops__gem-fc74950c2025.md
+  ref: file:explicit:93d0589a38e38281b6b08321
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_20/sase/repos/research/202611/better_o_and_reconcile_respecting_ops__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.66.cdx](../bbugyi200.apollo.research.66.cdx/README.md) | research.66 hood | completed |
 | [research.66.cld](../bbugyi200.apollo.research.66.cld/README.md) | research.66 hood | active |
 | [research.66.final](../bbugyi200.apollo.research.66.final/README.md) | research.66 hood | waiting |
-| [research.66.grk](../bbugyi200.apollo.research.66.grk/README.md) | research.66 hood | active |
+| [research.66.grk](../bbugyi200.apollo.research.66.grk/README.md) | research.66 hood | completed |
 | [research.66.image](../bbugyi200.apollo.research.66.image/README.md) | research.66 hood | waiting |
 | [research.66.linker](../bbugyi200.apollo.research.66.linker/README.md) | research.66 hood | waiting |
 | [research.66.mus](../bbugyi200.apollo.research.66.mus/README.md) | research.66 hood | completed |
