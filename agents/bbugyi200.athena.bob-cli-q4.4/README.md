@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / bob-cli-q4.4
 
-**Global name:** `bbugyi200.athena.bob-cli-q4.4` · **State:** active · **Source run:** `run-b206bbb3e72a4439b2b46798a8b9d2b8`
+**Global name:** `bbugyi200.athena.bob-cli-q4.4` · **State:** completed · **Source run:** `run-b206bbb3e72a4439b2b46798a8b9d2b8`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q4
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-25T13:54:11.989008+00:00
-- Commits: 0
+- Timing: 2026-11-25T13:54:11.989008+00:00 → 2026-11-25T17:56:18.255606+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e532b11`](https://github.com/bobs-org/bob-cli/commit/e532b11f911486e404fefeed3c7a7653dd7cbef7) | feat(dev): add reconcile-drift vault replay meter | 2026-11-25 12:55:36 EST |
 
 ## Neighbors
 
@@ -36,7 +42,7 @@
 | [bob-cli-q4.8](../../sessions/bbugyi200.athena.bob-cli-q4.8.md) (session · 3) | bob-cli-q4 hood | active 1, completed 2 |
 | [bob-cli-q4.8.1.1](../bbugyi200.athena.bob-cli-q4.8.1.1/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.8.1.2](../bbugyi200.athena.bob-cli-q4.8.1.2/README.md) | bob-cli-q4 hood | completed |
-| [bob-cli-q4.8.1.3](../../sessions/bbugyi200.athena.bob-cli-q4.8.1.3.md) (session · 3) | bob-cli-q4 hood | active 1, completed 1, failed 1 |
+| [bob-cli-q4.8.1.3](../../sessions/bbugyi200.athena.bob-cli-q4.8.1.3.md) (session · 4) | bob-cli-q4 hood | active 1, completed 2, failed 1 |
 | [bob-cli-q4.8.1.land](../bbugyi200.athena.bob-cli-q4.8.1.land/README.md) | bob-cli-q4 hood | waiting |
 | [bob-cli-q4.9](../bbugyi200.athena.bob-cli-q4.9/README.md) | bob-cli-q4 hood | waiting |
 | [bob-cli-q4.land](../bbugyi200.athena.bob-cli-q4.land/README.md) | bob-cli-q4 hood | waiting |
