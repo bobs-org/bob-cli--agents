@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pw](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pw/README.md) / bob-cli-pw.5.1.3
 
-**Global name:** `bbugyi200.apollo.bob-cli-pw.5.1.3` · **State:** waiting · **Source run:** `run-bed976e72b24d4c2421451f434afa4a8`
+**Global name:** `bbugyi200.apollo.bob-cli-pw.5.1.3` · **State:** completed · **Source run:** `run-bed976e72b24d4c2421451f434afa4a8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pw
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-pw.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pw/bob-cli-pw.5.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261124151539
-- Commits: 0
+- Timing: 2026-11-25T00:10:57.947482+00:00 → 2026-11-25T01:15:28.434730+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`c5fa6da`](https://github.com/bobs-org/bob-cli/commit/c5fa6da65e33d16ac6591ec2ec32c0280a47bbdf) | feat(meet): overwrite filed notes while preserving recap and identity | 2026-11-24 20:14:27 EST |
 
 ## Neighbors
 
