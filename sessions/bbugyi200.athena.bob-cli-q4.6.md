@@ -45,7 +45,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q4.7](../agents/bbugyi200.athena.bob-cli-q4.7/README.md) | bob-cli-q4 hood | waiting |
 | [bob-cli-q4.8](bbugyi200.athena.bob-cli-q4.8.md) (session · 3) | bob-cli-q4 hood | active 1, completed 2 |
 | [bob-cli-q4.8.1.1](../agents/bbugyi200.athena.bob-cli-q4.8.1.1/README.md) | bob-cli-q4 hood | completed |
-| [bob-cli-q4.8.1.2](../agents/bbugyi200.athena.bob-cli-q4.8.1.2/README.md) | bob-cli-q4 hood | waiting |
+| [bob-cli-q4.8.1.2](../agents/bbugyi200.athena.bob-cli-q4.8.1.2/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.8.1.3](../agents/bbugyi200.athena.bob-cli-q4.8.1.3/README.md) | bob-cli-q4 hood | waiting |
 | [bob-cli-q4.8.1.land](../agents/bbugyi200.athena.bob-cli-q4.8.1.land/README.md) | bob-cli-q4 hood | waiting |
 | [bob-cli-q4.9](../agents/bbugyi200.athena.bob-cli-q4.9/README.md) | bob-cli-q4 hood | waiting |
