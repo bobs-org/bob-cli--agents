@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / [bob-cli-ph.7.1.2](../../sessions/bbugyi200.apollo.bob-cli-ph.7.1.2.md) / bob-cli-ph.7.1.2--mon
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.7.1.2--mon` · **State:** active · **Source run:** `run-55f8144f2f1cf9f7fe50763102186ccd`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.7.1.2--mon` · **State:** completed · **Source run:** `run-55f8144f2f1cf9f7fe50763102186ccd`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -12,8 +12,12 @@
 - Epic: [bob-cli-ph.7.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.7.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-25T15:10:01.256918+00:00
+- Timing: 2026-11-25T15:10:01.256918+00:00 → 2026-11-25T15:14:40.308563+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
