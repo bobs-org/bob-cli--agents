@@ -39,4 +39,4 @@
 | [bob-cli-pw.6](../../sessions/bbugyi200.apollo.bob-cli-pw.6.md) (session · 5) | bob-cli-pw hood | completed 5 |
 | [bob-cli-pw.6](../bbugyi200.apollo.bob-cli-pw.6/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.7](../bbugyi200.apollo.bob-cli-pw.7/README.md) | bob-cli-pw hood | completed |
-| [bob-cli-pw.land](../../sessions/bbugyi200.apollo.bob-cli-pw.land.md) (session · 4) | bob-cli-pw hood | active 1, completed 3 |
+| [bob-cli-pw.land](../../sessions/bbugyi200.apollo.bob-cli-pw.land.md) (session · 5) | bob-cli-pw hood | completed 5 |

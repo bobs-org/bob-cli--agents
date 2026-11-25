@@ -78,4 +78,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pw.8.1.2](../../sessions/bbugyi200.apollo.bob-cli-pw.8.1.2.md) (session · 7) | bob-cli-pw hood | completed 5, failed 2 |
 | [bob-cli-pw.8.1.3](../../sessions/bbugyi200.apollo.bob-cli-pw.8.1.3.md) (session · 3) | bob-cli-pw hood | completed 2, failed 1 |
 | [bob-cli-pw.8.1.land](../../sessions/bbugyi200.apollo.bob-cli-pw.8.1.land.md) (session · 9) | bob-cli-pw hood | completed 7, failed 2 |
-| [bob-cli-pw.land](../../sessions/bbugyi200.apollo.bob-cli-pw.land.md) (session · 4) | bob-cli-pw hood | active 1, completed 3 |
+| [bob-cli-pw.land](../../sessions/bbugyi200.apollo.bob-cli-pw.land.md) (session · 5) | bob-cli-pw hood | completed 5 |
