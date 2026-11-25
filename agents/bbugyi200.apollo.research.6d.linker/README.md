@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6d.linker
 
-**Global name:** `bbugyi200.apollo.research.6d.linker` · **State:** waiting · **Source run:** `run-a163eece9f7f437d7f8e18b70d757861`
+**Global name:** `bbugyi200.apollo.research.6d.linker` · **State:** completed · **Source run:** `run-a163eece9f7f437d7f8e18b70d757861`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261125135946
+- Timing: 2026-11-25T19:51:55.731729+00:00 → 2026-11-25T20:00:41.915327+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/caret\_address\_goto\_capture/caret\_address\_goto\_capture.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125135946/caret\_address\_goto\_capt… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/caret_address_goto_capture/caret_address_goto_capture.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125135946/caret_address_goto_capture-a3d7bde0d887.md
+  ref: file:explicit:be5e9acf49aded65dbfb4ba4
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/caret_address_goto_capture/caret_address_goto_capture.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
