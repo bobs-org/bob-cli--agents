@@ -9,27 +9,27 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-pl` · Members: 20 · Bead: [bob-cli
 ```mermaid
 flowchart TD
   n0["bob-cli-pl.6.1.5--1 [completed]"]
-  n1["bob-cli-pl.6.1.5--mon-6 [failed]"]
+  n1["bob-cli-pl.6.1.5--mon [active]"]
   n0 --> n1
-  n2["bob-cli-pl.6.1.5--plan [completed]"]
+  n2["bob-cli-pl.6.1.5--mon-6 [failed]"]
   n0 --> n2
   n3["bob-cli-pl.6.1.5--2 [completed]"]
   n0 --> n3
   n4["bob-cli-pl.6.1.5--mon-7 [failed]"]
   n0 --> n4
-  n5["bob-cli-pl.6.1.5--mon [failed]"]
+  n5["bob-cli-pl.6.1.5--mon-2 [failed]"]
   n0 --> n5
-  n6["bob-cli-pl.6.1.5--mon-2 [failed]"]
+  n6["bob-cli-pl.6.1.5--4 [completed]"]
   n0 --> n6
-  n7["bob-cli-pl.6.1.5--4 [completed]"]
+  n7["bob-cli-pl.6.1.5--6 [completed]"]
   n0 --> n7
-  n8["bob-cli-pl.6.1.5--6 [completed]"]
+  n8["bob-cli-pl.6.1.5--7 [completed]"]
   n0 --> n8
-  n9["bob-cli-pl.6.1.5--7 [completed]"]
+  n9["bob-cli-pl.6.1.5--mon-8 [active]"]
   n0 --> n9
-  n10["bob-cli-pl.6.1.5--mon-8 [active]"]
+  n10["bob-cli-pl.6.1.5--9 [completed]"]
   n0 --> n10
-  n11["bob-cli-pl.6.1.5--9 [completed]"]
+  n11["bob-cli-pl.6.1.5--plan [completed]"]
   n0 --> n11
   n12["bob-cli-pl.6.1.5--mon-3 [failed]"]
   n0 --> n12
@@ -54,17 +54,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | bob-cli-pl.6.1.5--1 | completed | gpt-6-luna / codex | 2026-11-25T12:21:56.844749+00:00 → 2026-11-25T12:31:43.848872+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--1/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-pl.6.1.5--mon | active | gpt-6-astra / codex | 2026-11-25T18:09:29.632153+00:00 | 0 | — | — |
 | <a id="member-mon-6"></a>mon-6 | bob-cli-pl.6.1.5--mon-6 | failed | gpt-6-luna / codex | 2026-11-25T15:17:49.870896+00:00 → 2026-11-25T15:25:51.491931+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-6/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-pl.6.1.5--plan | completed | gpt-6-luna / codex | 2026-11-25T11:42:38.642792+00:00 → 2026-11-25T12:16:45.786846+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--plan/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-pl.6.1.5--2 | completed | gpt-6-luna / codex | 2026-11-25T12:36:44.706448+00:00 → 2026-11-25T12:39:33.901935+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--2/chat.md) |
 | <a id="member-mon-7"></a>mon-7 | bob-cli-pl.6.1.5--mon-7 | failed | gpt-6-luna / codex | 2026-11-25T16:27:03.094068+00:00 → 2026-11-25T16:37:09.292675+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-7/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-pl.6.1.5--mon | failed | gpt-6-luna / codex | 2026-11-25T12:14:15.028792+00:00 → 2026-11-25T12:21:56.709400+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-pl.6.1.5--mon-2 | failed | gpt-6-luna / codex | 2026-11-25T12:56:34.339008+00:00 → 2026-11-25T13:04:06.881820+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-2/chat.md) |
 | <a id="member-4"></a>4 | bob-cli-pl.6.1.5--4 | completed | gpt-6-luna / codex | 2026-11-25T13:04:17.728870+00:00 → 2026-11-25T13:16:36.066252+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--4/chat.md) |
 | <a id="member-6"></a>6 | bob-cli-pl.6.1.5--6 | completed | gpt-6-luna / codex | 2026-11-25T14:17:30.204128+00:00 → 2026-11-25T14:26:18.662056+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--6/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--6/chat.md) |
 | <a id="member-7"></a>7 | bob-cli-pl.6.1.5--7 | completed | gpt-6-luna / codex | 2026-11-25T14:28:36.645513+00:00 → 2026-11-25T15:20:16.362793+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--7/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--7/chat.md) |
 | <a id="member-mon-8"></a>mon-8 | bob-cli-pl.6.1.5--mon-8 | active | gpt-6-luna / codex | 2026-11-25T17:13:29.854472+00:00 | 0 | — | — |
 | <a id="member-9"></a>9 | bob-cli-pl.6.1.5--9 | completed | gpt-6-luna / codex | 2026-11-25T16:37:08.848355+00:00 → 2026-11-25T17:16:12.603846+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--9/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--9/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-pl.6.1.5--plan | completed | gpt-6-astra / codex | 2026-11-25T17:54:17.573603+00:00 → 2026-11-25T18:12:00.396759+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--plan/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | bob-cli-pl.6.1.5--mon-3 | failed | gpt-6-luna / codex | 2026-11-25T13:14:14.960249+00:00 → 2026-11-25T13:21:20.966717+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-3/chat.md) |
 | <a id="member-5"></a>5 | bob-cli-pl.6.1.5--5 | completed | gpt-6-luna / codex | 2026-11-25T13:21:23.013505+00:00 → 2026-11-25T14:12:58.618423+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--5/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | bob-cli-pl.6.1.5--mon-5 | failed | gpt-6-luna / codex | 2026-11-25T14:25:26.342423+00:00 → 2026-11-25T14:28:36.654894+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-5/chat.md) |
