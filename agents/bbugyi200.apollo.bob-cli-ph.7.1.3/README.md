@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / bob-cli-ph.7.1.3
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.7.1.3` · **State:** waiting · **Source run:** `run-163e6b69610e1399cf5ed5ab97ce9e57`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.7.1.3` · **State:** completed · **Source run:** `run-163e6b69610e1399cf5ed5ab97ce9e57`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-ph.7.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.7.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261125085327
+- Timing: 2026-11-25T15:56:42.563648+00:00 → 2026-11-25T16:23:08.089371+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-ph.7](../../sessions/bbugyi200.apollo.bob-cli-ph.7.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-ph.7.1.1](../bbugyi200.apollo.bob-cli-ph.7.1.1/README.md) | bob-cli-ph.7.1 hood | completed |
-| [bob-cli-ph.7.1.2](../../sessions/bbugyi200.apollo.bob-cli-ph.7.1.2.md) (session · 6) | bob-cli-ph.7.1 hood | active 1, completed 4, failed 1 |
+| [bob-cli-ph.7.1.2](../../sessions/bbugyi200.apollo.bob-cli-ph.7.1.2.md) (session · 9) | bob-cli-ph.7.1 hood | completed 6, failed 3 |
 | [bob-cli-ph.7.1.4](../bbugyi200.apollo.bob-cli-ph.7.1.4/README.md) | bob-cli-ph.7.1 hood | waiting |
 | [bob-cli-ph.7.1.land](../bbugyi200.apollo.bob-cli-ph.7.1.land/README.md) | bob-cli-ph.7.1 hood | waiting |
 | [bob-cli-ph.1](../../sessions/bbugyi200.apollo.bob-cli-ph.1.md) (session · 31) | bob-cli-ph hood | completed 20, failed 11 |
