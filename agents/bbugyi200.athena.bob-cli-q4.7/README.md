@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / bob-cli-q4.7
 
-**Global name:** `bbugyi200.athena.bob-cli-q4.7` · **State:** waiting · **Source run:** `run-94d50cd6b476fff67196b8d5f7820508`
+**Global name:** `bbugyi200.athena.bob-cli-q4.7` · **State:** completed · **Source run:** `run-94d50cd6b476fff67196b8d5f7820508`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q4
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261125085257
-- Commits: 0
+- Timing: 2026-11-25T15:20:46.887018+00:00 → 2026-11-25T17:08:17.793464+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`08a708d`](https://github.com/bobs-org/bob-cli/commit/08a708d3354c1fe110ce4038f41697bdbaffd399) | feat(settle): command writers settle notes before staging | 2026-11-25 12:07:37 EST |
 
 ## Neighbors
 

@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-94d50cd6b476fff67196b8d5f7820508"}
+{"commits":[{"committed_at":1795626457,"sha":"08a708d3354c1fe110ce4038f41697bdbaffd399","subject":"feat(settle): command writers settle notes before staging"}],"schema_version":2,"source_run_id":"run-94d50cd6b476fff67196b8d5f7820508"}
