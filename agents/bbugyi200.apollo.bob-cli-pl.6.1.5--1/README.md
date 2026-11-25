@@ -2,21 +2,53 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / [bob-cli-pl.6.1.5](../../sessions/bbugyi200.apollo.bob-cli-pl.6.1.5.md) / bob-cli-pl.6.1.5--1
 
-**Global name:** `bbugyi200.apollo.bob-cli-pl.6.1.5--1` · **State:** completed · **Source run:** `run-1b885f92b403362d82f067e07485c9b7`
+**Global name:** `bbugyi200.apollo.bob-cli-pl.6.1.5--1` · **State:** completed · **Source run:** `run-2d9bc7f678a40c6af62baba10652c3e5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pl
 
 ## Summary
 
 - Bead: [bob-cli-pl.6.1.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.6.1.5.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-25T12:21:56.844749+00:00 → 2026-11-25T12:31:43.848872+00:00
+- Timing: 2026-11-25T18:25:33.504442+00:00 → 2026-11-25T18:45:10.847795+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Settings acceptance vc3zr2 report: 220 passes then bank selector timeout, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125132444/rep… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Settings acceptance vc3zr2 report: 220 passes then bank selector timeout
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125132444/report-dfd6606ac906.json
+  ref: file:explicit:4b93754653436b0bea329531
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/settings-acceptance/run-TvKUzA5p/evidence/report.json
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Settings acceptance vc3zr2: all 25 image verdicts and independent check results
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125132444/review-ba1dc513a51f.json
+  ref: file:explicit:0968c32776984db9ba2bd327
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/settings-acceptance/run-TvKUzA5p/evidence/review.json
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Settings acceptance vc3zr2 complete logs and 25 reviewed screenshots
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125132444/reviewed-evidence.tar-1d2b9e7cb23a.gz
+  ref: file:explicit:575ee3b4f1b1d6736814ddb3
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/settings-acceptance/run-TvKUzA5p/reviewed-evidence.tar.gz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
