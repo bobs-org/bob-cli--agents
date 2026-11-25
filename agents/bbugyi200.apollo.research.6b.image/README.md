@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6b.image
 
-**Global name:** `bbugyi200.apollo.research.6b.image` · **State:** waiting · **Source run:** `run-db7bc588b715947a7ce08d9de29b0cef`
+**Global name:** `bbugyi200.apollo.research.6b.image` · **State:** completed · **Source run:** `run-db7bc588b715947a7ce08d9de29b0cef`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261125101850
+- Timing: 2026-11-25T16:05:58.784992+00:00 → 2026-11-25T16:15:07.410808+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/bank\_property\_card\_fold/bank\_property\_card\_fold\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125101850/bank\_property\_card\_fol… |
+| `diagrams` | {considered: 11, count: 1, manifest: 202611/bank\_property\_card\_fold/bank\_property\_card\_fold.diagrams.md, source\_ref: file:explicit:c2fe764ad713fc7ffcae69cf, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/bank_property_card_fold/bank_property_card_fold_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125101850/bank_property_card_fold_infographic-89f667052c0a.png
+  ref: file:explicit:4eb6590ee31a130218f6bacb
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/bank_property_card_fold/bank_property_card_fold_infographic.png
+- kind: markdown
+  label: diagrams:202611/bank_property_card_fold/bank_property_card_fold.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125101850/bank_property_card_fold.diagrams-ab52ce0c5968.md
+  ref: file:explicit:c0a9eac419c5787a652acca6
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/bank_property_card_fold/bank_property_card_fold.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 11
+count: 1
+manifest: 202611/bank_property_card_fold/bank_property_card_fold.diagrams.md
+source_ref: file:explicit:c2fe764ad713fc7ffcae69cf
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
