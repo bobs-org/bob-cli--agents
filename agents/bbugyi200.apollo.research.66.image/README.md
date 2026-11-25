@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.66.image
 
-**Global name:** `bbugyi200.apollo.research.66.image` · **State:** waiting · **Source run:** `run-1fd5797b45c5458d6383654166085543`
+**Global name:** `bbugyi200.apollo.research.66.image` · **State:** completed · **Source run:** `run-1fd5797b45c5458d6383654166085543`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,52 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261125070734
+- Timing: 2026-11-25T13:05:57.519882+00:00 → 2026-11-25T13:18:45.191487+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/better\_o\_gesture\_settle/better\_o\_gesture\_settle\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125070734/better\_o\_gesture… |
+| `diagrams` | {considered: 13, count: 2, manifest: 202611/better\_o\_gesture\_settle/better\_o\_gesture\_settle.diagrams.md, source\_ref: file:explicit:a3594e1cf93e9047480934ba, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/better_o_gesture_settle/better_o_gesture_settle_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125070734/better_o_gesture_settle_infographic-0ae6b224199a.png
+  ref: file:explicit:6e67d7f13778aa9c2c1b2639
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202611/better_o_gesture_settle/better_o_gesture_settle_infographic.png
+- kind: markdown
+  label: diagrams:202611/better_o_gesture_settle/better_o_gesture_settle.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125070734/better_o_gesture_settle.diagrams-b5c4b7fb9030.md
+  ref: file:explicit:2ae95fd06fe6cd28996237d9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202611/better_o_gesture_settle/better_o_gesture_settle.diagrams.md
+- kind: file
+  label: Infographic prompt set: better-o gesture settle
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125070734/infographic-prompts-9e3e6d06a238.txt
+  ref: file:explicit:7fd02656d82cef9d7cd006f8
+  source_path: /tmp/bobfig.QwSTvZ/infographic-prompts.txt
+```
+
+#### diagrams
+
+```yaml
+considered: 13
+count: 2
+manifest: 202611/better_o_gesture_settle/better_o_gesture_settle.diagrams.md
+source_ref: file:explicit:a3594e1cf93e9047480934ba
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

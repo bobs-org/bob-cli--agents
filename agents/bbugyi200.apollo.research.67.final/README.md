@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.67.final
 
-**Global name:** `bbugyi200.apollo.research.67.final` · **State:** waiting · **Source run:** `run-4ec70b3189e5be6ab8df8ba063ffced2`
+**Global name:** `bbugyi200.apollo.research.67.final` · **State:** completed · **Source run:** `run-4ec70b3189e5be6ab8df8ba063ffced2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261125074458
+- Timing: 2026-11-25T13:05:34.726591+00:00 → 2026-11-25T13:20:29.191440+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/snoozed\_task\_links/snoozed\_task\_links\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125074458/snoozed\_task\_links\_\_final-26c9fe… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/snoozed_task_links/snoozed_task_links__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125074458/snoozed_task_links__final-26c9fef1bb44.md
+  ref: file:explicit:641b1db71ba657a601ab40fa
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/snoozed_task_links/snoozed_task_links__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
