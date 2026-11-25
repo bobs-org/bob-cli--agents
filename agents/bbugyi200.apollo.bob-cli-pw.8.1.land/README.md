@@ -23,8 +23,8 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-pw.8](../../sessions/bbugyi200.apollo.bob-cli-pw.8.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-pw.8.1.1](../../sessions/bbugyi200.apollo.bob-cli-pw.8.1.1.md) (session · 2) | bob-cli-pw.8.1 hood | active 1, completed 1 |
-| [bob-cli-pw.8.1.2](../../sessions/bbugyi200.apollo.bob-cli-pw.8.1.2.md) (session · 6) | bob-cli-pw.8.1 hood | active 1, completed 4, failed 1 |
+| [bob-cli-pw.8.1.1](../../sessions/bbugyi200.apollo.bob-cli-pw.8.1.1.md) (session · 4) | bob-cli-pw.8.1 hood | active 1, completed 2, failed 1 |
+| [bob-cli-pw.8.1.2](../../sessions/bbugyi200.apollo.bob-cli-pw.8.1.2.md) (session · 7) | bob-cli-pw.8.1 hood | active 1, completed 4, failed 2 |
 | [bob-cli-pw.8.1.3](../bbugyi200.apollo.bob-cli-pw.8.1.3/README.md) | bob-cli-pw.8.1 hood | waiting |
 | [bob-cli-pw.1](../../sessions/bbugyi200.apollo.bob-cli-pw.1.md) (session · 7) | bob-cli-pw hood | completed 5, failed 2 |
 | [bob-cli-pw.2](../bbugyi200.apollo.bob-cli-pw.2/README.md) | bob-cli-pw hood | completed |
