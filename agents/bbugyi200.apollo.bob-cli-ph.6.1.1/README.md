@@ -30,7 +30,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-ph.6](../../sessions/bbugyi200.apollo.bob-cli-ph.6.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-ph.6.1.2](../bbugyi200.apollo.bob-cli-ph.6.1.2/README.md) | bob-cli-ph.6.1 hood | waiting |
+| [bob-cli-ph.6.1.2](../bbugyi200.apollo.bob-cli-ph.6.1.2/README.md) | bob-cli-ph.6.1 hood | completed |
 | [bob-cli-ph.6.1.3](../bbugyi200.apollo.bob-cli-ph.6.1.3/README.md) | bob-cli-ph.6.1 hood | waiting |
 | [bob-cli-ph.6.1.4](../bbugyi200.apollo.bob-cli-ph.6.1.4/README.md) | bob-cli-ph.6.1 hood | waiting |
 | [bob-cli-ph.6.1.5](../bbugyi200.apollo.bob-cli-ph.6.1.5/README.md) | bob-cli-ph.6.1 hood | waiting |

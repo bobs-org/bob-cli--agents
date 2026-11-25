@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / bob-cli-ph.6.1.2
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.6.1.2` · **State:** waiting · **Source run:** `run-1da268c83466c6724e09331be4f6b6f3`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.6.1.2` · **State:** completed · **Source run:** `run-1da268c83466c6724e09331be4f6b6f3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ph.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.6.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261125084123
-- Commits: 0
+- Timing: 2026-11-25T14:44:00.810148+00:00 → 2026-11-25T17:15:56.024645+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`22fea30`](https://github.com/bobs-org/bob-cli/commit/22fea308101c894185bc29d494c1b5bdca6dff71) | feat(capture): admit whole-bold container drafts | 2026-11-25 12:14:41 EST |
 
 ## Neighbors
 
