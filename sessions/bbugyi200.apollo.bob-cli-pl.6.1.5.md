@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / bob-cli-pl.6.1.5
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-pl` · Members: 10 · Bead: [bob-cli-pl.6.1.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.6.1.5.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-pl` · Members: 12 · Bead: [bob-cli-pl.6.1.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.6.1.5.md)
 
 ## Lineage
 
@@ -19,14 +19,18 @@ flowchart TD
   n0 --> n4
   n5["bob-cli-pl.6.1.5--4 [completed]"]
   n0 --> n5
-  n6["bob-cli-pl.6.1.5--mon-3 [active]"]
+  n6["bob-cli-pl.6.1.5--mon-3 [failed]"]
   n0 --> n6
-  n7["bob-cli-pl.6.1.5--mon-0 [failed]"]
+  n7["bob-cli-pl.6.1.5--5 [completed]"]
   n0 --> n7
-  n8["bob-cli-pl.6.1.5--mon-1 [failed]"]
+  n8["bob-cli-pl.6.1.5--mon-4 [active]"]
   n0 --> n8
-  n9["bob-cli-pl.6.1.5--3 [completed]"]
+  n9["bob-cli-pl.6.1.5--mon-0 [failed]"]
   n0 --> n9
+  n10["bob-cli-pl.6.1.5--mon-1 [failed]"]
+  n0 --> n10
+  n11["bob-cli-pl.6.1.5--3 [completed]"]
+  n0 --> n11
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -39,7 +43,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | bob-cli-pl.6.1.5--mon | failed | gpt-6-luna / codex | 2026-11-25T12:14:15.028792+00:00 → 2026-11-25T12:21:56.709400+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-pl.6.1.5--mon-2 | failed | gpt-6-luna / codex | 2026-11-25T12:56:34.339008+00:00 → 2026-11-25T13:04:06.881820+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-2/chat.md) |
 | <a id="member-4"></a>4 | bob-cli-pl.6.1.5--4 | completed | gpt-6-luna / codex | 2026-11-25T13:04:17.728870+00:00 → 2026-11-25T13:16:36.066252+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--4/chat.md) |
-| <a id="member-mon-3"></a>mon-3 | bob-cli-pl.6.1.5--mon-3 | active | gpt-6-luna / codex | 2026-11-25T13:14:14.960249+00:00 | 0 | — | — |
+| <a id="member-mon-3"></a>mon-3 | bob-cli-pl.6.1.5--mon-3 | failed | gpt-6-luna / codex | 2026-11-25T13:14:14.960249+00:00 → 2026-11-25T13:21:20.966717+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-3/chat.md) |
+| <a id="member-5"></a>5 | bob-cli-pl.6.1.5--5 | completed | gpt-6-luna / codex | 2026-11-25T13:21:23.013505+00:00 → 2026-11-25T14:12:58.618423+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--5/chat.md) |
+| <a id="member-mon-4"></a>mon-4 | bob-cli-pl.6.1.5--mon-4 | active | gpt-6-luna / codex | 2026-11-25T14:10:00.420200+00:00 | 0 | — | — |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-pl.6.1.5--mon-0 | failed | gpt-6-luna / codex | 2026-11-25T12:30:32.782479+00:00 → 2026-11-25T12:36:28.692350+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-0/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-pl.6.1.5--mon-1 | failed | gpt-6-luna / codex | 2026-11-25T12:38:39.555892+00:00 → 2026-11-25T12:43:43.383290+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-1/chat.md) |
 | <a id="member-3"></a>3 | bob-cli-pl.6.1.5--3 | completed | gpt-6-luna / codex | 2026-11-25T12:43:43.073207+00:00 → 2026-11-25T12:59:53.265462+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--3/chat.md) |
@@ -50,6 +56,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | 3 | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Settings acceptance failure report (managed rows collapsed), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125074255/property-editor-… |
 | 4 | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Obsidian settings acceptance report (failed, 2026-11-25 13:02 UTC), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125080306/property-… |
+| 5 | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Failed Obsidian settings acceptance screenshot: property-editor-failure, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125082020/prop… |
 
 #### artifacts
 
@@ -81,6 +88,83 @@ The diagram is an optional enhancement; the ordered table below contains the sam
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125080306/property-editor-failure-8659904001df.png
   ref: file:explicit:df648c0cb0cc5a2fd010f811
   source_path: /tmp/bob-plugins-settings-e2e-shots/property-editor-failure.png
+```
+
+#### artifacts
+
+**Role:** `5`
+
+```yaml
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-failure
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-failure-86a3f06124b5.png
+  ref: file:explicit:273b2c658d5b61c382a38a37
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-filter-1400-dark
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-filter-1400-dark-f49a8d47c26c.png
+  ref: file:explicit:45dc7735989a011cdf728260
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-filter-1400-light
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-filter-1400-light-51fced3e01f6.png
+  ref: file:explicit:15e6ee9644ddca04b3e15b68
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-filter-390-dark
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-filter-390-dark-cf095f3e3376.png
+  ref: file:explicit:1f140b8a9cfe8c2603d455bc
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-filter-390-light
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-filter-390-light-66c0593ef8b4.png
+  ref: file:explicit:f772ca3b26930c7f3fc9d2b7
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-marked-1400-dark
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-marked-1400-dark-5e062d251053.png
+  ref: file:explicit:47b5de8060e4fa99bc07a717
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-marked-1400-light
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-marked-1400-light-21ac1d59a5bb.png
+  ref: file:explicit:d2709269d2d7eb52365f5f55
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-marked-390-dark
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-marked-390-dark-2a6aea467a29.png
+  ref: file:explicit:6b3cd7189b58978001673256
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-marked-390-light
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-marked-390-light-b1838cdef32c.png
+  ref: file:explicit:768c90e756f020c43204ce1d
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-rename-1400-dark
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-rename-1400-dark-63a34e9d7391.png
+  ref: file:explicit:69c4fda47ff362a7bffa75f8
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-rename-1400-light
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-rename-1400-light-94488ec0f880.png
+  ref: file:explicit:ae7eed0a50602d4baca2d591
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-rename-390-dark
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-rename-390-dark-b5708690855c.png
+  ref: file:explicit:8e08cc4bfd0c453564c2812f
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance screenshot: property-editor-parity-rename-390-light
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/property-editor-parity-rename-390-light-c872065c05c6.png
+  ref: file:explicit:1517ae57c0a2221475089d20
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Failed Obsidian settings acceptance report: 7k01aw
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125082020/report-b7f360f64876.json
+  ref: file:explicit:ceac5914a62d6c380e0ccc51
 ```
 
 Values are truncated for display; see each member's agent meta.json for the full values.
