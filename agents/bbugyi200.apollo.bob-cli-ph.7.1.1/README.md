@@ -24,7 +24,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-ph.7](../../sessions/bbugyi200.apollo.bob-cli-ph.7.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-ph.7.1.2](../bbugyi200.apollo.bob-cli-ph.7.1.2/README.md) | bob-cli-ph.7.1 hood | waiting |
+| [bob-cli-ph.7.1.2](../../sessions/bbugyi200.apollo.bob-cli-ph.7.1.2.md) (session · 2) | bob-cli-ph.7.1 hood | active 1, completed 1 |
 | [bob-cli-ph.7.1.3](../bbugyi200.apollo.bob-cli-ph.7.1.3/README.md) | bob-cli-ph.7.1 hood | waiting |
 | [bob-cli-ph.7.1.4](../bbugyi200.apollo.bob-cli-ph.7.1.4/README.md) | bob-cli-ph.7.1 hood | waiting |
 | [bob-cli-ph.7.1.land](../bbugyi200.apollo.bob-cli-ph.7.1.land/README.md) | bob-cli-ph.7.1 hood | waiting |
@@ -35,7 +35,7 @@
 | [bob-cli-ph.3](../../sessions/bbugyi200.apollo.bob-cli-ph.3.md) (session · 2) | bob-cli-ph hood | active 1, completed 1 |
 | [bob-cli-ph.3](../bbugyi200.apollo.bob-cli-ph.3/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.4](../bbugyi200.apollo.bob-cli-ph.4/README.md) | bob-cli-ph hood | completed |
-| [bob-cli-ph.5](../../sessions/bbugyi200.apollo.bob-cli-ph.5.md) (session · 2) | bob-cli-ph hood | active 1, completed 1 |
+| [bob-cli-ph.5](../../sessions/bbugyi200.apollo.bob-cli-ph.5.md) (session · 3) | bob-cli-ph hood | completed 3 |
 | [bob-cli-ph.6](../../sessions/bbugyi200.apollo.bob-cli-ph.6.md) (session · 3) | bob-cli-ph hood | active 1, completed 2 |
 | [bob-cli-ph.6.1.1](../bbugyi200.apollo.bob-cli-ph.6.1.1/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.6.1.2](../bbugyi200.apollo.bob-cli-ph.6.1.2/README.md) | bob-cli-ph hood | waiting |
