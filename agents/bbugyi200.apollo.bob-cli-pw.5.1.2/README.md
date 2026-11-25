@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pw](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pw/README.md) / bob-cli-pw.5.1.2
 
-**Global name:** `bbugyi200.apollo.bob-cli-pw.5.1.2` · **State:** waiting · **Source run:** `run-a9db6ce8c1be702ed6ce5504c74f12d7`
+**Global name:** `bbugyi200.apollo.bob-cli-pw.5.1.2` · **State:** completed · **Source run:** `run-a9db6ce8c1be702ed6ce5504c74f12d7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pw
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-pw.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pw/bob-cli-pw.5.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261124151538
-- Commits: 0
+- Timing: 2026-11-24T22:16:19.824137+00:00 → 2026-11-25T00:10:21.005187+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`bf30944`](https://github.com/bobs-org/bob-cli/commit/bf309445934ef16924565c4f48134400c038b7c7) | feat(meet): ingest meeting dossier with event re-root in one commit | 2026-11-24 19:09:20 EST |
 
 ## Neighbors
 
