@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6f.gem
 
-**Global name:** `bbugyi200.apollo.research.6f.gem` · **State:** active · **Source run:** `run-fa6fc08919aa52a8490c86b4416fdfe9`
+**Global name:** `bbugyi200.apollo.research.6f.gem` · **State:** completed · **Source run:** `run-fa6fc08919aa52a8490c86b4416fdfe9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: gemini-4-neon-xhigh
 - Provider: agy
-- Timing: 2026-11-25T21:19:39.852063+00:00
+- Timing: 2026-11-25T21:19:39.852063+00:00 → 2026-11-25T21:37:54.860494+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/task\_dependency\_plain\_link\_mutual\_exclusion\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125161650/task\_dependency\_plain\_link\_m… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/task_dependency_plain_link_mutual_exclusion__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125161650/task_dependency_plain_link_mutual_exclusion__gem-3040c75e7f40.md
+  ref: file:explicit:62c6e1359669cbfe1dced05d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_20/sase/repos/research/202611/task_dependency_plain_link_mutual_exclusion__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
