@@ -58,8 +58,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-pw.6](bbugyi200.apollo.bob-cli-pw.6.md) (session · 5) | bob-cli-pw hood | completed 5 |
 | [bob-cli-pw.7](../agents/bbugyi200.apollo.bob-cli-pw.7/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.8](bbugyi200.apollo.bob-cli-pw.8.md) (session · 3) | bob-cli-pw hood | active 1, completed 2 |
-| [bob-cli-pw.8.1.1](bbugyi200.apollo.bob-cli-pw.8.1.1.md) (session · 8) | bob-cli-pw hood | active 1, completed 4, failed 3 |
+| [bob-cli-pw.8.1.1](bbugyi200.apollo.bob-cli-pw.8.1.1.md) (session · 9) | bob-cli-pw hood | completed 5, failed 4 |
 | [bob-cli-pw.8.1.2](bbugyi200.apollo.bob-cli-pw.8.1.2.md) (session · 7) | bob-cli-pw hood | completed 5, failed 2 |
-| [bob-cli-pw.8.1.3](../agents/bbugyi200.apollo.bob-cli-pw.8.1.3/README.md) | bob-cli-pw hood | waiting |
+| [bob-cli-pw.8.1.3](bbugyi200.apollo.bob-cli-pw.8.1.3.md) (session · 2) | bob-cli-pw hood | active 1, completed 1 |
 | [bob-cli-pw.8.1.land](../agents/bbugyi200.apollo.bob-cli-pw.8.1.land/README.md) | bob-cli-pw hood | waiting |
 | [bob-cli-pw.land](../agents/bbugyi200.apollo.bob-cli-pw.land/README.md) | bob-cli-pw hood | waiting |
