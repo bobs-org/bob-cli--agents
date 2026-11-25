@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-e1a3a95449bc5ccf535b836724d7b1ad"}
+{"commits":[{"committed_at":1795631260,"sha":"8a1d16a621f7829bf94b3ccabf49c04ab9192fd5","subject":"feat(capture): prefer catalog spellings and preserve authored drawer titles"}],"schema_version":2,"source_run_id":"run-e1a3a95449bc5ccf535b836724d7b1ad"}
