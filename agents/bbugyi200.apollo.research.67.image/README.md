@@ -12,10 +12,45 @@
 - Provider: codex
 - Timing: 20261125074459
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/snoozed\_task\_links/snoozed\_task\_links\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125074459/snoozed\_task\_links\_infographic-9… |
+| `diagrams` | {considered: 14, count: 3, manifest: 202611/snoozed\_task\_links/snoozed\_task\_links.diagrams.md, source\_ref: file:explicit:641b1db71ba657a601ab40fa, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/snoozed_task_links/snoozed_task_links_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125074459/snoozed_task_links_infographic-946fe398c409.png
+  ref: file:explicit:729fbe1d15341393ef53f60a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/snoozed_task_links/snoozed_task_links_infographic.png
+- kind: markdown
+  label: diagrams:202611/snoozed_task_links/snoozed_task_links.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125074459/snoozed_task_links.diagrams-af9d5e44d38d.md
+  ref: file:explicit:4276824362fa054f94512f53
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/snoozed_task_links/snoozed_task_links.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 3
+manifest: 202611/snoozed_task_links/snoozed_task_links.diagrams.md
+source_ref: file:explicit:641b1db71ba657a601ab40fa
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

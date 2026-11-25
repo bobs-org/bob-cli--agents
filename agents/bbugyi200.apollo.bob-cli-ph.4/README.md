@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / bob-cli-ph.4
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.4` · **State:** active · **Source run:** `run-f3871ba0499954ffb124446529ff43a3`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.4` · **State:** completed · **Source run:** `run-f3871ba0499954ffb124446529ff43a3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ph](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-25T11:50:54.445750+00:00
-- Commits: 0
+- Timing: 2026-11-25T11:50:54.445750+00:00 → 2026-11-25T13:28:30.181825+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8f88a52`](https://github.com/bobs-org/bob-cli/commit/8f88a52c1cfc59236d6ddc4bd36ee6f11de95afd) | feat(task-drawers): emit bold drawer headers from every writer | 2026-11-25 08:27:23 EST |
 
 ## Neighbors
 

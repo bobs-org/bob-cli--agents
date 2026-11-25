@@ -25,6 +25,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | plan | bob-cli | [`fd99ebb`](https://github.com/bobs-org/bob-cli/commit/fd99ebb85dcf0555cc48570397c419f4dd8f3167) | chore: add Bob host reader currency gate | 2026-11-23 18:51:04 EST |
+| — | bob-cli | [`5ab392a`](https://github.com/bobs-org/bob-cli/commit/5ab392a1ba087c6f87d8685035979498082079ed) | chore(dev): let bob-host-currency gate on a bold-drawer read probe | 2026-11-25 06:49:42 EST |
 
 ## Neighbors
 
@@ -34,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ph.10](../agents/bbugyi200.apollo.bob-cli-ph.10/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.11](../agents/bbugyi200.apollo.bob-cli-ph.11/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.2](bbugyi200.apollo.bob-cli-ph.2.md) (session · 7) | bob-cli-ph hood | active 1, completed 5, failed 1 |
-| [bob-cli-ph.4](../agents/bbugyi200.apollo.bob-cli-ph.4/README.md) | bob-cli-ph hood | active |
+| [bob-cli-ph.4](../agents/bbugyi200.apollo.bob-cli-ph.4/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.5](../agents/bbugyi200.apollo.bob-cli-ph.5/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.6](../agents/bbugyi200.apollo.bob-cli-ph.6/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.7](../agents/bbugyi200.apollo.bob-cli-ph.7/README.md) | bob-cli-ph hood | waiting |

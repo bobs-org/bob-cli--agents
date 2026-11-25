@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.66.linker
 
-**Global name:** `bbugyi200.apollo.research.66.linker` · **State:** waiting · **Source run:** `run-cdb856426d929604a1412ded6f688ca5`
+**Global name:** `bbugyi200.apollo.research.66.linker` · **State:** completed · **Source run:** `run-cdb856426d929604a1412ded6f688ca5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261125070735
+- Timing: 2026-11-25T13:19:14.772824+00:00 → 2026-11-25T13:27:21.053797+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/better\_o\_gesture\_settle/better\_o\_gesture\_settle.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125070735/better\_o\_gesture\_settle-34a95… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/better_o_gesture_settle/better_o_gesture_settle.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125070735/better_o_gesture_settle-34a95adc8e31.md
+  ref: file:explicit:e036b9fdcb6ca34b2b21d193
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202611/better_o_gesture_settle/better_o_gesture_settle.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
