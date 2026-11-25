@@ -27,8 +27,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-pw.8.1.1](bbugyi200.apollo.bob-cli-pw.8.1.1.md) (session · 4) | descendant | active 1, completed 2, failed 1 |
-| [bob-cli-pw.8.1.2](bbugyi200.apollo.bob-cli-pw.8.1.2.md) (session · 7) | descendant | active 1, completed 4, failed 2 |
+| [bob-cli-pw.8.1.1](bbugyi200.apollo.bob-cli-pw.8.1.1.md) (session · 6) | descendant | active 1, completed 3, failed 2 |
+| [bob-cli-pw.8.1.2](bbugyi200.apollo.bob-cli-pw.8.1.2.md) (session · 7) | descendant | completed 5, failed 2 |
 | [bob-cli-pw.8.1.3](../agents/bbugyi200.apollo.bob-cli-pw.8.1.3/README.md) | descendant | waiting |
 | [bob-cli-pw.8.1.land](../agents/bbugyi200.apollo.bob-cli-pw.8.1.land/README.md) | descendant | waiting |
 | [bob-cli-pw.1](bbugyi200.apollo.bob-cli-pw.1.md) (session · 7) | bob-cli-pw hood | completed 5, failed 2 |
