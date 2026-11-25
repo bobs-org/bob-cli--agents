@@ -66,7 +66,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q4.8](bbugyi200.athena.bob-cli-q4.8.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-q4.8.1.1](../agents/bbugyi200.athena.bob-cli-q4.8.1.1/README.md) | bob-cli-q4.8.1 hood | completed |
 | [bob-cli-q4.8.1.2](../agents/bbugyi200.athena.bob-cli-q4.8.1.2/README.md) | bob-cli-q4.8.1 hood | completed |
-| [bob-cli-q4.8.1.land](bbugyi200.athena.bob-cli-q4.8.1.land.md) (session · 3) | bob-cli-q4.8.1 hood | active 2, completed 1 |
+| [bob-cli-q4.8.1.land](bbugyi200.athena.bob-cli-q4.8.1.land.md) (session · 3) | bob-cli-q4.8.1 hood | completed 3 |
 | [bob-cli-q4.1](../agents/bbugyi200.athena.bob-cli-q4.1/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.10](../agents/bbugyi200.athena.bob-cli-q4.10/README.md) | bob-cli-q4 hood | waiting |
 | [bob-cli-q4.11](../agents/bbugyi200.athena.bob-cli-q4.11/README.md) | bob-cli-q4 hood | waiting |
