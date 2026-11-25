@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-ph
 
-**Global hood:** `bbugyi200.apollo.bob-cli-ph` · **Runs:** 81 · **Sessions:** 8 · **States:** active 5, completed 51, failed 17, waiting 8
+**Global hood:** `bbugyi200.apollo.bob-cli-ph` · **Runs:** 82 · **Sessions:** 8 · **States:** active 5, completed 52, failed 17, waiting 8
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -40,6 +40,7 @@
 | [bob-cli-ph.7.1.2--mon](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.7.1.2.md#member-mon) | completed | gpt-6-luna / codex | 2026-11-25T15:10:01.256918+00:00 → 2026-11-25T15:14:40.308563+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.7.1.2--mon/chat.md) |
 | [bob-cli-ph.1--8](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.1.md#member-8) | completed | gpt-6-luna / codex | 2026-11-23T15:14:57.120790+00:00 → 2026-11-23T15:18:43.178388+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.1--8/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.1--8/chat.md) |
 | [bob-cli-ph.7.1.land--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.7.1.land.md#member-code) | completed | gpt-6-luna / codex | 2026-11-25T18:18:28.188551+00:00 → 2026-11-25T18:51:06.889333+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--code/chat.md) |
+| [bob-cli-ph.7.1.land--mon-1](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.7.1.land.md#member-mon-1) | active | gpt-6-luna / codex | 2026-11-25T20:15:44.778235+00:00 | 0 | — |
 | [bob-cli-ph.2--code](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.2.md#member-code) | completed | grok-4.6 / grok | 2026-11-23T21:15:08.045717+00:00 → 2026-11-23T21:52:55.893378+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.2--code/chat.md) |
 | [bob-cli-ph.2--mon-0](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.2.md#member-mon-0) | active | gpt-6-luna / codex | 2026-11-23T18:19:44.098936+00:00 | 0 | — |
 | [bob-cli-ph.6--plan](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.6.md#member-plan) | active | gpt-6-astra / codex | 2026-11-25T13:29:15.025044+00:00 → 2026-11-25T13:39:57.223153+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.6--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.6--plan/chat.md) |
@@ -48,7 +49,7 @@
 | [bob-cli-ph.9](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.9/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261125060504 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.9/prompt.md) |
 | [bob-cli-ph.1--5](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.1.md#member-5) | completed | gpt-6-luna / codex | 2026-11-23T14:35:54.076545+00:00 → 2026-11-23T14:48:54.961753+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.1--5/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.1--5/chat.md) |
 | [bob-cli-ph.1--d](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.1.md#member-d) | completed | gpt-6-luna / codex | 2026-11-23T16:31:45.327029+00:00 → 2026-11-23T16:39:47.221716+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.1--d/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.1--d/chat.md) |
-| [bob-cli-ph.7.1.land--2](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.7.1.land.md#member-2) | active | gpt-6-luna / codex | 2026-11-25T19:14:19.511818+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--2/prompt.md) |
+| [bob-cli-ph.7.1.land--2](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.7.1.land.md#member-2) | completed | gpt-6-luna / codex | 2026-11-25T19:14:19.511818+00:00 → 2026-11-25T20:18:29.785153+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--2/chat.md) |
 | [bob-cli-ph.1--gate](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.1.md#member-gate) | completed | opus / claude | 2026-11-23T12:17:47.049569+00:00 → 2026-11-23T12:17:55.783760+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.1--gate/chat.md) |
 | [bob-cli-ph.2--1](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.2.md#member-1) | completed | grok-4.6 / grok | 2026-11-23T23:16:29.114134+00:00 → 2026-11-23T23:32:31.431572+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.2--1/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.2--1/chat.md) |
 | [bob-cli-ph.2--mon](../../../../../../sessions/bbugyi200.apollo.bob-cli-ph.2.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-23T18:02:59.843500+00:00 → 2026-11-23T18:13:06.843160+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-ph.2--mon/chat.md) |
