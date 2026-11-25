@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / bob-cli-q4.9.1.land
 
-**Global name:** `bbugyi200.athena.bob-cli-q4.9.1.land` · **State:** failed · **Source run:** `run-03833b2cd1b21e6503d30c683e8d73ea`
+**Global name:** `bbugyi200.athena.bob-cli-q4.9.1.land` · **State:** active · **Source run:** `run-dd30c1029a3ed97005c829f860452e22`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q4
 
 ## Summary
 
 - Bead: [bob-cli-q4.9.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.9.1.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 20261125144849 → 2026-11-25T22:10:33.240098+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-25T22:22:21.169924+00:00
 - Commits: 0
 
 ## Files
@@ -32,7 +32,7 @@
 | [bob-cli-q4.10.1.1](../bbugyi200.athena.bob-cli-q4.10.1.1/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.10.1.2](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.2.md) (session · 7) | bob-cli-q4 hood | completed 5, failed 2 |
 | [bob-cli-q4.10.1.3](../bbugyi200.athena.bob-cli-q4.10.1.3/README.md) | bob-cli-q4 hood | completed |
-| [bob-cli-q4.10.1.4](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.4.md) (session · 3) | bob-cli-q4 hood | active 1, completed 1, failed 1 |
+| [bob-cli-q4.10.1.4](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.4.md) (session · 4) | bob-cli-q4 hood | active 1, completed 2, failed 1 |
 | [bob-cli-q4.10.1.5](../bbugyi200.athena.bob-cli-q4.10.1.5/README.md) | bob-cli-q4 hood | waiting |
 | [bob-cli-q4.10.1.6](../bbugyi200.athena.bob-cli-q4.10.1.6/README.md) | bob-cli-q4 hood | waiting |
 | [bob-cli-q4.10.1.land](../bbugyi200.athena.bob-cli-q4.10.1.land/README.md) | bob-cli-q4 hood | waiting |
