@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6f.grk
 
-**Global name:** `bbugyi200.apollo.research.6f.grk` · **State:** active · **Source run:** `run-7ba02527266a96c81faef0544d6b4156`
+**Global name:** `bbugyi200.apollo.research.6f.grk` · **State:** completed · **Source run:** `run-7ba02527266a96c81faef0544d6b4156`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-25T21:18:38.736564+00:00
+- Timing: 2026-11-25T21:18:38.736564+00:00 → 2026-11-25T21:43:11.035883+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/unlabelled\_relation\_xor\_dependency/unlabelled\_relation\_xor\_dependency\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125161648/un… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/unlabelled_relation_xor_dependency/unlabelled_relation_xor_dependency__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125161648/unlabelled_relation_xor_dependency__grk-9ce83ff93051.md
+  ref: file:explicit:6c6f324ebc2614e7fe49bc25
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_18/sase/repos/research/202611/unlabelled_relation_xor_dependency/unlabelled_relation_xor_dependency__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
