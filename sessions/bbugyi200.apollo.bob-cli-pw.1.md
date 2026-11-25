@@ -41,6 +41,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|
 | plan | bob-cli | [`dbf405e`](https://github.com/bobs-org/bob-cli/commit/dbf405e397b7081c5c5531590608637346e49dfc) | feat(meetings): add notes normalization and rendering | 2026-11-24 11:11:34 EST |
 | 3 | bob-cli | [`b832e58`](https://github.com/bobs-org/bob-cli/commit/b832e58df449d9d422a488f1d8f3bf0828a93487) | feat(meetings): add read-only meeting resolver and agenda wiring | 2026-11-24 12:52:20 EST |
+| — | bob-cli | [`e5169b8`](https://github.com/bobs-org/bob-cli/commit/e5169b814083d717ab3df15f4adf6ec61a446d01) | fix(meetings): satisfy strict lint checks | 2026-11-24 13:13:31 EST |
 
 ## Neighbors
 
@@ -63,4 +64,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-pw.8.1.2](bbugyi200.apollo.bob-cli-pw.8.1.2.md) (session · 7) | bob-cli-pw hood | completed 5, failed 2 |
 | [bob-cli-pw.8.1.3](bbugyi200.apollo.bob-cli-pw.8.1.3.md) (session · 3) | bob-cli-pw hood | completed 2, failed 1 |
 | [bob-cli-pw.8.1.land](bbugyi200.apollo.bob-cli-pw.8.1.land.md) (session · 9) | bob-cli-pw hood | completed 7, failed 2 |
-| [bob-cli-pw.land](../agents/bbugyi200.apollo.bob-cli-pw.land/README.md) | bob-cli-pw hood | waiting |
+| [bob-cli-pw.land](bbugyi200.apollo.bob-cli-pw.land.md) (session · 3) | bob-cli-pw hood | active 2, completed 1 |
