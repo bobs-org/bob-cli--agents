@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6d8d588`](https://github.com/bobs-org/bob-cli/commit/6d8d58867a48c99471b2c3463c3d0f4252657c60) | docs(tasks): scope requirement close staleness to owner blocks | 2026-11-23 13:52:18 EST |
+| — | `6d8d588` | docs(tasks): scope requirement close staleness to owner blocks | 2026-11-23 13:52:18 EST |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `1fn` · Members: 6
 ```mermaid
 flowchart TD
   n0["1fn--mon [failed]"]
-  n1["1fn--mon-0 [active]"]
+  n1["1fn--mon-0 [failed]"]
   n0 --> n1
   n2["1fn--plan [completed]"]
   n0 --> n2
@@ -26,7 +26,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | 1fn--mon | failed | gpt-6-luna / codex | 2026-11-23T18:50:54.913219+00:00 → 2026-11-23T18:54:37.866003+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.1fn--mon/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | 1fn--mon-0 | active | gpt-6-luna / codex | 2026-11-23T19:00:35.787337+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | 1fn--mon-0 | failed | gpt-6-luna / codex | 2026-11-23T19:00:35.787337+00:00 → 2026-11-23T19:04:06.038315+00:00 | 0 | — | — |
 | <a id="member-plan"></a>plan | 1fn--plan | completed | opus / claude | 2026-11-23T18:17:34.280701+00:00 → 2026-11-23T18:27:51.224849+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1fn--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.1fn--plan/chat.md) |
 | <a id="member-code"></a>code | 1fn--code | completed | gpt-6-luna / codex | 2026-11-23T18:29:55.104576+00:00 → 2026-11-23T18:52:44.001340+00:00 | [1](../agents/bbugyi200.athena.1fn--code/README.md#commits) | [Prompt](../agents/bbugyi200.athena.1fn--code/prompt.md) | [Chat](../agents/bbugyi200.athena.1fn--code/chat.md) |
 | <a id="member-gate"></a>gate | 1fn--gate | completed | opus / claude | 2026-11-23T18:28:58.448326+00:00 → 2026-11-23T18:29:33.841696+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.1fn--gate/chat.md) |
@@ -36,4 +36,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`6d8d588`](https://github.com/bobs-org/bob-cli/commit/6d8d58867a48c99471b2c3463c3d0f4252657c60) | docs(tasks): scope requirement close staleness to owner blocks | 2026-11-23 13:52:18 EST |
+| code | — | `6d8d588` | docs(tasks): scope requirement close staleness to owner blocks | 2026-11-23 13:52:18 EST |
