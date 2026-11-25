@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.1.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.1.1.2` · **State:** active · **Source run:** `run-a811c8b6cab3c0d89384474c31b29c1b`
+**Global name:** `bbugyi200.athena.bob-cli-q5.1.1.2` · **State:** completed · **Source run:** `run-a811c8b6cab3c0d89384474c31b29c1b`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q5.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.1.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261125103830
-- Commits: 0
+- Timing: 2026-11-25T17:17:00.421238+00:00 → 2026-11-25T18:39:34.677888+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`e6eb52a`](https://github.com/bobs-org/bob-cli/commit/e6eb52a103656add99a1a49f2f0b3d791536abc4) | feat(snooze): add pure add, drop, and never-running wake planners | 2026-11-25 13:38:56 EST |
 
 ## Neighbors
 
