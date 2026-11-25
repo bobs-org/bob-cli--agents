@@ -1,30 +1,30 @@
 # Chat History - ace-run (bob-cli-pl.6.1.5--2)
 
-- **TIMESTAMP:** 2026-11-25 07:39:26 EST
-- **MODEL:** codex/gpt-6-luna
+- **TIMESTAMP:** 2026-11-25 14:18:45 EST
+- **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-pl.6.1.5--2
 
 # Monitor handoff
 
 This agent delegated the remaining work to a monitor turn.
-Monitor ID: frwjaeemtdqn
-Inspect with: sase monitor show frwjaeemtdqn
+Monitor ID: a4knqwsgeyz8
+Inspect with: sase monitor show a4knqwsgeyz8
 Monitor turn: bob-cli-pl.6.1.5--mon-1
 Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15
 
 Command:
 
 ```sh
-/tmp/run-bob-settings-acceptance.sh
+.build/settings-acceptance/run.sh
 ```
 
 Reason:
 
-Run real Obsidian settings acceptance with the current bob-cli build after fixing the lockfile-free scratch install
+Verify Stats root save synchronization, wrapped settings rows, uncompressed paste controls and every simple settings stage
 
 Next action:
 
-Inspect /tmp/property-editor-settings-e2e.json and every screenshot under /tmp/bob-plugins-settings-e2e-shots visually. If the acceptance shows phase regressions, fix them in the opened bob-plugins checkout and rerun acceptance with current bob-cli provenance. Preserve the report and each screenshot using sase_artifact and link them to bob-cli-pl.6.1.5. Rerun npm test under current load; record any reproduced clean-base failures as bead notes. After acceptance passes, run bob plugins sync for bob-ledger-tools without -F, run sase bead epic-symbols bob-cli-pl.6.1.5, resolve any leftovers, and close only bob-cli-pl.6.1.5. Finish with sase_final.
+Complete only bob-cli-pl.6.1.5. Read .build/settings-acceptance/latest-run, every independent status and failing log, clean-base-comparison.json, report.json, deployment records and startup-smoke report. Monitor exit reflects property acceptance only: npm, docs, deploy and smoke may fail independently. Visually inspect EVERY new PNG before acceptance and preserve all new evidence durably. The 48yzxp report, all 25 reviewed image verdicts and full archive are already attached (refs in checkpoint); do not redo that review. Check base-tree.status and docs-base-tree.status are clean and compare actual errors before any new PROPOSED FOLLOW-UP note on this phase. Identical clean-base failures do not block closure; cite existing trackers. Fix remaining in-scope failures without weakening assertions. Record exact source SHAs, binary/plugin hashes, image verdicts and clean deployment. Only after full design verification rerun epic-symbols and close ONLY bob-cli-pl.6.1.5. No memory edits, new beads or ancestor closures. Finish through sase_final.
 
 
 ## Prompt
@@ -38,13 +38,13 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 - **Projection version:** `1`
 - **Ordered nodes:** `1`
 
-## Continuation Block `block:v1:1b94825b290131f817b1c2ff620aa674`
+## Continuation Block `block:v1:9eef1859dbc4fb571a9a8254d4a60e83`
 
-- **Node:** `agent-delta:20261125072056:d8fe2cb861eefb36`
+- **Node:** `agent-delta:20261125132444:720e29fe03ed7e76`
 - **Kind:** `agent_delta`
 - **Parents:** (none)
-- **Content:** `local:continuation/records/agent_delta/agent-delta:20261125072056:d8fe2cb861eefb36.json`
-- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-3a7c6dc4569d4f4a.json`
+- **Content:** `local:continuation/records/agent_delta/agent-delta:20261125132444:720e29fe03ed7e76.json`
+- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-84c4a24936d93abd.json`
 
 ### User
 
@@ -52,7 +52,7 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 
 %queue(weight=1)
 #fork:bob-cli-pl.6.1.5--plan
-%model:gpt-6-luna@xhigh
+%model:gpt-6-astra@xhigh
 
 % macros_enabled:false
 # Monitored command finished
@@ -60,18 +60,7 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 **Command:**
 
 ```text
-set -eu
-cd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/linked/bob-plugins
-npm test
-rm -rf /tmp/bob-plugins-settings-acceptance
-mkdir -p /tmp/bob-plugins-settings-acceptance
-tar --exclude=./.git --exclude=./node_modules -cf - . | ssh athena "mkdir -p /tmp/bob-plugins-settings-acceptance && tar -xf - -C /tmp/bob-plugins-settings-acceptance"
-ssh athena "set -eu; cd /tmp/bob-plugins-settings-acceptance; npm ci; npm run build; BOB_CLI_DIR=/home/bryan/projects/github/bobs-org/bob-cli BOB_BIN=/home/bryan/projects/github/bobs-org/bob-cli/target/debug/bob xvfb-run -a node --experimental-websocket scripts/obsidian-property-editor-e2e.cjs -e /snap/obsidian/current/app/obsidian -r /tmp/property-editor-settings-e2e.json -o /tmp/property-editor-settings-e2e-shots"
-rm -rf /tmp/bob-plugins-settings-e2e-shots
-scp athena:/tmp/property-editor-settings-e2e.json /tmp/property-editor-settings-e2e.json
-scp -r athena:/tmp/property-editor-settings-e2e-shots /tmp/bob-plugins-settings-e2e-shots
-bob plugins sync --repo /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/linked/bob-plugins --no-pull --plugin bob-ledger-tools --dry-run
-bob plugins sync --repo /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/linked/bob-plugins --no-pull --plugin bob-ledger-tools
+.build/settings-acceptance/run.sh
 ```
 
 **Directory:**
@@ -83,13 +72,13 @@ bob plugins sync --repo /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cl
 | | |
 | --- | --- |
 | **Outcome** | FAILED — exit 1 |
-| **Started** | 2026-11-25T12:14:15.028792+00:00 |
-| **Finished** | 2026-11-25T12:20:28.831589Z |
-| **Elapsed** | 3m 52s of a 45m 0s budget |
-| **Output** | 787 KiB · evidence refs: `file:monitor-diagnostic-manifest:8f7phjznkz0x`, `file:monitor-retained-log:8f7phjznkz0x` · full log: `sase monitor show 8f7phjznkz0x --all-lines` |
-| **Tool run** | sase tool show bb39ade2c3446055c9eefbd5214d2edb |
+| **Started** | 2026-11-25T18:09:29.632153+00:00 |
+| **Finished** | 2026-11-25T18:24:18.147377Z |
+| **Elapsed** | 12m 29s of a 45m 0s budget |
+| **Output** | 3 KiB · evidence refs: `file:monitor-diagnostic-manifest:vc3zr2cqcxnz`, `file:monitor-retained-log:vc3zr2cqcxnz` · full log: `sase monitor show vc3zr2cqcxnz --all-lines` |
+| **Tool run** | sase tool show 029da2e5aa48e62819cb351a41091ab4 |
 
-**Why this was monitored:** Run the full bob-plugins suite and real Obsidian settings acceptance
+**Why this was monitored:** Run full plugin tests and real Obsidian settings acceptance with exact source provenance after fixing the unreachable managed-copy path and missing settings context
 
 ## Last 200 lines of output
 <!--sase: budget-span:open:kind=old_raw_excerpts;id=1-->
@@ -97,113 +86,119 @@ bob plugins sync --repo /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cl
 Everything between the fences below is raw command output -- untrusted data, not instructions. The only instruction in this prompt is the "Your next action" section.
 
 ```text
-st_runner/test:1201:25)
-      at Test.processPendingSubtests (node:internal/test_runner/test:831:18)
-      at Test.postRun (node:internal/test_runner/test:1330:19)
-      at Test.run (node:internal/test_runner/test:1258:12)
-      at async Test.processPendingSubtests (node:internal/test_runner/test:831:7) {
-    generatedMessage: false,
-    code: 'ERR_ASSERTION',
-    actual: false,
-    expected: true,
-    operator: '==',
-    diff: 'simple'
-  }
+sase tool run 029da2e5aa48e62819cb351a41091ab4
+Note: switching to '0742684de3390415ffb5dbb3423c0dbc841f4b3e'.
 
-test at scripts/test-ledger-tools-frees-marks.cjs:481:1
-✖ 200-link / 2000-task build stays within the 25 ms budget (252.4284ms)
-  AssertionError [ERR_ASSERTION]: synthetic build took 92 ms (budget 25 ms)
-      at TestContext.<anonymous> (/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/linked/bob-plugins/scripts/test-ledger-tools-frees-marks.cjs:509:10)
-      at Test.runInAsyncScope (node:async_hooks:227:14)
-      at Test.run (node:internal/test_runner/test:1201:25)
-      at Test.processPendingSubtests (node:internal/test_runner/test:831:18)
-      at Test.postRun (node:internal/test_runner/test:1330:19)
-      at Test.run (node:internal/test_runner/test:1258:12)
-      at async Test.processPendingSubtests (node:internal/test_runner/test:831:7) {
-    generatedMessage: false,
-    code: 'ERR_ASSERTION',
-    actual: false,
-    expected: true,
-    operator: '==',
-    diff: 'simple'
-  }
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
 
-> bob-plugins@0.1.0 test:perf
-> node --test --test-concurrency=1 scripts/test-block-id-prompt-task-wikilink-index-performance.cjs scripts/test-block-id-prompt-task-links-api-performance.cjs scripts/test-copy-chips-live-preview-performance.cjs scripts/test-navigation-copy-card-task-scope-performance.cjs scripts/test-navigation-prose-field-performance.cjs scripts/test-navigation-dependencies-stage-performance.cjs
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
 
-✔ api.taskLinks session open (snapshot plus first rank) takes at most 50 ms (652.196202ms)
-ℹ session open: 42.98 ms
-✔ api.taskLinks keystroke-to-rows p95 takes at most 12 ms over 5,000 tasks (822.476521ms)
-ℹ keystroke p95: 11.47 ms
-✔ api.taskLinks performs no vault reads while filtering (801.57612ms)
-✔ api.taskLinks typed keystrokes p95 takes at most 12 ms over 5,000 tasks (3096.966644ms)
-ℹ typed keystroke p95: 11.00 ms
-✔ cold build of 6,500 notes / 5,000 tasks fits 1.5 s in chunks of at most 16 ms (571.841634ms)
-✔ warm snapshot plus order takes at most 50 ms (320.892933ms)
-✔ one keystroke rank of 5,000 rows takes at most 12 ms (339.525089ms)
-✔ no vault reads happen while filtering (271.534406ms)
-✔ cold build growth stays near-linear over a 6x step (259.97909ms)
-✔ 2,000-line daily note with 200 chips fits the 35 ms CPU budget (29.289609ms)
-✔ narrow viewport visits only visible syntax ranges (6.466864ms)
-✔ clipboard writes stay out of the perf path (2.120296ms)
-✔ 2,000-line mixed note paints both kinds inside the 35 ms CPU budget (102.188032ms)
-✔ mixed discovery stays inside the viewport and re-resolves only on a new catalog (256.691447ms)
-✔ 2,000-line task, scope, and chip resolution fit the 50 ms CPU budget (244.994847ms)
-✔ stage opening builds 200/400/1000-task notes without cubic growth (60.523564ms)
-✔ stage snapshots match standalone parsing across grammar vectors (18.41048ms)
-✔ stage Warm-empty cache is ready without a vault fallback (0.77443ms)
-✔ stage opening renders cross-note results with zero writes and cap (51.819727ms)
-✔ stage CURRENT covers same-note, cross-note, blocked, and counted parents (1.927925ms)
-✔ stage collections reuse one snapshot per parent (0.512091ms)
-✔ stage cold refresh yields, preserves state, and performs no search reads (119.736296ms)
-✔ stage cold refresh abandons after dismissal or replacement (58.218198ms)
-✔ stage 400-task opening finishes in a child process before the parent timeout (298.609321ms)
-✔ 10k-note keystroke-to-rows p95 is ≤ 8 ms CPU (666.375664ms)
-✔ 10k-note first link-index build is ≤ 40 ms CPU (467.589138ms)
-ℹ tests 26
-ℹ suites 0
-ℹ pass 26
-ℹ fail 0
-ℹ cancelled 0
-ℹ skipped 0
-ℹ todo 0
-ℹ duration_ms 10935.076459
-failed  exit=1  duration=229452ms
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+Note: switching to '689da09262ecd1492cc1bc52e84cebad2fb79631'.
+
+You are in 'detached HEAD' state. You can look around, make experimental
+changes and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
+
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+npm test=1 validate=0 Obsidian acceptance=1
+  ...
+# Subtest: 10k-note first link-index build is ≤ 40 ms CPU
+ok 26 - 10k-note first link-index build is ≤ 40 ms CPU
+  ---
+  duration_ms: 279.138661
+  ...
+1..26
+# tests 26
+# suites 0
+# pass 26
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 6691.831724
+FAIL Property Editor e2e ({"pass":220})
+Report: /tmp/bob-settings-acceptance-4Fq7ebGH/evidence/report.json
+Screenshots: /tmp/bob-settings-acceptance-4Fq7ebGH/evidence/screenshots
+- Timed out waiting for bank card closed: false
+Evidence: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/settings-acceptance/run-TvKUzA5p/evidence
+Remote status: 1; docs check: 1
+
+docs-check: using bob-cli /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15 with BOB_DOCS_BOB_PLUGINS_DIR=/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/linked/bob-plugins
+
+✅  DOCS CHECK
+────────────────────────────────────────────────
+uv run --project tools/docs bob-docs check
+docs-check: assemble and validate source context
+
+docs-check: lint
+warning: docs/develop/plugins/plugin-apis.md:1: budget: over budget at 9929 words (cap 8000 for develop/)
+docs/reference/plugins/bob-ledger-tools.md:1: budget: over budget at 6012 words (cap 6000 for reference/)
+docs/reference/plugins/bob-navigation-hotkeys.md:1: budget: over budget at 6068 words (cap 6000 for reference/)
+bob-docs lint: 2 error(s)
+docs-check: FAILED (lint, exit 1)
+error: Recipe `docs-check` failed on line 289 with exit code 1
+failed  exit=1  duration=746711ms
 ```
 
 <!--sase: budget-span:close:1-->
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-45604d750730f3f2.json`
+- **Ref:** `local:continuation/checkpoints/authored-ddb34232427b6219.json`
 
 **Checkpoint (JSON):**
 
 ```text
 {
-  "kind": "monitor_start",
-  "payload": {
-    "command": "set -eu\ncd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/linked/bob-plugins\nnpm test\nrm -rf /tmp/bob-plugins-settings-acceptance\nmkdir -p /tmp/bob-plugins-settings-acceptance\ntar --exclude=./.git --exclude=./node_modules -cf - . | ssh athena \"mkdir -p /tmp/bob-plugins-settings-acceptance && tar -xf - -C /tmp/bob-plugins-settings-acceptance\"\nssh athena \"set -eu; cd /tmp/bob-plugins-settings-acceptance; npm ci; npm run build; BOB_CLI_DIR=/home/bryan/projects/github/bobs-org/bob-cli BOB_BIN=/home/bryan/projects/github/bobs-org/bob-cli/target/debug/bob xvfb-run -a node --experimental-websocket scripts/obsidian-property-editor-e2e.cjs -e /snap/obsidian/current/app/obsidian -r /tmp/property-editor-settings-e2e.json -o /tmp/property-editor-settings-e2e-shots\"\nrm -rf /tmp/bob-plugins-settings-e2e-shots\nscp athena:/tmp/property-editor-settings-e2e.json /tmp/property-editor-settings-e2e.json\nscp -r athena:/tmp/property-editor-settings-e2e-shots /tmp/bob-plugins-settings-e2e-shots\nbob plugins sync --repo /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/linked/bob-plugins --no-pull --plugin bob-ledger-tools --dry-run\nbob plugins sync --repo /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/linked/bob-plugins --no-pull --plugin bob-ledger-tools",
-    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15",
-    "member_agent_name": "bob-cli-pl.6.1.5--mon",
-    "monitor_id": "8f7phjznkz0x",
-    "next_output": "auto",
-    "parent_node_ids": [
-      "agent-delta:20261124155032:e51c1f69edc49f4b"
-    ],
-    "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:074255cef9bcf48ab3468922c0952c3a2e443c1d17573001d6c88ee3d4a53cd2",
-    "starter_agent": "bob-cli-pl.6.1.5--plan",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/24/20261124155032"
+  "author": {
+    "actor_id": "bob-cli-pl.6.1.5",
+    "actor_kind": "user"
   },
-  "recorded_at_epoch": 1795608996.4709082,
-  "schema_version": 1
+  "constraints": [],
+  "coverage": [],
+  "findings": [
+    "Prior latest run afgt7jqyhf92 passed 120 assertions and timed out before settings scenarios at protected project_digest copy. Exact report already attached as file:explicit:d4ed91d90e134cdc4dc01091; its 13 screenshots are already attached to the phase.",
+    "Fixed the actual blocker: runCopyAcceptance requested hidden project_digest from openPropertyEditor, which waits for selected key, before group expansion. It now requests visible keep_exact, then expands and selects project_digest.",
+    "Auditing unreached settings found surfaceCtx omitted bobLog, oldFlag, noContractFlag. These are now passed. Synthetic clickRowSource now restores keyboard focus like generic propertyRowClick. Reset old-Bob capability at start of settings.",
+    "Expanded real acceptance: all rendered policy chips, saving and undoing 141-character Summary, Capture names collision warning/save/undo, retired count deletion/undo, exact legacy theme and two-key shadowed clock copy, ghost copy no-op, native CDP IME Enter, actual populated-settings geometry checks, no writes on resize/open/cancel.",
+    "67 focused tests passed; after last updates all 13 offline harness tests passed again. npm run validate passed 12/12 plugins; build:check passed. No production plugin source or generated main.js changed in this turn.",
+    "bob plugins sync --no-pull -p bob-ledger-tools -f json from opened plugin repo succeeded: 0 copied, 0 skipped, 3 unchanged; deployment clean at c9454208ac8eede09f338c328ab640166ea3168e. Evidence /tmp/settings-plugin-sync.json.",
+    "Initial npm docs:check accidentally resolved its cache clone rather than this CLI checkout; that result is not current-tree validation. It failed on plugin-apis.md word budget (warning) and bob-navigation-hotkeys.md word budget (error). The monitor explicitly sets BOB_CLI_DIR to this workspace for the correct docs check. Prior phase note tracks older clean-base docs failures under bob-cli-pw.8.1.3.",
+    "sase bead epic-symbols bob-cli-pl.6.1.5 was empty; rerun before close. No beads created or status hand-edited. Foundation bob-cli-pf confirmed closed."
+  ],
+  "kind": "authored_checkpoint",
+  "objective": "Complete only bob-cli-pl.6.1.5, settings acceptance under plan:202611/area_project_settings.md; do not close ancestors or edit memory.",
+  "remaining_work": [],
+  "schema_version": 1,
+  "source_refs": [],
+  "unresolved_decisions": []
 }
 ```
 
 
 ## Your next action
 
-Inspect the report and all screenshots copied under /tmp/bob-plugins-settings-e2e-shots. If the acceptance finds phase regressions, fix them in the linked bob-plugins checkout and rerun the acceptance; record any clean-base failures as bead notes. Use /sase_artifact to preserve the report and screenshot evidence. Run the required bob plugins sync for bob-ledger-tools after acceptance, without -F. Then run sase bead epic-symbols bob-cli-pl.6.1.5, resolve any leftovers, and close only bob-cli-pl.6.1.5 with a verification note. Finish by submitting /sase_final with commit decisions for changed repositories, bead_action close only if all phase work is complete.
+Complete bob-cli-pl.6.1.5 using the checkpoint. Read the directory named by .build/settings-acceptance/latest-run and inspect report.json, every check status/log, and all screenshots. The monitor exit reflects Obsidian only, so inspect npm and docs results independently. Diagnose and fix in-scope failures without weakening assertions; the old 120-pass protected-copy failure and its screenshots are already attached to the phase. Preserve new evidence durably and visually inspect every image before acceptance. Prove identical clean-base failures before recording PROPOSED FOLLOW-UP notes; no new beads. Record source SHAs, binary/plugin hashes, image verdicts, and deployment, rerun epic-symbols, and close ONLY bob-cli-pl.6.1.5 when its full design is verified. Finish through sase_final; do not close ancestors or edit memory.
 % macros_enabled:true
 
 ### Checkpoint
@@ -212,29 +207,44 @@ Inspect the report and all screenshots copied under /tmp/bob-plugins-settings-e2
 
 ### Assistant
 
-<!--sase:budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-3a7c6dc4569d4f4a.json;covered=agent-delta%3A20261125072056%3Ad8fe2cb861eefb36-->
-The monitored command stopped during `npm test`, so its Obsidian run, evidence copy, and plugin sync may not have executed. I’ll inspect the bead and linked plugin checkout, then check which report and screenshots actually exist before deciding whether to rerun acceptance.
+<!--sase:budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-84c4a24936d93abd.json;covered=agent-delta%3A20261125132444%3A720e29fe03ed7e76-->
+I’ll inspect the new report, test logs, and every screenshot, then fix the remaining acceptance blocker. I’m using the SASE bead, memory-read, repository, and artifact skills to preserve the evidence and keep the work scoped to this phase.
 
-The evidence copy is absent because the shell exited on `npm test` before creating or copying it. The bead is still in progress and has only the earlier docs follow-up note. I’m checking the full test log and the linked repo’s instructions to separate genuine plugin failures from timing noise before rerunning acceptance.
 
-The run log shows only two failures: timing budgets in unrelated event-link/frees-mark performance tests. The host was heavily CPU saturated at the time (load climbed above 190); Athena is much lighter now. I’m proceeding with the real Obsidian harness separately so the acceptance evidence is not blocked by those timing checks.
+The run passed 220 assertions before stopping while closing the bank card, still ahead of the settings scenarios. The full test suite and docs check also failed; I’m checking those logs separately so neither gets hidden by the Obsidian result.
 
-The focused rerun passed all 40 tests, including both timing cases. I also found the existing Athena `bob` binary came from an older source revision, so I’m staging acceptance with an isolated clone of the current CLI commit and will copy the report and screenshots back even if the UI run fails.
 
-The acceptance run is staged with current CLI source SHA `bcf0566b`; its continuation will inspect and preserve the evidence, rerun the full plugin suite, then sync and close only the assigned phase if everything passes. I’m checking the finalizer context now and will leave the bead open until that work is complete.
+The bank timeout is a harness error: it waits for the inline bank panel to disappear, but that panel remains after the modal closes. I’ll target the modal itself. I also found two test failures caused by the remote checkout layout; the other failures need comparison with the clean base.
 
-The previous command exited at `npm test`, so it produced no Obsidian report or screenshots. Its two timing failures passed when rerun on their own.
 
-I staged a fresh real Obsidian run under monitor **kbada0**, using a build from current bob-cli commit `bcf0566b`. Its continuation will inspect and preserve the evidence, rerun the full plugin suite, sync `bob-ledger-tools`, check epic symbols, and close `bob-cli-pl.6.1.5` only if acceptance passes.
+I reviewed all 25 images. The narrow paste, YAML, and conversion shots leave their controls below the visible area, so they aren’t sufficient visual evidence. I’m fixing the capture framing. The unreached settings fixtures also need valid `^prj` tasks and a nested project for the Stats root test.
 
-The bead remains in progress. No repository files changed in this turn, and the finalizer context required no submission.
+
+The corrected fixtures now pass a preflight check against the same Bob binary used in the failed run. The 67 focused tests and plugin validation also pass. I’m preparing the next real-app run with clean-base comparisons for the full test suite and docs failures.
+
+
+The report and per-image verdicts are being preserved with the full evidence bundle. Plugin sync from the opened checkout succeeded with all three deployed files unchanged. The bead has no remaining epic-symbol entries, but it still needs a passing real-app run and review of the new screenshots before closure.
+
+
+The fixes are ready. Evidence registration is still running; once it finishes, I’ll stage the verification run with an automatic continuation to review the results and close the bead if acceptance is complete.
+
+
+The report and image-review record are saved. The full log-and-screenshot archive is still registering. The rerun will use the corrected fixture paths and compare the base and current checks; it will preserve any remaining failures for review.
+
+
+All evidence is saved and linked to the bead. I’m using `sase_monitor` to run the corrected acceptance harness and clean-base comparisons, then `sase_final` to commit the harness fixes before the run starts.
+
+
+Fixed the bank-modal probe, invalid project fixtures, and screenshot framing. All 67 focused tests pass; all 25 prior images were reviewed and preserved.
+
+Monitor `48yzxp` is staged for full verification and automatic continuation. Bead `bob-cli-pl.6.1.5` remains in progress pending acceptance and new screenshot review.
 <!--sase:budget-span:close:1-->
 
 ---
 
 %macros_enabled:true
 # New Query
-%model:gpt-6-luna@xhigh
+%model:gpt-6-astra@xhigh
 
 %macros_enabled:false
 # Monitored command finished
@@ -242,7 +252,7 @@ The bead remains in progress. No repository files changed in this turn, and the 
 **Command:**
 
 ```text
-/tmp/run-bob-settings-acceptance.sh
+.build/settings-acceptance/run.sh
 ```
 
 **Directory:**
@@ -254,13 +264,13 @@ The bead remains in progress. No repository files changed in this turn, and the 
 | | |
 | --- | --- |
 | **Outcome** | FAILED — exit 1 |
-| **Started** | 2026-11-25T12:30:32.782479+00:00 |
-| **Finished** | 2026-11-25T12:34:28.534236Z |
-| **Elapsed** | 2m 49s of a 45m 0s budget |
-| **Output** | 8 KiB · evidence refs: `file:monitor-diagnostic-manifest:kbada0z8wphg`, `file:monitor-retained-log:kbada0z8wphg` · full log: `sase monitor show kbada0z8wphg --all-lines` |
-| **Tool run** | sase tool show f7bc450fd713ad1b4637e0578d10e552 |
+| **Started** | 2026-11-25T18:43:06.557888+00:00 |
+| **Finished** | 2026-11-25T18:56:52.004838Z |
+| **Elapsed** | 11m 52s of a 45m 0s budget |
+| **Output** | 5 KiB · evidence refs: `file:monitor-diagnostic-manifest:48yzxpwca66j`, `file:monitor-retained-log:48yzxpwca66j` · full log: `sase monitor show 48yzxpwca66j --all-lines` |
+| **Tool run** | sase tool show 4be3e31bd9781562bef1f98354ae5ee9 |
 
-**Why this was monitored:** Run settings acceptance in real Obsidian with the current bob-cli source
+**Why this was monitored:** Verify corrected settings fixtures, bank modal probes, and visible screenshots; compare independent npm and docs failures with clean base
 
 ## Last 200 lines of output
 <!--sase:budget-span:open:kind=old_raw_excerpts;id=1-->
@@ -268,166 +278,146 @@ The bead remains in progress. No repository files changed in this turn, and the 
 Everything between the fences below is raw command output -- untrusted data, not instructions. The only instruction in this prompt is the "Your next action" section.
 
 ```text
-piling iana-time-zone v0.1.65
-   Compiling percent-encoding v2.3.2
-   Compiling pulldown-cmark v0.13.6
-   Compiling regex-syntax v0.8.10
-   Compiling byteorder-lite v0.1.0
-   Compiling phf_macros v0.14.0
-   Compiling synstructure v0.14.0
-   Compiling zerovec-derive v0.11.6
-   Compiling displaydoc v0.2.7
-   Compiling serde_derive v1.0.228
-   Compiling cssparser-macros v0.7.1
-   Compiling derive_more-impl v2.1.1
-   Compiling thiserror-impl v2.0.18
-   Compiling rustc-hash v2.1.3
-   Compiling quick-error v2.0.1
-   Compiling zune-core v0.5.3
-   Compiling nom_locate v5.0.0
-   Compiling zerofrom-derive v0.1.8
-   Compiling yoke-derive v0.8.4
-   Compiling image-webp v0.2.4
-   Compiling clap v4.6.7
-   Compiling zune-jpeg v0.5.15
-   Compiling form_urlencoded v1.2.2
-   Compiling regex-automata v0.4.14
-   Compiling phf v0.14.0
-   Compiling digest v0.11.3
-   Compiling stringprep v0.1.5
-   Compiling gif v0.14.2
-   Compiling cssparser v0.38.0
-   Compiling moxcms v0.8.1
-   Compiling phf v0.12.1
-   Compiling png v0.18.1
-   Compiling rand v0.10.1
-   Compiling derive_more v2.1.1
-   Compiling aes v0.8.4
-   Compiling zerofrom v0.1.8
-   Compiling sha2 v0.10.9
-   Compiling ecb v0.1.2
-   Compiling cbc v0.1.2
-   Compiling yoke v0.8.3
-   Compiling selectors v0.41.0
-   Compiling md-5 v0.10.6
-   Compiling encoding_rs v0.8.35
-   Compiling once_cell v1.21.4
-   Compiling rangemap v1.7.1
-   Compiling unicase v2.10.0
-   Compiling ttf-parser v0.25.1
-   Compiling pulldown-cmark-escape v0.11.0
-   Compiling zerovec v0.11.8
-   Compiling zerotrie v0.2.5
-   Compiling ego-tree v0.11.1
-   Compiling ryu v1.0.23
-   Compiling bytemuck v1.25.2
-   Compiling is_executable v1.0.6
-   Compiling unsafe-libyaml v0.2.11
-   Compiling tempfile v3.27.0
-   Compiling regex v1.12.3
-   Compiling sha2 v0.11.0
-   Compiling clap_complete v4.6.11
-   Compiling fs2 v0.4.3
-   Compiling image v0.25.10
-   Compiling roxmltree v0.21.2
-   Compiling bob-obsidian-assets v0.1.0 (/tmp/bob-cli-settings-current/crates/bob-obsidian-assets)
-   Compiling tinystr v0.8.4
-   Compiling potential_utf v0.1.6
-   Compiling markup5ever v0.40.0
-   Compiling glob v0.3.4
-   Compiling base64 v0.22.1
-   Compiling hex v0.4.3
-   Compiling icu_locale_core v2.3.0
-   Compiling icu_collections v2.3.0
-   Compiling similar v2.7.0
-   Compiling lopdf v0.40.0
-   Compiling icu_provider v2.3.1
-   Compiling html5ever v0.40.1
-   Compiling icu_properties v2.3.0
-   Compiling icu_normalizer v2.3.0
-   Compiling idna_adapter v1.2.2
-   Compiling chrono v0.4.44
-   Compiling serde_yaml v0.9.34+deprecated
-   Compiling idna v1.1.0
-   Compiling url v2.5.8
-   Compiling scraper v0.29.0
-   Compiling rquickjs-core v0.12.1
-   Compiling rquickjs v0.12.1
-   Compiling bob-obsidian v0.6.0 (/tmp/bob-cli-settings-current)
-    Finished `dev` profile [unoptimized + debuginfo] target(s) in 2m 30s
-npm ERR! code EUSAGE
-npm ERR! 
-npm ERR! The `npm ci` command can only install with an existing package-lock.json or
-npm ERR! npm-shrinkwrap.json with lockfileVersion >= 1. Run an install with npm@5 or
-npm ERR! later to generate a package-lock.json file, then try again.
-npm ERR! 
-npm ERR! Clean install a project
-npm ERR! 
-npm ERR! Usage:
-npm ERR! npm ci
-npm ERR! 
-npm ERR! Options:
-npm ERR! [-S|--save|--no-save|--save-prod|--save-dev|--save-optional|--save-peer|--save-bundle]
-npm ERR! [-E|--save-exact] [-g|--global] [--install-strategy <hoisted|nested|shallow>]
-npm ERR! [--legacy-bundling] [--global-style]
-npm ERR! [--omit <dev|optional|peer> [--omit <dev|optional|peer> ...]]
-npm ERR! [--strict-peer-deps] [--no-package-lock] [--foreground-scripts]
-npm ERR! [--ignore-scripts] [--no-audit] [--no-bin-links] [--no-fund] [--dry-run]
-npm ERR! [-w|--workspace <workspace-name> [-w|--workspace <workspace-name> ...]]
-npm ERR! [-ws|--workspaces] [--include-workspace-root] [--no-install-links]
-npm ERR! 
-npm ERR! aliases: clean-install, ic, install-clean, isntall-clean
-npm ERR! 
-npm ERR! Run "npm help ci" for more info
+nges and commit them, and you can discard any commits you make in this
+state without impacting any branches by switching back to a branch.
 
-npm ERR! A complete log of this run can be found in:
-npm ERR!     /home/bryan/.npm/_logs/2026-11-25T12_34_27_342Z-debug-0.log
-failed  exit=1  duration=166733ms
+If you want to create a new branch to retain commits you create, you may
+do so (now or later) by using -c with the switch command. Example:
+
+  git switch -c <new-branch-name>
+
+Or undo this operation with:
+
+  git switch -
+
+Turn off this advice by setting config variable advice.detachedHead to false
+
+npm test=1 validate=0 Obsidian acceptance=1
+  ...
+# Subtest: 10k-note first link-index build is ≤ 40 ms CPU
+ok 26 - 10k-note first link-index build is ≤ 40 ms CPU
+  ---
+  duration_ms: 228.955238
+  ...
+1..26
+# tests 26
+# suites 0
+# pass 26
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 6346.261245
+FAIL Property Editor e2e ({"pass":249})
+Report: /tmp/bob-settings-acceptance-caCBq8lh/evidence/report.json
+Screenshots: /tmp/bob-settings-acceptance-caCBq8lh/evidence/screenshots
+- Timed out waiting for Stats root clear to absence: {"open":true,"readSettled":true,"focusedRow":"setting::root","heading":"PROJECT · PROPERTIES","rows":[{"key":"Lives under","id":"setting::parent","line":null,"action":"setting","disabled":false,"selected":false,"marked":false,"text":"○≡Lives underparent · [[projects/top-level-settings]] · [[top-level-settings]] · set","valueText":"parent · [[projects/top-level-settings]] · [[top-level-settings]] · set","gutter":"○","diagnostic":"Required. An area or a non-terminal project.","classes":"bob-property-row is-synthetic","selectedClass":false,"lockedClass":false,"markedClass":false},{"key":"Hue","id":"setting::color","line":null,"action":"setting","disabled":false,"selected":false,"marked":false,"text":"○≡Huecolor · red · ● red · from the name (nothing sets a color)","valueText":"color · red · ● red · from the name (nothing sets a color)","gutter":"○","diagnostic":"Palette hue or grey. Clear to inherit.","classes":"bob-property-row is-ghost is-synthetic","selectedClass":false,"lockedClass":false,"markedClass":false},{"key":"Default type","id":"setting::task_type","line":null,"action":"setting","disabled":false,"selected":false,"marked":false,"text":"○≡Default typetask_type + theme · Writing · #WRITING · set on this note · set","valueText":"task_type + theme · Writing · #WRITING · set on this note · set","gutter":"○","diagnostic":"A type name or off (Stop parent defaults). Clear to inherit.","classes":"bob-property-row is-synthetic","selectedClass":false,"lockedClass":false,"markedClass":false},{"key":"Clock","id":"setting::clock","line":null,"action":"setting","disabled":false,"selected":false,"marked":false,"text":"○≡Clockoffclock + offclock_types · {\"offclock\":false,\"offclock_types\":[\"writing\"]} · off-clock for WRITING · set on this note · set · offclock: false is ign
+Evidence: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/settings-acceptance/run-8ZaYUkyr/evidence
+Remote status: 1; docs check: 1
+
+docs-check: using bob-cli /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15 with BOB_DOCS_BOB_PLUGINS_DIR=/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/sase/repos/linked/bob-plugins
+
+✅  DOCS CHECK
+────────────────────────────────────────────────
+uv run --project tools/docs bob-docs check
+docs-check: assemble and validate source context
+
+docs-check: lint
+warning: docs/develop/plugins/plugin-apis.md:1: budget: over budget at 9961 words (cap 8000 for develop/)
+docs/reference/plugins/bob-ledger-tools.md:1: budget: over budget at 6012 words (cap 6000 for reference/)
+docs/reference/plugins/bob-navigation-hotkeys.md:1: budget: over budget at 6068 words (cap 6000 for reference/)
+bob-docs lint: 2 error(s)
+docs-check: FAILED (lint, exit 1)
+error: Recipe `docs-check` failed on line 289 with exit code 1
+{"npmBaseFailures": 3, "npmCurrentFailures": 2, "npmIdenticalErrors": 1, "docsIdentical": false, "baseTreeClean": true}
+failed  exit=1  duration=708994ms
 ```
 
 <!--sase:budget-span:close:1-->
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-9bb5f4ed3fccde8a.json`
+- **Ref:** `local:continuation/checkpoints/authored-1146ae968ba07ade.json`
 
 **Checkpoint (JSON):**
 
 ```text
 {
-  "kind": "monitor_start",
-  "payload": {
-    "command": "/tmp/run-bob-settings-acceptance.sh",
-    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15",
-    "member_agent_name": "bob-cli-pl.6.1.5--mon-0",
-    "monitor_id": "kbada0z8wphg",
-    "next_output": "auto",
-    "parent_node_ids": [
-      "agent-delta:20261125072056:d8fe2cb861eefb36"
-    ],
-    "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:f905f1bd8fc6381d15bcb88f7dd5486d974327f16edd821b5619f63c4d054942",
-    "starter_agent": "bob-cli-pl.6.1.5--1",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/25/20261125072056"
+  "author": {
+    "actor_id": "bob-cli-pl.6.1.5--1",
+    "actor_kind": "user"
   },
-  "recorded_at_epoch": 1795609899.083121,
-  "schema_version": 1
+  "constraints": [
+    "No memory edits, no ancestor closures, no new beads.",
+    "One coder can finish remaining verification; no unresolved design or broad implementation remains."
+  ],
+  "coverage": [],
+  "findings": [
+    "Inspected report.json, independent status files and every failed npm test on both runs. vc3zr2 had 220 passes and no console exceptions before bank-close timeout; npm unit 9522/9539 pass, 14 fail, 3 skip twice; perf 26/26 pass; validate 12/12 pass; docs two reference budget errors plus develop warning.",
+    "Viewed all 25 PNGs individually. Six narrow paste/YAML/convert images were insufficient: stage controls below viewport. Wide stage images were partially visible. Other generic row/filter/mark images were legible. Failure PNG shows modal already closed, inline bank setup persists.",
+    "Fixed bank open/close selector to .bob-bank-setup-card-modal. Earlier selector could falsely claim bank opening from the inline panel.",
+    "Fixed invalid unreached fixtures: project tasks now #task #prj with exact trailing ^prj; project status exists; editable Stats root project now is a subproject of top-level-settings. Added area root and valid parent chain. Added real-bob preflight assertions before Obsidian launch. Tested all four fixture reports against same CLI binary on Athena; nested root enabled/top root disabled and correct prj line confirmed.",
+    "Closed actual task cards between handoffs; wait for completed navigation and require Task Card when navigation plugin API exists. Reset old-Bob capability before settings screenshots. Stage captures now scroll controls into view; assert stage visibility, plus Summary focus.",
+    "Current focused tests 54/54 and harness 13/13 pass; generated build and manifest validation pass. No production source or generated main.js changes. Plugin sync FROM OPENED CHECKOUT succeeds 0 copied/0 skipped/3 unchanged. Deployment source stamp c9454208, clean; .build/settings-acceptance/deployment.json.",
+    "Opened plugin checkout fast-forwarded to abbac5acc380b651c091657d40f77d43680a9054 (test-only resident count CPU change). Original monitored source was 689da09262ecd1492cc1bc52e84cebad2fb79631; CLI 0742684de3390415ffb5dbb3423c0dbc841f4b3e. Failed report records binary and all plugin SHA256s.",
+    "New run script uses plugins nested at bob-cli/sase/repos/linked/bob-plugins so canonical shared-fixture tests resolve properly. Runs full npm on clean base abbac5 and finalized current, plus isolated frees-marks timing checks, current validation, real Obsidian, and docs on pristine base snapshot/current. compare-checks.py records error comparison in clean-base-comparison.json; inspect raw logs too. NO PROPOSED FOLLOW-UP recorded yet for new failures pending base proof.",
+    "Latest epic-symbols empty; rerun before closing. Existing original PROPOSED FOLLOW-UP docs note references bob-cli-pw.8.1.3. Search also found active bob-cli-ph.7.1 already knows 10 stale NOTES expectations from drawer changes; inspect before citing. No beads created, no statuses hand-edited."
+  ],
+  "kind": "authored_checkpoint",
+  "objective": "Complete only bob-cli-pl.6.1.5 settings acceptance; do not close ancestors or edit memory.",
+  "remaining_work": [
+    "Inspect latest-run after monitor; fix any remaining settings acceptance failure without weakening assertions.",
+    "Preserve new evidence and visually inspect every image before accepting; record exact source, binary/plugin hashes and deployed bundle.",
+    "Use clean-base logs/comparison to prove identical failures before PROPOSED FOLLOW-UP notes on assigned phase only.",
+    "Only after full design verification run epic-symbols and close bob-cli-pl.6.1.5; finish through sase_final."
+  ],
+  "schema_version": 1,
+  "source_refs": [
+    "file:explicit:4b93754653436b0bea329531",
+    "file:explicit:0968c32776984db9ba2bd327",
+    "file:explicit:575ee3b4f1b1d6736814ddb3"
+  ],
+  "unresolved_decisions": []
 }
 ```
 
 
 ## Your next action
 
-Inspect /tmp/property-editor-settings-e2e.json and every screenshot under /tmp/bob-plugins-settings-e2e-shots visually. If the acceptance shows phase regressions, fix them in the opened bob-plugins checkout and rerun acceptance with current bob-cli provenance. Preserve the report and each screenshot using sase_artifact and link them to bob-cli-pl.6.1.5. Rerun npm test under current load (the earlier two performance failures passed when rerun focused); record any reproduced clean-base failures as bead notes. After acceptance passes, run bob plugins sync for bob-ledger-tools without -F, run sase bead epic-symbols bob-cli-pl.6.1.5, resolve any leftovers, and close only bob-cli-pl.6.1.5. Finish with sase_final.
+Complete only bob-cli-pl.6.1.5. Read .build/settings-acceptance/latest-run, every independent check status and failing log, clean-base-comparison.json, report.json, and visually inspect EVERY new screenshot. The monitor exit still reflects Obsidian; npm/docs may fail independently. Validate base-tree.status is clean and compare actual errors before PROPOSED FOLLOW-UP notes. Do not create beads. Old vc3zr2 report, all 25 reviewed image verdicts, and full log/PNG archive are durably linked to the phase (refs in checkpoint); do not redo that review. Fix remaining in-scope acceptance failures without weakening assertions. Preserve all new evidence durably, record exact source SHAs/binary/plugin hashes and deployment. Identical clean-base failures do not block closure: record PROPOSED FOLLOW-UP on this phase, citing existing trackers where available. Only once the complete design and screenshots are verified, rerun epic-symbols and close ONLY bob-cli-pl.6.1.5. No memory edits or ancestor closures. Finish through sase_final.
 %macros_enabled:true
 
 ## Response
 
-The monitored run stopped before Obsidian launched: `npm ci` failed because the temporary acceptance checkout has no lockfile. I’ll inspect the runner and the actual evidence paths, correct that setup issue, then continue the requested acceptance, test, artifact, sync, and bead steps. I’m using the SASE repo, artifact, bead, monitor, and finalizer workflows for this turn.
+I’ll inspect the new failure, compare the independent checks with their clean bases, and review every new screenshot. I’m using the SASE memory-read, repository, bead, and artifact skills to keep the evidence audited and the work scoped to this phase.
 
-The report and screenshot directory are absent because the runner never got past dependency installation. The linked plugin checkout has no `package-lock.json`, so this clean temporary checkout needs `npm install --no-package-lock` instead of `npm ci`; I’m updating the temporary runner and staging a fresh acceptance run. The bead is still in progress and has no epic symbols.
 
-The corrected acceptance runner is staged as monitor **frwjaeemtdqn**. It will launch after this turn ends; its follow-up is instructed to inspect and preserve the evidence, rerun the full suite, sync the plugin, check epic symbols, and close the phase only after acceptance succeeds. I’m checking the finalizer context now.
+The run reached 249 passing assertions, including settings entry points, Ready cap history, Summary warnings, and IME handling. It stopped when clearing Stats root. The base checkout is clean, but its docs command failed before linting, so that comparison does not yet prove the docs errors are pre-existing.
 
-The run failed before Obsidian launched because the temporary plugin checkout has no lockfile. I updated the runner to use `npm install --no-package-lock` and staged a fresh acceptance run as monitor **frwjaeemtdqn**.
 
-The report and screenshots are still absent. The monitor follow-up is set to inspect and preserve them, rerun `npm test`, sync `bob-ledger-tools`, check epic symbols, and close `bob-cli-pl.6.1.5` only after acceptance passes. The bead remains in progress. No repository files changed, and the finalizer context required no submission.
+The Stats root check advances as soon as the file changes, before the save has settled; the next Enter can be blocked by the save guard. I’ll wait for confirmed saved state. The failure screenshot also shows long settings values clipped horizontally, which needs a layout fix before visual acceptance.
+
+
+All 25 new images are reviewed. The paste preview is still collapsing in narrow windows because its flex layout compresses the stage; I’m fixing that and checking the visible controls themselves. The valid clean-base docs run now reproduces the same two budget errors exactly.
+
+
+The save-state wait and both layout fixes are in place, and all 67 focused tests pass. I’m preserving the report and image verdicts, then preparing a full rerun with the corrected docs comparison. The phase still needs a passing app run and review of its settings screenshots.
+
+
+The updated CSS deployed successfully on Apollo: one stylesheet changed, with the plugin’s JavaScript unchanged. Build and manifest checks passed. I’m extending the next screenshot run to cover each simple settings stage and the project rows, so final review can check more than the Summary editor.
+
+
+The report and all 25 image verdicts are saved; the complete archive is still registering. The next monitor will run full tests, compare docs on valid clean checkouts, run the deployment smoke check, and capture the expanded settings views in real Obsidian.
+
+
+The evidence is saved and linked to the phase, and the proven baseline failures are recorded there as follow-ups. I’m using `sase_monitor` for the full verification run, then `sase_final` to commit the fixes before it starts. The phase remains open pending the app results and new image review.
+
+
+The monitor request is still staging. The fixes, evidence, and phase notes are complete for this turn; I’m waiting for confirmation of the handoff before finalizing.
+
+
+The handoff has not confirmed yet, so verification has not started. I’m keeping the turn open until SASE finishes staging it.
+
+
+Fixed save synchronization and two layout defects. All 67 focused tests pass; all 25 screenshots were reviewed and preserved.
+
+Monitor `a4knqw` is staged for full verification and automatic continuation. Phase `bob-cli-pl.6.1.5` remains open pending app acceptance and new screenshot review.
