@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-q4
 
-**Global hood:** `bbugyi200.athena.bob-cli-q4` · **Runs:** 14 · **Sessions:** 0 · **States:** active 4, completed 1, waiting 9
+**Global hood:** `bbugyi200.athena.bob-cli-q4` · **Runs:** 14 · **Sessions:** 0 · **States:** active 3, completed 2, waiting 9
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -13,7 +13,7 @@
 | [bob-cli-q4.6](../../../../../../agents/bbugyi200.athena.bob-cli-q4.6/README.md) | waiting | gpt-6-luna / codex | 20261125085253 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.6/prompt.md) |
 | [bob-cli-q4.13](../../../../../../agents/bbugyi200.athena.bob-cli-q4.13/README.md) | waiting | grok-4.6 / grok | 20261125085300 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.13/prompt.md) |
 | [bob-cli-q4.3](../../../../../../agents/bbugyi200.athena.bob-cli-q4.3/README.md) | active | gpt-6-luna / codex | 2026-11-25T13:54:06.542294+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.3/prompt.md) |
-| [bob-cli-q4.2](../../../../../../agents/bbugyi200.athena.bob-cli-q4.2/README.md) | active | grok-4.6 / grok | 2026-11-25T13:53:39.745902+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.2/prompt.md) |
+| [bob-cli-q4.2](../../../../../../agents/bbugyi200.athena.bob-cli-q4.2/README.md) | completed | grok-4.6 / grok | 2026-11-25T13:53:39.745902+00:00 → 2026-11-25T14:18:04.319240+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-q4.2/chat.md) |
 | [bob-cli-q4.7](../../../../../../agents/bbugyi200.athena.bob-cli-q4.7/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261125085257 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.7/prompt.md) |
 | [bob-cli-q4.4](../../../../../../agents/bbugyi200.athena.bob-cli-q4.4/README.md) | active | grok-4.6 / grok | 2026-11-25T13:54:11.989008+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.4/prompt.md) |
 | [bob-cli-q4.11](../../../../../../agents/bbugyi200.athena.bob-cli-q4.11/README.md) | waiting | grok-4.6 / grok | 20261125085256 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.11/prompt.md) |
