@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-ph` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ph.6--mon [active]"]
+  n0["bob-cli-ph.6--mon [completed]"]
   n1["bob-cli-ph.6--plan [active]"]
   n0 --> n1
   n2["bob-cli-ph.6--gate [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-ph.6--mon | active | gpt-6-astra / codex | 2026-11-25T13:39:42.818764+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-ph.6--mon | completed | gpt-6-astra / codex | 2026-11-25T13:39:42.818764+00:00 → 2026-11-25T13:41:54.412392+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.6--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-ph.6--plan | active | gpt-6-astra / codex | 2026-11-25T13:29:15.025044+00:00 → 2026-11-25T13:39:57.223153+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.6--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.6--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ph.6--gate | completed | gpt-6-astra / codex | 2026-11-25T13:39:19.700567+00:00 → 2026-11-25T13:39:44.672478+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.6--gate/chat.md) |
 
@@ -27,6 +27,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-ph.6.1.1](../agents/bbugyi200.apollo.bob-cli-ph.6.1.1/README.md) | descendant | active |
+| [bob-cli-ph.6.1.2](../agents/bbugyi200.apollo.bob-cli-ph.6.1.2/README.md) | descendant | waiting |
+| [bob-cli-ph.6.1.3](../agents/bbugyi200.apollo.bob-cli-ph.6.1.3/README.md) | descendant | waiting |
+| [bob-cli-ph.6.1.4](../agents/bbugyi200.apollo.bob-cli-ph.6.1.4/README.md) | descendant | waiting |
+| [bob-cli-ph.6.1.5](../agents/bbugyi200.apollo.bob-cli-ph.6.1.5/README.md) | descendant | waiting |
+| [bob-cli-ph.6.1.land](../agents/bbugyi200.apollo.bob-cli-ph.6.1.land/README.md) | descendant | waiting |
 | [bob-cli-ph.1](bbugyi200.apollo.bob-cli-ph.1.md) (session · 31) | bob-cli-ph hood | completed 20, failed 11 |
 | [bob-cli-ph.10](../agents/bbugyi200.apollo.bob-cli-ph.10/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.11](../agents/bbugyi200.apollo.bob-cli-ph.11/README.md) | bob-cli-ph hood | waiting |
@@ -35,7 +41,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ph.3](../agents/bbugyi200.apollo.bob-cli-ph.3/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.4](../agents/bbugyi200.apollo.bob-cli-ph.4/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.5](../agents/bbugyi200.apollo.bob-cli-ph.5/README.md) | bob-cli-ph hood | waiting |
-| [bob-cli-ph.7](../agents/bbugyi200.apollo.bob-cli-ph.7/README.md) | bob-cli-ph hood | waiting |
+| [bob-cli-ph.7](bbugyi200.apollo.bob-cli-ph.7.md) (session · 3) | bob-cli-ph hood | active 2, completed 1 |
 | [bob-cli-ph.8](../agents/bbugyi200.apollo.bob-cli-ph.8/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.9](../agents/bbugyi200.apollo.bob-cli-ph.9/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.land](../agents/bbugyi200.apollo.bob-cli-ph.land/README.md) | bob-cli-ph hood | waiting |
