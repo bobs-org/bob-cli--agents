@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pw](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pw/README.md) / [bob-cli-pw.5.1.land](../../sessions/bbugyi200.apollo.bob-cli-pw.5.1.land.md) / bob-cli-pw.5.1.land--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-pw.5.1.land--plan` · **State:** active · **Source run:** `run-d7720768f68e0e1ead9d5d48357a61cc`
+**Global name:** `bbugyi200.apollo.bob-cli-pw.5.1.land--plan` · **State:** completed · **Source run:** `run-d7720768f68e0e1ead9d5d48357a61cc`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pw
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-pw.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pw/bob-cli-pw.5.1.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-25T03:19:48.387912+00:00
+- Timing: 2026-11-25T03:19:48.387912+00:00 → 2026-11-25T04:50:17.095391+00:00
 - Commits: 0
 
 ## Files
@@ -31,7 +31,7 @@
 | [bob-cli-pw.2](../bbugyi200.apollo.bob-cli-pw.2/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.3](../bbugyi200.apollo.bob-cli-pw.3/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.4](../bbugyi200.apollo.bob-cli-pw.4/README.md) | bob-cli-pw hood | completed |
-| [bob-cli-pw.6](../bbugyi200.apollo.bob-cli-pw.6/README.md) | bob-cli-pw hood | waiting |
+| [bob-cli-pw.6](../../sessions/bbugyi200.apollo.bob-cli-pw.6.md) (session · 2) | bob-cli-pw hood | active 1, completed 1 |
 | [bob-cli-pw.7](../bbugyi200.apollo.bob-cli-pw.7/README.md) | bob-cli-pw hood | waiting |
 | [bob-cli-pw.8](../bbugyi200.apollo.bob-cli-pw.8/README.md) | bob-cli-pw hood | waiting |
 | [bob-cli-pw.land](../bbugyi200.apollo.bob-cli-pw.land/README.md) | bob-cli-pw hood | waiting |

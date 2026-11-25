@@ -32,7 +32,7 @@
 | [bob-cli-pw.5.1.2](../bbugyi200.apollo.bob-cli-pw.5.1.2/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.5.1.3](../bbugyi200.apollo.bob-cli-pw.5.1.3/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.5.1.4](../bbugyi200.apollo.bob-cli-pw.5.1.4/README.md) | bob-cli-pw hood | completed |
-| [bob-cli-pw.5.1.land](../../sessions/bbugyi200.apollo.bob-cli-pw.5.1.land.md) (session · 3) | bob-cli-pw hood | active 2, completed 1 |
-| [bob-cli-pw.6](../bbugyi200.apollo.bob-cli-pw.6/README.md) | bob-cli-pw hood | waiting |
+| [bob-cli-pw.5.1.land](../../sessions/bbugyi200.apollo.bob-cli-pw.5.1.land.md) (session · 3) | bob-cli-pw hood | completed 3 |
+| [bob-cli-pw.6](../../sessions/bbugyi200.apollo.bob-cli-pw.6.md) (session · 2) | bob-cli-pw hood | active 1, completed 1 |
 | [bob-cli-pw.7](../bbugyi200.apollo.bob-cli-pw.7/README.md) | bob-cli-pw hood | waiting |
 | [bob-cli-pw.land](../bbugyi200.apollo.bob-cli-pw.land/README.md) | bob-cli-pw hood | waiting |
