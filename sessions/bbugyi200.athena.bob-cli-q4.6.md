@@ -2,15 +2,17 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / bob-cli-q4.6
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-q4` · Members: 2 · Bead: [bob-cli-q4.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.6.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-q4` · Members: 3 · Bead: [bob-cli-q4.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.6.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["bob-cli-q4.6--plan [completed]"]
-  n1["bob-cli-q4.6--mon [active]"]
+  n1["bob-cli-q4.6--mon [completed]"]
   n0 --> n1
+  n2["bob-cli-q4.6--1 [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -18,7 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-q4.6--plan | completed | gpt-6-luna / codex | 2026-11-25T15:19:24.878594+00:00 → 2026-11-25T15:30:50.500625+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.6--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.6--plan/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-q4.6--mon | active | gpt-6-luna / codex | 2026-11-25T15:29:45.533387+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-q4.6--mon | completed | gpt-6-luna / codex | 2026-11-25T15:29:45.533387+00:00 → 2026-11-25T15:37:08.304773+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.6--mon/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-q4.6--1 | completed | gpt-6-luna / codex | 2026-11-25T15:37:33.322662+00:00 → 2026-11-25T15:41:31.828841+00:00 | [1](../agents/bbugyi200.athena.bob-cli-q4.6--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.6--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.6--1/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| 1 | bob-cli | [`007ef5e`](https://github.com/bobs-org/bob-cli/commit/007ef5ed819595338ad7f629e660c43fcf2b496f) | feat(capture): settle touched notes before reporting lines | 2026-11-25 10:40:41 EST |
 
 ## Neighbors
 

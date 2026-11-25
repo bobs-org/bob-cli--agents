@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-q4
 
-**Global hood:** `bbugyi200.athena.bob-cli-q4` · **Runs:** 25 · **Sessions:** 4 · **States:** active 4, completed 9, failed 2, waiting 10
+**Global hood:** `bbugyi200.athena.bob-cli-q4` · **Runs:** 26 · **Sessions:** 4 · **States:** active 3, completed 11, failed 2, waiting 10
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -19,11 +19,12 @@
 | [bob-cli-q4.3--1](../../../../../../sessions/bbugyi200.athena.bob-cli-q4.3.md#member-1) | completed | gpt-6-luna / codex | 2026-11-25T15:07:24.588016+00:00 → 2026-11-25T15:19:03.797134+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.3--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-q4.3--1/chat.md) |
 | [bob-cli-q4.3--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-q4.3.md#member-plan) | completed | gpt-6-luna / codex | 2026-11-25T13:54:06.542294+00:00 → 2026-11-25T14:49:06.168404+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.3--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-q4.3--plan/chat.md) |
 | [bob-cli-q4.2](../../../../../../agents/bbugyi200.athena.bob-cli-q4.2/README.md) | completed | grok-4.6 / grok | 2026-11-25T13:53:39.745902+00:00 → 2026-11-25T14:18:04.319240+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-q4.2/chat.md) |
-| [bob-cli-q4.6--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-q4.6.md#member-mon) | active | gpt-6-luna / codex | 2026-11-25T15:29:45.533387+00:00 | 0 | — |
+| [bob-cli-q4.6--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-q4.6.md#member-mon) | completed | gpt-6-luna / codex | 2026-11-25T15:29:45.533387+00:00 → 2026-11-25T15:37:08.304773+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-q4.6--mon/chat.md) |
 | [bob-cli-q4.7](../../../../../../agents/bbugyi200.athena.bob-cli-q4.7/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261125085257 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.7/prompt.md) |
 | [bob-cli-q4.3--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-q4.3.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-25T14:46:53.488471+00:00 → 2026-11-25T15:07:25.125123+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-q4.3--mon/chat.md) |
 | [bob-cli-q4.4](../../../../../../agents/bbugyi200.athena.bob-cli-q4.4/README.md) | active | grok-4.6 / grok | 2026-11-25T13:54:11.989008+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.4/prompt.md) |
 | [bob-cli-q4.8.1.land](../../../../../../agents/bbugyi200.athena.bob-cli-q4.8.1.land/README.md) | waiting | gpt-6-astra / codex | 20261125102836 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.8.1.land/prompt.md) |
+| [bob-cli-q4.6--1](../../../../../../sessions/bbugyi200.athena.bob-cli-q4.6.md#member-1) | completed | gpt-6-luna / codex | 2026-11-25T15:37:33.322662+00:00 → 2026-11-25T15:41:31.828841+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.6--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-q4.6--1/chat.md) |
 | [bob-cli-q4.11](../../../../../../agents/bbugyi200.athena.bob-cli-q4.11/README.md) | waiting | grok-4.6 / grok | 20261125085256 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.11/prompt.md) |
 | [bob-cli-q4.8--gate](../../../../../../sessions/bbugyi200.athena.bob-cli-q4.8.md#member-gate) | completed | gpt-6-astra / codex | 2026-11-25T15:26:43.530190+00:00 → 2026-11-25T15:27:03.158401+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-q4.8--gate/chat.md) |
 | [bob-cli-q4.8.1.1](../../../../../../agents/bbugyi200.athena.bob-cli-q4.8.1.1/README.md) | active | muse-spark-1.3-contributor / muse | 2026-11-25T15:29:35.382469+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q4.8.1.1/prompt.md) |
