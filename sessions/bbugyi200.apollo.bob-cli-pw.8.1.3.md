@@ -2,22 +2,25 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pw](../users/bbugyi200/machines/apollo/hoods/bob-cli-pw/README.md) / bob-cli-pw.8.1.3
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-pw` · Members: 2 · Bead: [bob-cli-pw.8.1.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pw/bob-cli-pw.8.1.3.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-pw` · Members: 3 · Bead: [bob-cli-pw.8.1.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pw/bob-cli-pw.8.1.3.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-pw.8.1.3--mon [active]"]
-  n1["bob-cli-pw.8.1.3--plan [completed]"]
+  n0["bob-cli-pw.8.1.3--1 [completed]"]
+  n1["bob-cli-pw.8.1.3--mon [failed]"]
   n0 --> n1
+  n2["bob-cli-pw.8.1.3--plan [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-pw.8.1.3--mon | active | muse-spark-1.3-contributor / muse | 2026-11-25T07:42:48.045958+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | bob-cli-pw.8.1.3--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-25T07:56:10.198165+00:00 → 2026-11-25T09:22:57.504764+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pw.8.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pw.8.1.3--1/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-pw.8.1.3--mon | failed | muse-spark-1.3-contributor / muse | 2026-11-25T07:42:48.045958+00:00 → 2026-11-25T07:56:10.518922+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pw.8.1.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-pw.8.1.3--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-25T07:24:46.516546+00:00 → 2026-11-25T07:47:31.760540+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-pw.8.1.3--plan/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-pw.8.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pw.8.1.3--plan/chat.md) |
 
 ## Commits
