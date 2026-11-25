@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6b.cld
 
-**Global name:** `bbugyi200.apollo.research.6b.cld` · **State:** active · **Source run:** `run-5de11036705fe7870a0d1a8b1fff349d`
+**Global name:** `bbugyi200.apollo.research.6b.cld` · **State:** completed · **Source run:** `run-5de11036705fe7870a0d1a8b1fff349d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-25T15:20:06.903343+00:00
+- Timing: 2026-11-25T15:20:06.903343+00:00 → 2026-11-25T15:36:01.165661+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_card\_fold\_and\_takeover\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125101845/bank\_card\_fold\_and\_takeover\_\_cld-06e37e81d96… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_card_fold_and_takeover__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125101845/bank_card_fold_and_takeover__cld-06e37e81d962.md
+  ref: file:explicit:231593e7c571796e2ae4adfa
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202611/bank_card_fold_and_takeover__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

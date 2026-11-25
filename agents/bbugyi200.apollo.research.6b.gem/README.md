@@ -12,17 +12,36 @@
 - Provider: agy
 - Timing: 2026-11-25T15:22:07.544088+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_property\_card\_and\_underscore\_toggle\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125101848/bank\_property\_card\_and\_undersco… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_property_card_and_underscore_toggle__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125101848/bank_property_card_and_underscore_toggle__gem-a7495237d7b2.md
+  ref: file:explicit:4793efa4186ad10277e5ba82
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_20/sase/repos/research/202611/bank_property_card_and_underscore_toggle__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.6b.cdx](../bbugyi200.apollo.research.6b.cdx/README.md) | research.6b hood | completed |
-| [research.6b.cld](../bbugyi200.apollo.research.6b.cld/README.md) | research.6b hood | active |
+| [research.6b.cld](../bbugyi200.apollo.research.6b.cld/README.md) | research.6b hood | completed |
 | [research.6b.final](../bbugyi200.apollo.research.6b.final/README.md) | research.6b hood | waiting |
 | [research.6b.grk](../bbugyi200.apollo.research.6b.grk/README.md) | research.6b hood | active |
 | [research.6b.image](../bbugyi200.apollo.research.6b.image/README.md) | research.6b hood | waiting |
