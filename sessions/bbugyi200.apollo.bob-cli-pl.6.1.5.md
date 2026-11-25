@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-pl` · Members: 21 · Bead: [bob-cli
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-pl.6.1.5--gate [active]"]
+  n0["bob-cli-pl.6.1.5--gate [completed]"]
   n1["bob-cli-pl.6.1.5--3 [active]"]
   n0 --> n1
   n2["bob-cli-pl.6.1.5--mon-0 [failed]"]
@@ -55,11 +55,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-gate"></a>gate | bob-cli-pl.6.1.5--gate | active | opus / claude | 2026-11-25T22:10:35.931826+00:00 | 0 | — | — |
+| <a id="member-gate"></a>gate | bob-cli-pl.6.1.5--gate | completed | opus / claude | 2026-11-25T22:18:42.315636+00:00 → 2026-11-25T22:19:08.617305+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--gate/chat.md) |
 | <a id="member-3"></a>3 | bob-cli-pl.6.1.5--3 | active | gpt-6-astra / codex | 2026-11-25T19:33:12.669367+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--3/prompt.md) | — |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-pl.6.1.5--mon-0 | failed | gpt-6-astra / codex | 2026-11-25T18:43:06.557888+00:00 → 2026-11-25T18:58:08.376604+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-0/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-pl.6.1.5--mon-1 | failed | gpt-6-astra / codex | 2026-11-25T19:16:33.762661+00:00 → 2026-11-25T19:33:12.782159+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-1/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-pl.6.1.5--1 | completed | gpt-6-astra / codex | 2026-11-25T18:25:33.504442+00:00 → 2026-11-25T18:45:10.847795+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--1/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-pl.6.1.5--1 | completed | opus / claude | 2026-11-25T22:20:40.423012+00:00 → 2026-11-25T22:42:26.622855+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-pl.6.1.5--mon | failed | gpt-6-astra / codex | 2026-11-25T18:09:29.632153+00:00 → 2026-11-25T18:25:33.757919+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon/chat.md) |
 | <a id="member-mon-6"></a>mon-6 | bob-cli-pl.6.1.5--mon-6 | failed | gpt-6-luna / codex | 2026-11-25T15:17:49.870896+00:00 → 2026-11-25T15:25:51.491931+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-6/chat.md) |
 | <a id="member-mon-7"></a>mon-7 | bob-cli-pl.6.1.5--mon-7 | failed | gpt-6-luna / codex | 2026-11-25T16:27:03.094068+00:00 → 2026-11-25T16:37:09.292675+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-7/chat.md) |
@@ -81,7 +81,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Variable | Value |
 |---|---|---|
-| 1 | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Settings acceptance vc3zr2 report: 220 passes then bank selector timeout, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125132444/rep… |
+| 1 | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: bob-cli-pl.6.1.5 deploy + startup smoke evidence, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125171907/pl615-deploy-smoke.tar-6116… |
 | 2 | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Settings acceptance 48yzxp report: 249 passes, root toggle timeout, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125135717/report-fd… |
 | 3 | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Settings acceptance a4knqw report (277 passes, alias preview race), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125143216/report-d2… |
 | 4 | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Obsidian settings acceptance report (failed, 2026-11-25 13:02 UTC), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125080306/property-… |
@@ -98,22 +98,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 ```yaml
 - bead: bob-cli-pl.6.1.5
   kind: file
-  label: Settings acceptance vc3zr2 report: 220 passes then bank selector timeout
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125132444/report-dfd6606ac906.json
-  ref: file:explicit:4b93754653436b0bea329531
-  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/settings-acceptance/run-TvKUzA5p/evidence/report.json
-- bead: bob-cli-pl.6.1.5
-  kind: file
-  label: Settings acceptance vc3zr2: all 25 image verdicts and independent check results
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125132444/review-ba1dc513a51f.json
-  ref: file:explicit:0968c32776984db9ba2bd327
-  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/settings-acceptance/run-TvKUzA5p/evidence/review.json
-- bead: bob-cli-pl.6.1.5
-  kind: file
-  label: Settings acceptance vc3zr2 complete logs and 25 reviewed screenshots
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125132444/reviewed-evidence.tar-1d2b9e7cb23a.gz
-  ref: file:explicit:575ee3b4f1b1d6736814ddb3
-  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/settings-acceptance/run-TvKUzA5p/reviewed-evidence.tar.gz
+  label: bob-cli-pl.6.1.5 deploy + startup smoke evidence
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125171907/pl615-deploy-smoke.tar-61164b684c6f.gz
+  ref: file:explicit:ce342b705d2b71241d7f2c49
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/pl615-deploy-smoke.tar.gz
 ```
 
 #### artifacts
@@ -571,7 +559,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-pl.6.1.2](../agents/bbugyi200.apollo.bob-cli-pl.6.1.2/README.md) | bob-cli-pl.6.1 hood | completed |
 | [bob-cli-pl.6.1.3](../agents/bbugyi200.apollo.bob-cli-pl.6.1.3/README.md) | bob-cli-pl.6.1 hood | completed |
 | [bob-cli-pl.6.1.4](../agents/bbugyi200.apollo.bob-cli-pl.6.1.4/README.md) | bob-cli-pl.6.1 hood | completed |
-| [bob-cli-pl.6.1.land](../agents/bbugyi200.apollo.bob-cli-pl.6.1.land/README.md) | bob-cli-pl.6.1 hood | waiting |
+| [bob-cli-pl.6.1.land](../agents/bbugyi200.apollo.bob-cli-pl.6.1.land/README.md) | bob-cli-pl.6.1 hood | completed |
 | [bob-cli-pl.1](bbugyi200.apollo.bob-cli-pl.1.md) (session · 9) | bob-cli-pl hood | completed 7, failed 2 |
 | [bob-cli-pl.2](bbugyi200.apollo.bob-cli-pl.2.md) (session · 5) | bob-cli-pl hood | completed 4, failed 1 |
 | [bob-cli-pl.3](../agents/bbugyi200.apollo.bob-cli-pl.3/README.md) | bob-cli-pl hood | completed |

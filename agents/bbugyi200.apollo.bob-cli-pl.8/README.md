@@ -10,8 +10,8 @@
 
 - Bead: [bob-cli-pl.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.8.md)
 - Epic: [bob-cli-pl](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/README.md)
-- Model: grok-4.6
-- Provider: grok
+- Model: muse-spark-1.3-contributor
+- Provider: muse
 - Timing: 20261122205825
 - Commits: 0
 
@@ -38,8 +38,8 @@
 | [bob-cli-pl.6.1.2](../bbugyi200.apollo.bob-cli-pl.6.1.2/README.md) | bob-cli-pl hood | completed |
 | [bob-cli-pl.6.1.3](../bbugyi200.apollo.bob-cli-pl.6.1.3/README.md) | bob-cli-pl hood | completed |
 | [bob-cli-pl.6.1.4](../bbugyi200.apollo.bob-cli-pl.6.1.4/README.md) | bob-cli-pl hood | completed |
-| [bob-cli-pl.6.1.5](../../sessions/bbugyi200.apollo.bob-cli-pl.6.1.5.md) (session · 21) | bob-cli-pl hood | active 4, completed 9, failed 8 |
-| [bob-cli-pl.6.1.land](../bbugyi200.apollo.bob-cli-pl.6.1.land/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.6.1.5](../../sessions/bbugyi200.apollo.bob-cli-pl.6.1.5.md) (session · 21) | bob-cli-pl hood | active 3, completed 10, failed 8 |
+| [bob-cli-pl.6.1.land](../bbugyi200.apollo.bob-cli-pl.6.1.land/README.md) | bob-cli-pl hood | completed |
 | [bob-cli-pl.7](../bbugyi200.apollo.bob-cli-pl.7/README.md) | bob-cli-pl hood | waiting |
 | [bob-cli-pl.9](../bbugyi200.apollo.bob-cli-pl.9/README.md) | bob-cli-pl hood | waiting |
 | [bob-cli-pl.land](../bbugyi200.apollo.bob-cli-pl.land/README.md) | bob-cli-pl hood | waiting |

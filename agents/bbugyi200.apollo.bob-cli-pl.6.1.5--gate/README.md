@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / [bob-cli-pl.6.1.5](../../sessions/bbugyi200.apollo.bob-cli-pl.6.1.5.md) / bob-cli-pl.6.1.5--gate
 
-**Global name:** `bbugyi200.apollo.bob-cli-pl.6.1.5--gate` · **State:** active · **Source run:** `run-053a4aa1e4336c633980c7cc7e40bb3e`
+**Global name:** `bbugyi200.apollo.bob-cli-pl.6.1.5--gate` · **State:** completed · **Source run:** `run-053a4aa1e4336c633980c7cc7e40bb3e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pl
 
@@ -11,8 +11,12 @@
 - Bead: [bob-cli-pl.6.1.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.6.1.5.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-25T22:10:35.931826+00:00
+- Timing: 2026-11-25T22:18:42.315636+00:00 → 2026-11-25T22:19:08.617305+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -24,7 +28,7 @@
 | [bob-cli-pl.6.1.2](../bbugyi200.apollo.bob-cli-pl.6.1.2/README.md) | bob-cli-pl.6.1 hood | completed |
 | [bob-cli-pl.6.1.3](../bbugyi200.apollo.bob-cli-pl.6.1.3/README.md) | bob-cli-pl.6.1 hood | completed |
 | [bob-cli-pl.6.1.4](../bbugyi200.apollo.bob-cli-pl.6.1.4/README.md) | bob-cli-pl.6.1 hood | completed |
-| [bob-cli-pl.6.1.land](../bbugyi200.apollo.bob-cli-pl.6.1.land/README.md) | bob-cli-pl.6.1 hood | waiting |
+| [bob-cli-pl.6.1.land](../bbugyi200.apollo.bob-cli-pl.6.1.land/README.md) | bob-cli-pl.6.1 hood | completed |
 | [bob-cli-pl.1](../../sessions/bbugyi200.apollo.bob-cli-pl.1.md) (session · 9) | bob-cli-pl hood | completed 7, failed 2 |
 | [bob-cli-pl.2](../../sessions/bbugyi200.apollo.bob-cli-pl.2.md) (session · 5) | bob-cli-pl hood | completed 4, failed 1 |
 | [bob-cli-pl.3](../bbugyi200.apollo.bob-cli-pl.3/README.md) | bob-cli-pl hood | completed |
