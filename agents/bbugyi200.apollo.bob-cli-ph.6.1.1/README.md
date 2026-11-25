@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / bob-cli-ph.6.1.1
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.6.1.1` · **State:** active · **Source run:** `run-8ddf1b5aa1097aeda9df2c9354f5b93b`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.6.1.1` · **State:** completed · **Source run:** `run-8ddf1b5aa1097aeda9df2c9354f5b93b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ph.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.6.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-25T13:48:08.467321+00:00
-- Commits: 0
+- Timing: 2026-11-25T13:48:08.467321+00:00 → 2026-11-25T14:43:13.888741+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`45a5434`](https://github.com/bobs-org/bob-cli/commit/45a54345f59c7cefec7121ac46f61fe34ba3fbf1) | refactor(capture): extract shared place lexer and resolver | 2026-11-25 09:41:35 EST |
 
 ## Neighbors
 
