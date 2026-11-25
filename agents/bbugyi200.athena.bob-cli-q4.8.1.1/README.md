@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / bob-cli-q4.8.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-q4.8.1.1` · **State:** active · **Source run:** `run-cf83fa8a95d29d43dec04d29d13b062e`
+**Global name:** `bbugyi200.athena.bob-cli-q4.8.1.1` · **State:** completed · **Source run:** `run-cf83fa8a95d29d43dec04d29d13b062e`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q4
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q4.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.8.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-25T15:29:35.382469+00:00
-- Commits: 0
+- Timing: 2026-11-25T15:29:35.382469+00:00 → 2026-11-25T16:12:01.785840+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`5c0f816`](https://github.com/bobs-org/bob-cli/commit/5c0f81608f94cd41ceddb726736a79ea944030bd) | feat(task-settle): add canonical task-settle fixture README | 2026-11-25 11:10:42 EST |
 
 ## Neighbors
 
