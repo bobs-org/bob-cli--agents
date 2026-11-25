@@ -33,7 +33,7 @@
 | [bob-cli-ph.6.1.2](../bbugyi200.apollo.bob-cli-ph.6.1.2/README.md) | bob-cli-ph.6.1 hood | completed |
 | [bob-cli-ph.6.1.3](../bbugyi200.apollo.bob-cli-ph.6.1.3/README.md) | bob-cli-ph.6.1 hood | completed |
 | [bob-cli-ph.6.1.4](../bbugyi200.apollo.bob-cli-ph.6.1.4/README.md) | bob-cli-ph.6.1 hood | completed |
-| [bob-cli-ph.6.1.5](../bbugyi200.apollo.bob-cli-ph.6.1.5/README.md) | bob-cli-ph.6.1 hood | waiting |
+| [bob-cli-ph.6.1.5](../../sessions/bbugyi200.apollo.bob-cli-ph.6.1.5.md) (session · 2) | bob-cli-ph.6.1 hood | active 1, completed 1 |
 | [bob-cli-ph.6.1.land](../bbugyi200.apollo.bob-cli-ph.6.1.land/README.md) | bob-cli-ph.6.1 hood | waiting |
 | [bob-cli-ph.1](../../sessions/bbugyi200.apollo.bob-cli-ph.1.md) (session · 31) | bob-cli-ph hood | completed 20, failed 11 |
 | [bob-cli-ph.10](../bbugyi200.apollo.bob-cli-ph.10/README.md) | bob-cli-ph hood | waiting |
