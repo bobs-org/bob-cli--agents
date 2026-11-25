@@ -670,7 +670,7 @@
 | [bob-cli-pq](hoods/bob-cli-pq/README.md) | 27 | 4 | active 1, completed 20, failed 6 |
 | [bob-cli-px](hoods/bob-cli-px/README.md) | 21 | 3 | completed 15, failed 6 |
 | [bob-cli-q4](hoods/bob-cli-q4/README.md) | 68 | 11 | active 4, completed 45, failed 13, waiting 6 |
-| [bob-cli-q5](hoods/bob-cli-q5/README.md) | 28 | 2 | active 1, completed 11, failed 4, waiting 12 |
+| [bob-cli-q5](hoods/bob-cli-q5/README.md) | 28 | 2 | active 1, completed 12, failed 4, waiting 11 |
 | [bob-cli-q6](hoods/bob-cli-q6/README.md) | 15 | 1 | completed 8, failed 4, waiting 3 |
 | [bob-cli-q7](hoods/bob-cli-q7/README.md) | 9 | 1 | completed 3, failed 1, waiting 5 |
 | [bob-cli-t](hoods/bob-cli-t/README.md) | 16 | 3 | active 1, completed 1, dismissed 12, failed 2 |

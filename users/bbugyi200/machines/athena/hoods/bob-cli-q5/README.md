@@ -2,14 +2,14 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-q5
 
-**Global hood:** `bbugyi200.athena.bob-cli-q5` · **Runs:** 28 · **Sessions:** 2 · **States:** active 1, completed 11, failed 4, waiting 12
+**Global hood:** `bbugyi200.athena.bob-cli-q5` · **Runs:** 28 · **Sessions:** 2 · **States:** active 1, completed 12, failed 4, waiting 11
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-q5.1.1.3--5](../../../../../../sessions/bbugyi200.athena.bob-cli-q5.1.1.3.md#member-5) | completed | gpt-6-luna / codex | 2026-11-25T21:14:22.606850+00:00 → 2026-11-25T21:17:58.381650+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q5.1.1.3--5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-q5.1.1.3--5/chat.md) |
 | [bob-cli-q5.1--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-q5.1.md#member-mon) | completed | gpt-6-astra / codex | 2026-11-25T15:35:54.721005+00:00 → 2026-11-25T15:40:15.986934+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-q5.1--mon/chat.md) |
 | [bob-cli-q5.6](../../../../../../agents/bbugyi200.athena.bob-cli-q5.6/README.md) | waiting | gpt-6-astra / codex | 20261125102443 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q5.6/prompt.md) |
-| [bob-cli-q5.1.1.4](../../../../../../agents/bbugyi200.athena.bob-cli-q5.1.1.4/README.md) | waiting | grok-4.6 / grok | 20261125103832 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q5.1.1.4/prompt.md) |
+| [bob-cli-q5.1.1.4](../../../../../../agents/bbugyi200.athena.bob-cli-q5.1.1.4/README.md) | completed | grok-4.6 / grok | 2026-11-25T21:18:23.976155+00:00 → 2026-11-25T22:23:48.478526+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q5.1.1.4/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-q5.1.1.4/chat.md) |
 | [bob-cli-q5.3](../../../../../../agents/bbugyi200.athena.bob-cli-q5.3/README.md) | waiting | gpt-6-astra / codex | 20261125102438 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q5.3/prompt.md) |
 | [bob-cli-q5.2](../../../../../../agents/bbugyi200.athena.bob-cli-q5.2/README.md) | waiting | gpt-6-astra / codex | 20261125102437 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q5.2/prompt.md) |
 | [bob-cli-q5.1.1.land](../../../../../../agents/bbugyi200.athena.bob-cli-q5.1.1.land/README.md) | waiting | opus / claude | 20261125103834 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-q5.1.1.land/prompt.md) |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.1.1.4
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.1.1.4` · **State:** waiting · **Source run:** `run-28997a991e57a1d2a97fda4306817cfa`
+**Global name:** `bbugyi200.athena.bob-cli-q5.1.1.4` · **State:** completed · **Source run:** `run-28997a991e57a1d2a97fda4306817cfa`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q5.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.1.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261125103832
-- Commits: 0
+- Timing: 2026-11-25T21:18:23.976155+00:00 → 2026-11-25T22:23:48.478526+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`9dd67c6`](https://github.com/bobs-org/bob-cli/commit/9dd67c6253060c6492a19a591971f67b25b476c7) | feat(snooze): deliver wake receipts, notices, and first tick step | 2026-11-25 17:23:07 EST |
 
 ## Neighbors
 
