@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `1f9` · Members: 5
 
 ```mermaid
 flowchart TD
-  n0["1f9--1 [active]"]
+  n0["1f9--1 [completed]"]
   n1["1f9--code [completed]"]
   n0 --> n1
   n2["1f9--gate [completed]"]
@@ -23,7 +23,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | 1f9--1 | active | gpt-6-luna / codex | 2026-11-22T23:15:32.715339+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1f9--1/prompt.md) | — |
+| <a id="member-1"></a>1 | 1f9--1 | completed | gpt-6-luna / codex | 2026-11-22T23:15:32.715339+00:00 → 2026-11-22T23:16:57.923728+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1f9--1/prompt.md) | — |
 | <a id="member-code"></a>code | 1f9--code | completed | gpt-6-luna / codex | 2026-11-22T22:39:00.967011+00:00 → 2026-11-22T23:14:05.508289+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1f9--code/prompt.md) | [Chat](../agents/bbugyi200.athena.1f9--code/chat.md) |
 | <a id="member-gate"></a>gate | 1f9--gate | completed | opus / claude | 2026-11-22T22:37:57.005003+00:00 → 2026-11-22T22:38:39.418614+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.1f9--gate/chat.md) |
 | <a id="member-plan"></a>plan | 1f9--plan | completed | opus / claude | 2026-11-22T22:26:00.760097+00:00 → 2026-11-22T22:35:26.734170+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.1f9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.1f9--plan/chat.md) |
