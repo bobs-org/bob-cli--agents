@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pw](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pw/README.md) / [bob-cli-pw.land](../../sessions/bbugyi200.apollo.bob-cli-pw.land.md) / bob-cli-pw.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-pw.land--code` · **State:** active · **Source run:** `run-6540ed1c97625abb622f7eb5df4735e6`
+**Global name:** `bbugyi200.apollo.bob-cli-pw.land--code` · **State:** completed · **Source run:** `run-6540ed1c97625abb622f7eb5df4735e6`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pw
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-pw](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pw/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-25T13:28:37.415671+00:00
-- Commits: 0
+- Timing: 2026-11-25T13:28:37.415671+00:00 → 2026-11-25T14:17:19.372542+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f47055d`](https://github.com/bobs-org/bob-cli/commit/f47055dad542113dc21e6251828c2a3e4cfc7597) | fix(meetings): land meeting-notes repairs | 2026-11-25 09:14:17 EST |
 
 ## Neighbors
 
