@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-1da53262dd8f19ffb2ce0343ac68f1c6"}
+{"commits":[{"committed_at":1795639886,"sha":"dfc7facb18ded459c5471372a65731a543e5f1f7","subject":"feat(capture): wire drawer editor rewrite markers through JSON and previews"}],"schema_version":2,"source_run_id":"run-1da53262dd8f19ffb2ce0343ac68f1c6"}

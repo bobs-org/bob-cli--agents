@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / bob-cli-ph.6.1.4
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.6.1.4` · **State:** waiting · **Source run:** `run-1da53262dd8f19ffb2ce0343ac68f1c6`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.6.1.4` · **State:** completed · **Source run:** `run-1da53262dd8f19ffb2ce0343ac68f1c6`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ph.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.6.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261125084125
-- Commits: 0
+- Timing: 2026-11-25T18:29:12.018493+00:00 → 2026-11-25T20:52:37.763726+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`dfc7fac`](https://github.com/bobs-org/bob-cli/commit/dfc7facb18ded459c5471372a65731a543e5f1f7) | feat(capture): wire drawer editor rewrite markers through JSON and previews | 2026-11-25 15:51:26 EST |
 
 ## Neighbors
 

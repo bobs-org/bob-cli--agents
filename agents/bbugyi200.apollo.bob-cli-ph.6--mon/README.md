@@ -26,7 +26,7 @@
 | [bob-cli-ph.6.1.1](../bbugyi200.apollo.bob-cli-ph.6.1.1/README.md) | descendant | completed |
 | [bob-cli-ph.6.1.2](../bbugyi200.apollo.bob-cli-ph.6.1.2/README.md) | descendant | completed |
 | [bob-cli-ph.6.1.3](../bbugyi200.apollo.bob-cli-ph.6.1.3/README.md) | descendant | completed |
-| [bob-cli-ph.6.1.4](../bbugyi200.apollo.bob-cli-ph.6.1.4/README.md) | descendant | waiting |
+| [bob-cli-ph.6.1.4](../bbugyi200.apollo.bob-cli-ph.6.1.4/README.md) | descendant | completed |
 | [bob-cli-ph.6.1.5](../bbugyi200.apollo.bob-cli-ph.6.1.5/README.md) | descendant | waiting |
 | [bob-cli-ph.6.1.land](../bbugyi200.apollo.bob-cli-ph.6.1.land/README.md) | descendant | waiting |
 | [bob-cli-ph.1](../../sessions/bbugyi200.apollo.bob-cli-ph.1.md) (session · 31) | bob-cli-ph hood | completed 20, failed 11 |
