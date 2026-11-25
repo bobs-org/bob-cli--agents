@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.1.1.5
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.1.1.5` · **State:** waiting · **Source run:** `run-fc470749b6a872c37f7fab9879d5282f`
+**Global name:** `bbugyi200.athena.bob-cli-q5.1.1.5` · **State:** completed · **Source run:** `run-fc470749b6a872c37f7fab9879d5282f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q5.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.1.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261125103833
-- Commits: 0
+- Timing: 2026-11-25T22:24:12.593651+00:00 → 2026-11-25T23:27:32.249769+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`6a3e5df`](https://github.com/bobs-org/bob-cli/commit/6a3e5df6a6613b57bf08b00880a6a8d1fcfa2ffb) | feat(snooze): audit trailing-section writers and complete verification | 2026-11-25 18:26:55 EST |
 
 ## Neighbors
 
