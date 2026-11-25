@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6f.image
 
-**Global name:** `bbugyi200.apollo.research.6f.image` · **State:** waiting · **Source run:** `run-819664365568654c0edc8aec2d4a1cdf`
+**Global name:** `bbugyi200.apollo.research.6f.image` · **State:** completed · **Source run:** `run-819664365568654c0edc8aec2d4a1cdf`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261125161652
+- Timing: 2026-11-25T22:00:35.644076+00:00 → 2026-11-25T22:13:10.229298+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/plain\_link\_dependency\_exclusivity/plain\_link\_dependency\_exclusivity\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125161652/pl… |
+| `diagrams` | {considered: 15, count: 2, manifest: 202611/plain\_link\_dependency\_exclusivity/plain\_link\_dependency\_exclusivity.diagrams.md, source\_ref: file:explicit:658d79d257cf35f3509fc975, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/plain_link_dependency_exclusivity/plain_link_dependency_exclusivity_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125161652/plain_link_dependency_exclusivity_infographic-013501334146.png
+  ref: file:explicit:342fe4dae5b4f5b538929b56
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/plain_link_dependency_exclusivity/plain_link_dependency_exclusivity_infographic.png
+- kind: markdown
+  label: diagrams:202611/plain_link_dependency_exclusivity/plain_link_dependency_exclusivity.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125161652/plain_link_dependency_exclusivity.diagrams-6770a2c49f10.md
+  ref: file:explicit:b5c26265836e1c31a073aa6c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/plain_link_dependency_exclusivity/plain_link_dependency_exclusivity.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 15
+count: 2
+manifest: 202611/plain_link_dependency_exclusivity/plain_link_dependency_exclusivity.diagrams.md
+source_ref: file:explicit:658d79d257cf35f3509fc975
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

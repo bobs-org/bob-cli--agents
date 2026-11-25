@@ -2,57 +2,60 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / bob-cli-pl.6.1.5
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-pl` · Members: 20 · Bead: [bob-cli-pl.6.1.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.6.1.5.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-pl` · Members: 21 · Bead: [bob-cli-pl.6.1.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.6.1.5.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-pl.6.1.5--3 [active]"]
-  n1["bob-cli-pl.6.1.5--mon-0 [failed]"]
+  n0["bob-cli-pl.6.1.5--gate [active]"]
+  n1["bob-cli-pl.6.1.5--3 [active]"]
   n0 --> n1
-  n2["bob-cli-pl.6.1.5--mon-1 [failed]"]
+  n2["bob-cli-pl.6.1.5--mon-0 [failed]"]
   n0 --> n2
-  n3["bob-cli-pl.6.1.5--1 [completed]"]
+  n3["bob-cli-pl.6.1.5--mon-1 [failed]"]
   n0 --> n3
-  n4["bob-cli-pl.6.1.5--mon [failed]"]
+  n4["bob-cli-pl.6.1.5--1 [completed]"]
   n0 --> n4
-  n5["bob-cli-pl.6.1.5--mon-6 [failed]"]
+  n5["bob-cli-pl.6.1.5--mon [failed]"]
   n0 --> n5
-  n6["bob-cli-pl.6.1.5--mon-7 [failed]"]
+  n6["bob-cli-pl.6.1.5--mon-6 [failed]"]
   n0 --> n6
-  n7["bob-cli-pl.6.1.5--4 [completed]"]
+  n7["bob-cli-pl.6.1.5--mon-7 [failed]"]
   n0 --> n7
-  n8["bob-cli-pl.6.1.5--6 [completed]"]
+  n8["bob-cli-pl.6.1.5--4 [completed]"]
   n0 --> n8
-  n9["bob-cli-pl.6.1.5--7 [completed]"]
+  n9["bob-cli-pl.6.1.5--6 [completed]"]
   n0 --> n9
-  n10["bob-cli-pl.6.1.5--mon-8 [active]"]
+  n10["bob-cli-pl.6.1.5--7 [completed]"]
   n0 --> n10
-  n11["bob-cli-pl.6.1.5--9 [completed]"]
+  n11["bob-cli-pl.6.1.5--plan [completed]"]
   n0 --> n11
-  n12["bob-cli-pl.6.1.5--2 [completed]"]
+  n12["bob-cli-pl.6.1.5--mon-8 [active]"]
   n0 --> n12
-  n13["bob-cli-pl.6.1.5--mon-2 [active]"]
+  n13["bob-cli-pl.6.1.5--9 [completed]"]
   n0 --> n13
-  n14["bob-cli-pl.6.1.5--plan [completed]"]
+  n14["bob-cli-pl.6.1.5--2 [completed]"]
   n0 --> n14
-  n15["bob-cli-pl.6.1.5--mon-3 [failed]"]
+  n15["bob-cli-pl.6.1.5--mon-2 [active]"]
   n0 --> n15
-  n16["bob-cli-pl.6.1.5--5 [completed]"]
+  n16["bob-cli-pl.6.1.5--mon-3 [failed]"]
   n0 --> n16
-  n17["bob-cli-pl.6.1.5--mon-5 [failed]"]
+  n17["bob-cli-pl.6.1.5--5 [completed]"]
   n0 --> n17
-  n18["bob-cli-pl.6.1.5--mon-4 [failed]"]
+  n18["bob-cli-pl.6.1.5--mon-5 [failed]"]
   n0 --> n18
-  n19["bob-cli-pl.6.1.5--8 [completed]"]
+  n19["bob-cli-pl.6.1.5--mon-4 [failed]"]
   n0 --> n19
+  n20["bob-cli-pl.6.1.5--8 [completed]"]
+  n0 --> n20
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
+| <a id="member-gate"></a>gate | bob-cli-pl.6.1.5--gate | active | opus / claude | 2026-11-25T22:10:35.931826+00:00 | 0 | — | — |
 | <a id="member-3"></a>3 | bob-cli-pl.6.1.5--3 | active | gpt-6-astra / codex | 2026-11-25T19:33:12.669367+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--3/prompt.md) | — |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-pl.6.1.5--mon-0 | failed | gpt-6-astra / codex | 2026-11-25T18:43:06.557888+00:00 → 2026-11-25T18:58:08.376604+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-0/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-pl.6.1.5--mon-1 | failed | gpt-6-astra / codex | 2026-11-25T19:16:33.762661+00:00 → 2026-11-25T19:33:12.782159+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-1/chat.md) |
@@ -63,11 +66,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-4"></a>4 | bob-cli-pl.6.1.5--4 | completed | gpt-6-luna / codex | 2026-11-25T13:04:17.728870+00:00 → 2026-11-25T13:16:36.066252+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--4/chat.md) |
 | <a id="member-6"></a>6 | bob-cli-pl.6.1.5--6 | completed | gpt-6-luna / codex | 2026-11-25T14:17:30.204128+00:00 → 2026-11-25T14:26:18.662056+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--6/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--6/chat.md) |
 | <a id="member-7"></a>7 | bob-cli-pl.6.1.5--7 | completed | gpt-6-luna / codex | 2026-11-25T14:28:36.645513+00:00 → 2026-11-25T15:20:16.362793+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--7/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--7/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-pl.6.1.5--plan | completed | opus / claude | 2026-11-25T20:02:02.378353+00:00 → 2026-11-25T22:10:49.362252+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--plan/chat.md) |
 | <a id="member-mon-8"></a>mon-8 | bob-cli-pl.6.1.5--mon-8 | active | gpt-6-luna / codex | 2026-11-25T17:13:29.854472+00:00 | 0 | — | — |
 | <a id="member-9"></a>9 | bob-cli-pl.6.1.5--9 | completed | gpt-6-luna / codex | 2026-11-25T16:37:08.848355+00:00 → 2026-11-25T17:16:12.603846+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--9/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--9/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-pl.6.1.5--2 | completed | gpt-6-astra / codex | 2026-11-25T18:58:08.148285+00:00 → 2026-11-25T19:19:02.370610+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--2/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-pl.6.1.5--mon-2 | active | gpt-6-astra / codex | 2026-11-25T19:50:52.327506+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-pl.6.1.5--plan | completed | gpt-6-astra / codex | 2026-11-25T17:54:17.573603+00:00 → 2026-11-25T18:12:00.396759+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--plan/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | bob-cli-pl.6.1.5--mon-3 | failed | gpt-6-luna / codex | 2026-11-25T13:14:14.960249+00:00 → 2026-11-25T13:21:20.966717+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-3/chat.md) |
 | <a id="member-5"></a>5 | bob-cli-pl.6.1.5--5 | completed | gpt-6-luna / codex | 2026-11-25T13:21:23.013505+00:00 → 2026-11-25T14:12:58.618423+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--5/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | bob-cli-pl.6.1.5--mon-5 | failed | gpt-6-luna / codex | 2026-11-25T14:25:26.342423+00:00 → 2026-11-25T14:28:36.654894+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.6.1.5--mon-5/chat.md) |
@@ -86,6 +89,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | 7 | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Failed settings acceptance report jreet53khzsz, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125092735/property-editor-settings-e2e-… |
 | 8 | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Failed settings acceptance report ewgwedrv584s, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125102459/property-editor-settings-e2e-… |
 | 9 | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: settings acceptance failed report 7497esk1cx0t, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125113620/property-editor-settings-e2e-… |
+| plan | `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Settings acceptance final review: 52 image verdicts, provenance, independent checks, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2026112… |
 
 #### artifacts
 
@@ -528,6 +532,31 @@ The diagram is an optional enhancement; the ordered table below contains the sam
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125113620/property-editor-parity-filter-390-dark-cf095f3e3376.png
   ref: file:explicit:70fdaff98b9a79c329c9afb9
   source_path: /tmp/bob-plugins-settings-e2e-shots/property-editor-parity-filter-390-dark.png
+```
+
+#### artifacts
+
+**Role:** `plan`
+
+```yaml
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Settings acceptance final review: 52 image verdicts, provenance, independent checks
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125150106/settings-acceptance-review-final-346b500ad17c.json
+  ref: file:explicit:935580a3605b66b0a8062706
+  source_path: /tmp/claude-preflight-pl615/settings-acceptance-review-final.json
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Settings acceptance r8 report (PASS 363, rebased on 1c2534cc)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125150106/settings-acceptance-report-r8-a6773bdf5d89.json
+  ref: file:explicit:373dee2e6fe46fd2287f55e6
+  source_path: /tmp/claude-preflight-pl615/settings-acceptance-report-r8.json
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Settings acceptance r7+r8 evidence archive (reports, logs, 104 PNGs)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125150106/settings-acceptance-final-evidence.tar-1d5d3d280be1.gz
+  ref: file:explicit:e311204aef86ae42a951d44e
+  source_path: /tmp/claude-preflight-pl615/settings-acceptance-final-evidence.tar.gz
 ```
 
 Values are truncated for display; see each member's agent meta.json for the full values.

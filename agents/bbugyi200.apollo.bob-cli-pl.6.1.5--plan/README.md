@@ -2,21 +2,53 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / [bob-cli-pl.6.1.5](../../sessions/bbugyi200.apollo.bob-cli-pl.6.1.5.md) / bob-cli-pl.6.1.5--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-pl.6.1.5--plan` · **State:** completed · **Source run:** `run-ba1f520a603515c95627537e675c1bc0`
+**Global name:** `bbugyi200.apollo.bob-cli-pl.6.1.5--plan` · **State:** completed · **Source run:** `run-9aca1db8b5e61a2a78967b8d8c887f1a`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pl
 
 ## Summary
 
 - Bead: [bob-cli-pl.6.1.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.6.1.5.md)
-- Model: gpt-6-astra
-- Provider: codex
-- Timing: 2026-11-25T17:54:17.573603+00:00 → 2026-11-25T18:12:00.396759+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-25T20:02:02.378353+00:00 → 2026-11-25T22:10:49.362252+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Settings acceptance final review: 52 image verdicts, provenance, independent checks, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2026112… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Settings acceptance final review: 52 image verdicts, provenance, independent checks
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125150106/settings-acceptance-review-final-346b500ad17c.json
+  ref: file:explicit:935580a3605b66b0a8062706
+  source_path: /tmp/claude-preflight-pl615/settings-acceptance-review-final.json
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Settings acceptance r8 report (PASS 363, rebased on 1c2534cc)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125150106/settings-acceptance-report-r8-a6773bdf5d89.json
+  ref: file:explicit:373dee2e6fe46fd2287f55e6
+  source_path: /tmp/claude-preflight-pl615/settings-acceptance-report-r8.json
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Settings acceptance r7+r8 evidence archive (reports, logs, 104 PNGs)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125150106/settings-acceptance-final-evidence.tar-1d5d3d280be1.gz
+  ref: file:explicit:e311204aef86ae42a951d44e
+  source_path: /tmp/claude-preflight-pl615/settings-acceptance-final-evidence.tar.gz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
