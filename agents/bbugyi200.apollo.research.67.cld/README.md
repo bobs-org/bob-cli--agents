@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.67.cld
 
-**Global name:** `bbugyi200.apollo.research.67.cld` · **State:** active · **Source run:** `run-9e8ab0dbd583b1cd913ef3693928903c`
+**Global name:** `bbugyi200.apollo.research.67.cld` · **State:** completed · **Source run:** `run-9e8ab0dbd583b1cd913ef3693928903c`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-25T12:46:11.642997+00:00
+- Timing: 2026-11-25T12:46:11.642997+00:00 → 2026-11-25T13:02:05.212006+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/snoozed\_task\_links\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125074454/snoozed\_task\_links\_\_cld-f9b3490fcf7f.md, ref: file:ex… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/snoozed_task_links__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125074454/snoozed_task_links__cld-f9b3490fcf7f.md
+  ref: file:explicit:c30d58f9f053acdc9be36a6d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_18/sase/repos/research/202611/snoozed_task_links__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.67.cdx](../bbugyi200.apollo.research.67.cdx/README.md) | research.67 hood | completed |
 | [research.67.final](../bbugyi200.apollo.research.67.final/README.md) | research.67 hood | waiting |
 | [research.67.gem](../bbugyi200.apollo.research.67.gem/README.md) | research.67 hood | active |
-| [research.67.grk](../bbugyi200.apollo.research.67.grk/README.md) | research.67 hood | active |
+| [research.67.grk](../bbugyi200.apollo.research.67.grk/README.md) | research.67 hood | completed |
 | [research.67.image](../bbugyi200.apollo.research.67.image/README.md) | research.67 hood | waiting |
 | [research.67.linker](../bbugyi200.apollo.research.67.linker/README.md) | research.67 hood | waiting |
 | [research.67.mus](../bbugyi200.apollo.research.67.mus/README.md) | research.67 hood | completed |

@@ -12,10 +12,29 @@
 - Provider: claude
 - Timing: 20261125070733
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/better\_o\_gesture\_settle/better\_o\_gesture\_settle\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125070733/better\_o\_gesture\_settl… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/better_o_gesture_settle/better_o_gesture_settle__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125070733/better_o_gesture_settle__final-e610f0e1e7a2.md
+  ref: file:explicit:a3594e1cf93e9047480934ba
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202611/better_o_gesture_settle/better_o_gesture_settle__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
