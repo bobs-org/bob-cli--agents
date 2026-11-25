@@ -23,8 +23,8 @@
 |---|---|---|
 | [research.6d.cdx](../bbugyi200.apollo.research.6d.cdx/README.md) | research.6d hood | completed |
 | [research.6d.cld](../bbugyi200.apollo.research.6d.cld/README.md) | research.6d hood | completed |
-| [research.6d.gem](../bbugyi200.apollo.research.6d.gem/README.md) | research.6d hood | active |
-| [research.6d.grk](../bbugyi200.apollo.research.6d.grk/README.md) | research.6d hood | active |
+| [research.6d.gem](../bbugyi200.apollo.research.6d.gem/README.md) | research.6d hood | completed |
+| [research.6d.grk](../bbugyi200.apollo.research.6d.grk/README.md) | research.6d hood | completed |
 | [research.6d.image](../bbugyi200.apollo.research.6d.image/README.md) | research.6d hood | waiting |
 | [research.6d.linker](../bbugyi200.apollo.research.6d.linker/README.md) | research.6d hood | waiting |
 | [research.6d.mus](../bbugyi200.apollo.research.6d.mus/README.md) | research.6d hood | completed |

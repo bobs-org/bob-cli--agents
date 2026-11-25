@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6d.grk
 
-**Global name:** `bbugyi200.apollo.research.6d.grk` · **State:** active · **Source run:** `run-f034132b3bde8f0afc3846a0787a4979`
+**Global name:** `bbugyi200.apollo.research.6d.grk` · **State:** completed · **Source run:** `run-f034132b3bde8f0afc3846a0787a4979`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-25T19:01:50.524617+00:00
+- Timing: 2026-11-25T19:01:50.524617+00:00 → 2026-11-25T19:21:50.200877+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/capture\_at\_route\_caret\_goto/capture\_at\_route\_caret\_goto\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125135941/capture\_at\_route… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/capture_at_route_caret_goto/capture_at_route_caret_goto__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125135941/capture_at_route_caret_goto__grk-b0b19116760b.md
+  ref: file:explicit:84f89ab61254bdf5f9d87a86
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_18/sase/repos/research/202611/capture_at_route_caret_goto/capture_at_route_caret_goto__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -24,7 +43,7 @@
 | [research.6d.cdx](../bbugyi200.apollo.research.6d.cdx/README.md) | research.6d hood | completed |
 | [research.6d.cld](../bbugyi200.apollo.research.6d.cld/README.md) | research.6d hood | completed |
 | [research.6d.final](../bbugyi200.apollo.research.6d.final/README.md) | research.6d hood | waiting |
-| [research.6d.gem](../bbugyi200.apollo.research.6d.gem/README.md) | research.6d hood | active |
+| [research.6d.gem](../bbugyi200.apollo.research.6d.gem/README.md) | research.6d hood | completed |
 | [research.6d.image](../bbugyi200.apollo.research.6d.image/README.md) | research.6d hood | waiting |
 | [research.6d.linker](../bbugyi200.apollo.research.6d.linker/README.md) | research.6d hood | waiting |
 | [research.6d.mus](../bbugyi200.apollo.research.6d.mus/README.md) | research.6d hood | completed |
