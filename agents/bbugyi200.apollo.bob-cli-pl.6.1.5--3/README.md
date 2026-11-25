@@ -2,38 +2,50 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / [bob-cli-pl.6.1.5](../../sessions/bbugyi200.apollo.bob-cli-pl.6.1.5.md) / bob-cli-pl.6.1.5--3
 
-**Global name:** `bbugyi200.apollo.bob-cli-pl.6.1.5--3` · **State:** completed · **Source run:** `run-f6d13f29a6383d93de167c4468aaf25f`
+**Global name:** `bbugyi200.apollo.bob-cli-pl.6.1.5--3` · **State:** active · **Source run:** `run-084d31a919c44902d4b79d9d356d2d11`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pl
 
 ## Summary
 
 - Bead: [bob-cli-pl.6.1.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.6.1.5.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-25T12:43:43.073207+00:00 → 2026-11-25T12:59:53.265462+00:00
+- Timing: 2026-11-25T19:33:12.669367+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Chat](chat.md) · [Prompt](prompt.md)
+[Prompt](prompt.md)
 
 ## Variables
 
 | Variable | Value |
 |---|---|
-| `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Settings acceptance failure report (managed rows collapsed), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125074255/property-editor-… |
+| `artifacts` | \[{bead: bob-cli-pl.6.1.5, kind: file, label: Settings acceptance a4knqw report (277 passes, alias preview race), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125143216/report-d2… |
 
 #### artifacts
 
 ```yaml
 - bead: bob-cli-pl.6.1.5
   kind: file
-  label: Settings acceptance failure report (managed rows collapsed)
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125074255/property-editor-settings-e2e-3acd577a0af6.json
-  ref: file:explicit:380437933d2ad00ffe9bf9e5
-  source_path: /tmp/property-editor-settings-e2e.json
+  label: Settings acceptance a4knqw report (277 passes, alias preview race)
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125143216/report-d2a449e01363.json
+  ref: file:explicit:d980a3b08f0597fba13d1f2e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/settings-acceptance/run-1grsJ5qZ/evidence/report.json
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: All49 settings acceptance screenshots and independent check review a4knqw
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125143216/review-fbd4c526c284.json
+  ref: file:explicit:7ec227016b8bda0afa771023
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/settings-acceptance/run-1grsJ5qZ/evidence/review.json
+- bead: bob-cli-pl.6.1.5
+  kind: file
+  label: Complete a4knqw report logs and49 PNG evidence
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125143216/settings-a4knqw-evidence.tar-8850b2c1e39c.gz
+  ref: file:explicit:0e8eba0ddfe46989f75cb0c7
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_15/.build/settings-acceptance/settings-a4knqw-evidence.tar.gz
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6d.image
 
-**Global name:** `bbugyi200.apollo.research.6d.image` · **State:** waiting · **Source run:** `run-1a801b6e17a0f47cc8e662b2d5d792a3`
+**Global name:** `bbugyi200.apollo.research.6d.image` · **State:** completed · **Source run:** `run-1a801b6e17a0f47cc8e662b2d5d792a3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261125135945
+- Timing: 2026-11-25T19:38:41.199441+00:00 → 2026-11-25T19:50:57.200264+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/caret\_address\_goto\_capture/caret\_address\_goto\_capture\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125135945/caret\_addr… |
+| `diagrams` | {considered: 14, count: 2, manifest: 202611/caret\_address\_goto\_capture/caret\_address\_goto\_capture.diagrams.md, source\_ref: file:explicit:c546812555706d11bc333ca6, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/caret_address_goto_capture/caret_address_goto_capture_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125135945/caret_address_goto_capture_infographic-7bc96e5b8cf2.png
+  ref: file:explicit:6821a7e1eab1a94bf5b954d5
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/caret_address_goto_capture/caret_address_goto_capture_infographic.png
+- kind: markdown
+  label: diagrams:202611/caret_address_goto_capture/caret_address_goto_capture.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125135945/caret_address_goto_capture.diagrams-7381e196ea5e.md
+  ref: file:explicit:4fdd0177065680148510b0ff
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/caret_address_goto_capture/caret_address_goto_capture.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 2
+manifest: 202611/caret_address_goto_capture/caret_address_goto_capture.diagrams.md
+source_ref: file:explicit:c546812555706d11bc333ca6
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
