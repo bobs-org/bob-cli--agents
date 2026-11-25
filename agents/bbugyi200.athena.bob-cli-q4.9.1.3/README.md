@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / bob-cli-q4.9.1.3
 
-**Global name:** `bbugyi200.athena.bob-cli-q4.9.1.3` · **State:** waiting · **Source run:** `run-b0ad469842a69df298e33b987e057656`
+**Global name:** `bbugyi200.athena.bob-cli-q4.9.1.3` · **State:** completed · **Source run:** `run-b0ad469842a69df298e33b987e057656`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q4
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-q4.9.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.9.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261125144847
+- Timing: 2026-11-25T20:52:51.704943+00:00 → 2026-11-25T21:31:08.299613+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -31,7 +31,7 @@
 | [bob-cli-q4.1](../bbugyi200.athena.bob-cli-q4.1/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.10](../../sessions/bbugyi200.athena.bob-cli-q4.10.md) (session · 3) | bob-cli-q4 hood | active 1, completed 2 |
 | [bob-cli-q4.10.1.1](../bbugyi200.athena.bob-cli-q4.10.1.1/README.md) | bob-cli-q4 hood | completed |
-| [bob-cli-q4.10.1.2](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.2.md) (session · 6) | bob-cli-q4 hood | active 1, completed 3, failed 2 |
+| [bob-cli-q4.10.1.2](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.2.md) (session · 7) | bob-cli-q4 hood | completed 5, failed 2 |
 | [bob-cli-q4.10.1.3](../bbugyi200.athena.bob-cli-q4.10.1.3/README.md) | bob-cli-q4 hood | waiting |
 | [bob-cli-q4.10.1.4](../bbugyi200.athena.bob-cli-q4.10.1.4/README.md) | bob-cli-q4 hood | waiting |
 | [bob-cli-q4.10.1.5](../bbugyi200.athena.bob-cli-q4.10.1.5/README.md) | bob-cli-q4 hood | waiting |
