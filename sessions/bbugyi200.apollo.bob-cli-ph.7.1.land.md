@@ -2,26 +2,29 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / bob-cli-ph.7.1.land
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-ph` · Members: 3 · Bead: [bob-cli-ph.7.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.7.1.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-ph` · Members: 4 · Bead: [bob-cli-ph.7.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.7.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ph.7.1.land--code [active]"]
-  n1["bob-cli-ph.7.1.land--gate [completed]"]
+  n0["bob-cli-ph.7.1.land--code [completed]"]
+  n1["bob-cli-ph.7.1.land--mon [active]"]
   n0 --> n1
-  n2["bob-cli-ph.7.1.land--plan [active]"]
+  n2["bob-cli-ph.7.1.land--gate [completed]"]
   n0 --> n2
+  n3["bob-cli-ph.7.1.land--plan [completed]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-ph.7.1.land--code | active | gpt-6-luna / codex | 2026-11-25T18:18:28.188551+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-ph.7.1.land--code | completed | gpt-6-luna / codex | 2026-11-25T18:18:28.188551+00:00 → 2026-11-25T18:51:06.889333+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--code/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-ph.7.1.land--mon | active | gpt-6-luna / codex | 2026-11-25T18:48:19.179264+00:00 | 0 | — | — |
 | <a id="member-gate"></a>gate | bob-cli-ph.7.1.land--gate | completed | gpt-6-astra / codex | 2026-11-25T18:17:38.412891+00:00 → 2026-11-25T18:17:48.258626+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ph.7.1.land--plan | active | gpt-6-astra / codex | 2026-11-25T18:06:31.261069+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ph.7.1.land--plan | completed | gpt-6-astra / codex | 2026-11-25T18:06:31.261069+00:00 → 2026-11-25T18:51:06.889333+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--plan/chat.md) |
 
 ## Neighbors
 
