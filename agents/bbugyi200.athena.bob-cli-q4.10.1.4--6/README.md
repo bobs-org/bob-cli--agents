@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / [bob-cli-q4.10.1.4](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.4.md) / bob-cli-q4.10.1.4--6
 
-**Global name:** `bbugyi200.athena.bob-cli-q4.10.1.4--6` · **State:** active · **Source run:** `run-6ac1cb28f639b719846e148e5089def8`
+**Global name:** `bbugyi200.athena.bob-cli-q4.10.1.4--6` · **State:** completed · **Source run:** `run-6ac1cb28f639b719846e148e5089def8`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q4
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-q4.10.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.10.1.4.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-25T23:41:14.020084+00:00
-- Commits: 0
+- Timing: 2026-11-25T23:41:14.020084+00:00 → 2026-11-25T23:54:38.191228+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`8850f2e`](https://github.com/bobs-org/bob-cli/commit/8850f2e639a862f5814eae348449ebd232053bb7) | docs(reference): satisfy word-budget lint | 2026-11-25 18:53:41 EST |
 
 ## Neighbors
 
@@ -49,5 +55,5 @@
 | [bob-cli-q4.9.1.2](../bbugyi200.athena.bob-cli-q4.9.1.2/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.9.1.3](../bbugyi200.athena.bob-cli-q4.9.1.3/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.9.1.4](../bbugyi200.athena.bob-cli-q4.9.1.4/README.md) | bob-cli-q4 hood | completed |
-| [bob-cli-q4.9.1.land](../../sessions/bbugyi200.athena.bob-cli-q4.9.1.land.md) (session · 9) | bob-cli-q4 hood | active 1, completed 6, failed 2 |
+| [bob-cli-q4.9.1.land](../../sessions/bbugyi200.athena.bob-cli-q4.9.1.land.md) (session · 10) | bob-cli-q4 hood | active 2, completed 6, failed 2 |
 | [bob-cli-q4.land](../bbugyi200.athena.bob-cli-q4.land/README.md) | bob-cli-q4 hood | waiting |
