@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / bob-cli-q4.10.1.4
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-q4` · Members: 4 · Bead: [bob-cli-q4.10.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.10.1.4.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-q4` · Members: 6 · Bead: [bob-cli-q4.10.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.10.1.4.md)
 
 ## Lineage
 
@@ -13,8 +13,12 @@ flowchart TD
   n0 --> n1
   n2["bob-cli-q4.10.1.4--1 [completed]"]
   n0 --> n2
-  n3["bob-cli-q4.10.1.4--mon-0 [active]"]
+  n3["bob-cli-q4.10.1.4--2 [completed]"]
   n0 --> n3
+  n4["bob-cli-q4.10.1.4--mon-1 [active]"]
+  n0 --> n4
+  n5["bob-cli-q4.10.1.4--mon-0 [failed]"]
+  n0 --> n5
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -24,7 +28,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon"></a>mon | bob-cli-q4.10.1.4--mon | failed | gpt-6-luna / codex | 2026-11-25T22:13:53.096483+00:00 → 2026-11-25T22:17:47.278884+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-q4.10.1.4--plan | completed | gpt-6-luna / codex | 2026-11-25T21:48:02.082773+00:00 → 2026-11-25T22:15:59.451447+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--plan/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-q4.10.1.4--1 | completed | gpt-6-luna / codex | 2026-11-25T22:17:47.161050+00:00 → 2026-11-25T22:25:09.072161+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--1/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | bob-cli-q4.10.1.4--mon-0 | active | gpt-6-luna / codex | 2026-11-25T22:22:31.735690+00:00 | 0 | — | — |
+| <a id="member-2"></a>2 | bob-cli-q4.10.1.4--2 | completed | gpt-6-luna / codex | 2026-11-25T22:27:45.294238+00:00 → 2026-11-25T22:35:01.187205+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--2/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | bob-cli-q4.10.1.4--mon-1 | active | gpt-6-luna / codex | 2026-11-25T22:33:15.940032+00:00 | 0 | — | — |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-q4.10.1.4--mon-0 | failed | gpt-6-luna / codex | 2026-11-25T22:22:31.735690+00:00 → 2026-11-25T22:27:45.569878+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--mon-0/chat.md) |
 
 ## Neighbors
 
