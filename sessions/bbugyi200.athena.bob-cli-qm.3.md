@@ -21,7 +21,7 @@ flowchart TD
   n0 --> n5
   n6["bob-cli-qm.3--plan [completed]"]
   n0 --> n6
-  n7["bob-cli-qm.3--4 [active]"]
+  n7["bob-cli-qm.3--4 [completed]"]
   n0 --> n7
   n8["bob-cli-qm.3--2 [completed]"]
   n0 --> n8
@@ -38,7 +38,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-2"></a>mon-2 | bob-cli-qm.3--mon-2 | completed | gpt-6-luna / codex | 2026-11-26T19:23:06.958928+00:00 → 2026-11-26T19:26:37.932260+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qm.3--mon-2/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-qm.3--mon | completed | gpt-6-luna / codex | 2026-11-26T18:41:25.671132+00:00 → 2026-11-26T18:45:18.651156+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qm.3--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-qm.3--plan | completed | gpt-6-luna / codex | 2026-11-26T18:09:51.160756+00:00 → 2026-11-26T18:42:40.128621+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qm.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qm.3--plan/chat.md) |
-| <a id="member-4"></a>4 | bob-cli-qm.3--4 | active | gpt-6-luna / codex | 2026-11-26T19:26:37.476458+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qm.3--4/prompt.md) | — |
+| <a id="member-4"></a>4 | bob-cli-qm.3--4 | completed | gpt-6-luna / codex | 2026-11-26T19:26:37.476458+00:00 → 2026-11-26T19:28:44.596522+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qm.3--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qm.3--4/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-qm.3--2 | completed | gpt-6-luna / codex | 2026-11-26T18:56:22.282714+00:00 → 2026-11-26T18:58:50.049258+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qm.3--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qm.3--2/chat.md) |
 
 ## Neighbors
