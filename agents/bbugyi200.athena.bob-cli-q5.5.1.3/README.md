@@ -35,6 +35,12 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126153904/bob-plugins-npm-test-b7470914bfc6.log
   ref: file:explicit:f3bba5b63624498f954b0f11
   source_path: /tmp/bob-plugins-npm-test.log
+- bead: bob-cli-io
+  kind: file
+  label: bob-plugins frees-marks CPU budget flake evidence 2026-11-26
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126153904/bob-plugins-frees-marks-flake-evidence-424f08d500fb.txt
+  ref: file:explicit:efce786f012482b7c4ed728b
+  source_path: /tmp/bob-plugins-frees-marks-flake-evidence.txt
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
@@ -86,7 +92,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-q5.8.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.1.md) (session · 8) | bob-cli-q5 hood | completed 4, failed 4 |
 | [bob-cli-q5.8.1.2](../bbugyi200.athena.bob-cli-q5.8.1.2/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.8.1.3](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.3.md) (session · 5) | bob-cli-q5 hood | completed 3, failed 2 |
-| [bob-cli-q5.8.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.4.md) (session · 4) | bob-cli-q5 hood | active 1, completed 2, failed 1 |
+| [bob-cli-q5.8.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.4.md) (session · 7) | bob-cli-q5 hood | active 1, completed 4, failed 2 |
 | [bob-cli-q5.8.1.5](../bbugyi200.athena.bob-cli-q5.8.1.5/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.8.1.land](../bbugyi200.athena.bob-cli-q5.8.1.land/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.9](../bbugyi200.athena.bob-cli-q5.9/README.md) | bob-cli-q5 hood | waiting |
