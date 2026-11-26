@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.2.1.4
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.2.1.4` · **State:** waiting · **Source run:** `run-d8088bf5a066ed88b5e899f14d45ca1e`
+**Global name:** `bbugyi200.athena.bob-cli-q5.2.1.4` · **State:** completed · **Source run:** `run-d8088bf5a066ed88b5e899f14d45ca1e`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q5.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.2.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261125194016
-- Commits: 0
+- Timing: 2026-11-26T10:02:46.217578+00:00 → 2026-11-26T11:00:31.085942+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f32e774`](https://github.com/bobs-org/bob-cli/commit/f32e774c92ec7ae564c5f6926563bd2a8adef772) | feat(agenda): publish snoozed rows and wake provenance | 2026-11-26 05:59:33 EST |
 
 ## Neighbors
 
@@ -40,7 +46,7 @@
 | [bob-cli-q5.3.1.1](../bbugyi200.athena.bob-cli-q5.3.1.1/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.3.1.2](../bbugyi200.athena.bob-cli-q5.3.1.2/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.3.1.3](../../sessions/bbugyi200.athena.bob-cli-q5.3.1.3.md) (session · 7) | bob-cli-q5 hood | completed 6, failed 1 |
-| [bob-cli-q5.3.1.land](../bbugyi200.athena.bob-cli-q5.3.1.land/README.md) | bob-cli-q5 hood | waiting |
+| [bob-cli-q5.3.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.3.1.land.md) (session · 3) | bob-cli-q5 hood | active 2, completed 1 |
 | [bob-cli-q5.4](../bbugyi200.athena.bob-cli-q5.4/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.5](../bbugyi200.athena.bob-cli-q5.5/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.6](../bbugyi200.athena.bob-cli-q5.6/README.md) | bob-cli-q5 hood | waiting |
