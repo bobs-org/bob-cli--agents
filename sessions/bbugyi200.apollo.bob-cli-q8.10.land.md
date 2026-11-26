@@ -8,10 +8,10 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-q8` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-q8.10.land--plan [active]"]
+  n0["bob-cli-q8.10.land--plan [completed]"]
   n1["bob-cli-q8.10.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-q8.10.land--code [active]"]
+  n2["bob-cli-q8.10.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,9 +19,15 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-q8.10.land--plan | active | gpt-6-astra / codex | 2026-11-26T10:43:33.241910+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-q8.10.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-q8.10.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-q8.10.land--plan | completed | gpt-6-astra / codex | 2026-11-26T10:43:33.241910+00:00 → 2026-11-26T12:47:43.376743+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-q8.10.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-q8.10.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-q8.10.land--gate | completed | gpt-6-astra / codex | 2026-11-26T11:04:17.847306+00:00 → 2026-11-26T11:04:28.207752+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-q8.10.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-q8.10.land--code | active | gpt-6-luna / codex | 2026-11-26T11:05:13.048138+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-q8.10.land--code | completed | gpt-6-luna / codex | 2026-11-26T11:05:13.048138+00:00 → 2026-11-26T12:47:43.376743+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-q8.10.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-q8.10.land--code/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`bab65e6`](https://github.com/bobs-org/bob-cli/commit/bab65e60b7aff27d0d783eb95fc407c8e1609c16) | docs(tasks): document tie reversal effects | 2026-11-26 07:36:25 EST |
 
 ## Neighbors
 

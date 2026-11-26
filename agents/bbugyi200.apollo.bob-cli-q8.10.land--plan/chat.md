@@ -4,6 +4,11 @@
 - **MODEL:** codex/gpt-6-astra
 - **AGENT:** bob-cli-q8.10.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_q8_10_land__plan-261126_021032.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_q8_10_land__code-261126_021032.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/finish_tie_dispatch.md
 
 
