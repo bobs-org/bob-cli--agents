@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / [bob-cli-ph.10](../../sessions/bbugyi200.apollo.bob-cli-ph.10.md) / bob-cli-ph.10--3
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.10--3` · **State:** active · **Source run:** `run-3d05bac07cb13416524740a7c0137e02`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.10--3` · **State:** completed · **Source run:** `run-3d05bac07cb13416524740a7c0137e02`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-ph.10](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.10.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261125224542
-- Commits: 0
+- Timing: 2026-11-26T03:46:35.195197+00:00 → 2026-11-26T03:52:52.078718+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`d820323`](https://github.com/bobs-org/bob-cli/commit/d8203235ac54ac416160d34f5e4080499315bbfe) | fix(capture): borrow parsed drawer kind in record fixture | 2026-11-25 22:51:25 EST |
 
 ## Neighbors
 

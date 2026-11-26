@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-3d05bac07cb13416524740a7c0137e02"}
+{"commits":[{"committed_at":1795665085,"sha":"d8203235ac54ac416160d34f5e4080499315bbfe","subject":"fix(capture): borrow parsed drawer kind in record fixture"}],"schema_version":2,"source_run_id":"run-3d05bac07cb13416524740a7c0137e02"}
