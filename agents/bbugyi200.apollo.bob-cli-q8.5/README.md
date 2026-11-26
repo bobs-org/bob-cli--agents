@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-q8](../../users/bbugyi200/machines/apollo/hoods/bob-cli-q8/README.md) / bob-cli-q8.5
 
-**Global name:** `bbugyi200.apollo.bob-cli-q8.5` · **State:** active · **Source run:** `run-4a48e0a55f1564918803397c87bbcabd`
+**Global name:** `bbugyi200.apollo.bob-cli-q8.5` · **State:** completed · **Source run:** `run-4a48e0a55f1564918803397c87bbcabd`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-q8
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q8/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-26T00:52:31.490995+00:00
-- Commits: 0
+- Timing: 2026-11-26T00:52:31.490995+00:00 → 2026-11-26T02:22:56.326006+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`f6e333d`](https://github.com/bobs-org/bob-cli/commit/f6e333d58ce52291831aa668ac094da37f5f6d62) | feat(relations): publish plain-link tie vectors PT22-39 and writer absorption contract | 2026-11-25 21:21:16 EST |
 
 ## Neighbors
 

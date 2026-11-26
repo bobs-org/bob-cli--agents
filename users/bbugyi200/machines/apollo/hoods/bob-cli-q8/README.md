@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-q8
 
-**Global hood:** `bbugyi200.apollo.bob-cli-q8` · **Runs:** 10 · **Sessions:** 0 · **States:** active 2, completed 3, waiting 5
+**Global hood:** `bbugyi200.apollo.bob-cli-q8` · **Runs:** 10 · **Sessions:** 0 · **States:** active 1, completed 4, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-q8.9](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.9/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261125181905 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.9/prompt.md) |
-| [bob-cli-q8.5](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.5/README.md) | active | muse-spark-1.3-contributor / muse | 2026-11-26T00:52:31.490995+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.5/prompt.md) |
+| [bob-cli-q8.5](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.5/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-26T00:52:31.490995+00:00 → 2026-11-26T02:22:56.326006+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.5/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.5/chat.md) |
 | [bob-cli-q8.land](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.land/README.md) | waiting | opus / claude | 20261125181908 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.land/prompt.md) |
 | [bob-cli-q8.4](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.4/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-26T00:54:31.094446+00:00 → 2026-11-26T01:37:02.956707+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.4/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.4/chat.md) |
 | [bob-cli-q8.6](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.6/README.md) | waiting | gpt-6-luna / codex | 20261125181904 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.6/prompt.md) |
