@@ -89,7 +89,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-q5.6](../agents/bbugyi200.athena.bob-cli-q5.6/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.7](bbugyi200.athena.bob-cli-q5.7.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.7.1.1](../agents/bbugyi200.athena.bob-cli-q5.7.1.1/README.md) | bob-cli-q5 hood | completed |
-| [bob-cli-q5.7.1.2](bbugyi200.athena.bob-cli-q5.7.1.2.md) (session · 2) | bob-cli-q5 hood | active 1, completed 1 |
+| [bob-cli-q5.7.1.2](bbugyi200.athena.bob-cli-q5.7.1.2.md) (session · 3) | bob-cli-q5 hood | completed 2, failed 1 |
 | [bob-cli-q5.7.1.3](../agents/bbugyi200.athena.bob-cli-q5.7.1.3/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.7.1.land](../agents/bbugyi200.athena.bob-cli-q5.7.1.land/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.8](../agents/bbugyi200.athena.bob-cli-q5.8/README.md) | bob-cli-q5 hood | waiting |

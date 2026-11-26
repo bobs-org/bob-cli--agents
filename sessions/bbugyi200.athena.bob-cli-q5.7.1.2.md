@@ -2,23 +2,26 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.7.1.2
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-q5` · Members: 2 · Bead: [bob-cli-q5.7.1.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.7.1.2.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-q5` · Members: 3 · Bead: [bob-cli-q5.7.1.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.7.1.2.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-q5.7.1.2--plan [completed]"]
-  n1["bob-cli-q5.7.1.2--mon [active]"]
+  n0["bob-cli-q5.7.1.2--1 [completed]"]
+  n1["bob-cli-q5.7.1.2--plan [completed]"]
   n0 --> n1
+  n2["bob-cli-q5.7.1.2--mon [failed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
+| <a id="member-1"></a>1 | bob-cli-q5.7.1.2--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T14:14:51.428743+00:00 → 2026-11-26T14:28:27.713225+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.7.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.2--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-q5.7.1.2--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-26T13:20:21.990383+00:00 → 2026-11-26T13:53:32.938532+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.7.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.2--plan/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-q5.7.1.2--mon | active | muse-spark-1.3-contributor / muse | 2026-11-26T13:50:05.131322+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-q5.7.1.2--mon | failed | muse-spark-1.3-contributor / muse | 2026-11-26T13:50:05.131322+00:00 → 2026-11-26T14:14:51.859483+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.2--mon/chat.md) |
 
 ## Neighbors
 
