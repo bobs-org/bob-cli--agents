@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.3.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.3.1.land.md) / bob-cli-q5.3.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.3.1.land--code` · **State:** active · **Source run:** `run-b9f6a48384b0ed7b46aaf8b353b697cb`
+**Global name:** `bbugyi200.athena.bob-cli-q5.3.1.land--code` · **State:** completed · **Source run:** `run-b9f6a48384b0ed7b46aaf8b353b697cb`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-q5.3.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.3.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-26T10:52:34.069746+00:00
-- Commits: 0
+- Timing: 2026-11-26T10:52:34.069746+00:00 → 2026-11-26T11:37:03.615016+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`7048c5c`](https://github.com/bobs-org/bob-cli/commit/7048c5c489ebadcb577ad1281a4c3fb85c2190de) | feat(capture): finish snooze drop preview parity and completion alias merge | 2026-11-26 06:35:24 EST |
 
 ## Neighbors
 
