@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6m.image
 
-**Global name:** `bbugyi200.apollo.research.6m.image` · **State:** waiting · **Source run:** `run-401fd5d96aa0491d92f74791244ccd5e`
+**Global name:** `bbugyi200.apollo.research.6m.image` · **State:** completed · **Source run:** `run-401fd5d96aa0491d92f74791244ccd5e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261126142537
+- Timing: 2026-11-26T20:13:04.792074+00:00 → 2026-11-26T20:22:33.982434+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/property\_card\_cabinets/property\_card\_cabinets\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126142537/property\_card\_cabinets\_i… |
+| `diagrams` | {considered: 14, count: 1, manifest: 202611/property\_card\_cabinets/property\_card\_cabinets.diagrams.md, source\_ref: file:explicit:8162117d17f3f0fb01930360, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/property_card_cabinets/property_card_cabinets_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126142537/property_card_cabinets_infographic-5aa2a9064ec2.png
+  ref: file:explicit:69df2eea2633e9fdb735157a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/property_card_cabinets/property_card_cabinets_infographic.png
+- kind: markdown
+  label: diagrams:202611/property_card_cabinets/property_card_cabinets.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126142537/property_card_cabinets.diagrams-a507915281b9.md
+  ref: file:explicit:18f8f30db269337e5be5e74f
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/property_card_cabinets/property_card_cabinets.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 1
+manifest: 202611/property_card_cabinets/property_card_cabinets.diagrams.md
+source_ref: file:explicit:8162117d17f3f0fb01930360
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +62,7 @@
 | [research.6m.gem](../bbugyi200.apollo.research.6m.gem/README.md) | research.6m hood | completed |
 | [research.6m.grk](../bbugyi200.apollo.research.6m.grk/README.md) | research.6m hood | completed |
 | [research.6m.linker](../bbugyi200.apollo.research.6m.linker/README.md) | research.6m hood | waiting |
+| [research.6m.linker.w0](../bbugyi200.apollo.research.6m.linker.w0/README.md) | research.6m hood | waiting |
 | [research.6m.mus](../bbugyi200.apollo.research.6m.mus/README.md) | research.6m hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
