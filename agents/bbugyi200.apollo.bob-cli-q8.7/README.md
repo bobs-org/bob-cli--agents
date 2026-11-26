@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-q8](../../users/bbugyi200/machines/apollo/hoods/bob-cli-q8/README.md) / bob-cli-q8.7
 
-**Global name:** `bbugyi200.apollo.bob-cli-q8.7` · **State:** waiting · **Source run:** `run-b8a955a9b1bcae28764067b2b3b9ab63`
+**Global name:** `bbugyi200.apollo.bob-cli-q8.7` · **State:** completed · **Source run:** `run-b8a955a9b1bcae28764067b2b3b9ab63`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-q8
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q8/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261125181906
-- Commits: 0
+- Timing: 2026-11-26T03:38:24.597673+00:00 → 2026-11-26T04:35:24.838849+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`01dee47`](https://github.com/bobs-org/bob-cli/commit/01dee47a01b6b24aa35175370d50bbe7b5fd779c) | docs(tasks): document tie conversion writes | 2026-11-25 23:33:24 EST |
 
 ## Neighbors
 
@@ -30,5 +36,5 @@
 | [bob-cli-q8.5](../bbugyi200.apollo.bob-cli-q8.5/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.6](../../sessions/bbugyi200.apollo.bob-cli-q8.6.md) (session · 3) | bob-cli-q8 hood | completed 3 |
 | [bob-cli-q8.8](../bbugyi200.apollo.bob-cli-q8.8/README.md) | bob-cli-q8 hood | waiting |
-| [bob-cli-q8.9](../bbugyi200.apollo.bob-cli-q8.9/README.md) | bob-cli-q8 hood | waiting |
+| [bob-cli-q8.9](../bbugyi200.apollo.bob-cli-q8.9/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.land](../bbugyi200.apollo.bob-cli-q8.land/README.md) | bob-cli-q8 hood | waiting |
