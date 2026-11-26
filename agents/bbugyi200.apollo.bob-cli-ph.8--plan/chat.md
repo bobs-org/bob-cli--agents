@@ -1,37 +1,37 @@
 # Chat History - ace-run (bob-cli-ph.8--plan)
 
-- **TIMESTAMP:** 2026-11-25 18:40:06 EST
-- **MODEL:** codex/gpt-6-astra
+- **TIMESTAMP:** 2026-11-25 20:55:38 EST
+- **MODEL:** claude/opus
 - **AGENT:** bob-cli-ph.8--plan
 
-**Plan:** /home/bryan/.sase/plans/202611/mac_true_case_drawers.md
+**Plan:** /home/bryan/.sase/plans/202611/finish_mac_true_case_drawers.md
 
 
 ## Proposed Plan Preview
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202611/mac_true_case_drawers.md`
+**Plan file:** `/home/bryan/.sase/plans/202611/finish_mac_true_case_drawers.md`
 
-> - **PARENT:** [202611/true_case_drawers.md](202611/true_case_drawers.md)
-> - **BEAD:** bob-cli-ph.8
-> # Complete Bob Mac Capture true-case drawers
-> ## Outcome and scope
-> Complete phase **bob-cli-ph.8** of `plan:202611/true_case_drawers.md`. The Mac draft
-> shows Bob's true-case drawer titles semibold, dims the literal `**` delimiters away from
-> the caret, and provides the approved star, Return, overtype, and Backspace assists.
-> Preview headers show an outline `tray` and the exact title Bob returns. Transfer and
-> merge destinations keep that title's case. JSON compatibility, native editing, and
-> existing requirement behavior survive.
+> # Finish Bob Mac Capture true-case drawers
+> This child epic finishes **bob-cli-ph.8**, the `mac-drawers` phase of
+> `plan:202611/true_case_drawers.md`. When it is done, a drawer in Bob Mac Capture reads
+> the way the parent epic designed it:
+> - **Preview.** A header line that Bob annotates with `drawer` shows an outline tray and
+>   the title exactly as Bob sent it, with no `**`.
+> - **Draft.** The editor shows the title semibold and the literal `**` delimiters dimmed.
+>   A delimiter returns to full ink while the caret touches it.
+> - **Typing.** On a bullet where Bob admits a drawer, typing `*` produces `- **|**`.
+>   Backspace on an empty `****` removes all four stars. The newline keys and a typed `*`
 
 *See full plan file for details.*
 
 ## Prompt
 
+%id(8, clan=bob-cli-ph, bead=bob-cli-ph.8)
 %auto
 #gh:gh_bobs-org__bob-cli
-%id(8, clan=bob-cli-ph, bead=bob-cli-ph.8)
-%model:@large
+%m:@xlarge 
 %w(bob-cli-ph.6, for_epic=false)
 %w(bead=bob-cli-ph.6)
 Can you complete the work for bead bob-cli-ph.8? The bead is already reserved for you and assigned to your agent
@@ -68,29 +68,43 @@ before making any file changes.
 
 ## Response
 
-I’ll read the phase scope and notes, check what has already landed, and use the `sase_plan` skill to submit a validated plan before changing files.
+Reading the phase's Mac repo state to see what the earlier agents already landed.
 
+Earlier agents landed decode/fixture/docs work (Mac `b45b1951`); the remainder is rendering, typing assists, tests, and CI. Loading the planning skill next.
 
-The phase has no notes recording earlier implementation work, and its CLI prerequisite is closed. I’ll inspect the Mac checkout and parent plan to see what remains. I’m using `sase_beads`, `sase_memory_read`, and `sase_repo` for those reads.
+Mac master is red at the landed drawer commit; checking why before planning.
 
+Mapping the requirement-marker precedent (styling, rewrite, Backspace) that the drawer assists will mirror.
 
-The Mac still lacks the new drawer annotations and star assist. Its sub-bullet presentation also uppercases drawer titles. This looks bounded enough for one coding agent. The installed SASE CLI rejected the documented roster command, so I used its available index command and audited reads of the relevant decisions.
+Reading the shipped Mac section of the contract page and the Mac docs so phases target only what's still missing.
 
+Both athena (Swift 6.0.3) and the mac are reachable, so phases can compile. Now reading the decisions roster as plan-writing requires.
 
-The CLI already provides `expand_drawer_marker`, delimiter spans, and preview annotations. The Mac can use those for rendering and typing behavior.
+Checking how a physical `*` is already handled in the Mac editor, since the drawer assist must not collide with it.
 
-One correction to my earlier update: the current menu and sub-bullet presentation code already preserves title case. I’ll keep that work and focus the plan on the missing rendering, typing assists, fixtures, and verification.
+I have enough context on the code. Now checking how the sibling phases' child epics (ph.6.1, ph.7.1) were structured so this one matches.
 
+Generated fixtures already carry `drawer` line annotations (bold, legacy_caps, section), so the preview phase can test from real replies. Checking whether agenda lines also carry them.
 
-The remaining uppercase conversions are in the transfer and merge previews. I’m writing a single-agent plan covering those fixes, drawer rendering, span-driven Enter/Backspace/overtype behavior, real Bob fixtures, and macOS checks. The approved glyph remains the outline `tray`.
+Choice labels must be one line of at most 100 characters. Shortening them.
 
+Plan validates with zero warnings. Recording a planning note on the phase bead, then proposing.
 
-The plan passed validation with zero warnings. I’ll submit it for approval now. As required by your request and the [`sase_plan` skill](/home/bryan/.codex/skills/sase_plan/SKILL.md), the staged proposal hands off to review before implementation. The bead remains in progress.
+The proposal is staged. Finishing the turn through `/sase_final`.
 
+I've proposed a plan for finishing bob-cli-ph.8; nothing starts until it's approved. The phase stays in progress and I changed no product files.
 
-The proposal is staged. I’m using `sase_final` to finish the handoff so review can start; implementation has not begun.
+**Mac master is broken right now.** The earlier commit `b45b1951` was landed without ever being compiled, and macOS CI run 45731912096 fails to build. `CaptureDrawerSummary.init(from:)` in `CaptureModels.swift:9857` calls `.map` on a plain `String`, which the compiler rejects. There may be more errors behind that one. Every Mac agent is blocked until this is fixed, so the plan's first phase is this repair and it depends on nothing.
 
+**Why a multi-agent plan:** three earlier runs worked this phase. They landed the data plumbing for drawer annotations (preview lines, summaries, presentation rows), removed the two `.uppercased()` calls, regenerated fixtures, and updated the docs. The rendering, typing, tests and CI checks were left undone. That remainder didn't fit one agent: Swift can only be compiled on athena or the mac, and every landing waits about 25 minutes for macOS CI. So the plan splits it into six phases:
 
-Validated a medium implementation plan with zero warnings and staged it for approval. `bob-cli-ph.8` remains in progress; no product code changed.
+1. **Build repair** (small, urgent): fix the compile error and add tests for the decoding and verbatim destination labels that already landed.
+2. **Preview tray** (medium): an annotated drawer header in the preview shows an outline `tray` and the exact title Bob sent, muted when empty. It also adds accessible labels and light/dark/high-contrast screenshots from CI.
+3. **Draft styling** (medium, can run alongside phase 2): drawer titles are semibold in the editor. The `**` markers are dimmed and return to full ink when the caret touches them. It also adds a shared span helper that the typing phases reuse.
+4. **Star expansion** (medium): typing `*` asks Bob whether a drawer can start there and, if so, expands to `- **|**` as one undoable edit. Backspace on an empty `****` removes all four stars at once.
+5. **Title keys** (medium): at the end of a drawer title, the newline keys jump past the closing `**` into a nested note, and a typed `*` steps over the closing pair.
+6. **Acceptance** (small): checks CI is green, publishes the screenshots and brings the Mac and bob-cli docs in line with what shipped. The epic's land agent then closes only bob-cli-ph.8.
 
-The required [`sase_plan` workflow](/home/bryan/.codex/skills/sase_plan/SKILL.md) says to “finish through `/sase_final`” after staging. That handoff is complete; implementation follows approval.
+**One choice for you.** In Mac Capture, plain Return submits the capture, so the epic's "Enter opens a nested note" behaviour can't map to it directly. The plan defaults to giving that behaviour to Shift-Return, Option-Return and Ctrl-J, with Return always capturing. The alternative also lets Return nest, but only where Bob would refuse the draft as an empty drawer.
+
+Both athena and the mac were reachable while I planned, so the phases can compile Swift. I also left a note on bob-cli-ph.8 about the broken build and the plan.
