@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-q8` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-q8.land--mon [active]"]
+  n0["bob-cli-q8.land--mon [completed]"]
   n1["bob-cli-q8.land--plan [active]"]
   n0 --> n1
   n2["bob-cli-q8.land--gate [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-q8.land--mon | active | opus / claude | 2026-11-26T07:09:10.098978+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-q8.land--mon | completed | opus / claude | 2026-11-26T07:09:10.098978+00:00 → 2026-11-26T07:12:55.645187+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-q8.land--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-q8.land--plan | active | opus / claude | 2026-11-26T05:50:44.334225+00:00 → 2026-11-26T07:09:21.493237+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-q8.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-q8.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-q8.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-q8.land--gate | completed | opus / claude | 2026-11-26T07:08:49.135835+00:00 → 2026-11-26T07:09:11.761750+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-q8.land--gate/chat.md) |
 
@@ -34,6 +34,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-q8.1](../agents/bbugyi200.apollo.bob-cli-q8.1/README.md) | bob-cli-q8 hood | completed |
+| [bob-cli-q8.10.1](../agents/bbugyi200.apollo.bob-cli-q8.10.1/README.md) | bob-cli-q8 hood | active |
+| [bob-cli-q8.10.2](../agents/bbugyi200.apollo.bob-cli-q8.10.2/README.md) | bob-cli-q8 hood | completed |
+| [bob-cli-q8.10.3](../agents/bbugyi200.apollo.bob-cli-q8.10.3/README.md) | bob-cli-q8 hood | active |
+| [bob-cli-q8.10.land](../agents/bbugyi200.apollo.bob-cli-q8.10.land/README.md) | bob-cli-q8 hood | waiting |
 | [bob-cli-q8.2](../agents/bbugyi200.apollo.bob-cli-q8.2/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.3](../agents/bbugyi200.apollo.bob-cli-q8.3/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.4](../agents/bbugyi200.apollo.bob-cli-q8.4/README.md) | bob-cli-q8 hood | completed |
