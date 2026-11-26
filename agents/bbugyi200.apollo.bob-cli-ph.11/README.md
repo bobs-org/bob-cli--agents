@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / bob-cli-ph.11
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.11` · **State:** waiting · **Source run:** `run-27b9f46c02b4a5851107f3244ae15194`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.11` · **State:** completed · **Source run:** `run-27b9f46c02b4a5851107f3244ae15194`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ph](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/README.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261125060506
-- Commits: 0
+- Timing: 2026-11-26T11:37:50.914637+00:00 → 2026-11-26T11:52:35.016277+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`4110c07`](https://github.com/bobs-org/bob-cli/commit/4110c07394dddca5ffb53b80057b2181f702ef46) | docs(memory): record true-case drawer policy | 2026-11-26 06:51:09 EST |
 
 ## Neighbors
 
