@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6l.gem
 
-**Global name:** `bbugyi200.apollo.research.6l.gem` · **State:** active · **Source run:** `run-4469e548965b0b435d3b84264a5eb51f`
+**Global name:** `bbugyi200.apollo.research.6l.gem` · **State:** completed · **Source run:** `run-4469e548965b0b435d3b84264a5eb51f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,38 @@
 
 - Model: gemini-4-neon-xhigh
 - Provider: agy
-- Timing: 2026-11-26T17:44:36.143528+00:00
+- Timing: 2026-11-26T17:44:36.143528+00:00 → 2026-11-26T18:02:13.517975+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/ref\_property\_cards\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126124110/ref\_property\_cards\_\_gem-e0db5898467a.md, ref: file:ex… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/ref_property_cards__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126124110/ref_property_cards__gem-e0db5898467a.md
+  ref: file:explicit:6b72c7def8080773f1d124df
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_18/sase/repos/research/202611/ref_property_cards__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.6l.cdx](../bbugyi200.apollo.research.6l.cdx/README.md) | research.6l hood | completed |
-| [research.6l.cld](../bbugyi200.apollo.research.6l.cld/README.md) | research.6l hood | active |
+| [research.6l.cld](../bbugyi200.apollo.research.6l.cld/README.md) | research.6l hood | completed |
 | [research.6l.final](../bbugyi200.apollo.research.6l.final/README.md) | research.6l hood | waiting |
 | [research.6l.grk](../bbugyi200.apollo.research.6l.grk/README.md) | research.6l hood | active |
 | [research.6l.image](../bbugyi200.apollo.research.6l.image/README.md) | research.6l hood | waiting |

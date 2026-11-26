@@ -22,9 +22,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.6l.cdx](../bbugyi200.apollo.research.6l.cdx/README.md) | research.6l hood | completed |
-| [research.6l.cld](../bbugyi200.apollo.research.6l.cld/README.md) | research.6l hood | active |
+| [research.6l.cld](../bbugyi200.apollo.research.6l.cld/README.md) | research.6l hood | completed |
 | [research.6l.final](../bbugyi200.apollo.research.6l.final/README.md) | research.6l hood | waiting |
-| [research.6l.gem](../bbugyi200.apollo.research.6l.gem/README.md) | research.6l hood | active |
+| [research.6l.gem](../bbugyi200.apollo.research.6l.gem/README.md) | research.6l hood | completed |
 | [research.6l.image](../bbugyi200.apollo.research.6l.image/README.md) | research.6l hood | waiting |
 | [research.6l.linker](../bbugyi200.apollo.research.6l.linker/README.md) | research.6l hood | waiting |
 | [research.6l.mus](../bbugyi200.apollo.research.6l.mus/README.md) | research.6l hood | completed |
