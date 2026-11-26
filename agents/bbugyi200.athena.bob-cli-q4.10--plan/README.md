@@ -26,7 +26,7 @@
 | [bob-cli-q4.10.1.1](../bbugyi200.athena.bob-cli-q4.10.1.1/README.md) | descendant | completed |
 | [bob-cli-q4.10.1.2](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.2.md) (session · 7) | descendant | completed 5, failed 2 |
 | [bob-cli-q4.10.1.3](../bbugyi200.athena.bob-cli-q4.10.1.3/README.md) | descendant | completed |
-| [bob-cli-q4.10.1.4](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.4.md) (session · 15) | descendant | active 1, completed 7, failed 7 |
+| [bob-cli-q4.10.1.4](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.4.md) (session · 17) | descendant | active 1, completed 8, failed 8 |
 | [bob-cli-q4.10.1.5](../bbugyi200.athena.bob-cli-q4.10.1.5/README.md) | descendant | waiting |
 | [bob-cli-q4.10.1.6](../bbugyi200.athena.bob-cli-q4.10.1.6/README.md) | descendant | waiting |
 | [bob-cli-q4.10.1.land](../bbugyi200.athena.bob-cli-q4.10.1.land/README.md) | descendant | waiting |
@@ -50,5 +50,5 @@
 | [bob-cli-q4.9.1.2](../bbugyi200.athena.bob-cli-q4.9.1.2/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.9.1.3](../bbugyi200.athena.bob-cli-q4.9.1.3/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.9.1.4](../bbugyi200.athena.bob-cli-q4.9.1.4/README.md) | bob-cli-q4 hood | completed |
-| [bob-cli-q4.9.1.land](../../sessions/bbugyi200.athena.bob-cli-q4.9.1.land.md) (session · 10) | bob-cli-q4 hood | active 1, completed 7, failed 2 |
+| [bob-cli-q4.9.1.land](../../sessions/bbugyi200.athena.bob-cli-q4.9.1.land.md) (session · 11) | bob-cli-q4 hood | active 1, completed 7, failed 3 |
 | [bob-cli-q4.land](../bbugyi200.athena.bob-cli-q4.land/README.md) | bob-cli-q4 hood | waiting |
