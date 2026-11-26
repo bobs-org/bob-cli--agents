@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / bob-cli-ph.8.1.land
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-ph` · Members: 12 · Bead: [bob-cli-ph.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.8.1.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-ph` · Members: 13 · Bead: [bob-cli-ph.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.8.1.md)
 
 ## Lineage
 
@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["bob-cli-ph.8.1.land--mon [failed]"]
   n0 --> n5
-  n6["bob-cli-ph.8.1.land--mon-3 [active]"]
+  n6["bob-cli-ph.8.1.land--mon-3 [completed]"]
   n0 --> n6
   n7["bob-cli-ph.8.1.land--code [completed]"]
   n0 --> n7
@@ -29,8 +29,10 @@ flowchart TD
   n0 --> n9
   n10["bob-cli-ph.8.1.land--plan [completed]"]
   n0 --> n10
-  n11["bob-cli-ph.8.1.land--gate [completed]"]
+  n11["bob-cli-ph.8.1.land--5 [completed]"]
   n0 --> n11
+  n12["bob-cli-ph.8.1.land--gate [completed]"]
+  n0 --> n12
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -43,11 +45,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-3"></a>3 | bob-cli-ph.8.1.land--3 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T10:46:43.285571+00:00 → 2026-11-26T11:00:12.534504+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--3/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-ph.8.1.land--mon-0 | failed | muse-spark-1.3-contributor / muse | 2026-11-26T10:03:07.752996+00:00 → 2026-11-26T10:17:00.256446+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--mon-0/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-ph.8.1.land--mon | failed | muse-spark-1.3-contributor / muse | 2026-11-26T09:27:33.935274+00:00 → 2026-11-26T09:52:29.688327+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--mon/chat.md) |
-| <a id="member-mon-3"></a>mon-3 | bob-cli-ph.8.1.land--mon-3 | active | muse-spark-1.3-contributor / muse | 2026-11-26T11:39:52.670087+00:00 | 0 | — | — |
+| <a id="member-mon-3"></a>mon-3 | bob-cli-ph.8.1.land--mon-3 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T11:39:52.670087+00:00 → 2026-11-26T12:09:51.355148+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--mon-3/chat.md) |
 | <a id="member-code"></a>code | bob-cli-ph.8.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-26T09:07:46.945373+00:00 → 2026-11-26T09:30:26.714762+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--code/chat.md) |
 | <a id="member-4"></a>4 | bob-cli-ph.8.1.land--4 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T11:28:26.764604+00:00 → 2026-11-26T11:44:21.232085+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--4/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-ph.8.1.land--mon-2 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T10:55:58.168782+00:00 → 2026-11-26T11:28:26.868534+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--mon-2/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-ph.8.1.land--plan | completed | opus / claude | 2026-11-26T08:22:06.366660+00:00 → 2026-11-26T09:30:26.714762+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--plan/chat.md) |
+| <a id="member-5"></a>5 | bob-cli-ph.8.1.land--5 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T12:09:50.876247+00:00 → 2026-11-26T12:11:30.532668+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--5/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ph.8.1.land--gate | completed | opus / claude | 2026-11-26T09:06:35.659401+00:00 → 2026-11-26T09:06:43.976496+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--gate/chat.md) |
 
 ## Variables
@@ -179,4 +182,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-ph.7.1.4](../agents/bbugyi200.apollo.bob-cli-ph.7.1.4/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.7.1.land](bbugyi200.apollo.bob-cli-ph.7.1.land.md) (session · 17) | bob-cli-ph hood | completed 14, failed 3 |
 | [bob-cli-ph.9](bbugyi200.apollo.bob-cli-ph.9.md) (session · 3) | bob-cli-ph hood | completed 3 |
-| [bob-cli-ph.land](../agents/bbugyi200.apollo.bob-cli-ph.land/README.md) | bob-cli-ph hood | waiting |
+| [bob-cli-ph.land](bbugyi200.apollo.bob-cli-ph.land.md) (session · 3) | bob-cli-ph hood | active 2, completed 1 |
