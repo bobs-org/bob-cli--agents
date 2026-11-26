@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-ph.10--1 [completed]"]
   n1["bob-cli-ph.10--mon-2 [failed]"]
   n0 --> n1
-  n2["bob-cli-ph.10--4 [active]"]
+  n2["bob-cli-ph.10--4 [completed]"]
   n0 --> n2
   n3["bob-cli-ph.10--3 [completed]"]
   n0 --> n3
@@ -37,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | bob-cli-ph.10--1 | completed | gpt-6-luna / codex | 2026-11-26T02:58:09.435985+00:00 → 2026-11-26T03:23:09.824642+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ph.10--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.10--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.10--1/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-ph.10--mon-2 | failed | gpt-6-luna / codex | 2026-11-26T03:50:22.422566+00:00 → 2026-11-26T04:04:33.253193+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.10--mon-2/chat.md) |
-| <a id="member-4"></a>4 | bob-cli-ph.10--4 | active | gpt-6-luna / codex | 2026-11-26T04:04:33.020800+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.10--4/prompt.md) | — |
+| <a id="member-4"></a>4 | bob-cli-ph.10--4 | completed | gpt-6-luna / codex | 2026-11-26T04:04:33.020800+00:00 → 2026-11-26T04:12:54.316788+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.10--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.10--4/chat.md) |
 | <a id="member-3"></a>3 | bob-cli-ph.10--3 | completed | gpt-6-luna / codex | 2026-11-26T03:46:35.195197+00:00 → 2026-11-26T03:52:52.078718+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ph.10--3/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.10--3/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.10--3/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-ph.10--mon | failed | gpt-6-luna / codex | 2026-11-26T02:50:06.174628+00:00 → 2026-11-26T02:58:09.803094+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.10--mon/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-ph.10--mon-0 | failed | gpt-6-luna / codex | 2026-11-26T03:16:24.217828+00:00 → 2026-11-26T03:28:26.696207+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.10--mon-0/chat.md) |

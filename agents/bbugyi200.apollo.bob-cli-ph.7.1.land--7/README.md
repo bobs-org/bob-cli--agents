@@ -67,7 +67,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-ph.7.1.3](../bbugyi200.apollo.bob-cli-ph.7.1.3/README.md) | bob-cli-ph.7.1 hood | completed |
 | [bob-cli-ph.7.1.4](../bbugyi200.apollo.bob-cli-ph.7.1.4/README.md) | bob-cli-ph.7.1 hood | completed |
 | [bob-cli-ph.1](../../sessions/bbugyi200.apollo.bob-cli-ph.1.md) (session · 31) | bob-cli-ph hood | completed 20, failed 11 |
-| [bob-cli-ph.10](../../sessions/bbugyi200.apollo.bob-cli-ph.10.md) (session · 11) | bob-cli-ph hood | active 2, completed 4, failed 5 |
+| [bob-cli-ph.10](../../sessions/bbugyi200.apollo.bob-cli-ph.10.md) (session · 11) | bob-cli-ph hood | active 1, completed 5, failed 5 |
 | [bob-cli-ph.11](../bbugyi200.apollo.bob-cli-ph.11/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.2](../../sessions/bbugyi200.apollo.bob-cli-ph.2.md) (session · 7) | bob-cli-ph hood | active 1, completed 5, failed 1 |
 | [bob-cli-ph.3](../../sessions/bbugyi200.apollo.bob-cli-ph.3.md) (session · 2) | bob-cli-ph hood | active 1, completed 1 |
