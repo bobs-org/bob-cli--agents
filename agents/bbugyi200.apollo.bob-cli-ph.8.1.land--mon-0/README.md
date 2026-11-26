@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / [bob-cli-ph.8.1.land](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.land.md) / bob-cli-ph.8.1.land--mon-0
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.8.1.land--mon-0` · **State:** active · **Source run:** `run-83514399bd2f20e34dbdac5b566f3f99`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.8.1.land--mon-0` · **State:** failed · **Source run:** `run-83514399bd2f20e34dbdac5b566f3f99`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -11,8 +11,12 @@
 - Bead: [bob-cli-ph.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.8.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-26T10:03:07.752996+00:00
+- Timing: 2026-11-26T10:03:07.752996+00:00 → 2026-11-26T10:17:00.256446+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
