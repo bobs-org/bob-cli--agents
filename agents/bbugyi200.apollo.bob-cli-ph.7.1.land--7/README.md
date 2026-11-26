@@ -91,4 +91,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-ph.8.1.6](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.6.md) (session · 3) | bob-cli-ph hood | completed 2, failed 1 |
 | [bob-cli-ph.8.1.land](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.land.md) (session · 13) | bob-cli-ph hood | completed 10, failed 3 |
 | [bob-cli-ph.9](../../sessions/bbugyi200.apollo.bob-cli-ph.9.md) (session · 3) | bob-cli-ph hood | completed 3 |
-| [bob-cli-ph.land](../../sessions/bbugyi200.apollo.bob-cli-ph.land.md) (session · 3) | bob-cli-ph hood | active 2, completed 1 |
+| [bob-cli-ph.land](../../sessions/bbugyi200.apollo.bob-cli-ph.land.md) (session · 4) | bob-cli-ph hood | active 1, completed 3 |

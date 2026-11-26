@@ -2,25 +2,28 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / bob-cli-ph.land
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-ph` · Members: 3 · Bead: [bob-cli-ph](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/README.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-ph` · Members: 4 · Bead: [bob-cli-ph](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ph.land--code [active]"]
-  n1["bob-cli-ph.land--plan [active]"]
+  n0["bob-cli-ph.land--code [completed]"]
+  n1["bob-cli-ph.land--mon [active]"]
   n0 --> n1
-  n2["bob-cli-ph.land--gate [completed]"]
+  n2["bob-cli-ph.land--plan [completed]"]
   n0 --> n2
+  n3["bob-cli-ph.land--gate [completed]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-code"></a>code | bob-cli-ph.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-26T12:49:13.191625+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-ph.land--plan | active | opus / claude | 2026-11-26T11:52:52.516403+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ph.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-ph.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-26T12:49:13.191625+00:00 → 2026-11-26T13:18:48.194034+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ph.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.land--code/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-ph.land--mon | active | muse-spark-1.3-contributor / muse | 2026-11-26T13:06:52.208427+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-ph.land--plan | completed | opus / claude | 2026-11-26T11:52:52.516403+00:00 → 2026-11-26T13:18:48.194034+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-ph.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ph.land--gate | completed | opus / claude | 2026-11-26T12:48:08.195201+00:00 → 2026-11-26T12:48:18.078040+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.land--gate/chat.md) |
 
 ## Commits
@@ -28,6 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | plan | bob-cli | [`db5a70c`](https://github.com/bobs-org/bob-cli/commit/db5a70cc185e1a607b6fe019422e3c7f7aa0d0b1) | fix(memory): repair drawer supersession frontmatter and regenerate drawer docs | 2026-11-26 07:46:29 EST |
+| code | bob-cli | [`4dd787b`](https://github.com/bobs-org/bob-cli/commit/4dd787bceaa2c0f16e25336ec6b3ff65d6a731f5) | test(drawers): begin post-cutover true-case migration for bob-cli-ph | 2026-11-26 08:09:54 EST |
 
 ## Variables
 
