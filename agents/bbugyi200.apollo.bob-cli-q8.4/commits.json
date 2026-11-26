@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-824c6fd605b989475d8776fd883bc7a3"}
+{"commits":[{"committed_at":1795656944,"sha":"28802383d80b1665f59aa68b68406c25482adff8","subject":"feat(capture-complete)!: report dependency tie on every candidate"}],"schema_version":2,"source_run_id":"run-824c6fd605b989475d8776fd883bc7a3"}
