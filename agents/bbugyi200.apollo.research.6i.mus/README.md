@@ -40,11 +40,11 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.6i.cdx](../bbugyi200.apollo.research.6i.cdx/README.md) | research.6i hood | active |
+| [research.6i.cdx](../bbugyi200.apollo.research.6i.cdx/README.md) | research.6i hood | completed |
 | [research.6i.cld](../bbugyi200.apollo.research.6i.cld/README.md) | research.6i hood | completed |
 | [research.6i.final](../bbugyi200.apollo.research.6i.final/README.md) | research.6i hood | waiting |
 | [research.6i.gem](../bbugyi200.apollo.research.6i.gem/README.md) | research.6i hood | active |
-| [research.6i.grk](../bbugyi200.apollo.research.6i.grk/README.md) | research.6i hood | active |
+| [research.6i.grk](../bbugyi200.apollo.research.6i.grk/README.md) | research.6i hood | completed |
 | [research.6i.image](../bbugyi200.apollo.research.6i.image/README.md) | research.6i hood | waiting |
 | [research.6i.linker](../bbugyi200.apollo.research.6i.linker/README.md) | research.6i hood | waiting |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
