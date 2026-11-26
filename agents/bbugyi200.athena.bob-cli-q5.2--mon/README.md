@@ -28,7 +28,7 @@
 | [bob-cli-q5.2.1.2](../bbugyi200.athena.bob-cli-q5.2.1.2/README.md) | descendant | failed |
 | [bob-cli-q5.2.1.3](../bbugyi200.athena.bob-cli-q5.2.1.3/README.md) | descendant | completed |
 | [bob-cli-q5.2.1.4](../bbugyi200.athena.bob-cli-q5.2.1.4/README.md) | descendant | completed |
-| [bob-cli-q5.2.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.2.1.land.md) (session · 3) | descendant | active 2, completed 1 |
+| [bob-cli-q5.2.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.2.1.land.md) (session · 3) | descendant | completed 3 |
 | [bob-cli-q5.1](../../sessions/bbugyi200.athena.bob-cli-q5.1.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.1.1.1](../bbugyi200.athena.bob-cli-q5.1.1.1/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.1.1.2](../bbugyi200.athena.bob-cli-q5.1.1.2/README.md) | bob-cli-q5 hood | completed |
@@ -41,10 +41,10 @@
 | [bob-cli-q5.3.1.2](../bbugyi200.athena.bob-cli-q5.3.1.2/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.3.1.3](../../sessions/bbugyi200.athena.bob-cli-q5.3.1.3.md) (session · 7) | bob-cli-q5 hood | completed 6, failed 1 |
 | [bob-cli-q5.3.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.3.1.land.md) (session · 3) | bob-cli-q5 hood | completed 3 |
-| [bob-cli-q5.4](../bbugyi200.athena.bob-cli-q5.4/README.md) | bob-cli-q5 hood | waiting |
+| [bob-cli-q5.4](../../sessions/bbugyi200.athena.bob-cli-q5.4.md) (session · 2) | bob-cli-q5 hood | active 2 |
 | [bob-cli-q5.5](../bbugyi200.athena.bob-cli-q5.5/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.6](../bbugyi200.athena.bob-cli-q5.6/README.md) | bob-cli-q5 hood | waiting |
-| [bob-cli-q5.7](../bbugyi200.athena.bob-cli-q5.7/README.md) | bob-cli-q5 hood | waiting |
+| [bob-cli-q5.7](../../sessions/bbugyi200.athena.bob-cli-q5.7.md) (session · 3) | bob-cli-q5 hood | active 2, completed 1 |
 | [bob-cli-q5.8](../bbugyi200.athena.bob-cli-q5.8/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.9](../bbugyi200.athena.bob-cli-q5.9/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.land](../bbugyi200.athena.bob-cli-q5.land/README.md) | bob-cli-q5 hood | waiting |
