@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / bob-cli-q4.10.1.4
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-q4` · Members: 30 · Bead: [bob-cli-q4.10.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.10.1.4.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-q4` · Members: 31 · Bead: [bob-cli-q4.10.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.10.1.4.md)
 
 ## Lineage
 
@@ -13,7 +13,7 @@ flowchart TD
   n0 --> n1
   n2["bob-cli-q4.10.1.4--mon [failed]"]
   n0 --> n2
-  n3["bob-cli-q4.10.1.4--mon-d [active]"]
+  n3["bob-cli-q4.10.1.4--mon-d [completed]"]
   n0 --> n3
   n4["bob-cli-q4.10.1.4--plan [completed]"]
   n0 --> n4
@@ -23,50 +23,52 @@ flowchart TD
   n0 --> n6
   n7["bob-cli-q4.10.1.4--mon-5 [failed]"]
   n0 --> n7
-  n8["bob-cli-q4.10.1.4--7 [completed]"]
+  n8["bob-cli-q4.10.1.4--f [completed]"]
   n0 --> n8
-  n9["bob-cli-q4.10.1.4--mon-a [failed]"]
+  n9["bob-cli-q4.10.1.4--7 [completed]"]
   n0 --> n9
-  n10["bob-cli-q4.10.1.4--4 [completed]"]
+  n10["bob-cli-q4.10.1.4--mon-a [failed]"]
   n0 --> n10
-  n11["bob-cli-q4.10.1.4--mon-7 [failed]"]
+  n11["bob-cli-q4.10.1.4--4 [completed]"]
   n0 --> n11
-  n12["bob-cli-q4.10.1.4--5 [completed]"]
+  n12["bob-cli-q4.10.1.4--mon-7 [failed]"]
   n0 --> n12
-  n13["bob-cli-q4.10.1.4--mon-b [failed]"]
+  n13["bob-cli-q4.10.1.4--5 [completed]"]
   n0 --> n13
-  n14["bob-cli-q4.10.1.4--mon-1 [failed]"]
+  n14["bob-cli-q4.10.1.4--mon-b [failed]"]
   n0 --> n14
-  n15["bob-cli-q4.10.1.4--mon-9 [failed]"]
+  n15["bob-cli-q4.10.1.4--mon-1 [failed]"]
   n0 --> n15
-  n16["bob-cli-q4.10.1.4--6 [completed]"]
+  n16["bob-cli-q4.10.1.4--mon-9 [failed]"]
   n0 --> n16
-  n17["bob-cli-q4.10.1.4--mon-c [failed]"]
+  n17["bob-cli-q4.10.1.4--6 [completed]"]
   n0 --> n17
-  n18["bob-cli-q4.10.1.4--c [completed]"]
+  n18["bob-cli-q4.10.1.4--mon-c [failed]"]
   n0 --> n18
-  n19["bob-cli-q4.10.1.4--8 [completed]"]
+  n19["bob-cli-q4.10.1.4--c [completed]"]
   n0 --> n19
-  n20["bob-cli-q4.10.1.4--mon-4 [failed]"]
+  n20["bob-cli-q4.10.1.4--8 [completed]"]
   n0 --> n20
-  n21["bob-cli-q4.10.1.4--b [completed]"]
+  n21["bob-cli-q4.10.1.4--mon-4 [failed]"]
   n0 --> n21
-  n22["bob-cli-q4.10.1.4--3 [completed]"]
+  n22["bob-cli-q4.10.1.4--b [completed]"]
   n0 --> n22
-  n23["bob-cli-q4.10.1.4--mon-2 [failed]"]
+  n23["bob-cli-q4.10.1.4--3 [completed]"]
   n0 --> n23
-  n24["bob-cli-q4.10.1.4--mon-0 [failed]"]
+  n24["bob-cli-q4.10.1.4--mon-2 [failed]"]
   n0 --> n24
-  n25["bob-cli-q4.10.1.4--mon-3 [failed]"]
+  n25["bob-cli-q4.10.1.4--mon-0 [failed]"]
   n0 --> n25
-  n26["bob-cli-q4.10.1.4--mon-8 [failed]"]
+  n26["bob-cli-q4.10.1.4--mon-3 [failed]"]
   n0 --> n26
-  n27["bob-cli-q4.10.1.4--d [completed]"]
+  n27["bob-cli-q4.10.1.4--mon-8 [failed]"]
   n0 --> n27
-  n28["bob-cli-q4.10.1.4--e [completed]"]
+  n28["bob-cli-q4.10.1.4--d [completed]"]
   n0 --> n28
-  n29["bob-cli-q4.10.1.4--a [completed]"]
+  n29["bob-cli-q4.10.1.4--e [completed]"]
   n0 --> n29
+  n30["bob-cli-q4.10.1.4--a [completed]"]
+  n0 --> n30
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -76,11 +78,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-9"></a>9 | bob-cli-q4.10.1.4--9 | completed | gpt-6-luna / codex | 2026-11-26T00:21:17.074894+00:00 → 2026-11-26T00:30:33.974940+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--9/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--9/chat.md) |
 | <a id="member-mon-6"></a>mon-6 | bob-cli-q4.10.1.4--mon-6 | failed | gpt-6-luna / codex | 2026-11-26T00:02:04.426035+00:00 → 2026-11-26T00:06:34.969102+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--mon-6/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-q4.10.1.4--mon | failed | gpt-6-luna / codex | 2026-11-25T22:13:53.096483+00:00 → 2026-11-25T22:17:47.278884+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--mon/chat.md) |
-| <a id="member-mon-d"></a>mon-d | bob-cli-q4.10.1.4--mon-d | active | gpt-6-luna / codex | 2026-11-26T01:14:57.254946+00:00 | 0 | — | — |
+| <a id="member-mon-d"></a>mon-d | bob-cli-q4.10.1.4--mon-d | completed | gpt-6-luna / codex | 2026-11-26T01:14:57.254946+00:00 → 2026-11-26T01:24:04.500924+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--mon-d/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-q4.10.1.4--plan | completed | gpt-6-luna / codex | 2026-11-25T21:48:02.082773+00:00 → 2026-11-25T22:15:59.451447+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--plan/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-q4.10.1.4--1 | completed | gpt-6-luna / codex | 2026-11-25T22:17:47.161050+00:00 → 2026-11-25T22:25:09.072161+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--1/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-q4.10.1.4--2 | completed | gpt-6-luna / codex | 2026-11-25T22:27:45.294238+00:00 → 2026-11-25T22:35:01.187205+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--2/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | bob-cli-q4.10.1.4--mon-5 | failed | gpt-6-luna / codex | 2026-11-25T23:52:36.730161+00:00 → 2026-11-25T23:58:26.192781+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--mon-5/chat.md) |
+| <a id="member-f"></a>f | bob-cli-q4.10.1.4--f | completed | gpt-6-luna / codex | 2026-11-26T01:24:04.084755+00:00 → 2026-11-26T01:26:50.239852+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--f/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--f/chat.md) |
 | <a id="member-7"></a>7 | bob-cli-q4.10.1.4--7 | completed | gpt-6-luna / codex | 2026-11-25T23:58:26.167207+00:00 → 2026-11-26T00:03:41.635744+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--7/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--7/chat.md) |
 | <a id="member-mon-a"></a>mon-a | bob-cli-q4.10.1.4--mon-a | failed | gpt-6-luna / codex | 2026-11-26T00:47:02.822909+00:00 → 2026-11-26T00:52:55.326809+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--mon-a/chat.md) |
 | <a id="member-4"></a>4 | bob-cli-q4.10.1.4--4 | completed | gpt-6-luna / codex | 2026-11-25T23:13:32.722332+00:00 → 2026-11-25T23:32:53.432620+00:00 | [1](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--4/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--4/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.10.1.4--4/chat.md) |
@@ -122,12 +125,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q4.10.1.1](../agents/bbugyi200.athena.bob-cli-q4.10.1.1/README.md) | bob-cli-q4.10.1 hood | completed |
 | [bob-cli-q4.10.1.2](bbugyi200.athena.bob-cli-q4.10.1.2.md) (session · 7) | bob-cli-q4.10.1 hood | completed 5, failed 2 |
 | [bob-cli-q4.10.1.3](../agents/bbugyi200.athena.bob-cli-q4.10.1.3/README.md) | bob-cli-q4.10.1 hood | completed |
-| [bob-cli-q4.10.1.5](../agents/bbugyi200.athena.bob-cli-q4.10.1.5/README.md) | bob-cli-q4.10.1 hood | waiting |
+| [bob-cli-q4.10.1.5](bbugyi200.athena.bob-cli-q4.10.1.5.md) (session · 3) | bob-cli-q4.10.1 hood | active 1, completed 2 |
 | [bob-cli-q4.10.1.6](../agents/bbugyi200.athena.bob-cli-q4.10.1.6/README.md) | bob-cli-q4.10.1 hood | waiting |
 | [bob-cli-q4.10.1.land](../agents/bbugyi200.athena.bob-cli-q4.10.1.land/README.md) | bob-cli-q4.10.1 hood | waiting |
 | [bob-cli-q4.1](../agents/bbugyi200.athena.bob-cli-q4.1/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.11](bbugyi200.athena.bob-cli-q4.11.md) (session · 3) | bob-cli-q4 hood | completed 2, failed 1 |
-| [bob-cli-q4.12](../agents/bbugyi200.athena.bob-cli-q4.12/README.md) | bob-cli-q4 hood | waiting |
+| [bob-cli-q4.12](bbugyi200.athena.bob-cli-q4.12.md) (session · 3) | bob-cli-q4 hood | active 1, completed 1, failed 1 |
 | [bob-cli-q4.13](../agents/bbugyi200.athena.bob-cli-q4.13/README.md) | bob-cli-q4 hood | waiting |
 | [bob-cli-q4.2](../agents/bbugyi200.athena.bob-cli-q4.2/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.3](bbugyi200.athena.bob-cli-q4.3.md) (session · 3) | bob-cli-q4 hood | completed 2, failed 1 |
