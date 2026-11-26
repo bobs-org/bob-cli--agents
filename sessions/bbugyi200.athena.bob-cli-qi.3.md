@@ -29,7 +29,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | [bob-cli-qi.1](../agents/bbugyi200.athena.bob-cli-qi.1/README.md) | bob-cli-qi hood | completed |
 | [bob-cli-qi.2](../agents/bbugyi200.athena.bob-cli-qi.2/README.md) | bob-cli-qi hood | completed |
-| [bob-cli-qi.4](bbugyi200.athena.bob-cli-qi.4.md) (session · 2) | bob-cli-qi hood | active 1, completed 1 |
+| [bob-cli-qi.4](bbugyi200.athena.bob-cli-qi.4.md) (session · 3) | bob-cli-qi hood | completed 3 |
 | [bob-cli-qi.5](../agents/bbugyi200.athena.bob-cli-qi.5/README.md) | bob-cli-qi hood | completed |
-| [bob-cli-qi.6](../agents/bbugyi200.athena.bob-cli-qi.6/README.md) | bob-cli-qi hood | waiting |
+| [bob-cli-qi.6](bbugyi200.athena.bob-cli-qi.6.md) (session · 2) | bob-cli-qi hood | active 2 |
 | [bob-cli-qi.land](../agents/bbugyi200.athena.bob-cli-qi.land/README.md) | bob-cli-qi hood | waiting |
