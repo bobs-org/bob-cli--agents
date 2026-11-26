@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-q4` · Members: 10 · Bead: [bob-cli
 ```mermaid
 flowchart TD
   n0["bob-cli-q4.9.1.land--1 [completed]"]
-  n1["bob-cli-q4.9.1.land--3 [active]"]
+  n1["bob-cli-q4.9.1.land--3 [completed]"]
   n0 --> n1
   n2["bob-cli-q4.9.1.land--mon-2 [active]"]
   n0 --> n2
@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | bob-cli-q4.9.1.land--1 | completed | gpt-6-luna / codex | 2026-11-25T23:29:08.655711+00:00 → 2026-11-25T23:34:51.959003+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.9.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.9.1.land--1/chat.md) |
-| <a id="member-3"></a>3 | bob-cli-q4.9.1.land--3 | active | gpt-6-luna / codex | 20261125184736 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.9.1.land--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-q4.9.1.land--3 | completed | gpt-6-luna / codex | 2026-11-25T23:49:16.676291+00:00 → 2026-11-26T00:00:46.098720+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.9.1.land--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.9.1.land--3/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-q4.9.1.land--mon-2 | active | gpt-6-luna / codex | 2026-11-25T23:58:39.901874+00:00 | 0 | — | — |
 | <a id="member-code"></a>code | bob-cli-q4.9.1.land--code | completed | gpt-6-luna / codex | 2026-11-25T22:39:49.742079+00:00 → 2026-11-25T23:27:49.819433+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.9.1.land--code/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-q4.9.1.land--2 | completed | gpt-6-luna / codex | 2026-11-25T23:36:36.794418+00:00 → 2026-11-25T23:45:53.156704+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.9.1.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.9.1.land--2/chat.md) |
