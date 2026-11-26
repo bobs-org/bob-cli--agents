@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6l.image
 
-**Global name:** `bbugyi200.apollo.research.6l.image` · **State:** waiting · **Source run:** `run-f80f5886dbe1417f54317e946f9aa0e7`
+**Global name:** `bbugyi200.apollo.research.6l.image` · **State:** completed · **Source run:** `run-f80f5886dbe1417f54317e946f9aa0e7`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261126124112
+- Timing: 2026-11-26T18:34:12.342784+00:00 → 2026-11-26T18:44:35.718076+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/ref\_cards/ref\_cards.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126124112/ref\_cards.diagrams-f47866e6d96b.md, ref: file:ex… |
+| `diagrams` | {considered: 14, count: 2, manifest: 202611/ref\_cards/ref\_cards.diagrams.md, source\_ref: file:explicit:57156dd0c348cb6725d4c8ec, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/ref_cards/ref_cards.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126124112/ref_cards.diagrams-f47866e6d96b.md
+  ref: file:explicit:1dbc237c2b7e3c41c0437e0d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/ref_cards/ref_cards.diagrams.md
+- kind: image
+  label: image:202611/ref_cards/ref_cards_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126124112/ref_cards_infographic-8220169592ef.png
+  ref: file:explicit:d07c240b30ecde064e51d696
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/ref_cards/ref_cards_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 14
+count: 2
+manifest: 202611/ref_cards/ref_cards.diagrams.md
+source_ref: file:explicit:57156dd0c348cb6725d4c8ec
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

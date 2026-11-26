@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../README.md) / [bbugyi200](../../README.md) / apollo
 
-**Project:** bob-cli · **Hoods:** 518 · **Runs:** 6232
+**Project:** bob-cli · **Hoods:** 519 · **Runs:** 6235
 
 | Hood | Runs | Sessions | States |
 |---|---:|---:|---|
@@ -506,13 +506,14 @@
 | [fx](hoods/fx/README.md) | 1 | 0 | completed 1 |
 | [fy](hoods/fy/README.md) | 12 | 1 | active 1, completed 7, failed 4 |
 | [g1](hoods/g1/README.md) | 1 | 0 | completed 1 |
+| [g4](hoods/g4/README.md) | 3 | 1 | completed 3 |
 | [gh\_bobs-org\_\_bob-cli-2](hoods/gh_bobs-org__bob-cli-2/README.md) | 4 | 0 | completed 4 |
 | [gh\_bobs-org\_\_bob-cli-5](hoods/gh_bobs-org__bob-cli-5/README.md) | 1 | 0 | completed 1 |
 | [hf](hoods/hf/README.md) | 1 | 0 | completed 1 |
 | [home-2](hoods/home-2/README.md) | 6 | 0 | completed 6 |
 | [jr](hoods/jr/README.md) | 2 | 0 | completed 2 |
 | [m3](hoods/m3/README.md) | 1 | 0 | completed 1 |
-| [research](hoods/research/README.md) | 1467 | 72 | active 122, completed 807, dismissed 496, failed 40, waiting 2 |
+| [research](hoods/research/README.md) | 1467 | 72 | active 122, completed 808, dismissed 496, failed 40, waiting 1 |
 | [research\_swarm](hoods/research_swarm/README.md) | 1 | 0 | completed 1 |
 | [sase-51](hoods/sase-51/README.md) | 1 | 0 | completed 1 |
 | [sase-60](hoods/sase-60/README.md) | 1 | 0 | completed 1 |
