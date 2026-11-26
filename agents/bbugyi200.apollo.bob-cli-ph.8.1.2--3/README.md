@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / [bob-cli-ph.8.1.2](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.2.md) / bob-cli-ph.8.1.2--3
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.8.1.2--3` · **State:** active · **Source run:** `run-c2a0287b0f874201bd6a65b07ac9b9fe`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.8.1.2--3` · **State:** completed · **Source run:** `run-c2a0287b0f874201bd6a65b07ac9b9fe`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-ph.8.1.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.8.1.2.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-26T05:46:46.296446+00:00
+- Timing: 2026-11-26T05:46:46.296446+00:00 → 2026-11-26T05:51:50.341232+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -25,12 +25,12 @@
 | [bob-cli-ph.8](../../sessions/bbugyi200.apollo.bob-cli-ph.8.md) (session · 7) | ancestor | active 1, completed 6 |
 | [bob-cli-ph.8.1.1](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.1.md) (session · 9) | bob-cli-ph.8.1 hood | completed 7, failed 2 |
 | [bob-cli-ph.8.1.3](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.3.md) (session · 3) | bob-cli-ph.8.1 hood | completed 2, failed 1 |
-| [bob-cli-ph.8.1.4](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.4.md) (session · 2) | bob-cli-ph.8.1 hood | active 1, completed 1 |
-| [bob-cli-ph.8.1.5](../bbugyi200.apollo.bob-cli-ph.8.1.5/README.md) | bob-cli-ph.8.1 hood | waiting |
+| [bob-cli-ph.8.1.4](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.4.md) (session · 3) | bob-cli-ph.8.1 hood | completed 2, failed 1 |
+| [bob-cli-ph.8.1.5](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.5.md) (session · 2) | bob-cli-ph.8.1 hood | active 1, completed 1 |
 | [bob-cli-ph.8.1.6](../bbugyi200.apollo.bob-cli-ph.8.1.6/README.md) | bob-cli-ph.8.1 hood | waiting |
 | [bob-cli-ph.8.1.land](../bbugyi200.apollo.bob-cli-ph.8.1.land/README.md) | bob-cli-ph.8.1 hood | waiting |
 | [bob-cli-ph.1](../../sessions/bbugyi200.apollo.bob-cli-ph.1.md) (session · 31) | bob-cli-ph hood | completed 20, failed 11 |
-| [bob-cli-ph.10](../../sessions/bbugyi200.apollo.bob-cli-ph.10.md) (session · 15) | bob-cli-ph hood | active 1, completed 7, failed 7 |
+| [bob-cli-ph.10](../../sessions/bbugyi200.apollo.bob-cli-ph.10.md) (session · 16) | bob-cli-ph hood | completed 8, failed 8 |
 | [bob-cli-ph.11](../bbugyi200.apollo.bob-cli-ph.11/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.2](../../sessions/bbugyi200.apollo.bob-cli-ph.2.md) (session · 7) | bob-cli-ph hood | active 1, completed 5, failed 1 |
 | [bob-cli-ph.3](../../sessions/bbugyi200.apollo.bob-cli-ph.3.md) (session · 2) | bob-cli-ph hood | active 1, completed 1 |
