@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-q5` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-q5.7.1.3--1 [active]"]
+  n0["bob-cli-q5.7.1.3--1 [completed]"]
   n1["bob-cli-q5.7.1.3--plan [completed]"]
   n0 --> n1
   n2["bob-cli-q5.7.1.3--mon [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-q5.7.1.3--1 | active | gpt-6-luna / codex | 2026-11-26T15:43:16.971708+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.7.1.3--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-q5.7.1.3--1 | completed | gpt-6-luna / codex | 2026-11-26T15:43:16.971708+00:00 → 2026-11-26T15:47:01.099034+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.7.1.3--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.3--1/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-q5.7.1.3--plan | completed | gpt-6-luna / codex | 2026-11-26T14:28:52.743321+00:00 → 2026-11-26T15:09:48.003761+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.7.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.3--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-q5.7.1.3--mon | completed | gpt-6-luna / codex | 2026-11-26T15:08:23.829336+00:00 → 2026-11-26T15:43:17.511772+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.3--mon/chat.md) |
 
