@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / [bob-cli-pl.9.1.2.1.1](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.1.1.md) / bob-cli-pl.9.1.2.1.1--mon
 
-**Global name:** `bbugyi200.apollo.bob-cli-pl.9.1.2.1.1--mon` · **State:** active · **Source run:** `run-7bedb2eca1d03776f7bdad52fda8d90b`
+**Global name:** `bbugyi200.apollo.bob-cli-pl.9.1.2.1.1--mon` · **State:** failed · **Source run:** `run-7bedb2eca1d03776f7bdad52fda8d90b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pl
 
@@ -12,8 +12,12 @@
 - Epic: [bob-cli-pl.9.1.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.9.1.2.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-26T09:07:22.065468+00:00
+- Timing: 2026-11-26T09:07:22.065468+00:00 → 2026-11-26T09:17:11.622920+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -21,7 +25,7 @@
 |---|---|---|
 | [bob-cli-pl.9.1.2](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.md) (session · 31) | ancestor | active 2, completed 20, failed 9 |
 | [bob-cli-pl.9](../../sessions/bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-pl.9.1.2.1.2](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.2/README.md) | bob-cli-pl.9.1.2.1 hood | waiting |
+| [bob-cli-pl.9.1.2.1.2](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.2/README.md) | bob-cli-pl.9.1.2.1 hood | completed |
 | [bob-cli-pl.9.1.2.1.3](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.3/README.md) | bob-cli-pl.9.1.2.1 hood | waiting |
 | [bob-cli-pl.9.1.2.1.4](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.4/README.md) | bob-cli-pl.9.1.2.1 hood | waiting |
 | [bob-cli-pl.9.1.2.1.land](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.land/README.md) | bob-cli-pl.9.1.2.1 hood | waiting |
