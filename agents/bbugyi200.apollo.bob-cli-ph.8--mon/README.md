@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / [bob-cli-ph.8](../../sessions/bbugyi200.apollo.bob-cli-ph.8.md) / bob-cli-ph.8--mon
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.8--mon` · **State:** active · **Source run:** `run-d39e2766300aa6729d28178e965045a3`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.8--mon` · **State:** completed · **Source run:** `run-d39e2766300aa6729d28178e965045a3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -11,13 +11,24 @@
 - Bead: [bob-cli-ph.8](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.8.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-26T01:55:35.711671+00:00
+- Timing: 2026-11-26T01:55:35.711671+00:00 → 2026-11-26T02:02:56.910908+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-ph.8.1.1](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.1.md) (session · 2) | descendant | active 1, completed 1 |
+| [bob-cli-ph.8.1.2](../bbugyi200.apollo.bob-cli-ph.8.1.2/README.md) | descendant | waiting |
+| [bob-cli-ph.8.1.3](../bbugyi200.apollo.bob-cli-ph.8.1.3/README.md) | descendant | waiting |
+| [bob-cli-ph.8.1.4](../bbugyi200.apollo.bob-cli-ph.8.1.4/README.md) | descendant | waiting |
+| [bob-cli-ph.8.1.5](../bbugyi200.apollo.bob-cli-ph.8.1.5/README.md) | descendant | waiting |
+| [bob-cli-ph.8.1.6](../bbugyi200.apollo.bob-cli-ph.8.1.6/README.md) | descendant | waiting |
+| [bob-cli-ph.8.1.land](../bbugyi200.apollo.bob-cli-ph.8.1.land/README.md) | descendant | waiting |
 | [bob-cli-ph.1](../../sessions/bbugyi200.apollo.bob-cli-ph.1.md) (session · 31) | bob-cli-ph hood | completed 20, failed 11 |
 | [bob-cli-ph.10](../bbugyi200.apollo.bob-cli-ph.10/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.11](../bbugyi200.apollo.bob-cli-ph.11/README.md) | bob-cli-ph hood | waiting |

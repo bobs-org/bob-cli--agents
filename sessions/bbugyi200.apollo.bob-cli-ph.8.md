@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["bob-cli-ph.8--plan [active]"]
   n0 --> n4
-  n5["bob-cli-ph.8--mon [active]"]
+  n5["bob-cli-ph.8--mon [completed]"]
   n0 --> n5
   n6["bob-cli-ph.8--code [completed]"]
   n0 --> n6
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-1"></a>1 | bob-cli-ph.8--1 | completed | gpt-6-luna / codex | 2026-11-26T00:03:03.643788+00:00 → 2026-11-26T00:19:24.544227+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-ph.8--mon-0 | completed | gpt-6-luna / codex | 2026-11-26T00:16:21.568916+00:00 → 2026-11-26T00:24:32.472728+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--mon-0/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-ph.8--plan | active | opus / claude | 2026-11-26T01:43:23.576347+00:00 → 2026-11-26T01:55:49.425390+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--plan/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-ph.8--mon | active | opus / claude | 2026-11-26T01:55:35.711671+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-ph.8--mon | completed | opus / claude | 2026-11-26T01:55:35.711671+00:00 → 2026-11-26T02:02:56.910908+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--mon/chat.md) |
 | <a id="member-code"></a>code | bob-cli-ph.8--code | completed | gpt-6-luna / codex | 2026-11-25T23:40:58.738663+00:00 → 2026-11-25T23:57:11.717412+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--code/chat.md) |
 
 ## Commits
@@ -45,6 +45,13 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-ph.8.1.1](bbugyi200.apollo.bob-cli-ph.8.1.1.md) (session · 2) | descendant | active 1, completed 1 |
+| [bob-cli-ph.8.1.2](../agents/bbugyi200.apollo.bob-cli-ph.8.1.2/README.md) | descendant | waiting |
+| [bob-cli-ph.8.1.3](../agents/bbugyi200.apollo.bob-cli-ph.8.1.3/README.md) | descendant | waiting |
+| [bob-cli-ph.8.1.4](../agents/bbugyi200.apollo.bob-cli-ph.8.1.4/README.md) | descendant | waiting |
+| [bob-cli-ph.8.1.5](../agents/bbugyi200.apollo.bob-cli-ph.8.1.5/README.md) | descendant | waiting |
+| [bob-cli-ph.8.1.6](../agents/bbugyi200.apollo.bob-cli-ph.8.1.6/README.md) | descendant | waiting |
+| [bob-cli-ph.8.1.land](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land/README.md) | descendant | waiting |
 | [bob-cli-ph.1](bbugyi200.apollo.bob-cli-ph.1.md) (session · 31) | bob-cli-ph hood | completed 20, failed 11 |
 | [bob-cli-ph.10](../agents/bbugyi200.apollo.bob-cli-ph.10/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.11](../agents/bbugyi200.apollo.bob-cli-ph.11/README.md) | bob-cli-ph hood | waiting |
