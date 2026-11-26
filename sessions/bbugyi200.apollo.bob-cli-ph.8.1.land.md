@@ -2,26 +2,32 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / bob-cli-ph.8.1.land
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-ph` · Members: 4 · Bead: [bob-cli-ph.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.8.1.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-ph` · Members: 6 · Bead: [bob-cli-ph.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.8.1.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-ph.8.1.land--mon [active]"]
-  n1["bob-cli-ph.8.1.land--code [completed]"]
+  n0["bob-cli-ph.8.1.land--1 [completed]"]
+  n1["bob-cli-ph.8.1.land--mon-0 [active]"]
   n0 --> n1
-  n2["bob-cli-ph.8.1.land--plan [completed]"]
+  n2["bob-cli-ph.8.1.land--mon [failed]"]
   n0 --> n2
-  n3["bob-cli-ph.8.1.land--gate [completed]"]
+  n3["bob-cli-ph.8.1.land--code [completed]"]
   n0 --> n3
+  n4["bob-cli-ph.8.1.land--plan [completed]"]
+  n0 --> n4
+  n5["bob-cli-ph.8.1.land--gate [completed]"]
+  n0 --> n5
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-ph.8.1.land--mon | active | muse-spark-1.3-contributor / muse | 2026-11-26T09:27:33.935274+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | bob-cli-ph.8.1.land--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T09:52:50.343617+00:00 → 2026-11-26T10:07:30.453395+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--1/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-ph.8.1.land--mon-0 | active | muse-spark-1.3-contributor / muse | 2026-11-26T10:03:07.752996+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-ph.8.1.land--mon | failed | muse-spark-1.3-contributor / muse | 2026-11-26T09:27:33.935274+00:00 → 2026-11-26T09:52:29.688327+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--mon/chat.md) |
 | <a id="member-code"></a>code | bob-cli-ph.8.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-26T09:07:46.945373+00:00 → 2026-11-26T09:30:26.714762+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--code/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-ph.8.1.land--plan | completed | opus / claude | 2026-11-26T08:22:06.366660+00:00 → 2026-11-26T09:30:26.714762+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-ph.8.1.land--gate | completed | opus / claude | 2026-11-26T09:06:35.659401+00:00 → 2026-11-26T09:06:43.976496+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land--gate/chat.md) |
