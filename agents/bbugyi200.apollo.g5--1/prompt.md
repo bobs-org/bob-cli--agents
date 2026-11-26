@@ -1,0 +1,33 @@
+%queue(weight=1)
+#fork:g5--code
+%model:muse-spark-1.3-contributor@xhigh
+
+%macros_enabled:false
+# Monitored command finished
+
+**Command:**
+
+```text
+git -C "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/linked/bob-plugins" fetch origin; for i in $(seq 1 60); do if git -C "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/linked/bob-plugins" show origin/master:plugins/bob-ledger-tools/styles.css 2>/dev/null | grep -q 'M1.55 4.2h16.4'; then exit 0; fi; sleep 30; git -C "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/linked/bob-plugins" fetch origin >/dev/null 2>&1; done; exit 1
+```
+
+**Directory:**
+
+```text
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13
+```
+
+| | |
+| --- | --- |
+| **Outcome** | COMPLETED — exit 0 |
+| **Started** | 2026-11-26T19:20:27.820169+00:00 |
+| **Finished** | 2026-11-26T19:23:04.495855Z |
+| **Elapsed** | 1s of a 30m 0s budget |
+| **Output** | 67 bytes · evidence refs: `file:monitor-diagnostic-manifest:992hps8w8zv4`, `file:monitor-retained-log:992hps8w8zv4` · raw output omitted: `facts_only` · full log: `sase monitor show 992hps8w8zv4 --all-lines` |
+
+**Why this was monitored:** Wait for widened tray to reach bob-plugins origin/master before athena/mac deploy and epic close
+
+## Your next action
+
+Widen follow-up for bob-cli-ph: your predecessor finished Steps 1-4 on apollo (tray widened to viewBox 0 0 19.5 16, path M1.55 4.2h16.4, stroke 2.06, e2e pass, apollo deployed). Now: 1) On athena (ssh athena) and mac (ssh mac, with PATH prefix from bob-cli docs/vault-git-sync.md), run bob plugins sync -p bob-ledger-tools from each host checkout. Apply the documented refusal procedure (git fetch, git log HEAD..@{upstream} -- plugins/bob-ledger-tools; if landed follow stash/ff/clean-sync/pop/build/re-sync; if author still running wait; ask Bryan only if unlanded and abandoned). Verify each deployed styles.css with grep for M1.55 4.2h16.4 and viewBox 0 0 19.5 16. 2) Then do Step 5 of plan 202611/close_true_case_drawers.md: re-run sase bead epic-symbols bob-cli-ph, run sase bead close bob-cli-ph --note with verification (just check counts or fallback runs, Mac fixture provenance 6ea5b8f6/bob-cli db5a70cc/grammar 33/green master CI 45857851813, tray/diamond strokes 0.1003/0.1006em and span 0.8986em plus artifact refs, per-host deploy evidence, LAND TRIAGE note 12 pointer). Never use --force. 3) In plans sidecar add status: done to 202611/true_case_drawers.md frontmatter. 4) Final response must say bob-cli has no symvision recipe.
+%macros_enabled:true

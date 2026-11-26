@@ -2,27 +2,30 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [g5](../users/bbugyi200/machines/apollo/hoods/g5/README.md) / g5
 
-Owner: `bbugyi200.apollo` · Hood: `g5` · Members: 4
+Owner: `bbugyi200.apollo` · Hood: `g5` · Members: 5
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["g5--mon [active]"]
+  n0["g5--mon [completed]"]
   n1["g5--gate [completed]"]
   n0 --> n1
-  n2["g5--code [completed]"]
+  n2["g5--1 [completed]"]
   n0 --> n2
-  n3["g5--plan [completed]"]
+  n3["g5--code [completed]"]
   n0 --> n3
+  n4["g5--plan [completed]"]
+  n0 --> n4
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | g5--mon | active | muse-spark-1.3-contributor / muse | 2026-11-26T19:20:27.820169+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | g5--mon | completed | muse-spark-1.3-contributor / muse | 2026-11-26T19:20:27.820169+00:00 → 2026-11-26T19:25:18.193555+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.g5--mon/chat.md) |
 | <a id="member-gate"></a>gate | g5--gate | completed | opus / claude | 2026-11-26T18:33:22.424422+00:00 → 2026-11-26T18:34:41.770171+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.g5--gate/chat.md) |
+| <a id="member-1"></a>1 | g5--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T19:25:18.068608+00:00 → 2026-11-26T19:30:34.463164+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.g5--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.g5--1/chat.md) |
 | <a id="member-code"></a>code | g5--code | completed | muse-spark-1.3-contributor / muse | 2026-11-26T18:35:29.941696+00:00 → 2026-11-26T19:23:11.678054+00:00 | [1](../agents/bbugyi200.apollo.g5--code/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.g5--code/prompt.md) | [Chat](../agents/bbugyi200.apollo.g5--code/chat.md) |
 | <a id="member-plan"></a>plan | g5--plan | completed | opus / claude | 2026-11-26T18:20:58.719744+00:00 → 2026-11-26T18:32:38.285840+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.g5--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.g5--plan/chat.md) |
 
