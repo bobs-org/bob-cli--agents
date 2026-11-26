@@ -1,7 +1,7 @@
 - **AGENTS:**
   - [bbugyi200.apollo.bob-cli-ph.8](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.bob-cli-ph.8.md)
 
-%queue(weight=1) #fork:bob-cli-ph.8--code %model:gpt-6-luna@xhigh
+%queue(weight=1) #fork:bob-cli-ph.8--1 %model:@medium
 
 %macros_enabled:false
 
@@ -10,7 +10,7 @@
 **Command:**
 
 ```text
-cargo build --bin bob
+CARGO_TARGET_DIR=target cargo build --bin bob
 ```
 
 **Directory:**
@@ -22,17 +22,17 @@ cargo build --bin bob
 |              |                                                                                                                                                                                                              |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Outcome**  | COMPLETED — exit 0                                                                                                                                                                                           |
-| **Started**  | 2026-11-25T23:54:51.535898+00:00                                                                                                                                                                             |
-| **Finished** | 2026-11-26T00:01:13.599583Z                                                                                                                                                                                  |
-| **Elapsed**  | 4m 9s of a 30m 0s budget                                                                                                                                                                                     |
-| **Output**   | 6 KiB · evidence refs: `file:monitor-diagnostic-manifest:7rcf8c2c8gjf`, `file:monitor-retained-log:7rcf8c2c8gjf` · raw output omitted: `facts_only` · full log: `sase monitor show 7rcf8c2c8gjf --all-lines` |
+| **Started**  | 2026-11-26T00:16:21.568916+00:00                                                                                                                                                                             |
+| **Finished** | 2026-11-26T00:23:16.141926Z                                                                                                                                                                                  |
+| **Elapsed**  | 3m 56s of a 30m 0s budget                                                                                                                                                                                    |
+| **Output**   | 6 KiB · evidence refs: `file:monitor-diagnostic-manifest:kq20jaeshxk3`, `file:monitor-retained-log:kq20jaeshxk3` · raw output omitted: `facts_only` · full log: `sase monitor show kq20jaeshxk3 --all-lines` |
 
-**Why this was monitored:** Build current bob-cli binary for the approved Mac drawer
-fixture regeneration
+**Why this was monitored:** Build the clean current bob-cli binary for grammar-30 drawer
+fixture generation
 
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-d59d50b5694302a0.json`
+- **Ref:** `local:continuation/checkpoints/monitor_start-b8d85473296e1e16.json`
 
 **Checkpoint (JSON):**
 
@@ -40,35 +40,31 @@ fixture regeneration
 {
   "kind": "monitor_start",
   "payload": {
-    "command": "cargo build --bin bob",
+    "command": "CARGO_TARGET_DIR=target cargo build --bin bob",
     "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13",
-    "member_agent_name": "bob-cli-ph.8--mon",
-    "monitor_id": "7rcf8c2c8gjf",
+    "member_agent_name": "bob-cli-ph.8--mon-0",
+    "monitor_id": "kq20jaeshxk3",
     "next_output": "auto",
     "parent_node_ids": [
-      "agent-delta:20261125060503:4c4e9aeb7b74fdf9"
+      "agent-delta:20261125190148:f244e62740a7325a"
     ],
     "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:df253f0531c2be89f48dcdcdf53a78d886259466370877191fa1134bcf72249e",
-    "starter_agent": "bob-cli-ph.8--code",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/25/20261125184018"
+    "request_fingerprint": "sha256:a323ed7a5b0a28f189a5c7cbd7d09f359f901a110817d3114280fcd3a409ae5a",
+    "starter_agent": "bob-cli-ph.8--1",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/25/20261125190148"
   },
-  "recorded_at_epoch": 1795651024.8101652,
+  "recorded_at_epoch": 1795652360.0724628,
   "schema_version": 1
 }
 ```
 
 ## Your next action
 
-Continue implementing the approved plan plan:202611/mac_true_case_drawers.md in this
-workspace. First inspect the build outcome. If it succeeded, update
-Scripts/generate-drawer-fixtures.sh to require grammar >=30 and emit current true-case
-drawer fixtures from the clean CLI checkout, run it with target/debug/bob, and record
-provenance. Then implement all Mac preview annotation, styling, typing assists,
-regression tests, and docs specified in the approved plan, plus the Mac section of
-docs/task-drawers.md. Follow both repositories' AGENTS.md and the plan's exact check
-list. Do not edit memory, perform vault migration/deployment, or create beads. Run all
-required gates, the prescribed macos-ci-check if safe per its documented effects, then
-record test and exact-SHA evidence on bob-cli-ph.8 and close only that phase bead when
-complete. Finish through /sase_final and declare every changed repo.
-%macros_enabled:true
+After a successful build, run Scripts/generate-drawer-fixtures.sh from bob-mac-capture
+with BOB_BIN pointing at this workspace's target/debug/bob and BOB_CLI_DIR at the
+still-clean bob-cli checkout. Review generated true-case fixtures and provenance, fix
+generator assertions from Bob output as needed, then implement the approved bob-cli-ph.8
+Mac annotations, styling, rewrite-driven typing assists, regression tests, docs, exact
+required gates, macos-ci-check, phase evidence, and close only bob-cli-ph.8. Preserve
+the clean CLI checkout; do not touch memory, vault contents, plugins, or create beads.
+Finish through /sase_final. %macros_enabled:true
