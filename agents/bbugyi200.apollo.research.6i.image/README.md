@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6i.image
 
-**Global name:** `bbugyi200.apollo.research.6i.image` · **State:** waiting · **Source run:** `run-acf3ce44dd656af4b6075852df192ed3`
+**Global name:** `bbugyi200.apollo.research.6i.image` · **State:** completed · **Source run:** `run-acf3ce44dd656af4b6075852df192ed3`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261126092228
+- Timing: 2026-11-26T14:59:40.774031+00:00 → 2026-11-26T15:12:39.737233+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/prose\_rename\_and\_section\_extraction/prose\_rename\_and\_section\_extraction\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2026112609222… |
+| `diagrams` | {considered: 10, count: 2, manifest: 202611/prose\_rename\_and\_section\_extraction/prose\_rename\_and\_section\_extraction.diagrams.md, source\_ref: file:explicit:7aedbbb2d93fca2b2f1da92a, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/prose_rename_and_section_extraction/prose_rename_and_section_extraction_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126092228/prose_rename_and_section_extraction_infographic-dfb7bc81138f.png
+  ref: file:explicit:af86b1d42aa6080c6e370365
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/prose_rename_and_section_extraction/prose_rename_and_section_extraction_infographic.png
+- kind: markdown
+  label: diagrams:202611/prose_rename_and_section_extraction/prose_rename_and_section_extraction.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126092228/prose_rename_and_section_extraction.diagrams-9fbff9c035c8.md
+  ref: file:explicit:daedb67ac0637f08ecd0ac82
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/prose_rename_and_section_extraction/prose_rename_and_section_extraction.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 10
+count: 2
+manifest: 202611/prose_rename_and_section_extraction/prose_rename_and_section_extraction.diagrams.md
+source_ref: file:explicit:7aedbbb2d93fca2b2f1da92a
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
