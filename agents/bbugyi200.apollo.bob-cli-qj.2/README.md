@@ -13,11 +13,36 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-11-26T17:16:06.839338+00:00
-- Commits: 0
+- Commits: [1](#commits)
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`59037b2`](https://github.com/bobs-org/bob-cli/commit/59037b2343f0b15cf7d98c5acdaf7223028e3d1c) | fix(snooze): correct test paths and anonymize vault example | 2026-11-26 14:06:20 EST |
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: bob-cli main gate findings after prose rebase, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126105748/bob-cli-main-check-20261126-eef9a6b9f1e5.md, ref:… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: bob-cli main gate findings after prose rebase
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126105748/bob-cli-main-check-20261126-eef9a6b9f1e5.md
+  ref: file:explicit:309bb1f413ab69cdac861126
+  source_path: /tmp/bob-cli-main-check-20261126.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
