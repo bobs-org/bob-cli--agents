@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-q5` · Members: 2 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-q5.8.1.3--plan [active]"]
+  n0["bob-cli-q5.8.1.3--plan [completed]"]
   n1["bob-cli-q5.8.1.3--mon [active]"]
   n0 --> n1
 ```
@@ -17,7 +17,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-q5.8.1.3--plan | active | muse-spark-1.3-contributor / muse | 2026-11-26T19:42:19.858778+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.8.1.3--plan/prompt.md) | — |
+| <a id="member-plan"></a>plan | bob-cli-q5.8.1.3--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-26T19:42:19.858778+00:00 → 2026-11-26T20:05:33.993789+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.8.1.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.8.1.3--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-q5.8.1.3--mon | active | muse-spark-1.3-contributor / muse | 2026-11-26T20:02:21.661065+00:00 | 0 | — | — |
 
 ## Neighbors

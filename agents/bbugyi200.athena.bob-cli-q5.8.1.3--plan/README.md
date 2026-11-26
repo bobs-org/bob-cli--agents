@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.8.1.3](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.3.md) / bob-cli-q5.8.1.3--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.3--plan` · **State:** active · **Source run:** `run-c9b4c0077ef2990575cb40276da0db94`
+**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.3--plan` · **State:** completed · **Source run:** `run-c9b4c0077ef2990575cb40276da0db94`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-q5.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.8.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-26T19:42:19.858778+00:00
+- Timing: 2026-11-26T19:42:19.858778+00:00 → 2026-11-26T20:05:33.993789+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
