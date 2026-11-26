@@ -23,6 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-ph.10](../../sessions/bbugyi200.apollo.bob-cli-ph.10.md) (session · 16) | bob-cli-ph hood | completed 8, failed 8 |
+| [bob-cli-ph.10](../bbugyi200.apollo.bob-cli-ph.10/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.11](../bbugyi200.apollo.bob-cli-ph.11/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.2](../../sessions/bbugyi200.apollo.bob-cli-ph.2.md) (session · 7) | bob-cli-ph hood | active 1, completed 5, failed 1 |
 | [bob-cli-ph.3](../../sessions/bbugyi200.apollo.bob-cli-ph.3.md) (session · 2) | bob-cli-ph hood | active 1, completed 1 |
@@ -48,7 +49,7 @@
 | [bob-cli-ph.8.1.3](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.3.md) (session · 3) | bob-cli-ph hood | completed 2, failed 1 |
 | [bob-cli-ph.8.1.4](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.4.md) (session · 3) | bob-cli-ph hood | completed 2, failed 1 |
 | [bob-cli-ph.8.1.5](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.5.md) (session · 7) | bob-cli-ph hood | completed 5, failed 2 |
-| [bob-cli-ph.8.1.6](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.6.md) (session · 2) | bob-cli-ph hood | active 1, completed 1 |
+| [bob-cli-ph.8.1.6](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.6.md) (session · 3) | bob-cli-ph hood | completed 2, failed 1 |
 | [bob-cli-ph.8.1.land](../bbugyi200.apollo.bob-cli-ph.8.1.land/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.9](../../sessions/bbugyi200.apollo.bob-cli-ph.9.md) (session · 3) | bob-cli-ph hood | completed 3 |
 | [bob-cli-ph.land](../bbugyi200.apollo.bob-cli-ph.land/README.md) | bob-cli-ph hood | waiting |
