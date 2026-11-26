@@ -2,29 +2,44 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-qi](../users/bbugyi200/machines/athena/hoods/bob-cli-qi/README.md) / bob-cli-qi.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-qi` · Members: 4 · Bead: [bob-cli-qi](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qi/README.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-qi` · Members: 9 · Bead: [bob-cli-qi](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qi/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-qi.land--mon [active]"]
+  n0["bob-cli-qi.land--mon [failed]"]
   n1["bob-cli-qi.land--gate [completed]"]
   n0 --> n1
   n2["bob-cli-qi.land--code [completed]"]
   n0 --> n2
-  n3["bob-cli-qi.land--plan [completed]"]
+  n3["bob-cli-qi.land--2 [completed]"]
   n0 --> n3
+  n4["bob-cli-qi.land--mon-0 [completed]"]
+  n0 --> n4
+  n5["bob-cli-qi.land--1 [completed]"]
+  n0 --> n5
+  n6["bob-cli-qi.land--3 [active]"]
+  n0 --> n6
+  n7["bob-cli-qi.land--plan [completed]"]
+  n0 --> n7
+  n8["bob-cli-qi.land--mon-1 [completed]"]
+  n0 --> n8
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-qi.land--mon | active | gpt-6-luna / codex | 2026-11-26T21:29:05.772277+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-qi.land--mon | failed | gpt-6-luna / codex | 2026-11-26T21:29:05.772277+00:00 → 2026-11-26T21:35:52.046822+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-qi.land--gate | completed | opus / claude | 2026-11-26T21:22:21.569909+00:00 → 2026-11-26T21:22:30.797267+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--gate/chat.md) |
 | <a id="member-code"></a>code | bob-cli-qi.land--code | completed | gpt-6-luna / codex | 2026-11-26T21:23:37.207737+00:00 → 2026-11-26T21:30:00.589107+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--code/chat.md) |
+| <a id="member-2"></a>2 | bob-cli-qi.land--2 | completed | gpt-6-luna / codex | 2026-11-26T21:48:05.980699+00:00 → 2026-11-26T22:12:23.464014+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--2/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-qi.land--mon-0 | completed | gpt-6-luna / codex | 2026-11-26T21:41:00.063388+00:00 → 2026-11-26T21:48:06.321431+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--mon-0/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-qi.land--1 | completed | gpt-6-luna / codex | 2026-11-26T21:35:51.546250+00:00 → 2026-11-26T21:41:36.859435+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--1/chat.md) |
+| <a id="member-3"></a>3 | bob-cli-qi.land--3 | active | gpt-6-luna / codex | 2026-11-26T22:14:34.418365+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--3/prompt.md) | — |
 | <a id="member-plan"></a>plan | bob-cli-qi.land--plan | completed | opus / claude | 2026-11-26T20:02:21.365366+00:00 → 2026-11-26T21:30:00.589107+00:00 | [1](../agents/bbugyi200.athena.bob-cli-qi.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--plan/chat.md) |
+| <a id="member-mon-1"></a>mon-1 | bob-cli-qi.land--mon-1 | completed | gpt-6-luna / codex | 2026-11-26T22:07:55.923236+00:00 → 2026-11-26T22:14:34.560159+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--mon-1/chat.md) |
 
 ## Commits
 
