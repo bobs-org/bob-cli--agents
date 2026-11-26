@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d8fe2b46d278098f3c9e615e26e0abd6"}
+{"commits":[{"committed_at":1795659901,"sha":"974129e55c0814d2822ab1a1b12bb278ca7f4d8e","subject":"feat(capture): handle dependency and plain link ties"}],"schema_version":2,"source_run_id":"run-d8fe2b46d278098f3c9e615e26e0abd6"}

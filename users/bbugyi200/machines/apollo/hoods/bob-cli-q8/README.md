@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / bob-cli-q8
 
-**Global hood:** `bbugyi200.apollo.bob-cli-q8` · **Runs:** 10 · **Sessions:** 0 · **States:** active 1, completed 4, waiting 5
+**Global hood:** `bbugyi200.apollo.bob-cli-q8` · **Runs:** 10 · **Sessions:** 0 · **States:** completed 5, waiting 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -15,4 +15,4 @@
 | [bob-cli-q8.7](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.7/README.md) | waiting | gpt-6-luna / codex | 20261125181906 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.7/prompt.md) |
 | [bob-cli-q8.2](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.2/README.md) | completed | gpt-6-luna / codex | 2026-11-26T00:52:19.817370+00:00 → 2026-11-26T01:46:53.432406+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.2/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.2/chat.md) |
 | [bob-cli-q8.8](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.8/README.md) | waiting | muse-spark-1.3-contributor / muse | 20261125181907 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.8/prompt.md) |
-| [bob-cli-q8.3](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.3/README.md) | active | gpt-6-luna / codex | 2026-11-26T00:52:24.900822+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.3/prompt.md) |
+| [bob-cli-q8.3](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.3/README.md) | completed | gpt-6-luna / codex | 2026-11-26T00:52:24.900822+00:00 → 2026-11-26T02:26:48.237127+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.3/prompt.md), [chat](../../../../../../agents/bbugyi200.apollo.bob-cli-q8.3/chat.md) |

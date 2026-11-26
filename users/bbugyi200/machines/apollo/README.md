@@ -420,7 +420,7 @@
 | [bob-cli-ph](hoods/bob-cli-ph/README.md) | 109 | 12 | active 6, completed 75, failed 19, waiting 9 |
 | [bob-cli-pl](hoods/bob-cli-pl/README.md) | 88 | 10 | active 6, completed 58, failed 19, waiting 5 |
 | [bob-cli-pw](hoods/bob-cli-pw/README.md) | 67 | 11 | active 2, completed 53, failed 12 |
-| [bob-cli-q8](hoods/bob-cli-q8/README.md) | 10 | 0 | active 1, completed 4, waiting 5 |
+| [bob-cli-q8](hoods/bob-cli-q8/README.md) | 10 | 0 | completed 5, waiting 5 |
 | [bob-cli-t](hoods/bob-cli-t/README.md) | 2 | 0 | completed 2 |
 | [bob-cli-u](hoods/bob-cli-u/README.md) | 1 | 0 | completed 1 |
 | [bob\_ref\_status](hoods/bob_ref_status/README.md) | 1 | 0 | completed 1 |
