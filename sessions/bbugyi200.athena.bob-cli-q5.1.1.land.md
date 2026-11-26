@@ -40,8 +40,10 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q5.1.1.3](bbugyi200.athena.bob-cli-q5.1.1.3.md) (session · 11) | bob-cli-q5.1.1 hood | completed 7, failed 4 |
 | [bob-cli-q5.1.1.4](../agents/bbugyi200.athena.bob-cli-q5.1.1.4/README.md) | bob-cli-q5.1.1 hood | completed |
 | [bob-cli-q5.1.1.5](../agents/bbugyi200.athena.bob-cli-q5.1.1.5/README.md) | bob-cli-q5.1.1 hood | completed |
-| [bob-cli-q5.2](../agents/bbugyi200.athena.bob-cli-q5.2/README.md) | bob-cli-q5 hood | waiting |
-| [bob-cli-q5.3](../agents/bbugyi200.athena.bob-cli-q5.3/README.md) | bob-cli-q5 hood | waiting |
+| [bob-cli-q5.2](bbugyi200.athena.bob-cli-q5.2.md) (session · 3) | bob-cli-q5 hood | active 2, completed 1 |
+| [bob-cli-q5.3](bbugyi200.athena.bob-cli-q5.3.md) (session · 3) | bob-cli-q5 hood | active 2, completed 1 |
+| [bob-cli-q5.3.1.1](../agents/bbugyi200.athena.bob-cli-q5.3.1.1/README.md) | bob-cli-q5 hood | active |
+| [bob-cli-q5.3.1.2](../agents/bbugyi200.athena.bob-cli-q5.3.1.2/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.4](../agents/bbugyi200.athena.bob-cli-q5.4/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.5](../agents/bbugyi200.athena.bob-cli-q5.5/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.6](../agents/bbugyi200.athena.bob-cli-q5.6/README.md) | bob-cli-q5 hood | waiting |
