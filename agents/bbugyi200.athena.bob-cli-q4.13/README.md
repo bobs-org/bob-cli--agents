@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / bob-cli-q4.13
 
-**Global name:** `bbugyi200.athena.bob-cli-q4.13` · **State:** waiting · **Source run:** `run-54c6e5170ade1fe6dd326a83305f16ab`
+**Global name:** `bbugyi200.athena.bob-cli-q4.13` · **State:** completed · **Source run:** `run-54c6e5170ade1fe6dd326a83305f16ab`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q4
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261125085300
-- Commits: 0
+- Timing: 2026-11-26T09:52:51.034487+00:00 → 2026-11-26T10:40:31.079516+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`292d60c`](https://github.com/bobs-org/bob-cli/commit/292d60c03fcf110db11c60fcb94cf63321ed6e15) | test(settle): add settle acceptance E2E suite and update task-status-hooks docs | 2026-11-26 05:39:38 EST |
 
 ## Neighbors
 
