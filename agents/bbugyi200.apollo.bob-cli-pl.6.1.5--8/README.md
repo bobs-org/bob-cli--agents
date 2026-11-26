@@ -135,7 +135,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pl.4.1.3](../../sessions/bbugyi200.apollo.bob-cli-pl.4.1.3.md) (session · 12) | bob-cli-pl hood | completed 7, failed 5 |
 | [bob-cli-pl.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-pl.4.1.land.md) (session · 3) | bob-cli-pl hood | completed 3 |
 | [bob-cli-pl.5](../bbugyi200.apollo.bob-cli-pl.5/README.md) | bob-cli-pl hood | completed |
-| [bob-cli-pl.7](../bbugyi200.apollo.bob-cli-pl.7/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.7](../bbugyi200.apollo.bob-cli-pl.7/README.md) | bob-cli-pl hood | completed |
 | [bob-cli-pl.8](../bbugyi200.apollo.bob-cli-pl.8/README.md) | bob-cli-pl hood | completed |
 | [bob-cli-pl.9](../bbugyi200.apollo.bob-cli-pl.9/README.md) | bob-cli-pl hood | waiting |
 | [bob-cli-pl.land](../bbugyi200.apollo.bob-cli-pl.land/README.md) | bob-cli-pl hood | waiting |
