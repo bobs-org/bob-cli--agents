@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6k.image
 
-**Global name:** `bbugyi200.apollo.research.6k.image` · **State:** waiting · **Source run:** `run-eaa2fd1a1aa45f9d94af58e143f9ac16`
+**Global name:** `bbugyi200.apollo.research.6k.image` · **State:** completed · **Source run:** `run-eaa2fd1a1aa45f9d94af58e143f9ac16`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261126111422
+- Timing: 2026-11-26T16:59:05.968546+00:00 → 2026-11-26T17:09:38.752174+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/prose\_and\_notebook\_title\_cards/prose\_and\_notebook\_title\_cards\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126111422/prose\_an… |
+| `diagrams` | {considered: 17, count: 2, manifest: 202611/prose\_and\_notebook\_title\_cards/prose\_and\_notebook\_title\_cards.diagrams.md, source\_ref: file:explicit:723a3476921e49862517f1dd, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/prose_and_notebook_title_cards/prose_and_notebook_title_cards_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126111422/prose_and_notebook_title_cards_infographic-4c795b58bce8.png
+  ref: file:explicit:4adcdbf64d584a4c2ad8d3c9
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/prose_and_notebook_title_cards/prose_and_notebook_title_cards_infographic.png
+- kind: markdown
+  label: diagrams:202611/prose_and_notebook_title_cards/prose_and_notebook_title_cards.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126111422/prose_and_notebook_title_cards.diagrams-aac2c551ad87.md
+  ref: file:explicit:5516aa45465641abc45a0e6b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/prose_and_notebook_title_cards/prose_and_notebook_title_cards.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 17
+count: 2
+manifest: 202611/prose_and_notebook_title_cards/prose_and_notebook_title_cards.diagrams.md
+source_ref: file:explicit:723a3476921e49862517f1dd
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
