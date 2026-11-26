@@ -1,7 +1,7 @@
 - **AGENTS:**
   - [bbugyi200.athena.bob-cli-q4.10.1.5](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.bob-cli-q4.10.1.5.md)
 
-%queue(weight=1) #fork:bob-cli-q4.10.1.5--plan %model:gpt-6-luna@xhigh
+%queue(weight=1) #fork:bob-cli-q4.10.1.5--2 %model:gpt-6-luna@xhigh
 
 %macros_enabled:false
 
@@ -10,7 +10,7 @@
 **Command:**
 
 ```text
-npm run build
+set -e; bob plugins sync --repo "$PWD" --no-pull -p bob-navigation-hotkeys; bob plugins list --repo "$PWD" --no-pull -f json 2>/dev/null | jq -e ".plugins[] | select(.id == \"bob-navigation-hotkeys\") | select(.sync == \"synced\" and .deployment.status == \"clean\")" >/dev/null
 ```
 
 **Directory:**
@@ -22,18 +22,18 @@ npm run build
 |              |                                                                                                                                                                                                                  |
 | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Outcome**  | COMPLETED — exit 0                                                                                                                                                                                               |
-| **Started**  | 2026-11-26T01:50:41.323582+00:00                                                                                                                                                                                 |
-| **Finished** | 2026-11-26T01:52:51.725938Z                                                                                                                                                                                      |
-| **Elapsed**  | 29s of a 1h 0m 0s budget                                                                                                                                                                                         |
-| **Output**   | 386 bytes · evidence refs: `file:monitor-diagnostic-manifest:bqf8tsmwa8mq`, `file:monitor-retained-log:bqf8tsmwa8mq` · raw output omitted: `facts_only` · full log: `sase monitor show bqf8tsmwa8mq --all-lines` |
-| **Tool run** | sase tool show 56bca34d460ab49e71ef89bd906b4526                                                                                                                                                                  |
+| **Started**  | 2026-11-26T02:27:41.754247+00:00                                                                                                                                                                                 |
+| **Finished** | 2026-11-26T02:28:40.394155Z                                                                                                                                                                                      |
+| **Elapsed**  | 2s of a 20m 0s budget                                                                                                                                                                                            |
+| **Output**   | 297 bytes · evidence refs: `file:monitor-diagnostic-manifest:pr7a8p9jtqd1`, `file:monitor-retained-log:pr7a8p9jtqd1` · raw output omitted: `facts_only` · full log: `sase monitor show pr7a8p9jtqd1 --all-lines` |
+| **Tool run** | sase tool show 720e0f3e34b37323dda3e37fd552919b                                                                                                                                                                  |
 
-**Why this was monitored:** Build the navigation plugin after wiring settled dependency
-and relation writes
+**Why this was monitored:** Sync bob-navigation-hotkeys from the clean landed checkout
+and verify clean provenance
 
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-5997aa568b4cbc72.json`
+- **Ref:** `local:continuation/checkpoints/monitor_start-58ae70e2a91a1974.json`
 
 **Checkpoint (JSON):**
 
@@ -41,30 +41,29 @@ and relation writes
 {
   "kind": "monitor_start",
   "payload": {
-    "command": "npm run build",
+    "command": "set -e; bob plugins sync --repo \"$PWD\" --no-pull -p bob-navigation-hotkeys; bob plugins list --repo \"$PWD\" --no-pull -f json 2>/dev/null | jq -e \".plugins[] | select(.id == \\\"bob-navigation-hotkeys\\\") | select(.sync == \\\"synced\\\" and .deployment.status == \\\"clean\\\")\" >/dev/null",
     "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/linked/bob-plugins",
-    "member_agent_name": "bob-cli-q4.10.1.5--mon",
-    "monitor_id": "bqf8tsmwa8mq",
+    "member_agent_name": "bob-cli-q4.10.1.5--mon-1",
+    "monitor_id": "pr7a8p9jtqd1",
     "next_output": "auto",
     "parent_node_ids": [
-      "agent-delta:20261125143122:de37e9b090f732b8"
+      "agent-delta:20261125212158:ec8376a8f00a6018"
     ],
     "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:6a6cad872cf50b81201ebb4fced4c8151af0b721fa30c6c70c7aeec185854f9e",
-    "starter_agent": "bob-cli-q4.10.1.5--plan",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/25/20261125143122"
+    "request_fingerprint": "sha256:3ec41ad9592ca1c28e83033918e2f848f0a38e28b341360f925cbbe4aad2898e",
+    "starter_agent": "bob-cli-q4.10.1.5--2",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/25/20261125212158"
   },
-  "recorded_at_epoch": 1795657942.74759,
+  "recorded_at_epoch": 1795660118.552074,
   "schema_version": 1
 }
 ```
 
 ## Your next action
 
-Inspect the build outcome. Fix any build failures, then run the focused dependency,
-blocks, relation, mirror, and task-settle tests; update the source build and fragment
-version as needed. Confirm the A-to-B mirror race and settle jump behavior, deploy only
-bob-navigation-hotkeys with bob plugins sync -p bob-navigation-hotkeys, record the
-complete navigation writer disposition on bead bob-cli-q4.10.1.5, run sase bead
-epic-symbols, and close only bob-cli-q4.10.1.5 after verification. Do not open the bead
-or close an ancestor. %macros_enabled:true
+Inspect the sync and clean-status result. If it passed, restore the stashed generated
+bob-ledger-tools bundle, run npm run build:check, record bob-navigation-hotkeys version
+and clean deployment provenance on bead bob-cli-q4.10.1.5, rerun sase bead epic-symbols
+bob-cli-q4.10.1.5, and close only that bead after verification. Do not open it or close
+an ancestor. If sync or status failed, inspect the cause and continue safely without
+force; do not close the bead. %macros_enabled:true
