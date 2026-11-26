@@ -2,28 +2,53 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / [bob-cli-pl.9.1.2](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.md) / bob-cli-pl.9.1.2--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-pl.9.1.2--plan` · **State:** completed · **Source run:** `run-d037feaf9232594c1047900df2471cc1`
+**Global name:** `bbugyi200.apollo.bob-cli-pl.9.1.2--plan` · **State:** active · **Source run:** `run-964b948a6a770d34c1b2f42e2025f6e4`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pl
 
 ## Summary
 
 - Bead: [bob-cli-pl.9.1.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.9.1.2.md)
-- Epic: [bob-cli-pl.9.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.9.1.md)
-- Model: gpt-6-luna
+- Epic: [bob-cli-pl.9.1.2.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.9.1.2.1.md)
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-26T01:21:13.210532+00:00 → 2026-11-26T01:51:16.773705+00:00
+- Timing: 2026-11-26T08:16:57.163534+00:00 → 2026-11-26T08:28:38.293278+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-pl.9.1.2, kind: file, label: Bank arbitration failed acceptance and recovery evidence, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126031608/bank-arbitration-re… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-pl.9.1.2
+  kind: file
+  label: Bank arbitration failed acceptance and recovery evidence
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126031608/bank-arbitration-recovery-evidence.tar-2dfd0fc1c069.gz
+  ref: file:explicit:e85d653a52d90836c21d7b53
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/.build/bank-arbitration-recovery/bank-arbitration-recovery-evidence.tar.gz
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-pl.9](../../sessions/bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-pl.9.1.2.1.1](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.1/README.md) | descendant | active |
+| [bob-cli-pl.9.1.2.1.2](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.2/README.md) | descendant | waiting |
+| [bob-cli-pl.9.1.2.1.3](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.3/README.md) | descendant | waiting |
+| [bob-cli-pl.9.1.2.1.4](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.4/README.md) | descendant | waiting |
+| [bob-cli-pl.9.1.2.1.land](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.land/README.md) | descendant | waiting |
 | [bob-cli-pl.9.1.1](../bbugyi200.apollo.bob-cli-pl.9.1.1/README.md) | bob-cli-pl.9.1 hood | completed |
 | [bob-cli-pl.9.1.3](../bbugyi200.apollo.bob-cli-pl.9.1.3/README.md) | bob-cli-pl.9.1 hood | waiting |
 | [bob-cli-pl.9.1.4](../bbugyi200.apollo.bob-cli-pl.9.1.4/README.md) | bob-cli-pl.9.1 hood | waiting |

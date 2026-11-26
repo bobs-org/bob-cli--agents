@@ -1,0 +1,45 @@
+# Session: bob-cli-q8.10.3
+
+[Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-q8](../users/bbugyi200/machines/apollo/hoods/bob-cli-q8/README.md) / bob-cli-q8.10.3
+
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-q8` · Members: 2 · Bead: [bob-cli-q8.10.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q8/bob-cli-q8.10.3.md)
+
+## Lineage
+
+```mermaid
+flowchart TD
+  n0["bob-cli-q8.10.3--mon [active]"]
+  n1["bob-cli-q8.10.3--plan [completed]"]
+  n0 --> n1
+```
+
+The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
+
+| Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
+|---|---|---|---|---|---:|---|---|
+| <a id="member-mon"></a>mon | bob-cli-q8.10.3--mon | active | gpt-6-luna / codex | 2026-11-26T08:26:12.086555+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-q8.10.3--plan | completed | gpt-6-luna / codex | 2026-11-26T07:43:30.462246+00:00 → 2026-11-26T08:29:33.936446+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-q8.10.3--plan/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-q8.10.3--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-q8.10.3--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| plan | bob-cli | [`8cb474b`](https://github.com/bobs-org/bob-cli/commit/8cb474ba818f1e214e38634dce63f8ffb120b11d) | docs(tasks): document navigation tie consequence copy | 2026-11-26 03:27:19 EST |
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-q8.10.1](../agents/bbugyi200.apollo.bob-cli-q8.10.1/README.md) | bob-cli-q8.10 hood | completed |
+| [bob-cli-q8.10.2](../agents/bbugyi200.apollo.bob-cli-q8.10.2/README.md) | bob-cli-q8.10 hood | completed |
+| [bob-cli-q8.10.land](../agents/bbugyi200.apollo.bob-cli-q8.10.land/README.md) | bob-cli-q8.10 hood | waiting |
+| [bob-cli-q8.1](../agents/bbugyi200.apollo.bob-cli-q8.1/README.md) | bob-cli-q8 hood | completed |
+| [bob-cli-q8.2](../agents/bbugyi200.apollo.bob-cli-q8.2/README.md) | bob-cli-q8 hood | completed |
+| [bob-cli-q8.3](../agents/bbugyi200.apollo.bob-cli-q8.3/README.md) | bob-cli-q8 hood | completed |
+| [bob-cli-q8.4](../agents/bbugyi200.apollo.bob-cli-q8.4/README.md) | bob-cli-q8 hood | completed |
+| [bob-cli-q8.5](../agents/bbugyi200.apollo.bob-cli-q8.5/README.md) | bob-cli-q8 hood | completed |
+| [bob-cli-q8.6](bbugyi200.apollo.bob-cli-q8.6.md) (session · 3) | bob-cli-q8 hood | completed 3 |
+| [bob-cli-q8.7](../agents/bbugyi200.apollo.bob-cli-q8.7/README.md) | bob-cli-q8 hood | completed |
+| [bob-cli-q8.8](../agents/bbugyi200.apollo.bob-cli-q8.8/README.md) | bob-cli-q8 hood | completed |
+| [bob-cli-q8.9](../agents/bbugyi200.apollo.bob-cli-q8.9/README.md) | bob-cli-q8 hood | completed |
+| [bob-cli-q8.land](bbugyi200.apollo.bob-cli-q8.land.md) (session · 3) | bob-cli-q8 hood | active 1, completed 2 |

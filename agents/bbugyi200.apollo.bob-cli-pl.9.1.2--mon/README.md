@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pl](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pl/README.md) / [bob-cli-pl.9.1.2](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.md) / bob-cli-pl.9.1.2--mon
 
-**Global name:** `bbugyi200.apollo.bob-cli-pl.9.1.2--mon` · **State:** failed · **Source run:** `run-4dc93cf336c14fe13e95c6ebf818dc93`
+**Global name:** `bbugyi200.apollo.bob-cli-pl.9.1.2--mon` · **State:** completed · **Source run:** `run-a3e5c27666c5af3b79134126aebf67ae`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pl
 
 ## Summary
 
 - Bead: [bob-cli-pl.9.1.2](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.9.1.2.md)
-- Epic: [bob-cli-pl.9.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pl/bob-cli-pl.9.1.md)
-- Model: gpt-6-luna
+- Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-26T01:49:51.398964+00:00 → 2026-11-26T01:54:33.620993+00:00
+- Timing: 2026-11-26T08:28:25.834245+00:00 → 2026-11-26T08:30:24.166151+00:00
 - Commits: 0
 
 ## Files
@@ -24,6 +23,11 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-pl.9](../../sessions/bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-pl.9.1.2.1.1](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.1/README.md) | descendant | active |
+| [bob-cli-pl.9.1.2.1.2](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.2/README.md) | descendant | waiting |
+| [bob-cli-pl.9.1.2.1.3](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.3/README.md) | descendant | waiting |
+| [bob-cli-pl.9.1.2.1.4](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.4/README.md) | descendant | waiting |
+| [bob-cli-pl.9.1.2.1.land](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.land/README.md) | descendant | waiting |
 | [bob-cli-pl.9.1.1](../bbugyi200.apollo.bob-cli-pl.9.1.1/README.md) | bob-cli-pl.9.1 hood | completed |
 | [bob-cli-pl.9.1.3](../bbugyi200.apollo.bob-cli-pl.9.1.3/README.md) | bob-cli-pl.9.1 hood | waiting |
 | [bob-cli-pl.9.1.4](../bbugyi200.apollo.bob-cli-pl.9.1.4/README.md) | bob-cli-pl.9.1 hood | waiting |
