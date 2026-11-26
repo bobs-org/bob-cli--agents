@@ -4,6 +4,11 @@
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-q5.4.1.land--plan
 
+## Linked Chats
+
+- **1. --plan** — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_q5_4_1_land__plan-261126_144155.md`
+- 2. --code — `~/.sase/chats/202611/gh_bobs_org__bob_cli-ace_run-bob_cli_q5_4_1_land__code-261126_144155.md`
+
 **Plan:** /home/bryan/.sase/plans/202611/snooze_plumbing_sp14_closeout.md
 
 
