@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.5.1.3
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.5.1.3` · **State:** waiting · **Source run:** `run-bf4e4c7ceb39097271abadac85a58547`
+**Global name:** `bbugyi200.athena.bob-cli-q5.5.1.3` · **State:** completed · **Source run:** `run-bf4e4c7ceb39097271abadac85a58547`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,13 +12,13 @@
 - Epic: [bob-cli-q5.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.5.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 20261126153904
+- Timing: 2026-11-26T21:24:02.432378+00:00 → 2026-11-26T23:22:09.543622+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -92,7 +92,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-q5.8.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.1.md) (session · 8) | bob-cli-q5 hood | completed 4, failed 4 |
 | [bob-cli-q5.8.1.2](../bbugyi200.athena.bob-cli-q5.8.1.2/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.8.1.3](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.3.md) (session · 5) | bob-cli-q5 hood | completed 3, failed 2 |
-| [bob-cli-q5.8.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.4.md) (session · 7) | bob-cli-q5 hood | active 1, completed 4, failed 2 |
+| [bob-cli-q5.8.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.4.md) (session · 12) | bob-cli-q5 hood | active 1, completed 8, failed 3 |
 | [bob-cli-q5.8.1.5](../bbugyi200.athena.bob-cli-q5.8.1.5/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.8.1.land](../bbugyi200.athena.bob-cli-q5.8.1.land/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.9](../bbugyi200.athena.bob-cli-q5.9/README.md) | bob-cli-q5 hood | waiting |
