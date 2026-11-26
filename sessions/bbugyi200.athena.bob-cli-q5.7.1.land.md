@@ -17,7 +17,7 @@ flowchart TD
   n0 --> n3
   n4["bob-cli-q5.7.1.land--mon [failed]"]
   n0 --> n4
-  n5["bob-cli-q5.7.1.land--3 [active]"]
+  n5["bob-cli-q5.7.1.land--3 [completed]"]
   n0 --> n5
   n6["bob-cli-q5.7.1.land--2 [completed]"]
   n0 --> n6
@@ -38,7 +38,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-0"></a>mon-0 | bob-cli-q5.7.1.land--mon-0 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T16:27:47.638347+00:00 → 2026-11-26T16:41:13.886128+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.land--mon-0/chat.md) |
 | <a id="member-mon-2"></a>mon-2 | bob-cli-q5.7.1.land--mon-2 | active | muse-spark-1.3-contributor / muse | 2026-11-26T16:53:21.105398+00:00 | 0 | — | — |
 | <a id="member-mon"></a>mon | bob-cli-q5.7.1.land--mon | failed | muse-spark-1.3-contributor / muse | 2026-11-26T16:19:31.491891+00:00 → 2026-11-26T16:22:59.148206+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.land--mon/chat.md) |
-| <a id="member-3"></a>3 | bob-cli-q5.7.1.land--3 | active | muse-spark-1.3-contributor / muse | 2026-11-26T16:49:46.535388+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.7.1.land--3/prompt.md) | — |
+| <a id="member-3"></a>3 | bob-cli-q5.7.1.land--3 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T16:49:46.535388+00:00 → 2026-11-26T17:07:37.578903+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.7.1.land--3/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.land--3/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-q5.7.1.land--2 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T16:41:13.558425+00:00 → 2026-11-26T16:42:54.687629+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.7.1.land--2/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.land--2/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-q5.7.1.land--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-26T16:22:58.831310+00:00 → 2026-11-26T16:40:06.139986+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.7.1.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.land--1/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-q5.7.1.land--gate | completed | gpt-6-astra / codex | 2026-11-26T15:57:44.873209+00:00 → 2026-11-26T15:57:53.640359+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.7.1.land--gate/chat.md) |
@@ -77,7 +77,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q5.4.1.3](../agents/bbugyi200.athena.bob-cli-q5.4.1.3/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.4.1.4](bbugyi200.athena.bob-cli-q5.4.1.4.md) (session · 13) | bob-cli-q5 hood | completed 10, failed 3 |
 | [bob-cli-q5.4.1.5](../agents/bbugyi200.athena.bob-cli-q5.4.1.5/README.md) | bob-cli-q5 hood | completed |
-| [bob-cli-q5.4.1.land](../agents/bbugyi200.athena.bob-cli-q5.4.1.land/README.md) | bob-cli-q5 hood | waiting |
+| [bob-cli-q5.4.1.land](bbugyi200.athena.bob-cli-q5.4.1.land.md) (session · 3) | bob-cli-q5 hood | active 2, completed 1 |
 | [bob-cli-q5.5](../agents/bbugyi200.athena.bob-cli-q5.5/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.6](../agents/bbugyi200.athena.bob-cli-q5.6/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.8](../agents/bbugyi200.athena.bob-cli-q5.8/README.md) | bob-cli-q5 hood | waiting |
