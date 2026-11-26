@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / [bob-cli-ph.7.1.land](../../sessions/bbugyi200.apollo.bob-cli-ph.7.1.land.md) / bob-cli-ph.7.1.land--7
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.7.1.land--7` · **State:** active · **Source run:** `run-56a929028ae5a556d1d9716f8a5a2a0e`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.7.1.land--7` · **State:** completed · **Source run:** `run-56a929028ae5a556d1d9716f8a5a2a0e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -11,12 +11,51 @@
 - Bead: [bob-cli-ph.7.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.7.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-25T23:47:35.902455+00:00
+- Timing: 2026-11-25T23:47:35.902455+00:00 → 2026-11-26T00:00:43.494530+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: file, label: True-case drawers visual report ea3bc6a4, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125184640/report-b642e4d251a5.json, ref: file:explicit:264a2179214d20… |
+
+#### artifacts
+
+```yaml
+- kind: file
+  label: True-case drawers visual report ea3bc6a4
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125184640/report-b642e4d251a5.json
+  ref: file:explicit:264a2179214d204058bfe90b
+  source_path: /tmp/bob-drawers-verify-final/report.json
+- kind: image
+  label: True-case drawers light Live Preview
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125184640/drawers-light-live-e3f034a712b2.png
+  ref: file:explicit:9305afba3e03592417e35d5c
+  source_path: /tmp/bob-drawers-verify-final/drawers-light-live.png
+- kind: image
+  label: True-case drawers light reading view
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125184640/drawers-light-reading-70473ffb5024.png
+  ref: file:explicit:b1271577a9fd765671e79e8e
+  source_path: /tmp/bob-drawers-verify-final/drawers-light-reading.png
+- kind: image
+  label: True-case drawers dark Live Preview
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125184640/drawers-dark-live-5f16ee0c80d9.png
+  ref: file:explicit:4c03d1781aa3b399c23209ee
+  source_path: /tmp/bob-drawers-verify-final/drawers-dark-live.png
+- kind: image
+  label: True-case drawers dark reading view
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125184640/drawers-dark-reading-08d3ba06193a.png
+  ref: file:explicit:ec391b9d72e4e35769fde38f
+  source_path: /tmp/bob-drawers-verify-final/drawers-dark-reading.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -42,6 +81,6 @@
 | [bob-cli-ph.6.1.4](../bbugyi200.apollo.bob-cli-ph.6.1.4/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.6.1.5](../../sessions/bbugyi200.apollo.bob-cli-ph.6.1.5.md) (session · 3) | bob-cli-ph hood | completed 2, failed 1 |
 | [bob-cli-ph.6.1.land](../bbugyi200.apollo.bob-cli-ph.6.1.land/README.md) | bob-cli-ph hood | completed |
-| [bob-cli-ph.8](../../sessions/bbugyi200.apollo.bob-cli-ph.8.md) (session · 3) | bob-cli-ph hood | active 2, completed 1 |
+| [bob-cli-ph.8](../../sessions/bbugyi200.apollo.bob-cli-ph.8.md) (session · 5) | bob-cli-ph hood | active 1, completed 4 |
 | [bob-cli-ph.9](../bbugyi200.apollo.bob-cli-ph.9/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.land](../bbugyi200.apollo.bob-cli-ph.land/README.md) | bob-cli-ph hood | waiting |

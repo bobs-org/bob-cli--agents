@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["bob-cli-ph.7.1.land--mon-3 [completed]"]
   n0 --> n3
-  n4["bob-cli-ph.7.1.land--7 [active]"]
+  n4["bob-cli-ph.7.1.land--7 [completed]"]
   n0 --> n4
   n5["bob-cli-ph.7.1.land--code [completed]"]
   n0 --> n5
@@ -51,7 +51,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-6"></a>6 | bob-cli-ph.7.1.land--6 | completed | gpt-6-luna / codex | 2026-11-25T23:35:00.780921+00:00 → 2026-11-25T23:42:27.005228+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--6/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--6/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-ph.7.1.land--mon-0 | failed | gpt-6-luna / codex | 2026-11-25T19:07:39.987908+00:00 → 2026-11-25T19:14:19.653621+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--mon-0/chat.md) |
 | <a id="member-mon-3"></a>mon-3 | bob-cli-ph.7.1.land--mon-3 | completed | gpt-6-luna / codex | 2026-11-25T22:51:59.448946+00:00 → 2026-11-25T23:04:01.287018+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--mon-3/chat.md) |
-| <a id="member-7"></a>7 | bob-cli-ph.7.1.land--7 | active | gpt-6-luna / codex | 2026-11-25T23:47:35.902455+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--7/prompt.md) | — |
+| <a id="member-7"></a>7 | bob-cli-ph.7.1.land--7 | completed | gpt-6-luna / codex | 2026-11-25T23:47:35.902455+00:00 → 2026-11-26T00:00:43.494530+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--7/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--7/chat.md) |
 | <a id="member-code"></a>code | bob-cli-ph.7.1.land--code | completed | gpt-6-luna / codex | 2026-11-25T18:18:28.188551+00:00 → 2026-11-25T18:51:06.889333+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--code/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-ph.7.1.land--mon-1 | completed | gpt-6-luna / codex | 2026-11-25T20:15:44.778235+00:00 → 2026-11-25T22:12:51.487646+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--mon-1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-ph.7.1.land--mon | failed | gpt-6-luna / codex | 2026-11-25T18:48:19.179264+00:00 → 2026-11-25T18:52:42.685963+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.7.1.land--mon/chat.md) |
@@ -71,6 +71,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|
 | 2 | `artifacts` | \[{kind: file, label: Task drawer visual acceptance report (4 of 4 pass), path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125141319/report-ab67912f2ba7.json, ref: file:explicit:7d13… |
 | 5 | `artifacts` | \[{bead: bob-cli-ph.7.1, kind: file, label: Integrated drawer acceptance report · aecff7d2, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125180311/report-f4e6e1ecfd42.json, ref:… |
+| 7 | `artifacts` | \[{kind: file, label: True-case drawers visual report ea3bc6a4, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261125184640/report-b642e4d251a5.json, ref: file:explicit:264a2179214d20… |
 
 #### artifacts
 
@@ -117,6 +118,38 @@ The diagram is an optional enhancement; the ordered table below contains the sam
   source_path: /tmp/bob-drawers-verify-final/report.json
 ```
 
+#### artifacts
+
+**Role:** `7`
+
+```yaml
+- kind: file
+  label: True-case drawers visual report ea3bc6a4
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125184640/report-b642e4d251a5.json
+  ref: file:explicit:264a2179214d204058bfe90b
+  source_path: /tmp/bob-drawers-verify-final/report.json
+- kind: image
+  label: True-case drawers light Live Preview
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125184640/drawers-light-live-e3f034a712b2.png
+  ref: file:explicit:9305afba3e03592417e35d5c
+  source_path: /tmp/bob-drawers-verify-final/drawers-light-live.png
+- kind: image
+  label: True-case drawers light reading view
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125184640/drawers-light-reading-70473ffb5024.png
+  ref: file:explicit:b1271577a9fd765671e79e8e
+  source_path: /tmp/bob-drawers-verify-final/drawers-light-reading.png
+- kind: image
+  label: True-case drawers dark Live Preview
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125184640/drawers-dark-live-5f16ee0c80d9.png
+  ref: file:explicit:4c03d1781aa3b399c23209ee
+  source_path: /tmp/bob-drawers-verify-final/drawers-dark-live.png
+- kind: image
+  label: True-case drawers dark reading view
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261125184640/drawers-dark-reading-08d3ba06193a.png
+  ref: file:explicit:ec391b9d72e4e35769fde38f
+  source_path: /tmp/bob-drawers-verify-final/drawers-dark-reading.png
+```
+
 Values are truncated for display; see each member's agent meta.json for the full values.
 
 ## Neighbors
@@ -143,6 +176,6 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-ph.6.1.4](../agents/bbugyi200.apollo.bob-cli-ph.6.1.4/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.6.1.5](bbugyi200.apollo.bob-cli-ph.6.1.5.md) (session · 3) | bob-cli-ph hood | completed 2, failed 1 |
 | [bob-cli-ph.6.1.land](../agents/bbugyi200.apollo.bob-cli-ph.6.1.land/README.md) | bob-cli-ph hood | completed |
-| [bob-cli-ph.8](bbugyi200.apollo.bob-cli-ph.8.md) (session · 3) | bob-cli-ph hood | active 2, completed 1 |
+| [bob-cli-ph.8](bbugyi200.apollo.bob-cli-ph.8.md) (session · 5) | bob-cli-ph hood | active 1, completed 4 |
 | [bob-cli-ph.9](../agents/bbugyi200.apollo.bob-cli-ph.9/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.land](../agents/bbugyi200.apollo.bob-cli-ph.land/README.md) | bob-cli-ph hood | waiting |

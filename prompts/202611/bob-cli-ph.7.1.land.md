@@ -1,7 +1,7 @@
 - **AGENTS:**
   - [bbugyi200.apollo.bob-cli-ph.7.1.land](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.bob-cli-ph.7.1.land.md)
 
-%queue(weight=1) #fork:bob-cli-ph.7.1.land--2 %model:gpt-6-luna@xhigh
+%queue(weight=1) #fork:bob-cli-ph.7.1.land--6 %model:gpt-6-luna@xhigh
 
 %macros_enabled:false
 
@@ -10,29 +10,30 @@
 **Command:**
 
 ```text
-/tmp/bob-drawers-wait-plugin-agent.sh
+npm test
 ```
 
 **Directory:**
 
 ```text
-/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-plugins
 ```
 
-|              |                                                                                                                                                                                                              |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Outcome**  | COMPLETED — exit 0                                                                                                                                                                                           |
-| **Started**  | 2026-11-25T20:15:44.778235+00:00                                                                                                                                                                             |
-| **Finished** | 2026-11-25T22:10:53.280373Z                                                                                                                                                                                  |
-| **Elapsed**  | 1h 52m 31s of a 12h 0m 0s budget                                                                                                                                                                             |
-| **Output**   | 5 KiB · evidence refs: `file:monitor-diagnostic-manifest:ndv2j9rpxjxn`, `file:monitor-retained-log:ndv2j9rpxjxn` · raw output omitted: `facts_only` · full log: `sase monitor show ndv2j9rpxjxn --all-lines` |
+|              |                                                                                                                                                                                                                |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Outcome**  | COMPLETED — exit 0                                                                                                                                                                                             |
+| **Started**  | 2026-11-25T23:41:24.957455+00:00                                                                                                                                                                               |
+| **Finished** | 2026-11-25T23:46:15.269365Z                                                                                                                                                                                    |
+| **Elapsed**  | 3m 51s of a 25m 0s budget                                                                                                                                                                                      |
+| **Output**   | 806 KiB · evidence refs: `file:monitor-diagnostic-manifest:0vkpsfthmhye`, `file:monitor-retained-log:0vkpsfthmhye` · raw output omitted: `facts_only` · full log: `sase monitor show 0vkpsfthmhye --all-lines` |
+| **Tool run** | sase tool show fcb3431b8b19bc1c9bba2a55b42ccdf1                                                                                                                                                                |
 
-**Why this was monitored:** Wait for active bob-cli-pl.6.1.5 before non-forcing plugin
-deployment
+**Why this was monitored:** Rerun the full bob-plugins test gate at the exact visually
+verified drawer revision
 
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-d305dccc50b00b9f.json`
+- **Ref:** `local:continuation/checkpoints/monitor_start-f4a25e7c241cec8d.json`
 
 **Checkpoint (JSON):**
 
@@ -40,45 +41,42 @@ deployment
 {
   "kind": "monitor_start",
   "payload": {
-    "command": "/tmp/bob-drawers-wait-plugin-agent.sh",
-    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10",
-    "member_agent_name": "bob-cli-ph.7.1.land--mon-1",
-    "monitor_id": "ndv2j9rpxjxn",
+    "command": "npm test",
+    "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-plugins",
+    "member_agent_name": "bob-cli-ph.7.1.land--mon-5",
+    "monitor_id": "0vkpsfthmhye",
     "next_output": "auto",
     "parent_node_ids": [
-      "agent-delta:20261125141319:005af06bada56320"
+      "agent-delta:20261125183350:b4c4e509fdbebbc0"
     ],
     "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:3216f865fc1f3ae80d9ac0ad570d113241c4dd075f6cd00434b468c01083d6c8",
-    "starter_agent": "bob-cli-ph.7.1.land--2",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/25/20261125141319"
+    "request_fingerprint": "sha256:5e6be1211e09618aec4f3ba0e9ec4d2fa1d34eb3b2e57c63f0789863b70b6aa4",
+    "starter_agent": "bob-cli-ph.7.1.land--6",
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/25/20261125183350"
   },
-  "recorded_at_epoch": 1795637902.2977912,
+  "recorded_at_epoch": 1795650143.813653,
   "schema_version": 1
 }
 ```
 
 ## Your next action
 
-Continue Bryan's approved obsidian_drawer_landing_repairs closeout. The four
-real-Obsidian Live Preview/reading, light/dark cases pass; report and all four inspected
-screenshots are published as explicit artifacts and attached to bob-cli-ph.7.1 and
-bob-cli-ph.7. Required gates already run: bob-plugins build/test/validate passed; npm
-run docs:check has the unchanged word-budget failures documented on bob-cli-ph.7.1;
-bob-cli just docs-gen passed, just docs-check has the same baseline budget failures, and
-just check passed clippy but reproduced the known clean-base 3 library +17 CLI failures
-documented on bob-cli-q5.1.1.2 and bob-cli-q4. Do not run just check-full. The visual
-fix is in the opened bob-plugins checkout as dirty CSS and E2E harness edits. A
-non-forcing sync refused because bob-ledger-tools is deployed from workspace 15 at
-stamped revision 3e851f0. The wait output includes the result of git fetch after
-bob-cli-pl.6.1.5 stops running. Inspect whether 3e851f0 has landed, integrate upstream
-changes into the opened plugin checkout without discarding this turn's edits, and if the
-stamp is still absent follow bob-plugins AGENTS instructions; never force and ask only
-if the source is abandoned. Rebuild and rerun bob-plugins build, test, validate,
-docs:check and the four visual cases against the integrated source; inspect the
-resulting report and all four screenshots; deploy with bob plugins sync --repo
-<opened-plugin-repo> --no-pull -p bob-ledger-tools. Then record exact deployed source
-revision, plugin ID and bundle marker on bob-cli-ph.7; update
-plans/202611/obsidian_true_case_drawers.md to status: done; recheck epic-symbols for
-bob-cli-ph.7.1 and bob-cli-ph.7; close bob-cli-ph.7.1 and bob-cli-ph.7 normally, leaving
-bob-cli-ph open. Finish through sase_final. %macros_enabled:true
+Inspect this exact full test rerun. The checkout should remain at
+ea3bc6a42500cb93ea77f69f4e50fbd7adf44261. If npm test passes, complete the protected
+user request: verify status.txt and all gate logs; the source_sha is
+ea3bc6a42500cb93ea77f69f4e50fbd7adf44261, build and validate already passed, and the
+only docs:check failures are the four clean-baseline overages corroborated by
+bob-cli-q6.4 and bob-cli-q7.2 (plugin-apis is warning-only). The visual report is
+pass:true and all four screenshots were inspected. Publish report.json and the four
+screenshots as explicit artifacts, waiting for each create command to exit serially,
+then attach each artifact ref to bob-cli-ph.7.1 and bob-cli-ph.7. Deploy only with bob
+plugins sync --repo
+/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/linked/bob-plugins
+--no-pull -p bob-ledger-tools; never force. Verify Apollo .bob-deploy.json is clean at
+the exact deployed revision. Record exact revision, plugin id bob-ledger-tools, and
+marker bob-task-drawer-render-v1 on bob-cli-ph.7. Set status: done in the opened plans
+repo file 202611/obsidian_true_case_drawers.md. Recheck sase bead epic-symbols for
+bob-cli-ph.7.1 and bob-cli-ph.7, close both normally with verification notes, and leave
+bob-cli-ph open. Do not run just check-full. If npm test fails, do not deploy or close;
+report the failure and stop with the bead statuses open. In either outcome, finish
+through sase_final. %macros_enabled:true
