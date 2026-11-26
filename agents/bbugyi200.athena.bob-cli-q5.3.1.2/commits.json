@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-a09e270fe72ecc9afa542cee4cbf8a56"}
+{"commits":[{"committed_at":1795684550,"sha":"ae78dbb2dbcd61ce5b8cc9a0dd4db904d93ea745","subject":"feat(capture): apply snooze operations atomically"}],"schema_version":2,"source_run_id":"run-a09e270fe72ecc9afa542cee4cbf8a56"}
