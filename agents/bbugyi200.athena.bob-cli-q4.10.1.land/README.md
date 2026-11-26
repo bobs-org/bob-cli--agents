@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / bob-cli-q4.10.1.land
 
-**Global name:** `bbugyi200.athena.bob-cli-q4.10.1.land` · **State:** waiting · **Source run:** `run-00141b6933924c49604d5f544990a75e`
+**Global name:** `bbugyi200.athena.bob-cli-q4.10.1.land` · **State:** completed · **Source run:** `run-00141b6933924c49604d5f544990a75e`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q4
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-q4.10.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.10.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261125143124
+- Timing: 2026-11-26T09:30:25.315112+00:00 → 2026-11-26T09:53:52.191524+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -28,7 +28,7 @@
 | [bob-cli-q4.10.1.3](../bbugyi200.athena.bob-cli-q4.10.1.3/README.md) | bob-cli-q4.10.1 hood | completed |
 | [bob-cli-q4.10.1.4](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.4.md) (session · 31) | bob-cli-q4.10.1 hood | completed 17, failed 14 |
 | [bob-cli-q4.10.1.5](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.5.md) (session · 7) | bob-cli-q4.10.1 hood | completed 6, failed 1 |
-| [bob-cli-q4.10.1.6](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.6.md) (session · 4) | bob-cli-q4.10.1 hood | active 1, completed 2, failed 1 |
+| [bob-cli-q4.10.1.6](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.6.md) (session · 5) | bob-cli-q4.10.1 hood | completed 4, failed 1 |
 | [bob-cli-q4.10.1.6](../bbugyi200.athena.bob-cli-q4.10.1.6/README.md) | bob-cli-q4.10.1 hood | failed |
 | [bob-cli-q4.1](../bbugyi200.athena.bob-cli-q4.1/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.11](../../sessions/bbugyi200.athena.bob-cli-q4.11.md) (session · 3) | bob-cli-q4 hood | completed 2, failed 1 |

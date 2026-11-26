@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / [bob-cli-q4.10.1.6](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.6.md) / bob-cli-q4.10.1.6--mon-0
 
-**Global name:** `bbugyi200.athena.bob-cli-q4.10.1.6--mon-0` · **State:** active · **Source run:** `run-ade4b31ff0fb5d535a05321ebdf1fdd0`
+**Global name:** `bbugyi200.athena.bob-cli-q4.10.1.6--mon-0` · **State:** completed · **Source run:** `run-ade4b31ff0fb5d535a05321ebdf1fdd0`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q4
 
@@ -11,8 +11,12 @@
 - Bead: [bob-cli-q4.10.1.6](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/bob-cli-q4.10.1.6.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-26T09:10:46.461792+00:00
+- Timing: 2026-11-26T09:10:46.461792+00:00 → 2026-11-26T09:26:03.415562+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -24,7 +28,7 @@
 | [bob-cli-q4.10.1.3](../bbugyi200.athena.bob-cli-q4.10.1.3/README.md) | bob-cli-q4.10.1 hood | completed |
 | [bob-cli-q4.10.1.4](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.4.md) (session · 31) | bob-cli-q4.10.1 hood | completed 17, failed 14 |
 | [bob-cli-q4.10.1.5](../../sessions/bbugyi200.athena.bob-cli-q4.10.1.5.md) (session · 7) | bob-cli-q4.10.1 hood | completed 6, failed 1 |
-| [bob-cli-q4.10.1.land](../bbugyi200.athena.bob-cli-q4.10.1.land/README.md) | bob-cli-q4.10.1 hood | waiting |
+| [bob-cli-q4.10.1.land](../bbugyi200.athena.bob-cli-q4.10.1.land/README.md) | bob-cli-q4.10.1 hood | completed |
 | [bob-cli-q4.1](../bbugyi200.athena.bob-cli-q4.1/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.11](../../sessions/bbugyi200.athena.bob-cli-q4.11.md) (session · 3) | bob-cli-q4 hood | completed 2, failed 1 |
 | [bob-cli-q4.12](../../sessions/bbugyi200.athena.bob-cli-q4.12.md) (session · 5) | bob-cli-q4 hood | completed 4, failed 1 |
