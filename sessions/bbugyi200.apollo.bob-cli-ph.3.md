@@ -60,4 +60,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ph.8.1.6](bbugyi200.apollo.bob-cli-ph.8.1.6.md) (session · 3) | bob-cli-ph hood | completed 2, failed 1 |
 | [bob-cli-ph.8.1.land](bbugyi200.apollo.bob-cli-ph.8.1.land.md) (session · 13) | bob-cli-ph hood | completed 10, failed 3 |
 | [bob-cli-ph.9](bbugyi200.apollo.bob-cli-ph.9.md) (session · 3) | bob-cli-ph hood | completed 3 |
-| [bob-cli-ph.land](bbugyi200.apollo.bob-cli-ph.land.md) (session · 4) | bob-cli-ph hood | active 1, completed 3 |
+| [bob-cli-ph.land](bbugyi200.apollo.bob-cli-ph.land.md) (session · 6) | bob-cli-ph hood | active 1, completed 4, failed 1 |
