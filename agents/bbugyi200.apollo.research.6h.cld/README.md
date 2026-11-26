@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6h.cld
 
-**Global name:** `bbugyi200.apollo.research.6h.cld` · **State:** active · **Source run:** `run-8868c75f7e1cd43165fa6cbcb972f52f`
+**Global name:** `bbugyi200.apollo.research.6h.cld` · **State:** completed · **Source run:** `run-8868c75f7e1cd43165fa6cbcb972f52f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-26T13:42:42.076089+00:00
+- Timing: 2026-11-26T13:42:42.076089+00:00 → 2026-11-26T14:03:52.692852+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/bank\_hub\_not\_an\_area\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126084127/bank\_hub\_not\_an\_area\_\_cld-8c3a4f9b94ed.md, ref: fil… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/bank_hub_not_an_area__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126084127/bank_hub_not_an_area__cld-8c3a4f9b94ed.md
+  ref: file:explicit:32fa5f97fe9eca37557c4d5e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/bank_hub_not_an_area__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.6h.cdx](../bbugyi200.apollo.research.6h.cdx/README.md) | research.6h hood | completed |
 | [research.6h.final](../bbugyi200.apollo.research.6h.final/README.md) | research.6h hood | waiting |
-| [research.6h.gem](../bbugyi200.apollo.research.6h.gem/README.md) | research.6h hood | active |
+| [research.6h.gem](../bbugyi200.apollo.research.6h.gem/README.md) | research.6h hood | completed |
 | [research.6h.grk](../bbugyi200.apollo.research.6h.grk/README.md) | research.6h hood | completed |
 | [research.6h.image](../bbugyi200.apollo.research.6h.image/README.md) | research.6h hood | waiting |
 | [research.6h.linker](../bbugyi200.apollo.research.6h.linker/README.md) | research.6h hood | waiting |
