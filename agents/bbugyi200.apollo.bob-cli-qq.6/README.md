@@ -23,9 +23,9 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-qq.1](../bbugyi200.apollo.bob-cli-qq.1/README.md) | bob-cli-qq hood | active |
-| [bob-cli-qq.2](../../sessions/bbugyi200.apollo.bob-cli-qq.2.md) (session · 2) | bob-cli-qq hood | active 1, completed 1 |
-| [bob-cli-qq.3](../bbugyi200.apollo.bob-cli-qq.3/README.md) | bob-cli-qq hood | active |
+| [bob-cli-qq.1](../../sessions/bbugyi200.apollo.bob-cli-qq.1.md) (session · 2) | bob-cli-qq hood | active 2 |
+| [bob-cli-qq.2](../../sessions/bbugyi200.apollo.bob-cli-qq.2.md) (session · 3) | bob-cli-qq hood | completed 3 |
+| [bob-cli-qq.3](../bbugyi200.apollo.bob-cli-qq.3/README.md) | bob-cli-qq hood | completed |
 | [bob-cli-qq.4](../bbugyi200.apollo.bob-cli-qq.4/README.md) | bob-cli-qq hood | waiting |
 | [bob-cli-qq.5](../bbugyi200.apollo.bob-cli-qq.5/README.md) | bob-cli-qq hood | waiting |
 | [bob-cli-qq.7](../bbugyi200.apollo.bob-cli-qq.7/README.md) | bob-cli-qq hood | waiting |

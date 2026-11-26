@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-qq](../../users/bbugyi200/machines/apollo/hoods/bob-cli-qq/README.md) / bob-cli-qq.3
 
-**Global name:** `bbugyi200.apollo.bob-cli-qq.3` · **State:** active · **Source run:** `run-8606958fa9d2616d03e145ff111bec98`
+**Global name:** `bbugyi200.apollo.bob-cli-qq.3` · **State:** completed · **Source run:** `run-8606958fa9d2616d03e145ff111bec98`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-qq
 
@@ -12,19 +12,19 @@
 - Epic: [bob-cli-qq](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qq/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-26T21:13:13.844632+00:00
+- Timing: 2026-11-26T21:13:13.844632+00:00 → 2026-11-26T21:42:00.735541+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-qq.1](../bbugyi200.apollo.bob-cli-qq.1/README.md) | bob-cli-qq hood | active |
-| [bob-cli-qq.2](../../sessions/bbugyi200.apollo.bob-cli-qq.2.md) (session · 2) | bob-cli-qq hood | active 1, completed 1 |
+| [bob-cli-qq.1](../../sessions/bbugyi200.apollo.bob-cli-qq.1.md) (session · 2) | bob-cli-qq hood | active 2 |
+| [bob-cli-qq.2](../../sessions/bbugyi200.apollo.bob-cli-qq.2.md) (session · 3) | bob-cli-qq hood | completed 3 |
 | [bob-cli-qq.4](../bbugyi200.apollo.bob-cli-qq.4/README.md) | bob-cli-qq hood | waiting |
 | [bob-cli-qq.5](../bbugyi200.apollo.bob-cli-qq.5/README.md) | bob-cli-qq hood | waiting |
 | [bob-cli-qq.6](../bbugyi200.apollo.bob-cli-qq.6/README.md) | bob-cli-qq hood | waiting |
