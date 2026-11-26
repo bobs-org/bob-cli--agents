@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9e424045d69e2fff27b7878aa91bb7c9"}
+{"commits":[{"committed_at":1795708364,"sha":"478d5233100d45ba27d1bf29530eb790a36a8837","subject":"feat(bank,props,capture): enforce Area-only props and bank-holds-no-tasks"}],"schema_version":2,"source_run_id":"run-9e424045d69e2fff27b7878aa91bb7c9"}
