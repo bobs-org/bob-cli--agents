@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.4.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.4.1.land.md) / bob-cli-q5.4.1.land--gate
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.4.1.land--gate` · **State:** completed · **Source run:** `run-d99d083d3db7eea52d96c2d185c80c4a`
+**Global name:** `bbugyi200.athena.bob-cli-q5.4.1.land--gate` · **State:** completed · **Source run:** `run-a97efe5072811c26cec42a8465d5ff40`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-q5.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.4.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-26T17:15:50.310469+00:00 → 2026-11-26T17:15:57.547541+00:00
+- Timing: 2026-11-26T19:54:03.836176+00:00 → 2026-11-26T19:54:10.945275+00:00
 - Commits: 0
 
 ## Files
@@ -57,7 +57,7 @@
 | [bob-cli-q5.8](../../sessions/bbugyi200.athena.bob-cli-q5.8.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.8.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.1.md) (session · 8) | bob-cli-q5 hood | completed 4, failed 4 |
 | [bob-cli-q5.8.1.2](../bbugyi200.athena.bob-cli-q5.8.1.2/README.md) | bob-cli-q5 hood | completed |
-| [bob-cli-q5.8.1.3](../bbugyi200.athena.bob-cli-q5.8.1.3/README.md) | bob-cli-q5 hood | waiting |
+| [bob-cli-q5.8.1.3](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.3.md) (session · 2) | bob-cli-q5 hood | active 2 |
 | [bob-cli-q5.8.1.4](../bbugyi200.athena.bob-cli-q5.8.1.4/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.8.1.5](../bbugyi200.athena.bob-cli-q5.8.1.5/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.8.1.land](../bbugyi200.athena.bob-cli-q5.8.1.land/README.md) | bob-cli-q5 hood | waiting |

@@ -1,36 +1,36 @@
 # Chat History - ace-run (bob-cli-q5.4.1.land--plan)
 
-- **TIMESTAMP:** 2026-11-26 12:15:57 EST
+- **TIMESTAMP:** 2026-11-26 14:54:11 EST
 - **MODEL:** claude/opus
 - **AGENT:** bob-cli-q5.4.1.land--plan
 
-**Plan:** /home/bryan/.sase/plans/202611/snooze_plugin_plumbing_landing.md
+**Plan:** /home/bryan/.sase/plans/202611/snooze_plumbing_sp14_closeout.md
 
 
 ## Proposed Plan Preview
 
 *Plan submitted for review.*
 
-**Plan file:** `/home/bryan/.sase/plans/202611/snooze_plugin_plumbing_landing.md`
+**Plan file:** `/home/bryan/.sase/plans/202611/snooze_plumbing_sp14_closeout.md`
 
-> - **PARENT:** [202611/snooze_plugin_plumbing.md](202611/snooze_plugin_plumbing.md)
 > - **BEAD:** bob-cli-q5.4.1
-> # Finish and land the snooze plugin plumbing epic (bob-cli-q5.4.1)
-> This tale is the remaining work, plus the closeout, for epic `bob-cli-q5.4.1`
-> (`plan:202611/snooze_plugin_plumbing.md`). That epic implements the `plugin-plumbing`
-> phase `bob-cli-q5.4` of the outer snoozed-tasks epic `bob-cli-q5`. All five child phases
-> (`bob-cli-q5.4.1.1` to `.5`) are closed. The epic's land agent verified them and found
-> the gaps below. Nothing else resumes this landing, so the coder of this tale **must
-> finish the landing itself** (see "Closeout"). It must close the epic and its parent
-> phase in the same turn as the final code, never waiting on this work's own commit, push
+> # Thread planned-today into the Ctrl+Enter successor recovery, then land bob-cli-q5.4.1
+> This tale is the last remaining work, plus the closeout, for epic `bob-cli-q5.4.1`
+> (`plan:202611/snooze_plugin_plumbing.md`). That epic implements phase `bob-cli-q5.4` of
+> the outer snoozed-tasks epic `bob-cli-q5`. All five child phases are closed. The first
+> landing tale (`plan:202611/snooze_plugin_plumbing_landing.md`, bob-plugins `d7875aac`)
+> landed and is deployed. Its closeout never ran: `bob plugins sync` was blocked by
+> another agent's protected `bob-ledger-tools` deploy, and the monitor waiting on that
+> deploy failed with a shell syntax error. The deploy blocker is gone now. A dry-run sync
+> against bob-plugins `origin/master` (`f6458cb0`) reports 0 to copy and 34 unchanged
 
 *See full plan file for details.*
 
 ## Prompt
 
+%id(land, clan=bob-cli-q5.4.1, bead=bob-cli-q5.4.1)
 %auto
 #gh:gh_bobs-org__bob-cli
-%id(land, clan=bob-cli-q5.4.1, bead=bob-cli-q5.4.1)
 %model:@xlarge
 %w(bob-cli-q5.4.1.1,bob-cli-q5.4.1.2,bob-cli-q5.4.1.3,bob-cli-q5.4.1.4,bob-cli-q5.4.1.5, for_epic=false)
 %w(bead=bob-cli-q5.4.1.1)
@@ -108,83 +108,38 @@ and report it in your final response.
 
 ## Response
 
-I'm checking the bob-plugins commits for the epic's five phases against the plan before closing it.
+Status: the earlier landing tale (bob-plugins `d7875aa`) is marked done, but the epic is still open. I'm checking why the last two closeout attempts didn't close it.
 
-I'm reviewing phase 4 (link-and-complete) in bob-plugins to confirm each caller treats a snoozed row differently from a real ledger link.
+Still investigating: the prior closeout stalled waiting for another agent's protected `bob-ledger-tools` deploy. Checking whether that deploy has now landed so sync can proceed.
 
-I'm checking a deferred follow-up from phase 2 against the shared walk vectors.
+Running a quick scratch test to see whether a plain Ctrl+Enter close still stamps `[unblocked::]` on a snoozed dependent. Reading the code suggests it does.
 
-I'm checking whether keep counting on a snoozed lane row needs the planned-today predicate, or is already covered by the due-tier gate.
+Checking whether the new Rust `#prj_is_blocked` rule affects the JS planned-today mirror, or only the wake planner and the add refusal.
 
-Phase 4's tests look thin compared with the plan. Next I'm checking which navigation callers in phase 3 rely on the shared cleanup helper.
+Full suite on HEAD `f6458cb0` passed: 9,969 tests passed, 4 skipped, 0 failed, and 26/26 perf tests passed. Next I'll plan the one remaining fix as a small tale, starting with the decisions roster.
 
-Phase 5's report decoder is strict, so I'm checking it against the CLI's real `bob snooze wake` JSON shape.
+Writing the landing tale: a one-option fix in `planFirst`, regression tests through `finalizeClosedTasks`, gates and sync, then the full closeout of `bob-cli-q5.4.1` and parent phase `bob-cli-q5.4`.
 
-The decoder has two mismatches with the CLI: it requires `destination.name` to be a string, but Rust allows `null`, and it rejects the CLI's slim `deferred` report. Checking where each comes from.
+Validation passed. Before proposing, I'm recording the follow-up triage on the epic bead.
 
-I'm looking for a CLI test that shows what the wake report looks like for an untyped task.
+I haven't closed `bob-cli-q5.4.1`. Checking the landed work turned up one gap the first landing tale missed, so I proposed a small follow-up tale (`sase_plan_snooze_plumbing_sp14_closeout`) that fixes it and then does the whole closeout. It's staged for your approval.
 
-I'll reproduce the untyped wake in a temporary vault, using the same environment the CLI tests use.
+**The gap.** Closing a prerequisite with plain Ctrl+Enter still stamps `[unblocked:: today]` on a snoozed Blocked dependent, which the CLI never does. That path builds its successor plan in `planFirst` in `137-plugin-successor-project.js` and never passes `isSnoozedToday`, so it defaults to false. A scratch test through `finalizeClosedTasks` reproduced it, and `isSnoozedToday` was never called. The other recovery paths (references, project-resident, offer-close) were fixed correctly in `d7875aac`. The fix is one added option plus regression tests.
 
-Reproduced: the real CLI reports `"name": null` with `notified: "none"`. Now running it through the plugin's decoder.
+**Why the earlier closeout stalled.** `bob plugins sync` was blocked by another agent's protected `bob-ledger-tools` deploy. The monitor waiting on that agent then failed with a shell syntax error, so nothing resumed the closeout. That blocker is gone: a dry-run sync against bob-plugins `origin/master` (`f6458cb0`) shows 0 to copy and 34 files unchanged across all 12 plugins.
 
-Targeted snooze suites pass (140/140). Running the full plugin test suite and docs check now.
+**What I confirmed is done:**
+- **Landing commit `d7875aac`:** the wake decoder now accepts an unnamed destination and the short "deferred" report, and the Notice drops the name. Event Tasks are now detected by their place in the daily note's Events section, not the `MEET` text match. The requested gesture and section-boundary tests are all there.
+- **Changes since the epic started:** nothing else touches snooze behavior in the plugins. That covers the Notebook/Prose, copy-card, bank and drawers commits, and bob-cli `3659edc0`/`59037b23`, whose new wake-notice fields are additive. The shared snooze test fixtures haven't changed.
+- **Tests:** `npm test` on `f6458cb0` passed 9,969 with 4 skipped and 0 failed, plus 26/26 perf tests.
 
-The live `dash.md` edit is in place, and the TODAY query is unchanged. Now checking how Rust detects Event tasks, to size phase 2's MEET-heuristic follow-up.
+**Follow-up triage** is recorded on the epic bead. The earlier land review's decisions still stand:
+- The frontmatter-takeover test failure was declined; it no longer reproduces.
+- The `bob-emoji` vault-tracking warning stays a duplicate of `bob-cli-cd`.
+- The navigation-plugin part of the same problem stays as `bob-cli-ql`.
 
-Remaining work is clear. Before planning it, I'm rerunning the isolated CLI wake to confirm a repeated trigger changes nothing.
+No new distinct follow-ups came up. I didn't file the monitor's shell-quoting error because it was a mistake in that agent's command, not product work.
 
-The repeat wake was a no-op (`nothing_due`, daily note byte-identical). Next I'm checking whether the bob-emoji vault warning from phase 1 still appears.
+**Once you approve:** the tale makes the fix, adds tests through the public Done path, runs the gates, and syncs the plugins. It then checks the epic symbols, closes `bob-cli-q5.4.1`, runs `just symvision`, marks the epic plan done, and closes parent phase `bob-cli-q5.4`. Outer epic `bob-cli-q5` stays open for its own land agent.
 
-The bob-emoji warning still appears. Next I'm filing the follow-ups that this epic didn't cause, using the new-task skill.
-
-bob-cli-cd already tracks the bob-emoji omission (reopened, +2), so I'll corroborate it rather than file a duplicate. Next is the recent-task sweep.
-
-No duplicates in the sweep. Next I'm checking in-progress epics for a causal home.
-
-bob-cli-q5 is the causal home for the CLI deferred-report gap. The MEET heuristic was introduced by this epic, so I'm checking whether Rust's Event detection is simple enough to port.
-
-Now creating the nav-hotkeys task bead.
-
-Recording the triage outcomes on the epic, then planning the remaining work as a tale.
-
-I'm checking a few facts the tale needs (the API input shape and the documented waker copy), then writing the plan.
-
-Writing the tale plan now.
-
-The plan validates. Proposing it.
-
-Epic bob-cli-q5.4.1 is still open: verification turned up real defects and missing tests, so I proposed a follow-up plan to finish them and then close the epic, rather than closing it now. The plan is staged and starts after this turn.
-
-**What checks out:**
-- **Code is in place.** All five phases are closed and their bob-plugins commits contain what the phase notes claim.
-- **Full test pass on the combined code.** `npm run validate` passed for all 12 plugins and the snooze-specific tests passed 140/140. `npm test` passed 9,902 with 4 skipped and none failing, plus 26/26 performance tests. `npm run docs:check` passed, and a sync dry-run showed the vault already matches the repo.
-- **Live dashboard edit.** `dash.md` hides snoozed tasks in the PENDING, NEXT and READY sections and their counts. The TODAY query is unchanged.
-- **Wake is safe to repeat.** In a throwaway vault, `bob snooze wake` (bob 0.6.0) moved the task once. A second run reported `nothing_due` and left the daily note byte-for-byte the same.
-- **Integration.** The only unrelated change during the epic was the Bank Card refactor (bob-cli-qi.3). It left a reference to a removed variable, which a phase-4 commit (`86f5f340`) already repaired. The two bob-cli commits in that window don't touch snooze, and the shared test fixtures haven't changed.
-
-**What's still wrong (covered by the staged plan):**
-- **Wake reports are rejected.** The plugin's wake-report parser throws out two reports the CLI really produces:
-  - When an untyped task wakes into an unnamed Pomodoro, the report's destination name is `null`. I reproduced this with the real binary. The plugin then skips the cache refresh and never shows the fallback Notice.
-  - It also rejects the CLI's shorter `deferred` report. That only means a retry next minute.
-- **Wrong `[unblocked::]` stamp.** When you finish a prerequisite in Obsidian, the status-cycler plugin stamps `[unblocked:: today]` on a snoozed task that was waiting on it. The CLI deliberately doesn't. Phase 2 flagged this for later phases, which never did it.
-- **Event tasks are guessed.** The plugin decides a snoozed task is an Event Task by looking for the word "MEET" in its text. The CLI checks whether the task sits in a daily note's `## Events` section. So the two can disagree about whether a snoozed task leaves the review queue.
-- **Missing tests.** Several regression tests the epic plan required were never written:
-  - Linking a snoozed task from its own definition line.
-  - Unlinking a snoozed task, cancelling the pickers, and a row whose target note name is ambiguous.
-  - Marking a task Done directly from its Snoozed row.
-  - The navigation cleanup paths: cancel, roll, schedule, a move into a blocked project, project conversion, and relation cancellation.
-
-The plan's last step closes the epic and its parent phase bob-cli-q5.4, runs `just symvision`, and marks the epic's plan file done. It leaves the outer epic bob-cli-q5 to its own land agent. No epic-symbol whitelist entries are pending.
-
-**Proposed follow-ups (all recorded in a note on the epic):**
-- **Frontmatter e2e test failure:** declined, because it no longer reproduces on the current tree.
-- **bob-emoji files tracked in vault Git:** already covered by task bob-cli-cd, so I added a +1 there instead of filing a duplicate.
-- **"MEET" Event guess:** kept as epic work, since this epic introduced it.
-- **Snoozed membership in recovery:** split three ways.
-  - The status-cycler part is epic work.
-  - The rotten-keep part is declined: snoozed rows never count as due, so their keeps already aren't counted.
-  - Navigation hotkeys never pass Today or snoozed membership when stamping `[unblocked::]`. That predates this epic, so I filed it as new task bob-cli-ql.
-- **New find:** the CLI's `deferred` wake report leaves out fields that `docs/snooze.md` says every wake report has. That comes from an earlier phase of the outer epic, so I logged it as a discovered issue on bob-cli-q5.
-
-None of my changes touched repository files, so there was nothing to commit.
+None of my repos had changes, so no commit was needed.
