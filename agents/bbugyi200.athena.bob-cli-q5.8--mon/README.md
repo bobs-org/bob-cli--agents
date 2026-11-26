@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.8](../../sessions/bbugyi200.athena.bob-cli-q5.8.md) / bob-cli-q5.8--mon
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.8--mon` · **State:** active · **Source run:** `run-ad4674a550252daac03920b1f157486a`
+**Global name:** `bbugyi200.athena.bob-cli-q5.8--mon` · **State:** completed · **Source run:** `run-ad4674a550252daac03920b1f157486a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,13 +12,23 @@
 - Epic: [bob-cli-q5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-26T17:54:15.909562+00:00
+- Timing: 2026-11-26T17:54:15.909562+00:00 → 2026-11-26T17:56:49.907544+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-q5.8.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.1.md) (session · 2) | descendant | completed 1, failed 1 |
+| [bob-cli-q5.8.1.2](../bbugyi200.athena.bob-cli-q5.8.1.2/README.md) | descendant | waiting |
+| [bob-cli-q5.8.1.3](../bbugyi200.athena.bob-cli-q5.8.1.3/README.md) | descendant | waiting |
+| [bob-cli-q5.8.1.4](../bbugyi200.athena.bob-cli-q5.8.1.4/README.md) | descendant | waiting |
+| [bob-cli-q5.8.1.5](../bbugyi200.athena.bob-cli-q5.8.1.5/README.md) | descendant | waiting |
+| [bob-cli-q5.8.1.land](../bbugyi200.athena.bob-cli-q5.8.1.land/README.md) | descendant | waiting |
 | [bob-cli-q5.1](../../sessions/bbugyi200.athena.bob-cli-q5.1.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.1.1.1](../bbugyi200.athena.bob-cli-q5.1.1.1/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.1.1.2](../bbugyi200.athena.bob-cli-q5.1.1.2/README.md) | bob-cli-q5 hood | completed |

@@ -9,7 +9,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-q5` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-q5.8--plan [active]"]
-  n1["bob-cli-q5.8--mon [active]"]
+  n1["bob-cli-q5.8--mon [completed]"]
   n0 --> n1
   n2["bob-cli-q5.8--gate [completed]"]
   n0 --> n2
@@ -20,13 +20,19 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-q5.8--plan | active | gpt-6-astra / codex | 2026-11-26T17:45:12.608568+00:00 → 2026-11-26T17:54:23.213534+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.8--plan/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-q5.8--mon | active | gpt-6-astra / codex | 2026-11-26T17:54:15.909562+00:00 | 0 | — | — |
+| <a id="member-mon"></a>mon | bob-cli-q5.8--mon | completed | gpt-6-astra / codex | 2026-11-26T17:54:15.909562+00:00 → 2026-11-26T17:56:49.907544+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.8--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-q5.8--gate | completed | gpt-6-astra / codex | 2026-11-26T17:54:04.212736+00:00 → 2026-11-26T17:54:17.086815+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.8--gate/chat.md) |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-q5.8.1.1](bbugyi200.athena.bob-cli-q5.8.1.1.md) (session · 2) | descendant | completed 1, failed 1 |
+| [bob-cli-q5.8.1.2](../agents/bbugyi200.athena.bob-cli-q5.8.1.2/README.md) | descendant | waiting |
+| [bob-cli-q5.8.1.3](../agents/bbugyi200.athena.bob-cli-q5.8.1.3/README.md) | descendant | waiting |
+| [bob-cli-q5.8.1.4](../agents/bbugyi200.athena.bob-cli-q5.8.1.4/README.md) | descendant | waiting |
+| [bob-cli-q5.8.1.5](../agents/bbugyi200.athena.bob-cli-q5.8.1.5/README.md) | descendant | waiting |
+| [bob-cli-q5.8.1.land](../agents/bbugyi200.athena.bob-cli-q5.8.1.land/README.md) | descendant | waiting |
 | [bob-cli-q5.1](bbugyi200.athena.bob-cli-q5.1.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.1.1.1](../agents/bbugyi200.athena.bob-cli-q5.1.1.1/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.1.1.2](../agents/bbugyi200.athena.bob-cli-q5.1.1.2/README.md) | bob-cli-q5 hood | completed |
