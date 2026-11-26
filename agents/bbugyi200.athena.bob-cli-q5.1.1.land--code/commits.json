@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-d1b416c072d059dbe3d545c5a8d6c0aa"}
+{"commits":[{"committed_at":1795652865,"sha":"19e7fe54e2a638c0856d3ded57e57b2947045fb9","subject":"fix(snooze): refuse unplaceable wake destinations without writing"}],"schema_version":2,"source_run_id":"run-d1b416c072d059dbe3d545c5a8d6c0aa"}

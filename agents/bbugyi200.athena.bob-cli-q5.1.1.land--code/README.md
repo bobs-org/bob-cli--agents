@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.1.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.1.1.land.md) / bob-cli-q5.1.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.1.1.land--code` · **State:** active · **Source run:** `run-d1b416c072d059dbe3d545c5a8d6c0aa`
+**Global name:** `bbugyi200.athena.bob-cli-q5.1.1.land--code` · **State:** completed · **Source run:** `run-d1b416c072d059dbe3d545c5a8d6c0aa`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-q5.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.1.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-26T00:10:30.010162+00:00
-- Commits: 0
+- Timing: 2026-11-26T00:10:30.010162+00:00 → 2026-11-26T00:29:16.078652+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`19e7fe5`](https://github.com/bobs-org/bob-cli/commit/19e7fe54e2a638c0856d3ded57e57b2947045fb9) | fix(snooze): refuse unplaceable wake destinations without writing | 2026-11-25 19:27:45 EST |
 
 ## Neighbors
 

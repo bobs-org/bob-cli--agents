@@ -8,10 +8,10 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-q5` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-q5.1.1.land--plan [active]"]
+  n0["bob-cli-q5.1.1.land--plan [completed]"]
   n1["bob-cli-q5.1.1.land--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-q5.1.1.land--code [active]"]
+  n2["bob-cli-q5.1.1.land--code [completed]"]
   n0 --> n2
 ```
 
@@ -19,15 +19,16 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-q5.1.1.land--plan | active | opus / claude | 2026-11-25T23:27:48.610829+00:00 | [1](../agents/bbugyi200.athena.bob-cli-q5.1.1.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.1.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.1.1.land--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-q5.1.1.land--plan | completed | opus / claude | 2026-11-25T23:27:48.610829+00:00 → 2026-11-26T00:29:16.078652+00:00 | [1](../agents/bbugyi200.athena.bob-cli-q5.1.1.land--plan/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.1.1.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.1.1.land--plan/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-q5.1.1.land--gate | completed | opus / claude | 2026-11-26T00:09:50.987756+00:00 → 2026-11-26T00:09:58.872158+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.1.1.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-q5.1.1.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-26T00:10:30.010162+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-q5.1.1.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-26T00:10:30.010162+00:00 → 2026-11-26T00:29:16.078652+00:00 | [1](../agents/bbugyi200.athena.bob-cli-q5.1.1.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.1.1.land--code/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
 | plan | bob-cli | [`03ca3f7`](https://github.com/bobs-org/bob-cli/commit/03ca3f7e38f5708651c5351f305c586875466319) | feat(snooze): settle notes on add and retire unwired re-export allowances | 2026-11-25 19:09:08 EST |
+| code | bob-cli | [`19e7fe5`](https://github.com/bobs-org/bob-cli/commit/19e7fe54e2a638c0856d3ded57e57b2947045fb9) | fix(snooze): refuse unplaceable wake destinations without writing | 2026-11-25 19:27:45 EST |
 
 ## Neighbors
 
