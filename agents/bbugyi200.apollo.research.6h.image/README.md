@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6h.image
 
-**Global name:** `bbugyi200.apollo.research.6h.image` · **State:** waiting · **Source run:** `run-2ba3b3f15b2fc339be5144271d85b28b`
+**Global name:** `bbugyi200.apollo.research.6h.image` · **State:** completed · **Source run:** `run-2ba3b3f15b2fc339be5144271d85b28b`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261126084132
+- Timing: 2026-11-26T14:21:28.211352+00:00 → 2026-11-26T14:31:29.609139+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/bank\_hub\_demotion/bank\_hub\_demotion\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126084132/bank\_hub\_demotion\_infographic-8b8b… |
+| `diagrams` | {considered: 12, count: 3, manifest: 202611/bank\_hub\_demotion/bank\_hub\_demotion.diagrams.md, source\_ref: file:explicit:116e45745e6649566ee5e137, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/bank_hub_demotion/bank_hub_demotion_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126084132/bank_hub_demotion_infographic-8b8b305a34d0.png
+  ref: file:explicit:7d70019237f1acccce369e0c
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/bank_hub_demotion/bank_hub_demotion_infographic.png
+- kind: markdown
+  label: diagrams:202611/bank_hub_demotion/bank_hub_demotion.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126084132/bank_hub_demotion.diagrams-fddf7f5be485.md
+  ref: file:explicit:4deea209163e65110afc9daf
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/bank_hub_demotion/bank_hub_demotion.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 3
+manifest: 202611/bank_hub_demotion/bank_hub_demotion.diagrams.md
+source_ref: file:explicit:116e45745e6649566ee5e137
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -78,4 +113,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 1242 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 1250 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
