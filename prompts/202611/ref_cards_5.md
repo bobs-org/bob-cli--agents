@@ -1,0 +1,8 @@
+- **PLAN:**
+  [202611/ref_cards.md](https://github.com/bobs-org/bob-cli--plans/blob/main/202611/ref_cards.md)
+- **AGENTS:**
+  - [bbugyi200.apollo.bob-cli-qp.7](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.apollo.bob-cli-qp.7.md)
+
+%auto #gh:gh_bobs-org__bob-cli %id(7, clan=bob-cli-qp, bead=bob-cli-qp.7) %model:@medium
+%w(bob-cli-qp.5,bob-cli-qp.6, for_epic=false) %w(bead=bob-cli-qp.5)
+%w(bead=bob-cli-qp.6) #bd/work_phase_bead:bob-cli-qp.7
