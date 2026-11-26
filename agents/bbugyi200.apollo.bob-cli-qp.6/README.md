@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-qp](../../users/bbugyi200/machines/apollo/hoods/bob-cli-qp/README.md) / bob-cli-qp.6
 
-**Global name:** `bbugyi200.apollo.bob-cli-qp.6` · **State:** waiting · **Source run:** `run-1e67c7c754f4705170df665f622294bf`
+**Global name:** `bbugyi200.apollo.bob-cli-qp.6` · **State:** completed · **Source run:** `run-1e67c7c754f4705170df665f622294bf`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-qp
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-qp](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qp/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261126143417
+- Timing: 2026-11-26T21:13:54.535594+00:00 → 2026-11-26T21:58:07.067267+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
