@@ -36,7 +36,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q8.1](../agents/bbugyi200.apollo.bob-cli-q8.1/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.10.1](../agents/bbugyi200.apollo.bob-cli-q8.10.1/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.10.2](../agents/bbugyi200.apollo.bob-cli-q8.10.2/README.md) | bob-cli-q8 hood | completed |
-| [bob-cli-q8.10.3](bbugyi200.apollo.bob-cli-q8.10.3.md) (session · 6) | bob-cli-q8 hood | active 1, completed 3, failed 2 |
+| [bob-cli-q8.10.3](bbugyi200.apollo.bob-cli-q8.10.3.md) (session · 8) | bob-cli-q8 hood | active 2, completed 3, failed 3 |
 | [bob-cli-q8.10.land](../agents/bbugyi200.apollo.bob-cli-q8.10.land/README.md) | bob-cli-q8 hood | waiting |
 | [bob-cli-q8.2](../agents/bbugyi200.apollo.bob-cli-q8.2/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.3](../agents/bbugyi200.apollo.bob-cli-q8.3/README.md) | bob-cli-q8 hood | completed |
@@ -46,3 +46,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q8.8](../agents/bbugyi200.apollo.bob-cli-q8.8/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.9](../agents/bbugyi200.apollo.bob-cli-q8.9/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.land](bbugyi200.apollo.bob-cli-q8.land.md) (session · 3) | bob-cli-q8 hood | active 1, completed 2 |
+| [bob-cli-q8.land](../agents/bbugyi200.apollo.bob-cli-q8.land/README.md) | bob-cli-q8 hood | completed |

@@ -36,3 +36,4 @@
 | [bob-cli-q8.8](../bbugyi200.apollo.bob-cli-q8.8/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.9](../bbugyi200.apollo.bob-cli-q8.9/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.land](../../sessions/bbugyi200.apollo.bob-cli-q8.land.md) (session · 3) | bob-cli-q8 hood | active 1, completed 2 |
+| [bob-cli-q8.land](../bbugyi200.apollo.bob-cli-q8.land/README.md) | bob-cli-q8 hood | completed |
