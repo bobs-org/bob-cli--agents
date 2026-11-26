@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6l.linker
 
-**Global name:** `bbugyi200.apollo.research.6l.linker` · **State:** waiting · **Source run:** `run-43a91b4ede4e4374edb69fed4a17241d`
+**Global name:** `bbugyi200.apollo.research.6l.linker` · **State:** completed · **Source run:** `run-43a91b4ede4e4374edb69fed4a17241d`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,17 +10,37 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261126124113
+- Timing: 2026-11-26T18:45:02.729900+00:00 → 2026-11-26T18:52:01.532294+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/ref\_cards/ref\_cards.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126124113/ref\_cards-981d0ba9268d.md, ref: file:explicit:4b16f0c00db… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/ref_cards/ref_cards.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126124113/ref_cards-981d0ba9268d.md
+  ref: file:explicit:4b16f0c00db1c7b9850e7343
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/ref_cards/ref_cards.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
+| [research.6l.linker.w0](../bbugyi200.apollo.research.6l.linker.w0/README.md) | descendant | active |
 | [research.6l.cdx](../bbugyi200.apollo.research.6l.cdx/README.md) | research.6l hood | completed |
 | [research.6l.cld](../bbugyi200.apollo.research.6l.cld/README.md) | research.6l hood | completed |
 | [research.6l.final](../bbugyi200.apollo.research.6l.final/README.md) | research.6l hood | completed |
