@@ -9,9 +9,9 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-q4` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-q4.land--gate [completed]"]
-  n1["bob-cli-q4.land--code [active]"]
+  n1["bob-cli-q4.land--code [completed]"]
   n0 --> n1
-  n2["bob-cli-q4.land--plan [active]"]
+  n2["bob-cli-q4.land--plan [completed]"]
   n0 --> n2
 ```
 
@@ -20,8 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-q4.land--gate | completed | opus / claude | 2026-11-26T11:05:50.295293+00:00 → 2026-11-26T11:05:58.858477+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-q4.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-26T11:06:32.734579+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-q4.land--plan | active | opus / claude | 2026-11-26T10:40:57.188875+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.land--plan/chat.md) |
+| <a id="member-code"></a>code | bob-cli-q4.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-26T11:06:32.734579+00:00 → 2026-11-26T12:00:20.789508+00:00 | [1](../agents/bbugyi200.athena.bob-cli-q4.land--code/README.md#commits) | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-q4.land--plan | completed | opus / claude | 2026-11-26T10:40:57.188875+00:00 → 2026-11-26T12:00:20.789508+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.land--plan/chat.md) |
+
+## Commits
+
+| Role | Repo | Commit | Subject | Committed |
+|---|---|---|---|---|
+| code | bob-cli | [`9e94d1b`](https://github.com/bobs-org/bob-cli/commit/9e94d1b164e6989c71a51b1ce2e49df5ada2cf2a) | fix(capture)!: report post-settle lines and settle bob ref today | 2026-11-26 06:58:23 EST |
 
 ## Neighbors
 
