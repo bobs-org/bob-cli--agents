@@ -20,14 +20,14 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-eb.3--plan | dismissed | gpt-6-luna / codex | 2026-10-29T23:45:44.538068 → 2026-10-30T00:05:27.529263 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-eb.3--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-eb.3--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-eb.3--1 | dismissed | gpt-6-luna / codex | 2026-10-30T00:14:14.968980 → 2026-10-30T00:24:31.172340 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-eb.3--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-eb.3--1/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-eb.3--1 | dismissed | gpt-6-luna / codex | 2026-10-30T00:14:14.968980 → 2026-10-30T00:24:31.172340 | [1](../agents/bbugyi200.apollo.bob-cli-eb.3--1/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-eb.3--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-eb.3--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-eb.3--mon | dismissed | gpt-6-luna / codex | 2026-10-30T00:05:14.714325 → 2026-10-30T00:12:53.937880 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-eb.3--mon/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| — | bob-cli | [`66bdd21`](https://github.com/bobs-org/bob-cli/commit/66bdd211e8e8c366b4b53af9828ce2e2e594d029) | feat(highlights): improve grid table widths and row spacing | 2026-10-30 00:22:24 EDT |
+| 1 | bob-cli | [`66bdd21`](https://github.com/bobs-org/bob-cli/commit/66bdd211e8e8c366b4b53af9828ce2e2e594d029) | feat(highlights): improve grid table widths and row spacing | 2026-10-30 00:22:24 EDT |
 
 ## Neighbors
 
