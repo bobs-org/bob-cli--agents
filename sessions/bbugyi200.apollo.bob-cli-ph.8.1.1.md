@@ -19,7 +19,7 @@ flowchart TD
   n0 --> n4
   n5["bob-cli-ph.8.1.1--1 [completed]"]
   n0 --> n5
-  n6["bob-cli-ph.8.1.1--4 [active]"]
+  n6["bob-cli-ph.8.1.1--4 [completed]"]
   n0 --> n6
   n7["bob-cli-ph.8.1.1--2 [completed]"]
   n0 --> n7
@@ -37,7 +37,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-2"></a>mon-2 | bob-cli-ph.8.1.1--mon-2 | completed | gpt-6-luna / codex | 2026-11-26T03:35:57.273846+00:00 → 2026-11-26T03:40:43.942372+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.1--mon-2/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-ph.8.1.1--plan | completed | gpt-6-luna / codex | 2026-11-26T01:58:50.988085+00:00 → 2026-11-26T02:12:33.721940+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8.1.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.1--plan/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-ph.8.1.1--1 | completed | gpt-6-luna / codex | 2026-11-26T02:29:51.537566+00:00 → 2026-11-26T02:39:07.243316+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8.1.1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.1--1/chat.md) |
-| <a id="member-4"></a>4 | bob-cli-ph.8.1.1--4 | active | gpt-6-luna / codex | 2026-11-26T03:40:43.800817+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8.1.1--4/prompt.md) | — |
+| <a id="member-4"></a>4 | bob-cli-ph.8.1.1--4 | completed | gpt-6-luna / codex | 2026-11-26T03:40:43.800817+00:00 → 2026-11-26T03:44:34.744159+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8.1.1--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.1--4/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-ph.8.1.1--2 | completed | gpt-6-luna / codex | 2026-11-26T02:58:47.185176+00:00 → 2026-11-26T03:06:14.062420+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8.1.1--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.1--2/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-ph.8.1.1--mon-0 | failed | gpt-6-luna / codex | 2026-11-26T02:36:31.377459+00:00 → 2026-11-26T02:58:47.401248+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8.1.1--mon-0/chat.md) |
 
@@ -53,7 +53,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-ph.8.1.6](../agents/bbugyi200.apollo.bob-cli-ph.8.1.6/README.md) | bob-cli-ph.8.1 hood | waiting |
 | [bob-cli-ph.8.1.land](../agents/bbugyi200.apollo.bob-cli-ph.8.1.land/README.md) | bob-cli-ph.8.1 hood | waiting |
 | [bob-cli-ph.1](bbugyi200.apollo.bob-cli-ph.1.md) (session · 31) | bob-cli-ph hood | completed 20, failed 11 |
-| [bob-cli-ph.10](bbugyi200.apollo.bob-cli-ph.10.md) (session · 6) | bob-cli-ph hood | active 1, completed 3, failed 2 |
+| [bob-cli-ph.10](bbugyi200.apollo.bob-cli-ph.10.md) (session · 7) | bob-cli-ph hood | active 2, completed 3, failed 2 |
 | [bob-cli-ph.11](../agents/bbugyi200.apollo.bob-cli-ph.11/README.md) | bob-cli-ph hood | waiting |
 | [bob-cli-ph.2](bbugyi200.apollo.bob-cli-ph.2.md) (session · 7) | bob-cli-ph hood | active 1, completed 5, failed 1 |
 | [bob-cli-ph.3](bbugyi200.apollo.bob-cli-ph.3.md) (session · 2) | bob-cli-ph hood | active 1, completed 1 |
