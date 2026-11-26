@@ -65,5 +65,6 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-qi.2](../bbugyi200.athena.bob-cli-qi.2/README.md) | bob-cli-qi hood | completed |
 | [bob-cli-qi.3](../../sessions/bbugyi200.athena.bob-cli-qi.3.md) (session · 3) | bob-cli-qi hood | completed 2, failed 1 |
 | [bob-cli-qi.4](../../sessions/bbugyi200.athena.bob-cli-qi.4.md) (session · 3) | bob-cli-qi hood | completed 3 |
-| [bob-cli-qi.6](../../sessions/bbugyi200.athena.bob-cli-qi.6.md) (session · 2) | bob-cli-qi hood | active 1, completed 1 |
-| [bob-cli-qi.land](../bbugyi200.athena.bob-cli-qi.land/README.md) | bob-cli-qi hood | waiting |
+| [bob-cli-qi.6](../../sessions/bbugyi200.athena.bob-cli-qi.6.md) (session · 11) | bob-cli-qi hood | completed 9, failed 2 |
+| [bob-cli-qi.land](../../sessions/bbugyi200.athena.bob-cli-qi.land.md) (session · 4) | bob-cli-qi hood | active 1, completed 3 |
+| [bob-cli-qi.land](../bbugyi200.athena.bob-cli-qi.land/README.md) | bob-cli-qi hood | completed |
