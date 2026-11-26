@@ -12,16 +12,35 @@
 - Provider: codex
 - Timing: 2026-11-26T14:23:36.607259+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/article\_to\_prose\_sections\_and\_reversible\_projects\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126092221/article\_to\_prose\_secti… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/article_to_prose_sections_and_reversible_projects__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126092221/article_to_prose_sections_and_reversible_projects__cdx-5556811206bb.md
+  ref: file:explicit:aaa43199e89a62d54c328cfa
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/article_to_prose_sections_and_reversible_projects__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.6i.cld](../bbugyi200.apollo.research.6i.cld/README.md) | research.6i hood | active |
+| [research.6i.cld](../bbugyi200.apollo.research.6i.cld/README.md) | research.6i hood | completed |
 | [research.6i.final](../bbugyi200.apollo.research.6i.final/README.md) | research.6i hood | waiting |
 | [research.6i.gem](../bbugyi200.apollo.research.6i.gem/README.md) | research.6i hood | active |
 | [research.6i.grk](../bbugyi200.apollo.research.6i.grk/README.md) | research.6i hood | active |
