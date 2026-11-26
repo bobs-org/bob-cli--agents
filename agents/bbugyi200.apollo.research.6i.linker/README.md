@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6i.linker
 
-**Global name:** `bbugyi200.apollo.research.6i.linker` · **State:** waiting · **Source run:** `run-0474f837853cde1d0077a2069924f7c2`
+**Global name:** `bbugyi200.apollo.research.6i.linker` · **State:** completed · **Source run:** `run-0474f837853cde1d0077a2069924f7c2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261126092229
+- Timing: 2026-11-26T15:13:05.670704+00:00 → 2026-11-26T15:21:22.898611+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/prose\_rename\_and\_section\_extraction/prose\_rename\_and\_section\_extraction.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126092229/prose… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/prose_rename_and_section_extraction/prose_rename_and_section_extraction.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126092229/prose_rename_and_section_extraction-ffea287f0ed7.md
+  ref: file:explicit:eda9b9bd79fb3b9f958321e4
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/prose_rename_and_section_extraction/prose_rename_and_section_extraction.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
