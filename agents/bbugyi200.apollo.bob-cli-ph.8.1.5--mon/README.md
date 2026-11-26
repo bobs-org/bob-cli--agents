@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ph](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ph/README.md) / [bob-cli-ph.8.1.5](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.5.md) / bob-cli-ph.8.1.5--mon
 
-**Global name:** `bbugyi200.apollo.bob-cli-ph.8.1.5--mon` · **State:** active · **Source run:** `run-9b955bbc4c24b2f2779f60f1e4ae7d28`
+**Global name:** `bbugyi200.apollo.bob-cli-ph.8.1.5--mon` · **State:** completed · **Source run:** `run-9b955bbc4c24b2f2779f60f1e4ae7d28`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ph
 
@@ -12,8 +12,12 @@
 - Epic: [bob-cli-ph.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ph/bob-cli-ph.8.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-26T06:49:41.680042+00:00
+- Timing: 2026-11-26T06:49:41.680042+00:00 → 2026-11-26T06:59:50.453365+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -24,7 +28,7 @@
 | [bob-cli-ph.8.1.2](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.2.md) (session · 7) | bob-cli-ph.8.1 hood | completed 5, failed 2 |
 | [bob-cli-ph.8.1.3](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.3.md) (session · 3) | bob-cli-ph.8.1 hood | completed 2, failed 1 |
 | [bob-cli-ph.8.1.4](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.4.md) (session · 3) | bob-cli-ph.8.1 hood | completed 2, failed 1 |
-| [bob-cli-ph.8.1.6](../bbugyi200.apollo.bob-cli-ph.8.1.6/README.md) | bob-cli-ph.8.1 hood | waiting |
+| [bob-cli-ph.8.1.6](../../sessions/bbugyi200.apollo.bob-cli-ph.8.1.6.md) (session · 2) | bob-cli-ph.8.1 hood | active 1, completed 1 |
 | [bob-cli-ph.8.1.land](../bbugyi200.apollo.bob-cli-ph.8.1.land/README.md) | bob-cli-ph.8.1 hood | waiting |
 | [bob-cli-ph.1](../../sessions/bbugyi200.apollo.bob-cli-ph.1.md) (session · 31) | bob-cli-ph hood | completed 20, failed 11 |
 | [bob-cli-ph.10](../../sessions/bbugyi200.apollo.bob-cli-ph.10.md) (session · 16) | bob-cli-ph hood | completed 8, failed 8 |
