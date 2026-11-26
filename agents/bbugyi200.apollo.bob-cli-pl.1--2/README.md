@@ -63,7 +63,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pl.9](../../sessions/bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | bob-cli-pl hood | active 1, completed 2 |
 | [bob-cli-pl.9.1.1](../bbugyi200.apollo.bob-cli-pl.9.1.1/README.md) | bob-cli-pl hood | completed |
 | [bob-cli-pl.9.1.2](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.md) (session · 31) | bob-cli-pl hood | active 2, completed 20, failed 9 |
-| [bob-cli-pl.9.1.2.1.1](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.1/README.md) | bob-cli-pl hood | active |
+| [bob-cli-pl.9.1.2.1.1](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.1.1.md) (session · 2) | bob-cli-pl hood | active 1, completed 1 |
 | [bob-cli-pl.9.1.2.1.2](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.2/README.md) | bob-cli-pl hood | waiting |
 | [bob-cli-pl.9.1.2.1.3](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.3/README.md) | bob-cli-pl hood | waiting |
 | [bob-cli-pl.9.1.2.1.4](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.4/README.md) | bob-cli-pl hood | waiting |
