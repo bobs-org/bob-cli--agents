@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-qi](../../users/bbugyi200/machines/athena/hoods/bob-cli-qi/README.md) / bob-cli-qi.land
 
-**Global name:** `bbugyi200.athena.bob-cli-qi.land` · **State:** active · **Source run:** `run-f09dafcbf3d5c210d34fad1a889c68c3`
+**Global name:** `bbugyi200.athena.bob-cli-qi.land` · **State:** completed · **Source run:** `run-f09dafcbf3d5c210d34fad1a889c68c3`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-qi
 
@@ -11,13 +11,13 @@
 - Bead: [bob-cli-qi](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qi/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-27T10:39:53.853335+00:00
+- Timing: 2026-11-27T10:39:53.853335+00:00 → 2026-11-27T11:33:08.975326+00:00
 - Commits: [1](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
