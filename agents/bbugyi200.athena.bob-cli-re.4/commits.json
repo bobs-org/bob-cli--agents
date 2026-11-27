@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-c2d82abce767858b86235f9100d4e5f0"}
+{"commits":[{"committed_at":1795820991,"sha":"f0ee43574e93287b89a1874415327c79d68df2a3","subject":"fix(capture): pin Pomodoro Next refs after recording a timed entry"}],"schema_version":2,"source_run_id":"run-c2d82abce767858b86235f9100d4e5f0"}
