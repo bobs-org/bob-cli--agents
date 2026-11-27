@@ -1,0 +1,13 @@
+%model:@medium
+#gh:gh_bobs-org__bob-cli @plan:202611/property_card_equals_keymap.md
+
+The above plan has been reviewed and approved. Implement it now.
+
+%macros_enabled:false
+Reviewer decisions for this plan (final · reviewer via Telegram):
+- habit_guard = yes (planner default: yes). Implement the "habit_guard = yes" branch; ignore "habit_guard = no". Context: "Swallow a fast second `=` after a bare `=` opens a card editor, so the old `==` habit opens it once?".
+- period_callouts = no (planner default: no). Implement the "period_callouts = no" branch; ignore "period_callouts = yes". Context: "Bump period callouts to v4 so `bob periods ensure -R` can rewrite the ~59 vault callouts that say `==`?".
+- memory_glossary_cards = yes 🧠. Memory edits are authorized for glossary:property-card, glossary:area-card, glossary:project-card, glossary:bank-card, glossary:intention-card, glossary:record-card, glossary:notebook-card, glossary:prose-card, glossary:ref-card only. Context: "Update the nine Property Card glossary strands so they name `=` as the card editor gesture?".
+No other memory note may be edited.
+Implement only the branches selected above.
+%macros_enabled:true
