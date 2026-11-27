@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `cf414ce` | refactor(prose): rename the article engine module to prose | 2026-11-26 12:15:08 EST |
+| bob-cli | [`cf414ce`](https://github.com/bobs-org/bob-cli/commit/cf414ce15c5489203abf81d308d9359d30214510) | refactor(prose): rename the article engine module to prose | 2026-11-26 12:15:08 EST |
 
 ## Neighbors
 
@@ -31,6 +31,7 @@
 |---|---|---|
 | [bob-cli-qj.2](../bbugyi200.apollo.bob-cli-qj.2/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.3](../bbugyi200.apollo.bob-cli-qj.3/README.md) | bob-cli-qj hood | completed |
+| [bob-cli-qj.4](../../sessions/bbugyi200.apollo.bob-cli-qj.4.md) (session · 3) | bob-cli-qj hood | active 1, completed 2 |
 | [bob-cli-qj.4](../bbugyi200.apollo.bob-cli-qj.4/README.md) | bob-cli-qj hood | waiting |
 | [bob-cli-qj.5](../bbugyi200.apollo.bob-cli-qj.5/README.md) | bob-cli-qj hood | waiting |
 | [bob-cli-qj.land](../bbugyi200.apollo.bob-cli-qj.land/README.md) | bob-cli-qj hood | waiting |

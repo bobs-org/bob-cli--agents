@@ -13,18 +13,19 @@
 - Model: gpt-6-luna
 - Provider: codex
 - Timing: 2026-11-26T17:16:06.839338+00:00 → 2026-11-26T20:17:43.011669+00:00
-- Commits: [1](#commits)
+- Commits: [2](#commits)
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Commits
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `59037b2` | fix(snooze): correct test paths and anonymize vault example | 2026-11-26 14:06:20 EST |
+| bob-cli | [`59037b2`](https://github.com/bobs-org/bob-cli/commit/59037b2343f0b15cf7d98c5acdaf7223028e3d1c) | fix(snooze): correct test paths and anonymize vault example | 2026-11-26 14:06:20 EST |
+| bob-cli | [`4168e20`](https://github.com/bobs-org/bob-cli/commit/4168e2013a35cf08e11858c2d66a61d60f5f8a8b) | feat(prose): make prose the canonical note type and CLI | 2026-11-26 14:48:41 EST |
 
 ## Variables
 
@@ -50,6 +51,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [bob-cli-qj.1](../bbugyi200.apollo.bob-cli-qj.1/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.3](../bbugyi200.apollo.bob-cli-qj.3/README.md) | bob-cli-qj hood | completed |
+| [bob-cli-qj.4](../../sessions/bbugyi200.apollo.bob-cli-qj.4.md) (session · 3) | bob-cli-qj hood | active 1, completed 2 |
 | [bob-cli-qj.4](../bbugyi200.apollo.bob-cli-qj.4/README.md) | bob-cli-qj hood | waiting |
 | [bob-cli-qj.5](../bbugyi200.apollo.bob-cli-qj.5/README.md) | bob-cli-qj hood | waiting |
 | [bob-cli-qj.land](../bbugyi200.apollo.bob-cli-qj.land/README.md) | bob-cli-qj hood | waiting |
