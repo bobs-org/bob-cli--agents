@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-9db34e5f15543c4dd9d19bda0e53a860"}
+{"commits":[{"committed_at":1795814954,"sha":"3deb0bd3adab6014338682e56675733325ba1c24","subject":"fix(prose): keep link form and shortest fragments across extract and inline"}],"schema_version":2,"source_run_id":"run-9db34e5f15543c4dd9d19bda0e53a860"}

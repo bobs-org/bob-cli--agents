@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-qj](../../users/bbugyi200/machines/apollo/hoods/bob-cli-qj/README.md) / [bob-cli-qj.5.1.land](../../sessions/bbugyi200.apollo.bob-cli-qj.5.1.land.md) / bob-cli-qj.5.1.land--code
 
-**Global name:** `bbugyi200.apollo.bob-cli-qj.5.1.land--code` · **State:** active · **Source run:** `run-9db34e5f15543c4dd9d19bda0e53a860`
+**Global name:** `bbugyi200.apollo.bob-cli-qj.5.1.land--code` · **State:** completed · **Source run:** `run-9db34e5f15543c4dd9d19bda0e53a860`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-qj
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-qj.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qj/bob-cli-qj.5.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-27T20:50:39.930202+00:00
-- Commits: 0
+- Timing: 2026-11-27T20:50:39.930202+00:00 → 2026-11-27T21:30:40.442078+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`3deb0bd`](https://github.com/bobs-org/bob-cli/commit/3deb0bd3adab6014338682e56675733325ba1c24) | fix(prose): keep link form and shortest fragments across extract and inline | 2026-11-27 16:29:14 EST |
 
 ## Neighbors
 
