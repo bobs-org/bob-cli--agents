@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-ab4a509c1c238c6f63041cf232078dac"}
+{"commits":[{"committed_at":1795818828,"sha":"d117d28838ac4b75e7a3bb7b1de45b6117e0d4da","subject":"fix(capture): preserve ID-less task blocks across successor closes"}],"schema_version":2,"source_run_id":"run-ab4a509c1c238c6f63041cf232078dac"}
