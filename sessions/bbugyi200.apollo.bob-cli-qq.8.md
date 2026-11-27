@@ -25,7 +25,7 @@ flowchart TD
   n0 --> n7
   n8["bob-cli-qq.8--mon-1 [failed]"]
   n0 --> n8
-  n9["bob-cli-qq.8--mon-6 [active]"]
+  n9["bob-cli-qq.8--mon-6 [failed]"]
   n0 --> n9
   n10["bob-cli-qq.8--1 [completed]"]
   n0 --> n10
@@ -54,7 +54,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-7"></a>7 | bob-cli-qq.8--7 | completed | gpt-6-luna / codex | 2026-11-27T05:23:03.256176+00:00 → 2026-11-27T06:00:03.683739+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-qq.8--7/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-qq.8--7/chat.md) |
 | <a id="member-4"></a>4 | bob-cli-qq.8--4 | completed | gpt-6-luna / codex | 2026-11-27T04:27:10.942613+00:00 → 2026-11-27T04:38:47.283643+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-qq.8--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-qq.8--4/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-qq.8--mon-1 | failed | gpt-6-luna / codex | 2026-11-27T03:47:23.888805+00:00 → 2026-11-27T03:51:17.882017+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-qq.8--mon-1/chat.md) |
-| <a id="member-mon-6"></a>mon-6 | bob-cli-qq.8--mon-6 | active | gpt-6-luna / codex | 2026-11-27T05:56:22.355698+00:00 | 0 | — | — |
+| <a id="member-mon-6"></a>mon-6 | bob-cli-qq.8--mon-6 | failed | gpt-6-luna / codex | 2026-11-27T05:56:22.355698+00:00 → 2026-11-27T06:02:54.256997+00:00 | 0 | — | — |
 | <a id="member-1"></a>1 | bob-cli-qq.8--1 | completed | gpt-6-luna / codex | 2026-11-27T03:17:38.242457+00:00 → 2026-11-27T03:31:12.689308+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-qq.8--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-qq.8--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-qq.8--mon | failed | gpt-6-luna / codex | 2026-11-27T03:13:25.394519+00:00 → 2026-11-27T03:17:38.604732+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-qq.8--mon/chat.md) |
 | <a id="member-mon-5"></a>mon-5 | bob-cli-qq.8--mon-5 | failed | gpt-6-luna / codex | 2026-11-27T05:15:23.862892+00:00 → 2026-11-27T05:23:03.508561+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-qq.8--mon-5/chat.md) |
