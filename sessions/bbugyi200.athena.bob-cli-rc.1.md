@@ -30,4 +30,4 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-rc.2](../agents/bbugyi200.athena.bob-cli-rc.2/README.md) | bob-cli-rc hood | completed |
 | [bob-cli-rc.3](../agents/bbugyi200.athena.bob-cli-rc.3/README.md) | bob-cli-rc hood | completed |
 | [bob-cli-rc.4](../agents/bbugyi200.athena.bob-cli-rc.4/README.md) | bob-cli-rc hood | completed |
-| [bob-cli-rc.land](../agents/bbugyi200.athena.bob-cli-rc.land/README.md) | bob-cli-rc hood | waiting |
+| [bob-cli-rc.land](bbugyi200.athena.bob-cli-rc.land.md) (session · 3) | bob-cli-rc hood | active 2, completed 1 |
