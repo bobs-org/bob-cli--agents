@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-928757eab3bbeef4e194efe09330b92f"}
+{"commits":[{"committed_at":1795817905,"sha":"bd6a5fe5d6a9976a5f638d371b092a29e1f5faec","subject":"feat(capture): task_type lead completion with eligibility gates and parser probe"}],"schema_version":2,"source_run_id":"run-928757eab3bbeef4e194efe09330b92f"}

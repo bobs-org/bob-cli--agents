@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-rb](../../users/bbugyi200/machines/athena/hoods/bob-cli-rb/README.md) / bob-cli-rb.2
 
-**Global name:** `bbugyi200.athena.bob-cli-rb.2` · **State:** active · **Source run:** `run-928757eab3bbeef4e194efe09330b92f`
+**Global name:** `bbugyi200.athena.bob-cli-rb.2` · **State:** completed · **Source run:** `run-928757eab3bbeef4e194efe09330b92f`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-rb
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-rb](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-rb/README.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-27T20:54:35.431268+00:00
-- Commits: 0
+- Timing: 2026-11-27T20:54:35.431268+00:00 → 2026-11-27T22:19:17.104837+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`bd6a5fe`](https://github.com/bobs-org/bob-cli/commit/bd6a5fe5d6a9976a5f638d371b092a29e1f5faec) | feat(capture): task\_type lead completion with eligibility gates and parser probe | 2026-11-27 17:18:25 EST |
 
 ## Neighbors
 
