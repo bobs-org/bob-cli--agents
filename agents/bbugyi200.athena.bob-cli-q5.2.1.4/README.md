@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f32e774`](https://github.com/bobs-org/bob-cli/commit/f32e774c92ec7ae564c5f6926563bd2a8adef772) | feat(agenda): publish snoozed rows and wake provenance | 2026-11-26 05:59:33 EST |
+| — | `f32e774` | feat(agenda): publish snoozed rows and wake provenance | 2026-11-26 05:59:33 EST |
 
 ## Neighbors
 
@@ -84,5 +84,5 @@
 | [bob-cli-q5.8.1.6.3](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.3.md) (session · 7) | bob-cli-q5 hood | completed 5, failed 2 |
 | [bob-cli-q5.8.1.6.4](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.4.md) (session · 5) | bob-cli-q5 hood | completed 4, failed 1 |
 | [bob-cli-q5.8.1.6.5](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.md) (session · 10) | bob-cli-q5 hood | active 2, completed 8 |
-| [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 18) | bob-cli-q5 hood | active 1, completed 15, failed 2 |
+| [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 18) | bob-cli-q5 hood | completed 15, failed 3 |
 | … and 8 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) | bob-cli-q5 hood | — |

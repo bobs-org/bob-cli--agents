@@ -23,9 +23,9 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5d5509d`](https://github.com/bobs-org/bob-cli/commit/5d5509de4f27f4042eccf52b1c0f6171e43e88d9) | fix(capture): update drawer parser test fixtures | 2026-11-25 22:36:58 EST |
-| bob-cli | [`d820323`](https://github.com/bobs-org/bob-cli/commit/d8203235ac54ac416160d34f5e4080499315bbfe) | fix(capture): borrow parsed drawer kind in record fixture | 2026-11-25 22:51:25 EST |
-| bob-cli | [`1b38663`](https://github.com/bobs-org/bob-cli/commit/1b386638ff031506bb1058853af17b9cab398281) | feat(capture): add snooze z:\<when\> grammar with drop claims | 2026-11-25 22:59:52 EST |
+| — | `5d5509d` | fix(capture): update drawer parser test fixtures | 2026-11-25 22:36:58 EST |
+| — | `d820323` | fix(capture): borrow parsed drawer kind in record fixture | 2026-11-25 22:51:25 EST |
+| — | `1b38663` | feat(capture): add snooze z:\<when\> grammar with drop claims | 2026-11-25 22:59:52 EST |
 
 ## Neighbors
 

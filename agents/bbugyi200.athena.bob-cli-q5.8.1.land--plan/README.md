@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.8.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.land.md) / bob-cli-q5.8.1.land--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.land--plan` · **State:** active · **Source run:** `run-55ed38186cac1eba8573fdbc3bef6140`
+**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.land--plan` · **State:** dismissed · **Source run:** `run-55ed38186cac1eba8573fdbc3bef6140`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-q5.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.8.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-27T00:39:55.512490+00:00 → 2026-11-27T01:05:52.509909+00:00
+- Timing: 2026-11-26T19:39:55.512490 → 2026-11-26T20:05:53.065647
 - Commits: 0
 
 ## Files
@@ -33,8 +33,8 @@
 | [bob-cli-q5.8.1.6.3](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.3.md) (session · 7) | bob-cli-q5.8.1 hood | completed 5, failed 2 |
 | [bob-cli-q5.8.1.6.4](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.4.md) (session · 5) | bob-cli-q5.8.1 hood | completed 4, failed 1 |
 | [bob-cli-q5.8.1.6.5](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.md) (session · 10) | bob-cli-q5.8.1 hood | active 2, completed 8 |
-| [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 18) | bob-cli-q5.8.1 hood | active 1, completed 15, failed 2 |
-| [bob-cli-q5.8.1.6.5.1.2](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.2/README.md) | bob-cli-q5.8.1 hood | waiting |
+| [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 18) | bob-cli-q5.8.1 hood | completed 15, failed 3 |
+| [bob-cli-q5.8.1.6.5.1.2](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.2/README.md) | bob-cli-q5.8.1 hood | dismissed |
 | [bob-cli-q5.8.1.6.5.1.3](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.3/README.md) | bob-cli-q5.8.1 hood | waiting |
 | [bob-cli-q5.8.1.6.5.1.4](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.4/README.md) | bob-cli-q5.8.1 hood | waiting |
 | [bob-cli-q5.8.1.6.5.1.land](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.land/README.md) | bob-cli-q5.8.1 hood | waiting |

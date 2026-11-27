@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ee21fdf`](https://github.com/bobs-org/bob-cli/commit/ee21fdff6c84c1407a21ba6aa80f442b273a7941) | test(snooze): enable JS runner for snooze vectors | 2026-11-27 02:12:17 EST |
+| — | `ee21fdf` | test(snooze): enable JS runner for snooze vectors | 2026-11-27 02:12:17 EST |
 
 ## Neighbors
 

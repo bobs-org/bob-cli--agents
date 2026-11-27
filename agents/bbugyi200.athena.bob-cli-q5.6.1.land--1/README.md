@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`064fc51`](https://github.com/bobs-org/bob-cli/commit/064fc51ef361bb0628aa2d9f16bb10f9ef74f7d9) | docs(snooze): document Snooze Card gestures and undo | 2026-11-27 08:57:14 EST |
+| — | `064fc51` | docs(snooze): document Snooze Card gestures and undo | 2026-11-27 08:57:14 EST |
 
 ## Neighbors
 

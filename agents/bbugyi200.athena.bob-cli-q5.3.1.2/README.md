@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ae78dbb`](https://github.com/bobs-org/bob-cli/commit/ae78dbb2dbcd61ce5b8cc9a0dd4db904d93ea745) | feat(capture): apply snooze operations atomically | 2026-11-26 04:15:50 EST |
+| — | `ae78dbb` | feat(capture): apply snooze operations atomically | 2026-11-26 04:15:50 EST |
 
 ## Neighbors
 
