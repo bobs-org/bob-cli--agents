@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-re
 
-**Global hood:** `bbugyi200.athena.bob-cli-re` · **Runs:** 7 · **Sessions:** 1 · **States:** completed 5, waiting 2
+**Global hood:** `bbugyi200.athena.bob-cli-re` · **Runs:** 7 · **Sessions:** 1 · **States:** completed 6, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-re.1--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-re.1.md#member-mon) | completed | gpt-6-luna / codex | 2026-11-27T20:52:10.207616+00:00 → 2026-11-27T20:54:31.823285+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-re.1--mon/chat.md) |
-| [bob-cli-re.5](../../../../../../agents/bbugyi200.athena.bob-cli-re.5/README.md) | waiting | grok-4.6 / grok | 20261127153345 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-re.5/prompt.md) |
+| [bob-cli-re.5](../../../../../../agents/bbugyi200.athena.bob-cli-re.5/README.md) | completed | grok-4.6 / grok | 2026-11-27T23:10:38.342579+00:00 → 2026-11-27T23:35:42.173720+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-re.5/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-re.5/chat.md) |
 | [bob-cli-re.land](../../../../../../agents/bbugyi200.athena.bob-cli-re.land/README.md) | waiting | opus / claude | 20261127153346 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-re.land/prompt.md) |
 | [bob-cli-re.3](../../../../../../agents/bbugyi200.athena.bob-cli-re.3/README.md) | completed | gpt-6-luna / codex | 2026-11-27T21:56:52.541910+00:00 → 2026-11-27T22:34:21.909132+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-re.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-re.3/chat.md) |
 | [bob-cli-re.1--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-re.1.md#member-plan) | completed | gpt-6-luna / codex | 2026-11-27T20:43:32.226298+00:00 → 2026-11-27T20:54:21.129425+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-re.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-re.1--plan/chat.md) |
