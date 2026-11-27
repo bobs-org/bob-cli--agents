@@ -111,11 +111,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 4 | bob-cli | [`05dd83c`](https://github.com/bobs-org/bob-cli/commit/05dd83cf9f93c07825a30dfe508e530bc36f9d81) | docs: repair documentation gate consistency | 2026-11-25 18:31:13 EST |
-| 6 | bob-cli | [`8850f2e`](https://github.com/bobs-org/bob-cli/commit/8850f2e639a862f5814eae348449ebd232053bb7) | docs(reference): satisfy word-budget lint | 2026-11-25 18:53:41 EST |
-| b | bob-cli | [`fc9c91c`](https://github.com/bobs-org/bob-cli/commit/fc9c91ca46026be17965509a4425273134b0eeea) | docs(memory): add planning-time decision roster policy | 2026-11-25 19:48:21 EST |
-| c | bob-cli | [`1c7a481`](https://github.com/bobs-org/bob-cli/commit/1c7a481c539a7677c8e2c9b04bfb554b18bd0ab5) | fix(docs): keep capture smoke query searchable | 2026-11-25 19:57:34 EST |
-| e | bob-cli | [`926c925`](https://github.com/bobs-org/bob-cli/commit/926c92589bf68dc4df851e28a26999f67f2074cd) | docs(search): cover Go To capture token | 2026-11-25 20:15:53 EST |
+| 4 | — | `05dd83c` | docs: repair documentation gate consistency | 2026-11-25 18:31:13 EST |
+| 6 | — | `8850f2e` | docs(reference): satisfy word-budget lint | 2026-11-25 18:53:41 EST |
+| b | — | `fc9c91c` | docs(memory): add planning-time decision roster policy | 2026-11-25 19:48:21 EST |
+| c | — | `1c7a481` | fix(docs): keep capture smoke query searchable | 2026-11-25 19:57:34 EST |
+| e | — | `926c925` | docs(search): cover Go To capture token | 2026-11-25 20:15:53 EST |
 
 ## Neighbors
 
@@ -144,7 +144,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q4.8.1.2](../agents/bbugyi200.athena.bob-cli-q4.8.1.2/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.8.1.3](bbugyi200.athena.bob-cli-q4.8.1.3.md) (session · 15) | bob-cli-q4 hood | completed 9, failed 6 |
 | [bob-cli-q4.8.1.land](bbugyi200.athena.bob-cli-q4.8.1.land.md) (session · 3) | bob-cli-q4 hood | completed 3 |
-| [bob-cli-q4.9](bbugyi200.athena.bob-cli-q4.9.md) (session · 3) | bob-cli-q4 hood | active 1, completed 2 |
+| [bob-cli-q4.9](bbugyi200.athena.bob-cli-q4.9.md) (session · 3) | bob-cli-q4 hood | completed 2, dismissed 1 |
 | [bob-cli-q4.9.1.1](../agents/bbugyi200.athena.bob-cli-q4.9.1.1/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.9.1.2](../agents/bbugyi200.athena.bob-cli-q4.9.1.2/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.9.1.3](../agents/bbugyi200.athena.bob-cli-q4.9.1.3/README.md) | bob-cli-q4 hood | completed |

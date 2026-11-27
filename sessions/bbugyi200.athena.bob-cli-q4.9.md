@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-q4` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-q4.9--plan [active]"]
+  n0["bob-cli-q4.9--plan [dismissed]"]
   n1["bob-cli-q4.9--mon [completed]"]
   n0 --> n1
   n2["bob-cli-q4.9--gate [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-q4.9--plan | active | gpt-6-astra / codex | 2026-11-25T19:21:05.371138+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.9--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-q4.9--plan | dismissed | gpt-6-astra / codex | 2026-11-25T14:21:05.371138 → 2026-11-25T14:31:55.522734 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.9--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.9--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-q4.9--mon | completed | gpt-6-astra / codex | 2026-11-25T19:31:47.087483+00:00 → 2026-11-25T19:34:28.093330+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.9--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-q4.9--gate | completed | gpt-6-astra / codex | 2026-11-25T19:29:36.007706+00:00 → 2026-11-25T19:31:48.328700+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.9--gate/chat.md) |
 
