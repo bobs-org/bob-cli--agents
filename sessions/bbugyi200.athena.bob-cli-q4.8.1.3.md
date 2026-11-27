@@ -63,12 +63,12 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-q4.8](bbugyi200.athena.bob-cli-q4.8.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-q4.8](bbugyi200.athena.bob-cli-q4.8.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-q4.8.1.1](../agents/bbugyi200.athena.bob-cli-q4.8.1.1/README.md) | bob-cli-q4.8.1 hood | completed |
 | [bob-cli-q4.8.1.2](../agents/bbugyi200.athena.bob-cli-q4.8.1.2/README.md) | bob-cli-q4.8.1 hood | completed |
 | [bob-cli-q4.8.1.land](bbugyi200.athena.bob-cli-q4.8.1.land.md) (session · 3) | bob-cli-q4.8.1 hood | completed 3 |
 | [bob-cli-q4.1](../agents/bbugyi200.athena.bob-cli-q4.1/README.md) | bob-cli-q4 hood | completed |
-| [bob-cli-q4.10](bbugyi200.athena.bob-cli-q4.10.md) (session · 3) | bob-cli-q4 hood | active 1, completed 2 |
+| [bob-cli-q4.10](bbugyi200.athena.bob-cli-q4.10.md) (session · 3) | bob-cli-q4 hood | completed 2, dismissed 1 |
 | [bob-cli-q4.10.1.1](../agents/bbugyi200.athena.bob-cli-q4.10.1.1/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.10.1.2](bbugyi200.athena.bob-cli-q4.10.1.2.md) (session · 7) | bob-cli-q4 hood | completed 5, failed 2 |
 | [bob-cli-q4.10.1.3](../agents/bbugyi200.athena.bob-cli-q4.10.1.3/README.md) | bob-cli-q4 hood | completed |

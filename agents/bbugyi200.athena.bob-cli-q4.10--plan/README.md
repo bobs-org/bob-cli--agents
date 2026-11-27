@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q4](../../users/bbugyi200/machines/athena/hoods/bob-cli-q4/README.md) / [bob-cli-q4.10](../../sessions/bbugyi200.athena.bob-cli-q4.10.md) / bob-cli-q4.10--plan
 
-**Global name:** `bbugyi200.athena.bob-cli-q4.10--plan` · **State:** active · **Source run:** `run-f84ca2fbcdc93c871a2ca39915b4c335`
+**Global name:** `bbugyi200.athena.bob-cli-q4.10--plan` · **State:** dismissed · **Source run:** `run-f84ca2fbcdc93c871a2ca39915b4c335`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q4
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-q4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q4/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-25T19:20:58.151020+00:00 → 2026-11-25T19:29:12.900074+00:00
+- Timing: 2026-11-25T14:20:58.151020 → 2026-11-25T14:29:13.184381
 - Commits: 0
 
 ## Files
@@ -41,7 +41,7 @@
 | [bob-cli-q4.5](../../sessions/bbugyi200.athena.bob-cli-q4.5.md) (session · 3) | bob-cli-q4 hood | completed 2, failed 1 |
 | [bob-cli-q4.6](../../sessions/bbugyi200.athena.bob-cli-q4.6.md) (session · 3) | bob-cli-q4 hood | completed 3 |
 | [bob-cli-q4.7](../bbugyi200.athena.bob-cli-q4.7/README.md) | bob-cli-q4 hood | completed |
-| [bob-cli-q4.8](../../sessions/bbugyi200.athena.bob-cli-q4.8.md) (session · 3) | bob-cli-q4 hood | active 1, completed 2 |
+| [bob-cli-q4.8](../../sessions/bbugyi200.athena.bob-cli-q4.8.md) (session · 3) | bob-cli-q4 hood | completed 2, dismissed 1 |
 | [bob-cli-q4.8.1.1](../bbugyi200.athena.bob-cli-q4.8.1.1/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.8.1.2](../bbugyi200.athena.bob-cli-q4.8.1.2/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.8.1.3](../../sessions/bbugyi200.athena.bob-cli-q4.8.1.3.md) (session · 15) | bob-cli-q4 hood | completed 9, failed 6 |

@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-q4.8--mon [completed]"]
   n1["bob-cli-q4.8--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-q4.8--plan [active]"]
+  n2["bob-cli-q4.8--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-q4.8--mon | completed | gpt-6-astra / codex | 2026-11-25T15:26:57.676860+00:00 → 2026-11-25T15:30:33.514921+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.8--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-q4.8--gate | completed | gpt-6-astra / codex | 2026-11-25T15:26:43.530190+00:00 → 2026-11-25T15:27:03.158401+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q4.8--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-q4.8--plan | active | gpt-6-astra / codex | 2026-11-25T15:19:28.906431+00:00 → 2026-11-25T15:27:15.964334+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.8--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-q4.8--plan | dismissed | gpt-6-astra / codex | 2026-11-25T10:19:28.906431 → 2026-11-25T10:27:16.270245 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q4.8--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q4.8--plan/chat.md) |
 
 ## Neighbors
 
@@ -32,7 +32,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q4.8.1.3](bbugyi200.athena.bob-cli-q4.8.1.3.md) (session · 15) | descendant | completed 9, failed 6 |
 | [bob-cli-q4.8.1.land](bbugyi200.athena.bob-cli-q4.8.1.land.md) (session · 3) | descendant | completed 3 |
 | [bob-cli-q4.1](../agents/bbugyi200.athena.bob-cli-q4.1/README.md) | bob-cli-q4 hood | completed |
-| [bob-cli-q4.10](bbugyi200.athena.bob-cli-q4.10.md) (session · 3) | bob-cli-q4 hood | active 1, completed 2 |
+| [bob-cli-q4.10](bbugyi200.athena.bob-cli-q4.10.md) (session · 3) | bob-cli-q4 hood | completed 2, dismissed 1 |
 | [bob-cli-q4.10.1.1](../agents/bbugyi200.athena.bob-cli-q4.10.1.1/README.md) | bob-cli-q4 hood | completed |
 | [bob-cli-q4.10.1.2](bbugyi200.athena.bob-cli-q4.10.1.2.md) (session · 7) | bob-cli-q4 hood | completed 5, failed 2 |
 | [bob-cli-q4.10.1.3](../agents/bbugyi200.athena.bob-cli-q4.10.1.3/README.md) | bob-cli-q4 hood | completed |
