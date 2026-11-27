@@ -78,5 +78,5 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-qi.3](../../sessions/bbugyi200.athena.bob-cli-qi.3.md) (session · 3) | bob-cli-qi hood | completed 2, failed 1 |
 | [bob-cli-qi.5](../bbugyi200.athena.bob-cli-qi.5/README.md) | bob-cli-qi hood | completed |
 | [bob-cli-qi.6](../../sessions/bbugyi200.athena.bob-cli-qi.6.md) (session · 11) | bob-cli-qi hood | completed 9, failed 2 |
-| [bob-cli-qi.land](../../sessions/bbugyi200.athena.bob-cli-qi.land.md) (session · 16) | bob-cli-qi hood | active 1, completed 12, failed 3 |
+| [bob-cli-qi.land](../../sessions/bbugyi200.athena.bob-cli-qi.land.md) (session · 18) | bob-cli-qi hood | active 1, completed 13, failed 4 |
 | [bob-cli-qi.land](../bbugyi200.athena.bob-cli-qi.land/README.md) | bob-cli-qi hood | completed |
