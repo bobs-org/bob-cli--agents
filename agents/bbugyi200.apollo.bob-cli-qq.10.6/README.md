@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-qq](../../users/bbugyi200/machines/apollo/hoods/bob-cli-qq/README.md) / bob-cli-qq.10.6
 
-**Global name:** `bbugyi200.apollo.bob-cli-qq.10.6` · **State:** waiting · **Source run:** `run-750686c54294e22ba4dabb1352e01dd9`
+**Global name:** `bbugyi200.apollo.bob-cli-qq.10.6` · **State:** completed · **Source run:** `run-750686c54294e22ba4dabb1352e01dd9`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-qq
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-qq.10](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qq/bob-cli-qq.10.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261127091353
-- Commits: 0
+- Timing: 2026-11-27T22:19:25.147330+00:00 → 2026-11-27T22:48:07.975795+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`31fe163`](https://github.com/bobs-org/bob-cli/commit/31fe16372e608ae8813edee41b21a9dfdc266c96) | docs(memory): cabinets glossary, card strands, and absorb-at-render-time decision | 2026-11-27 17:45:53 EST |
 
 ## Neighbors
 
