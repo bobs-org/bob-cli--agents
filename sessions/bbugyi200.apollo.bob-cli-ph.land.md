@@ -51,9 +51,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | bob-cli | [`db5a70c`](https://github.com/bobs-org/bob-cli/commit/db5a70cc185e1a607b6fe019422e3c7f7aa0d0b1) | fix(memory): repair drawer supersession frontmatter and regenerate drawer docs | 2026-11-26 07:46:29 EST |
-| code | bob-cli | [`4dd787b`](https://github.com/bobs-org/bob-cli/commit/4dd787bceaa2c0f16e25336ec6b3ff65d6a731f5) | test(drawers): begin post-cutover true-case migration for bob-cli-ph | 2026-11-26 08:09:54 EST |
-| 4 | bob-cli | [`8025ab3`](https://github.com/bobs-org/bob-cli/commit/8025ab3c257b77b188e3f31212e229462a69bfe8) | test(drawers): migrate 80 cutover goldens to bold true-case for bob-cli-ph | 2026-11-26 13:02:28 EST |
+| plan | — | `db5a70c` | fix(memory): repair drawer supersession frontmatter and regenerate drawer docs | 2026-11-26 07:46:29 EST |
+| code | — | `4dd787b` | test(drawers): begin post-cutover true-case migration for bob-cli-ph | 2026-11-26 08:09:54 EST |
+| 4 | — | `8025ab3` | test(drawers): migrate 80 cutover goldens to bold true-case for bob-cli-ph | 2026-11-26 13:02:28 EST |
 
 ## Variables
 
@@ -89,14 +89,14 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-ph.3](../agents/bbugyi200.apollo.bob-cli-ph.3/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.4](../agents/bbugyi200.apollo.bob-cli-ph.4/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.5](bbugyi200.apollo.bob-cli-ph.5.md) (session · 3) | bob-cli-ph hood | completed 3 |
-| [bob-cli-ph.6](bbugyi200.apollo.bob-cli-ph.6.md) (session · 3) | bob-cli-ph hood | active 1, completed 2 |
+| [bob-cli-ph.6](bbugyi200.apollo.bob-cli-ph.6.md) (session · 3) | bob-cli-ph hood | completed 2, dismissed 1 |
 | [bob-cli-ph.6.1.1](../agents/bbugyi200.apollo.bob-cli-ph.6.1.1/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.6.1.2](../agents/bbugyi200.apollo.bob-cli-ph.6.1.2/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.6.1.3](../agents/bbugyi200.apollo.bob-cli-ph.6.1.3/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.6.1.4](../agents/bbugyi200.apollo.bob-cli-ph.6.1.4/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.6.1.5](bbugyi200.apollo.bob-cli-ph.6.1.5.md) (session · 3) | bob-cli-ph hood | completed 2, failed 1 |
 | [bob-cli-ph.6.1.land](../agents/bbugyi200.apollo.bob-cli-ph.6.1.land/README.md) | bob-cli-ph hood | completed |
-| [bob-cli-ph.7](bbugyi200.apollo.bob-cli-ph.7.md) (session · 3) | bob-cli-ph hood | active 1, completed 2 |
+| [bob-cli-ph.7](bbugyi200.apollo.bob-cli-ph.7.md) (session · 3) | bob-cli-ph hood | completed 2, dismissed 1 |
 | [bob-cli-ph.7.1.1](../agents/bbugyi200.apollo.bob-cli-ph.7.1.1/README.md) | bob-cli-ph hood | completed |
 | [bob-cli-ph.7.1.2](bbugyi200.apollo.bob-cli-ph.7.1.2.md) (session · 9) | bob-cli-ph hood | completed 6, failed 3 |
 | [bob-cli-ph.7.1.3](../agents/bbugyi200.apollo.bob-cli-ph.7.1.3/README.md) | bob-cli-ph hood | completed |
