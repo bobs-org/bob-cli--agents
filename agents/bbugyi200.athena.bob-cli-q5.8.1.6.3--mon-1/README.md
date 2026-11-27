@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.8.1.6.3](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.3.md) / bob-cli-q5.8.1.6.3--mon-1
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.6.3--mon-1` · **State:** active · **Source run:** `run-f9f3c83e14eb49428b17d58803e361e9`
+**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.6.3--mon-1` · **State:** completed · **Source run:** `run-f9f3c83e14eb49428b17d58803e361e9`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -11,8 +11,12 @@
 - Bead: [bob-cli-q5.8.1.6.3](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.8.1.6.3.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-27T05:49:28.833836+00:00
+- Timing: 2026-11-27T05:49:28.833836+00:00 → 2026-11-27T06:18:59.237186+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -63,7 +67,7 @@
 | [bob-cli-q5.5.1.4](../bbugyi200.athena.bob-cli-q5.5.1.4/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.5.1.5](../../sessions/bbugyi200.athena.bob-cli-q5.5.1.5.md) (session · 3) | bob-cli-q5 hood | completed 3 |
 | [bob-cli-q5.5.1.6](../bbugyi200.athena.bob-cli-q5.5.1.6/README.md) | bob-cli-q5 hood | completed |
-| [bob-cli-q5.5.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.5.1.land.md) (session · 19) | bob-cli-q5 hood | active 1, completed 10, failed 8 |
+| [bob-cli-q5.5.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.5.1.land.md) (session · 23) | bob-cli-q5 hood | completed 13, failed 10 |
 | [bob-cli-q5.6](../bbugyi200.athena.bob-cli-q5.6/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.7](../../sessions/bbugyi200.athena.bob-cli-q5.7.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.7.1.1](../bbugyi200.athena.bob-cli-q5.7.1.1/README.md) | bob-cli-q5 hood | completed |
