@@ -12,10 +12,45 @@
 - Provider: codex
 - Timing: 20261127134201
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/capture\_type\_lead\_words/capture\_type\_lead\_words\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127134201/capture\_type\_lead\_word… |
+| `diagrams` | {considered: 12, count: 2, manifest: 202611/capture\_type\_lead\_words/capture\_type\_lead\_words.diagrams.md, source\_ref: file:explicit:e2f432430b772f3b0025ffc3, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/capture_type_lead_words/capture_type_lead_words_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127134201/capture_type_lead_words_infographic-063e538c7f2c.png
+  ref: file:explicit:1be85ebfd0719d2ac72fa93a
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/capture_type_lead_words/capture_type_lead_words_infographic.png
+- kind: markdown
+  label: diagrams:202611/capture_type_lead_words/capture_type_lead_words.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127134201/capture_type_lead_words.diagrams-c108e49880bb.md
+  ref: file:explicit:306d456bf79938de50762baf
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/capture_type_lead_words/capture_type_lead_words.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 12
+count: 2
+manifest: 202611/capture_type_lead_words/capture_type_lead_words.diagrams.md
+source_ref: file:explicit:e2f432430b772f3b0025ffc3
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

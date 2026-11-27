@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6o.linker
 
-**Global name:** `bbugyi200.apollo.research.6o.linker` · **State:** waiting · **Source run:** `run-ae14e61226a9230f40785caab16020b2`
+**Global name:** `bbugyi200.apollo.research.6o.linker` · **State:** completed · **Source run:** `run-ae14e61226a9230f40785caab16020b2`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 20261127132141
+- Timing: 2026-11-27T19:24:47.219002+00:00 → 2026-11-27T19:34:25.154933+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/tree\_note\_link\_walks/tree\_note\_link\_walks.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127132141/tree\_note\_link\_walks-72227f3298a6.m… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/tree_note_link_walks/tree_note_link_walks.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127132141/tree_note_link_walks-72227f3298a6.md
+  ref: file:explicit:da102db0dbf82c7ba7434a47
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/tree_note_link_walks/tree_note_link_walks.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

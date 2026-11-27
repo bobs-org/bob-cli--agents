@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6q.image
 
-**Global name:** `bbugyi200.apollo.research.6q.image` · **State:** waiting · **Source run:** `run-e23626e0bea1b60a14e3bc8b2bc318dc`
+**Global name:** `bbugyi200.apollo.research.6q.image` · **State:** completed · **Source run:** `run-e23626e0bea1b60a14e3bc8b2bc318dc`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,42 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261127135234
+- Timing: 2026-11-27T19:26:01.247701+00:00 → 2026-11-27T19:33:33.593430+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: image:202611/ctrl\_jk\_section\_hud/ctrl\_jk\_section\_hud\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127135234/ctrl\_jk\_section\_hud\_infographi… |
+| `diagrams` | {considered: 16, count: 0, reason: Considered 16: continuity would be a comparison table in boxes; navigation repeats the facts table; sizing repeats complete branch rules; lifetime repeats existing… |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: image:202611/ctrl_jk_section_hud/ctrl_jk_section_hud_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127135234/ctrl_jk_section_hud_infographic-d6b4a59c2556.png
+  ref: file:explicit:d7dcbdf6b342005afad2a274
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/ctrl_jk_section_hud/ctrl_jk_section_hud_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 16
+count: 0
+reason: Considered 16: continuity would be a comparison table in boxes; navigation repeats the facts table; sizing repeats complete branch rules; lifetime repeats existing Mermaid; parity repeats reliability item 2; alternatives repeats its table or invents ranking; ownership repeats binding/callback rules; placement repeats the numbered branches; passive is a short stated causal chain; failure repeats a single complete rule; state combines independent guards without supported ordering; phases repeats scope or invents sequencing; disputes repeats the resolution table; validation repeats the implementation table; preferences is an independent list; evidence is an inventory without dependency structure.
+source_ref: file:explicit:787ba742afc9537a9111b12f
+status: none
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
