@@ -54,7 +54,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-o6.6](../../sessions/bbugyi200.athena.bob-cli-o6.6.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-o6.6](../../sessions/bbugyi200.athena.bob-cli-o6.6.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-o6.6.1.1](../bbugyi200.athena.bob-cli-o6.6.1.1/README.md) | bob-cli-o6.6.1 hood | completed |
 | [bob-cli-o6.6.1.3](../bbugyi200.athena.bob-cli-o6.6.1.3/README.md) | bob-cli-o6.6.1 hood | completed |
 | [bob-cli-o6.6.1.4](../bbugyi200.athena.bob-cli-o6.6.1.4/README.md) | bob-cli-o6.6.1 hood | completed |
@@ -63,7 +63,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-o6.1](../../sessions/bbugyi200.athena.bob-cli-o6.1.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.2](../../sessions/bbugyi200.athena.bob-cli-o6.2.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.3](../../sessions/bbugyi200.athena.bob-cli-o6.3.md) (session · 3) | bob-cli-o6 hood | completed 3 |
-| [bob-cli-o6.4](../../sessions/bbugyi200.athena.bob-cli-o6.4.md) (session · 3) | bob-cli-o6 hood | active 1, completed 2 |
+| [bob-cli-o6.4](../../sessions/bbugyi200.athena.bob-cli-o6.4.md) (session · 3) | bob-cli-o6 hood | completed 2, dismissed 1 |
 | [bob-cli-o6.4.1.1](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.1.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.4.1.2](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.2.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.4.1.3](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.3.md) (session · 3) | bob-cli-o6 hood | completed 3 |

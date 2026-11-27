@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`ce0dcc5`](https://github.com/bobs-org/bob-cli/commit/ce0dcc54cec50104991b4ad943de0566e7eba2b6) | feat(records): apply grouped walk updates | 2026-11-21 08:58:17 EST |
+| — | `ce0dcc5` | feat(records): apply grouped walk updates | 2026-11-21 08:58:17 EST |
 
 ## Neighbors
 
@@ -36,7 +36,7 @@
 | [bob-cli-oj.1](../../sessions/bbugyi200.athena.bob-cli-oj.1.md) (session · 6) | bob-cli-oj hood | active 1, completed 4, failed 1 |
 | [bob-cli-oj.2](../bbugyi200.athena.bob-cli-oj.2/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.4](../../sessions/bbugyi200.athena.bob-cli-oj.4.md) (session · 7) | bob-cli-oj hood | completed 6, failed 1 |
-| [bob-cli-oj.5](../../sessions/bbugyi200.athena.bob-cli-oj.5.md) (session · 3) | bob-cli-oj hood | active 1, completed 2 |
+| [bob-cli-oj.5](../../sessions/bbugyi200.athena.bob-cli-oj.5.md) (session · 3) | bob-cli-oj hood | completed 2, dismissed 1 |
 | [bob-cli-oj.5.1.1](../bbugyi200.athena.bob-cli-oj.5.1.1/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.5.1.2](../bbugyi200.athena.bob-cli-oj.5.1.2/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.5.1.3](../bbugyi200.athena.bob-cli-oj.5.1.3/README.md) | bob-cli-oj hood | completed |

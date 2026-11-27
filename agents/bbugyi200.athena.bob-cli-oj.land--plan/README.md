@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`f3cf08c`](https://github.com/bobs-org/bob-cli/commit/f3cf08c40139dda1ff9fa9d239cc2374099c7a50) | docs(glossary): regenerate the reference glossary for the grouped-walk strands | 2026-11-21 21:14:08 EST |
+| — | `f3cf08c` | docs(glossary): regenerate the reference glossary for the grouped-walk strands | 2026-11-21 21:14:08 EST |
 
 ## Variables
 
@@ -75,7 +75,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-oj.3.1.4](../bbugyi200.athena.bob-cli-oj.3.1.4/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.3.1.land](../../sessions/bbugyi200.athena.bob-cli-oj.3.1.land.md) (session · 3) | bob-cli-oj hood | completed 3 |
 | [bob-cli-oj.4](../../sessions/bbugyi200.athena.bob-cli-oj.4.md) (session · 7) | bob-cli-oj hood | completed 6, failed 1 |
-| [bob-cli-oj.5](../../sessions/bbugyi200.athena.bob-cli-oj.5.md) (session · 3) | bob-cli-oj hood | active 1, completed 2 |
+| [bob-cli-oj.5](../../sessions/bbugyi200.athena.bob-cli-oj.5.md) (session · 3) | bob-cli-oj hood | completed 2, dismissed 1 |
 | [bob-cli-oj.5.1.1](../bbugyi200.athena.bob-cli-oj.5.1.1/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.5.1.2](../bbugyi200.athena.bob-cli-oj.5.1.2/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.5.1.3](../bbugyi200.athena.bob-cli-oj.5.1.3/README.md) | bob-cli-oj hood | completed |

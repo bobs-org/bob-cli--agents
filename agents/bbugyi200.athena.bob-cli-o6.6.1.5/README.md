@@ -24,7 +24,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`cb9f8fa`](https://github.com/bobs-org/bob-cli/commit/cb9f8fadd227f1cac8b86047a150854e1ab908bd) | docs(reference): trim vault-format under the reference word cap and fix a capture anchor | 2026-11-21 14:08:18 EST |
+| — | `cb9f8fa` | docs(reference): trim vault-format under the reference word cap and fix a capture anchor | 2026-11-21 14:08:18 EST |
 
 ## Variables
 
@@ -73,7 +73,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-o6.6](../../sessions/bbugyi200.athena.bob-cli-o6.6.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-o6.6](../../sessions/bbugyi200.athena.bob-cli-o6.6.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-o6.6.1.1](../bbugyi200.athena.bob-cli-o6.6.1.1/README.md) | bob-cli-o6.6.1 hood | completed |
 | [bob-cli-o6.6.1.2](../../sessions/bbugyi200.athena.bob-cli-o6.6.1.2.md) (session · 23) | bob-cli-o6.6.1 hood | completed 12, failed 11 |
 | [bob-cli-o6.6.1.3](../bbugyi200.athena.bob-cli-o6.6.1.3/README.md) | bob-cli-o6.6.1 hood | completed |
@@ -82,7 +82,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-o6.1](../../sessions/bbugyi200.athena.bob-cli-o6.1.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.2](../../sessions/bbugyi200.athena.bob-cli-o6.2.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.3](../../sessions/bbugyi200.athena.bob-cli-o6.3.md) (session · 3) | bob-cli-o6 hood | completed 3 |
-| [bob-cli-o6.4](../../sessions/bbugyi200.athena.bob-cli-o6.4.md) (session · 3) | bob-cli-o6 hood | active 1, completed 2 |
+| [bob-cli-o6.4](../../sessions/bbugyi200.athena.bob-cli-o6.4.md) (session · 3) | bob-cli-o6 hood | completed 2, dismissed 1 |
 | [bob-cli-o6.4.1.1](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.1.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.4.1.2](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.2.md) (session · 3) | bob-cli-o6 hood | completed 3 |
 | [bob-cli-o6.4.1.3](../../sessions/bbugyi200.athena.bob-cli-o6.4.1.3.md) (session · 3) | bob-cli-o6 hood | completed 3 |

@@ -22,7 +22,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`016cb00`](https://github.com/bobs-org/bob-cli/commit/016cb00845d6e85c9149744eed25208fffac3b1a) | docs(glossary): record grouped walks and group stops in record-note and walker-footer | 2026-11-21 20:10:48 EST |
+| — | `016cb00` | docs(glossary): record grouped walks and group stops in record-note and walker-footer | 2026-11-21 20:10:48 EST |
 
 ## Neighbors
 
@@ -37,7 +37,7 @@
 | [bob-cli-oj.3.1.4](../bbugyi200.athena.bob-cli-oj.3.1.4/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.3.1.land](../../sessions/bbugyi200.athena.bob-cli-oj.3.1.land.md) (session · 3) | bob-cli-oj hood | completed 3 |
 | [bob-cli-oj.4](../../sessions/bbugyi200.athena.bob-cli-oj.4.md) (session · 7) | bob-cli-oj hood | completed 6, failed 1 |
-| [bob-cli-oj.5](../../sessions/bbugyi200.athena.bob-cli-oj.5.md) (session · 3) | bob-cli-oj hood | active 1, completed 2 |
+| [bob-cli-oj.5](../../sessions/bbugyi200.athena.bob-cli-oj.5.md) (session · 3) | bob-cli-oj hood | completed 2, dismissed 1 |
 | [bob-cli-oj.5.1.1](../bbugyi200.athena.bob-cli-oj.5.1.1/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.5.1.2](../bbugyi200.athena.bob-cli-oj.5.1.2/README.md) | bob-cli-oj hood | completed |
 | [bob-cli-oj.5.1.3](../bbugyi200.athena.bob-cli-oj.5.1.3/README.md) | bob-cli-oj hood | completed |
