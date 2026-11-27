@@ -23,6 +23,15 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-qj.5.1.1](../bbugyi200.apollo.bob-cli-qj.5.1.1/README.md) | descendant | active |
+| [bob-cli-qj.5.1.2](../../sessions/bbugyi200.apollo.bob-cli-qj.5.1.2.md) (session · 2) | descendant | active 1, completed 1 |
+| [bob-cli-qj.5.1.3](../bbugyi200.apollo.bob-cli-qj.5.1.3/README.md) | descendant | waiting |
+| [bob-cli-qj.5.1.4](../bbugyi200.apollo.bob-cli-qj.5.1.4/README.md) | descendant | waiting |
+| [bob-cli-qj.5.1.5](../bbugyi200.apollo.bob-cli-qj.5.1.5/README.md) | descendant | waiting |
+| [bob-cli-qj.5.1.6](../bbugyi200.apollo.bob-cli-qj.5.1.6/README.md) | descendant | waiting |
+| [bob-cli-qj.5.1.7](../bbugyi200.apollo.bob-cli-qj.5.1.7/README.md) | descendant | waiting |
+| [bob-cli-qj.5.1.8](../bbugyi200.apollo.bob-cli-qj.5.1.8/README.md) | descendant | waiting |
+| [bob-cli-qj.5.1.land](../bbugyi200.apollo.bob-cli-qj.5.1.land/README.md) | descendant | waiting |
 | [bob-cli-qj.1](../bbugyi200.apollo.bob-cli-qj.1/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.2](../bbugyi200.apollo.bob-cli-qj.2/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.3](../bbugyi200.apollo.bob-cli-qj.3/README.md) | bob-cli-qj hood | completed |

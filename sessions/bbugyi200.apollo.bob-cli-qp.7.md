@@ -33,5 +33,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-qp.4](../agents/bbugyi200.apollo.bob-cli-qp.4/README.md) | bob-cli-qp hood | completed |
 | [bob-cli-qp.5](../agents/bbugyi200.apollo.bob-cli-qp.5/README.md) | bob-cli-qp hood | completed |
 | [bob-cli-qp.6](../agents/bbugyi200.apollo.bob-cli-qp.6/README.md) | bob-cli-qp hood | completed |
+| [bob-cli-qp.8](bbugyi200.apollo.bob-cli-qp.8.md) (session · 3) | bob-cli-qp hood | completed 3 |
 | [bob-cli-qp.8](../agents/bbugyi200.apollo.bob-cli-qp.8/README.md) | bob-cli-qp hood | completed |
 | [bob-cli-qp.land](../agents/bbugyi200.apollo.bob-cli-qp.land/README.md) | bob-cli-qp hood | waiting |
