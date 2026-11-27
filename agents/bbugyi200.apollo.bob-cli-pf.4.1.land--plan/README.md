@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / [bob-cli-pf.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.land.md) / bob-cli-pf.4.1.land--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.4.1.land--plan` · **State:** active · **Source run:** `run-1c058649be6d0428b3192dd792884b38`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.4.1.land--plan` · **State:** dismissed · **Source run:** `run-1c058649be6d0428b3192dd792884b38`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
@@ -11,7 +11,7 @@
 - Bead: [bob-cli-pf.4.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/bob-cli-pf.4.1.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-23T07:52:29.698115+00:00 → 2026-11-23T08:09:55.365091+00:00
+- Timing: 2026-11-23T02:52:29.698115 → 2026-11-23T03:09:55.921733
 - Commits: 0
 
 ## Files
@@ -22,7 +22,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-pf.4](../../sessions/bbugyi200.apollo.bob-cli-pf.4.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-pf.4](../../sessions/bbugyi200.apollo.bob-cli-pf.4.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-pf.4.1.1](../bbugyi200.apollo.bob-cli-pf.4.1.1/README.md) | bob-cli-pf.4.1 hood | completed |
 | [bob-cli-pf.4.1.2](../bbugyi200.apollo.bob-cli-pf.4.1.2/README.md) | bob-cli-pf.4.1 hood | completed |
 | [bob-cli-pf.4.1.3](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.3.md) (session · 5) | bob-cli-pf.4.1 hood | completed 3, failed 2 |
@@ -34,14 +34,14 @@
 | [bob-cli-pf.4.1.7.3](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.3.md) (session · 13) | bob-cli-pf.4.1 hood | completed 7, failed 6 |
 | [bob-cli-pf.4.1.7.4](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.4.md) (session · 21) | bob-cli-pf.4.1 hood | completed 12, failed 9 |
 | [bob-cli-pf.4.1.7.land](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.land.md) (session · 3) | bob-cli-pf.4.1 hood | completed 3 |
-| [bob-cli-pf.1](../../sessions/bbugyi200.apollo.bob-cli-pf.1.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
+| [bob-cli-pf.1](../../sessions/bbugyi200.apollo.bob-cli-pf.1.md) (session · 3) | bob-cli-pf hood | completed 2, dismissed 1 |
 | [bob-cli-pf.1.1.1](../../sessions/bbugyi200.apollo.bob-cli-pf.1.1.1.md) (session · 13) | bob-cli-pf hood | completed 7, failed 6 |
 | [bob-cli-pf.1.1.2](../bbugyi200.apollo.bob-cli-pf.1.1.2/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.1.1.3](../bbugyi200.apollo.bob-cli-pf.1.1.3/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.1.1.4](../../sessions/bbugyi200.apollo.bob-cli-pf.1.1.4.md) (session · 7) | bob-cli-pf hood | completed 4, failed 3 |
 | [bob-cli-pf.1.1.5](../bbugyi200.apollo.bob-cli-pf.1.1.5/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.1.1.land](../../sessions/bbugyi200.apollo.bob-cli-pf.1.1.land.md) (session · 3) | bob-cli-pf hood | completed 3 |
-| [bob-cli-pf.2](../../sessions/bbugyi200.apollo.bob-cli-pf.2.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
+| [bob-cli-pf.2](../../sessions/bbugyi200.apollo.bob-cli-pf.2.md) (session · 3) | bob-cli-pf hood | completed 2, dismissed 1 |
 | [bob-cli-pf.2.1.1](../../sessions/bbugyi200.apollo.bob-cli-pf.2.1.1.md) (session · 3) | bob-cli-pf hood | completed 3 |
 | [bob-cli-pf.2.1.2](../../sessions/bbugyi200.apollo.bob-cli-pf.2.1.2.md) (session · 5) | bob-cli-pf hood | completed 4, failed 1 |
 | [bob-cli-pf.2.1.3](../bbugyi200.apollo.bob-cli-pf.2.1.3/README.md) | bob-cli-pf hood | completed |
