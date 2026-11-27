@@ -1,0 +1,1 @@
+#gh:gh_bobs-org__bob-cli Can you help me fix any failing tests in the bob-plugins repo? #plan %m:@xlarge
