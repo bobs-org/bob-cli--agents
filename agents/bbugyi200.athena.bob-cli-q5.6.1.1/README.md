@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.6.1.1
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.6.1.1` · **State:** active · **Source run:** `run-5351fb713de971eb860abfdcb4039414`
+**Global name:** `bbugyi200.athena.bob-cli-q5.6.1.1` · **State:** completed · **Source run:** `run-5351fb713de971eb860abfdcb4039414`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q5.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.6.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-27T06:36:07.400754+00:00
-- Commits: 0
+- Timing: 2026-11-27T06:36:07.400754+00:00 → 2026-11-27T07:14:42.609746+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`ee21fdf`](https://github.com/bobs-org/bob-cli/commit/ee21fdff6c84c1407a21ba6aa80f442b273a7941) | test(snooze): enable JS runner for snooze vectors | 2026-11-27 02:12:17 EST |
 
 ## Neighbors
 
@@ -76,6 +82,6 @@
 | [bob-cli-q5.8.1.6.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.1.md) (session · 13) | bob-cli-q5 hood | completed 10, failed 3 |
 | [bob-cli-q5.8.1.6.2](../bbugyi200.athena.bob-cli-q5.8.1.6.2/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.8.1.6.3](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.3.md) (session · 7) | bob-cli-q5 hood | completed 5, failed 2 |
-| [bob-cli-q5.8.1.6.4](../bbugyi200.athena.bob-cli-q5.8.1.6.4/README.md) | bob-cli-q5 hood | waiting |
+| [bob-cli-q5.8.1.6.4](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.4.md) (session · 4) | bob-cli-q5 hood | active 1, completed 2, failed 1 |
 | [bob-cli-q5.8.1.6.5](../bbugyi200.athena.bob-cli-q5.8.1.6.5/README.md) | bob-cli-q5 hood | waiting |
 | … and 4 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) | bob-cli-q5 hood | — |
