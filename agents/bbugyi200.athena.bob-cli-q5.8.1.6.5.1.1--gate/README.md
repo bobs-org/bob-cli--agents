@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) / bob-cli-q5.8.1.6.5.1.1--gate
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1--gate` · **State:** active · **Source run:** `run-fdc8ae29bf6eae40d5304efec200479d`
+**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1--gate` · **State:** completed · **Source run:** `run-fdc8ae29bf6eae40d5304efec200479d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,8 +12,12 @@
 - Epic: [bob-cli-q5.8.1.6.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.8.1.6.5.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-27T12:19:28.606535+00:00
+- Timing: 2026-11-27T12:24:47.915472+00:00 → 2026-11-27T12:25:07.152040+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -75,7 +79,7 @@
 | [bob-cli-q5.6.1.2](../bbugyi200.athena.bob-cli-q5.6.1.2/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.6.1.3](../bbugyi200.athena.bob-cli-q5.6.1.3/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.6.1.4](../bbugyi200.athena.bob-cli-q5.6.1.4/README.md) | bob-cli-q5 hood | completed |
-| [bob-cli-q5.6.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.6.1.land.md) (session · 3) | bob-cli-q5 hood | active 2, completed 1 |
+| [bob-cli-q5.6.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.6.1.land.md) (session · 6) | bob-cli-q5 hood | completed 6 |
 | [bob-cli-q5.7](../../sessions/bbugyi200.athena.bob-cli-q5.7.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.7.1.1](../bbugyi200.athena.bob-cli-q5.7.1.1/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.7.1.2](../../sessions/bbugyi200.athena.bob-cli-q5.7.1.2.md) (session · 3) | bob-cli-q5 hood | completed 2, failed 1 |
