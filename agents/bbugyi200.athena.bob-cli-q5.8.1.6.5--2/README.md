@@ -23,7 +23,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-q5.8](../../sessions/bbugyi200.athena.bob-cli-q5.8.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 8) | descendant | active 1, completed 7 |
+| [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 18) | descendant | active 1, completed 15, failed 2 |
 | [bob-cli-q5.8.1.6.5.1.2](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.2/README.md) | descendant | waiting |
 | [bob-cli-q5.8.1.6.5.1.3](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.3/README.md) | descendant | waiting |
 | [bob-cli-q5.8.1.6.5.1.4](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.4/README.md) | descendant | waiting |

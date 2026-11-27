@@ -49,7 +49,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-q5.8](bbugyi200.athena.bob-cli-q5.8.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-q5.8.1.6.5.1.1](bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 8) | descendant | active 1, completed 7 |
+| [bob-cli-q5.8.1.6.5.1.1](bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 18) | descendant | active 1, completed 15, failed 2 |
 | [bob-cli-q5.8.1.6.5.1.2](../agents/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.2/README.md) | descendant | waiting |
 | [bob-cli-q5.8.1.6.5.1.3](../agents/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.3/README.md) | descendant | waiting |
 | [bob-cli-q5.8.1.6.5.1.4](../agents/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.4/README.md) | descendant | waiting |

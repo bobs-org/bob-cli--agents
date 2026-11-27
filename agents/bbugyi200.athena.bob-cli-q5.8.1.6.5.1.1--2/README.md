@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) / bob-cli-q5.8.1.6.5.1.1--2
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1--2` · **State:** completed · **Source run:** `run-54bb4d8136fdc553213d615d82948479`
+**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1--2` · **State:** completed · **Source run:** `run-cd76f080ebccd473b41191f42150b995`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
 ## Summary
 
 - Bead: [bob-cli-q5.8.1.6.5.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.8.1.6.5.1.1.md)
-- Model: muse-spark-1.3-contributor
-- Provider: muse
-- Timing: 2026-11-27T13:03:45.779835+00:00 → 2026-11-27T13:13:15.068286+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-27T16:04:36.670942+00:00 → 2026-11-27T16:14:19.875300+00:00
 - Commits: 0
 
 ## Files
