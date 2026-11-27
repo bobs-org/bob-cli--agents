@@ -80,7 +80,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 |---|---|---|
 | [bob-cli-qq.10.2](../bbugyi200.apollo.bob-cli-qq.10.2/README.md) | bob-cli-qq.10 hood | completed |
 | [bob-cli-qq.10.3](../../sessions/bbugyi200.apollo.bob-cli-qq.10.3.md) (session · 3) | bob-cli-qq.10 hood | completed 2, failed 1 |
-| [bob-cli-qq.10.4](../bbugyi200.apollo.bob-cli-qq.10.4/README.md) | bob-cli-qq.10 hood | active |
+| [bob-cli-qq.10.4](../bbugyi200.apollo.bob-cli-qq.10.4/README.md) | bob-cli-qq.10 hood | completed |
 | [bob-cli-qq.10.5](../bbugyi200.apollo.bob-cli-qq.10.5/README.md) | bob-cli-qq.10 hood | waiting |
 | [bob-cli-qq.10.6](../bbugyi200.apollo.bob-cli-qq.10.6/README.md) | bob-cli-qq.10 hood | waiting |
 | [bob-cli-qq.10.land](../bbugyi200.apollo.bob-cli-qq.10.land/README.md) | bob-cli-qq.10 hood | waiting |
