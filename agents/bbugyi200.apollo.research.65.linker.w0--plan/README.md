@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / [research.65.linker.w0](../../sessions/bbugyi200.apollo.research.65.linker.w0.md) / research.65.linker.w0--plan
 
-**Global name:** `bbugyi200.apollo.research.65.linker.w0--plan` · **State:** active · **Source run:** `run-3b46c01343e9f6953c76ffe17b2b02a8`
+**Global name:** `bbugyi200.apollo.research.65.linker.w0--plan` · **State:** dismissed · **Source run:** `run-3b46c01343e9f6953c76ffe17b2b02a8`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,7 +10,7 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-24T15:02:34.299723+00:00
+- Timing: 2026-11-24T10:02:34.299723 → 2026-11-24T10:34:07.911411
 - Commits: 0
 
 ## Files
