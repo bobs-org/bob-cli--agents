@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6o.cld
 
-**Global name:** `bbugyi200.apollo.research.6o.cld` · **State:** active · **Source run:** `run-670abeb660dd63561e19a30b9128d6a5`
+**Global name:** `bbugyi200.apollo.research.6o.cld` · **State:** completed · **Source run:** `run-670abeb660dd63561e19a30b9128d6a5`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-27T18:23:01.870367+00:00
+- Timing: 2026-11-27T18:23:01.870367+00:00 → 2026-11-27T18:42:32.142309+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/area\_project\_notebook\_prose\_link\_walks\_\_cld.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127132135/area\_project\_notebook\_prose\_link\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/area_project_notebook_prose_link_walks__cld.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127132135/area_project_notebook_prose_link_walks__cld-12d9b3c15457.md
+  ref: file:explicit:1476689f18780e5d975daaa1
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/area_project_notebook_prose_link_walks__cld.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -23,7 +42,7 @@
 |---|---|---|
 | [research.6o.cdx](../bbugyi200.apollo.research.6o.cdx/README.md) | research.6o hood | completed |
 | [research.6o.final](../bbugyi200.apollo.research.6o.final/README.md) | research.6o hood | waiting |
-| [research.6o.gem](../bbugyi200.apollo.research.6o.gem/README.md) | research.6o hood | active |
+| [research.6o.gem](../bbugyi200.apollo.research.6o.gem/README.md) | research.6o hood | completed |
 | [research.6o.grk](../bbugyi200.apollo.research.6o.grk/README.md) | research.6o hood | completed |
 | [research.6o.image](../bbugyi200.apollo.research.6o.image/README.md) | research.6o hood | waiting |
 | [research.6o.linker](../bbugyi200.apollo.research.6o.linker/README.md) | research.6o hood | waiting |
@@ -78,4 +97,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 1285 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 1287 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

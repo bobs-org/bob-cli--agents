@@ -22,9 +22,9 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.6o.cdx](../bbugyi200.apollo.research.6o.cdx/README.md) | research.6o hood | completed |
-| [research.6o.cld](../bbugyi200.apollo.research.6o.cld/README.md) | research.6o hood | active |
+| [research.6o.cld](../bbugyi200.apollo.research.6o.cld/README.md) | research.6o hood | completed |
 | [research.6o.final](../bbugyi200.apollo.research.6o.final/README.md) | research.6o hood | waiting |
-| [research.6o.gem](../bbugyi200.apollo.research.6o.gem/README.md) | research.6o hood | active |
+| [research.6o.gem](../bbugyi200.apollo.research.6o.gem/README.md) | research.6o hood | completed |
 | [research.6o.grk](../bbugyi200.apollo.research.6o.grk/README.md) | research.6o hood | completed |
 | [research.6o.image](../bbugyi200.apollo.research.6o.image/README.md) | research.6o hood | waiting |
 | [research.6o.mus](../bbugyi200.apollo.research.6o.mus/README.md) | research.6o hood | completed |
@@ -78,4 +78,4 @@
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 1285 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 1287 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
