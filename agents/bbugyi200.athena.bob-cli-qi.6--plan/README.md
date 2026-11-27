@@ -35,5 +35,5 @@
 | [bob-cli-qi.3](../../sessions/bbugyi200.athena.bob-cli-qi.3.md) (session · 3) | bob-cli-qi hood | completed 2, failed 1 |
 | [bob-cli-qi.4](../../sessions/bbugyi200.athena.bob-cli-qi.4.md) (session · 3) | bob-cli-qi hood | completed 3 |
 | [bob-cli-qi.5](../bbugyi200.athena.bob-cli-qi.5/README.md) | bob-cli-qi hood | completed |
-| [bob-cli-qi.land](../../sessions/bbugyi200.athena.bob-cli-qi.land.md) (session · 20) | bob-cli-qi hood | active 1, completed 14, failed 5 |
+| [bob-cli-qi.land](../../sessions/bbugyi200.athena.bob-cli-qi.land.md) (session · 32) | bob-cli-qi hood | active 1, completed 22, failed 9 |
 | [bob-cli-qi.land](../bbugyi200.athena.bob-cli-qi.land/README.md) | bob-cli-qi hood | completed |
