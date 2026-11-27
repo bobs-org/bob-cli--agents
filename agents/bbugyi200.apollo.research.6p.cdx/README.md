@@ -12,16 +12,41 @@
 - Provider: codex
 - Timing: 2026-11-27T18:43:20.973541+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/capture\_task\_type\_prefix\_completion\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127134153/capture\_task\_type\_prefix\_completion\_… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/capture_task_type_prefix_completion__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127134153/capture_task_type_prefix_completion__cdx-b7c034979e0e.md
+  ref: file:explicit:03ccf9ac81b6109a5d3383f0
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/capture_task_type_prefix_completion__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.6p.cld](../bbugyi200.apollo.research.6p.cld/README.md) | research.6p hood | active |
+| [research.6p.final](../bbugyi200.apollo.research.6p.final/README.md) | research.6p hood | waiting |
+| [research.6p.gem](../bbugyi200.apollo.research.6p.gem/README.md) | research.6p hood | active |
+| [research.6p.grk](../bbugyi200.apollo.research.6p.grk/README.md) | research.6p hood | active |
+| [research.6p.image](../bbugyi200.apollo.research.6p.image/README.md) | research.6p hood | waiting |
+| [research.6p.linker](../bbugyi200.apollo.research.6p.linker/README.md) | research.6p hood | waiting |
+| [research.6p.mus](../bbugyi200.apollo.research.6p.mus/README.md) | research.6p hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
 | [research.0.final](../bbugyi200.apollo.research.0.final/README.md) | research hood | completed |
