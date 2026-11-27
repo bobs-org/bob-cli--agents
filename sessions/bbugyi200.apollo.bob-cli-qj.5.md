@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-qj.5.1.4](../agents/bbugyi200.apollo.bob-cli-qj.5.1.4/README.md) | descendant | completed |
 | [bob-cli-qj.5.1.5](bbugyi200.apollo.bob-cli-qj.5.1.5.md) (session · 3) | descendant | completed 2, failed 1 |
 | [bob-cli-qj.5.1.6](../agents/bbugyi200.apollo.bob-cli-qj.5.1.6/README.md) | descendant | completed |
-| [bob-cli-qj.5.1.7](../agents/bbugyi200.apollo.bob-cli-qj.5.1.7/README.md) | descendant | waiting |
+| [bob-cli-qj.5.1.7](bbugyi200.apollo.bob-cli-qj.5.1.7.md) (session · 3) | descendant | active 1, completed 1, failed 1 |
 | [bob-cli-qj.5.1.8](../agents/bbugyi200.apollo.bob-cli-qj.5.1.8/README.md) | descendant | completed |
 | [bob-cli-qj.5.1.land](../agents/bbugyi200.apollo.bob-cli-qj.5.1.land/README.md) | descendant | waiting |
 | [bob-cli-qj.1](../agents/bbugyi200.apollo.bob-cli-qj.1/README.md) | bob-cli-qj hood | completed |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6o.image
 
-**Global name:** `bbugyi200.apollo.research.6o.image` · **State:** waiting · **Source run:** `run-1b03e673a9af1ee30c995e321b037642`
+**Global name:** `bbugyi200.apollo.research.6o.image` · **State:** completed · **Source run:** `run-1b03e673a9af1ee30c995e321b037642`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,19 +10,20 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261127132140
+- Timing: 2026-11-27T19:01:54.503264+00:00 → 2026-11-27T19:14:17.045358+00:00
 - Commits: 0
-- Variables: [1](#variables)
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
 | Variable | Value |
 |---|---|
 | `artifacts` | \[{kind: markdown, label: diagrams:202611/tree\_note\_link\_walks/tree\_note\_link\_walks.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127132140/tree\_note\_link\_walks.diagr… |
+| `diagrams` | {considered: 17, count: 2, manifest: 202611/tree\_note\_link\_walks/tree\_note\_link\_walks.diagrams.md, source\_ref: file:explicit:9a5f53bb1e0663a510af8892, status: ready} |
 
 #### artifacts
 
@@ -32,6 +33,21 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127132140/tree_note_link_walks.diagrams-438b385b62b4.md
   ref: file:explicit:c3ca22cd84f54975cd24838b
   source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/tree_note_link_walks/tree_note_link_walks.diagrams.md
+- kind: image
+  label: infographic:202611/tree_note_link_walks/tree_note_link_walks_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127132140/tree_note_link_walks_infographic-e82b1d698190.png
+  ref: file:explicit:90c4dcc431bcca1d477e5b11
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/tree_note_link_walks/tree_note_link_walks_infographic.png
+```
+
+#### diagrams
+
+```yaml
+considered: 17
+count: 2
+manifest: 202611/tree_note_link_walks/tree_note_link_walks.diagrams.md
+source_ref: file:explicit:9a5f53bb1e0663a510af8892
+status: ready
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.

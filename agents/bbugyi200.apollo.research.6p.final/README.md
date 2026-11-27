@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6p.final
 
-**Global name:** `bbugyi200.apollo.research.6p.final` · **State:** waiting · **Source run:** `run-b7e4071108289840a9d55bb0588f490e`
+**Global name:** `bbugyi200.apollo.research.6p.final` · **State:** completed · **Source run:** `run-b7e4071108289840a9d55bb0588f490e`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261127134200
+- Timing: 2026-11-27T19:04:07.638983+00:00 → 2026-11-27T19:21:29.076419+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/capture\_type\_lead\_words/capture\_type\_lead\_words\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127134200/capture\_type\_lead\_word… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/capture_type_lead_words/capture_type_lead_words__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127134200/capture_type_lead_words__final-71115f4a9dd2.md
+  ref: file:explicit:e2f432430b772f3b0025ffc3
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/capture_type_lead_words/capture_type_lead_words__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
