@@ -29,5 +29,5 @@
 | [bob-cli-qq.5](../bbugyi200.apollo.bob-cli-qq.5/README.md) | bob-cli-qq hood | completed |
 | [bob-cli-qq.6](../bbugyi200.apollo.bob-cli-qq.6/README.md) | bob-cli-qq hood | completed |
 | [bob-cli-qq.7](../bbugyi200.apollo.bob-cli-qq.7/README.md) | bob-cli-qq hood | completed |
-| [bob-cli-qq.8](../../sessions/bbugyi200.apollo.bob-cli-qq.8.md) (session · 3) | bob-cli-qq hood | active 1, completed 1, failed 1 |
+| [bob-cli-qq.8](../../sessions/bbugyi200.apollo.bob-cli-qq.8.md) (session · 7) | bob-cli-qq hood | active 1, completed 3, failed 3 |
 | [bob-cli-qq.9](../bbugyi200.apollo.bob-cli-qq.9/README.md) | bob-cli-qq hood | waiting |
