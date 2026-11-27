@@ -24,5 +24,5 @@
 |---|---|---|
 | [bob-cli-rc.2](../bbugyi200.athena.bob-cli-rc.2/README.md) | bob-cli-rc hood | completed |
 | [bob-cli-rc.3](../bbugyi200.athena.bob-cli-rc.3/README.md) | bob-cli-rc hood | completed |
-| [bob-cli-rc.4](../bbugyi200.athena.bob-cli-rc.4/README.md) | bob-cli-rc hood | waiting |
+| [bob-cli-rc.4](../bbugyi200.athena.bob-cli-rc.4/README.md) | bob-cli-rc hood | completed |
 | [bob-cli-rc.land](../bbugyi200.athena.bob-cli-rc.land/README.md) | bob-cli-rc hood | waiting |
