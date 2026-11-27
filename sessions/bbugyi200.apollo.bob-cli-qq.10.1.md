@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-qq.10.1--mon [failed]"]
   n1["bob-cli-qq.10.1--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-qq.10.1--1 [active]"]
+  n2["bob-cli-qq.10.1--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-qq.10.1--mon | failed | muse-spark-1.3-contributor / muse | 2026-11-27T14:46:00.495062+00:00 → 2026-11-27T14:50:33.967991+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-qq.10.1--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-qq.10.1--plan | completed | muse-spark-1.3-contributor / muse | 2026-11-27T14:15:06.930438+00:00 → 2026-11-27T14:47:24.501948+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-qq.10.1--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-qq.10.1--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-qq.10.1--1 | active | muse-spark-1.3-contributor / muse | 2026-11-27T14:50:33.473636+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-qq.10.1--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-qq.10.1--1 | completed | muse-spark-1.3-contributor / muse | 2026-11-27T14:50:33.473636+00:00 → 2026-11-27T15:54:13.452211+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-qq.10.1--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-qq.10.1--1/chat.md) |
 
 ## Variables
 
@@ -58,6 +58,24 @@ The diagram is an optional enhancement; the ordered table below contains the sam
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127094944/cabinets-perf-clean-d389775c980c.json
   ref: file:explicit:d8f654f3081a6cedbf618286
   source_path: /tmp/perf-evidence-101/cabinets-perf-clean.json
+- bead: bob-cli-qq.10.1
+  kind: file
+  label: cabinets-perf-fix7-run1.json
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127094944/cabinets-perf-run1-419980a4d69a.json
+  ref: file:explicit:6cc489fc30c1c542ac28b45f
+  source_path: /tmp/perf-evidence-102/cabinets-perf-run1.json
+- bead: bob-cli-qq.10.1
+  kind: file
+  label: cabinets-perf-fix7-run2.json
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127094944/cabinets-perf-run2-4d39d59f4ede.json
+  ref: file:explicit:123bdac55988a28deea913ed
+  source_path: /tmp/perf-evidence-102/cabinets-perf-run2.json
+- bead: bob-cli-qq.10.1
+  kind: file
+  label: cabinets-perf-fix7-shots.tar.gz
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127094944/cabinets-perf-shots.tar-a39092668634.gz
+  ref: file:explicit:99cb2b63ed9f9cb99e085f58
+  source_path: /tmp/perf-evidence-102/cabinets-perf-shots.tar.gz
 ```
 
 Values are truncated for display; see each member's agent meta.json for the full values.

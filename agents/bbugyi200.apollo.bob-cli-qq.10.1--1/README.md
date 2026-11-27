@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-qq](../../users/bbugyi200/machines/apollo/hoods/bob-cli-qq/README.md) / [bob-cli-qq.10.1](../../sessions/bbugyi200.apollo.bob-cli-qq.10.1.md) / bob-cli-qq.10.1--1
 
-**Global name:** `bbugyi200.apollo.bob-cli-qq.10.1--1` · **State:** active · **Source run:** `run-78ee4441f7e86cefe41f48dc4ce0fd5f`
+**Global name:** `bbugyi200.apollo.bob-cli-qq.10.1--1` · **State:** completed · **Source run:** `run-78ee4441f7e86cefe41f48dc4ce0fd5f`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-qq
 
@@ -11,13 +11,13 @@
 - Bead: [bob-cli-qq.10.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qq/bob-cli-qq.10.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-27T14:50:33.473636+00:00
+- Timing: 2026-11-27T14:50:33.473636+00:00 → 2026-11-27T15:54:13.452211+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -52,6 +52,24 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127094944/cabinets-perf-clean-d389775c980c.json
   ref: file:explicit:d8f654f3081a6cedbf618286
   source_path: /tmp/perf-evidence-101/cabinets-perf-clean.json
+- bead: bob-cli-qq.10.1
+  kind: file
+  label: cabinets-perf-fix7-run1.json
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127094944/cabinets-perf-run1-419980a4d69a.json
+  ref: file:explicit:6cc489fc30c1c542ac28b45f
+  source_path: /tmp/perf-evidence-102/cabinets-perf-run1.json
+- bead: bob-cli-qq.10.1
+  kind: file
+  label: cabinets-perf-fix7-run2.json
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127094944/cabinets-perf-run2-4d39d59f4ede.json
+  ref: file:explicit:123bdac55988a28deea913ed
+  source_path: /tmp/perf-evidence-102/cabinets-perf-run2.json
+- bead: bob-cli-qq.10.1
+  kind: file
+  label: cabinets-perf-fix7-shots.tar.gz
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127094944/cabinets-perf-shots.tar-a39092668634.gz
+  ref: file:explicit:99cb2b63ed9f9cb99e085f58
+  source_path: /tmp/perf-evidence-102/cabinets-perf-shots.tar.gz
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
