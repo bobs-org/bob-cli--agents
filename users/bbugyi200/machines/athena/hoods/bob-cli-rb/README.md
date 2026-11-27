@@ -2,12 +2,12 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-rb
 
-**Global hood:** `bbugyi200.athena.bob-cli-rb` · **Runs:** 10 · **Sessions:** 1 · **States:** completed 4, failed 2, waiting 4
+**Global hood:** `bbugyi200.athena.bob-cli-rb` · **Runs:** 10 · **Sessions:** 1 · **States:** completed 5, failed 2, waiting 3
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
 | [bob-cli-rb.1--1](../../../../../../sessions/bbugyi200.athena.bob-cli-rb.1.md#member-1) | completed | gpt-6-luna / codex | 2026-11-27T20:27:13.544182+00:00 → 2026-11-27T20:37:08.876629+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-rb.1--1/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-rb.1--1/chat.md) |
-| [bob-cli-rb.3](../../../../../../agents/bbugyi200.athena.bob-cli-rb.3/README.md) | waiting | gpt-6-luna / codex | 20261127150432 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-rb.3/prompt.md) |
+| [bob-cli-rb.3](../../../../../../agents/bbugyi200.athena.bob-cli-rb.3/README.md) | completed | gpt-6-luna / codex | 2026-11-27T22:20:02.973439+00:00 → 2026-11-27T22:39:08.506878+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-rb.3/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-rb.3/chat.md) |
 | [bob-cli-rb.5](../../../../../../agents/bbugyi200.athena.bob-cli-rb.5/README.md) | waiting | grok-4.6 / grok | 20261127150434 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-rb.5/prompt.md) |
 | [bob-cli-rb.1--mon](../../../../../../sessions/bbugyi200.athena.bob-cli-rb.1.md#member-mon) | failed | gpt-6-luna / codex | 2026-11-27T20:22:16.739319+00:00 → 2026-11-27T20:27:14.058781+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-rb.1--mon/chat.md) |
 | [bob-cli-rb.4](../../../../../../agents/bbugyi200.athena.bob-cli-rb.4/README.md) | waiting | grok-4.6 / grok | 20261127150433 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-rb.4/prompt.md) |
