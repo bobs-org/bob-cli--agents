@@ -31,7 +31,7 @@
 | [bob-cli-qj.5.1.6](../bbugyi200.apollo.bob-cli-qj.5.1.6/README.md) | descendant | completed |
 | [bob-cli-qj.5.1.7](../../sessions/bbugyi200.apollo.bob-cli-qj.5.1.7.md) (session · 5) | descendant | completed 3, failed 2 |
 | [bob-cli-qj.5.1.8](../bbugyi200.apollo.bob-cli-qj.5.1.8/README.md) | descendant | completed |
-| [bob-cli-qj.5.1.land](../../sessions/bbugyi200.apollo.bob-cli-qj.5.1.land.md) (session · 8) | descendant | active 1, completed 5, failed 2 |
+| [bob-cli-qj.5.1.land](../../sessions/bbugyi200.apollo.bob-cli-qj.5.1.land.md) (session · 9) | descendant | completed 7, failed 2 |
 | [bob-cli-qj.1](../bbugyi200.apollo.bob-cli-qj.1/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.2](../bbugyi200.apollo.bob-cli-qj.2/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.3](../bbugyi200.apollo.bob-cli-qj.3/README.md) | bob-cli-qj hood | completed |
