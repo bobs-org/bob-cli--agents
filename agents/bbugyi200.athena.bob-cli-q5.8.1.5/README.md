@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.8.1.5
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.5` · **State:** waiting · **Source run:** `run-9b51c51fac8633b642f3a30bdec99c3a`
+**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.5` · **State:** completed · **Source run:** `run-9b51c51fac8633b642f3a30bdec99c3a`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,12 +12,12 @@
 - Epic: [bob-cli-q5.8.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.8.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261126125542
+- Timing: 2026-11-27T00:17:26.125849+00:00 → 2026-11-27T00:39:29.216595+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -27,7 +27,7 @@
 | [bob-cli-q5.8.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.1.md) (session · 8) | bob-cli-q5.8.1 hood | completed 4, failed 4 |
 | [bob-cli-q5.8.1.2](../bbugyi200.athena.bob-cli-q5.8.1.2/README.md) | bob-cli-q5.8.1 hood | completed |
 | [bob-cli-q5.8.1.3](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.3.md) (session · 5) | bob-cli-q5.8.1 hood | completed 3, failed 2 |
-| [bob-cli-q5.8.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.4.md) (session · 14) | bob-cli-q5.8.1 hood | active 1, completed 10, failed 3 |
+| [bob-cli-q5.8.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.4.md) (session · 15) | bob-cli-q5.8.1 hood | completed 12, failed 3 |
 | [bob-cli-q5.8.1.land](../bbugyi200.athena.bob-cli-q5.8.1.land/README.md) | bob-cli-q5.8.1 hood | waiting |
 | [bob-cli-q5.1](../../sessions/bbugyi200.athena.bob-cli-q5.1.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.1.1.1](../bbugyi200.athena.bob-cli-q5.1.1.1/README.md) | bob-cli-q5 hood | completed |
@@ -60,7 +60,7 @@
 | [bob-cli-q5.5.1.2](../bbugyi200.athena.bob-cli-q5.5.1.2/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.5.1.3](../bbugyi200.athena.bob-cli-q5.5.1.3/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.5.1.4](../bbugyi200.athena.bob-cli-q5.5.1.4/README.md) | bob-cli-q5 hood | completed |
-| [bob-cli-q5.5.1.5](../../sessions/bbugyi200.athena.bob-cli-q5.5.1.5.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
+| [bob-cli-q5.5.1.5](../../sessions/bbugyi200.athena.bob-cli-q5.5.1.5.md) (session · 3) | bob-cli-q5 hood | completed 3 |
 | [bob-cli-q5.5.1.6](../bbugyi200.athena.bob-cli-q5.5.1.6/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.5.1.land](../bbugyi200.athena.bob-cli-q5.5.1.land/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.6](../bbugyi200.athena.bob-cli-q5.6/README.md) | bob-cli-q5 hood | waiting |

@@ -8,7 +8,7 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-q5` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-q5.5.1.5--1 [active]"]
+  n0["bob-cli-q5.5.1.5--1 [completed]"]
   n1["bob-cli-q5.5.1.5--mon [completed]"]
   n0 --> n1
   n2["bob-cli-q5.5.1.5--plan [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-q5.5.1.5--1 | active | gpt-6-luna / codex | 2026-11-27T00:11:43.930928+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.5.1.5--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-q5.5.1.5--1 | completed | gpt-6-luna / codex | 2026-11-27T00:11:43.930928+00:00 → 2026-11-27T00:14:12.817269+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.5.1.5--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.5.1.5--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-q5.5.1.5--mon | completed | gpt-6-luna / codex | 2026-11-27T00:05:27.702362+00:00 → 2026-11-27T00:11:44.224074+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.5.1.5--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-q5.5.1.5--plan | completed | gpt-6-luna / codex | 2026-11-26T23:38:18.591891+00:00 → 2026-11-27T00:09:30.479147+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.5.1.5--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.5.1.5--plan/chat.md) |
 
@@ -70,8 +70,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q5.8.1.1](bbugyi200.athena.bob-cli-q5.8.1.1.md) (session · 8) | bob-cli-q5 hood | completed 4, failed 4 |
 | [bob-cli-q5.8.1.2](../agents/bbugyi200.athena.bob-cli-q5.8.1.2/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.8.1.3](bbugyi200.athena.bob-cli-q5.8.1.3.md) (session · 5) | bob-cli-q5 hood | completed 3, failed 2 |
-| [bob-cli-q5.8.1.4](bbugyi200.athena.bob-cli-q5.8.1.4.md) (session · 14) | bob-cli-q5 hood | active 1, completed 10, failed 3 |
-| [bob-cli-q5.8.1.5](../agents/bbugyi200.athena.bob-cli-q5.8.1.5/README.md) | bob-cli-q5 hood | waiting |
+| [bob-cli-q5.8.1.4](bbugyi200.athena.bob-cli-q5.8.1.4.md) (session · 15) | bob-cli-q5 hood | completed 12, failed 3 |
+| [bob-cli-q5.8.1.5](../agents/bbugyi200.athena.bob-cli-q5.8.1.5/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.8.1.land](../agents/bbugyi200.athena.bob-cli-q5.8.1.land/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.9](../agents/bbugyi200.athena.bob-cli-q5.9/README.md) | bob-cli-q5 hood | waiting |
 | [bob-cli-q5.land](../agents/bbugyi200.athena.bob-cli-q5.land/README.md) | bob-cli-q5 hood | waiting |
