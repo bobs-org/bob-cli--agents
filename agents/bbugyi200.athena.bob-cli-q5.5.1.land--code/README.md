@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.5.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.5.1.land.md) / bob-cli-q5.5.1.land--code
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.5.1.land--code` · **State:** active · **Source run:** `run-c16b3d6574539dbdbe66f0d134627dc8`
+**Global name:** `bbugyi200.athena.bob-cli-q5.5.1.land--code` · **State:** completed · **Source run:** `run-c16b3d6574539dbdbe66f0d134627dc8`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -11,8 +11,18 @@
 - Bead: [bob-cli-q5.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.5.1.md)
 - Model: gpt-6-luna
 - Provider: codex
-- Timing: 2026-11-27T03:48:09.093217+00:00
-- Commits: 0
+- Timing: 2026-11-27T03:48:09.093217+00:00 → 2026-11-27T04:13:57.327417+00:00
+- Commits: [1](#commits)
+
+## Files
+
+[Chat](chat.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`d9f5774`](https://github.com/bobs-org/bob-cli/commit/d9f57741c248db678bcf43b56eade3b16a2e88f4) | docs: describe snooze clock labels and glyph contract | 2026-11-26 23:11:29 EST |
 
 ## Neighbors
 
