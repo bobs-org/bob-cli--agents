@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q5.6.1.2](../agents/bbugyi200.athena.bob-cli-q5.6.1.2/README.md) | descendant | completed |
 | [bob-cli-q5.6.1.3](../agents/bbugyi200.athena.bob-cli-q5.6.1.3/README.md) | descendant | completed |
 | [bob-cli-q5.6.1.4](../agents/bbugyi200.athena.bob-cli-q5.6.1.4/README.md) | descendant | completed |
-| [bob-cli-q5.6.1.land](bbugyi200.athena.bob-cli-q5.6.1.land.md) (session · 6) | descendant | completed 6 |
+| [bob-cli-q5.6.1.land](bbugyi200.athena.bob-cli-q5.6.1.land.md) (session · 9) | descendant | completed 8, failed 1 |
 | [bob-cli-q5.1](bbugyi200.athena.bob-cli-q5.1.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.1.1.1](../agents/bbugyi200.athena.bob-cli-q5.1.1.1/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.1.1.2](../agents/bbugyi200.athena.bob-cli-q5.1.1.2/README.md) | bob-cli-q5 hood | completed |

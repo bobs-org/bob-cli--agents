@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) / bob-cli-q5.8.1.6.5.1.1--3
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1--3` · **State:** active · **Source run:** `run-243758a91558e93f143ec0774859ac7d`
+**Global name:** `bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1--3` · **State:** completed · **Source run:** `run-243758a91558e93f143ec0774859ac7d`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-q5.8.1.6.5.1.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.8.1.6.5.1.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-27T13:59:01.343728+00:00
+- Timing: 2026-11-27T13:59:01.343728+00:00 → 2026-11-27T14:11:38.453869+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
@@ -78,7 +78,7 @@
 | [bob-cli-q5.6.1.2](../bbugyi200.athena.bob-cli-q5.6.1.2/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.6.1.3](../bbugyi200.athena.bob-cli-q5.6.1.3/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.6.1.4](../bbugyi200.athena.bob-cli-q5.6.1.4/README.md) | bob-cli-q5 hood | completed |
-| [bob-cli-q5.6.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.6.1.land.md) (session · 6) | bob-cli-q5 hood | completed 6 |
+| [bob-cli-q5.6.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.6.1.land.md) (session · 9) | bob-cli-q5 hood | completed 8, failed 1 |
 | [bob-cli-q5.7](../../sessions/bbugyi200.athena.bob-cli-q5.7.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.7.1.1](../bbugyi200.athena.bob-cli-q5.7.1.1/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.7.1.2](../../sessions/bbugyi200.athena.bob-cli-q5.7.1.2.md) (session · 3) | bob-cli-q5 hood | completed 2, failed 1 |
