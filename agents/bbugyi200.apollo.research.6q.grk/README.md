@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6q.grk
 
-**Global name:** `bbugyi200.apollo.research.6q.grk` · **State:** active · **Source run:** `run-801f06a7252e27cc45fc2a75856c9400`
+**Global name:** `bbugyi200.apollo.research.6q.grk` · **State:** completed · **Source run:** `run-801f06a7252e27cc45fc2a75856c9400`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,13 +10,13 @@
 
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-27T18:55:00.918565+00:00
+- Timing: 2026-11-27T18:55:00.918565+00:00 → 2026-11-27T19:09:25.570634+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -41,9 +41,9 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [research.6q.cdx](../bbugyi200.apollo.research.6q.cdx/README.md) | research.6q hood | completed |
-| [research.6q.cld](../bbugyi200.apollo.research.6q.cld/README.md) | research.6q hood | active |
+| [research.6q.cld](../bbugyi200.apollo.research.6q.cld/README.md) | research.6q hood | completed |
 | [research.6q.final](../bbugyi200.apollo.research.6q.final/README.md) | research.6q hood | waiting |
-| [research.6q.gem](../bbugyi200.apollo.research.6q.gem/README.md) | research.6q hood | active |
+| [research.6q.gem](../bbugyi200.apollo.research.6q.gem/README.md) | research.6q hood | completed |
 | [research.6q.image](../bbugyi200.apollo.research.6q.image/README.md) | research.6q hood | waiting |
 | [research.6q.linker](../bbugyi200.apollo.research.6q.linker/README.md) | research.6q hood | active |
 | [research.6q.mus](../bbugyi200.apollo.research.6q.mus/README.md) | research.6q hood | completed |
@@ -97,4 +97,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.05.linker.w0](../../sessions/bbugyi200.apollo.research.05.linker.w0.md) (session · 3) | research hood | dismissed 1, failed 2 |
 | [research.06.audio](../bbugyi200.apollo.research.06.audio/README.md) | research hood | dismissed |
 | [research.06.cdx](../bbugyi200.apollo.research.06.cdx/README.md) | research hood | dismissed |
-| … and 1301 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |
+| … and 1302 more in the [hood roster](../../users/bbugyi200/machines/apollo/hoods/research/README.md) | research hood | — |

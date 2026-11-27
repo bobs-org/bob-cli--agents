@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-qq](../../users/bbugyi200/machines/apollo/hoods/bob-cli-qq/README.md) / bob-cli-qq.10.5
 
-**Global name:** `bbugyi200.apollo.bob-cli-qq.10.5` · **State:** waiting · **Source run:** `run-a66f1bb938c35da0bacf5c69789d4bb6`
+**Global name:** `bbugyi200.apollo.bob-cli-qq.10.5` · **State:** waiting · **Source run:** `run-5ebc91f7d85668a1e23522b2096b83c0`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-qq
 
 ## Summary
 
 - Bead: [bob-cli-qq.10.5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qq/bob-cli-qq.10.5.md)
-- Epic: [bob-cli-qq.10](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qq/bob-cli-qq.10.md)
-- Model: grok-4.6
-- Provider: grok
-- Timing: 20261127091352
+- Model: opus
+- Provider: claude
+- Timing: 20261127123118
 - Commits: 0
 
 ## Files
@@ -24,9 +23,10 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-qq.10.1](../../sessions/bbugyi200.apollo.bob-cli-qq.10.1.md) (session · 3) | bob-cli-qq.10 hood | completed 2, failed 1 |
+| [bob-cli-qq.10.1](../bbugyi200.apollo.bob-cli-qq.10.1/README.md) | bob-cli-qq.10 hood | completed |
 | [bob-cli-qq.10.2](../bbugyi200.apollo.bob-cli-qq.10.2/README.md) | bob-cli-qq.10 hood | completed |
 | [bob-cli-qq.10.3](../../sessions/bbugyi200.apollo.bob-cli-qq.10.3.md) (session · 3) | bob-cli-qq.10 hood | completed 2, failed 1 |
-| [bob-cli-qq.10.4](../bbugyi200.apollo.bob-cli-qq.10.4/README.md) | bob-cli-qq.10 hood | waiting |
+| [bob-cli-qq.10.4](../bbugyi200.apollo.bob-cli-qq.10.4/README.md) | bob-cli-qq.10 hood | active |
 | [bob-cli-qq.10.6](../bbugyi200.apollo.bob-cli-qq.10.6/README.md) | bob-cli-qq.10 hood | waiting |
 | [bob-cli-qq.10.land](../bbugyi200.apollo.bob-cli-qq.10.land/README.md) | bob-cli-qq.10 hood | waiting |
 | [bob-cli-qq.1](../../sessions/bbugyi200.apollo.bob-cli-qq.1.md) (session · 13) | bob-cli-qq hood | completed 9, failed 4 |

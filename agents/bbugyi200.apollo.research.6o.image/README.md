@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 20261127132140
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: diagrams:202611/tree\_note\_link\_walks/tree\_note\_link\_walks.diagrams.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127132140/tree\_note\_link\_walks.diagr… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: diagrams:202611/tree_note_link_walks/tree_note_link_walks.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127132140/tree_note_link_walks.diagrams-438b385b62b4.md
+  ref: file:explicit:c3ca22cd84f54975cd24838b
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/research/202611/tree_note_link_walks/tree_note_link_walks.diagrams.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,6 +46,7 @@
 | [research.6o.gem](../bbugyi200.apollo.research.6o.gem/README.md) | research.6o hood | completed |
 | [research.6o.grk](../bbugyi200.apollo.research.6o.grk/README.md) | research.6o hood | completed |
 | [research.6o.linker](../bbugyi200.apollo.research.6o.linker/README.md) | research.6o hood | waiting |
+| [research.6o.linker.w0](../bbugyi200.apollo.research.6o.linker.w0/README.md) | research.6o hood | waiting |
 | [research.6o.mus](../bbugyi200.apollo.research.6o.mus/README.md) | research.6o hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |
