@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-qq](../../users/bbugyi200/machines/apollo/hoods/bob-cli-qq/README.md) / bob-cli-qq.10.land
 
-**Global name:** `bbugyi200.apollo.bob-cli-qq.10.land` · **State:** waiting · **Source run:** `run-70cd9bb72a817961d2781a7bc447f849`
+**Global name:** `bbugyi200.apollo.bob-cli-qq.10.land` · **State:** completed · **Source run:** `run-70cd9bb72a817961d2781a7bc447f849`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-qq
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-qq.10](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qq/bob-cli-qq.10.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261127091354
+- Timing: 2026-11-27T22:48:31.832597+00:00 → 2026-11-27T23:24:39.499993+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 
