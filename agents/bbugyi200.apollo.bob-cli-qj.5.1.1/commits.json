@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-fedf7a6c77aaf4476a8f5b8400df4b60"}
+{"commits":[{"committed_at":1795788788,"sha":"4f55514f9eefe091d57a17ac6a86b13a58883c45","subject":"feat(vault-rewrite): crash-safe rewrite with trash, journal, and recovery"}],"schema_version":2,"source_run_id":"run-fedf7a6c77aaf4476a8f5b8400df4b60"}

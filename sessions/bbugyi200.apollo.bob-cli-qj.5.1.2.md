@@ -9,7 +9,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-qj` · Members: 3 · Bead: [bob-cli-
 ```mermaid
 flowchart TD
   n0["bob-cli-qj.5.1.2--plan [completed]"]
-  n1["bob-cli-qj.5.1.2--1 [active]"]
+  n1["bob-cli-qj.5.1.2--1 [completed]"]
   n0 --> n1
   n2["bob-cli-qj.5.1.2--mon [completed]"]
   n0 --> n2
@@ -20,7 +20,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-plan"></a>plan | bob-cli-qj.5.1.2--plan | completed | gpt-6-luna / codex | 2026-11-27T12:20:52.373918+00:00 → 2026-11-27T13:02:38.849482+00:00 | [1](../agents/bbugyi200.apollo.bob-cli-qj.5.1.2--plan/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.bob-cli-qj.5.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-qj.5.1.2--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-qj.5.1.2--1 | active | gpt-6-luna / codex | 2026-11-27T13:12:47.423464+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-qj.5.1.2--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-qj.5.1.2--1 | completed | gpt-6-luna / codex | 2026-11-27T13:12:47.423464+00:00 → 2026-11-27T13:15:36.998692+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-qj.5.1.2--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-qj.5.1.2--1/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-qj.5.1.2--mon | completed | gpt-6-luna / codex | 2026-11-27T12:58:01.942619+00:00 → 2026-11-27T13:12:34.941722+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-qj.5.1.2--mon/chat.md) |
 
 ## Commits
@@ -34,7 +34,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-qj.5](bbugyi200.apollo.bob-cli-qj.5.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-qj.5.1.1](../agents/bbugyi200.apollo.bob-cli-qj.5.1.1/README.md) | bob-cli-qj.5.1 hood | active |
+| [bob-cli-qj.5.1.1](../agents/bbugyi200.apollo.bob-cli-qj.5.1.1/README.md) | bob-cli-qj.5.1 hood | completed |
 | [bob-cli-qj.5.1.3](../agents/bbugyi200.apollo.bob-cli-qj.5.1.3/README.md) | bob-cli-qj.5.1 hood | waiting |
 | [bob-cli-qj.5.1.4](../agents/bbugyi200.apollo.bob-cli-qj.5.1.4/README.md) | bob-cli-qj.5.1 hood | waiting |
 | [bob-cli-qj.5.1.5](../agents/bbugyi200.apollo.bob-cli-qj.5.1.5/README.md) | bob-cli-qj.5.1 hood | waiting |
