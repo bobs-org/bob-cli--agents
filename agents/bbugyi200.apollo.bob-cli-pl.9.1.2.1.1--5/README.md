@@ -49,7 +49,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-pl.9.1.2](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.md) (session · 31) | ancestor | active 1, completed 20, dismissed 1, failed 9 |
-| [bob-cli-pl.9](../../sessions/bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-pl.9](../../sessions/bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-pl.9.1.2.1.2](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.2/README.md) | bob-cli-pl.9.1.2.1 hood | completed |
 | [bob-cli-pl.9.1.2.1.3](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.1.3.md) (session · 7) | bob-cli-pl.9.1.2.1 hood | completed 4, dismissed 2, failed 1 |
 | [bob-cli-pl.9.1.2.1.4](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.4/README.md) | bob-cli-pl.9.1.2.1 hood | dismissed |

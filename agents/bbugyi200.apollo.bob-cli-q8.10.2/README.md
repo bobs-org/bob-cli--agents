@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`6e722fc`](https://github.com/bobs-org/bob-cli/commit/6e722fc6508f9bed5983917dc67416cfac404a60) | docs(task-dependencies): record tie-chord absorption, tie-change and reversal semantics | 2026-11-26 02:41:27 EST |
+| — | `6e722fc` | docs(task-dependencies): record tie-chord absorption, tie-change and reversal semantics | 2026-11-26 02:41:27 EST |
 
 ## Neighbors
 
@@ -41,5 +41,5 @@
 | [bob-cli-q8.7](../bbugyi200.apollo.bob-cli-q8.7/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.8](../bbugyi200.apollo.bob-cli-q8.8/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.9](../bbugyi200.apollo.bob-cli-q8.9/README.md) | bob-cli-q8 hood | completed |
-| [bob-cli-q8.land](../../sessions/bbugyi200.apollo.bob-cli-q8.land.md) (session · 3) | bob-cli-q8 hood | active 1, completed 2 |
+| [bob-cli-q8.land](../../sessions/bbugyi200.apollo.bob-cli-q8.land.md) (session · 3) | bob-cli-q8 hood | completed 2, dismissed 1 |
 | [bob-cli-q8.land](../bbugyi200.apollo.bob-cli-q8.land/README.md) | bob-cli-q8 hood | completed |

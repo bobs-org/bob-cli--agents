@@ -18,7 +18,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`71f7b67`](https://github.com/bobs-org/bob-cli/commit/71f7b670f66116b5c7742358c4838624aab086e0) | fix(relations): clear tie lint gates, dedupe the plain-link glossary rule, and correct tie docs | 2026-11-26 02:07:03 EST |
+| — | `71f7b67` | fix(relations): clear tie lint gates, dedupe the plain-link glossary rule, and correct tie docs | 2026-11-26 02:07:03 EST |
 
 ## Neighbors
 

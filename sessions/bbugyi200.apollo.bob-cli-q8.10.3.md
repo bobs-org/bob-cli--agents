@@ -63,7 +63,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| plan | bob-cli | [`8cb474b`](https://github.com/bobs-org/bob-cli/commit/8cb474ba818f1e214e38634dce63f8ffb120b11d) | docs(tasks): document navigation tie consequence copy | 2026-11-26 03:27:19 EST |
+| plan | — | `8cb474b` | docs(tasks): document navigation tie consequence copy | 2026-11-26 03:27:19 EST |
 
 ## Neighbors
 
@@ -81,5 +81,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-q8.7](../agents/bbugyi200.apollo.bob-cli-q8.7/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.8](../agents/bbugyi200.apollo.bob-cli-q8.8/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.9](../agents/bbugyi200.apollo.bob-cli-q8.9/README.md) | bob-cli-q8 hood | completed |
-| [bob-cli-q8.land](bbugyi200.apollo.bob-cli-q8.land.md) (session · 3) | bob-cli-q8 hood | active 1, completed 2 |
+| [bob-cli-q8.land](bbugyi200.apollo.bob-cli-q8.land.md) (session · 3) | bob-cli-q8 hood | completed 2, dismissed 1 |
 | [bob-cli-q8.land](../agents/bbugyi200.apollo.bob-cli-q8.land/README.md) | bob-cli-q8 hood | completed |

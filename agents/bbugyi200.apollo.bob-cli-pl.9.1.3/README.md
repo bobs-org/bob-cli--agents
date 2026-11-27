@@ -23,7 +23,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-pl.9](../../sessions/bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-pl.9](../../sessions/bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-pl.9.1.1](../bbugyi200.apollo.bob-cli-pl.9.1.1/README.md) | bob-cli-pl.9.1 hood | completed |
 | [bob-cli-pl.9.1.2](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.md) (session · 31) | bob-cli-pl.9.1 hood | active 1, completed 20, dismissed 1, failed 9 |
 | [bob-cli-pl.9.1.2.1.1](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.1.1.md) (session · 11) | bob-cli-pl.9.1 hood | completed 7, failed 4 |

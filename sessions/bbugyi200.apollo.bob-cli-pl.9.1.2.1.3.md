@@ -40,7 +40,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-pl.9.1.2](bbugyi200.apollo.bob-cli-pl.9.1.2.md) (session · 31) | ancestor | active 1, completed 20, dismissed 1, failed 9 |
-| [bob-cli-pl.9](bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-pl.9](bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-pl.9.1.2.1.1](bbugyi200.apollo.bob-cli-pl.9.1.2.1.1.md) (session · 11) | bob-cli-pl.9.1.2.1 hood | completed 7, failed 4 |
 | [bob-cli-pl.9.1.2.1.2](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2.1.2/README.md) | bob-cli-pl.9.1.2.1 hood | completed |
 | [bob-cli-pl.9.1.2.1.4](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2.1.4/README.md) | bob-cli-pl.9.1.2.1 hood | dismissed |

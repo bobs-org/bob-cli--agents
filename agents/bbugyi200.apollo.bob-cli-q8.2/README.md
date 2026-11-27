@@ -24,7 +24,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`5d08882`](https://github.com/bobs-org/bob-cli/commit/5d088829b3f9cfb397aea7852d7be147d76b8b77) | feat(task-relations): fold dependency overlaps during reconcile and merge | 2026-11-25 20:45:50 EST |
+| — | `5d08882` | feat(task-relations): fold dependency overlaps during reconcile and merge | 2026-11-25 20:45:50 EST |
 
 ## Variables
 
@@ -60,5 +60,5 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-q8.7](../bbugyi200.apollo.bob-cli-q8.7/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.8](../bbugyi200.apollo.bob-cli-q8.8/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.9](../bbugyi200.apollo.bob-cli-q8.9/README.md) | bob-cli-q8 hood | completed |
-| [bob-cli-q8.land](../../sessions/bbugyi200.apollo.bob-cli-q8.land.md) (session · 3) | bob-cli-q8 hood | active 1, completed 2 |
+| [bob-cli-q8.land](../../sessions/bbugyi200.apollo.bob-cli-q8.land.md) (session · 3) | bob-cli-q8 hood | completed 2, dismissed 1 |
 | [bob-cli-q8.land](../bbugyi200.apollo.bob-cli-q8.land/README.md) | bob-cli-q8 hood | completed |

@@ -41,7 +41,7 @@
 | [bob-cli-pl.5](../bbugyi200.apollo.bob-cli-pl.5/README.md) | bob-cli-pl hood | completed |
 | [bob-cli-pl.7](../bbugyi200.apollo.bob-cli-pl.7/README.md) | bob-cli-pl hood | completed |
 | [bob-cli-pl.8](../bbugyi200.apollo.bob-cli-pl.8/README.md) | bob-cli-pl hood | completed |
-| [bob-cli-pl.9](../../sessions/bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | bob-cli-pl hood | active 1, completed 2 |
+| [bob-cli-pl.9](../../sessions/bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | bob-cli-pl hood | completed 2, dismissed 1 |
 | [bob-cli-pl.9.1.1](../bbugyi200.apollo.bob-cli-pl.9.1.1/README.md) | bob-cli-pl hood | completed |
 | [bob-cli-pl.9.1.2](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.md) (session · 31) | bob-cli-pl hood | active 1, completed 20, dismissed 1, failed 9 |
 | [bob-cli-pl.9.1.2.1.1](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.1.1.md) (session · 11) | bob-cli-pl hood | completed 7, failed 4 |

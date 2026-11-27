@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`944a375`](https://github.com/bobs-org/bob-cli/commit/944a375f1c0daef2781697c180b13753e9181028) | docs(nav): document task tie visibility | 2026-11-25 22:33:16 EST |
+| — | `944a375` | docs(nav): document task tie visibility | 2026-11-25 22:33:16 EST |
 
 ## Neighbors
 
@@ -41,5 +41,5 @@
 | [bob-cli-q8.7](../bbugyi200.apollo.bob-cli-q8.7/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.8](../bbugyi200.apollo.bob-cli-q8.8/README.md) | bob-cli-q8 hood | completed |
 | [bob-cli-q8.9](../bbugyi200.apollo.bob-cli-q8.9/README.md) | bob-cli-q8 hood | completed |
-| [bob-cli-q8.land](../../sessions/bbugyi200.apollo.bob-cli-q8.land.md) (session · 3) | bob-cli-q8 hood | active 1, completed 2 |
+| [bob-cli-q8.land](../../sessions/bbugyi200.apollo.bob-cli-q8.land.md) (session · 3) | bob-cli-q8 hood | completed 2, dismissed 1 |
 | [bob-cli-q8.land](../bbugyi200.apollo.bob-cli-q8.land/README.md) | bob-cli-q8 hood | completed |

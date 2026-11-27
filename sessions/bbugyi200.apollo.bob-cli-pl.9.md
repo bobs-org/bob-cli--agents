@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-pl.9--gate [completed]"]
   n1["bob-cli-pl.9--mon [completed]"]
   n0 --> n1
-  n2["bob-cli-pl.9--plan [active]"]
+  n2["bob-cli-pl.9--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-pl.9--gate | completed | gpt-6-astra / codex | 2026-11-26T00:49:13.064414+00:00 → 2026-11-26T00:49:38.610077+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9--gate/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-pl.9--mon | completed | gpt-6-astra / codex | 2026-11-26T00:49:36.986837+00:00 → 2026-11-26T00:51:40.071030+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9--mon/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-pl.9--plan | active | gpt-6-astra / codex | 2026-11-26T00:41:15.857829+00:00 → 2026-11-26T00:49:47.802985+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.9--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-pl.9--plan | dismissed | gpt-6-astra / codex | 2026-11-25T19:41:15.857829 → 2026-11-25T19:49:48.235904 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.9--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9--plan/chat.md) |
 
 ## Neighbors
 

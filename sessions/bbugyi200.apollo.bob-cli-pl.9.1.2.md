@@ -132,7 +132,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-pl.9](bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-pl.9](bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-pl.9.1.2.1.1](bbugyi200.apollo.bob-cli-pl.9.1.2.1.1.md) (session · 11) | descendant | completed 7, failed 4 |
 | [bob-cli-pl.9.1.2.1.2](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2.1.2/README.md) | descendant | completed |
 | [bob-cli-pl.9.1.2.1.3](bbugyi200.apollo.bob-cli-pl.9.1.2.1.3.md) (session · 7) | descendant | completed 4, dismissed 2, failed 1 |

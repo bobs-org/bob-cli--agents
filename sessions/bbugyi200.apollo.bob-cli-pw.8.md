@@ -8,7 +8,7 @@ Owner: `bbugyi200.apollo` · Hood: `bob-cli-pw` · Members: 3 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-pw.8--plan [active]"]
+  n0["bob-cli-pw.8--plan [dismissed]"]
   n1["bob-cli-pw.8--mon [completed]"]
   n0 --> n1
   n2["bob-cli-pw.8--gate [completed]"]
@@ -19,7 +19,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-plan"></a>plan | bob-cli-pw.8--plan | active | gpt-6-astra / codex | 2026-11-25T04:45:38.472056+00:00 → 2026-11-25T04:55:03.811883+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pw.8--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pw.8--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-pw.8--plan | dismissed | gpt-6-astra / codex | 2026-11-24T23:45:38.472056 → 2026-11-24T23:55:04.332018 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pw.8--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pw.8--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-pw.8--mon | completed | gpt-6-astra / codex | 2026-11-25T04:54:49.069134+00:00 → 2026-11-25T04:57:24.270523+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pw.8--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-pw.8--gate | completed | gpt-6-astra / codex | 2026-11-25T04:54:27.006227+00:00 → 2026-11-25T04:54:54.727838+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pw.8--gate/chat.md) |
 
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-pw.2](../agents/bbugyi200.apollo.bob-cli-pw.2/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.3](../agents/bbugyi200.apollo.bob-cli-pw.3/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.4](../agents/bbugyi200.apollo.bob-cli-pw.4/README.md) | bob-cli-pw hood | completed |
-| [bob-cli-pw.5](bbugyi200.apollo.bob-cli-pw.5.md) (session · 3) | bob-cli-pw hood | active 1, completed 2 |
+| [bob-cli-pw.5](bbugyi200.apollo.bob-cli-pw.5.md) (session · 3) | bob-cli-pw hood | completed 2, dismissed 1 |
 | [bob-cli-pw.5.1.1](bbugyi200.apollo.bob-cli-pw.5.1.1.md) (session · 5) | bob-cli-pw hood | completed 4, failed 1 |
 | [bob-cli-pw.5.1.2](../agents/bbugyi200.apollo.bob-cli-pw.5.1.2/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.5.1.3](../agents/bbugyi200.apollo.bob-cli-pw.5.1.3/README.md) | bob-cli-pw hood | completed |

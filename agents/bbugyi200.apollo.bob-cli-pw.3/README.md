@@ -24,7 +24,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`2b3817f`](https://github.com/bobs-org/bob-cli/commit/2b3817fee2c1cb43f02600ece3f52ba9147c6eaa) | feat(meetings): add a dossier print profile beside note snapshots | 2026-11-24 15:02:25 EST |
+| — | `2b3817f` | feat(meetings): add a dossier print profile beside note snapshots | 2026-11-24 15:02:25 EST |
 
 ## Variables
 
@@ -64,7 +64,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pw.1](../../sessions/bbugyi200.apollo.bob-cli-pw.1.md) (session · 7) | bob-cli-pw hood | completed 5, failed 2 |
 | [bob-cli-pw.2](../bbugyi200.apollo.bob-cli-pw.2/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.4](../bbugyi200.apollo.bob-cli-pw.4/README.md) | bob-cli-pw hood | completed |
-| [bob-cli-pw.5](../../sessions/bbugyi200.apollo.bob-cli-pw.5.md) (session · 3) | bob-cli-pw hood | active 1, completed 2 |
+| [bob-cli-pw.5](../../sessions/bbugyi200.apollo.bob-cli-pw.5.md) (session · 3) | bob-cli-pw hood | completed 2, dismissed 1 |
 | [bob-cli-pw.5.1.1](../../sessions/bbugyi200.apollo.bob-cli-pw.5.1.1.md) (session · 5) | bob-cli-pw hood | completed 4, failed 1 |
 | [bob-cli-pw.5.1.2](../bbugyi200.apollo.bob-cli-pw.5.1.2/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.5.1.3](../bbugyi200.apollo.bob-cli-pw.5.1.3/README.md) | bob-cli-pw hood | completed |
@@ -73,7 +73,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-pw.6](../../sessions/bbugyi200.apollo.bob-cli-pw.6.md) (session · 5) | bob-cli-pw hood | completed 5 |
 | [bob-cli-pw.6](../bbugyi200.apollo.bob-cli-pw.6/README.md) | bob-cli-pw hood | completed |
 | [bob-cli-pw.7](../bbugyi200.apollo.bob-cli-pw.7/README.md) | bob-cli-pw hood | completed |
-| [bob-cli-pw.8](../../sessions/bbugyi200.apollo.bob-cli-pw.8.md) (session · 3) | bob-cli-pw hood | active 1, completed 2 |
+| [bob-cli-pw.8](../../sessions/bbugyi200.apollo.bob-cli-pw.8.md) (session · 3) | bob-cli-pw hood | completed 2, dismissed 1 |
 | [bob-cli-pw.8.1.1](../../sessions/bbugyi200.apollo.bob-cli-pw.8.1.1.md) (session · 9) | bob-cli-pw hood | completed 5, failed 4 |
 | [bob-cli-pw.8.1.2](../../sessions/bbugyi200.apollo.bob-cli-pw.8.1.2.md) (session · 7) | bob-cli-pw hood | completed 5, failed 2 |
 | [bob-cli-pw.8.1.3](../../sessions/bbugyi200.apollo.bob-cli-pw.8.1.3.md) (session · 3) | bob-cli-pw hood | completed 2, failed 1 |
