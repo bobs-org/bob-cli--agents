@@ -1,1 +1,1 @@
-{"commits":[],"schema_version":2,"source_run_id":"run-4f14ff7ca99632ce018347e714a0672a"}
+{"commits":[{"committed_at":1795804965,"sha":"dbdc7d24b28b2e72b2a3119155800738d4ad16ec","subject":"feat(plugins): run deploy inclusion proof in both stamp arms"}],"schema_version":2,"source_run_id":"run-4f14ff7ca99632ce018347e714a0672a"}
