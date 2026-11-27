@@ -57,7 +57,7 @@
 | [bob-cli-pf.4.1.7.4](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.4.md) (session · 21) | bob-cli-pf hood | completed 12, failed 9 |
 | [bob-cli-pf.4.1.7.land](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.land.md) (session · 3) | bob-cli-pf hood | completed 3 |
 | [bob-cli-pf.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.land.md) (session · 3) | bob-cli-pf hood | completed 2, dismissed 1 |
-| [bob-cli-pf.6](../../sessions/bbugyi200.apollo.bob-cli-pf.6.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
+| [bob-cli-pf.6](../../sessions/bbugyi200.apollo.bob-cli-pf.6.md) (session · 3) | bob-cli-pf hood | completed 2, dismissed 1 |
 | [bob-cli-pf.6.1.1](../bbugyi200.apollo.bob-cli-pf.6.1.1/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.6.1.2](../bbugyi200.apollo.bob-cli-pf.6.1.2/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.6.1.3](../bbugyi200.apollo.bob-cli-pf.6.1.3/README.md) | bob-cli-pf hood | completed |

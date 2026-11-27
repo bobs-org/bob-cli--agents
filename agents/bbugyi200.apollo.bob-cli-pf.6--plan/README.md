@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-pf](../../users/bbugyi200/machines/apollo/hoods/bob-cli-pf/README.md) / [bob-cli-pf.6](../../sessions/bbugyi200.apollo.bob-cli-pf.6.md) / bob-cli-pf.6--plan
 
-**Global name:** `bbugyi200.apollo.bob-cli-pf.6--plan` · **State:** active · **Source run:** `run-ca8e89ffa0b876701cd8dfd7eca7cc36`
+**Global name:** `bbugyi200.apollo.bob-cli-pf.6--plan` · **State:** dismissed · **Source run:** `run-ca8e89ffa0b876701cd8dfd7eca7cc36`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-pf
 
@@ -12,7 +12,7 @@
 - Epic: [bob-cli-pf](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-pf/README.md)
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 2026-11-24T01:30:57.547476+00:00 → 2026-11-24T01:38:14.900407+00:00
+- Timing: 2026-11-23T20:30:57.547476 → 2026-11-23T20:38:15.364949
 - Commits: 0
 
 ## Files
@@ -55,7 +55,7 @@
 | [bob-cli-pf.4.1.7.4](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.4.md) (session · 21) | bob-cli-pf hood | completed 12, failed 9 |
 | [bob-cli-pf.4.1.7.land](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.7.land.md) (session · 3) | bob-cli-pf hood | completed 3 |
 | [bob-cli-pf.4.1.land](../../sessions/bbugyi200.apollo.bob-cli-pf.4.1.land.md) (session · 3) | bob-cli-pf hood | completed 2, dismissed 1 |
-| [bob-cli-pf.5](../../sessions/bbugyi200.apollo.bob-cli-pf.5.md) (session · 3) | bob-cli-pf hood | active 1, completed 2 |
+| [bob-cli-pf.5](../../sessions/bbugyi200.apollo.bob-cli-pf.5.md) (session · 3) | bob-cli-pf hood | completed 2, dismissed 1 |
 | [bob-cli-pf.5.1.1](../../sessions/bbugyi200.apollo.bob-cli-pf.5.1.1.md) (session · 3) | bob-cli-pf hood | completed 3 |
 | [bob-cli-pf.5.1.2](../bbugyi200.apollo.bob-cli-pf.5.1.2/README.md) | bob-cli-pf hood | completed |
 | [bob-cli-pf.5.1.3](../bbugyi200.apollo.bob-cli-pf.5.1.3/README.md) | bob-cli-pf hood | completed |
