@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6q.mus
 
-**Global name:** `bbugyi200.apollo.research.6q.mus` · **State:** active · **Source run:** `run-5acf678fc7c736e35993b87c138f9424`
+**Global name:** `bbugyi200.apollo.research.6q.mus` · **State:** completed · **Source run:** `run-5acf678fc7c736e35993b87c138f9424`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-27T18:55:08.733978+00:00
+- Timing: 2026-11-27T18:55:08.733978+00:00 → 2026-11-27T19:00:44.121522+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/section\_jump\_outline\_hud\_\_mus.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127135231/section\_jump\_outline\_hud\_\_mus-da3600e2f580.md,… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/section_jump_outline_hud__mus.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127135231/section_jump_outline_hud__mus-da3600e2f580.md
+  ref: file:explicit:cb094a2ef231eef1bd339293
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_23/sase/repos/research/202611/section_jump_outline_hud__mus.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 

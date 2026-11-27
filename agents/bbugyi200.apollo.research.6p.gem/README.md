@@ -12,10 +12,29 @@
 - Provider: agy
 - Timing: 2026-11-27T18:45:51.620644+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/capture\_task\_type\_lead\_word\_expansion\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127134159/capture\_task\_type\_lead\_word\_expans… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/capture_task_type_lead_word_expansion__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127134159/capture_task_type_lead_word_expansion__gem-37d206ae60c9.md
+  ref: file:explicit:a40f8b688601c867ff2e56ed
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/capture_task_type_lead_word_expansion__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
