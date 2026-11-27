@@ -12,16 +12,35 @@
 - Provider: grok
 - Timing: 2026-11-27T18:55:00.918565+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
 
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_ctrl\_jk\_section\_outline\_hud/obsidian\_ctrl\_jk\_section\_outline\_hud\_\_grk.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/2026112713523… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_ctrl_jk_section_outline_hud/obsidian_ctrl_jk_section_outline_hud__grk.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127135230/obsidian_ctrl_jk_section_outline_hud__grk-7ceb00ef154f.md
+  ref: file:explicit:38e07bf4721144ce80b20791
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_22/sase/repos/research/202611/obsidian_ctrl_jk_section_outline_hud/obsidian_ctrl_jk_section_outline_hud__grk.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
+
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.6q.cdx](../bbugyi200.apollo.research.6q.cdx/README.md) | research.6q hood | active |
+| [research.6q.cdx](../bbugyi200.apollo.research.6q.cdx/README.md) | research.6q hood | completed |
 | [research.6q.cld](../bbugyi200.apollo.research.6q.cld/README.md) | research.6q hood | active |
 | [research.6q.final](../bbugyi200.apollo.research.6q.final/README.md) | research.6q hood | waiting |
 | [research.6q.gem](../bbugyi200.apollo.research.6q.gem/README.md) | research.6q hood | active |

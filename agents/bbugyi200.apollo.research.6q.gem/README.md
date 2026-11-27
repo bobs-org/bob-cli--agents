@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [research.6q.cdx](../bbugyi200.apollo.research.6q.cdx/README.md) | research.6q hood | active |
+| [research.6q.cdx](../bbugyi200.apollo.research.6q.cdx/README.md) | research.6q hood | completed |
 | [research.6q.cld](../bbugyi200.apollo.research.6q.cld/README.md) | research.6q hood | active |
 | [research.6q.final](../bbugyi200.apollo.research.6q.final/README.md) | research.6q hood | waiting |
 | [research.6q.grk](../bbugyi200.apollo.research.6q.grk/README.md) | research.6q hood | active |
