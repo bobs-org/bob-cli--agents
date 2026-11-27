@@ -30,7 +30,7 @@
 | [bob-cli-qj.5.1.1](../bbugyi200.apollo.bob-cli-qj.5.1.1/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.5.1.2](../../sessions/bbugyi200.apollo.bob-cli-qj.5.1.2.md) (session · 3) | bob-cli-qj hood | completed 3 |
 | [bob-cli-qj.5.1.3](../bbugyi200.apollo.bob-cli-qj.5.1.3/README.md) | bob-cli-qj hood | completed |
-| [bob-cli-qj.5.1.4](../bbugyi200.apollo.bob-cli-qj.5.1.4/README.md) | bob-cli-qj hood | waiting |
+| [bob-cli-qj.5.1.4](../bbugyi200.apollo.bob-cli-qj.5.1.4/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.5.1.5](../bbugyi200.apollo.bob-cli-qj.5.1.5/README.md) | bob-cli-qj hood | waiting |
 | [bob-cli-qj.5.1.6](../bbugyi200.apollo.bob-cli-qj.5.1.6/README.md) | bob-cli-qj hood | waiting |
 | [bob-cli-qj.5.1.7](../bbugyi200.apollo.bob-cli-qj.5.1.7/README.md) | bob-cli-qj hood | waiting |

@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-qj](../../users/bbugyi200/machines/apollo/hoods/bob-cli-qj/README.md) / bob-cli-qj.5.1.4
 
-**Global name:** `bbugyi200.apollo.bob-cli-qj.5.1.4` · **State:** waiting · **Source run:** `run-b1675a01d5f8c99d3e5fa852796296de`
+**Global name:** `bbugyi200.apollo.bob-cli-qj.5.1.4` · **State:** completed · **Source run:** `run-b1675a01d5f8c99d3e5fa852796296de`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-qj
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-qj.5.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qj/bob-cli-qj.5.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261127071953
-- Commits: 0
+- Timing: 2026-11-27T14:36:22.863413+00:00 → 2026-11-27T16:19:46.011131+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`a558ce1`](https://github.com/bobs-org/bob-cli/commit/a558ce11176fcb9d03e8a11be917f8d671810b32) | feat(prose): plan and write prose-section extraction | 2026-11-27 11:18:45 EST |
 
 ## Neighbors
 
