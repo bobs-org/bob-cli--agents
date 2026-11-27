@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.6.1.3
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.6.1.3` · **State:** waiting · **Source run:** `run-839ac5f00fe5f7a4d8b7876a8b8dac40`
+**Global name:** `bbugyi200.athena.bob-cli-q5.6.1.3` · **State:** completed · **Source run:** `run-839ac5f00fe5f7a4d8b7876a8b8dac40`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q5.6.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.6.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 20261127013525
-- Commits: 0
+- Timing: 2026-11-27T07:49:43.595413+00:00 → 2026-11-27T08:18:12.231733+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`9412c59`](https://github.com/bobs-org/bob-cli/commit/9412c5999e1992d8443e0457a2720033d0e11c10) | docs(snooze): document the Obsidian Snooze Card gestures and undo semantics | 2026-11-27 03:15:50 EST |
 
 ## Neighbors
 
