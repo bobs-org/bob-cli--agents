@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`bf00529`](https://github.com/bobs-org/bob-cli/commit/bf005290ab7e2da5f019102b16ff81d495fe6855) | docs(task-requirements): document requirement close behavior | 2026-11-22 21:33:47 EST |
+| — | `bf00529` | docs(task-requirements): document requirement close behavior | 2026-11-22 21:33:47 EST |
 
 ## Variables
 
@@ -47,7 +47,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-on.11](../../sessions/bbugyi200.athena.bob-cli-on.11.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-on.11](../../sessions/bbugyi200.athena.bob-cli-on.11.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-on.11.1.7.1](../bbugyi200.athena.bob-cli-on.11.1.7.1/README.md) | bob-cli-on.11.1.7 hood | completed |
 | [bob-cli-on.11.1.7.land](../../sessions/bbugyi200.athena.bob-cli-on.11.1.7.land.md) (session · 3) | bob-cli-on.11.1.7 hood | completed 3 |
 | [bob-cli-on.11.1.1](../bbugyi200.athena.bob-cli-on.11.1.1/README.md) | bob-cli-on.11.1 hood | completed |
@@ -56,9 +56,9 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-on.11.1.4](../bbugyi200.athena.bob-cli-on.11.1.4/README.md) | bob-cli-on.11.1 hood | completed |
 | [bob-cli-on.11.1.5](../bbugyi200.athena.bob-cli-on.11.1.5/README.md) | bob-cli-on.11.1 hood | completed |
 | [bob-cli-on.11.1.6](../../sessions/bbugyi200.athena.bob-cli-on.11.1.6.md) (session · 9) | bob-cli-on.11.1 hood | completed 8, failed 1 |
-| [bob-cli-on.11.1.land](../../sessions/bbugyi200.athena.bob-cli-on.11.1.land.md) (session · 3) | bob-cli-on.11.1 hood | active 1, completed 2 |
+| [bob-cli-on.11.1.land](../../sessions/bbugyi200.athena.bob-cli-on.11.1.land.md) (session · 3) | bob-cli-on.11.1 hood | completed 2, dismissed 1 |
 | [bob-cli-on.1](../bbugyi200.athena.bob-cli-on.1/README.md) | bob-cli-on hood | completed |
-| [bob-cli-on.10](../../sessions/bbugyi200.athena.bob-cli-on.10.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
+| [bob-cli-on.10](../../sessions/bbugyi200.athena.bob-cli-on.10.md) (session · 3) | bob-cli-on hood | completed 2, dismissed 1 |
 | [bob-cli-on.10.1.1](../bbugyi200.athena.bob-cli-on.10.1.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.10.1.2](../bbugyi200.athena.bob-cli-on.10.1.2/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.10.1.3](../bbugyi200.athena.bob-cli-on.10.1.3/README.md) | bob-cli-on hood | completed |
@@ -69,7 +69,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-on.12](../bbugyi200.athena.bob-cli-on.12/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.13](../../sessions/bbugyi200.athena.bob-cli-on.13.md) (session · 5) | bob-cli-on hood | completed 4, failed 1 |
 | [bob-cli-on.14](../bbugyi200.athena.bob-cli-on.14/README.md) | bob-cli-on hood | completed |
-| [bob-cli-on.15](../../sessions/bbugyi200.athena.bob-cli-on.15.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
+| [bob-cli-on.15](../../sessions/bbugyi200.athena.bob-cli-on.15.md) (session · 3) | bob-cli-on hood | completed 2, dismissed 1 |
 | [bob-cli-on.15.1.1](../bbugyi200.athena.bob-cli-on.15.1.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.15.1.2](../bbugyi200.athena.bob-cli-on.15.1.2/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.15.1.3](../../sessions/bbugyi200.athena.bob-cli-on.15.1.3.md) (session · 5) | bob-cli-on hood | completed 4, failed 1 |

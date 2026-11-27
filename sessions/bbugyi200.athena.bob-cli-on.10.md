@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-on.10--mon [completed]"]
   n1["bob-cli-on.10--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-on.10--plan [active]"]
+  n2["bob-cli-on.10--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-on.10--mon | completed | opus / claude | 2026-11-21T19:10:10.723891+00:00 → 2026-11-21T19:13:39.484677+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-on.10--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-on.10--gate | completed | opus / claude | 2026-11-21T19:09:57.395097+00:00 → 2026-11-21T19:10:11.934728+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-on.10--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-on.10--plan | active | opus / claude | 2026-11-21T18:52:15.804034+00:00 → 2026-11-21T19:10:19.200943+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-on.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-on.10--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-on.10--plan | dismissed | opus / claude | 2026-11-21T13:52:15.804034 → 2026-11-21T14:10:19.463725 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-on.10--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-on.10--plan/chat.md) |
 
 ## Neighbors
 
@@ -35,7 +35,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-on.10.1.6](../agents/bbugyi200.athena.bob-cli-on.10.1.6/README.md) | descendant | completed |
 | [bob-cli-on.10.1.land](bbugyi200.athena.bob-cli-on.10.1.land.md) (session · 3) | descendant | completed 3 |
 | [bob-cli-on.1](../agents/bbugyi200.athena.bob-cli-on.1/README.md) | bob-cli-on hood | completed |
-| [bob-cli-on.11](bbugyi200.athena.bob-cli-on.11.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
+| [bob-cli-on.11](bbugyi200.athena.bob-cli-on.11.md) (session · 3) | bob-cli-on hood | completed 2, dismissed 1 |
 | [bob-cli-on.11.1.1](../agents/bbugyi200.athena.bob-cli-on.11.1.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.11.1.2](../agents/bbugyi200.athena.bob-cli-on.11.1.2/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.11.1.3](bbugyi200.athena.bob-cli-on.11.1.3.md) (session · 5) | bob-cli-on hood | completed 3, failed 2 |
@@ -45,11 +45,11 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-on.11.1.7.1](../agents/bbugyi200.athena.bob-cli-on.11.1.7.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.11.1.7.2](bbugyi200.athena.bob-cli-on.11.1.7.2.md) (session · 13) | bob-cli-on hood | completed 9, failed 4 |
 | [bob-cli-on.11.1.7.land](bbugyi200.athena.bob-cli-on.11.1.7.land.md) (session · 3) | bob-cli-on hood | completed 3 |
-| [bob-cli-on.11.1.land](bbugyi200.athena.bob-cli-on.11.1.land.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
+| [bob-cli-on.11.1.land](bbugyi200.athena.bob-cli-on.11.1.land.md) (session · 3) | bob-cli-on hood | completed 2, dismissed 1 |
 | [bob-cli-on.12](../agents/bbugyi200.athena.bob-cli-on.12/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.13](bbugyi200.athena.bob-cli-on.13.md) (session · 5) | bob-cli-on hood | completed 4, failed 1 |
 | [bob-cli-on.14](../agents/bbugyi200.athena.bob-cli-on.14/README.md) | bob-cli-on hood | completed |
-| [bob-cli-on.15](bbugyi200.athena.bob-cli-on.15.md) (session · 3) | bob-cli-on hood | active 1, completed 2 |
+| [bob-cli-on.15](bbugyi200.athena.bob-cli-on.15.md) (session · 3) | bob-cli-on hood | completed 2, dismissed 1 |
 | [bob-cli-on.15.1.1](../agents/bbugyi200.athena.bob-cli-on.15.1.1/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.15.1.2](../agents/bbugyi200.athena.bob-cli-on.15.1.2/README.md) | bob-cli-on hood | completed |
 | [bob-cli-on.15.1.3](bbugyi200.athena.bob-cli-on.15.1.3.md) (session · 5) | bob-cli-on hood | completed 4, failed 1 |

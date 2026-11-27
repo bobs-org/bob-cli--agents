@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-oj.3--mon [completed]"]
   n1["bob-cli-oj.3--gate [completed]"]
   n0 --> n1
-  n2["bob-cli-oj.3--plan [active]"]
+  n2["bob-cli-oj.3--plan [dismissed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-oj.3--mon | completed | gpt-6-astra / codex | 2026-11-21T12:50:33.711992+00:00 → 2026-11-21T12:52:46.081581+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-oj.3--mon/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-oj.3--gate | completed | gpt-6-astra / codex | 2026-11-21T12:50:23.326954+00:00 → 2026-11-21T12:50:34.679685+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-oj.3--gate/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-oj.3--plan | active | gpt-6-astra / codex | 2026-11-21T12:43:47.858808+00:00 → 2026-11-21T12:50:40.750456+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-oj.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-oj.3--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-oj.3--plan | dismissed | gpt-6-astra / codex | 2026-11-21T07:43:47.858808 → 2026-11-21T07:50:40.983558 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-oj.3--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-oj.3--plan/chat.md) |
 
 ## Neighbors
 
