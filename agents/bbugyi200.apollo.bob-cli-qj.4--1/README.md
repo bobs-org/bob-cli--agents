@@ -55,4 +55,4 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-qj.5.1.7](../../sessions/bbugyi200.apollo.bob-cli-qj.5.1.7.md) (session · 5) | bob-cli-qj hood | completed 3, failed 2 |
 | [bob-cli-qj.5.1.8](../bbugyi200.apollo.bob-cli-qj.5.1.8/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.5.1.land](../../sessions/bbugyi200.apollo.bob-cli-qj.5.1.land.md) (session · 9) | bob-cli-qj hood | completed 7, failed 2 |
-| [bob-cli-qj.land](../../sessions/bbugyi200.apollo.bob-cli-qj.land.md) (session · 2) | bob-cli-qj hood | active 1, completed 1 |
+| [bob-cli-qj.land](../../sessions/bbugyi200.apollo.bob-cli-qj.land.md) (session · 3) | bob-cli-qj hood | completed 3 |

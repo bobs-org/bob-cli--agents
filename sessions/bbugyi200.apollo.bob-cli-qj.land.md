@@ -2,22 +2,25 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [apollo](../users/bbugyi200/machines/apollo/README.md) / [bob-cli-qj](../users/bbugyi200/machines/apollo/hoods/bob-cli-qj/README.md) / bob-cli-qj.land
 
-Owner: `bbugyi200.apollo` · Hood: `bob-cli-qj` · Members: 2 · Bead: [bob-cli-qj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qj/README.md)
+Owner: `bbugyi200.apollo` · Hood: `bob-cli-qj` · Members: 3 · Bead: [bob-cli-qj](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qj/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-qj.land--mon [active]"]
-  n1["bob-cli-qj.land--plan [completed]"]
+  n0["bob-cli-qj.land--1 [completed]"]
+  n1["bob-cli-qj.land--mon [completed]"]
   n0 --> n1
+  n2["bob-cli-qj.land--plan [completed]"]
+  n0 --> n2
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-mon"></a>mon | bob-cli-qj.land--mon | active | opus / claude | 2026-11-27T13:10:03.046020+00:00 | 0 | — | — |
+| <a id="member-1"></a>1 | bob-cli-qj.land--1 | completed | opus / claude | 2026-11-27T23:36:08.074306+00:00 → 2026-11-27T23:39:28.193385+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-qj.land--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-qj.land--1/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-qj.land--mon | completed | opus / claude | 2026-11-27T13:10:03.046020+00:00 → 2026-11-27T23:36:08.511808+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-qj.land--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-qj.land--plan | completed | opus / claude | 2026-11-27T12:24:12.878752+00:00 → 2026-11-27T13:12:39.695905+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-qj.land--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-qj.land--plan/chat.md) |
 
 ## Neighbors

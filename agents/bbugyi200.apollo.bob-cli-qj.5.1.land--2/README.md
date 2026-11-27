@@ -42,4 +42,4 @@
 | [bob-cli-qj.3](../bbugyi200.apollo.bob-cli-qj.3/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.4](../../sessions/bbugyi200.apollo.bob-cli-qj.4.md) (session · 3) | bob-cli-qj hood | completed 3 |
 | [bob-cli-qj.4](../bbugyi200.apollo.bob-cli-qj.4/README.md) | bob-cli-qj hood | completed |
-| [bob-cli-qj.land](../../sessions/bbugyi200.apollo.bob-cli-qj.land.md) (session · 2) | bob-cli-qj hood | active 1, completed 1 |
+| [bob-cli-qj.land](../../sessions/bbugyi200.apollo.bob-cli-qj.land.md) (session · 3) | bob-cli-qj hood | completed 3 |
