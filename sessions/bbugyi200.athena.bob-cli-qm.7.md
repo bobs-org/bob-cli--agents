@@ -8,12 +8,12 @@ Owner: `bbugyi200.athena` · Hood: `bob-cli-qm` · Members: 4 · Bead: [bob-cli-
 
 ```mermaid
 flowchart TD
-  n0["bob-cli-qm.7--1 [completed]"]
-  n1["bob-cli-qm.7--mon-0 [active]"]
+  n0["bob-cli-qm.7--mon-0 [active]"]
+  n1["bob-cli-qm.7--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-qm.7--plan [completed]"]
+  n2["bob-cli-qm.7--mon [completed]"]
   n0 --> n2
-  n3["bob-cli-qm.7--mon [completed]"]
+  n3["bob-cli-qm.7--1 [completed]"]
   n0 --> n3
 ```
 
@@ -21,43 +21,17 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
-| <a id="member-1"></a>1 | bob-cli-qm.7--1 | completed | gpt-6-luna / codex | 2026-11-26T23:24:22.831436+00:00 → 2026-11-27T00:32:35.415824+00:00 | [1](../agents/bbugyi200.athena.bob-cli-qm.7--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-qm.7--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qm.7--1/chat.md) |
-| <a id="member-mon-0"></a>mon-0 | bob-cli-qm.7--mon-0 | active | gpt-6-luna / codex | 2026-11-26T23:26:16.835290+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-qm.7--plan | completed | gpt-6-luna / codex | 2026-11-26T22:53:23.913753+00:00 → 2026-11-26T23:21:44.859264+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qm.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qm.7--plan/chat.md) |
-| <a id="member-mon"></a>mon | bob-cli-qm.7--mon | completed | gpt-6-luna / codex | 2026-11-26T23:20:14.139261+00:00 → 2026-11-26T23:24:23.224384+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qm.7--mon/chat.md) |
+| <a id="member-mon-0"></a>mon-0 | bob-cli-qm.7--mon-0 | active | opus / claude | 2026-11-27T12:04:08.913054+00:00 | 0 | — | — |
+| <a id="member-plan"></a>plan | bob-cli-qm.7--plan | completed | opus / claude | 2026-11-27T11:08:59.137022+00:00 → 2026-11-27T11:19:08.941842+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qm.7--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qm.7--plan/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-qm.7--mon | completed | opus / claude | 2026-11-27T11:18:32.740369+00:00 → 2026-11-27T11:50:48.039256+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qm.7--mon/chat.md) |
+| <a id="member-1"></a>1 | bob-cli-qm.7--1 | completed | opus / claude | 2026-11-27T11:50:47.940350+00:00 → 2026-11-27T12:05:31.208983+00:00 | [1](../agents/bbugyi200.athena.bob-cli-qm.7--1/README.md#commits) | [Prompt](../agents/bbugyi200.athena.bob-cli-qm.7--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qm.7--1/chat.md) |
 
 ## Commits
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`ebc45fe`](https://github.com/bobs-org/bob-cli/commit/ebc45fece48aa486cdb59bfdbace11a3576a3ec3) | docs(cards): document Notebook and Prose cards | 2026-11-26 18:27:05 EST |
-
-## Variables
-
-| Role | Variable | Value |
-|---|---|---|
-| 1 | `artifacts` | \[{bead: bob-cli-io, kind: markdown, label: bob-plugins frees-marks 25 ms timing flake evidence, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261126182338/bob-plugins-frees-marks-fl… |
-
-#### artifacts
-
-**Role:** `1`
-
-```yaml
-- bead: bob-cli-io
-  kind: markdown
-  label: bob-plugins frees-marks 25 ms timing flake evidence
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126182338/bob-plugins-frees-marks-flake-evidence-906dc0980d6a.md
-  ref: file:explicit:0ced00025da442945197a080
-  source_path: /tmp/bob-plugins-frees-marks-flake-evidence.md
-- bead: bob-cli-ej
-  kind: markdown
-  label: bob-plugins task-link live viewport CPU flake evidence
-  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261126182338/bob-plugins-task-link-live-flake-evidence-5b836a94343e.md
-  ref: file:explicit:84e0f290ca7bb8279a0d9fba
-  source_path: /tmp/bob-plugins-task-link-live-flake-evidence.md
-```
-
-Values are truncated for display; see each member's agent meta.json for the full values.
+| — | bob-cli | [`ebc45fe`](https://github.com/bobs-org/bob-cli/commit/ebc45fece48aa486cdb59bfdbace11a3576a3ec3) | docs(cards): document Notebook and Prose cards | 2026-11-26 18:27:05 EST |
+| 1 | bob-cli | [`eef6cc0`](https://github.com/bobs-org/bob-cli/commit/eef6cc07fe4225de1a27d052f3eee55e996b2a1a) | docs(memory): add Prose and Notebook Card glossary strands | 2026-11-27 07:05:01 EST |
 
 ## Neighbors
 

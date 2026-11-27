@@ -2,17 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-qm](../../users/bbugyi200/machines/athena/hoods/bob-cli-qm/README.md) / [bob-cli-qm.7](../../sessions/bbugyi200.athena.bob-cli-qm.7.md) / bob-cli-qm.7--mon
 
-**Global name:** `bbugyi200.athena.bob-cli-qm.7--mon` · **State:** completed · **Source run:** `run-dd2167dd1c8910f30d6cc695c24e3c44`
+**Global name:** `bbugyi200.athena.bob-cli-qm.7--mon` · **State:** completed · **Source run:** `run-7bee9462ff9fb3a73feefb33673e2644`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-qm
 
 ## Summary
 
 - Bead: [bob-cli-qm.7](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qm/bob-cli-qm.7.md)
-- Epic: [bob-cli-qm](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qm/README.md)
-- Model: gpt-6-luna
-- Provider: codex
-- Timing: 2026-11-26T23:20:14.139261+00:00 → 2026-11-26T23:24:23.224384+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-27T11:18:32.740369+00:00 → 2026-11-27T11:50:48.039256+00:00
 - Commits: 0
 
 ## Files

@@ -1,7 +1,7 @@
 - **AGENTS:**
   - [bbugyi200.athena.bob-cli-qm.7](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.bob-cli-qm.7.md)
 
-%queue(weight=1) #fork:bob-cli-qm.7--plan %model:gpt-6-luna@xhigh
+%queue(weight=1) #fork:bob-cli-qm.7--plan %model:opus@xhigh
 
 %macros_enabled:false
 
@@ -10,7 +10,7 @@
 **Command:**
 
 ```text
-cd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/linked/bob-plugins && npm run build && npm test
+until [ "$(sase bead list -s all -t phase -S 2026-11-26 -n 0 -f json | jq -r ".results[] | select(.id==\"bob-cli-qj.4\") | .status")" = closed ]; do sleep 180; done
 ```
 
 **Directory:**
@@ -19,21 +19,20 @@ cd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/rep
 /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16
 ```
 
-|              |                                                                                                                                                                                                                  |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Outcome**  | COMPLETED — exit 0                                                                                                                                                                                               |
-| **Started**  | 2026-11-26T23:20:14.139261+00:00                                                                                                                                                                                 |
-| **Finished** | 2026-11-26T23:23:15.034668Z                                                                                                                                                                                      |
-| **Elapsed**  | 1m 36s of a 45m 0s budget                                                                                                                                                                                        |
-| **Output**   | 1,871 KiB · evidence refs: `file:monitor-diagnostic-manifest:2x0bdxda1h99`, `file:monitor-retained-log:2x0bdxda1h99` · raw output omitted: `facts_only` · full log: `sase monitor show 2x0bdxda1h99 --all-lines` |
-| **Tool run** | sase tool show 3486c3f578fb93a6293b1d7684c71c61                                                                                                                                                                  |
+|              |                                                                                                                                                                                                                 |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Outcome**  | COMPLETED — exit 0                                                                                                                                                                                              |
+| **Started**  | 2026-11-27T11:18:32.740369+00:00                                                                                                                                                                                |
+| **Finished** | 2026-11-27T11:49:27.081641Z                                                                                                                                                                                     |
+| **Elapsed**  | 30m 20s of a 34h 0m 0s budget                                                                                                                                                                                   |
+| **Output**   | 67 bytes · evidence refs: `file:monitor-diagnostic-manifest:q10se7addvyg`, `file:monitor-retained-log:q10se7addvyg` · raw output omitted: `facts_only` · full log: `sase monitor show q10se7addvyg --all-lines` |
 
-**Why this was monitored:** Run the full Bob Plugins build and test suite for
-bob-cli-qm.7
+**Why this was monitored:** Wait for prerequisite bob-cli-qj.4 (active on apollo since
+05:41 EST) to close before the gated go-live glossary edits and deploy
 
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-d71678cf82ea9eb3.json`
+- **Ref:** `local:continuation/checkpoints/monitor_start-08f563b569a4d0f6.json`
 
 **Checkpoint (JSON):**
 
@@ -41,36 +40,50 @@ bob-cli-qm.7
 {
   "kind": "monitor_start",
   "payload": {
-    "command": "cd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/linked/bob-plugins && npm run build && npm test",
+    "command": "until [ \"$(sase bead list -s all -t phase -S 2026-11-26 -n 0 -f json | jq -r \".results[] | select(.id==\\\"bob-cli-qj.4\\\") | .status\")\" = closed ]; do sleep 180; done",
     "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16",
     "member_agent_name": "bob-cli-qm.7--mon",
-    "monitor_id": "2x0bdxda1h99",
+    "monitor_id": "q10se7addvyg",
     "next_output": "auto",
     "parent_node_ids": [
-      "agent-delta:20261126123946:4d23a55adad01c2d"
+      "agent-delta:20261127060751:23db37218a056b6c"
     ],
     "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:7dcad485b25e51545aa4ec3fab730ccaf18cdbe84a5b984b10f80022497bb96e",
+    "request_fingerprint": "sha256:8a361f144ddaeffb1932f75f02fc0fdda99cd35e3ed6274a8e93ce4c81e20950",
     "starter_agent": "bob-cli-qm.7--plan",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/26/20261126123946"
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/27/20261127060751"
   },
-  "recorded_at_epoch": 1795735298.8776927,
+  "recorded_at_epoch": 1795778346.8929865,
   "schema_version": 1
 }
 ```
 
 ## Your next action
 
-Read the build and npm test result. Fix any failures caused by this phase and rerun the
-required checks. Then inspect bob-cli-qj.4 with an audited bead read. Do not edit the
-prose-card or property-card glossary yet and do not deploy while qj.4 is still open. If
-it remains open, use SASE Monitor for a 15-minute wait and continue after that wait.
-Once qj.4 is closed, reread the current glossary:property-card and glossary:prose-note,
-plus docs/prose.md as qj.4 left them. Apply only the accepted glossary:prose-card,
-glossary:notebook-card, and glossary:property-card decisions using the memory-write
-skill, then run sase memory init, just docs-gen, and just docs-check. Complete the clean
-bob plugins sync and isolated post-sync smoke from docs/develop/deployment.md without
-forcing over drift. Record bob-cli and bob-plugins SHAs, plugin versions, and acceptance
-evidence on bob-cli-qm.7; run sase bead epic-symbols bob-cli-qm.7; close only
-bob-cli-qm.7 when all gates are green. Submit final declarations for the primary and
-linked repositories. %macros_enabled:true
+Finish bob-cli-qm.7 go-live. ALREADY DONE (do not redo): preview gate + cardPreviewKinds
+deleted, passive fold/drawer proof, bob-plugins docs (bob-plugins eca733c2 on master);
+bob-cli docs/prose.md, docs/notebooks.md, docs/reference/vault-format.md (bob-cli
+ebc45fec); provenance-crumb PROPOSED FOLLOW-UP (note #3); full npm test passed then
+(10,097/0/4). STEP 0: read bob-cli-qj.4 once with an audited
+`sase bead read bob-cli-qj.4 -r "<why>"` and confirm it closed done, not canceled. If it
+was canceled or this monitor TIMED OUT, change nothing: record a note on bob-cli-qm.7
+for the land agent and finish through /sase_final. IF CLOSED: (1)
+`sase memory read glossary:property-card glossary:prose-note -r ...` and reread bob-cli
+docs/prose.md as qj.4 left them. (2) Use /sase_memory_write and apply ONLY the three
+accepted decisions in go-live step 5 of plan:202611/prose_and_notebook_cards.md: add
+glossary:prose-card, add glossary:notebook-card, edit glossary:property-card (family
+list + props_v1-only gating/== extensions + Prose Card inline-title-only exception;
+change nothing else). Adjust the drafts to shipped behavior (bob-plugins
+docs/reference/plugins/prose-card.md and notebook-card.md). No other memory note may be
+edited. Then run `sase memory init`, `just docs-gen`, `just docs-check`. (3) In
+bob-plugins (`sase repo open bob-plugins`), on clean up-to-date master:
+`npm run build:check`, `npm test` (use /sase_monitor if long), then `bob plugins sync`
+WITHOUT -F per its AGENTS.md refusal protocol, then the isolated post-sync startup smoke
+in docs/develop/deployment.md; `bob plugins list` must show no drift. Pre-existing npm
+test failures that reproduce on clean master are recorded as PROPOSED FOLLOW-UP, not
+fixed. (4) Note on bob-cli-qm.7: bob-cli and bob-plugins SHAs, plugin versions, and
+acceptance evidence refs (from bob-cli-qm.6). (5) `sase bead epic-symbols bob-cli-qm.7`;
+resolve leftovers; close ONLY bob-cli-qm.7 with
+`sase bead close bob-cli-qm.7 --note ...`. Never close the epic. (6) Submit /sase_final
+with a commit decision for bob-cli: docs(memory): add Prose and Notebook Card glossary
+strands. %macros_enabled:true

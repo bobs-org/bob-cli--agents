@@ -1,30 +1,30 @@
 # Chat History - ace-run (bob-cli-qm.7--1)
 
-- **TIMESTAMP:** 2026-11-26 19:32:27 EST
-- **MODEL:** codex/gpt-6-luna
+- **TIMESTAMP:** 2026-11-27 07:05:25 EST
+- **MODEL:** claude/opus
 - **AGENT:** bob-cli-qm.7--1
 
 # Monitor handoff
 
 This agent delegated the remaining work to a monitor turn.
-Monitor ID: gcw37q0nnyrd
-Inspect with: sase monitor show gcw37q0nnyrd
+Monitor ID: z93x9265d18z
+Inspect with: sase monitor show z93x9265d18z
 Monitor turn: bob-cli-qm.7--mon-0
-Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16
+Directory: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/linked/bob-plugins
 
 Command:
 
 ```sh
-while :; do status=$(sase bead read bob-cli-qj.4 -N -f json -r "Poll qj.4 prerequisite status" | jq -r .issue.status); case "$status" in closed) exit 0;; canceled|cancelled) printf "qj.4 is canceled; inspect its resolution before proceeding.\n"; exit 3;; esac; sleep 60; done
+until { git fetch -q origin && [ -n "$(git log --oneline HEAD..origin/master -- plugins/bob-navigation-hotkeys)" ]; } || { s=$(sase agent list -j 2>/dev/null) && ! printf "%s" "$s" | jq -e ".[] | select(.name==\"bob-cli-q5.6.1.land\" and .status==\"RUNNING\")" >/dev/null; }; do sleep 120; done; git log --oneline HEAD..origin/master -- plugins/bob-navigation-hotkeys; sase agent list -a -j | jq -r ".[] | select(.name==\"bob-cli-q5.6.1.land\") | .status"
 ```
 
 Reason:
 
-Wait for required bob-cli-qj.4 phase to close before glossary edits and deployment
+bob plugins sync refused bob-navigation-hotkeys: bob-cli-q5.6.1.land (ws12, still RUNNING) deployed an uncommitted build at 12:01Z that has not landed; deployment.md says wait for it to land instead of forcing
 
 Next action:
 
-Read bob-cli-qj.4 with an audited bead read. If it is still open, stage another 15-minute SASE Monitor wait and resume after it settles. If closed, reread glossary:property-card, glossary:prose-note, and linked bob-plugins docs/prose.md as left by qj.4. Use sase_memory_write for only the accepted glossary:prose-card, glossary:notebook-card, and glossary:property-card changes, then run sase memory init, just docs-gen, and just docs-check. Complete the clean bob plugins sync and isolated post-sync smoke from docs/develop/deployment.md without forcing over drift. Record bob-cli and bob-plugins SHAs, plugin versions, and acceptance evidence on bob-cli-qm.7; run sase bead epic-symbols bob-cli-qm.7; resolve any remaining symbols and close only bob-cli-qm.7 when all gates are green. Submit final declarations for the primary and linked repositories.
+Finish the bob-cli-qm.7 clean deploy. ALREADY DONE (do not redo): glossary:prose-card + glossary:notebook-card added and glossary:property-card edited per the three accepted decisions, sase memory init, just docs-gen, just docs-check PASS, all committed by the prior turn (docs(memory): add Prose and Notebook Card glossary strands); bob-plugins npm run build:check PASS; npm test 10257 pass/4 fail/4 skip on clean master c6fbeb36 (3 snooze failures + block-marks ENOSPC, all recorded as PROPOSED FOLLOW-UP notes); pre-sync isolated smoke PASS on c6fbeb36 (~/.cache/sase/tmp/qm7-tmp/obsidian-smoke-presync.json); sync: 11 plugins up to date incl. bob-ledger-tools, only bob-navigation-hotkeys refused. NOTE /tmp tmpfs on athena is 100% full: export TMPDIR=$HOME/.cache/sase/tmp/qm7-tmp for every npm/smoke command and never write to /tmp. STEPS: (1) `sase repo open bob-plugins -r ...`; git fetch; run `git log --oneline HEAD..@{upstream} -- plugins/bob-navigation-hotkeys` and check `sase agent list -a -j` for bob-cli-q5.6.1.land. If the build LANDED: checkout is clean, so `git merge --ff-only @{upstream}`, then `npm run build:check`, `npm test` (pre-existing clean-master failures become PROPOSED FOLLOW-UP, never fixed here), `xvfb-run -a npm run smoke:obsidian -- --report $TMPDIR/obsidian-smoke-presync2.json`, `bob plugins sync --repo "$PWD" --no-pull --dry-run`, then `bob plugins sync --repo "$PWD" --no-pull` WITHOUT -F. If sync refuses again, apply the AGENTS.md / docs/develop/deployment.md refusal protocol again (landed: recipe; author still running: stage another zero-weight wait like this one; unlanded and abandoned: ask Bryan via /sase_questions naming the deployed plugin version and features -F would remove). If the land agent STOPPED without landing, that is the abandoned case: ask Bryan as above; do not force. (2) Post-sync gate: `npm run smoke:obsidian -- --deployed-vault /home/bryan/bob --report $TMPDIR/obsidian-smoke-postsync.json` must PASS, and `bob plugins list` (read its JSON rows, exit code alone is not a pass) must show 0 drift. (3) `sase bead note bob-cli-qm.7` with: the bob-cli master SHA of the docs(memory) commit, the deployed bob-plugins SHA, plugin versions from bob plugins list (bob-ledger-tools, bob-articles, bob-navigation-hotkeys at least), smoke verdicts plus report paths, and qm.6 acceptance evidence refs file:explicit:a73e3835af9f399f7878ce73 (report), file:explicit:cdb2d6bb57b0cc11ff575034 (run log), file:explicit:42891323d222e348c4b1008b (18-shot tar). (4) `sase bead epic-symbols bob-cli-qm.7` (none as of 12:03Z), then close ONLY bob-cli-qm.7 with `sase bead close bob-cli-qm.7 --note "<what you verified>"`; never close epic bob-cli-qm or any ancestor. (5) Finish through /sase_final; no repo changes are expected, so submit no commit unless you changed files.
 
 
 ## Prompt
@@ -38,22 +38,22 @@ This fork uses versioned continuation replay. Blocks are stable, parent-first pr
 - **Projection version:** `1`
 - **Ordered nodes:** `1`
 
-## Continuation Block `block:v1:d1108139b63a4260b1db39e991f54bcd`
+## Continuation Block `block:v1:e4c163c09166b71f85145968a4c9560b`
 
-- **Node:** `agent-delta:20261126123946:4d23a55adad01c2d`
+- **Node:** `agent-delta:20261127060751:23db37218a056b6c`
 - **Kind:** `agent_delta`
 - **Parents:** (none)
-- **Content:** `local:continuation/records/agent_delta/agent-delta:20261126123946:4d23a55adad01c2d.json`
-- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-8d65eca53fcb5e79.json`
+- **Content:** `local:continuation/records/agent_delta/agent-delta:20261127060751:23db37218a056b6c.json`
+- **Checkpoint:** `local:continuation/checkpoints/monitor_handoff-d1e43f87a3906cd3.json`
 
 ### User
 
 **Protected user instruction.** Carry this request unless an explicit attributed update supersedes it.
 
+%id(7, clan=bob-cli-qm, bead=bob-cli-qm.7)
 %auto
 #gh:gh_bobs-org__bob-cli
-%id(7, clan=bob-cli-qm, bead=bob-cli-qm.7)
-%model:@medium
+%m:@xlarge 
 %w(bob-cli-qm.6, for_epic=false)
 %w(bead=bob-cli-qm.6)
 Can you complete the work for bead bob-cli-qm.7? The bead is already reserved for you and assigned to your agent
@@ -90,39 +90,48 @@ single-agent tale unless one coder can clearly finish everything left.
 
 ### Assistant
 
-<!--sase:budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-8d65eca53fcb5e79.json;covered=agent-delta%3A20261126123946%3A4d23a55adad01c2d-->
-I’ll inspect the bead, its notes, and the existing workspace changes first so I can continue from any prior work rather than duplicate it. Then I’ll complete the scoped work, check the epic symbols, and close only this phase bead.
+<!--sase:budget-span:open:kind=checkpoint;id=1;checkpoint_ref=local%3Acontinuation%2Fcheckpoints%2Fmonitor_handoff-d1e43f87a3906cd3.json;covered=agent-delta%3A20261127060751%3A23db37218a056b6c-->
+Checking whether earlier attempts at this phase already landed work, and whether the `qj.4` prerequisite is still open.
 
-The phase is still in progress and has two coordination notes that define shared-kit changes to preserve. The checkout is clean, so I’m checking the plan, recent commits, and the relevant decision roster to see what already landed and which approved branches apply.
+Reading the most recent earlier attempt's transcript to see what work already landed.
 
-The required `qi.6` gate is closed, but `qj.4` is still in progress, so I’m keeping its shared prose glossary/deploy step gated. The approved plan is clear on the remaining work; I’m inspecting current gate code and docs now, and will apply the independent cleanup without overwriting that phase’s work.
+`bob-cli-qj.4` was claimed from apollo, so its agent isn't visible in this machine's agent list. Checking the transcripts synced from apollo.
 
-The card gate is now removed from the live match path, and its dedicated gate test and gated acceptance case are gone. I’ve added the passive proof for repeated Notebook and Prose fold/drawer refreshes, updated both repos’ docs, and kept the separate Ref Card gate intact per the coordination note. Next I’m checking the remaining references and running the scoped build and docs checks; deploy and glossary work remain behind `qj.4`.
+The `glossary:prose-note` strand already exists, so part of qj.4 has landed. Checking git history to see how much of qj.4 is done.
 
-I’m using the required audited SASE reads for the plan, research artifact, decisions, and linked plugin checkout. The second gate remains open, so I’m not editing the shared glossary entries or syncing to the live vault yet; I’m completing the offline verification that is safe to run now.
+A plain wait won't help on its own, so I'm checking what qj.4 is stuck on over on apollo (read-only).
 
-The plugin build is taking longer than the initial 30-second window and is still running. I’m letting this same build finish before I inspect its output or start any verification.
+The qj.4 agent started on apollo about 30 minutes ago (05:41 EST) and is still running. Checking how far it has got.
 
-The build is still running with no new output after 60 seconds. I’m continuing to observe the same process; once it exits, I’ll check whether it produced the generated entrypoints cleanly.
+The earlier switch-on work is on bob-plugins master (`eca733c2`) and no preview-gate code is left. All that remains is gated on qj.4. Checking the poll flags before staging the wait.
 
-The focused card tests pass (21/21), including the new repeated fold and drawer refresh proof. The docs lint/build and URL checks passed; `docs:check` is still compiling its executable tutorial, and the plugin build check is also still running, so I’m waiting on both results.
+The edge to qj.4 is already recorded on this bead. Staging a zero-weight poll that ends when qj.4 closes. Its 34 h timeout stays inside the plan's 48 h go-live bound.
 
-`npm run build:check` passed for all plugins. The docs pipeline has cleared lint, strict-site build, offline links, edit-link validation, and search smoke; its first-day tutorial check is the only step still running.
+Staged. Finishing through the finalizer.
 
-The required `bob-cli-qm.7` follow-up is the quiet prose provenance crumb after `qj.5` defines its fields. I’m recording that on this phase bead as the plan directs; I won’t create a separate task bead.
+Nothing was finished this run: `bob-cli-qm.7` stays open because its prerequisite, `bob-cli-qj.4`, still hasn't closed. I've set up one long wait so the work picks up on its own when qj.4 closes, instead of the 15-minute sleeps earlier attempts kept repeating.
 
-The plugin build check and docs pipeline are green, and the follow-up note is recorded. The full `npm test` suite is the remaining offline gate; I’m handing its build and test run to SASE Monitor, with the next step instructed to respect the still-open `qj.4` gate before memory edits or deployment.
+**Already on master from earlier attempts:**
+- The preview gate is gone and both cards are live (bob-plugins `eca733c2`). That commit also has the passive fold/drawer test and the bob-plugins docs. No gate code is left in `src`.
+- The bob-cli docs are updated: `docs/prose.md`, `docs/notebooks.md` and `docs/reference/vault-format.md` (`ebc45fec`).
+- The prose provenance-crumb follow-up is recorded on the bead (note #3), and the full plugin test suite passed then (10,097 passed, 0 failed).
 
-`bob-cli-qm.7` is not closed yet; it requires `bob-cli-qj.4` to close first, and that gate remains in progress. The full plugin build and test suite is staged with SASE Monitor (`2x0bdx`); its successor will continue after the run and gate check.
+**Why it was stuck:** qj.4 runs on apollo, so its agent doesn't show up here. Its agent only started at 05:41 EST this morning. Its live output shows it has passed its host check and is rebasing its plugin changes, so it should close soon.
 
-The preview gate removal, passive fold/drawer proof, and docs updates are ready. Focused tests passed (21/21), `npm run build:check` passed, and plugin `docs:check` passed (447 passed, 1 skipped). The required provenance follow-up is recorded on the bead. Glossary updates, deployment, symbol check, and bead closure remain for after `qj.4` closes. The workspace changes are carried into the monitor successor.
+**What happens next:** monitor `q10se7` checks qj.4's status every 3 minutes and uses no runner capacity while it waits. It times out after 34 h, which keeps it inside the plan's 48 h limit for this phase. When it ends, the follow-up agent will:
+1. Confirm qj.4 closed as done. If it was cancelled or the wait timed out, it changes nothing and leaves a note for the land agent.
+2. Add the approved glossary entries: new `glossary:prose-card` and `glossary:notebook-card`, plus the agreed edit to `glossary:property-card`. Nothing else in memory gets touched. Then it reruns the doc generation and checks.
+3. Rerun the plugin build check and tests, run `bob plugins sync` without forcing, and run the post-sync startup smoke test, which must show no drift.
+4. Record both repos' commit SHAs, the plugin versions and the acceptance evidence on the bead, check for leftover epic symbols, and close only `bob-cli-qm.7`.
+
+This run made no repository changes, so there was nothing to commit.
 <!--sase:budget-span:close:1-->
 
 ---
 
 %macros_enabled:true
 # New Query
-%model:gpt-6-luna@xhigh
+%model:opus@xhigh
 
 %macros_enabled:false
 # Monitored command finished
@@ -130,7 +139,7 @@ The preview gate removal, passive fold/drawer proof, and docs updates are ready.
 **Command:**
 
 ```text
-cd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/linked/bob-plugins && npm run build && npm test
+until [ "$(sase bead list -s all -t phase -S 2026-11-26 -n 0 -f json | jq -r ".results[] | select(.id==\"bob-cli-qj.4\") | .status")" = closed ]; do sleep 180; done
 ```
 
 **Directory:**
@@ -142,17 +151,16 @@ cd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/rep
 | | |
 | --- | --- |
 | **Outcome** | COMPLETED — exit 0 |
-| **Started** | 2026-11-26T23:20:14.139261+00:00 |
-| **Finished** | 2026-11-26T23:23:15.034668Z |
-| **Elapsed** | 1m 36s of a 45m 0s budget |
-| **Output** | 1,871 KiB · evidence refs: `file:monitor-diagnostic-manifest:2x0bdxda1h99`, `file:monitor-retained-log:2x0bdxda1h99` · raw output omitted: `facts_only` · full log: `sase monitor show 2x0bdxda1h99 --all-lines` |
-| **Tool run** | sase tool show 3486c3f578fb93a6293b1d7684c71c61 |
+| **Started** | 2026-11-27T11:18:32.740369+00:00 |
+| **Finished** | 2026-11-27T11:49:27.081641Z |
+| **Elapsed** | 30m 20s of a 34h 0m 0s budget |
+| **Output** | 67 bytes · evidence refs: `file:monitor-diagnostic-manifest:q10se7addvyg`, `file:monitor-retained-log:q10se7addvyg` · raw output omitted: `facts_only` · full log: `sase monitor show q10se7addvyg --all-lines` |
 
-**Why this was monitored:** Run the full Bob Plugins build and test suite for bob-cli-qm.7
+**Why this was monitored:** Wait for prerequisite bob-cli-qj.4 (active on apollo since 05:41 EST) to close before the gated go-live glossary edits and deploy
 
 ## Continuation checkpoint
 
-- **Ref:** `local:continuation/checkpoints/monitor_start-d71678cf82ea9eb3.json`
+- **Ref:** `local:continuation/checkpoints/monitor_start-08f563b569a4d0f6.json`
 
 **Checkpoint (JSON):**
 
@@ -160,20 +168,20 @@ cd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/rep
 {
   "kind": "monitor_start",
   "payload": {
-    "command": "cd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/repos/linked/bob-plugins && npm run build && npm test",
+    "command": "until [ \"$(sase bead list -s all -t phase -S 2026-11-26 -n 0 -f json | jq -r \".results[] | select(.id==\\\"bob-cli-qj.4\\\") | .status\")\" = closed ]; do sleep 180; done",
     "cwd": "/home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16",
     "member_agent_name": "bob-cli-qm.7--mon",
-    "monitor_id": "2x0bdxda1h99",
+    "monitor_id": "q10se7addvyg",
     "next_output": "auto",
     "parent_node_ids": [
-      "agent-delta:20261126123946:4d23a55adad01c2d"
+      "agent-delta:20261127060751:23db37218a056b6c"
     ],
     "project_name": "gh_bobs-org__bob-cli",
-    "request_fingerprint": "sha256:7dcad485b25e51545aa4ec3fab730ccaf18cdbe84a5b984b10f80022497bb96e",
+    "request_fingerprint": "sha256:8a361f144ddaeffb1932f75f02fc0fdda99cd35e3ed6274a8e93ce4c81e20950",
     "starter_agent": "bob-cli-qm.7--plan",
-    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/26/20261126123946"
+    "starter_artifacts_dir": "/home/bryan/.sase/projects/gh_bobs-org__bob-cli/artifacts/ace-run/202611/27/20261127060751"
   },
-  "recorded_at_epoch": 1795735298.8776927,
+  "recorded_at_epoch": 1795778346.8929865,
   "schema_version": 1
 }
 ```
@@ -181,19 +189,74 @@ cd /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_16/sase/rep
 
 ## Your next action
 
-Read the build and npm test result. Fix any failures caused by this phase and rerun the required checks. Then inspect bob-cli-qj.4 with an audited bead read. Do not edit the prose-card or property-card glossary yet and do not deploy while qj.4 is still open. If it remains open, use SASE Monitor for a 15-minute wait and continue after that wait. Once qj.4 is closed, reread the current glossary:property-card and glossary:prose-note, plus docs/prose.md as qj.4 left them. Apply only the accepted glossary:prose-card, glossary:notebook-card, and glossary:property-card decisions using the memory-write skill, then run sase memory init, just docs-gen, and just docs-check. Complete the clean bob plugins sync and isolated post-sync smoke from docs/develop/deployment.md without forcing over drift. Record bob-cli and bob-plugins SHAs, plugin versions, and acceptance evidence on bob-cli-qm.7; run sase bead epic-symbols bob-cli-qm.7; close only bob-cli-qm.7 when all gates are green. Submit final declarations for the primary and linked repositories.
+Finish bob-cli-qm.7 go-live. ALREADY DONE (do not redo): preview gate + cardPreviewKinds deleted, passive fold/drawer proof, bob-plugins docs (bob-plugins eca733c2 on master); bob-cli docs/prose.md, docs/notebooks.md, docs/reference/vault-format.md (bob-cli ebc45fec); provenance-crumb PROPOSED FOLLOW-UP (note #3); full npm test passed then (10,097/0/4). STEP 0: read bob-cli-qj.4 once with an audited `sase bead read bob-cli-qj.4 -r "<why>"` and confirm it closed done, not canceled. If it was canceled or this monitor TIMED OUT, change nothing: record a note on bob-cli-qm.7 for the land agent and finish through /sase_final. IF CLOSED: (1) `sase memory read glossary:property-card glossary:prose-note -r ...` and reread bob-cli docs/prose.md as qj.4 left them. (2) Use /sase_memory_write and apply ONLY the three accepted decisions in go-live step 5 of plan:202611/prose_and_notebook_cards.md: add glossary:prose-card, add glossary:notebook-card, edit glossary:property-card (family list + props_v1-only gating/== extensions + Prose Card inline-title-only exception; change nothing else). Adjust the drafts to shipped behavior (bob-plugins docs/reference/plugins/prose-card.md and notebook-card.md). No other memory note may be edited. Then run `sase memory init`, `just docs-gen`, `just docs-check`. (3) In bob-plugins (`sase repo open bob-plugins`), on clean up-to-date master: `npm run build:check`, `npm test` (use /sase_monitor if long), then `bob plugins sync` WITHOUT -F per its AGENTS.md refusal protocol, then the isolated post-sync startup smoke in docs/develop/deployment.md; `bob plugins list` must show no drift. Pre-existing npm test failures that reproduce on clean master are recorded as PROPOSED FOLLOW-UP, not fixed. (4) Note on bob-cli-qm.7: bob-cli and bob-plugins SHAs, plugin versions, and acceptance evidence refs (from bob-cli-qm.6). (5) `sase bead epic-symbols bob-cli-qm.7`; resolve leftovers; close ONLY bob-cli-qm.7 with `sase bead close bob-cli-qm.7 --note ...`. Never close the epic. (6) Submit /sase_final with a commit decision for bob-cli: docs(memory): add Prose and Notebook Card glossary strands.
 %macros_enabled:true
 
 ## Response
 
-The monitored build and test run finished successfully. I’ll read its retained result, then inspect the phase and qj.4 status before deciding whether the glossary and deployment work can proceed.
+qj.4 closed as done. Now reading my bead and the plan's go-live step 5.
 
-The full plugin build and test run passed: 10,097 tests passed, none failed, and 4 were skipped. qj.4 is still in progress, so glossary edits and deployment remain gated; I’ll review the carried changes and deployment instructions, then stage the required 15-minute monitor wait.
+Pulling latest master (qj.4 may have landed changes) and reading the current glossary strands.
 
-The plugin checkout carries the implementation and docs changes; the primary checkout is clean. I’ve reviewed the plan’s go-live gates and deployment procedure. I’m adding the missing qj.4 prerequisite edge, then handing off a 15-minute status wait so work resumes when that gate closes or the wait expires.
+Invoking the memory-write skill before touching any glossary file.
 
-The full Bob Plugins build and test suite passed: **10,097 passed, 0 failed, 4 skipped**.
+Now I'll check where the `docs/reference/plugins/` paths resolve, and open bob-plugins to read the shipped card docs.
 
-qj.4 remains in progress, so I staged the required 15-minute SASE Monitor wait (`gcw37q`). Its successor will resume when qj.4 closes or the wait expires, then continue with the approved glossary edits, docs checks, clean sync, smoke check, symbol check, and phase closure.
+The shipped docs differ from the plan drafts in a few places. Before writing, I'll check how the architecture doc describes gating and `==` registration for the two species.
 
-I submitted intermediate commit declarations for the primary and linked repositories. `bob-cli-qm.7` remains open until the remaining gates are green.
+Still drafting the glossary strands; I'm checking in the source how the prose and notebook `==` keys are wired before I describe it.
+
+`registerPropertyCard` is the `==` dispatcher extension point. Quick check that `propertyCardKindLive` now reduces to the `props_v1` gate after the preview gate was removed:
+
+Both cards do use the root hue on their crumbs, so the drafts' identity lines hold. Writing the two new strands and the property-card edit.
+
+Strands written. Next I'll regenerate memory, then run docs-gen and docs-check. I'm also checking whether qj.4 touched `docs/prose.md` after the earlier docs commit.
+
+Both strands resolve and their links render. Now running `just docs-gen` and `just docs-check`.
+
+docs-check passed. Moving on to bob-plugins: confirming the checkout is clean and current, then running `build:check` and the full test suite.
+
+The suite finished in about a minute but exited 1. Finding which tests failed:
+
+`/tmp` is a 32 GB tmpfs that is completely full (14 MB free). Looking at what is using it. I won't delete anything I didn't create:
+
+That `du` call went through a `sudo` alias. Retrying with the plain binary:
+
+Running the pre-sync isolated Obsidian smoke now with `TMPDIR` on disk, so the successor only has the sync and the post-sync gate left:
+
+The pre-sync isolated smoke passed on `c6fbeb36`: layout-ready in 326 ms, 64 MiB heap peak, and all 4 editor cases ok. Collecting qm.6's acceptance evidence refs for the provenance note:
+
+Recording the three discovered follow-ups on the bead now, since they don't depend on the deploy:
+
+Checking once more whether the snooze build landed while I was writing notes:
+
+Not landed yet, and the land agent is still running. There are no epic-symbol leftovers. Handing the wait to a monitor:
+
+Staged. Finishing through the finalizer with the bob-cli memory commit.
+
+Submitting an explicit commit for bob-cli with `bead_action: keep`, since the deploy and close are still pending. bob-plugins has no changes.
+
+I've added the Prose Card and Notebook Card glossary strands and updated the Property Card strand, but `bob-cli-qm.7` isn't closed yet. The clean plugin deploy is waiting on another agent's unlanded build.
+
+qj.4 closed as done, so the gated work went ahead.
+
+**Memory (committed this turn as `docs(memory): add Prose and Notebook Card glossary strands`):**
+- **New strands:** `glossary:prose-card` and `glossary:notebook-card`. I adjusted the plan's drafts to match the shipped bob-plugins card docs. For example, the folio tile can show a pilcrow, and the Prose Card stays identity-only without Bob Prose. The Notebook Card's `_` folds the card's details, not just the sections.
+- **`glossary:property-card`:** made only the three approved changes. Both cards are now in the family list, both gate on `props_v1` alone and register their `==` editors through the dispatcher, and the Prose Card is the one card that hides only the inline title. No other memory note was touched.
+- `sase memory init`, `just docs-gen` and `just docs-check` all passed.
+
+**bob-plugins (clean master `c6fbeb36`, no changes):**
+- `npm run build:check` passed.
+- `npm test`: 10,257 passed, 4 failed, 4 skipped. None of the failures touch the card code:
+  - Three snooze tests in `bob-navigation-hotkeys` fail the same way when rerun alone. They come from the snooze work still landing (`bob-cli-q5.6.1`).
+  - The block-marks e2e test fails with "no space left on device" because athena's `/tmp` is full. Other agents' leftover test fixtures fill the whole 32 GB, and I didn't delete any of them.
+- The isolated Obsidian startup smoke test passed before the sync: ready in 326 ms, 64 MiB peak memory, all 4 editor cases ok.
+- **The deploy isn't finished.** `bob plugins sync` (without `-F`) left 11 plugins up to date, including `bob-ledger-tools`, which holds both cards. It refused to overwrite `bob-navigation-hotkeys`. The snooze land agent in workspace 12 deployed that plugin from an uncommitted build at 12:01Z and is still running. The plugin repo's rules say to wait for that build to land rather than force it or ask you.
+
+**Recorded on the bead as follow-ups:** the three snooze test failures, the full `/tmp` (with a suggestion that the e2e runners use `TMPDIR` and clean up after themselves), and a stale preview-gate key left in the cabinets e2e harness, for `bob-cli-qq.9`.
+
+**What happens next:** monitor `z93x92` checks every 2 minutes, holds no runner capacity, and times out after 12 h. It ends when the snooze build lands or its agent stops. The follow-up agent will then:
+1. Sync without `-F`. If the agent stopped without landing its build, it will ask you rather than force.
+2. Run the post-sync startup smoke and confirm `bob plugins list` shows no drift.
+3. Record the commit SHAs, plugin versions and qm.6's acceptance evidence on the bead.
+4. Close only `bob-cli-qm.7`. There are no leftover epic symbols.

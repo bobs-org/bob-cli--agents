@@ -2,16 +2,16 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-qm](../../users/bbugyi200/machines/athena/hoods/bob-cli-qm/README.md) / [bob-cli-qm.7](../../sessions/bbugyi200.athena.bob-cli-qm.7.md) / bob-cli-qm.7--mon-0
 
-**Global name:** `bbugyi200.athena.bob-cli-qm.7--mon-0` · **State:** active · **Source run:** `run-9c87bf8e7623995a4e0b2b78bec99330`
+**Global name:** `bbugyi200.athena.bob-cli-qm.7--mon-0` · **State:** active · **Source run:** `run-024508bd682771f39d2fe0cc2c26e7bd`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-qm
 
 ## Summary
 
 - Bead: [bob-cli-qm.7](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qm/bob-cli-qm.7.md)
-- Model: gpt-6-luna
-- Provider: codex
-- Timing: 2026-11-26T23:26:16.835290+00:00
+- Model: opus
+- Provider: claude
+- Timing: 2026-11-27T12:04:08.913054+00:00
 - Commits: 0
 
 ## Neighbors
