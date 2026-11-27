@@ -1,14 +1,37 @@
-# Chat History - ace-run (bob-cli-q5.8.1.6.5--0)
+# Chat History - ace-run (bob-cli-q5.8.1.6.5--plan)
 
-- **TIMESTAMP:** 2026-11-27 02:48:44 EST
-- **AGENT:** bob-cli-q5.8.1.6.5--0
+- **TIMESTAMP:** 2026-11-27 06:58:51 EST
+- **MODEL:** claude/opus
+- **AGENT:** bob-cli-q5.8.1.6.5--plan
+
+**Plan:** /home/bryan/.sase/plans/202611/mac_wake_notice_acceptance.md
+
+
+## Proposed Plan Preview
+
+*Plan submitted for review.*
+
+**Plan file:** `/home/bryan/.sase/plans/202611/mac_wake_notice_acceptance.md`
+
+> # Finish the Mac wake notice acceptance on an isolated harness
+> ## Why this child epic exists
+> Phase `bob-cli-q5.8.1.6.5` (`notice-acceptance` of
+> `plan:202611/mac_snooze_wake_notice_repair.md`) must run the six end-to-end checks of
+> `plan:202611/mac_snooze_wake_notice.md` ("Verification and land responsibilities") on
+> the real Mac. Six agent runs worked it on 2026-11-27 and left it open. Read every note
+> on that bead with `sase bead read bob-cli-q5.8.1.6.5` before starting. In short:
+> - **Isolation failed.** The earlier scratch bundle kept bundle ID
+>   `org.bobs.bob-mac-capture`. It therefore shared the production defaults domain, the
+>   LaunchServices identity, the Carbon capture hotkey, and the Notification Center app
+
+*See full plan file for details.*
 
 ## Prompt
 
+%id(5, clan=bob-cli-q5.8.1.6, bead=bob-cli-q5.8.1.6.5)
 %auto
 #gh:gh_bobs-org__bob-cli
-%id(5, clan=bob-cli-q5.8.1.6, bead=bob-cli-q5.8.1.6.5)
-%model:@medium
+%m:@xlarge 
 %w(bob-cli-q5.8.1.6.4, for_epic=false)
 %w(bead=bob-cli-q5.8.1.6.4)
 Can you complete the work for bead bob-cli-q5.8.1.6.5? The bead is already reserved for you and assigned to your agent
@@ -41,13 +64,37 @@ single-agent tale unless one coder can clearly finish everything left.
 
 ## Response
 
-Acceptance phase precondition check is done, and the bead stays open with a question gate waiting on Bryan.
+Picking up the phase where the last agent stopped. I'm reading what the earlier attempts left behind, including the answers to the locked-screen questions.
 
-**Status of bead `bob-cli-q5.8.1.6.5` (notice-acceptance): blocked, no checks run yet**
+I'm tracking down the previous attempt's last question gate so I can see what was observed after the locked-screen wake.
 
-Preconditions verified this turn:
-- **Master CI not yet green**: run `45960329324` on `ba213181` (`bob-mac-capture` master) was still in progress when checked. The phase-4 verified snapshot (`e443aa40`, run `45957005662` green) has since landed as `ba213181`, so the follow-up must confirm the new master run went green.
-- **Mac offline**: Tailscale ping to the MacBook (`100.108.201.99`) timed out 3/3 and SSH timed out, so the real-Mac end-to-end runs are impossible right now.
-- **bob side ready**: `bob-cli` HEAD contains `3659edc0` and `59037b23`, and local `bob snooze -f json` reports `wake_notice_version: 1`. The Mac-side bob version still needs checking once the Mac is up.
+Restoring production now: removing the leftover vault override and relaunching Bob Mac Capture so it uses `~/bob` again. The capture panel is closed, so no draft is open.
 
-What I did: recorded these findings as a note on the bead, then staged one question gate asking Bryan to power on the MacBook, open the lid, confirm Tailscale is connected, and reply when reachable — noting that a coordinated genuine lock/unlock observation comes next. Nothing was edited in any repo, so no commit declaration is needed. When Bryan answers, the follow-up agent should confirm master CI green, verify the Mac's bob compatibility (scratch build from `bob-cli` master if its installed bob predates `3659edc0`), and run the six checks from `plan:202611/mac_snooze_wake_notice.md`, fixing only small defects in place.
+Writing the plan for the remaining acceptance. Two quick code checks first: whether the app kills other instances at launch, and how it finds its state directory.
+
+The plan is staged, and its one decision auto-approved on its default. Finishing the turn through the SASE final declaration.
+
+Phase `bob-cli-q5.8.1.6.5` isn't finished, and I left it open. The six end-to-end checks still need several rounds of you at the Mac. Earlier runs had already left it open, so per the phase rules I wrote a child epic for the remaining work; it's staged now. I also found and fixed a problem with your production Bob Mac Capture.
+
+**The production problem (fixed)**
+- **Cause:** the earlier test copy of the app kept production's bundle ID, `org.bobs.bob-mac-capture`. So it shared production's settings, capture hotkey and Notification Center entry. That's why it took over your capture panel.
+- **Effect:** its vault setting (`bobDirectory=/tmp/wake-accept-vault`) leaked into production. Your `just install-all` relaunched production at 06:45 with that setting, so production was running against the test vault. Your snooze wakes from `~/bob` would have been dropped.
+- **Fix, at 06:51:** I deleted that setting (it was originally absent) and relaunched production from `~/Applications`. It's running as PID 96882 against `~/bob`, and its snooze claim is live.
+- **No capture went astray:** nothing landed in the test vault after 06:44.
+- **Cleanup:** I deleted the earlier run's leftovers under `/tmp` on the Mac. I left the unrelated `bob-cli-qp.7-acceptance` folder alone.
+
+**Check results so far**
+- **Check 1:** your 06:33 report of one HUD, one chime and one record stands. The repeat, duplicate-signal and restart parts are still untested.
+- **Check 6:** bob's routing (auto, desktop and off) was confirmed earlier. The app's side isn't tested yet.
+- **Check 2 (locked screen) must be redone.** The 06:39 attempt has no evidence: the agent died before asking you, and the app's logs from that time had already expired. The first locked attempt was inconclusive too.
+- **Checks 3–5** haven't been run.
+
+**CI:** master `ba213181` CI is still red. Run `45960329324` fails one test that the commit doesn't touch (`CaptureTaskGotoPanelTests.testLateFailureAfterChipReopenSuccessHasNoEffect`). I asked GitHub to rerun the failed job to see whether it's flaky. Nothing is watching that rerun yet; the epic's first phase reads the result.
+
+**The child epic** (parent `bob-cli-q5.8.1.6.5`, four phases in order):
+1. **harness:** settle the CI result, then build a test copy with its own bundle ID (`org.bobs.bob-mac-capture.accept`), settings, state and vault, with its hotkeys turned off. It also gets a check that production is untouched, run before and after every test, and a teardown. You'll be asked to allow notifications for the test copy.
+2. **delivery:** checks 1, 2 and 6, including a real lock and unlock.
+3. **meetings-actions:** checks 3 and 4.
+4. **records-a11y:** check 5, then teardown.
+
+Its one decision went through on the default: the test setup gets committed to bob-mac-capture as `Scripts/snooze-accept.sh`. Each phase logs the app's wake events to a file and notes your answers on its bead right away, so evidence survives an agent dying. When all four phases are done, the epic's land agent closes this phase with the evidence for each check.
