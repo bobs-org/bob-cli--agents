@@ -418,9 +418,9 @@
 | [bob-cli-oz](hoods/bob-cli-oz/README.md) | 18 | 4 | completed 16, failed 2 |
 | [bob-cli-pf](hoods/bob-cli-pf/README.md) | 174 | 19 | active 1, completed 115, dismissed 6, failed 52 |
 | [bob-cli-ph](hoods/bob-cli-ph/README.md) | 172 | 20 | active 2, completed 125, dismissed 3, failed 42 |
-| [bob-cli-pl](hoods/bob-cli-pl/README.md) | 139 | 13 | active 6, completed 90, dismissed 10, failed 33 |
-| [bob-cli-pw](hoods/bob-cli-pw/README.md) | 67 | 11 | active 2, completed 53, failed 12 |
-| [bob-cli-q8](hoods/bob-cli-q8/README.md) | 35 | 4 | active 1, completed 30, failed 4 |
+| [bob-cli-pl](hoods/bob-cli-pl/README.md) | 139 | 13 | active 5, completed 90, dismissed 11, failed 33 |
+| [bob-cli-pw](hoods/bob-cli-pw/README.md) | 67 | 11 | completed 53, dismissed 2, failed 12 |
+| [bob-cli-q8](hoods/bob-cli-q8/README.md) | 35 | 4 | completed 30, dismissed 1, failed 4 |
 | [bob-cli-qj](hoods/bob-cli-qj/README.md) | 6 | 0 | active 1, completed 1, waiting 4 |
 | [bob-cli-qp](hoods/bob-cli-qp/README.md) | 14 | 2 | completed 12, failed 1, waiting 1 |
 | [bob-cli-qq](hoods/bob-cli-qq/README.md) | 43 | 4 | active 1, completed 28, failed 12, waiting 2 |
