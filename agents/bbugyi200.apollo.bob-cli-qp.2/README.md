@@ -28,6 +28,6 @@
 | [bob-cli-qp.4](../bbugyi200.apollo.bob-cli-qp.4/README.md) | bob-cli-qp hood | completed |
 | [bob-cli-qp.5](../bbugyi200.apollo.bob-cli-qp.5/README.md) | bob-cli-qp hood | completed |
 | [bob-cli-qp.6](../bbugyi200.apollo.bob-cli-qp.6/README.md) | bob-cli-qp hood | completed |
-| [bob-cli-qp.7](../../sessions/bbugyi200.apollo.bob-cli-qp.7.md) (session · 2) | bob-cli-qp hood | active 1, completed 1 |
+| [bob-cli-qp.7](../../sessions/bbugyi200.apollo.bob-cli-qp.7.md) (session · 3) | bob-cli-qp hood | completed 3 |
 | [bob-cli-qp.8](../bbugyi200.apollo.bob-cli-qp.8/README.md) | bob-cli-qp hood | waiting |
 | [bob-cli-qp.land](../bbugyi200.apollo.bob-cli-qp.land/README.md) | bob-cli-qp hood | waiting |
