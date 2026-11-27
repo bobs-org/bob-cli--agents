@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`3deee35`](https://github.com/bobs-org/bob-cli/commit/3deee354ad8cf4a7cfd600a12af0501e8de5153f) | fix(props): satisfy settings contract lint gates | 2026-11-24 13:53:07 EST |
+| — | `3deee35` | fix(props): satisfy settings contract lint gates | 2026-11-24 13:53:07 EST |

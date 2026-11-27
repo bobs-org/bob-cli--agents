@@ -21,4 +21,4 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`fb946f9`](https://github.com/bobs-org/bob-cli/commit/fb946f9c5bd4d195a1221a17f1e97fe09f8ac1d3) | fix(props): support macOS vault aliases and lock probes | 2026-11-24 12:48:17 EST |
+| — | `fb946f9` | fix(props): support macOS vault aliases and lock probes | 2026-11-24 12:48:17 EST |

@@ -11,7 +11,7 @@ flowchart TD
   n0["fy--1 [completed]"]
   n1["fy--mon-0 [failed]"]
   n0 --> n1
-  n2["fy--mon-4 [active]"]
+  n2["fy--mon-4 [failed]"]
   n0 --> n2
   n3["fy--5 [completed]"]
   n0 --> n3
@@ -39,7 +39,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-1"></a>1 | fy--1 | completed | gpt-6-astra / codex | 2026-11-24T16:08:44.227920+00:00 → 2026-11-24T16:13:27.186618+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.fy--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.fy--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | fy--mon-0 | failed | gpt-6-astra / codex | 2026-11-24T16:12:48.630685+00:00 → 2026-11-24T16:38:06.634820+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.fy--mon-0/chat.md) |
-| <a id="member-mon-4"></a>mon-4 | fy--mon-4 | active | gpt-6-astra / codex | 2026-11-24T18:52:23.223813+00:00 | 0 | — | — |
+| <a id="member-mon-4"></a>mon-4 | fy--mon-4 | failed | gpt-6-astra / codex | 2026-11-24T18:52:23.223813+00:00 → 2026-11-24T19:08:36.228438+00:00 | 0 | — | — |
 | <a id="member-5"></a>5 | fy--5 | completed | gpt-6-astra / codex | 2026-11-24T18:48:29.466297+00:00 → 2026-11-24T18:53:27.689054+00:00 | [1](../agents/bbugyi200.apollo.fy--5/README.md#commits) | [Prompt](../agents/bbugyi200.apollo.fy--5/prompt.md) | [Chat](../agents/bbugyi200.apollo.fy--5/chat.md) |
 | <a id="member-mon"></a>mon | fy--mon | failed | gpt-6-astra / codex | 2026-11-24T15:35:29.445223+00:00 → 2026-11-24T16:08:44.277483+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.fy--mon/chat.md) |
 | <a id="member-4"></a>4 | fy--4 | completed | gpt-6-astra / codex | 2026-11-24T17:50:17.302889+00:00 → 2026-11-24T18:09:07.216655+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.fy--4/prompt.md) | [Chat](../agents/bbugyi200.apollo.fy--4/chat.md) |
@@ -54,5 +54,5 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 3 | bob-cli | [`fb946f9`](https://github.com/bobs-org/bob-cli/commit/fb946f9c5bd4d195a1221a17f1e97fe09f8ac1d3) | fix(props): support macOS vault aliases and lock probes | 2026-11-24 12:48:17 EST |
-| 5 | bob-cli | [`3deee35`](https://github.com/bobs-org/bob-cli/commit/3deee354ad8cf4a7cfd600a12af0501e8de5153f) | fix(props): satisfy settings contract lint gates | 2026-11-24 13:53:07 EST |
+| 3 | — | `fb946f9` | fix(props): support macOS vault aliases and lock probes | 2026-11-24 12:48:17 EST |
+| 5 | — | `3deee35` | fix(props): satisfy settings contract lint gates | 2026-11-24 13:53:07 EST |
