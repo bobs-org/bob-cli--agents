@@ -34,4 +34,4 @@
 | [bob-cli-qm.4](../bbugyi200.athena.bob-cli-qm.4/README.md) | bob-cli-qm hood | completed |
 | [bob-cli-qm.5](../../sessions/bbugyi200.athena.bob-cli-qm.5.md) (session · 7) | bob-cli-qm hood | completed 6, failed 1 |
 | [bob-cli-qm.6](../bbugyi200.athena.bob-cli-qm.6/README.md) | bob-cli-qm hood | completed |
-| [bob-cli-qm.land](../bbugyi200.athena.bob-cli-qm.land/README.md) | bob-cli-qm hood | waiting |
+| [bob-cli-qm.land](../../sessions/bbugyi200.athena.bob-cli-qm.land.md) (session · 3) | bob-cli-qm hood | active 2, completed 1 |

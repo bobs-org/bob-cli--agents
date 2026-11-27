@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-qm](../../users/bbugyi200/machines/athena/hoods/bob-cli-qm/README.md) / [bob-cli-qm.7](../../sessions/bbugyi200.athena.bob-cli-qm.7.md) / bob-cli-qm.7--mon-0
 
-**Global name:** `bbugyi200.athena.bob-cli-qm.7--mon-0` · **State:** active · **Source run:** `run-024508bd682771f39d2fe0cc2c26e7bd`
+**Global name:** `bbugyi200.athena.bob-cli-qm.7--mon-0` · **State:** completed · **Source run:** `run-024508bd682771f39d2fe0cc2c26e7bd`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-qm
 
@@ -11,8 +11,12 @@
 - Bead: [bob-cli-qm.7](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qm/bob-cli-qm.7.md)
 - Model: opus
 - Provider: claude
-- Timing: 2026-11-27T12:04:08.913054+00:00
+- Timing: 2026-11-27T12:04:08.913054+00:00 → 2026-11-27T12:09:05.981801+00:00
 - Commits: 0
+
+## Files
+
+[Chat](chat.md)
 
 ## Neighbors
 
@@ -24,4 +28,4 @@
 | [bob-cli-qm.4](../bbugyi200.athena.bob-cli-qm.4/README.md) | bob-cli-qm hood | completed |
 | [bob-cli-qm.5](../../sessions/bbugyi200.athena.bob-cli-qm.5.md) (session · 7) | bob-cli-qm hood | completed 6, failed 1 |
 | [bob-cli-qm.6](../bbugyi200.athena.bob-cli-qm.6/README.md) | bob-cli-qm hood | completed |
-| [bob-cli-qm.land](../bbugyi200.athena.bob-cli-qm.land/README.md) | bob-cli-qm hood | waiting |
+| [bob-cli-qm.land](../../sessions/bbugyi200.athena.bob-cli-qm.land.md) (session · 3) | bob-cli-qm hood | active 2, completed 1 |
