@@ -37,7 +37,7 @@
 | [bob-cli-qj.5.1.6](../bbugyi200.apollo.bob-cli-qj.5.1.6/README.md) | bob-cli-qj.5.1 hood | completed |
 | [bob-cli-qj.5.1.7](../../sessions/bbugyi200.apollo.bob-cli-qj.5.1.7.md) (session · 5) | bob-cli-qj.5.1 hood | completed 3, failed 2 |
 | [bob-cli-qj.5.1.8](../bbugyi200.apollo.bob-cli-qj.5.1.8/README.md) | bob-cli-qj.5.1 hood | completed |
-| [bob-cli-qj.5.1.land](../../sessions/bbugyi200.apollo.bob-cli-qj.5.1.land.md) (session · 6) | bob-cli-qj.5.1 hood | active 1, completed 4, failed 1 |
+| [bob-cli-qj.5.1.land](../../sessions/bbugyi200.apollo.bob-cli-qj.5.1.land.md) (session · 8) | bob-cli-qj.5.1 hood | active 1, completed 5, failed 2 |
 | [bob-cli-qj.1](../bbugyi200.apollo.bob-cli-qj.1/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.2](../bbugyi200.apollo.bob-cli-qj.2/README.md) | bob-cli-qj hood | completed |
 | [bob-cli-qj.3](../bbugyi200.apollo.bob-cli-qj.3/README.md) | bob-cli-qj hood | completed |
