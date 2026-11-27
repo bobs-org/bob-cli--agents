@@ -15,7 +15,7 @@ flowchart TD
   n0 --> n2
   n3["bob-cli-ph.8--mon-0 [completed]"]
   n0 --> n3
-  n4["bob-cli-ph.8--plan [active]"]
+  n4["bob-cli-ph.8--plan [dismissed]"]
   n0 --> n4
   n5["bob-cli-ph.8--mon [completed]"]
   n0 --> n5
@@ -31,7 +31,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-gate"></a>gate | bob-cli-ph.8--gate | completed | opus / claude | 2026-11-26T01:55:11.615426+00:00 → 2026-11-26T01:55:37.756429+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--gate/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-ph.8--1 | completed | gpt-6-luna / codex | 2026-11-26T00:03:03.643788+00:00 → 2026-11-26T00:19:24.544227+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8--1/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--1/chat.md) |
 | <a id="member-mon-0"></a>mon-0 | bob-cli-ph.8--mon-0 | completed | gpt-6-luna / codex | 2026-11-26T00:16:21.568916+00:00 → 2026-11-26T00:24:32.472728+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--mon-0/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-ph.8--plan | active | opus / claude | 2026-11-26T01:43:23.576347+00:00 → 2026-11-26T01:55:49.425390+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-ph.8--plan | dismissed | opus / claude | 2026-11-25T20:43:23.576347 → 2026-11-25T20:55:49.921266 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-ph.8--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-ph.8--mon | completed | opus / claude | 2026-11-26T01:55:35.711671+00:00 → 2026-11-26T02:02:56.910908+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--mon/chat.md) |
 | <a id="member-code"></a>code | bob-cli-ph.8--code | completed | gpt-6-luna / codex | 2026-11-25T23:40:58.738663+00:00 → 2026-11-25T23:57:11.717412+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-ph.8--code/chat.md) |
 

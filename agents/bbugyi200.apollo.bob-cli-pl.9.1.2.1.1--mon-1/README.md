@@ -25,13 +25,13 @@
 | [bob-cli-pl.9.1.2](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.md) (session · 31) | ancestor | active 2, completed 20, failed 9 |
 | [bob-cli-pl.9](../../sessions/bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-pl.9.1.2.1.2](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.2/README.md) | bob-cli-pl.9.1.2.1 hood | completed |
-| [bob-cli-pl.9.1.2.1.3](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.1.3.md) (session · 7) | bob-cli-pl.9.1.2.1 hood | active 2, completed 4, failed 1 |
+| [bob-cli-pl.9.1.2.1.3](../../sessions/bbugyi200.apollo.bob-cli-pl.9.1.2.1.3.md) (session · 7) | bob-cli-pl.9.1.2.1 hood | active 1, completed 4, dismissed 1, failed 1 |
 | [bob-cli-pl.9.1.2.1.4](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.4/README.md) | bob-cli-pl.9.1.2.1 hood | waiting |
 | [bob-cli-pl.9.1.2.1.land](../bbugyi200.apollo.bob-cli-pl.9.1.2.1.land/README.md) | bob-cli-pl.9.1.2.1 hood | waiting |
 | [bob-cli-pl.9.1.1](../bbugyi200.apollo.bob-cli-pl.9.1.1/README.md) | bob-cli-pl.9.1 hood | completed |
 | [bob-cli-pl.9.1.3](../bbugyi200.apollo.bob-cli-pl.9.1.3/README.md) | bob-cli-pl.9.1 hood | waiting |
 | [bob-cli-pl.9.1.4](../bbugyi200.apollo.bob-cli-pl.9.1.4/README.md) | bob-cli-pl.9.1 hood | waiting |
-| [bob-cli-pl.9.1.land](../bbugyi200.apollo.bob-cli-pl.9.1.land/README.md) | bob-cli-pl.9.1 hood | waiting |
+| [bob-cli-pl.9.1.land](../bbugyi200.apollo.bob-cli-pl.9.1.land/README.md) | bob-cli-pl.9.1 hood | dismissed |
 | [bob-cli-pl.1](../../sessions/bbugyi200.apollo.bob-cli-pl.1.md) (session · 9) | bob-cli-pl hood | completed 7, failed 2 |
 | [bob-cli-pl.2](../../sessions/bbugyi200.apollo.bob-cli-pl.2.md) (session · 5) | bob-cli-pl hood | completed 4, failed 1 |
 | [bob-cli-pl.3](../bbugyi200.apollo.bob-cli-pl.3/README.md) | bob-cli-pl hood | completed |
