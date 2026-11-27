@@ -37,7 +37,7 @@ flowchart TD
   n0 --> n13
   n14["bob-cli-pl.9.1.2--mon-4 [failed]"]
   n0 --> n14
-  n15["bob-cli-pl.9.1.2--plan [active]"]
+  n15["bob-cli-pl.9.1.2--plan [dismissed]"]
   n0 --> n15
   n16["bob-cli-pl.9.1.2--mon [completed]"]
   n0 --> n16
@@ -90,7 +90,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-a"></a>mon-a | bob-cli-pl.9.1.2--mon-a | completed | gpt-6-luna / codex | 2026-11-26T06:25:09.105929+00:00 → 2026-11-26T06:36:13.208849+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2--mon-a/chat.md) |
 | <a id="member-gate"></a>gate | bob-cli-pl.9.1.2--gate | completed | gpt-6-astra / codex | 2026-11-26T08:27:57.068647+00:00 → 2026-11-26T08:28:27.689710+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2--gate/chat.md) |
 | <a id="member-mon-4"></a>mon-4 | bob-cli-pl.9.1.2--mon-4 | failed | gpt-6-luna / codex | 2026-11-26T04:41:55.142237+00:00 → 2026-11-26T04:47:57.714599+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2--mon-4/chat.md) |
-| <a id="member-plan"></a>plan | bob-cli-pl.9.1.2--plan | active | gpt-6-astra / codex | 2026-11-26T08:16:57.163534+00:00 → 2026-11-26T08:28:38.293278+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2--plan/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-pl.9.1.2--plan | dismissed | gpt-6-astra / codex | 2026-11-26T03:16:57.163534 → 2026-11-26T03:28:38.703854 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2--plan/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2--plan/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-pl.9.1.2--mon | completed | gpt-6-astra / codex | 2026-11-26T08:28:25.834245+00:00 → 2026-11-26T08:30:24.166151+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2--mon/chat.md) |
 | <a id="member-2"></a>2 | bob-cli-pl.9.1.2--2 | completed | gpt-6-luna / codex | 2026-11-26T02:59:44.151722+00:00 → 2026-11-26T03:26:35.678637+00:00 | 0 | [Prompt](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2--2/prompt.md) | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2--2/chat.md) |
 | <a id="member-mon-1"></a>mon-1 | bob-cli-pl.9.1.2--mon-1 | failed | gpt-6-luna / codex | 2026-11-26T03:10:15.136722+00:00 → 2026-11-26T03:31:47.608340+00:00 | 0 | — | [Chat](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2--mon-1/chat.md) |
@@ -135,12 +135,12 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-pl.9](bbugyi200.apollo.bob-cli-pl.9.md) (session · 3) | ancestor | active 1, completed 2 |
 | [bob-cli-pl.9.1.2.1.1](bbugyi200.apollo.bob-cli-pl.9.1.2.1.1.md) (session · 11) | descendant | completed 7, failed 4 |
 | [bob-cli-pl.9.1.2.1.2](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2.1.2/README.md) | descendant | completed |
-| [bob-cli-pl.9.1.2.1.3](bbugyi200.apollo.bob-cli-pl.9.1.2.1.3.md) (session · 7) | descendant | active 1, completed 4, dismissed 1, failed 1 |
-| [bob-cli-pl.9.1.2.1.4](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2.1.4/README.md) | descendant | waiting |
-| [bob-cli-pl.9.1.2.1.land](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2.1.land/README.md) | descendant | waiting |
+| [bob-cli-pl.9.1.2.1.3](bbugyi200.apollo.bob-cli-pl.9.1.2.1.3.md) (session · 7) | descendant | completed 4, dismissed 2, failed 1 |
+| [bob-cli-pl.9.1.2.1.4](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2.1.4/README.md) | descendant | dismissed |
+| [bob-cli-pl.9.1.2.1.land](../agents/bbugyi200.apollo.bob-cli-pl.9.1.2.1.land/README.md) | descendant | dismissed |
 | [bob-cli-pl.9.1.1](../agents/bbugyi200.apollo.bob-cli-pl.9.1.1/README.md) | bob-cli-pl.9.1 hood | completed |
-| [bob-cli-pl.9.1.3](../agents/bbugyi200.apollo.bob-cli-pl.9.1.3/README.md) | bob-cli-pl.9.1 hood | waiting |
-| [bob-cli-pl.9.1.4](../agents/bbugyi200.apollo.bob-cli-pl.9.1.4/README.md) | bob-cli-pl.9.1 hood | waiting |
+| [bob-cli-pl.9.1.3](../agents/bbugyi200.apollo.bob-cli-pl.9.1.3/README.md) | bob-cli-pl.9.1 hood | dismissed |
+| [bob-cli-pl.9.1.4](../agents/bbugyi200.apollo.bob-cli-pl.9.1.4/README.md) | bob-cli-pl.9.1 hood | dismissed |
 | [bob-cli-pl.9.1.land](../agents/bbugyi200.apollo.bob-cli-pl.9.1.land/README.md) | bob-cli-pl.9.1 hood | dismissed |
 | [bob-cli-pl.1](bbugyi200.apollo.bob-cli-pl.1.md) (session · 9) | bob-cli-pl hood | completed 7, failed 2 |
 | [bob-cli-pl.2](bbugyi200.apollo.bob-cli-pl.2.md) (session · 5) | bob-cli-pl hood | completed 4, failed 1 |
@@ -151,7 +151,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-pl.4.1.3](bbugyi200.apollo.bob-cli-pl.4.1.3.md) (session · 12) | bob-cli-pl hood | completed 7, failed 5 |
 | [bob-cli-pl.4.1.land](bbugyi200.apollo.bob-cli-pl.4.1.land.md) (session · 3) | bob-cli-pl hood | completed 3 |
 | [bob-cli-pl.5](../agents/bbugyi200.apollo.bob-cli-pl.5/README.md) | bob-cli-pl hood | completed |
-| [bob-cli-pl.6](bbugyi200.apollo.bob-cli-pl.6.md) (session · 3) | bob-cli-pl hood | active 1, completed 2 |
+| [bob-cli-pl.6](bbugyi200.apollo.bob-cli-pl.6.md) (session · 3) | bob-cli-pl hood | completed 2, dismissed 1 |
 | [bob-cli-pl.6.1.1](bbugyi200.apollo.bob-cli-pl.6.1.1.md) (session · 3) | bob-cli-pl hood | completed 3 |
 | [bob-cli-pl.6.1.2](bbugyi200.apollo.bob-cli-pl.6.1.2.md) (session · 8) | bob-cli-pl hood | active 1, completed 4, failed 3 |
 | [bob-cli-pl.6.1.2](../agents/bbugyi200.apollo.bob-cli-pl.6.1.2/README.md) | bob-cli-pl hood | completed |
@@ -161,4 +161,4 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-pl.6.1.land](../agents/bbugyi200.apollo.bob-cli-pl.6.1.land/README.md) | bob-cli-pl hood | completed |
 | [bob-cli-pl.7](../agents/bbugyi200.apollo.bob-cli-pl.7/README.md) | bob-cli-pl hood | completed |
 | [bob-cli-pl.8](../agents/bbugyi200.apollo.bob-cli-pl.8/README.md) | bob-cli-pl hood | completed |
-| [bob-cli-pl.land](../agents/bbugyi200.apollo.bob-cli-pl.land/README.md) | bob-cli-pl hood | waiting |
+| [bob-cli-pl.land](../agents/bbugyi200.apollo.bob-cli-pl.land/README.md) | bob-cli-pl hood | dismissed |
