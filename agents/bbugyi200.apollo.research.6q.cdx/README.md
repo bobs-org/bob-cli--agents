@@ -12,10 +12,29 @@
 - Provider: codex
 - Timing: 2026-11-27T18:53:48.272302+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/obsidian\_heading\_jump\_section\_context\_\_cdx.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127135226/obsidian\_heading\_jump\_section\_cont… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/obsidian_heading_jump_section_context__cdx.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127135226/obsidian_heading_jump_section_context__cdx-a755bd7b3046.md
+  ref: file:explicit:45a18fcad6ecce8025966033
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_13/sase/repos/research/202611/obsidian_heading_jump_section_context__cdx.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
