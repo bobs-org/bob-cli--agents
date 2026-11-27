@@ -2,7 +2,7 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-qi](../users/bbugyi200/machines/athena/hoods/bob-cli-qi/README.md) / bob-cli-qi.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-qi` · Members: 52 · Bead: [bob-cli-qi](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qi/README.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-qi` · Members: 54 · Bead: [bob-cli-qi](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-qi/README.md)
 
 ## Lineage
 
@@ -11,106 +11,110 @@ flowchart TD
   n0["bob-cli-qi.land--b [completed]"]
   n1["bob-cli-qi.land--mon [failed]"]
   n0 --> n1
-  n2["bob-cli-qi.land--a [completed]"]
+  n2["bob-cli-qi.land--mon-o [active]"]
   n0 --> n2
-  n3["bob-cli-qi.land--7 [completed]"]
+  n3["bob-cli-qi.land--a [completed]"]
   n0 --> n3
-  n4["bob-cli-qi.land--l [completed]"]
+  n4["bob-cli-qi.land--7 [completed]"]
   n0 --> n4
-  n5["bob-cli-qi.land--mon-l [failed]"]
+  n5["bob-cli-qi.land--l [completed]"]
   n0 --> n5
-  n6["bob-cli-qi.land--4 [completed]"]
+  n6["bob-cli-qi.land--mon-l [failed]"]
   n0 --> n6
-  n7["bob-cli-qi.land--mon-b [failed]"]
+  n7["bob-cli-qi.land--4 [completed]"]
   n0 --> n7
-  n8["bob-cli-qi.land--d [completed]"]
+  n8["bob-cli-qi.land--mon-b [failed]"]
   n0 --> n8
-  n9["bob-cli-qi.land--mon-f [failed]"]
+  n9["bob-cli-qi.land--d [completed]"]
   n0 --> n9
-  n10["bob-cli-qi.land--mon-k [failed]"]
+  n10["bob-cli-qi.land--mon-f [failed]"]
   n0 --> n10
-  n11["bob-cli-qi.land--gate [completed]"]
+  n11["bob-cli-qi.land--mon-k [failed]"]
   n0 --> n11
-  n12["bob-cli-qi.land--mon-3 [completed]"]
+  n12["bob-cli-qi.land--gate [completed]"]
   n0 --> n12
-  n13["bob-cli-qi.land--5 [completed]"]
+  n13["bob-cli-qi.land--mon-3 [completed]"]
   n0 --> n13
-  n14["bob-cli-qi.land--8 [completed]"]
+  n14["bob-cli-qi.land--5 [completed]"]
   n0 --> n14
-  n15["bob-cli-qi.land--code [completed]"]
+  n15["bob-cli-qi.land--8 [completed]"]
   n0 --> n15
-  n16["bob-cli-qi.land--mon-m [failed]"]
+  n16["bob-cli-qi.land--code [completed]"]
   n0 --> n16
-  n17["bob-cli-qi.land--9 [completed]"]
+  n17["bob-cli-qi.land--mon-m [failed]"]
   n0 --> n17
-  n18["bob-cli-qi.land--j [completed]"]
+  n18["bob-cli-qi.land--9 [completed]"]
   n0 --> n18
-  n19["bob-cli-qi.land--2 [completed]"]
+  n19["bob-cli-qi.land--j [completed]"]
   n0 --> n19
-  n20["bob-cli-qi.land--mon-7 [completed]"]
+  n20["bob-cli-qi.land--2 [completed]"]
   n0 --> n20
-  n21["bob-cli-qi.land--mon-5 [failed]"]
+  n21["bob-cli-qi.land--mon-7 [completed]"]
   n0 --> n21
-  n22["bob-cli-qi.land--mon-8 [completed]"]
+  n22["bob-cli-qi.land--mon-5 [failed]"]
   n0 --> n22
-  n23["bob-cli-qi.land--mon-g [failed]"]
+  n23["bob-cli-qi.land--mon-8 [completed]"]
   n0 --> n23
-  n24["bob-cli-qi.land--n [completed]"]
+  n24["bob-cli-qi.land--mon-g [failed]"]
   n0 --> n24
-  n25["bob-cli-qi.land--k [completed]"]
+  n25["bob-cli-qi.land--n [completed]"]
   n0 --> n25
-  n26["bob-cli-qi.land--mon-4 [failed]"]
+  n26["bob-cli-qi.land--k [completed]"]
   n0 --> n26
-  n27["bob-cli-qi.land--mon-6 [failed]"]
+  n27["bob-cli-qi.land--mon-4 [failed]"]
   n0 --> n27
-  n28["bob-cli-qi.land--mon-2 [failed]"]
+  n28["bob-cli-qi.land--mon-6 [failed]"]
   n0 --> n28
-  n29["bob-cli-qi.land--mon-i [failed]"]
+  n29["bob-cli-qi.land--mon-2 [failed]"]
   n0 --> n29
-  n30["bob-cli-qi.land--mon-0 [completed]"]
+  n30["bob-cli-qi.land--mon-i [failed]"]
   n0 --> n30
-  n31["bob-cli-qi.land--g [completed]"]
+  n31["bob-cli-qi.land--mon-0 [completed]"]
   n0 --> n31
-  n32["bob-cli-qi.land--mon-e [failed]"]
+  n32["bob-cli-qi.land--g [completed]"]
   n0 --> n32
-  n33["bob-cli-qi.land--mon-a [failed]"]
+  n33["bob-cli-qi.land--mon-e [failed]"]
   n0 --> n33
-  n34["bob-cli-qi.land--6 [completed]"]
+  n34["bob-cli-qi.land--mon-a [failed]"]
   n0 --> n34
-  n35["bob-cli-qi.land--c [completed]"]
+  n35["bob-cli-qi.land--6 [completed]"]
   n0 --> n35
-  n36["bob-cli-qi.land--m [completed]"]
+  n36["bob-cli-qi.land--c [completed]"]
   n0 --> n36
-  n37["bob-cli-qi.land--mon-c [failed]"]
+  n37["bob-cli-qi.land--m [completed]"]
   n0 --> n37
-  n38["bob-cli-qi.land--o [completed]"]
+  n38["bob-cli-qi.land--mon-c [failed]"]
   n0 --> n38
-  n39["bob-cli-qi.land--mon-h [failed]"]
+  n39["bob-cli-qi.land--o [completed]"]
   n0 --> n39
-  n40["bob-cli-qi.land--i [completed]"]
+  n40["bob-cli-qi.land--mon-h [failed]"]
   n0 --> n40
-  n41["bob-cli-qi.land--mon-j [failed]"]
+  n41["bob-cli-qi.land--i [completed]"]
   n0 --> n41
-  n42["bob-cli-qi.land--mon-n [active]"]
+  n42["bob-cli-qi.land--mon-j [failed]"]
   n0 --> n42
-  n43["bob-cli-qi.land--f [completed]"]
+  n43["bob-cli-qi.land--mon-n [failed]"]
   n0 --> n43
-  n44["bob-cli-qi.land--mon-9 [failed]"]
+  n44["bob-cli-qi.land--p [completed]"]
   n0 --> n44
-  n45["bob-cli-qi.land--1 [completed]"]
+  n45["bob-cli-qi.land--f [completed]"]
   n0 --> n45
-  n46["bob-cli-qi.land--3 [completed]"]
+  n46["bob-cli-qi.land--mon-9 [failed]"]
   n0 --> n46
-  n47["bob-cli-qi.land--mon-d [completed]"]
+  n47["bob-cli-qi.land--1 [completed]"]
   n0 --> n47
-  n48["bob-cli-qi.land--e [completed]"]
+  n48["bob-cli-qi.land--3 [completed]"]
   n0 --> n48
-  n49["bob-cli-qi.land--plan [completed]"]
+  n49["bob-cli-qi.land--mon-d [completed]"]
   n0 --> n49
-  n50["bob-cli-qi.land--h [completed]"]
+  n50["bob-cli-qi.land--e [completed]"]
   n0 --> n50
-  n51["bob-cli-qi.land--mon-1 [completed]"]
+  n51["bob-cli-qi.land--plan [completed]"]
   n0 --> n51
+  n52["bob-cli-qi.land--h [completed]"]
+  n0 --> n52
+  n53["bob-cli-qi.land--mon-1 [completed]"]
+  n0 --> n53
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -119,6 +123,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-b"></a>b | bob-cli-qi.land--b | completed | gpt-6-luna / codex | 2026-11-27T01:00:43.396411+00:00 → 2026-11-27T01:07:49.345086+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--b/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--b/chat.md) |
 | <a id="member-mon"></a>mon | bob-cli-qi.land--mon | failed | gpt-6-luna / codex | 2026-11-26T21:29:05.772277+00:00 → 2026-11-26T21:35:52.046822+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--mon/chat.md) |
+| <a id="member-mon-o"></a>mon-o | bob-cli-qi.land--mon-o | active | gpt-6-luna / codex | 2026-11-27T05:40:48.263299+00:00 | 0 | — | — |
 | <a id="member-a"></a>a | bob-cli-qi.land--a | completed | gpt-6-luna / codex | 2026-11-27T00:49:39.883859+00:00 → 2026-11-27T00:59:03.745484+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--a/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--a/chat.md) |
 | <a id="member-7"></a>7 | bob-cli-qi.land--7 | completed | gpt-6-luna / codex | 2026-11-27T00:10:40.836329+00:00 → 2026-11-27T00:32:30.260816+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--7/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--7/chat.md) |
 | <a id="member-l"></a>l | bob-cli-qi.land--l | completed | gpt-6-luna / codex | 2026-11-27T04:25:33.258246+00:00 → 2026-11-27T04:34:57.397817+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--l/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--l/chat.md) |
@@ -159,7 +164,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | <a id="member-mon-h"></a>mon-h | bob-cli-qi.land--mon-h | failed | gpt-6-luna / codex | 2026-11-27T03:59:36.534005+00:00 → 2026-11-27T04:01:57.584574+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--mon-h/chat.md) |
 | <a id="member-i"></a>i | bob-cli-qi.land--i | completed | gpt-6-luna / codex | 2026-11-27T03:54:34.568937+00:00 → 2026-11-27T04:00:50.749799+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--i/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--i/chat.md) |
 | <a id="member-mon-j"></a>mon-j | bob-cli-qi.land--mon-j | failed | gpt-6-luna / codex | 2026-11-27T04:21:26.165713+00:00 → 2026-11-27T04:25:33.517635+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--mon-j/chat.md) |
-| <a id="member-mon-n"></a>mon-n | bob-cli-qi.land--mon-n | active | gpt-6-luna / codex | 2026-11-27T05:25:39.026618+00:00 | 0 | — | — |
+| <a id="member-mon-n"></a>mon-n | bob-cli-qi.land--mon-n | failed | gpt-6-luna / codex | 2026-11-27T05:25:39.026618+00:00 → 2026-11-27T05:31:14.306504+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--mon-n/chat.md) |
+| <a id="member-p"></a>p | bob-cli-qi.land--p | completed | gpt-6-luna / codex | 2026-11-27T05:31:14.050480+00:00 → 2026-11-27T05:43:16.005110+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--p/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--p/chat.md) |
 | <a id="member-f"></a>f | bob-cli-qi.land--f | completed | gpt-6-luna / codex | 2026-11-27T02:27:50.555974+00:00 → 2026-11-27T02:31:16.870169+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--f/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--f/chat.md) |
 | <a id="member-mon-9"></a>mon-9 | bob-cli-qi.land--mon-9 | failed | gpt-6-luna / codex | 2026-11-27T00:58:15.928961+00:00 → 2026-11-27T01:00:43.722146+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--mon-9/chat.md) |
 | <a id="member-1"></a>1 | bob-cli-qi.land--1 | completed | gpt-6-luna / codex | 2026-11-26T21:35:51.546250+00:00 → 2026-11-26T21:41:36.859435+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-qi.land--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-qi.land--1/chat.md) |

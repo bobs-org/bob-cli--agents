@@ -83,5 +83,5 @@ Values are truncated for display; see each member's agent meta.json for the full
 | [bob-cli-qi.3](bbugyi200.athena.bob-cli-qi.3.md) (session · 3) | bob-cli-qi hood | completed 2, failed 1 |
 | [bob-cli-qi.5](../agents/bbugyi200.athena.bob-cli-qi.5/README.md) | bob-cli-qi hood | completed |
 | [bob-cli-qi.6](bbugyi200.athena.bob-cli-qi.6.md) (session · 11) | bob-cli-qi hood | completed 9, failed 2 |
-| [bob-cli-qi.land](bbugyi200.athena.bob-cli-qi.land.md) (session · 52) | bob-cli-qi hood | active 1, completed 33, failed 18 |
+| [bob-cli-qi.land](bbugyi200.athena.bob-cli-qi.land.md) (session · 54) | bob-cli-qi hood | active 1, completed 34, failed 19 |
 | [bob-cli-qi.land](../agents/bbugyi200.athena.bob-cli-qi.land/README.md) | bob-cli-qi hood | completed |
