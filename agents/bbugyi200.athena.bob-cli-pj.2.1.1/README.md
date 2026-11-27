@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`063a876`](https://github.com/bobs-org/bob-cli/commit/063a876807b0a008cc6cc0e65d68ddb10c0eea60) | feat(highlights): classify scan changes from per-PDF dependency evidence | 2026-11-22 19:31:05 EST |
+| — | `063a876` | feat(highlights): classify scan changes from per-PDF dependency evidence | 2026-11-22 19:31:05 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-pj.2](../../sessions/bbugyi200.athena.bob-cli-pj.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-pj.2](../../sessions/bbugyi200.athena.bob-cli-pj.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-pj.2.1.2](../bbugyi200.athena.bob-cli-pj.2.1.2/README.md) | bob-cli-pj.2.1 hood | completed |
 | [bob-cli-pj.2.1.3](../bbugyi200.athena.bob-cli-pj.2.1.3/README.md) | bob-cli-pj.2.1 hood | completed |
 | [bob-cli-pj.2.1.land](../../sessions/bbugyi200.athena.bob-cli-pj.2.1.land.md) (session · 3) | bob-cli-pj.2.1 hood | completed 3 |

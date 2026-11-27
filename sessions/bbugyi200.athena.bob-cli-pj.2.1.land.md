@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| code | bob-cli | [`15225a6`](https://github.com/bobs-org/bob-cli/commit/15225a6a7b86e887c7b35a655c719ce197efbc88) | feat(highlights-ref): converge refresh with live dependencies and lock-window settle | 2026-11-22 22:01:49 EST |
+| code | — | `15225a6` | feat(highlights-ref): converge refresh with live dependencies and lock-window settle | 2026-11-22 22:01:49 EST |
 
 ## Variables
 
@@ -54,7 +54,7 @@ Values are truncated for display; see each member's agent meta.json for the full
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-pj.2](bbugyi200.athena.bob-cli-pj.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-pj.2](bbugyi200.athena.bob-cli-pj.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-pj.2.1.1](../agents/bbugyi200.athena.bob-cli-pj.2.1.1/README.md) | bob-cli-pj.2.1 hood | completed |
 | [bob-cli-pj.2.1.2](../agents/bbugyi200.athena.bob-cli-pj.2.1.2/README.md) | bob-cli-pj.2.1 hood | completed |
 | [bob-cli-pj.2.1.3](../agents/bbugyi200.athena.bob-cli-pj.2.1.3/README.md) | bob-cli-pj.2.1 hood | completed |

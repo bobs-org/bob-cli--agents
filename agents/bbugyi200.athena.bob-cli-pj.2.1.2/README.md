@@ -23,13 +23,13 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`33f6d08`](https://github.com/bobs-org/bob-cli/commit/33f6d08d2da67c69930a6c24628c3cdbd59f429d) | feat(highlights): refresh affected plans during preparation | 2026-11-22 20:22:03 EST |
+| — | `33f6d08` | feat(highlights): refresh affected plans during preparation | 2026-11-22 20:22:03 EST |
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-pj.2](../../sessions/bbugyi200.athena.bob-cli-pj.2.md) (session · 3) | ancestor | active 1, completed 2 |
+| [bob-cli-pj.2](../../sessions/bbugyi200.athena.bob-cli-pj.2.md) (session · 3) | ancestor | completed 2, dismissed 1 |
 | [bob-cli-pj.2.1.1](../bbugyi200.athena.bob-cli-pj.2.1.1/README.md) | bob-cli-pj.2.1 hood | completed |
 | [bob-cli-pj.2.1.3](../bbugyi200.athena.bob-cli-pj.2.1.3/README.md) | bob-cli-pj.2.1 hood | completed |
 | [bob-cli-pj.2.1.land](../../sessions/bbugyi200.athena.bob-cli-pj.2.1.land.md) (session · 3) | bob-cli-pj.2.1 hood | completed 3 |
