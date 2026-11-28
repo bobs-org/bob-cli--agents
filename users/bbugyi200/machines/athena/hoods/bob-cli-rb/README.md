@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [athena](../../README.md) / bob-cli-rb
 
-**Global hood:** `bbugyi200.athena.bob-cli-rb` · **Runs:** 19 · **Sessions:** 3 · **States:** completed 13, failed 5, waiting 1
+**Global hood:** `bbugyi200.athena.bob-cli-rb` · **Runs:** 19 · **Sessions:** 3 · **States:** completed 14, failed 5
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -24,4 +24,4 @@
 | [bob-cli-rb.1--plan](../../../../../../sessions/bbugyi200.athena.bob-cli-rb.1.md#member-plan) | completed | gpt-6-luna / codex | 2026-11-27T20:05:25.492873+00:00 → 2026-11-27T20:23:47.763175+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-rb.1--plan/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-rb.1--plan/chat.md) |
 | [bob-cli-rb.4--2](../../../../../../sessions/bbugyi200.athena.bob-cli-rb.4.md#member-2) | completed | grok-4.6 / grok | 2026-11-28T00:19:44.308623+00:00 → 2026-11-28T00:35:49.843604+00:00 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-rb.4--2/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-rb.4--2/chat.md) |
 | [bob-cli-rb.4--mon-1](../../../../../../sessions/bbugyi200.athena.bob-cli-rb.4.md#member-mon-1) | failed | grok-4.6 / grok | 2026-11-28T00:34:35.724263+00:00 → 2026-11-28T00:55:55.357618+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.athena.bob-cli-rb.4--mon-1/chat.md) |
-| [bob-cli-rb.land](../../../../../../agents/bbugyi200.athena.bob-cli-rb.land/README.md) | waiting | opus / claude | 20261127150435 | 0 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-rb.land/prompt.md) |
+| [bob-cli-rb.land](../../../../../../agents/bbugyi200.athena.bob-cli-rb.land/README.md) | completed | opus / claude | 2026-11-28T01:46:16.901976+00:00 → 2026-11-28T02:13:13.118262+00:00 | 1 | [prompt](../../../../../../agents/bbugyi200.athena.bob-cli-rb.land/prompt.md), [chat](../../../../../../agents/bbugyi200.athena.bob-cli-rb.land/chat.md) |
