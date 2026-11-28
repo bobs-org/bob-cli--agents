@@ -47,7 +47,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [research.5y.image](../bbugyi200.apollo.research.5y.image/README.md) | research.5y hood | completed |
 | [research.5y.linker](../bbugyi200.apollo.research.5y.linker/README.md) | research.5y hood | completed |
 | [research.5y.linker.w0](../bbugyi200.apollo.research.5y.linker.w0/README.md) | research.5y hood | dismissed |
-| [research.5y.linker.w1](../../sessions/bbugyi200.apollo.research.5y.linker.w1.md) (session · 3) | research.5y hood | active 1, completed 2 |
+| [research.5y.linker.w1](../../sessions/bbugyi200.apollo.research.5y.linker.w1.md) (session · 3) | research.5y hood | completed 2, dismissed 1 |
 | [research.5y.mus](../bbugyi200.apollo.research.5y.mus/README.md) | research.5y hood | completed |
 | [research.0.cdx](../bbugyi200.apollo.research.0.cdx/README.md) | research hood | completed |
 | [research.0.cld](../bbugyi200.apollo.research.0.cld/README.md) | research hood | completed |

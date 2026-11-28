@@ -22,7 +22,7 @@
 | Agent | Relation | State |
 |---|---|---|
 | [research.5y.linker](../bbugyi200.apollo.research.5y.linker/README.md) | ancestor | completed |
-| [research.5y.linker.w1](../../sessions/bbugyi200.apollo.research.5y.linker.w1.md) (session · 3) | research.5y.linker hood | active 1, completed 2 |
+| [research.5y.linker.w1](../../sessions/bbugyi200.apollo.research.5y.linker.w1.md) (session · 3) | research.5y.linker hood | completed 2, dismissed 1 |
 | [research.5y.cdx](../bbugyi200.apollo.research.5y.cdx/README.md) | research.5y hood | completed |
 | [research.5y.cld](../bbugyi200.apollo.research.5y.cld/README.md) | research.5y hood | completed |
 | [research.5y.final](../bbugyi200.apollo.research.5y.final/README.md) | research.5y hood | completed |
