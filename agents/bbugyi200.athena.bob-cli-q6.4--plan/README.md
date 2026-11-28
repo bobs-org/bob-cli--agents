@@ -23,7 +23,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1ca74ec`](https://github.com/bobs-org/bob-cli/commit/1ca74ece68165cc6fc07af59fe4e2bedf7519f4f) | docs(bank): document evidence-gated Properties | 2026-11-25 18:24:50 EST |
+| — | `1ca74ec` | docs(bank): document evidence-gated Properties | 2026-11-25 18:24:50 EST |
 
 ## Neighbors
 
@@ -33,5 +33,5 @@
 | [bob-cli-q6.2](../bbugyi200.athena.bob-cli-q6.2/README.md) | bob-cli-q6 hood | completed |
 | [bob-cli-q6.3](../bbugyi200.athena.bob-cli-q6.3/README.md) | bob-cli-q6 hood | completed |
 | [bob-cli-q6.5](../bbugyi200.athena.bob-cli-q6.5/README.md) | bob-cli-q6 hood | completed |
-| [bob-cli-q6.6](../bbugyi200.athena.bob-cli-q6.6/README.md) | bob-cli-q6 hood | waiting |
-| [bob-cli-q6.land](../bbugyi200.athena.bob-cli-q6.land/README.md) | bob-cli-q6 hood | waiting |
+| [bob-cli-q6.6](../bbugyi200.athena.bob-cli-q6.6/README.md) | bob-cli-q6 hood | dismissed |
+| [bob-cli-q6.land](../bbugyi200.athena.bob-cli-q6.land/README.md) | bob-cli-q6 hood | dismissed |

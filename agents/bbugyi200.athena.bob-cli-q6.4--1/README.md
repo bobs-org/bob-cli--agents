@@ -58,5 +58,5 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-q6.2](../bbugyi200.athena.bob-cli-q6.2/README.md) | bob-cli-q6 hood | completed |
 | [bob-cli-q6.3](../bbugyi200.athena.bob-cli-q6.3/README.md) | bob-cli-q6 hood | completed |
 | [bob-cli-q6.5](../bbugyi200.athena.bob-cli-q6.5/README.md) | bob-cli-q6 hood | completed |
-| [bob-cli-q6.6](../bbugyi200.athena.bob-cli-q6.6/README.md) | bob-cli-q6 hood | waiting |
-| [bob-cli-q6.land](../bbugyi200.athena.bob-cli-q6.land/README.md) | bob-cli-q6 hood | waiting |
+| [bob-cli-q6.6](../bbugyi200.athena.bob-cli-q6.6/README.md) | bob-cli-q6 hood | dismissed |
+| [bob-cli-q6.land](../bbugyi200.athena.bob-cli-q6.land/README.md) | bob-cli-q6 hood | dismissed |
