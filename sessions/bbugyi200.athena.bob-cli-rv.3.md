@@ -39,6 +39,6 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [bob-cli-rv.5](bbugyi200.athena.bob-cli-rv.5.md) (session · 3) | bob-cli-rv hood | active 1, completed 1, failed 1 |
 | [bob-cli-rv.6](../agents/bbugyi200.athena.bob-cli-rv.6/README.md) | bob-cli-rv hood | waiting |
 | [bob-cli-rv.7](../agents/bbugyi200.athena.bob-cli-rv.7/README.md) | bob-cli-rv hood | waiting |
-| [bob-cli-rv.8](../agents/bbugyi200.athena.bob-cli-rv.8/README.md) | bob-cli-rv hood | waiting |
+| [bob-cli-rv.8](bbugyi200.athena.bob-cli-rv.8.md) (session · 2) | bob-cli-rv hood | active 1, completed 1 |
 | [bob-cli-rv.9](../agents/bbugyi200.athena.bob-cli-rv.9/README.md) | bob-cli-rv hood | waiting |
 | [bob-cli-rv.land](../agents/bbugyi200.athena.bob-cli-rv.land/README.md) | bob-cli-rv hood | waiting |
