@@ -23,11 +23,11 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [bob-cli-rv.1](../../sessions/bbugyi200.athena.bob-cli-rv.1.md) (session · 2) | bob-cli-rv hood | active 1, completed 1 |
+| [bob-cli-rv.1](../../sessions/bbugyi200.athena.bob-cli-rv.1.md) (session · 3) | bob-cli-rv hood | completed 3 |
 | [bob-cli-rv.2](../bbugyi200.athena.bob-cli-rv.2/README.md) | bob-cli-rv hood | completed |
-| [bob-cli-rv.3](../bbugyi200.athena.bob-cli-rv.3/README.md) | bob-cli-rv hood | waiting |
+| [bob-cli-rv.3](../../sessions/bbugyi200.athena.bob-cli-rv.3.md) (session · 2) | bob-cli-rv hood | active 1, completed 1 |
 | [bob-cli-rv.4](../bbugyi200.athena.bob-cli-rv.4/README.md) | bob-cli-rv hood | waiting |
-| [bob-cli-rv.5](../bbugyi200.athena.bob-cli-rv.5/README.md) | bob-cli-rv hood | waiting |
+| [bob-cli-rv.5](../../sessions/bbugyi200.athena.bob-cli-rv.5.md) (session · 2) | bob-cli-rv hood | active 1, completed 1 |
 | [bob-cli-rv.6](../bbugyi200.athena.bob-cli-rv.6/README.md) | bob-cli-rv hood | waiting |
 | [bob-cli-rv.7](../bbugyi200.athena.bob-cli-rv.7/README.md) | bob-cli-rv hood | waiting |
 | [bob-cli-rv.8](../bbugyi200.athena.bob-cli-rv.8/README.md) | bob-cli-rv hood | waiting |
