@@ -78,6 +78,6 @@
 | [bob-cli-q5.8.1.6.3](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.3.md) (session · 7) | bob-cli-q5 hood | completed 5, failed 2 |
 | [bob-cli-q5.8.1.6.4](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.4.md) (session · 5) | bob-cli-q5 hood | completed 4, failed 1 |
 | [bob-cli-q5.8.1.6.5](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.md) (session · 10) | bob-cli-q5 hood | active 2, completed 8 |
-| [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 18) | bob-cli-q5 hood | completed 15, failed 3 |
-| [bob-cli-q5.8.1.6.5.1.2](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.2/README.md) | bob-cli-q5 hood | dismissed |
-| … and 7 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) | bob-cli-q5 hood | — |
+| [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 23) | bob-cli-q5 hood | completed 20, failed 3 |
+| [bob-cli-q5.8.1.6.5.1.2](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.2.md) (session · 4) | bob-cli-q5 hood | completed 3, stopped 1 |
+| … and 18 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) | bob-cli-q5 hood | — |

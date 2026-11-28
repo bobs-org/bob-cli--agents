@@ -24,9 +24,10 @@
 | Agent | Relation | State |
 |---|---|---|
 | [bob-cli-q5.8](../../sessions/bbugyi200.athena.bob-cli-q5.8.md) (session · 3) | ancestor | active 1, completed 2 |
-| [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 18) | descendant | completed 15, failed 3 |
+| [bob-cli-q5.8.1.6.5.1.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.1.md) (session · 23) | descendant | completed 20, failed 3 |
+| [bob-cli-q5.8.1.6.5.1.2](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.5.1.2.md) (session · 4) | descendant | completed 3, stopped 1 |
 | [bob-cli-q5.8.1.6.5.1.2](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.2/README.md) | descendant | dismissed |
-| [bob-cli-q5.8.1.6.5.1.3](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.3/README.md) | descendant | waiting |
+| [bob-cli-q5.8.1.6.5.1.3](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.3/README.md) | descendant | active |
 | [bob-cli-q5.8.1.6.5.1.4](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.4/README.md) | descendant | waiting |
 | [bob-cli-q5.8.1.6.5.1.land](../bbugyi200.athena.bob-cli-q5.8.1.6.5.1.land/README.md) | descendant | waiting |
 | [bob-cli-q5.8.1.6.1](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.6.1.md) (session · 13) | bob-cli-q5.8.1.6 hood | completed 10, failed 3 |
@@ -86,4 +87,8 @@
 | [bob-cli-q5.7.1.3](../../sessions/bbugyi200.athena.bob-cli-q5.7.1.3.md) (session · 3) | bob-cli-q5 hood | completed 3 |
 | [bob-cli-q5.7.1.land](../../sessions/bbugyi200.athena.bob-cli-q5.7.1.land.md) (session · 11) | bob-cli-q5 hood | completed 9, failed 2 |
 | [bob-cli-q5.9](../bbugyi200.athena.bob-cli-q5.9/README.md) | bob-cli-q5 hood | waiting |
-| [bob-cli-q5.land](../bbugyi200.athena.bob-cli-q5.land/README.md) | bob-cli-q5 hood | waiting |
+| [bob-cli-q5.9.1.1](../bbugyi200.athena.bob-cli-q5.9.1.1/README.md) | bob-cli-q5 hood | completed |
+| [bob-cli-q5.9.1.2](../bbugyi200.athena.bob-cli-q5.9.1.2/README.md) | bob-cli-q5 hood | active |
+| [bob-cli-q5.9.1.3](../bbugyi200.athena.bob-cli-q5.9.1.3/README.md) | bob-cli-q5 hood | completed |
+| [bob-cli-q5.9.1.4](../bbugyi200.athena.bob-cli-q5.9.1.4/README.md) | bob-cli-q5 hood | active |
+| … and 7 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) | bob-cli-q5 hood | — |

@@ -23,6 +23,16 @@
 
 | Agent | Relation | State |
 |---|---|---|
+| [bob-cli-q5.9.1.1](../bbugyi200.athena.bob-cli-q5.9.1.1/README.md) | descendant | completed |
+| [bob-cli-q5.9.1.2](../bbugyi200.athena.bob-cli-q5.9.1.2/README.md) | descendant | active |
+| [bob-cli-q5.9.1.3](../bbugyi200.athena.bob-cli-q5.9.1.3/README.md) | descendant | completed |
+| [bob-cli-q5.9.1.4](../bbugyi200.athena.bob-cli-q5.9.1.4/README.md) | descendant | active |
+| [bob-cli-q5.9.1.5](../bbugyi200.athena.bob-cli-q5.9.1.5/README.md) | descendant | waiting |
+| [bob-cli-q5.9.1.6](../bbugyi200.athena.bob-cli-q5.9.1.6/README.md) | descendant | waiting |
+| [bob-cli-q5.9.1.7](../bbugyi200.athena.bob-cli-q5.9.1.7/README.md) | descendant | waiting |
+| [bob-cli-q5.9.1.8](../bbugyi200.athena.bob-cli-q5.9.1.8/README.md) | descendant | waiting |
+| [bob-cli-q5.9.1.9](../bbugyi200.athena.bob-cli-q5.9.1.9/README.md) | descendant | waiting |
+| [bob-cli-q5.9.1.land](../bbugyi200.athena.bob-cli-q5.9.1.land/README.md) | descendant | waiting |
 | [bob-cli-q5.1](../../sessions/bbugyi200.athena.bob-cli-q5.1.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.1.1.1](../bbugyi200.athena.bob-cli-q5.1.1.1/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.1.1.2](../bbugyi200.athena.bob-cli-q5.1.1.2/README.md) | bob-cli-q5 hood | completed |
@@ -73,4 +83,4 @@
 | [bob-cli-q5.8.1.2](../bbugyi200.athena.bob-cli-q5.8.1.2/README.md) | bob-cli-q5 hood | completed |
 | [bob-cli-q5.8.1.3](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.3.md) (session · 5) | bob-cli-q5 hood | completed 3, failed 2 |
 | [bob-cli-q5.8.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.8.1.4.md) (session · 15) | bob-cli-q5 hood | completed 12, failed 3 |
-| … and 14 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) | bob-cli-q5 hood | — |
+| … and 15 more in the [hood roster](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) | bob-cli-q5 hood | — |
