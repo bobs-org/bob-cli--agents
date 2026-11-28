@@ -1,0 +1,18 @@
+- **AGENTS:**
+  - [bbugyi200.athena.1hm](https://github.com/bobs-org/bob-cli--agents/blob/main/sessions/bbugyi200.athena.1hm.md)
+- **ARTIFACTS:**
+  - [finish_q5_lock_accept.md](https://github.com/bobs-org/bob-cli--plans/blob/4999275a1d819a7b6f95523fca334d91821e64ec/202611/finish_q5_lock_accept.md)
+
+%model:@medium #gh:gh_bobs-org__bob-cli [@plan:202611/finish_q5_lock_accept.md][1]
+
+The above plan has been reviewed and approved. Implement it now.
+
+%macros_enabled:false Reviewer decisions for this plan (final · reviewer via ACE):
+
+- unlock_wait = next_lock (planner default: next_lock). Implement the "unlock_wait =
+  next_lock" branch; ignore "unlock_wait = accept_now". Context: "Should check 2 wait
+  for Bryan's next ordinary lock and unlock before q5 closes?". Implement only the
+  branches selected above. %macros_enabled:true
+
+[1]:
+  https://github.com/bobs-org/bob-cli--plans/blob/4999275a1d819a7b6f95523fca334d91821e64ec/202611/finish_q5_lock_accept.md
