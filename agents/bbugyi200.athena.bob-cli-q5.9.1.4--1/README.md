@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / [bob-cli-q5.9.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.9.1.4.md) / bob-cli-q5.9.1.4--1
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.9.1.4--1` · **State:** active · **Source run:** `run-bef86182637118b98d720ee466028527`
+**Global name:** `bbugyi200.athena.bob-cli-q5.9.1.4--1` · **State:** completed · **Source run:** `run-bef86182637118b98d720ee466028527`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -11,12 +11,12 @@
 - Bead: [bob-cli-q5.9.1.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.9.1.4.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 2026-11-28T03:17:14.441086+00:00
+- Timing: 2026-11-28T03:17:14.441086+00:00 → 2026-11-28T03:21:43.582079+00:00
 - Commits: 0
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Neighbors
 

@@ -11,7 +11,7 @@ flowchart TD
   n0["bob-cli-q5.9.1.4--mon [completed]"]
   n1["bob-cli-q5.9.1.4--plan [completed]"]
   n0 --> n1
-  n2["bob-cli-q5.9.1.4--1 [active]"]
+  n2["bob-cli-q5.9.1.4--1 [completed]"]
   n0 --> n2
 ```
 
@@ -21,7 +21,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 |---|---|---|---|---|---:|---|---|
 | <a id="member-mon"></a>mon | bob-cli-q5.9.1.4--mon | completed | grok-4.6 / grok | 2026-11-28T02:50:11.741408+00:00 → 2026-11-28T03:17:14.771161+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.9.1.4--mon/chat.md) |
 | <a id="member-plan"></a>plan | bob-cli-q5.9.1.4--plan | completed | grok-4.6 / grok | 2026-11-28T02:01:49.078263+00:00 → 2026-11-28T02:51:33.072515+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.9.1.4--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.9.1.4--plan/chat.md) |
-| <a id="member-1"></a>1 | bob-cli-q5.9.1.4--1 | active | grok-4.6 / grok | 2026-11-28T03:17:14.441086+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.9.1.4--1/prompt.md) | — |
+| <a id="member-1"></a>1 | bob-cli-q5.9.1.4--1 | completed | grok-4.6 / grok | 2026-11-28T03:17:14.441086+00:00 → 2026-11-28T03:21:43.582079+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.9.1.4--1/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.9.1.4--1/chat.md) |
 
 ## Neighbors
 

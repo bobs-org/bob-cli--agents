@@ -27,7 +27,7 @@
 | [bob-cli-q5.9.1.1](../bbugyi200.athena.bob-cli-q5.9.1.1/README.md) | bob-cli-q5.9.1 hood | completed |
 | [bob-cli-q5.9.1.2](../bbugyi200.athena.bob-cli-q5.9.1.2/README.md) | bob-cli-q5.9.1 hood | completed |
 | [bob-cli-q5.9.1.3](../bbugyi200.athena.bob-cli-q5.9.1.3/README.md) | bob-cli-q5.9.1 hood | completed |
-| [bob-cli-q5.9.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.9.1.4.md) (session · 3) | bob-cli-q5.9.1 hood | active 1, completed 2 |
+| [bob-cli-q5.9.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.9.1.4.md) (session · 3) | bob-cli-q5.9.1 hood | completed 3 |
 | [bob-cli-q5.9.1.6](../bbugyi200.athena.bob-cli-q5.9.1.6/README.md) | bob-cli-q5.9.1 hood | waiting |
 | [bob-cli-q5.9.1.7](../bbugyi200.athena.bob-cli-q5.9.1.7/README.md) | bob-cli-q5.9.1 hood | waiting |
 | [bob-cli-q5.9.1.8](../../sessions/bbugyi200.athena.bob-cli-q5.9.1.8.md) (session · 5) | bob-cli-q5.9.1 hood | completed 5 |

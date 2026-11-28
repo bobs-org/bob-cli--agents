@@ -65,6 +65,30 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/e2e-snooze-marks-live-light-30d83ca52bda.png
   ref: file:explicit:341321c558dbc5d6e9b817a4
   source_path: /tmp/bob-e2e-q5/obsidian-marks/e2e-snooze-marks-live-light.png
+- bead: bob-cli-q5.9.1.9
+  kind: image
+  label: marks daily rows due waking blocked history
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/e2e-snooze-marks-rows-a5331ec98372.png
+  ref: file:explicit:992139c5a9b91c50b7d41731
+  source_path: /tmp/bob-e2e-q5/obsidian-marks/e2e-snooze-marks-rows.png
+- bead: bob-cli-q5.9.1.9
+  kind: image
+  label: marks plan chip 3 at 21:18
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/e2e-snooze-marks-plan-6aa5c5854493.png
+  ref: file:explicit:c7cae9c140afcb237cf1516c
+  source_path: /tmp/bob-e2e-q5/obsidian-marks/e2e-snooze-marks-plan.png
+- bead: bob-cli-q5.9.1.9
+  kind: image
+  label: marks reading woken pills and snoozed heading
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/e2e-snooze-marks-reading-light-8a4961dc0187.png
+  ref: file:explicit:199e86ddbcd46f13bf524afa
+  source_path: /tmp/bob-e2e-q5/obsidian-marks/e2e-snooze-marks-reading-light.png
+- bead: bob-cli-q5.9.1.9
+  kind: image
+  label: case 8 Linux waker notice capture
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/case-8-linux-notice-734750beab7b.png
+  ref: file:explicit:65c62bb1177c9ef45825be76
+  source_path: /tmp/bob-e2e-q5/obsidian-marks/case-8-linux-notice.png
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
@@ -77,7 +101,7 @@ Values are truncated for display; see [meta.json](meta.json) for the full values
 | [bob-cli-q5.9.1.1](../bbugyi200.athena.bob-cli-q5.9.1.1/README.md) | bob-cli-q5.9.1 hood | completed |
 | [bob-cli-q5.9.1.2](../bbugyi200.athena.bob-cli-q5.9.1.2/README.md) | bob-cli-q5.9.1 hood | completed |
 | [bob-cli-q5.9.1.3](../bbugyi200.athena.bob-cli-q5.9.1.3/README.md) | bob-cli-q5.9.1 hood | completed |
-| [bob-cli-q5.9.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.9.1.4.md) (session · 3) | bob-cli-q5.9.1 hood | active 1, completed 2 |
+| [bob-cli-q5.9.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.9.1.4.md) (session · 3) | bob-cli-q5.9.1 hood | completed 3 |
 | [bob-cli-q5.9.1.5](../bbugyi200.athena.bob-cli-q5.9.1.5/README.md) | bob-cli-q5.9.1 hood | waiting |
 | [bob-cli-q5.9.1.6](../bbugyi200.athena.bob-cli-q5.9.1.6/README.md) | bob-cli-q5.9.1 hood | waiting |
 | [bob-cli-q5.9.1.7](../bbugyi200.athena.bob-cli-q5.9.1.7/README.md) | bob-cli-q5.9.1 hood | waiting |
