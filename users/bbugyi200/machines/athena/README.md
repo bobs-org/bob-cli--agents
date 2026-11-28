@@ -700,7 +700,7 @@
 | [bob-cli-rb](hoods/bob-cli-rb/README.md) | 19 | 3 | completed 14, failed 5 |
 | [bob-cli-rc](hoods/bob-cli-rc/README.md) | 9 | 2 | completed 8, failed 1 |
 | [bob-cli-re](hoods/bob-cli-re/README.md) | 7 | 1 | completed 7 |
-| [bob-cli-rv](hoods/bob-cli-rv/README.md) | 24 | 5 | completed 20, failed 3, waiting 1 |
+| [bob-cli-rv](hoods/bob-cli-rv/README.md) | 24 | 5 | completed 21, failed 3 |
 | [bob-cli-t](hoods/bob-cli-t/README.md) | 16 | 3 | active 1, completed 1, dismissed 12, failed 2 |
 | [bob-cli-u](hoods/bob-cli-u/README.md) | 6 | 1 | completed 2, dismissed 3, failed 1 |
 | [bob-cli-w](hoods/bob-cli-w/README.md) | 1 | 0 | dismissed 1 |

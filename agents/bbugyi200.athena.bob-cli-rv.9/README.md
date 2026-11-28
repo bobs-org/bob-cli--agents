@@ -37,4 +37,4 @@
 | [bob-cli-rv.6](../bbugyi200.athena.bob-cli-rv.6/README.md) | bob-cli-rv hood | completed |
 | [bob-cli-rv.7](../../sessions/bbugyi200.athena.bob-cli-rv.7.md) (session · 3) | bob-cli-rv hood | completed 2, failed 1 |
 | [bob-cli-rv.8](../../sessions/bbugyi200.athena.bob-cli-rv.8.md) (session · 3) | bob-cli-rv hood | completed 3 |
-| [bob-cli-rv.land](../bbugyi200.athena.bob-cli-rv.land/README.md) | bob-cli-rv hood | waiting |
+| [bob-cli-rv.land](../bbugyi200.athena.bob-cli-rv.land/README.md) | bob-cli-rv hood | completed |

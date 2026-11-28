@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-rv](../../users/bbugyi200/machines/athena/hoods/bob-cli-rv/README.md) / bob-cli-rv.land
 
-**Global name:** `bbugyi200.athena.bob-cli-rv.land` · **State:** waiting · **Source run:** `run-8dbf7fa931586cf7c7c48b929cf6d76c`
+**Global name:** `bbugyi200.athena.bob-cli-rv.land` · **State:** completed · **Source run:** `run-8dbf7fa931586cf7c7c48b929cf6d76c`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-rv
 
@@ -11,12 +11,18 @@
 - Bead: [bob-cli-rv](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-rv/README.md)
 - Model: opus
 - Provider: claude
-- Timing: 20261128082359
-- Commits: 0
+- Timing: 2026-11-28T17:27:47.850917+00:00 → 2026-11-28T17:53:37.952566+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`d8ecbcc`](https://github.com/bobs-org/bob-cli/commit/d8ecbccef80e5a613c43428dc5b118b07cc18bd2) | fix(logs): strict Schedule and Reopen stamps; vault-format back under budget | 2026-11-28 12:52:38 EST |
 
 ## Neighbors
 
