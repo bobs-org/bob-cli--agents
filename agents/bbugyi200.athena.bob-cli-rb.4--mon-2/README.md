@@ -1,0 +1,25 @@
+# Agent: bob-cli-rb.4--mon-2
+
+[Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-rb](../../users/bbugyi200/machines/athena/hoods/bob-cli-rb/README.md) / [bob-cli-rb.4](../../sessions/bbugyi200.athena.bob-cli-rb.4.md) / bob-cli-rb.4--mon-2
+
+**Global name:** `bbugyi200.athena.bob-cli-rb.4--mon-2` · **State:** active · **Source run:** `run-af261a6072518432cb23706574cc7812`
+
+**Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-rb
+
+## Summary
+
+- Bead: [bob-cli-rb.4](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-rb/bob-cli-rb.4.md)
+- Model: grok-4.6
+- Provider: grok
+- Timing: 2026-11-28T01:02:08.072481+00:00
+- Commits: 0
+
+## Neighbors
+
+| Agent | Relation | State |
+|---|---|---|
+| [bob-cli-rb.1](../../sessions/bbugyi200.athena.bob-cli-rb.1.md) (session · 5) | bob-cli-rb hood | completed 3, failed 2 |
+| [bob-cli-rb.2](../bbugyi200.athena.bob-cli-rb.2/README.md) | bob-cli-rb hood | completed |
+| [bob-cli-rb.3](../bbugyi200.athena.bob-cli-rb.3/README.md) | bob-cli-rb hood | completed |
+| [bob-cli-rb.5](../bbugyi200.athena.bob-cli-rb.5/README.md) | bob-cli-rb hood | waiting |
+| [bob-cli-rb.land](../bbugyi200.athena.bob-cli-rb.land/README.md) | bob-cli-rb hood | waiting |
