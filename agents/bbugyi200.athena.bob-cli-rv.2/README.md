@@ -26,9 +26,9 @@
 | [bob-cli-rv.1](../../sessions/bbugyi200.athena.bob-cli-rv.1.md) (session · 3) | bob-cli-rv hood | completed 3 |
 | [bob-cli-rv.3](../../sessions/bbugyi200.athena.bob-cli-rv.3.md) (session · 3) | bob-cli-rv hood | completed 3 |
 | [bob-cli-rv.4](../bbugyi200.athena.bob-cli-rv.4/README.md) | bob-cli-rv hood | completed |
-| [bob-cli-rv.5](../../sessions/bbugyi200.athena.bob-cli-rv.5.md) (session · 4) | bob-cli-rv hood | active 1, completed 2, failed 1 |
-| [bob-cli-rv.6](../bbugyi200.athena.bob-cli-rv.6/README.md) | bob-cli-rv hood | waiting |
+| [bob-cli-rv.5](../../sessions/bbugyi200.athena.bob-cli-rv.5.md) (session · 7) | bob-cli-rv hood | completed 5, failed 2 |
+| [bob-cli-rv.6](../bbugyi200.athena.bob-cli-rv.6/README.md) | bob-cli-rv hood | completed |
 | [bob-cli-rv.7](../bbugyi200.athena.bob-cli-rv.7/README.md) | bob-cli-rv hood | waiting |
-| [bob-cli-rv.8](../../sessions/bbugyi200.athena.bob-cli-rv.8.md) (session · 3) | bob-cli-rv hood | active 2, completed 1 |
+| [bob-cli-rv.8](../../sessions/bbugyi200.athena.bob-cli-rv.8.md) (session · 3) | bob-cli-rv hood | completed 3 |
 | [bob-cli-rv.9](../bbugyi200.athena.bob-cli-rv.9/README.md) | bob-cli-rv hood | waiting |
 | [bob-cli-rv.land](../bbugyi200.athena.bob-cli-rv.land/README.md) | bob-cli-rv hood | waiting |
