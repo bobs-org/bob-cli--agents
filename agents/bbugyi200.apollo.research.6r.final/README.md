@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6r.final
 
-**Global name:** `bbugyi200.apollo.research.6r.final` · **State:** waiting · **Source run:** `run-cfefcdaddfc58ee7b467369d78139380`
+**Global name:** `bbugyi200.apollo.research.6r.final` · **State:** completed · **Source run:** `run-cfefcdaddfc58ee7b467369d78139380`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,31 @@
 
 - Model: claude-fable-5
 - Provider: claude
-- Timing: 20261128103522
+- Timing: 2026-11-28T15:58:13.715567+00:00 → 2026-11-28T16:14:28.279408+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/cabinet\_thresholds\_and\_prose\_children/cabinet\_thresholds\_and\_prose\_children\_\_final.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/202611281… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/cabinet_thresholds_and_prose_children/cabinet_thresholds_and_prose_children__final.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261128103522/cabinet_thresholds_and_prose_children__final-da31c7386c59.md
+  ref: file:explicit:4310606afaa4820c8f8d7b1d
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_12/sase/repos/research/202611/cabinet_thresholds_and_prose_children/cabinet_thresholds_and_prose_children__final.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
