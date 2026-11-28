@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [research](../../users/bbugyi200/machines/apollo/hoods/research/README.md) / research.6r.image
 
-**Global name:** `bbugyi200.apollo.research.6r.image` · **State:** waiting · **Source run:** `run-60b91ef8852b62b6bc238a903d21a914`
+**Global name:** `bbugyi200.apollo.research.6r.image` · **State:** completed · **Source run:** `run-60b91ef8852b62b6bc238a903d21a914`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** research
 
@@ -10,12 +10,47 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261128103523
+- Timing: 2026-11-28T16:14:51.655495+00:00 → 2026-11-28T16:23:21.793860+00:00
 - Commits: 0
+- Variables: [2](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: image, label: infographic:202611/cabinet\_thresholds\_and\_prose\_children/cabinet\_thresholds\_and\_prose\_children\_infographic.png, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/202… |
+| `diagrams` | {considered: 13, count: 3, manifest: 202611/cabinet\_thresholds\_and\_prose\_children/cabinet\_thresholds\_and\_prose\_children.diagrams.md, source\_ref: file:explicit:4310606afaa4820c8f8d7b1d, status: ready} |
+
+#### artifacts
+
+```yaml
+- kind: image
+  label: infographic:202611/cabinet_thresholds_and_prose_children/cabinet_thresholds_and_prose_children_infographic.png
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261128103523/cabinet_thresholds_and_prose_children_infographic-77aeba7b141c.png
+  ref: file:explicit:d144442e319c4cd28471c49e
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/cabinet_thresholds_and_prose_children/cabinet_thresholds_and_prose_children_infographic.png
+- kind: markdown
+  label: diagrams:202611/cabinet_thresholds_and_prose_children/cabinet_thresholds_and_prose_children.diagrams.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261128103523/cabinet_thresholds_and_prose_children.diagrams-c2a4d96e8abd.md
+  ref: file:explicit:1dc5b371d848cf8bb09deadd
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_10/sase/repos/research/202611/cabinet_thresholds_and_prose_children/cabinet_thresholds_and_prose_children.diagrams.md
+```
+
+#### diagrams
+
+```yaml
+considered: 13
+count: 3
+manifest: 202611/cabinet_thresholds_and_prose_children/cabinet_thresholds_and_prose_children.diagrams.md
+source_ref: file:explicit:4310606afaa4820c8f8d7b1d
+status: ready
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
