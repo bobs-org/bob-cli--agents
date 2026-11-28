@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.9.1.2
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.9.1.2` · **State:** active · **Source run:** `run-aae327baa7b83104cafff2f8ef780b42`
+**Global name:** `bbugyi200.athena.bob-cli-q5.9.1.2` · **State:** completed · **Source run:** `run-aae327baa7b83104cafff2f8ef780b42`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-q5.9.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.9.1.md)
 - Model: muse-spark-1.3-contributor
 - Provider: muse
-- Timing: 2026-11-28T01:59:34.627785+00:00
-- Commits: 0
+- Timing: 2026-11-28T01:59:34.627785+00:00 → 2026-11-28T02:47:22.913578+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`684811a`](https://github.com/bobs-org/bob-cli/commit/684811a90676b601f8c90e83fab9facc60d3ca1b) | fix(snooze): per-verb deferred envelopes, rounding wording, grammar drift docs | 2026-11-27 21:45:57 EST |
 
 ## Neighbors
 

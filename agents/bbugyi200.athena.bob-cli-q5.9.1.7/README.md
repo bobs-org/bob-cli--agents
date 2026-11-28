@@ -25,7 +25,7 @@
 |---|---|---|
 | [bob-cli-q5.9](../bbugyi200.athena.bob-cli-q5.9/README.md) | ancestor | waiting |
 | [bob-cli-q5.9.1.1](../bbugyi200.athena.bob-cli-q5.9.1.1/README.md) | bob-cli-q5.9.1 hood | completed |
-| [bob-cli-q5.9.1.2](../bbugyi200.athena.bob-cli-q5.9.1.2/README.md) | bob-cli-q5.9.1 hood | active |
+| [bob-cli-q5.9.1.2](../bbugyi200.athena.bob-cli-q5.9.1.2/README.md) | bob-cli-q5.9.1 hood | completed |
 | [bob-cli-q5.9.1.3](../bbugyi200.athena.bob-cli-q5.9.1.3/README.md) | bob-cli-q5.9.1 hood | completed |
 | [bob-cli-q5.9.1.4](../bbugyi200.athena.bob-cli-q5.9.1.4/README.md) | bob-cli-q5.9.1 hood | active |
 | [bob-cli-q5.9.1.5](../bbugyi200.athena.bob-cli-q5.9.1.5/README.md) | bob-cli-q5.9.1 hood | waiting |
