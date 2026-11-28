@@ -2,17 +2,19 @@
 
 [Agent Hoods](../README.md) / [bbugyi200](../users/bbugyi200/README.md) / [athena](../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.land
 
-Owner: `bbugyi200.athena` · Hood: `bob-cli-q5` · Members: 3 · Bead: [bob-cli-q5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/README.md)
+Owner: `bbugyi200.athena` · Hood: `bob-cli-q5` · Members: 4 · Bead: [bob-cli-q5](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/README.md)
 
 ## Lineage
 
 ```mermaid
 flowchart TD
   n0["bob-cli-q5.land--gate [completed]"]
-  n1["bob-cli-q5.land--code [active]"]
+  n1["bob-cli-q5.land--mon [active]"]
   n0 --> n1
-  n2["bob-cli-q5.land--plan [active]"]
+  n2["bob-cli-q5.land--code [completed]"]
   n0 --> n2
+  n3["bob-cli-q5.land--plan [completed]"]
+  n0 --> n3
 ```
 
 The diagram is an optional enhancement; the ordered table below contains the same lineage in accessible text.
@@ -20,8 +22,9 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | Role | Agent | State | Model / provider | Timing | Commits | Prompt | Chat |
 |---|---|---|---|---|---:|---|---|
 | <a id="member-gate"></a>gate | bob-cli-q5.land--gate | completed | opus / claude | 2026-11-28T15:11:32.438737+00:00 → 2026-11-28T15:11:40.599583+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.land--gate/chat.md) |
-| <a id="member-code"></a>code | bob-cli-q5.land--code | active | muse-spark-1.3-contributor / muse | 2026-11-28T15:12:24.798812+00:00 | 0 | — | — |
-| <a id="member-plan"></a>plan | bob-cli-q5.land--plan | active | opus / claude | 2026-11-28T15:03:10.940406+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.land--plan/chat.md) |
+| <a id="member-mon"></a>mon | bob-cli-q5.land--mon | active | muse-spark-1.3-contributor / muse | 2026-11-28T15:34:21.527461+00:00 | 0 | — | — |
+| <a id="member-code"></a>code | bob-cli-q5.land--code | completed | muse-spark-1.3-contributor / muse | 2026-11-28T15:12:24.798812+00:00 → 2026-11-28T16:11:24.815263+00:00 | 0 | — | [Chat](../agents/bbugyi200.athena.bob-cli-q5.land--code/chat.md) |
+| <a id="member-plan"></a>plan | bob-cli-q5.land--plan | completed | opus / claude | 2026-11-28T15:03:10.940406+00:00 → 2026-11-28T16:11:24.815263+00:00 | 0 | [Prompt](../agents/bbugyi200.athena.bob-cli-q5.land--plan/prompt.md) | [Chat](../agents/bbugyi200.athena.bob-cli-q5.land--plan/chat.md) |
 
 ## Neighbors
 
