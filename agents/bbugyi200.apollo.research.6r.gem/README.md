@@ -12,17 +12,36 @@
 - Provider: agy
 - Timing: 2026-11-28T15:38:15.610235+00:00
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{kind: markdown, label: research:202611/cabinet\_cardinality\_defaults\_and\_prose\_cabinet\_\_gem.md, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261128103521/cabinet\_cardinality\_defau… |
+
+#### artifacts
+
+```yaml
+- kind: markdown
+  label: research:202611/cabinet_cardinality_defaults_and_prose_cabinet__gem.md
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261128103521/cabinet_cardinality_defaults_and_prose_cabinet__gem-ed4f678513b4.md
+  ref: file:explicit:321af15ab64b8c499178b391
+  source_path: /home/bryan/.local/state/sase/workspaces/bobs-org/bob-cli/bob-cli_17/sase/repos/research/202611/cabinet_cardinality_defaults_and_prose_cabinet__gem.md
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
 | Agent | Relation | State |
 |---|---|---|
 | [research.6r.cdx](../bbugyi200.apollo.research.6r.cdx/README.md) | research.6r hood | completed |
-| [research.6r.cld](../bbugyi200.apollo.research.6r.cld/README.md) | research.6r hood | active |
+| [research.6r.cld](../bbugyi200.apollo.research.6r.cld/README.md) | research.6r hood | completed |
 | [research.6r.final](../bbugyi200.apollo.research.6r.final/README.md) | research.6r hood | waiting |
 | [research.6r.grk](../bbugyi200.apollo.research.6r.grk/README.md) | research.6r hood | completed |
 | [research.6r.image](../bbugyi200.apollo.research.6r.image/README.md) | research.6r hood | waiting |
