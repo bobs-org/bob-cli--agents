@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../../../../../README.md) / [bbugyi200](../../../../README.md) / [apollo](../../README.md) / research
 
-**Global hood:** `bbugyi200.apollo.research` · **Runs:** 1506 · **Sessions:** 74 · **States:** active 121, completed 846, dismissed 498, failed 40, waiting 1
+**Global hood:** `bbugyi200.apollo.research` · **Runs:** 1506 · **Sessions:** 74 · **States:** active 120, completed 846, dismissed 499, failed 40, waiting 1
 
 | Agent | State | Model / provider | Timing | Commits | Files |
 |---|---|---|---|---:|---|
@@ -799,7 +799,7 @@
 | [research.5b.grk](../../../../../../agents/bbugyi200.apollo.research.5b.grk/README.md) | completed | grok-4.6 / grok | 2026-11-18T15:03:28.760922+00:00 → 2026-11-18T15:17:59.290722+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.research.5b.grk/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.research.5b.grk/prompt.md) |
 | [research.50.gem](../../../../../../agents/bbugyi200.apollo.research.50.gem/README.md) | completed | gemini-4-hydrogen-xhigh / agy | 2026-11-16T18:41:03.650439+00:00 → 2026-11-16T18:54:29.930873+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.research.50.gem/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.research.50.gem/prompt.md) |
 | [research.28.linker.w0--plan](../../../../../../sessions/bbugyi200.apollo.research.28.linker.w0.md#member-plan) | dismissed | opus / claude | 2026-10-21T08:34:22.637353 → 2026-10-21T08:49:56.097060 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.research.28.linker.w0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.research.28.linker.w0--plan/prompt.md) |
-| [research.6m.linker.w0--plan](../../../../../../sessions/bbugyi200.apollo.research.6m.linker.w0.md#member-plan) | active | opus / claude | 2026-11-26T20:32:51.924327+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.research.6m.linker.w0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.research.6m.linker.w0--plan/prompt.md) |
+| [research.6m.linker.w0--plan](../../../../../../sessions/bbugyi200.apollo.research.6m.linker.w0.md#member-plan) | dismissed | opus / claude | 2026-11-26T15:32:51.924327 → 2026-11-26T16:03:03.728253 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.research.6m.linker.w0--plan/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.research.6m.linker.w0--plan/prompt.md) |
 | [research.4j.mus](../../../../../../agents/bbugyi200.apollo.research.4j.mus/README.md) | completed | muse-spark-1.3-contributor / muse | 2026-11-13T14:15:14.240526+00:00 → 2026-11-13T14:21:55.236195+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.research.4j.mus/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.research.4j.mus/prompt.md) |
 | [research.65.grk](../../../../../../agents/bbugyi200.apollo.research.65.grk/README.md) | completed | grok-4.6 / grok | 2026-11-24T13:51:52.933985+00:00 → 2026-11-24T14:07:15.910978+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.research.65.grk/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.research.65.grk/prompt.md) |
 | [research.3i.linker](../../../../../../agents/bbugyi200.apollo.research.3i.linker/README.md) | completed | opus / claude | 2026-11-06T16:30:20.874513+00:00 → 2026-11-06T16:36:23.442020+00:00 | 0 | [chat](../../../../../../agents/bbugyi200.apollo.research.3i.linker/chat.md), [prompt](../../../../../../agents/bbugyi200.apollo.research.3i.linker/prompt.md) |
