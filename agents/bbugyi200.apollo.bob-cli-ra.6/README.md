@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [apollo](../../users/bbugyi200/machines/apollo/README.md) / [bob-cli-ra](../../users/bbugyi200/machines/apollo/hoods/bob-cli-ra/README.md) / bob-cli-ra.6
 
-**Global name:** `bbugyi200.apollo.bob-cli-ra.6` · **State:** waiting · **Source run:** `run-99dde1496ddfce8687cc5212a65e7fae`
+**Global name:** `bbugyi200.apollo.bob-cli-ra.6` · **State:** completed · **Source run:** `run-99dde1496ddfce8687cc5212a65e7fae`
 
 **Owner:** `bbugyi200.apollo` · **Project:** bob-cli · **Hood:** bob-cli-ra
 
@@ -12,12 +12,18 @@
 - Epic: [bob-cli-ra](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-ra/README.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261127150231
-- Commits: 0
+- Timing: 2026-11-28T11:48:37.102787+00:00 → 2026-11-28T12:09:14.960026+00:00
+- Commits: [1](#commits)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
+
+## Commits
+
+| Repo | Commit | Subject | Committed |
+|---|---|---|---|
+| bob-cli | [`518b29f`](https://github.com/bobs-org/bob-cli/commit/518b29fe70ef3f93b47fb4d4a51e63fa86c5bbd2) | docs(memory): add link-walk glossary and sibling-ring decision | 2026-11-28 07:08:08 EST |
 
 ## Neighbors
 
