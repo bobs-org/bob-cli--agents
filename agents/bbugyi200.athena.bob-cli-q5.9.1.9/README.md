@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [bob-cli-q5](../../users/bbugyi200/machines/athena/hoods/bob-cli-q5/README.md) / bob-cli-q5.9.1.9
 
-**Global name:** `bbugyi200.athena.bob-cli-q5.9.1.9` · **State:** waiting · **Source run:** `run-73075f7ac1705bd0003db9ddd6307239`
+**Global name:** `bbugyi200.athena.bob-cli-q5.9.1.9` · **State:** completed · **Source run:** `run-73075f7ac1705bd0003db9ddd6307239`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** bob-cli-q5
 
@@ -12,13 +12,13 @@
 - Epic: [bob-cli-q5.9.1](https://github.com/bobs-org/bob-cli--beads/blob/main/pages/bob-cli-q5/bob-cli-q5.9.1.md)
 - Model: grok-4.6
 - Provider: grok
-- Timing: 20261127205839
+- Timing: 2026-11-28T02:47:47.342313+00:00 → 2026-11-28T03:32:00.205107+00:00
 - Commits: 0
 - Variables: [1](#variables)
 
 ## Files
 
-[Prompt](prompt.md)
+[Chat](chat.md) · [Prompt](prompt.md)
 
 ## Variables
 
@@ -89,6 +89,24 @@
   path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/case-8-linux-notice-734750beab7b.png
   ref: file:explicit:65c62bb1177c9ef45825be76
   source_path: /tmp/bob-e2e-q5/obsidian-marks/case-8-linux-notice.png
+- bead: bob-cli-q5.9.1.9
+  kind: image
+  label: snooze card retime and wake now
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/snoozed-light-89aed190b348.png
+  ref: file:explicit:eacaa1dc057025c940b6a1df
+  source_path: /tmp/bob-e2e-q5/obsidian-card/snoozed-light.png
+- bead: bob-cli-q5.9.1.9
+  kind: image
+  label: snooze card over-cap footer
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/over-cap-footer-light-62da3fc77a46.png
+  ref: file:explicit:51251238996cea48dce2b39c
+  source_path: /tmp/bob-e2e-q5/obsidian-card/over-cap-footer-light.png
+- bead: bob-cli-q5.9.1.9
+  kind: image
+  label: snooze card blocked waits on prerequisites
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/blocked-snoozed-light-2a5089dbb5c7.png
+  ref: file:explicit:546196f08ceaca5b6b9905a9
+  source_path: /tmp/bob-e2e-q5/obsidian-card/blocked-snoozed-light.png
 ```
 
 Values are truncated for display; see [meta.json](meta.json) for the full values.
