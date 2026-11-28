@@ -14,10 +14,60 @@
 - Provider: grok
 - Timing: 20261127205839
 - Commits: 0
+- Variables: [1](#variables)
 
 ## Files
 
 [Prompt](prompt.md)
+
+## Variables
+
+| Variable | Value |
+|---|---|
+| `artifacts` | \[{bead: bob-cli-q5.9.1.9, kind: markdown, label: q5.9.1.9 live e2e evidence summary, path: /home/bryan/.sase/artifacts/agents/gh\_bobs-org\_\_bob-cli/20261127205839/EVIDENCE-3ff50f41fb73.md, ref: file:e… |
+
+#### artifacts
+
+```yaml
+- bead: bob-cli-q5.9.1.9
+  kind: markdown
+  label: q5.9.1.9 live e2e evidence summary
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/EVIDENCE-3ff50f41fb73.md
+  ref: file:explicit:9ffe09238dc3bae2b590cfcf
+  source_path: /tmp/bob-e2e-q5/EVIDENCE.md
+- bead: bob-cli-q5.9.1.9
+  kind: file
+  label: q5.9.1.9 CLI cases 1-7 live report
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/report-bddc4d4139b8.json
+  ref: file:explicit:d3accb5b7ce1fe96ccd61d44
+  source_path: /tmp/bob-e2e-q5/out/report.json
+- bead: bob-cli-q5.9.1.9
+  kind: file
+  label: q5.9.1.9 Obsidian marks e2e report including case 8
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/obsidian-marks-report-3da8ea84e5be.json
+  ref: file:explicit:837ae5c4646af6ac95e9bc57
+  source_path: /tmp/bob-e2e-q5/obsidian-marks-report.json
+- bead: bob-cli-q5.9.1.9
+  kind: file
+  label: q5.9.1.9 Obsidian snooze card e2e report
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/obsidian-card-report-a56fac6924a7.json
+  ref: file:explicit:c29798712024f8949b31bd43
+  source_path: /tmp/bob-e2e-q5/obsidian-card-report.json
+- bead: bob-cli-q5.9.1.9
+  kind: file
+  label: q5.9.1.9 e2e reports and screenshots tarball
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/e2e-evidence.tar-ca728667bef2.gz
+  ref: file:explicit:2cad5d83476cfe0462f4aac7
+  source_path: /tmp/bob-e2e-q5/e2e-evidence.tar.gz
+- bead: bob-cli-q5.9.1.9
+  kind: image
+  label: marks live light clocks and tomatoes
+  path: /home/bryan/.sase/artifacts/agents/gh_bobs-org__bob-cli/20261127205839/e2e-snooze-marks-live-light-30d83ca52bda.png
+  ref: file:explicit:341321c558dbc5d6e9b817a4
+  source_path: /tmp/bob-e2e-q5/obsidian-marks/e2e-snooze-marks-live-light.png
+```
+
+Values are truncated for display; see [meta.json](meta.json) for the full values.
 
 ## Neighbors
 
@@ -27,11 +77,11 @@
 | [bob-cli-q5.9.1.1](../bbugyi200.athena.bob-cli-q5.9.1.1/README.md) | bob-cli-q5.9.1 hood | completed |
 | [bob-cli-q5.9.1.2](../bbugyi200.athena.bob-cli-q5.9.1.2/README.md) | bob-cli-q5.9.1 hood | completed |
 | [bob-cli-q5.9.1.3](../bbugyi200.athena.bob-cli-q5.9.1.3/README.md) | bob-cli-q5.9.1 hood | completed |
-| [bob-cli-q5.9.1.4](../bbugyi200.athena.bob-cli-q5.9.1.4/README.md) | bob-cli-q5.9.1 hood | active |
+| [bob-cli-q5.9.1.4](../../sessions/bbugyi200.athena.bob-cli-q5.9.1.4.md) (session · 3) | bob-cli-q5.9.1 hood | active 1, completed 2 |
 | [bob-cli-q5.9.1.5](../bbugyi200.athena.bob-cli-q5.9.1.5/README.md) | bob-cli-q5.9.1 hood | waiting |
 | [bob-cli-q5.9.1.6](../bbugyi200.athena.bob-cli-q5.9.1.6/README.md) | bob-cli-q5.9.1 hood | waiting |
 | [bob-cli-q5.9.1.7](../bbugyi200.athena.bob-cli-q5.9.1.7/README.md) | bob-cli-q5.9.1 hood | waiting |
-| [bob-cli-q5.9.1.8](../bbugyi200.athena.bob-cli-q5.9.1.8/README.md) | bob-cli-q5.9.1 hood | waiting |
+| [bob-cli-q5.9.1.8](../../sessions/bbugyi200.athena.bob-cli-q5.9.1.8.md) (session · 5) | bob-cli-q5.9.1 hood | completed 5 |
 | [bob-cli-q5.9.1.land](../bbugyi200.athena.bob-cli-q5.9.1.land/README.md) | bob-cli-q5.9.1 hood | waiting |
 | [bob-cli-q5.1](../../sessions/bbugyi200.athena.bob-cli-q5.1.md) (session · 3) | bob-cli-q5 hood | active 1, completed 2 |
 | [bob-cli-q5.1.1.1](../bbugyi200.athena.bob-cli-q5.1.1.1/README.md) | bob-cli-q5 hood | completed |
