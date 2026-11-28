@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `d1d0db6` | docs: correct capture aliases and clarify record workflows | 2026-11-12 05:25:40 EST |
+| bob-cli | [`d1d0db6`](https://github.com/bobs-org/bob-cli/commit/d1d0db6ffef41c878d5bf1175fa04fe66e9ae350) | docs: correct capture aliases and clarify record workflows | 2026-11-12 05:25:40 EST |
 
 ## Neighbors
 
@@ -47,7 +47,7 @@
 | [chop.refresh\_docs.bob-cli.2\_378564.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.2_378564.1/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.2\_378564.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.2_378564.2/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.2\_658983.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.1.md) (session · 5) | chop.refresh\_docs.bob-cli hood | completed 4, failed 1 |
-| [chop.refresh\_docs.bob-cli.2\_658983.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
+| [chop.refresh\_docs.bob-cli.2\_658983.2](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.2.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
 | [chop.refresh\_docs.bob-cli.3\_052834.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.3\_052834.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.3\_686898.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_686898.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |

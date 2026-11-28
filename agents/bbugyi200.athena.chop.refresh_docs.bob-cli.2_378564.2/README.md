@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `05e355e` | docs: clarify reviewed capture and decay contracts | 2026-11-03 02:53:14 EST |
+| bob-cli | [`05e355e`](https://github.com/bobs-org/bob-cli/commit/05e355eec8132f20e9da787a4adf34d12e5f5c09) | docs: clarify reviewed capture and decay contracts | 2026-11-03 02:53:14 EST |
 
 ## Neighbors
 
@@ -45,7 +45,7 @@
 | [chop.refresh\_docs.bob-cli.2\_299696.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 1, dismissed 1, failed 1 |
 | [chop.refresh\_docs.bob-cli.2\_299696.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.2_299696.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.2\_658983.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.1.md) (session · 5) | chop.refresh\_docs.bob-cli hood | completed 4, failed 1 |
-| [chop.refresh\_docs.bob-cli.2\_658983.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
+| [chop.refresh\_docs.bob-cli.2\_658983.2](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.2.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
 | [chop.refresh\_docs.bob-cli.3\_052834.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.3\_052834.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.3\_686898.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_686898.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |

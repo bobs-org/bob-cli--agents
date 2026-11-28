@@ -33,7 +33,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 2 | — | `1786153` | docs: refresh capture and reference contracts | 2026-10-25 07:08:21 EDT |
+| 2 | bob-cli | [`1786153`](https://github.com/bobs-org/bob-cli/commit/17861536fd1b7a7bb783dc1604bfce57e52377c7) | docs: refresh capture and reference contracts | 2026-10-25 07:08:21 EDT |
 
 ## Neighbors
 
@@ -57,7 +57,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.bob-cli.2\_378564.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_378564.1/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.2\_378564.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_378564.2/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.2\_658983.1](bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.1.md) (session · 5) | chop.refresh\_docs.bob-cli hood | completed 4, failed 1 |
-| [chop.refresh\_docs.bob-cli.2\_658983.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
+| [chop.refresh\_docs.bob-cli.2\_658983.2](bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.2.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
 | [chop.refresh\_docs.bob-cli.3\_052834.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.3\_052834.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.3\_686898.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.3_686898.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |

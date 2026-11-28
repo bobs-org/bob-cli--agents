@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| — | `bb24471` | docs: refresh onboarding and current workflow contracts | 2026-10-04 03:19:00 EDT |
+| bob-cli | [`bb24471`](https://github.com/bobs-org/bob-cli/commit/bb244716c74c29dbf23a1f5caacf80ad9702b834) | docs: refresh onboarding and current workflow contracts | 2026-10-04 03:19:00 EDT |
 
 ## Neighbors
 
@@ -47,7 +47,7 @@
 | [chop.refresh\_docs.bob-cli.2\_378564.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.2_378564.1/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.2\_378564.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.2_378564.2/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.2\_658983.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.1.md) (session · 5) | chop.refresh\_docs.bob-cli hood | completed 4, failed 1 |
-| [chop.refresh\_docs.bob-cli.2\_658983.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.2/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
+| [chop.refresh\_docs.bob-cli.2\_658983.2](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.2_658983.2.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
 | [chop.refresh\_docs.bob-cli.3\_052834.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.3\_052834.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_052834.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.3\_686898.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_686898.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
