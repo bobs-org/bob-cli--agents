@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`e6395f2`](https://github.com/bobs-org/bob-cli/commit/e6395f2e52f08fce2807f2c1ca86363e3615d51b) | docs: clarify capture and scheduler behavior after source review | 2026-11-18 23:24:09 EST |
+| — | `e6395f2` | docs: clarify capture and scheduler behavior after source review | 2026-11-18 23:24:09 EST |
 
 ## Neighbors
 
@@ -54,8 +54,8 @@
 | [chop.refresh\_docs.bob-cli.3\_686898.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_686898.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.4\_902214.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.4\_902214.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
-| [chop.refresh\_docs.bob-cli.5\_331912.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.1/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
-| [chop.refresh\_docs.bob-cli.5\_331912.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
+| [chop.refresh\_docs.bob-cli.5\_331912.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
+| [chop.refresh\_docs.bob-cli.5\_331912.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.5\_555411.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
 | [chop.refresh\_docs.bob-cli.5\_555411.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.5\_682475.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_682475.1/README.md) | chop.refresh\_docs.bob-cli hood | completed |

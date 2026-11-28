@@ -21,7 +21,7 @@
 
 | Repo | Commit | Subject | Committed |
 |---|---|---|---|
-| bob-cli | [`1786153`](https://github.com/bobs-org/bob-cli/commit/17861536fd1b7a7bb783dc1604bfce57e52377c7) | docs: refresh capture and reference contracts | 2026-10-25 07:08:21 EDT |
+| — | `1786153` | docs: refresh capture and reference contracts | 2026-10-25 07:08:21 EDT |
 
 ## Neighbors
 
@@ -54,8 +54,8 @@
 | [chop.refresh\_docs.bob-cli.3\_930580.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.3_930580.2/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.4\_902214.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.4\_902214.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
-| [chop.refresh\_docs.bob-cli.5\_331912.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.1/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
-| [chop.refresh\_docs.bob-cli.5\_331912.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
+| [chop.refresh\_docs.bob-cli.5\_331912.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
+| [chop.refresh\_docs.bob-cli.5\_331912.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.5\_555411.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |
 | [chop.refresh\_docs.bob-cli.5\_555411.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_555411.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.5\_682475.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_682475.1/README.md) | chop.refresh\_docs.bob-cli hood | completed |

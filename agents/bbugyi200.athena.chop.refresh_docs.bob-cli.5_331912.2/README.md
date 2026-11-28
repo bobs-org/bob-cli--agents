@@ -2,7 +2,7 @@
 
 [Agent Hoods](../../README.md) / [bbugyi200](../../users/bbugyi200/README.md) / [athena](../../users/bbugyi200/machines/athena/README.md) / [chop](../../users/bbugyi200/machines/athena/hoods/chop/README.md) / chop.refresh\_docs.bob-cli.5\_331912.2
 
-**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.2` · **State:** active · **Source run:** `run-bc472df8bb771d1aab771783ba583bb0`
+**Global name:** `bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.2` · **State:** dismissed · **Source run:** `run-bc472df8bb771d1aab771783ba583bb0`
 
 **Owner:** `bbugyi200.athena` · **Project:** bob-cli · **Hood:** chop
 
@@ -10,7 +10,7 @@
 
 - Model: gpt-6-astra
 - Provider: codex
-- Timing: 20261126032351
+- Timing: 2026-11-26T03:23:51
 - Commits: 0
 
 ## Files
@@ -21,7 +21,7 @@
 
 | Agent | Relation | State |
 |---|---|---|
-| [chop.refresh\_docs.bob-cli.5\_331912.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.1/README.md) | chop.refresh\_docs.bob-cli.5\_331912 hood | waiting |
+| [chop.refresh\_docs.bob-cli.5\_331912.1](../bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.1/README.md) | chop.refresh\_docs.bob-cli.5\_331912 hood | dismissed |
 | [chop.refresh\_docs.bob-cli.0\_587608.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.1.md) (session · 5) | chop.refresh\_docs.bob-cli hood | completed 2, dismissed 1, failed 2 |
 | [chop.refresh\_docs.bob-cli.0\_587608.2](../bbugyi200.athena.chop.refresh_docs.bob-cli.0_587608.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.0\_713245.1](../../sessions/bbugyi200.athena.chop.refresh_docs.bob-cli.0_713245.1.md) (session · 3) | chop.refresh\_docs.bob-cli hood | completed 2, failed 1 |

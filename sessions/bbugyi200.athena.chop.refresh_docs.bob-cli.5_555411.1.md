@@ -27,7 +27,7 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 
 | Role | Repo | Commit | Subject | Committed |
 |---|---|---|---|---|
-| 1 | bob-cli | [`e7263d5`](https://github.com/bobs-org/bob-cli/commit/e7263d558aa3d9d1037f7f5c7e2831094d7f064b) | docs: refresh completion, reference capture, and release contracts | 2026-10-28 06:23:35 EDT |
+| 1 | — | `e7263d5` | docs: refresh completion, reference capture, and release contracts | 2026-10-28 06:23:35 EDT |
 
 ## Neighbors
 
@@ -62,8 +62,8 @@ The diagram is an optional enhancement; the ordered table below contains the sam
 | [chop.refresh\_docs.bob-cli.3\_930580.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.3_930580.2/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.4\_902214.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.4\_902214.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.4_902214.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
-| [chop.refresh\_docs.bob-cli.5\_331912.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.1/README.md) | chop.refresh\_docs.bob-cli hood | waiting |
-| [chop.refresh\_docs.bob-cli.5\_331912.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.2/README.md) | chop.refresh\_docs.bob-cli hood | active |
+| [chop.refresh\_docs.bob-cli.5\_331912.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.1/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
+| [chop.refresh\_docs.bob-cli.5\_331912.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_331912.2/README.md) | chop.refresh\_docs.bob-cli hood | dismissed |
 | [chop.refresh\_docs.bob-cli.5\_682475.1](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_682475.1/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.5\_682475.2](../agents/bbugyi200.athena.chop.refresh_docs.bob-cli.5_682475.2/README.md) | chop.refresh\_docs.bob-cli hood | completed |
 | [chop.refresh\_docs.bob-cli.5\_711563.1](bbugyi200.athena.chop.refresh_docs.bob-cli.5_711563.1.md) (session · 7) | chop.refresh\_docs.bob-cli hood | completed 4, failed 3 |
